@@ -1,0 +1,27 @@
+{
+  "subtopic": "Digital arts",
+  "prompt": "Edit image 1: Transform the black and white digital artwork into the vibrant, clean-shaded digital art style observed in image 2, applying color rendering to the subject. Following the hair color, skin color and cloth color in image 2 when applying.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "High quality digital art",
+  "searchQueryGeneratedTimestamp": 1748652155550,
+  "promptGeneratedTimestamp": 1748652207940,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1, the black and white digital artwork of the woman, by transforming it into the vibrant, clean-shaded digital art style observed in image 2. Apply full color rendering to the subject in image 1, specifically adopting the light blonde/brown hair color, light skin tone, and purple/blue clothing color as seen in image 2.",
+  "annotator": "kellycyy",
+  "objects": [
+    "Woman",
+    "Wavy, voluminous hair with light blonde/brown color",
+    "Light skin tone",
+    "Purple/blue checkered/striped top",
+    "Vibrant digital art style",
+    "Clean-shaded rendering",
+    "Beach/ocean background"
+  ],
+  "human_annotation": true
+}

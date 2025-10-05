@@ -1,0 +1,25 @@
+{
+  "subtopic": "Comics",
+  "prompt": "A comic panel (Textual Graphics, Comics) featuring the elegant grand piano from the reference image, placed in a whimsical outdoor setting with speech bubbles and stylized sound effects.",
+  "cond_images": [
+    "1.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1750705611264,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "T",
+  "annotator": "winston",
+  "prompt_refined": "A comic panel in a Textual Graphics style. The elegant, ornate dark wood grand piano from image 1, with its lid open and two candlesticks on top, is prominently placed within a whimsical, vibrant outdoor setting featuring fantastical elements. Include multiple empty speech bubbles, positioned as if dialogue is occurring, and dynamic, stylized onomatopoeic sound effects (e.g., 'BOOM!', 'PLINK!') visually integrated around the grand piano and throughout the comic panel.",
+  "objects": [
+    "comic panel",
+    "Textual Graphics style",
+    "elegant, ornate dark wood grand piano with lid open",
+    "two candlesticks on top of the grand piano",
+    "whimsical outdoor setting",
+    "vibrant outdoor setting",
+    "fantastical elements",
+    "multiple empty speech bubbles",
+    "dynamic, stylized onomatopoeic sound effects"
+  ]
+}

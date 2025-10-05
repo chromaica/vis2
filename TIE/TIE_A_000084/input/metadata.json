@@ -1,0 +1,25 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Renaissance",
+  "prompt": "Zoom in on the group of people under the tree. Adjust the brightness and contrast.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Reframe the image by zooming in on the group of people resting and eating directly beneath the large tree in the lower-right foreground. Enhance the visual quality of the resulting image by optimizing its brightness and contrast.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Large tree (trunk and lower branches)",
+    "Group of people",
+    "People resting on the ground",
+    "People eating from bowls",
+    "Food items",
+    "Scythe",
+    "Harvested field ground",
+    "Straw bundles/sheaves",
+    "Pot or container",
+    "Shaded area under the tree"
+  ],
+  "human_annotation": true
+}

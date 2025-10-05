@@ -1,0 +1,24 @@
+{
+  "task": "SRIG",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": "generate a comic strip inspired by the reference image's style and character design, depicting a rainy day scene where the witch character wears a raincoat in the first panel and rain is visible on the window in the second panel, maintaining the same narrative flow and visual storytelling approach",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a two-panel comic strip in the distinctive illustrative style and character design of image 1.\n\n**Panel 1 (Top Panel):** Create an outdoor scene featuring the witch character from image 1. She should be flying on her broomstick, wearing a distinct raincoat over her typical attire. The scene should clearly depict a rainy day with visible rain falling and an overcast sky, maintaining the wide shot composition and whimsical atmosphere of image 1, including elements like the house and distant landscape.\n\n**Panel 2 (Bottom Panel):** Show the witch character from image 1 indoors, engaged in study at her desk, mirroring the composition of image 1. The circular window to her right should clearly show visible rain streaks and condensation, conveying the ongoing rainy weather outside. Include familiar details from image 1 such as the sleeping cat, stack of books, and laboratory equipment.\n\nThe overall output should maintain the narrative flow and visual storytelling approach established by image 1, presenting a cohesive rainy day sequence.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Two-panel comic strip layout",
+    "Witch character from image 1",
+    "Rainy outdoor scene in the top panel",
+    "Witch flying on a broomstick, wearing a distinct raincoat (top panel)",
+    "Overcast sky (top panel)",
+    "House and distant landscape from image 1 (top panel)",
+    "Witch studying at her desk (bottom panel)",
+    "Circular window with visible rain streaks and condensation (to the witch's right in bottom panel)",
+    "Sleeping cat from image 1 (bottom panel)",
+    "Stack of books and laboratory equipment from image 1 (bottom panel)"
+  ]
+}

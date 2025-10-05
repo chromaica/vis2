@@ -1,0 +1,19 @@
+{
+  "task": "SRIE",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Remove the cats from the source image using the reference mask and inpaint the background naturally.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, depicting two cats on dry ground, by removing the orange cat on the left and the tabby cat on the right. Use image 2, which outlines the cats' positions, to precisely guide the removal. Inpaint the vacated area with a photorealistic, natural extension of the existing dry grass and the blurred background, ensuring a seamless blend.",
+  "annotator": "nimajamali",
+  "objects": [
+    "Dry grass",
+    "Blurred background",
+    "Orange cat on the left (should not be present)",
+    "Tabby cat on the right (should not be present)"
+  ]
+}

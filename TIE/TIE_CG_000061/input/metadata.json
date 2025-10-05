@@ -1,0 +1,21 @@
+{
+  "subtopic": "CAD models",
+  "prompt": "Change the grey material of the valve body to a reflective metallic silver.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751763009686,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1: Convert the grey material of the valve body to a reflective metallic silver.",
+  "annotator": "edisy",
+  "objects": [
+    "valve body with reflective metallic silver material",
+    "red valve handle",
+    "white background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,27 @@
+{
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "A computer graphics illustration depicting semantic segmentation: utilize the scene structure of a person using a laptop from image 2, focusing on the segmented regions of the hands and face with the clarity and composition similar to image 1, rendered with overlaid color masks highlighting different semantic parts.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748423007021,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a computer graphics illustration demonstrating semantic segmentation. The scene should feature a person actively using a laptop, drawing inspiration from the setup and elements observed in image 2. Crucially, the hands on the keyboard and the person's face should be prominently displayed, rendered with the exceptional clarity and compositional emphasis characteristic of image 1. Overlaid color masks must clearly highlight the distinct semantic regions of both the hands and the face.",
+  "annotator": "winston",
+  "objects": [
+    "Person",
+    "Laptop",
+    "Hands on the keyboard",
+    "Person's face",
+    "Overlaid color masks highlighting hands and face",
+    "Desk",
+    "Plant",
+    "Phone"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

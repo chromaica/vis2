@@ -1,0 +1,26 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "Apply the content of the first image while adopting the artistic style of the second image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "https://www.freepik.com/free-vector/various-screens-violet-public-transport-mobile-app_10504567.htm#fromView=keyword&page=1&position=5&uuid=7c00a504-f986-4114-89f4-757be123b8af&query=Ui+Mockup",
+  "prompt_refined": "Edit image 1. Retain all user interface components, text, and their layout from image 1, specifically the three mobile application screens. Apply the artistic style of image 2, transforming the UI elements to have a dark, futuristic, and glowing appearance, incorporating the neon lights, concentric circular patterns, and scattered star-like elements from image 2.",
+  "annotator": "Johnny",
+  "objects": [
+    "Three mobile application screens",
+    "All user interface components (e.g., input fields, buttons, icons, navigation bars)",
+    "All text from the original UI",
+    "Dark appearance of UI elements",
+    "Glowing appearance of UI elements",
+    "Futuristic appearance of UI elements",
+    "Neon light elements",
+    "Concentric circular patterns",
+    "Scattered star-like elements",
+    "Overall dark background"
+  ],
+  "human_annotation": true
+}

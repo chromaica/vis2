@@ -1,0 +1,18 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Textual Tattoos",
+  "prompt": "Depict a photo-realistic wrist tattoo: the word 'Brave' inked in a worn, black vintage serif script directly onto skin.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A photo-realistic wrist tattoo displaying the word 'Brave' in a worn, black, vintage serif script, inked directly onto the skin.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "A human wrist",
+    "A tattoo on the wrist",
+    "The word \"Brave\"",
+    "Black tattoo ink",
+    "Worn tattoo texture",
+    "Vintage serif script"
+  ]
+}

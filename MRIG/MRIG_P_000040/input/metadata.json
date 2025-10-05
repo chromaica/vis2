@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Generate a cyberpunk street scene set in a neon-lit urban sprawl at night, inspired by the environment and atmosphere of the second image. Feature a futuristic, hovering vehicle as the centerpiece, designed with the sleek structure, color palette, and stylistic details of the car in the first reference image, but upgraded with cyberpunk elements like glowing neon accents and anti-gravity tech. The vehicle hovers slightly above the street, emitting a soft neon glow.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic image depicting a narrow cyberpunk street scene at night. The environment should be a dense urban sprawl, heavily inspired by the towering buildings, deep perspective, and overwhelming vibrant neon lighting (predominantly pinks, blues, and purples) characteristic of image 2. The wet street should prominently reflect these intense neon lights, enhancing the atmospheric glow.\n\nCentered prominently in the foreground, feature a futuristic, hovering vehicle. This vehicle's design should adopt the elegant, elongated body shape, classic white color palette, prominent front fenders, and distinctive grille structure of the vintage car in image 1. However, transform it with cyberpunk elements: replace traditional wheels with anti-gravity tech, allowing it to hover slightly above the wet pavement. Add glowing neon accents along its chassis and underside, emitting a soft, diffused neon light that casts reflections onto the street below.",
+  "objects": [
+    "Narrow cyberpunk street scene at night",
+    "Dense urban sprawl with towering buildings",
+    "Deep perspective",
+    "Overwhelming vibrant neon lighting (predominantly pinks, blues, and purples)",
+    "Wet street",
+    "Reflections of intense neon lights on the wet street",
+    "Futuristic, hovering vehicle (centered prominently in the foreground)",
+    "Vehicle with elegant, elongated white body, prominent front fenders, and distinctive grille structure",
+    "Glowing neon accents along vehicle's chassis and underside",
+    "Soft, diffused neon light cast from vehicle onto the street"
+  ]
+}

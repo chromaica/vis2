@@ -1,0 +1,27 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "In the first image, replace the cat's head with the dog's head from the second image, and replace the yellow flower with the pink lily from the third image.",
+  "cond_images": [
+    "1.jpg",
+    "2.png",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the cat's head with the dog's head from image 2. Additionally, replace the yellow sunflower, located near the cat's right ear, with the pink lily from image 3. Ensure all new elements are seamlessly integrated into the style of the original artwork.",
+  "annotator": "paria",
+  "objects": [
+    "Dog's head",
+    "Figure's body/robe",
+    "Blue headscarf/turban",
+    "Pearl earring",
+    "Pink lily (near the figure's right ear)",
+    "Blue butterfly",
+    "White and black butterfly",
+    "Orange butterfly",
+    "Cat's head (should not be present)",
+    "Yellow sunflower (should not be present)"
+  ],
+  "human_annotation": true
+}

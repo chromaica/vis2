@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "Game assets",
+  "prompt": "A circling heart animation sprite sheet, 6 frames, 64x64, pixel art style, transparent background.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a 6-frame pixel art sprite sheet depicting a heart rotating in a circular motion. Each individual frame within the sheet must be 64x64 pixels, with a transparent background, and the frames should be arranged horizontally.",
+  "annotator": "maxku",
+  "objects": [
+    "6-frame sprite sheet",
+    "pixel art style",
+    "heart (main subject)",
+    "heart rotating (animated state)",
+    "heart in circular motion (animated path)",
+    "64x64 pixel individual frames",
+    "transparent background for each frame",
+    "frames arranged horizontally"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

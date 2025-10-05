@@ -1,0 +1,30 @@
+{
+  "subtopic": "Software interfaces",
+  "prompt": "Generate a screenshot of a clean, modern design project management interface dashboard. Display gantt charts in the interface. Use the general layout structure and the color palette from the reference image.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://www.nuclino.com/img/alternatives/trello-alternative-jira.png",
+  "searchQueryGenerated": "Clean modern professional software interface screenshot",
+  "searchQueryGeneratedTimestamp": 1749416525931,
+  "promptGeneratedTimestamp": 1749416619012,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a screenshot of a clean, modern project management interface. Display interactive Gantt charts as the primary content in the main display area. The overall layout structure, including the blue left navigation sidebar, the top browser bar, and the general arrangement of header elements, must replicate image 1. Utilize the exact color palette from image 1, featuring its distinctive white, blue, and gray tones.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Top browser bar",
+    "Blue left navigation sidebar",
+    "Project logo/icon on the top left of the sidebar",
+    "Project name (\"Teams in Space Software project\") in the top left of the sidebar",
+    "Navigation menu items (e.g., Backlog, Board, Reports, Settings) in the sidebar",
+    "User profile picture at the bottom left of the sidebar",
+    "Header title (e.g., \"Gantt Chart\") in the main content area",
+    "Search bar and Quick Filters in the main content header",
+    "\"Release\" button in the main content header",
+    "Interactive Gantt charts as the primary content in the main display area"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

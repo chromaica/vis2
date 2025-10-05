@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Visual instructions and manuals",
+  "prompt": "A medieval illuminated-manuscript recipe page giving step-by-step visual instructions for brewing 3D-printed bread, with gold leaf borders and ribboned callouts",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a full-page image of an exquisitely detailed medieval illuminated manuscript. This manuscript page functions as a recipe, visually depicting step-by-step instructions for 'brewing 3D-printed bread'. The entire page is framed by intricate, shimmering gold leaf borders. Within the page's layout, all key textual labels, instructions, or callouts are presented within elegantly flowing, ribbon-like banners. The visual style should be authentic to medieval illuminated manuscripts, seamlessly integrating the anachronistic concepts of 3D printing and brewing within its historical aesthetic.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Medieval illuminated manuscript page",
+    "Intricate, shimmering gold leaf borders",
+    "Elegantly flowing, ribbon-like banners",
+    "Key textual labels, instructions, or callouts within banners",
+    "Visual depiction of step-by-step instructions",
+    "Imagery of 3D printing equipment (integrated into medieval aesthetic)",
+    "Imagery of brewing equipment (integrated into medieval aesthetic)",
+    "Images of 3D-printed bread",
+    "Medieval-style human figures (depicting actions)",
+    "Ornamental illustrations and embellishments"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "subtopic": "Depth maps",
+  "prompt": "Generate a depth map visualization of the cartoon butterfly character from image 1. The character is performing the 'See No Evil' pose, covering its eyes, referencing the poses seen in image 2. Render as a grayscale depth map for computer graphics analysis.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748421764348,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a grayscale depth map of the cartoon butterfly character from image 1. The butterfly should be depicted performing the 'See No Evil' pose, covering its eyes with its appendages, mirroring the pose of the leftmost dog in image 2. The resulting image should be a technical depth map suitable for computer graphics analysis.",
+  "annotator": "winston",
+  "objects": [
+    "Grayscale depth map representation",
+    "Cartoon butterfly character",
+    "Butterfly's body",
+    "Butterfly's wings",
+    "Butterfly's antennae",
+    "Butterfly's appendages covering its eyes",
+    "Butterfly's eyes (obscured by appendages)",
+    "Butterfly in 'See No Evil' pose"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "Cross-section of a plant leaf under a microscope, revealing cell structures in vibrant greens.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Photorealistic close-up view of a microscopic cross-section of a plant leaf, revealing clearly defined, intricate cellular structures. The cells exhibit vibrant green coloration and are sharply contrasted against a dark background.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Microscopic cross-section of a plant leaf",
+    "Clearly defined cellular structures",
+    "Intricate cellular structures",
+    "Cells with vibrant green coloration",
+    "Dark background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,24 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Facial estimation and analysis",
+  "prompt": "Apply the facial expression and apparent age style of the reference image to the source face.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Apply the facial expression and apparent age style from image 2 to the face in image 1. Emphasize the eye shape, eyebrow position, and the visible wrinkles around the eyes from image 2 on the corresponding areas of the face.",
+  "annotator": "nimajamali",
+  "objects": [
+    "A person",
+    "A face with an apparent older age",
+    "A facial expression influenced by the reference eyes",
+    "Eyes with the specific shape from the reference image",
+    "Eyebrows with the specific position and shape from the reference image",
+    "Prominent wrinkles around the eyes",
+    "Short brown hair",
+    "A towel with a Spiderman pattern",
+    "An out-of-focus background"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Pixel arts",
+  "prompt": "Make the output into 21:9 aspect ratio. Expand the scene horizontally, such that it becomes an infinite side-scrolling scene.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, a pixel art landscape featuring a grassy field with colorful flowers under a bright blue sky with clouds. Expand the scene horizontally on both the left and right sides to achieve a 21:9 aspect ratio for the output. The added content must seamlessly continue the existing pixel art style, extending the foreground grass, middle ground field, and the sky with clouds, creating a continuous and visually repeatable side-scrolling environment.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "pixel art style landscape",
+    "grassy foreground",
+    "grassy middle ground",
+    "colorful flowers",
+    "bright blue sky",
+    "clouds"
+  ]
+}

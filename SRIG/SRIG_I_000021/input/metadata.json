@@ -1,0 +1,28 @@
+{
+  "subtopic": "UI mockups",
+  "prompt": "Generate UI mockup for AI-powered note taking app. The page will be shown after the user clicks \"Science in Motion\" in the referenced image.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/00/60/34/006034fa-9c8f-7888-2e41-e206f33c238d/iPadOS_Home.png/643x0w.jpg",
+  "promptGeneratedTimestamp": 1749894307703,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate a UI mockup for an AI-powered note-taking application. This new screen should represent the user view after tapping the 'Science in motion' notebook card in image 1. Maintain the overall clean, modern design aesthetic and top bar elements (e.g., 'NotebookLM' logo on the left, profile icon on the right) from image 1.\n\nThe main content area should be dedicated to the 'Science in motion' notebook. Display 'Science in motion' as a prominent header at the top of this area. Below the header, on the left, feature an AI-generated summary of the notebook's content. To the right of the summary, include a section listing the '6 Sources' mentioned in image 1, with clickable elements to view each source. Below these primary content sections, integrate an interactive AI chat interface for asking questions about the 'Science in motion' content. A persistent bottom navigation bar should be present, featuring clear icons or labels for key functionalities such as 'Chat', 'Sources', and 'Notes', consistent with the app's design language.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Top status bar (time, signal, battery)",
+    "Top bar with 'NotebookLM' logo on the left",
+    "Top bar with profile icon on the right",
+    "'Science in motion' prominent header",
+    "AI-generated summary of notebook content on the left",
+    "Section listing '6 Sources' with clickable elements on the right",
+    "Interactive AI chat interface",
+    "Persistent bottom navigation bar",
+    "'Chat' icon/label in bottom navigation bar",
+    "'Sources' icon/label in bottom navigation bar",
+    "'Notes' icon/label in bottom navigation bar"
+  ],
+  "human_annotation": true
+}

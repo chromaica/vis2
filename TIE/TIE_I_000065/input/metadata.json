@@ -1,0 +1,25 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Apply bold, high-contrast colors to enhance the appearance of this graph.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the 'Stages of the Risk Process' circular information graphic. Apply a bold, high-contrast color scheme to all elements of the diagram, including the central circle, outer segments, text labels, and connecting arrows. The purpose is to significantly improve the visual distinction and overall impact of the graphic.",
+  "annotator": "cwhsu",
+  "objects": [
+    "\"Stages of the Risk Process\" title",
+    "Central circular diagram structure",
+    "\"Quality Assurance Process (all stages)\" text label",
+    "\"Risk Identification\" circular node",
+    "\"Risk Identification\" text label",
+    "\"Monitoring\" text label",
+    "\"Ex ante control\" text label",
+    "\"Aggregation\" text label",
+    "\"Quantification of Risk & Capital\" text label",
+    "Circular connecting arrows"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "Edit image 1: Add a avatar on the map. One avatar standing in Fort worth, wearing the Marshmello mask and blue jacket from image 2. Another avatar standing in Ennis, should wear the Keroro frog mask from image 3, maintaining the map's informational graphic style.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Modify image 1, the provided map graphic.\nAdd two new avatars to the map, ensuring they match the existing informational graphic and cartoonish avatar style found in image 1:\n\n1.  Place the first avatar near the city label 'Fort Worth'. This avatar should feature the Marshmello mask and the blue jacket as seen in image 2.\n2.  Place the second avatar near the city label 'Ennis'. This avatar should feature the Keroro frog mask from image 3.",
+  "annotator": "maxku",
+  "objects": [
+    "Map graphic of Dallas-Fort Worth area",
+    "City labels (e.g., Fort Worth, Ennis, Dallas)",
+    "Existing cartoonish avatars",
+    "Circular UI element at bottom center",
+    "New cartoonish avatar near Fort Worth",
+    "Marshmello mask on avatar near Fort Worth",
+    "Blue jacket on avatar near Fort Worth",
+    "New cartoonish avatar near Ennis",
+    "Keroro frog mask on avatar near Ennis",
+    "Roads and water bodies on the map"
+  ]
+}

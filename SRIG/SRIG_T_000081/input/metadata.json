@@ -1,0 +1,26 @@
+{
+  "subtopic": "Posters",
+  "prompt": "Generate the 2nd and 3rd minimalist textual poster about graphic design or typography, hanging on a wall, so that it can form a sentence with the 1st poster in the image. Feature large, overlapping text elements in a bold, flat graphic style. Adopt the clean layout and high-contrast color scheme similar to the reference poster image.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://thechristianpostercompany.com/cdn/shop/files/Iampinkparquetnew.jpg?v=1738686616&width=1445",
+  "promptGeneratedTimestamp": 1750500620723,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "T",
+  "prompt_refined": "Generate two new minimalist textual posters, to be displayed as a visual series with image 1. Position these new posters vertically aligned to the right of image 1, on a plain light-colored wall with a light wooden floor visible below, matching the setting of image 1. Each of the three posters (image 1 included) must feature large, overlapping text elements in a bold, flat graphic style, utilizing the high-contrast hot pink and orange text on a white background, mirroring image 1's aesthetic. The text across the three posters should collectively form a complete sentence, such as 'I AM GRAPHIC DESIGN' or 'I AM TYPOGRAPHY'. Image 1 displays 'I AM', with the subsequent posters completing the phrase, relating to graphic design or typography.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Original minimalist textual poster (Image 1)",
+    "Second minimalist textual poster (vertically aligned to the right of Image 1)",
+    "Third minimalist textual poster (vertically aligned below the second poster, to the right of Image 1)",
+    "Plain light-colored wall",
+    "Light wooden floor",
+    "Large, overlapping text 'I AM' (on original poster)",
+    "Large, overlapping text completing the phrase (on second poster)",
+    "Large, overlapping text completing the phrase (on third poster)",
+    "High-contrast hot pink text",
+    "High-contrast orange text"
+  ]
+}

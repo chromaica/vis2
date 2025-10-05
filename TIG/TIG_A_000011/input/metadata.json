@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Traditional art",
+  "prompt": "A serene ink sketch depicting a tranquil Japanese garden, complete with a koi pond and delicate cherry blossoms.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A serene ink sketch depicting a tranquil Japanese garden. A prominent, reflective koi pond in the center features several gracefully swimming koi. Above and around the pond, delicate cherry trees with soft pink blossoms gently arc, with some petals drifting onto the pond's calm surface.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Japanese garden",
+    "Ink sketch style",
+    "Koi pond in the center",
+    "Reflective pond surface",
+    "Several swimming koi",
+    "Cherry trees above and around the pond",
+    "Soft pink cherry blossoms",
+    "Arcing cherry tree branches",
+    "Cherry petals drifting on pond surface"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,26 @@
+{
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Create an information graphic using the subway map structure from image 2. Incorporate data visualizations like bar and line graphs from image 1 at the map nodes. Vector style diagram.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1750601760647,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "I",
+  "annotator": "htwong",
+  "prompt_refined": "Generate an information graphic. The core layout should be a multi-colored, stylized subway map network, replicating the structure and visual complexity seen in image 2. At each distinct map node, integrate various 2D vector data visualizations, specifically horizontal bar graphs, vertical bar graphs, and line graphs, drawing inspiration from the flat, clean visual style presented in image 1. Ensure the entire graphic maintains a clear, concise vector diagram aesthetic.",
+  "objects": [
+    "Multi-colored, stylized subway map network",
+    "Complex network structure (similar to Image 2)",
+    "Distinct map nodes",
+    "Horizontal bar graphs (integrated at map nodes)",
+    "Vertical bar graphs (integrated at map nodes)",
+    "Line graphs (integrated at map nodes)",
+    "Flat, clean visual style (for data visualizations)",
+    "Clear, concise vector diagram aesthetic",
+    "Text labels"
+  ]
+}

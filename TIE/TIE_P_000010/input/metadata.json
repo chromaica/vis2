@@ -1,0 +1,17 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "remove all the white-blood-cell precursors - blasts from the image",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "you should not see any purple blobs after a successful editing",
+  "prompt_refined": "Edit image 1 to remove all white-blood-cell precursors (blasts), seamlessly replacing them with the existing background texture.",
+  "annotator": "theblackcat",
+  "objects": [
+    "white-blood-cell precursors (blasts) (should not be present)",
+    "microscopic background texture (white/light blue)"
+  ],
+  "human_annotation": true
+}

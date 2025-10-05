@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "Edit image 1 by adding the Carrefour logo from image 2 next to the 'Groceries' category label, scaled to match the height of the banana icon. Add the green checkmark icon from image 3 next to the total spending amount \u00a384.54 in the top-right to indicate a verified statement. Leave all values, progress bars, and fonts untouched.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the screenshot in image 1. Add the Carrefour logo from image 2 to the right of the 'Groceries' category label. The entire Carrefour logo (including its text) should be scaled proportionally so its total height matches the height of the banana icon associated with the 'Groceries' category. Additionally, add the green checkmark icon from image 3 to the immediate left of the '\u00a384.54' total spending amount, which is located in the top-right section of the screen. Ensure the checkmark icon is appropriately sized for UI integration without obscuring existing elements. Do not alter any existing numerical values, progress bars, or font styles within image 1.",
+  "annotator": "parnian",
+  "objects": [
+    "Carrefour logo (to the right of the 'Groceries' category label)",
+    "Green checkmark icon (to the immediate left of the '\u00a384.54' total spending amount)",
+    "Spending app user interface (as seen in image 1)",
+    "'Groceries' category label",
+    "Banana icon (associated with the 'Groceries' category)",
+    "'\u00a384.54' total spending amount",
+    "'Targets' navigation item",
+    "'Spending' screen title",
+    "\u00a3915.46 total spending and associated progress bar",
+    "Remaining spending categories (e.g., 'Eating Out', 'Transport', 'Bills', 'Expenses', 'Cash', 'Holidays')"
+  ]
+}

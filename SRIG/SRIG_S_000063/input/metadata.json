@@ -1,0 +1,24 @@
+{
+  "subtopic": "Websites",
+  "prompt": "Based on the provided clean, corporate website screenshot to generate a vibrant, chaotic page with a vaporwave aesthetic, using pink and teal neon, roman busts, and glitch art effects.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "https://www.sliderrevolution.com/wp-content/uploads/2021/09/Conbiz.jpg",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a vibrant, chaotic webpage, transforming the clean corporate design of image 1 into a full vaporwave aesthetic. The page should heavily feature pink and teal neon elements. Integrate classical Roman busts as key visual motifs, with one prominently replacing the large image of the person on the right side of the page from image 1. Apply pervasive glitch art effects throughout the entire layout, including text, graphics, and background, to create a highly distorted and digitally chaotic appearance.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Webpage structure/layout",
+    "Website header (logo, navigation links, phone number display)",
+    "Main text content (e.g., \"Business & Technology Consulting\")",
+    "Call-to-action button (\"Free Consultation\")",
+    "Classical Roman bust on the right side of the page",
+    "Other classical Roman busts (as visual motifs)",
+    "Pink neon elements",
+    "Teal neon elements",
+    "Pervasive glitch art effects",
+    "The person from image 1 (should not be present)"
+  ]
+}

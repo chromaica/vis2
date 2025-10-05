@@ -1,0 +1,24 @@
+{
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Create a conference agenda infographic using the vertical timeline format from the given schedule table.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://www.slideteam.net/wp/wp-content/uploads/2023/12/Conference-Schedule-for-Five-Working-Days-1.png",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate a professional, visually appealing conference agenda infographic. The infographic must utilize a clear vertical timeline format, precisely extracting all schedule data from image 1.\n\nOn the far left, create a vertical time axis, clearly marking the time intervals from 7:30 AM to 6:30 PM, mirroring the structure in image 1. For each of the five days (Monday through Friday) listed horizontally at the top of image 1, create a distinct vertical section or column that aligns with the main time axis.\n\nPopulate each day's section with its corresponding event names and durations, as shown in image 1. Visually differentiate event types by applying a color scheme similar to that used in image 1 (e.g., light green for registration/breaks, light blue for preconference/sessions, darker blue for plenaries/blocks, and yellow/orange for talks/exhibits). Ensure the overall design effectively conveys the multi-day schedule in an easy-to-read, chronological vertical flow.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Professional conference agenda infographic",
+    "Vertical time axis (7:30 AM - 6:30 PM) on the far left",
+    "Five distinct vertical columns labeled Monday through Friday at the top",
+    "Event name text within each day's section",
+    "Event duration text (e.g., \"90 Minutes\", \"60 -Minutes\")",
+    "Light green colored blocks for registration/breaks",
+    "Light blue colored blocks for preconference/sessions",
+    "Darker blue colored blocks for plenaries/blocks",
+    "Yellow/orange colored blocks for talks/exhibits",
+    "\"Conference Schedule for Five Working Days\" title"
+  ]
+}

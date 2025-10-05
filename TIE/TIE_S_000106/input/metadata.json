@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "QR codes",
+  "prompt": "Replace the wooden blocks in the QR code with glowing neon blocks to create a futuristic look, keeping the overall structure intact.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace all the wooden blocks that form the central QR code with glowing neon blocks. Ensure the precise pattern and structure of the QR code remain fully intact to preserve its functionality, creating a distinctly futuristic visual style.",
+  "annotator": "cwhsu",
+  "objects": [
+    "\"ANGRY BIRDS\" title",
+    "Red Angry Bird",
+    "QR code formed by glowing neon blocks",
+    "Green pigs",
+    "Blue ice block structure",
+    "Green grassy foreground",
+    "Dark blue layered ground",
+    "Light blue sky background",
+    "Background silhouettes of structures"
+  ],
+  "human_annotation": true
+}

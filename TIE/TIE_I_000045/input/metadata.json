@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Apply a metallic foil texture to each bar, enhancing with reflective light effects for a sleek, modern look.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the provided bar chart. Apply a metallic foil texture to each of the five horizontal bars. Enhance these bars with prominent reflective light effects, giving them a sleek and modern appearance.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Five horizontal bars with metallic foil texture and reflective light effects",
+    "\"Lorem ipsum\" text label",
+    "\"Per mazim\" text label",
+    "\"Suas impedit\" text label",
+    "\"Ese praesent\" text label",
+    "\"Dolor sit\" text label",
+    "Vertical grid lines",
+    "Horizontal axis numeric labels",
+    "Circular markers on the horizontal axis",
+    "Bar chart background"
+  ]
+}

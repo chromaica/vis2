@@ -1,0 +1,26 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Facial estimation and analysis",
+  "prompt": "Swap the eyes in the source image with those from the reference image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the headshot of the man. Replace the light blue eyes of the man in image 1 with the dark eyes from image 2.",
+  "annotator": "nimajamali",
+  "objects": [
+    "headshot of a man",
+    "man's face",
+    "man's brown hair",
+    "man's nose",
+    "man's mouth",
+    "man's ears",
+    "man's shirt",
+    "blue background",
+    "dark eyes",
+    "light blue eyes (should not be present)"
+  ],
+  "human_annotation": true
+}

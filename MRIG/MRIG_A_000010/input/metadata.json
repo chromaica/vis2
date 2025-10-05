@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "A digital portrait artwork of the head of the man from image 1, rendered in the vibrant, iridescent, and holographic digital art style with dramatic lighting seen in image 2.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a digital portrait artwork of the man's head from image 1, including his short brown hair and beard. Render the portrait in the vibrant, highly reflective, iridescent, and holographic digital art style of image 2, showcasing the characteristic shifting neon blues, purples, and pinks. The image should feature the dramatic lighting from image 2, creating sharp highlights and deep shadows against a dark background for a striking metallic and glossy appearance.",
+  "annotator": "samin",
+  "objects": [
+    "man's head (from image 1)",
+    "short brown hair (from image 1)",
+    "beard (from image 1)",
+    "vibrant, highly reflective art style",
+    "iridescent and holographic effects",
+    "shifting neon blues, purples, and pinks",
+    "dramatic lighting",
+    "sharp highlights",
+    "deep shadows",
+    "dark background"
+  ]
+}

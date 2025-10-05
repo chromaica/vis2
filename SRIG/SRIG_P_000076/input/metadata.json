@@ -1,0 +1,19 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Medical images",
+  "prompt": "a brain MRI based on the reference saliency map.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic brain MRI image. The anatomical features and signal intensity patterns within the MRI should accurately reflect the spatial distribution of the saliency map provided in image 1. Specifically, areas of high saliency (represented by red and yellow regions in image 1, predominantly in the lower right and central-lower parts of the brain outline) should correspond to regions of distinct detail or emphasized structures in the generated MRI.",
+  "annotator": "samin",
+  "objects": [
+    "photorealistic brain MRI image",
+    "anatomical brain features",
+    "MRI signal intensity patterns",
+    "emphasized structures in the lower right part of the brain",
+    "emphasized structures in the central-lower part of the brain"
+  ]
+}

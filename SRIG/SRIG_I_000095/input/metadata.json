@@ -1,0 +1,26 @@
+{
+  "subtopic": "Visual instructions and manuals",
+  "prompt": "Based on the provided photo of a set of jumper cables in flat design, create a do's and don'ts infographic for jump-starting a car, clearly illustrating the correct and incorrect cable connections to the battery terminals.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "https://www.shutterstock.com/image-vector/jumper-cables-vector-cartoon-set-600nw-2483408773.jpg",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate a flat design infographic that guides users on jump-starting a car, specifically focusing on car battery connections. The visual style of the jumper cables in the infographic must replicate the red and black flat design elements seen in image 1. Divide the infographic into two distinct vertical panels: the left panel, labeled 'Do's', will illustrate the correct connection of jumper cables to a car battery (red clamp to positive terminal, black clamp to negative terminal). The right panel, labeled 'Don'ts', will show a common incorrect connection, such as reversed polarity (red clamp to negative terminal, black clamp to positive terminal), clearly indicating the wrong method. Both panels should feature a car battery with clearly visible and labeled positive (+) and negative (-) terminals.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "flat design infographic",
+    "left vertical panel labeled 'Do's'",
+    "right vertical panel labeled 'Don'ts'",
+    "car battery in the left panel",
+    "car battery in the right panel",
+    "jumper cables with red clamp to positive (+) terminal and black clamp to negative (-) terminal in the left panel",
+    "jumper cables with red clamp to negative (-) terminal and black clamp to positive (+) terminal in the right panel",
+    "clearly visible and labeled positive (+) terminals on both batteries",
+    "clearly visible and labeled negative (-) terminals on both batteries",
+    "visual indication of wrong method on the right panel"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

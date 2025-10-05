@@ -1,0 +1,28 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Generate the packaging for an organic beauty brand using the elegant floral monogram in Image 1 and the blank product box from Image 2 and the color palate in Image 3.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate product packaging for an organic beauty brand. Integrate the elegant black floral monogram (the letter 'R' adorned with a flower and leaves) from Image 1, placing it prominently on the front of the blank white product box and the accompanying white jar from Image 2. Apply the soft pastel 'Powder Blue' color palette from Image 3 for all other design elements on both the box and jar, such as background, patterns, or secondary text.",
+  "annotator": "parnian",
+  "objects": [
+    "Product box for an organic beauty brand",
+    "Product jar for an organic beauty brand",
+    "Elegant black floral monogram (letter 'R' adorned with a flower and leaves) prominently on the front of the product box",
+    "Elegant black floral monogram (letter 'R' adorned with a flower and leaves) prominently on the front of the product jar",
+    "Background design on the product box in a soft pastel 'Powder Blue' color palette",
+    "Patterns on the product box in a soft pastel 'Powder Blue' color palette",
+    "Secondary text on the product box in a soft pastel 'Powder Blue' color palette",
+    "Background design on the product jar in a soft pastel 'Powder Blue' color palette",
+    "Patterns on the product jar in a soft pastel 'Powder Blue' color palette",
+    "Secondary text on the product jar in a soft pastel 'Powder Blue' color palette"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

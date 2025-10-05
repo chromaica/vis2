@@ -1,0 +1,29 @@
+{
+  "subtopic": "Websites",
+  "prompt": "Edit image 1: Apply the visual style of the purple 'schedule' button from image 2 to the 'Donate Now' button, changing its color to match and adopting the same rounded shape for a distinct look.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751013280977,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit image 1: Transform the red 'Donate Now' button, located centrally within the hero section of the webpage, by applying the visual style of the purple 'schedule' button from image 2. Specifically, change its color to precisely match the purple hue of the 'schedule' button and reshape it to adopt its distinct rounded-corner rectangular form. The 'schedule' button in image 2 is found on the dark gray bar, to the right of the '30 & 31 January 2016' text.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Salvation Army website layout",
+    "Header navigation bar",
+    "Salvation Army logo",
+    "Hero section with forest fire background",
+    "\"FIGHTING CALIFORNIA WILDFIRES\" text",
+    "\"Your donation will help feed first responders\" text",
+    "Purple, rounded-corner 'Donate Now' button in the hero section",
+    "Lower section with text \"The Salvation Army exists...\"",
+    "Lower section with text \"LEARN HOW YOU CAN HELP\"",
+    "Image thumbnails at the bottom (Help Rescue Christmas, LGBTQ Support, Disaster Relief, Homeless Shelters)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

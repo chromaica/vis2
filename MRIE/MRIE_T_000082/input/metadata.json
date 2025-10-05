@@ -1,0 +1,28 @@
+{
+  "subtopic": "Posters",
+  "prompt": "Edit image 1 (the retro poster). Replace the large text 'RETRO PRODUCTS' with new text in the bold, brush font style of image 3. Replace the smaller text 'Sorry Were Closed' with new text in the handwritten script style of image 2.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1750178594508,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "T",
+  "prompt_refined": "Edit image 1, the retro poster. In the top-right area, replace the large text 'RETRO PRODUCTS' with new text, applying the bold, brush font style from image 3. In the bottom-right area, replace the smaller text 'Sorry Were Closed' with new text, using the handwritten script style from image 2.",
+  "annotator": "winston",
+  "objects": [
+    "retro poster with various text blocks and geometric shapes",
+    "poster frame",
+    "new text in the top-right area, in bold, brush font style",
+    "new text in the bottom-right area, in handwritten script style",
+    "'RETRO PRODUCTS' text (should not be present)",
+    "'Sorry Were Closed' text (should not be present)",
+    "text 'RETRO'",
+    "text 'Quality'",
+    "text 'FOR HIGH'",
+    "text 'POSTER'"
+  ]
+}

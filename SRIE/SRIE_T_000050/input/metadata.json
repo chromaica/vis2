@@ -1,0 +1,24 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": "Insert this headline and photo into the paper\u2019s front page",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the front page of the newspaper in image 2. Replace the large headline 'CITY UNDER SIEGE' at the top with the new headline text: 'jim A. Will, Jod Smith... Ah, esse Sam Brages tem boas raz\u00f5es para ser o vingador.'. This text is derived from the speech bubble in image 1. Below this new headline, replace the current large photograph of the city under smoke with the entire black-and-white comic panel featuring the superhero from image 1. Ensure the inserted headline text and comic panel retain their distinct black-and-white comic style as seen in image 1, seamlessly integrated into the newspaper layout of image 2.",
+  "annotator": "matina",
+  "objects": [
+    "Newspaper front page",
+    "Hands holding newspaper",
+    "Headline text: 'jim A. Will, Jod Smith... Ah, esse Sam Brages tem boas raz\u00f5es para ser o vingador.'",
+    "Black-and-white comic panel featuring a superhero",
+    "Newspaper body text",
+    "Original large headline 'CITY UNDER SIEGE' (should not be present)",
+    "Original large photograph of city under smoke (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

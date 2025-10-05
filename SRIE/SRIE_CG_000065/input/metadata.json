@@ -1,0 +1,23 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Image Transformation",
+  "prompt": "Rotate only the masked tree 30\u00b0 clockwise in the source image.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 by rotating the leftmost tree, precisely as defined by the mask in image 2, by 30 degrees clockwise.",
+  "annotator": "nimajamali",
+  "objects": [
+    "grassy field",
+    "leftmost tree (rotated)",
+    "small tree behind leftmost tree (rotated)",
+    "middle tree",
+    "rightmost bare tree",
+    "cloudy sky"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

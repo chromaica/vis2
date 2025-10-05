@@ -1,0 +1,24 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Recolor the masked area to match Google\u2019s whole color palet",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 2. Recolor the 'o' letter highlighted by the black mask to visibly incorporate the full Google color palette (blue, red, yellow, green), using image 1 as a reference for the exact shades.",
+  "annotator": "matina",
+  "objects": [
+    "Blue 'G' letter",
+    "First 'o' letter, incorporating blue, red, yellow, and green colors",
+    "Yellow 'o' letter",
+    "Blue 'g' letter",
+    "Green 'l' letter",
+    "Red 'e' letter",
+    "White background",
+    "Black mask (should not be present)"
+  ],
+  "human_annotation": true
+}

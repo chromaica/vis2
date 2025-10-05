@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "Design a blockchain icon as interconnected golden rings floating in space",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a digital image depicting a blockchain icon. The icon is composed of several polished, interconnected golden rings. These rings are gently floating in the dark, expansive void of outer space, with subtle, distant stars in the background.",
+  "annotator": "theblackcat",
+  "objects": [
+    "several rings",
+    "polished rings",
+    "interconnected rings",
+    "golden rings",
+    "dark outer space void",
+    "subtle distant stars"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

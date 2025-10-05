@@ -1,0 +1,24 @@
+{
+  "subtopic": "3D renders",
+  "prompt": "Generate a realistic 3D render of a vintage sports car, capturing the metallic material and studio lighting style of the reference image, isolated on a bright background.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://boudewijnhuijgens.getarchive.net/amp/media/technology-3d-visualization-computer-graphics-science-technology-67697e",
+  "promptGeneratedTimestamp": 1748767726814,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a new, realistic 3D render of a vintage sports car. The render should replicate the distinct iridescent purple metallic material and the clean, highly reflective studio lighting style observed in image 1. The car must be isolated on a bright, subtly reflective background.",
+  "annotator": "ishengfang",
+  "objects": [
+    "realistic 3D render",
+    "vintage sports car",
+    "iridescent purple metallic car material",
+    "clean studio lighting",
+    "highly reflective lighting",
+    "bright background",
+    "subtly reflective background",
+    "isolated car"
+  ]
+}

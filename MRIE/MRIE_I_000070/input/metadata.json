@@ -1,0 +1,18 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "Edit image 1 by transforming the elephant icon into a simplified, solid silhouette style like the person icon in image 2, and apply the bold red color from the flag icon in image 3, creating a modern infographic symbol.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the outline elephant icon, by transforming it into a simplified, solid silhouette. The style of this silhouette should resemble that of the person icon in image 2. Apply the bold red color from the flag icon in image 3 to this new elephant silhouette. The final result should be a modern infographic symbol.",
+  "annotator": "maxku",
+  "objects": [
+    "red simplified elephant silhouette"
+  ],
+  "human_annotation": true
+}

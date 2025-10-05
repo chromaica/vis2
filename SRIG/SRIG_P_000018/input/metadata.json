@@ -1,0 +1,20 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Generate a rocky desert scene that follows the layout and texture patterns of the reference image.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic rocky desert landscape. The dry ground surface and various rock formations should clearly exhibit the intricate, polygonal cracking pattern and detailed textures observed in image 1, creating a visual effect of intensely fractured arid terrain.",
+  "annotator": "samin",
+  "objects": [
+    "rocky desert landscape",
+    "dry ground surface",
+    "various rock formations",
+    "intricate polygonal cracking pattern",
+    "detailed textures",
+    "intensely fractured arid terrain"
+  ]
+}

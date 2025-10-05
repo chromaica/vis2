@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Dramatic black and white portrait of an elderly man with deep lines etched across weathered skin.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic, high-contrast black and white portrait of an elderly man. His face, etched with deep lines and textured, weathered skin, should be prominent in the frame. Use dramatic, chiaroscuro lighting to create stark shadows and bright highlights that emphasize the rugged details of his features. The background should be dark and minimalist.",
+  "annotator": "cwhsu",
+  "objects": [
+    "elderly man",
+    "portrait framing",
+    "prominent face of the man",
+    "deep lines on the man's face",
+    "textured, weathered skin on the man's face",
+    "dramatic lighting (chiaroscuro)",
+    "stark shadows on features",
+    "bright highlights on features",
+    "dark background",
+    "minimalist background"
+  ]
+}

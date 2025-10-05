@@ -1,0 +1,26 @@
+{
+  "subtopic": "Object detection visuals",
+  "prompt": "Render the detected object (the hedgehog from image 1) as a simplified polygon mesh, visually textured with the distinct wood grain pattern and cracks from image 2, presented as a computer vision analysis graphic related to object detection.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748419975395,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a visual representation of the hedgehog from image 1, rendered as a simplified polygon mesh model with visible facets. This mesh should be textured using the distinct natural wood grain pattern and prominent radial cracks from image 2. Present the entire composition as a computer vision analysis graphic, including elements such as a wireframe overlay, a detection bounding box, and analytical labels, simulating an object detection display.",
+  "annotator": "winston",
+  "objects": [
+    "Hedgehog",
+    "Simplified polygon mesh model (for the hedgehog)",
+    "Visible facets (on the mesh)",
+    "Natural wood grain texture (on the hedgehog)",
+    "Prominent radial cracks texture (on the hedgehog)",
+    "Wireframe overlay (on the hedgehog)",
+    "Detection bounding box (around the hedgehog)",
+    "Analytical labels (e.g., \"Hedgehog\", \"Confidence\")",
+    "Computer vision analysis graphic (overall visual style)"
+  ]
+}

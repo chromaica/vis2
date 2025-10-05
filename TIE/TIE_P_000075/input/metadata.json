@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "can you change the posture of the girl face slightly look back into the camera?",
+  "cond_images": [
+    "1.jpeg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Adjust the girl's head posture so her face is looking slightly back towards the camera.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Girl",
+    "Girl's face (looking towards camera)",
+    "Long hair",
+    "Denim jacket",
+    "Denim shorts",
+    "White flowers",
+    "Green field",
+    "Tall grass",
+    "Sunlight",
+    "Outdoor natural background"
+  ]
+}

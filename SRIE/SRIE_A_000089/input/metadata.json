@@ -1,0 +1,26 @@
+{
+  "subtopic": "Collage",
+  "prompt": "Change the background of image 1 with background of image 2, while keeping the vase in image 1 the same.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748709240194,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1. Replace its abstract background, characterized by purple and white shapes, with the distinct sunset mountain landscape from image 2. Preserve the central vase and the flowers within and around it from image 1, ensuring they remain entirely unchanged and are seamlessly integrated with the new background.",
+  "annotator": "kellycyy",
+  "objects": [
+    "central vase",
+    "flowers",
+    "leaves",
+    "sunset sky",
+    "sun",
+    "mountain landscape",
+    "abstract purple shapes (should not be present)",
+    "abstract white shapes (should not be present)"
+  ],
+  "human_annotation": true
+}

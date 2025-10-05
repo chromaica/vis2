@@ -1,0 +1,24 @@
+{
+  "subtopic": "Websites",
+  "prompt": "Generate a futuristic website security login interface element featuring glowing blue geometric shapes and a central data icon. Use the dark blue color palette, grid pattern layout, and digital art style from the reference image for a clean, high-tech look.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://static.vecteezy.com/system/resources/previews/011/635/825/non_2x/abstract-square-interface-modern-background-concept-fingerprint-digital-scanning-visual-security-system-authentication-login-vector.jpg",
+  "promptGeneratedTimestamp": 1749435445964,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate an image of a futuristic website security login interface, featuring a prominent, centrally located, glowing blue fingerprint icon encased within a larger, glowing blue octagonal frame. Incorporate glowing blue grid patterns positioned at the top and bottom of the composition. The entire image should utilize the dark blue color palette and exhibit the clean, high-tech digital art style observed in image 1.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Centrally located glowing blue fingerprint icon",
+    "Larger glowing blue octagonal frame",
+    "Glowing blue grid pattern at the top",
+    "Glowing blue grid pattern at the bottom",
+    "Dark blue background",
+    "Futuristic interface circuit lines and nodes"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

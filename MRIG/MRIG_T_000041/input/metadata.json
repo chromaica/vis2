@@ -1,0 +1,23 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": " Create a comic where the first character says 'Bubble tea is better than justice', the second character replies 'You\u2019re out of your mind', and both characters use speech and thought bubbles from the third image to express frustration and disbelief.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a single comic panel depicting a conversation. On the left, feature the character from image 1 (Pink Panther), shown holding a bubble tea. A speech bubble, styled like the oval bubble from image 3 (middle-left), should be positioned above Pink Panther, containing the text 'Bubble tea is better than justice'. To the right, depict the character from image 2 (Batman), looking towards Pink Panther with an expression of disbelief and frustration. Above Batman, place a speech bubble, styled like the cloud-shaped speech bubble from image 3 (top-left), with the text 'You\u2019re out of your mind'. To further emphasize Batman's disbelief, incorporate a thought bubble near his head, styled like the cloud thought bubble with ellipses from image 3 (bottom-right). Additionally, to visually convey the impactful and perhaps contentious nature of Pink Panther's statement, integrate the explosion-style bubble from image 3 (bottom-left) around or near his speech bubble. The entire scene should be rendered in a classic comic book art style, consistent with the visual qualities of image 1 and image 2.",
+  "annotator": "parnian",
+  "objects": [
+    "Pink Panther on the left",
+    "Bubble tea held by Pink Panther",
+    "Oval speech bubble above Pink Panther containing \"Bubble tea is better than justice\"",
+    "Batman on the right, looking towards Pink Panther, with disbelief and frustration",
+    "Cloud-shaped speech bubble above Batman containing \"You\u2019re out of your mind\"",
+    "Cloud thought bubble with ellipses near Batman's head",
+    "Explosion-style bubble around Pink Panther's speech bubble"
+  ]
+}

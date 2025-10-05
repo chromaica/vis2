@@ -1,0 +1,23 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": "Blur the background per this mask, keep the face razor-sharp.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit Image 1: Apply a strong depth-of-field blur to the background. Ensure the face of the sleeping woman remains razor-sharp, using Image 2 as a mask where its black circular region designates the area to keep in sharp focus.",
+  "annotator": "matina",
+  "objects": [
+    "razor-sharp face of the sleeping woman",
+    "sleeping woman's body (with depth-of-field blur)",
+    "man (with depth-of-field blur)",
+    "bed (with depth-of-field blur)",
+    "nightstand/lamp (with depth-of-field blur)",
+    "speech bubble with text: \"NO! NO! MARGE, WAKE UP! YOU WERE SCREAMING IN YOUR SLEEP AGAIN!\"",
+    "background elements (with strong depth-of-field blur)"
+  ],
+  "human_annotation": true
+}

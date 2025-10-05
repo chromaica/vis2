@@ -1,0 +1,22 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Surrealism",
+  "prompt": "Change the skyscrappers to 2025 New York City skyscrappers. Keep the texture and art style consistent with the original painting.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the painting depicting a golfer overlooking the New York City skyline. Replace all visible skyscrapers in the background cityscape with their anticipated appearance in 2025, ensuring the original painting's texture, lighting, and overall art style are maintained.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Golfer",
+    "Architectural archways",
+    "Balcony or terrace with wooden floor",
+    "Railing",
+    "New York City cityscape (general background buildings)",
+    "Skyscrapers (anticipated 2025 appearance)",
+    "Distant water body",
+    "Sky with warm, sunset lighting"
+  ]
+}

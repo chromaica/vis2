@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Printing the bar chart in the ground to the second image.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 2. Add the bar chart from image 1 onto the floor area, specifically on the wooden floor in the foreground. The bar chart should appear as if printed directly onto the floor, positioned between the scattered papers and the large unrolled keyboard.",
+  "annotator": "Johnny",
+  "objects": [
+    "bar chart on the wooden floor",
+    "wooden floor",
+    "scattered papers on the floor",
+    "large unrolled keyboard on the floor",
+    "room interior",
+    "person on the left",
+    "person on the right",
+    "large monitor",
+    "desks",
+    "shelves with items"
+  ]
+}

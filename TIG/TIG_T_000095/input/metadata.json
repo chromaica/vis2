@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "A stunning textual graphic where 'Limitless' is prominently displayed in a clean, geometric sans-serif font. The text itself boasts a vibrant gradient shifting from deep cosmic purple to electric cyan, with a subtle glowing effect and faint ethereal energy lines emanating outwards. The background is a vast, swirling nebula peppered with distant stars, creating an inspiring, futuristic atmosphere.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A textual graphic featuring the word 'Limitless' prominently displayed and centered, rendered in a clean, geometric sans-serif font. The text itself features a vibrant gradient from deep cosmic purple to electric cyan, with a subtle glowing effect and faint, ethereal energy lines emanating outwards. The background is a vast, swirling nebula peppered with distant stars, creating an inspiring, futuristic atmosphere.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Word 'Limitless' prominently displayed and centered",
+    "Geometric sans-serif font for 'Limitless'",
+    "Vibrant gradient on 'Limitless' (from deep cosmic purple to electric cyan)",
+    "Subtle glowing effect on 'Limitless'",
+    "Faint, ethereal energy lines emanating outwards from 'Limitless'",
+    "Vast, swirling nebula background",
+    "Distant stars in the background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

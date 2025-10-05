@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Stylized art",
+  "prompt": "Create a stylized painting featuring the whales from image 1, rendered using the vibrant, fluid brushstrokes and rich blue and gold color palette characteristic of the art style in image 2.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a stylized painting featuring the three whales from image 1, maintaining their vertical composition with the largest whale at the top, followed by the medium, and the smallest at the bottom. The entire composition should be rendered in the distinctive art style of image 2, characterized by vibrant, fluid, and swirling brushstrokes with a rich impasto texture. Utilize the prominent blue and gold color palette from image 2, incorporating various shades of deep blue, light aqua, and metallic gold throughout the whales and their surrounding abstract environment.",
+  "annotator": "samin",
+  "objects": [
+    "Three whales",
+    "Largest whale at the top",
+    "Medium whale in the middle",
+    "Smallest whale at the bottom",
+    "Vibrant, fluid, swirling brushstrokes",
+    "Rich impasto texture",
+    "Deep blue colors",
+    "Light aqua colors",
+    "Metallic gold colors",
+    "Abstract environment"
+  ]
+}

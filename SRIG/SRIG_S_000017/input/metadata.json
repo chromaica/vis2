@@ -1,0 +1,28 @@
+{
+  "subtopic": "Receipts",
+  "prompt": "Generate a screenshot showing a digital receipt on a smartphone screen. The receipt should replicate the clean, modern digital style and layout seen in the reference image, focusing on clear text and structure. The table style should be similar to the reference image.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://www.docuclipper.com/wp-content/uploads/Receipt-Example-1018x1440.jpg",
+  "searchQueryGenerated": "high resolution screenshot receipt",
+  "searchQueryGeneratedTimestamp": 1749422106931,
+  "promptGeneratedTimestamp": 1749422139490,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a high-fidelity screenshot of a digital receipt displayed prominently on a smartphone screen. The receipt must replicate the clean, modern, and minimalist design seen in image 1, featuring a large 'RECEIPT' title at the top, followed by receipt details and sender/recipient information. The main content should be a table, identical in its yellow-header and bordered cell style to image 1, clearly displaying items such as 'Fuel Plastic Jug', 'Gas Hose', and 'Aluminum Screw' with 'Quantity', 'Unit Price', and 'Total' columns. All text, including the subtotal and total sections positioned at the bottom-left, should be highly legible, structured with clear typographic hierarchy, and maintain the black-on-white aesthetic of image 1. The receipt content should occupy most of the smartphone's display area.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Smartphone screen",
+    "Digital receipt document",
+    "Large \"RECEIPT\" title at the top",
+    "Receipt header details (receipt number, date of purchase)",
+    "Sender information block (company name, address, email)",
+    "Recipient information block (person's name, address)",
+    "Itemized table with yellow header and bordered cells",
+    "Specific items within the table (e.g., \"Fuel Plastic Jug\", \"Gas Hose\", \"Aluminum Screw\" with Quantity, Unit Price, and Total columns)",
+    "Subtotal, Additional Charges/Tax, and Total amount section at the bottom-left",
+    "Black text on a white background for all receipt content"
+  ]
+}

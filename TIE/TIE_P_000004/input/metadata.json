@@ -1,0 +1,20 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "add 4 blue blobs on the upper left of the image like the ones found in the middle",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "make sure on the upper left side you have 4 new blue blobs that have the same color as the center ones",
+  "prompt_refined": "Edit image 1. Add four dark purple cells to the upper-left quadrant, replicating the appearance of the cluster of cells located in the center of the image.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Four dark purple cells in the upper-left quadrant",
+    "Cluster of dark purple cells in the center",
+    "Scattered dark purple cells",
+    "Irregular light-colored cells",
+    "Pink/purple granular background"
+  ],
+  "human_annotation": true
+}

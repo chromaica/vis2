@@ -1,0 +1,26 @@
+{
+  "subtopic": "UI mockups",
+  "prompt": "Generate a clean UI mockup on add calendar event widget in a calendar app. Follow the overall structure and visual clarity of the reference image to showcase different button states and shapes.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://www.figma.com/community/resource/ed7a4df1-8e15-4154-9208-cab5f1b56acb/thumbnail",
+  "promptGeneratedTimestamp": 1749893403151,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate a clean UI mockup of an 'Add Calendar Event' widget for a calendar application. The widget should include input fields for details such as 'Event Title', 'Date', 'Time', and 'Location'. Design all interactive buttons within the widget by strictly following the visual style, shapes, and states demonstrated in image 1 ('Button UI Kit'). Specifically, incorporate buttons with different shapes (pill, rectangular, square) and represent various states using fills, outlines, and text-only appearances, mirroring the purple, red, white, and black color palette from image 1. Showcase examples like a primary filled 'Save' button, a secondary outline 'Cancel' button, and a text-only button for 'Add Guest'. Position the main action buttons (e.g., 'Save' and 'Cancel') at the bottom right of the widget. Ensure the overall UI maintains the clear, flat aesthetic and consistent button design from image 1.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "'Add Calendar Event' widget UI mockup",
+    "Input field for 'Event Title'",
+    "Input field for 'Date'",
+    "Input field for 'Time'",
+    "Input field for 'Location'",
+    "Primary filled 'Save' button (at bottom right)",
+    "Secondary outline 'Cancel' button (at bottom right)",
+    "Text-only 'Add Guest' button",
+    "Pill-shaped buttons/UI elements",
+    "Rectangular buttons/UI elements"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "Change the color of all segmented chairs in the image to a vibrant blue.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751818113100,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1: Change the color of all chairs to a vibrant blue.",
+  "annotator": "edisy",
+  "objects": [
+    "vibrant blue chairs",
+    "people",
+    "dining table",
+    "tablecloth",
+    "window",
+    "window blinds",
+    "wall",
+    "dishes on table",
+    "wine glasses on table",
+    "handbag"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

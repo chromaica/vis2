@@ -1,0 +1,26 @@
+{
+  "subtopic": "Visual instructions and manuals",
+  "prompt": "Using the reference image of a disassembled skateboard, generate a single-page assembly guide that shows the correct order for attaching the trucks and wheels to the deck.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://www.researchgate.net/publication/256294610/figure/fig1/AS:392662860484618@1470629529780/Anatomy-of-a-skateboard.png",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate a single-page visual assembly guide for a skateboard, utilizing the components and their exploded view as depicted in image 1. The guide should clearly demonstrate the sequential steps for attaching the trucks and wheels to the deck.\n\n1.  **Step 1 (Deck Preparation):** Begin with the skateboard Deck positioned bottom-side up, showing the Griptape on its upper surface. Insert the four Hardwear bolts through the pre-drilled holes in the Deck, with their heads resting on the Griptape side.\n2.  **Step 2 (Truck Attachment):** For each set of four Hardwear bolts, first place a Riser over the bolts (if used, as shown in image 1), followed by a Truck baseplate. Secure each Truck assembly by screwing a Hardwear nut onto each bolt from the underside, ensuring the Truck's axle faces away from the center of the Deck.\n3.  **Step 3 (Wheel Attachment):** For each of the four Truck axles, demonstrate the insertion of two Bearings into a Wheel. Then, show the assembled Wheel being slid onto the Truck axle and secured with an axle nut (implied for function). Ensure all four wheels are properly attached to their respective Truck axles.\n\nArrange these three distinct steps vertically on a single page, from top to bottom, with each step represented by a clear, simple diagram illustrating the addition of components. The final image should be a complete, easy-to-follow visual instruction set.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Skateboard Deck",
+    "Griptape",
+    "Hardwear bolts",
+    "Hardwear nuts",
+    "Riser",
+    "Truck",
+    "Wheel",
+    "Bearings",
+    "Axle nut",
+    "Three distinct vertical steps/diagrams showing sequential assembly"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

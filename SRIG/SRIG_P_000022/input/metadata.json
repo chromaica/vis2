@@ -1,0 +1,26 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Medical images",
+  "prompt": "Create a jaw X-ray, maintaining accurate anatomical features from the reference face.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic lateral X-ray image of the jaw, accurately depicting the unique skeletal and dental anatomy derived from the individual's facial profile in image 1.",
+  "annotator": "samin",
+  "objects": [
+    "Photorealistic X-ray imaging style",
+    "Lateral view of the head/jaw region",
+    "Mandible (lower jaw bone)",
+    "Maxilla (upper jaw bone)",
+    "Upper and lower teeth/dentition",
+    "Temporomandibular joint (TMJ)",
+    "Skull base and adjacent cranial structures",
+    "Upper cervical vertebrae",
+    "Nasal and pharyngeal air spaces",
+    "Faint/ghosted outline of the individual's facial soft tissue profile"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

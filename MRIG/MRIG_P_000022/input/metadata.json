@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Generate an image of a modern lounge chair inspired by the first provided images of a tiger and the second provided images of a sleek armchair. Incorporate the tiger\u2019s bold orange and black striped pattern into the upholstery, with subtle claw-like textures on the armrests. The chair\u2019s legs should mimic the muscular, curved structure of a tiger\u2019s limbs, maintaining an elegant and sturdy design. Ensure the overall aesthetic is contemporary, luxurious, and functional for a high-end living room.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic image of a modern lounge chair. The chair's design should be inspired by the sleek form of the armchair presented in image 2 and the visual elements of the tiger in image 1. Specifically, the upholstery must feature the bold orange and black striped pattern observed on the tiger in image 1. Integrate subtle claw-like textures onto the armrests. The chair's legs should abstractly mimic the muscular, curved structure of the tiger's limbs from image 1, ensuring an elegant and sturdy design. The overall aesthetic must be contemporary, luxurious, and functional for a high-end living room.",
+  "objects": [
+    "Photorealistic image",
+    "Modern lounge chair",
+    "Sleek chair design (inspired by Image 2)",
+    "Upholstery with bold orange and black tiger striped pattern",
+    "Armrests with subtle claw-like textures",
+    "Chair legs abstractly mimicking muscular, curved tiger limbs",
+    "Contemporary aesthetic",
+    "Luxurious aesthetic",
+    "High-end living room setting"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

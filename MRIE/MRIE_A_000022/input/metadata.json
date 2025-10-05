@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Traditional art",
+  "prompt": "Add the pocket watch from the second image and the hourglass from the third image to the 'Persistence of Memory' painting in the first image, rendering both in the same melting style as the original clocks.",
+  "cond_images": [
+    "1.png",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, 'The Persistence of Memory'. Incorporate the pocket watch from image 2 and the hourglass from image 3 into the painting. The pocket watch should be rendered in a melting and draped state, positioned on the brown rectangular platform in the bottom-left foreground, alongside the existing orange pocket watch. The hourglass should be placed on the desolate ground plane in the mid-ground, to the right of the central amorphous creature, also transformed into a melting and distorted form. Both new objects must adopt the surreal, fluid aesthetic of the existing melting clocks within image 1.",
+  "annotator": "paria",
+  "objects": [
+    "Desert landscape",
+    "Sky",
+    "Water body with coastline in the background",
+    "Tree branch with melting clock draped over it",
+    "Brown rectangular platform",
+    "Melting clock draped over the brown rectangular platform",
+    "Orange pocket watch on the brown rectangular platform",
+    "Central amorphous creature",
+    "Melting and draped pocket watch on the brown rectangular platform, next to the orange pocket watch",
+    "Melting and distorted hourglass on the desolate ground plane, to the right of the central amorphous creature"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

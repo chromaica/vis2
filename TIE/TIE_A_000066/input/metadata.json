@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Cultural or Heritage art",
+  "prompt": "Make their leader look more authoritative by changing his clothes to a more regal attire that fits their historical background. Keep the rest of the characters unchanged.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Modify the central leader's attire to enhance his authoritative appearance, transforming his current simple chainmail and fur into a more regal ensemble that aligns with a powerful Norse or Viking historical figure. Replace his clothing with finely crafted materials such as elaborate chainmail or scale armor, a richly decorated cloak, and potentially include ornate elements like gold trim, armbands, or a more sophisticated helmet. Ensure the updated attire is consistent with historical aesthetics for a tribal or early medieval Germanic leader, elevating his stature. All other characters in the image, including those carrying him and the surrounding warriors, must remain entirely unchanged.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Central leader wearing regal Norse/Viking attire",
+    "Elaborate chainmail or scale armor on the central leader",
+    "Richly decorated cloak on the central leader",
+    "Ornate gold trim on the central leader's attire",
+    "Armbands on the central leader",
+    "Sophisticated helmet on the central leader",
+    "Figures carrying the central leader",
+    "Surrounding warriors",
+    "Spears and other weapons held by warriors",
+    "Red flag on a pole"
+  ]
+}

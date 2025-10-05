@@ -1,0 +1,17 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Medical images",
+  "prompt": "A high-resolution CT scan depicting a cross-sectional view of the human abdomen, with organs labeled in varying shades of gray.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A photorealistic, high-resolution axial CT scan. The image displays a cross-sectional view of the human abdomen with internal organs clearly visible. Each organ is explicitly labeled, and these labels are rendered in distinct, varying shades of gray.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Photorealistic CT scan image",
+    "Cross-sectional view of the human abdomen",
+    "Clearly visible internal organs",
+    "Labels for each organ",
+    "Text of the labels in varying shades of gray"
+  ]
+}

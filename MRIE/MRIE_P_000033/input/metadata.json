@@ -1,0 +1,24 @@
+{
+  "subtopic": "Wildlife & Nature Photography",
+  "prompt": "Edit image 1: Transform the environment into a snowy winter landscape drawing inspiration from image 2. Introduce a small, grey rabbit similar to the one in image 3 into the scene, maintaining a photorealistic style.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748569810606,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "P",
+  "prompt_refined": "Edit image 1. Transform the dry, grassy, and hilly landscape of image 1 into a snowy winter environment, drawing inspiration from the extensive snow cover, bright light, and overall atmosphere of image 2. The two brown horses in image 1 should remain, seamlessly integrated into the new snowy setting. Introduce a small, grey rabbit into the foreground, positioned near the horses. The rabbit should closely resemble the one in image 3 regarding its size, fluffy grey fur, and photorealistic detail. Ensure the entire edited image maintains a consistent photorealistic style.",
+  "annotator": "boris",
+  "objects": [
+    "Snowy landscape",
+    "Extensive snow cover",
+    "Bright winter lighting",
+    "Two brown horses",
+    "Small grey rabbit in the foreground near the horses",
+    "Snowy hills"
+  ]
+}

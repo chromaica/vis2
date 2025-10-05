@@ -1,0 +1,29 @@
+{
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Generate an information graphic dashboard. Use the multi-chart layout from image 1, including a prominent line chart like image 2. Apply the color palette and text labeling style directly on lines from image 2.",
+  "cond_images": [
+    "1.png",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "Information Graphics Diagrams Charts Graphs",
+  "searchQueryGeneratedTimestamp": 1750575779295,
+  "promptGeneratedTimestamp": 1750575866382,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "I",
+  "annotator": "htwong",
+  "prompt_refined": "Generate an information graphic dashboard. The dashboard's layout should emulate image 1, featuring a prominent top-level area chart and three smaller horizontal bar charts arranged side-by-side below it. The main top area chart should display a clear line with distinct data points, similar in visual clarity and minimalist structure to the line chart shown in image 2. Apply the clean blue and white color palette observed in image 2 to all dashboard elements and charts. Ensure all text labels, particularly those associated with the charts' data and axes, are clear, concise, and consistent with the overall minimalist aesthetic found in image 2.",
+  "objects": [
+    "Information graphic dashboard",
+    "Prominent top-level area chart",
+    "Clear line with distinct data points (on the top chart)",
+    "Three smaller horizontal bar charts (side-by-side, below the top chart)",
+    "Blue and white color palette (applied to all dashboard elements and charts)",
+    "Clear, concise text labels (for chart titles, axes, and data)",
+    "Minimalist visual aesthetic (for all dashboard elements)",
+    "Chart axes (with labels)",
+    "Dashboard title",
+    "Chart data points"
+  ]
+}

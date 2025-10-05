@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Chat and Social Messaging",
+  "prompt": "Replace the avatar in the top header of image 1 with the cartoon boy from image 3, and add the sticker from image 2 as a floating sticker below the last message ('Hello!') bubble.",
+  "cond_images": [
+    "1.png",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the existing circular avatar (the green question mark icon) in the top header, next to the 'Cool Friend' text, with the cartoon boy character provided in image 3. Additionally, insert the crying-laughing Memoji sticker from image 2 as a floating element, placing it directly below the 'Hello!' message bubble on the left side of the chat interface.",
+  "annotator": "parnian",
+  "objects": [
+    "cartoon boy character",
+    "crying-laughing Memoji sticker (below 'Hello!' message bubble on the left side)",
+    "green question mark avatar (should not be present)",
+    "\"Cool Friend\" text (in top header)",
+    "\"Hello!\" message bubble (on the left side)",
+    "\"Hey friend!\" message bubble",
+    "encryption notification message bubble",
+    "iPhone chat header (including back arrow, call, video, phone icons)",
+    "iPhone status bar",
+    "chat background"
+  ]
+}

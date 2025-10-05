@@ -1,0 +1,31 @@
+{
+  "subtopic": "UI mockups",
+  "prompt": "Create a mobile UI mockup screen in the layout style of Image 2. Populate it with UI components (like buttons, progress elements, and input fields) styled with the clean design and vibrant color palette from Image 1.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "UI mockups information graphics",
+  "searchQueryGeneratedTimestamp": 1751989066502,
+  "promptGeneratedTimestamp": 1751989297042,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "I",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a modern mobile UI mockup screen, enclosed within a smartphone frame similar to those shown in image 2. Design the screen with a clean, vertically-structured layout, featuring a top header bar and a main content area, consistent with the user interface layouts presented in image 2. Populate this screen with a variety of UI components such as large and small buttons, circular and linear progress indicators, search fields, various input fields (e.g., text, password, email), tabs, and success/warning message banners. Ensure all UI components and the overall screen design strictly adhere to the flat design style, rounded aesthetics, and the vibrant color palette of orange, purple, and light grey from image 1.",
+  "objects": [
+    "Smartphone frame",
+    "Modern mobile UI mockup screen",
+    "Vertically-structured screen layout",
+    "Top header bar",
+    "Large and small buttons",
+    "Circular and linear progress indicators",
+    "Search field",
+    "Various input fields (e.g., text, password, email)",
+    "Tabs",
+    "Success and warning message banners"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

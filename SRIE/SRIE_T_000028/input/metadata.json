@@ -1,0 +1,22 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": "Warp the character\u2019s limbs to match this action stance.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the man in image 1. Warp his limbs to replicate the dynamic action stance of the stick figure shown in image 2, specifically with both arms raised above the head and the legs positioned as if in mid-stride or a jump.",
+  "annotator": "matina",
+  "objects": [
+    "Man in a suit",
+    "Man with arms raised above head",
+    "Man with legs in mid-stride or jump pose",
+    "Fire hydrant",
+    "Speech bubble",
+    "Text within speech bubble (\"MAYBE I'M ASLEEP...AND THIS IS SOME KIND OF NIGHT-MARE! I'LL KICK THIS FIRE HYDRANT AND SEE IF I'M REALLY AWAKE.\")",
+    "Textured comic book background (orange/brown hues)"
+  ]
+}

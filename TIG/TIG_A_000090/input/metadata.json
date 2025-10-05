@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "A collage combining diverse textures, like smooth metals, rough woods, and soft fabrics, creating an intriguing tactile contrast on a single canvas.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A visually rich collage artwork on a single canvas, intricately combining and juxtaposing diverse textures. Feature prominent sections of highly reflective, smooth metals (e.g., polished chrome, brushed steel) alongside rugged, rough woods (e.g., gnarled driftwood, splintered oak). Integrate elements of soft, pliable fabrics (e.g., flowing silk, coarse burlap) throughout the composition. The arrangement should powerfully highlight the intriguing tactile contrast between these varied materials.",
+  "annotator": "cwhsu",
+  "objects": [
+    "collage artwork",
+    "sections of highly reflective, smooth metals",
+    "polished chrome",
+    "brushed steel",
+    "sections of rugged, rough woods",
+    "gnarled driftwood",
+    "splintered oak",
+    "elements of soft, pliable fabrics",
+    "flowing silk",
+    "coarse burlap"
+  ]
+}

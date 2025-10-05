@@ -1,0 +1,21 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "remove all the camping gear from the image",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Remove the orange and red tent located in the right-center foreground. Additionally, remove all camping equipment, including bags and other gear, visible on the grass in the left-center foreground. The vacated areas should be seamlessly filled with natural elements like grass and rocks, matching the existing mountainous landscape and lighting.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Orange and red tent (should not be present)",
+    "Camping equipment (bags, gear) (should not be present)",
+    "Distant mountains",
+    "Sunset sky",
+    "Grassy terrain in foreground and midground",
+    "Rocks integrated into the terrain",
+    "Natural elements seamlessly filling vacated areas"
+  ]
+}

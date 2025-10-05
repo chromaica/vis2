@@ -1,0 +1,17 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "convert the image into a animated versions with text circle out the amoeba",
+  "cond_images": [
+    "1.jpeg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Transform the existing microscopic photorealistic view of the amoeba and its surroundings into a clean, vibrant 2D animation style. Furthermore, add text that forms a distinct circular boundary specifically around the large amoeba-like organism located in the center-left of the image.",
+  "annotator": "theblackcat",
+  "objects": [
+    "large amoeba-like organism in 2D animation style",
+    "microscopic surroundings in 2D animation style",
+    "text forming a distinct circular boundary around the large amoeba-like organism in the center-left of the image"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "subtopic": "Object detection visuals",
+  "prompt": "Remove the visual indicators, including bounding boxes and text labels, for all detected objects having a confidence score below 0.50.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751817073964,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1, which shows a street scene with object detection annotations. Remove all visual indicators (bounding boxes and text labels) from the image for every detected object that has a confidence score strictly below 0.50. For example, target the indicators associated with 'person 0.42', 'person 0.39', 'person 0.28', 'handbag 0.47', and 'handbug 0.26'. Preserve all bounding boxes and text labels for objects with a confidence score of 0.50 or higher.",
+  "annotator": "edisy",
+  "objects": [
+    "Street scene background",
+    "Pedestrians (people on the street)",
+    "Traffic lights (physical objects)",
+    "Bounding box and text label for 'traffic light 0.81'",
+    "Bounding box and text label for 'person 0.82'",
+    "Bounding box and text label for 'person 0.71'",
+    "Bounding box and text label for 'person 0.42' (should not be present)",
+    "Bounding box and text label for 'person 0.39' (should not be present)",
+    "Bounding box and text label for 'handbag 0.47' (should not be present)",
+    "Bounding box and text label for 'handbug 0.26' (should not be present)"
+  ],
+  "human_annotation": true
+}

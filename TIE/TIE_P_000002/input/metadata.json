@@ -1,0 +1,22 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "convert the photo from daylight to nighttime",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "see if the building lights actually turns on",
+  "prompt_refined": "Edit image 1. Transform the bright daylight cityscape into a realistic nighttime scene. The clear blue sky should be replaced with a dark night sky, possibly featuring stars or a moon. All buildings in the city skyline should have their interior and exterior lights illuminated, and streetlights should glow along the waterfront. The water in the foreground should reflect the illuminated city lights, creating a vibrant urban night view.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Realistic nighttime cityscape",
+    "Dark night sky",
+    "Stars",
+    "Moon",
+    "Illuminated buildings",
+    "Glowing streetlights along the waterfront",
+    "Water reflecting illuminated city lights",
+    "Clear blue sky (should not be present)"
+  ]
+}

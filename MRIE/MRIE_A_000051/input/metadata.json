@@ -1,0 +1,27 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Stylized art",
+  "prompt": "In the first image, replace the large laptop icon next to the subscribe button with image 2, and then color the entire doodle art using the blue and pink color scheme from image 3.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the large laptop icon located above the 'SUBSCRIBE' text in the bottom-left corner of image 1 with the laptop icon content from image 2. Then, re-color the entire doodle art composition in image 1, applying the vibrant hot pink (magenta) and light blue (cyan) color scheme, along with white, as seen in image 3.",
+  "annotator": "paria",
+  "objects": [
+    "\"SOCIAL MEDIA\" text",
+    "\"SUBSCRIBE\" text",
+    "Laptop icon with five stars and cursor (located above 'SUBSCRIBE')",
+    "Earth globe doodle icon",
+    "Heart/like doodle icons",
+    "Message/chat bubble doodle icons",
+    "Camera doodle icon",
+    "Vibrant hot pink (magenta) colored elements",
+    "Light blue (cyan) colored elements",
+    "White colored elements"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "In image 1, replace the existing 'The Sims 4' logo in the center with the blue 'The Sims' logo from image 2, keeping it centered and scaled to match the original placement. Insert the plumbob from image 3 directly above the new logo. All other elements should remain unchanged.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, a screenshot of The Sims 4. Replace the existing 'The Sims 4' logo, which is centered in the image, with the blue 'The Sims' logo provided in image 2. Ensure the new logo retains the exact central position and is scaled to match the original logo's size and visual prominence. Directly above this newly placed 'The Sims' logo, insert the green plumbob graphic from image 3. All other elements in image 1, including the background scenery and the 'PRESS A TO START' text, must remain completely unchanged.",
+  "annotator": "parnian",
+  "objects": [
+    "The Sims 4 logo (should not be present)",
+    "Blue 'The Sims' logo (centered)",
+    "Green plumbob graphic (directly above 'The Sims' logo)",
+    "'PRESS A TO START' text",
+    "Houses",
+    "Trees",
+    "Water",
+    "Bridge",
+    "People (in the background)",
+    "Sky with distant rocket"
+  ]
+}

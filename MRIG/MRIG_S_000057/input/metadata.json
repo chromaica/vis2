@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Generate a screenshot of a mobile banking app with blue color scheme that uses the UI design from the first image and bank logo from the second image.",
+  "cond_images": [
+    "1.png",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a screenshot of a mobile banking application. The user interface (UI) layout and element structure, including the welcome message, financial overview card, account listings, and bottom navigation bar, should strictly adhere to the design presented in image 1. The app's primary color scheme should be blue, applying blue tones to all elements that are green in image 1 (e.g., top header background, graph line, active navigation icons). Replace the 'chime' brand name, currently located at the top center of image 1, with the bank logo from image 2.",
+  "annotator": "paria",
+  "objects": [
+    "mobile phone frame",
+    "top header background (blue)",
+    "bank logo (from image 2)",
+    "welcome message",
+    "financial overview card",
+    "graph line (blue)",
+    "account listings",
+    "bottom navigation bar",
+    "active Home icon (blue)",
+    "'chime' brand name (should not be present)"
+  ]
+}

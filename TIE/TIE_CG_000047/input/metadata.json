@@ -1,0 +1,26 @@
+{
+  "subtopic": "3D renders",
+  "prompt": "Modify the floor material in the kitchen area, changing it to a high-quality realistic light grey ceramic tile texture with a noticeable but subtle glossy finish.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751815404919,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1. In the kitchen area, located in the top-right portion of the floor plan, modify the current floor material. Change it to a high-quality, realistic light grey ceramic tile texture with a noticeable yet subtle glossy finish.",
+  "annotator": "edisy",
+  "objects": [
+    "Overall 3D floor plan layout",
+    "Living room area with sofa, coffee tables, and rug",
+    "Dining area with table, chairs, and buffet",
+    "Kitchen cabinets",
+    "Kitchen countertop, sink, and stove",
+    "Kitchen floor with a high-quality, realistic light grey ceramic tile texture and a noticeable yet subtle glossy finish",
+    "Staircase",
+    "Bathroom area with fixtures"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,25 @@
+{
+  "subtopic": "Websites",
+  "prompt": "Create a low-fidelity wireframe of this website's homepage, showing only the basic layout, content blocks, and element placement in grayscale.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "https://149842033.v2.pressablecdn.com/wp-content/uploads/2018/07/direngine-free-travel-agency-website-templates.jpg",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a grayscale, low-fidelity wireframe from the website homepage in image 1. The output must focus strictly on the basic layout, major content blocks, and element placement. Represent the top header with a logo placeholder on the left and navigation links on the right. Detail the central hero section including its main title, subtitle, search input fields, search button, and the row of four category buttons. Finally, show the four horizontally arranged feature blocks in the lower part of the page, each containing placeholders for an icon, title, and descriptive text.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Top header block",
+    "Logo placeholder (on the left in header)",
+    "Navigation links (on the right in header)",
+    "Central hero section block",
+    "Main title placeholder (in hero section)",
+    "Subtitle placeholder (in hero section)",
+    "Search input fields (in hero section)",
+    "Search button (in hero section)",
+    "Row of four category buttons (in hero section)",
+    "Four horizontally arranged feature blocks (in lower part of page, each containing placeholders for an icon, title, and descriptive text)"
+  ],
+  "human_annotation": true
+}

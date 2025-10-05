@@ -1,0 +1,27 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "Convert the Microsoft logo depicted in the first reference image into a glowing cosmic portal within the second provided astronomical image of a black hole surrounded by an accretion disk. Position the window as a luminous, four-panel gateway floating near the black hole, with each square emitting a soft cyan glow that contrasts with the accretion disk\u2019s fiery oranges and reds. The logo should distort the surrounding space slightly, bending light from the accretion disk to suggest a dimensional rift.",
+  "cond_images": [
+    "1.png",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic image where the four-panel Microsoft logo from image 1 is transformed into a luminous, glowing cosmic portal. Position this four-panel gateway floating prominently near the central black hole from image 2. Each square panel of the gateway should emit a soft cyan glow, designed to contrast sharply with the accretion disk, which should be rendered in fiery oranges and reds. The portal must subtly distort the surrounding space, bending the light from the fiery accretion disk to clearly suggest a dimensional rift.",
+  "objects": [
+    "Four-panel Microsoft logo cosmic portal",
+    "Luminous and glowing cosmic portal",
+    "Central black hole",
+    "Four-panel gateway floating prominently near the central black hole",
+    "Each square panel of the gateway emitting a soft cyan glow",
+    "Accretion disk",
+    "Accretion disk in fiery oranges and reds",
+    "Subtly distorted surrounding space",
+    "Bending light from the fiery accretion disk",
+    "Dimensional rift suggestion"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

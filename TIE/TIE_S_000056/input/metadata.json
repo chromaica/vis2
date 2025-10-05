@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Mobile software interfaces",
+  "prompt": "Add a \"voice message\" button next to the reply icon on each post.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. For each post, add a voice message icon immediately to the right of the speech bubble (reply) icon within the row of interaction buttons.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Social media app interface",
+    "Multiple social media posts",
+    "User profile images in posts",
+    "Text content of posts",
+    "Interaction button row for each post",
+    "Heart icon in interaction rows",
+    "Speech bubble (reply) icon in interaction rows",
+    "Voice message icon immediately to the right of the speech bubble icon (for each post)",
+    "Repost/retweet icon in interaction rows",
+    "Send/share icon in interaction rows"
+  ]
+}

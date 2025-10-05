@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "Generate a screenshot of a receipt for an online order of one cheeseburger ($20) and a Coca-Cola ($2) from 'Burger Town,' showing the message 'Food is on the way' with the courier character from the first image displayed above, and the itemized buylist layout from the second image shown below.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a digital screenshot of a food delivery receipt from 'Burger Town'. The receipt should clearly display an itemized list of '1 Cheeseburger' priced at '$20' and '1 Coca-Cola' priced at '$2'. Adopt the structured itemized buylist layout, including the numerical item count, product name, price alignment, dashed line separators, subtotal, and total sections, exactly as depicted in image 2. The total amount displayed should be '$22'. Below the itemized list, include the message 'Food is on the way'. Visually incorporate the cartoon-style courier character from image 1, which shows a delivery person on a green scooter, placing it prominently within the screenshot to signify the delivery status, perhaps alongside or above the 'Food is on the way' text.",
+  "annotator": "paria",
+  "objects": [
+    "Digital screenshot of a food delivery receipt",
+    "\"Burger Town\" text",
+    "Itemized buylist layout (from image 2)",
+    "Dashed line separators (from image 2)",
+    "\"1 Cheeseburger\" text",
+    "\"$20\" text",
+    "\"1 Coca-Cola\" text",
+    "\"$2\" text",
+    "Total section displaying \"$22\"",
+    "Cartoon-style delivery person on a green scooter (from image 1), positioned alongside or above \"Food is on the way\" text"
+  ]
+}

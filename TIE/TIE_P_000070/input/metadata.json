@@ -1,0 +1,16 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "make the moon bloody red",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 to depict a photorealistic moon, ensuring it appears a vivid, deep bloody red against the dark night sky.",
+  "annotator": "theblackcat",
+  "objects": [
+    "vivid, deep bloody red moon",
+    "dark night sky"
+  ]
+}

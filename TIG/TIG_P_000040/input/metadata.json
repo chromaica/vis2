@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Aerial view of winding river through vivid autumn forest, showcasing vibrant reds, oranges, and yellows.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Photorealistic aerial view: A wide, winding river, with a reflective surface, meanders through a vast, dense autumn forest. The extensive tree canopy explodes with brilliant reds, deep oranges, and vivid golden yellows.",
+  "annotator": "cwhsu",
+  "objects": [
+    "aerial view",
+    "wide river",
+    "winding river",
+    "reflective river surface",
+    "vast autumn forest",
+    "dense autumn forest",
+    "extensive tree canopy",
+    "brilliant red foliage",
+    "deep orange foliage",
+    "vivid golden yellow foliage"
+  ]
+}

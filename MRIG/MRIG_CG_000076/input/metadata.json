@@ -1,0 +1,27 @@
+{
+  "subtopic": "Depth maps",
+  "prompt": "Generate a depth map visualization of the desk scene from image 1 (notebook, jar, flowers), using the grayscale intensity and textural noise characteristics observed in the stacked bricks of image 2 to represent varying depth values.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748423637608,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a grayscale depth map of the desk scene depicted in image 1. This scene includes an open ring-bound notebook on the lower-front, a clear ribbed glass jar with colorful objects behind it on the left, and a blue glass jar with pink flowers on the right. The depth information should be visualized using grayscale intensity, and the entire depth map should visually adopt the rough, gritty surface texture and the specific range of dark to light gray values visible in the stacked concrete bricks from image 2.",
+  "annotator": "winston",
+  "objects": [
+    "Desk surface",
+    "Open ring-bound notebook on the lower-front",
+    "Clear ribbed glass jar on the left",
+    "Colorful objects within the clear ribbed glass jar",
+    "Blue glass jar on the right",
+    "Pink flowers within the blue glass jar",
+    "Rough, gritty texture (applied to the overall image)",
+    "Specific range of dark to light gray values (applied to the overall image)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

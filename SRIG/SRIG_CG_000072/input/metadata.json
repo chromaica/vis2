@@ -1,0 +1,25 @@
+{
+  "subtopic": "VFX and Particles",
+  "prompt": "Generate an image inspired by the reference's dynamic action. Depict a figure hitting a futuristic energy ball with a burst of glowing particles and impactful VFX trails against a sport court background, showcasing computer graphics simulation.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw_g6Z_YbPD3-QIMuv8tEiD99GZSnFrPRmfw&s",
+  "promptGeneratedTimestamp": 1748768980254,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate an image inspired by the dynamic action of image 1. Depict a female tennis player, similar in pose and athleticism to the one shown in image 1, powerfully hitting a futuristic, glowing energy ball. The impact point should explode with a vibrant burst of luminous particles and be followed by sweeping, impactful VFX trails. The scene is set on a modern tennis court background, consistent with image 1. The entire composition should clearly showcase a high-fidelity computer graphics simulation style, with detailed rendering of light, motion blur, and particle effects.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Female tennis player",
+    "Dynamic action pose",
+    "Tennis racket",
+    "Futuristic, glowing energy ball",
+    "Modern tennis court background",
+    "Vibrant burst of luminous particles",
+    "Sweeping, impactful VFX trails",
+    "Detailed rendering of light",
+    "Motion blur"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Convert the real-life vintage car photograph referenced in the first image into a noir-style comic book scene referenced in the second image. Use high-contrast black-and-white shading with minimal color accents (e.g., red tail lights). Emphasize dynamic camera angles, with the car tilted dramatically and motion lines trailing behind. Add comic book sound effects like \u2018VROOM!\u2019 and \u2018SCREECH!\u2019 in bold, stylized text. Transform the desert background into a stark, angular landscape with cross-hatching and gritty textures, evoking a 1940s detective comic.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a new image featuring the vintage red car from image 1, rendered in the high-contrast, noir-style comic aesthetic of image 2. The scene should be primarily black-and-white with minimal red accents, specifically on the car's tail lights. Depict the car from a dynamic, low-angle perspective, tilted dramatically to imply motion, with stylized speed lines trailing behind it. The background should be a stark, angular landscape, featuring prominent cross-hatching and gritty textures, evoking a 1940s detective comic setting. Incorporate bold, stylized comic book sound effects, such as 'VROOM!' positioned near the car's engine and 'SCREECH!' near its wheels, rendered in a text style similar to the speech bubbles in image 2.",
+  "objects": [
+    "vintage red car",
+    "red car tail lights",
+    "black-and-white image",
+    "low-angle perspective",
+    "tilted car",
+    "speed lines",
+    "stark, angular landscape",
+    "cross-hatching",
+    "'VROOM!' comic sound effect near car's engine",
+    "'SCREECH!' comic sound effect near car's wheels"
+  ]
+}

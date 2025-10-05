@@ -1,0 +1,27 @@
+{
+  "subtopic": "Digital arts",
+  "prompt": "extend the image 1 to show the whole house in the same consistent style, and then the girl and dog are running towards the house. Both the girl and dog remain the same style when editing.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748492731619,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1. Expand the canvas of image 1 downwards and to the left to fully reveal the entire house, maintaining its distinctive geometric and colorful art style. Incorporate the girl and dog from image 2 into the foreground, positioned as if they are running from the lower left towards the front of the house. Crucially, the girl and dog must retain their original illustrative style as depicted in image 2.",
+  "annotator": "kellycyy",
+  "objects": [
+    "Fully revealed house",
+    "Distinctive geometric and colorful art style",
+    "Blue sky",
+    "Birds",
+    "Girl in original illustrative style",
+    "Dog in original illustrative style",
+    "Girl and dog running",
+    "Girl and dog in the foreground",
+    "Girl and dog positioned from lower left towards the front of the house"
+  ],
+  "human_annotation": true
+}

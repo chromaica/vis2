@@ -1,0 +1,18 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "VFX and Particles",
+  "prompt": "A 2D black hole vortex, with swirling debris and glowing energy tendrils spiraling inward.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A 2D digital art rendering of a black hole vortex. At its dark, central core, luminous energy tendrils and swirling cosmic debris are seen spiraling intensely inward.",
+  "annotator": "maxku",
+  "objects": [
+    "black hole vortex",
+    "dark central core (of the black hole)",
+    "luminous energy tendrils",
+    "swirling cosmic debris"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

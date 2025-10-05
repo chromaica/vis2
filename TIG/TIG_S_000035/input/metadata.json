@@ -1,0 +1,19 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Dark-themed code editor with vibrant syntax highlighting in electric blues and greens, floating autocomplete suggestions, terminal-style interface with glowing cursor and Matrix-inspired visual effects",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A full-screen view of a dark-themed code editor, featuring vibrant syntax highlighting in electric blues and greens. The interface is styled like a traditional terminal, with a prominently glowing text cursor. Multiple lines of translucent, floating autocomplete suggestions are displayed directly beneath the active coding line. Subtle Matrix-inspired green digital rain cascades vertically in the background and along the edges of the screen.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Full-screen view",
+    "Dark-themed code editor",
+    "Vibrant syntax highlighting (electric blues and greens)",
+    "Terminal-styled interface",
+    "Prominently glowing text cursor",
+    "Multiple lines of translucent, floating autocomplete suggestions (beneath active coding line)",
+    "Subtle Matrix-inspired green digital rain (in background and along edges)"
+  ]
+}

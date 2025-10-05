@@ -1,0 +1,23 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Object detection visuals",
+  "prompt": "Desaturate only the selected persons in the reference image, keeping the background and other elements in full color.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Desaturate only the two persons depicted (Dumbledore on the left and Snape on the right) as identified by the bounding boxes in image 2. The background and all other elements in image 1 must retain their original full color.",
+  "annotator": "nimajamali",
+  "objects": [
+    "Dumbledore on the left (desaturated)",
+    "Snape on the right (desaturated)",
+    "Dimly lit room background (full color)",
+    "Old stone walls (full color)",
+    "Wall lamp (full color)",
+    "Dark ambiance (full color)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

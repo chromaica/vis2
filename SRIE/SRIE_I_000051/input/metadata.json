@@ -1,0 +1,27 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Apply the sketch style to the line graph",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 2 (the line graph) by applying the visual style from image 1 (the hand-drawn house sketch). The output should transform the line graph into a black and white sketch, mimicking the expressive line work and artistic texture of image 1.",
+  "annotator": "Johnny",
+  "objects": [
+    "Line graph structure",
+    "Multiple data lines (sketched)",
+    "Data points (sketched)",
+    "Vertical grid lines (sketched)",
+    "Horizontal axis (sketched)",
+    "Rectangular markers (sketched)",
+    "Short vertical lines below markers (sketched)",
+    "Black and white color scheme",
+    "Hand-drawn sketch texture",
+    "White background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

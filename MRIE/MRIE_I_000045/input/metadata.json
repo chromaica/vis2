@@ -1,0 +1,23 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "Edit image 1 by replacing the central train icon with the cleaner version from image 2. Replace the surrounding text with a modern branding text element 'face the sin, save the ego' inspired by the style and concept in image 3, maintaining the black background.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the central train icon, including its distressed style, with the cleaner and more defined version from image 2. Replace the radially arranged red text ('AVARITIA SUPERBIA INVIDIA GULA IRA ACCIDIA LUXURIA') within the octagonal border with the new branding text 'FACE THE SIN, SAVE THE E.G.O.' This new text should be rendered in a bold, clean sans-serif typeface, with a color (e.g., bright white or light gold) and aesthetic consistent with the branding elements shown in image 3. Maintain the original black background of image 1.",
+  "annotator": "maxku",
+  "objects": [
+    "black background",
+    "octagonal border (red)",
+    "clean, defined train icon (red and gold)",
+    "radially arranged text: 'FACE THE SIN, SAVE THE E.G.O.' (in bold, clean sans-serif, bright white or light gold color)",
+    "distressed train icon from image 1 (should not be present)",
+    "radially arranged red text ('AVARITIA SUPERBIA INVIDIA GULA IRA ACCIDIA LUXURIA') (should not be present)"
+  ],
+  "human_annotation": true
+}

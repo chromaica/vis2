@@ -1,0 +1,25 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Stylized art",
+  "prompt": "In the first image, remove the three cactuses and replace them with two trees from the third image and one cactus from the second image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 by removing the three cactuses in the foreground. Replace the large cactus on the right with the multi-lobed cactus from image 2. Replace the two smaller cactuses on the left with the two stylized trees from image 3, maintaining their relative arrangement.",
+  "annotator": "paria",
+  "objects": [
+    "large saguaro-like cactus (should not be present)",
+    "two smaller cactuses (should not be present)",
+    "multi-lobed cactus on the right",
+    "two stylized trees on the left",
+    "desert landscape",
+    "mountains",
+    "large cloud formation",
+    "blue sky"
+  ],
+  "human_annotation": true
+}

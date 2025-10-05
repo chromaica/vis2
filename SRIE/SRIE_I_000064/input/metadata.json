@@ -1,0 +1,24 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "Inserting toilet icon to the map.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Modify image 1, the map of Kennedy Town, by inserting a toilet icon. The inserted icon should match the black and white silhouette style shown in image 2 and be placed clearly visible within the green shaded area representing Belcher Bay Promenade.",
+  "annotator": "Johnny",
+  "objects": [
+    "Map of Kennedy Town",
+    "Water body/harbor",
+    "Green shaded area representing Belcher Bay Promenade",
+    "Text label: \"Belcher Bay Promenade, Kennedy Town\"",
+    "Text label: \"Kennedy Town MTR Station\"",
+    "Green \"C\" icon and dotted line/arrow",
+    "Toilet icon",
+    "Toilet icon in black and white silhouette style",
+    "Toilet icon placed within the green shaded area"
+  ]
+}

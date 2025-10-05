@@ -1,0 +1,22 @@
+{
+  "subtopic": "CAD models",
+  "prompt": "Change the white background to a light gray CAD grid pattern.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751798514171,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit Image 1: Change the white background to a light gray CAD grid pattern.",
+  "annotator": "edisy",
+  "objects": [
+    "yellow-green mechanical component",
+    "dimension lines",
+    "dimension numbers",
+    "diameter symbols",
+    "white background (should not be present)",
+    "light gray CAD grid pattern"
+  ]
+}

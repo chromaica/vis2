@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "Produce a microscopic-style image inspired by the fungal hyphae in the first reference image, replacing the filaments with the blue embroidery threads from the second reference image. Arrange the threads in a sprawling, branching network to mimic the hyphal structure, with some threads fraying or looping for organic chaos. Set the scene against a creamy white background with faint, speckled spores to suggest a fungal growth medium. Vary the thread thickness and add subtle knots or fuzz to some threads, incorporating a soft blue glow to enhance the microscopic, ethereal feel.",
+  "cond_images": [
+    "1.png",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic, microscopic-style image. The central composition should feature a dense, sprawling, and intricately branching network, visually inspired by the fungal hyphae structure in image 1. This network should be entirely composed of blue embroidery threads, adopting the vibrant blue hues and distinct textural qualities (e.g., slight sheen, weave) observed in image 2. Ensure varied thread thicknesses throughout the network. Integrate organic elements such as subtle fraying at thread ends and occasional loose loops to create a natural, untamed appearance. Add delicate textural details like small knots or soft fuzz along some thread segments. The threads should be set against a uniform creamy white background, resembling a fungal growth medium. Scatter faint, speckled, spore-like particles sparsely across the background to enhance this illusion. A soft, ethereal blue glow should subtly emanate from and around the threads, reinforcing the microscopic and otherworldly feel.",
+  "objects": [
+    "Dense, sprawling, intricately branching network",
+    "Blue embroidery threads",
+    "Varied thread thicknesses",
+    "Subtle fraying at thread ends",
+    "Occasional loose loops of thread",
+    "Small knots on thread segments",
+    "Soft fuzz on thread segments",
+    "Uniform creamy white background",
+    "Faint, speckled, spore-like particles",
+    "Soft, ethereal blue glow emanating from and around the threads"
+  ]
+}

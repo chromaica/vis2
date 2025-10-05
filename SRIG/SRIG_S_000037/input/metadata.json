@@ -1,0 +1,28 @@
+{
+  "subtopic": "Receipts",
+  "prompt": "Generate a simple, clean vector illustration of a digital food delivery receipt displayed on a narrower phone screen. Mimic the text hierarchy, list format, clean layout, and pink/white branding from the reference screenshot.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://imgv2-1-f.scribdassets.com/img/document/420947886/original/2c70c16295/1?v=1",
+  "searchQueryGenerated": "high resolution screenshot of receipt",
+  "searchQueryGeneratedTimestamp": 1749434829259,
+  "promptGeneratedTimestamp": 1749435225350,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a simple, clean vector illustration of a digital food delivery receipt. The receipt should be displayed on a narrower, vertically oriented phone screen. Emulate the specific pink and white 'foodpanda' branding, the detailed text hierarchy (including the top email-like header, the main invoice information, the itemized food order list with 'Dish', 'Quantity', 'Unit Price', 'Price' columns, and the final cost breakdown), the list format, and the overall clean, minimalist layout observed in image 1.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Narrow, vertically oriented phone screen",
+    "Pink and white Foodpanda logo",
+    "Top email-like header section (with \"Your foodpanda order\" text, \"From:\", \"To:\", \"Date:\" fields)",
+    "Main invoice information section (with \"Invoice\" title, \"Food Delivery\" subtitle, \"Sold to:\", \"Company:\", \"Street:\", \"Restaurant:\" details, and \"Tax receipt:\", \"Date:\", \"SST No:\" details)",
+    "Itemized food order list section (with \"Dish\", \"Quantity\", \"Unit Price\", \"Price\" column headers)",
+    "Individual food item entries (e.g., \"NASI GORENG KAMBING\", \"ROTI PISANG\", \"ROTI TELUR BAWANG\", \"ROTI TAMPAL\", \"NASI GORENG KAMPUNG AYAM\" with corresponding quantities and prices)",
+    "Final cost breakdown section (including \"Subtotal\", \"Difference to minimum value\", \"Delivery fee\", \"Service fee\", \"Container charges\", \"Discount\", \"Voucher\" and their associated values)",
+    "Horizontal line separators",
+    "White background for the receipt content",
+    "Specific text content and numerical values as observed in the reference image"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "Generate a cyberpunk cityscape with blue lights reflecting on wet pavement.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a cyberpunk cityscape, inspired by image 1, depicting a narrow street at night lined with tall, futuristic buildings. Vivid blue, purple, and pink neon lights emanate from storefronts and building facades, casting strong, glistening reflections on the wet pavement that stretches into the distance. A towering, illuminated skyscraper is visible in the foggy background, viewed from a one-point perspective looking directly down the street.",
+  "annotator": "Johnny",
+  "objects": [
+    "Cyberpunk cityscape",
+    "Narrow street",
+    "Night setting",
+    "Tall, futuristic buildings",
+    "Vivid blue, purple, and pink neon lights",
+    "Storefronts",
+    "Building facades",
+    "Wet pavement",
+    "Strong, glistening reflections on the pavement",
+    "Towering, illuminated skyscraper in the foggy background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

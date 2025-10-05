@@ -1,0 +1,22 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "Transform image 1's icon: apply the faceted 3D structure from image 2, adding the metallic border and inner space texture from image 3. Keep the black background.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Transform the orange downward arrow in image 1 by applying the distinct faceted 3D geometry from the arrow in image 2. Incorporate the silver metallic border from image 3 to outline this newly shaped arrow, and fill its interior with the cosmic starfield texture including the blue comet streak, also from image 3. Retain the original black background.",
+  "annotator": "maxku",
+  "objects": [
+    "downward arrow",
+    "faceted 3D geometry",
+    "silver metallic border",
+    "cosmic starfield texture",
+    "blue comet streak",
+    "black background"
+  ]
+}

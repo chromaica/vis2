@@ -1,0 +1,27 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Generate a 3-panel meme arranged horizontally. Panel 1 with first image and with caption: 'ME BEFORE THE EXAM'. Panel 2 with second image and with caption: 'ME DURING THE EXAM'. Panel 3 with third image and with caption: 'ME SUBMITTING IT ANYWAY'. Use bold white Impact font with black outline, centered at the bottom of each panel.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a three-panel meme arranged horizontally.\n\n**Left Panel:** Feature the visual content from image 1, showing a close-up of Albert Einstein with tired, red eyes, holding a lit cigarette, against a blackboard background. Overlay the text 'ME BEFORE THE EXAM' in bold white Impact font with a black outline, centered at the bottom of this panel.\n\n**Middle Panel:** Incorporate the visual elements from image 2, depicting two close-up frames of Nemo's eye, with one squinting and the other wide open. Overlay the text 'ME DURING THE EXAM' in bold white Impact font with a black outline, centered at the bottom of this panel.\n\n**Right Panel:** Display the scene from image 3, featuring a smiling Barbie doll in the foreground with a car engulfed in flames in the background. Overlay the text 'ME SUBMITTING IT ANYWAY' in bold white Impact font with a black outline, centered at the bottom of this panel.",
+  "annotator": "parnian",
+  "objects": [
+    "Three-panel horizontal arrangement",
+    "Albert Einstein with tired, red eyes",
+    "Lit cigarette",
+    "Blackboard background",
+    "Text 'ME BEFORE THE EXAM'",
+    "Two close-up frames of Nemo's eye, one squinting and one wide open",
+    "Text 'ME DURING THE EXAM'",
+    "Smiling Barbie doll in foreground",
+    "Car engulfed in flames in background",
+    "Text 'ME SUBMITTING IT ANYWAY'"
+  ],
+  "human_annotation": true
+}

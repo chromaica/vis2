@@ -1,0 +1,27 @@
+{
+  "subtopic": "Receipts",
+  "prompt": "Edit image 1: Transform the 'TOTAL DUE' section to visually represent a successful payment confirmation, using the style and incorporating the green checkmark icon from the 'Payment Successful' section of image 2.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1750833644075,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit image 1: In the bottom right corner, transform the 'TOTAL DUE' section to visually confirm a successful payment of '500.00'. Integrate the overall visual style, including background color and text aesthetics, and the specific green checkmark icon from the 'Payment Successful' section of image 2 into this transformed area. Position the green checkmark prominently, similar to its placement next to the amount in image 2.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Hairdressing receipt document",
+    "Bottom right section transformed to visually confirm successful payment",
+    "Text \"Payment Successful\" in the transformed bottom right section",
+    "Amount \"500.00\" in the transformed bottom right section",
+    "Green checkmark icon in the transformed bottom right section",
+    "Green checkmark icon prominently positioned next to \"500.00\"",
+    "Light grey background for the transformed bottom right section",
+    "Text aesthetics for \"Payment Successful\" and \"500.00\" matching image 2's success section",
+    "\"TOTAL\" label with value \"500.00\" above the transformed section",
+    "\"PAID\" label with its value (hyphen) above the transformed section"
+  ]
+}

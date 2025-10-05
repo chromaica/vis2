@@ -1,0 +1,24 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "A underwater coral reef with this glass bottle.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate an artwork of a vibrant underwater coral reef. The clear glass bottle from image 1, with its wooden stopper, is positioned upright on the seabed among colorful corals and diverse marine life.",
+  "annotator": "Johnny",
+  "objects": [
+    "artwork style",
+    "vibrant underwater coral reef",
+    "clear glass bottle from image 1",
+    "wooden stopper from image 1",
+    "seabed",
+    "bottle positioned upright on the seabed",
+    "colorful corals",
+    "diverse marine life"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

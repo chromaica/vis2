@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "Generate a cartoon snake shaped like in image 2, but composed entirely of the word 'SNAKE' using the bold curved red lettering and side phrase style from image 1.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a cartoon snake graphic. The snake should adopt the coiled posture and simplified, friendly character design of the snake in image 2. Its entire form, including the head, body, and tail, must be composed of the word 'SNAKE'. The letters of 'SNAKE' should be rendered in the distinctive bold, rounded, red lettering style of the 'CHERRY' text from image 1, with the letters curving organically to define the snake's shape. Additionally, incorporate a small, vertically arranged phrase, similar to 'don't you call him baby' in image 1, positioned along one side of the snake's body, using the same thin, cursive, dark font.",
+  "annotator": "parnian",
+  "objects": [
+    "cartoon snake graphic",
+    "snake in a coiled posture",
+    "simplified, friendly snake character design",
+    "the word 'SNAKE' forming the snake's entire body (head, body, and tail)",
+    "bold, rounded, red lettering for 'SNAKE'",
+    "letters of 'SNAKE' organically curving to define the snake's shape",
+    "small phrase along one side of the snake's body",
+    "phrase vertically arranged",
+    "thin, cursive, dark font for the phrase"
+  ],
+  "human_annotation": true
+}

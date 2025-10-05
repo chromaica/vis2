@@ -1,0 +1,23 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "Replace the cat in the first image with the cat from the second image, and add the Tom cat from the third image to the street next to the people standing in the first image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit Image 1, which depicts a street scene with a large black cat. Replace the large black cat in the upper center of Image 1 with the ginger kitten from Image 2. Concurrently, add the Tom cat character from Image 3 onto the cobbled street in the foreground of Image 1, positioning him among the group of people.",
+  "annotator": "paria",
+  "objects": [
+    "street scene",
+    "buildings",
+    "cobbled street",
+    "group of people on the cobbled street",
+    "large black cat (should not be present)",
+    "ginger kitten in the upper center",
+    "Tom cat character on the cobbled street among the group of people"
+  ]
+}

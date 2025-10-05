@@ -1,0 +1,27 @@
+{
+  "subtopic": "Websites",
+  "prompt": "Edit image 1: Apply the warm, yellowish-brown color tint and soft, blurred photographic style from the header image in image 2 to the main dark background area of the hero section in image 1.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1752236574613,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "annotator": "ishengfang",
+  "prompt_refined": "Edit image 1: Modify the large, solid dark background area of the hero section at the top of the webpage screenshot, making it appear as a soft, blurred photograph with a warm, yellowish-brown color tint, replicating the overall style and atmosphere of the header image in image 2.",
+  "objects": [
+    "\"FRIDAY\" logo",
+    "Website top navigation bar (Products, Templates, Resources, Pricing, Login, Get Started buttons)",
+    "Soft, blurred photograph with a warm, yellowish-brown tint (as the hero section background)",
+    "\"Create A Website In Minutes\" text",
+    "\"Easily build your own website and online store...\" text",
+    "\"Get Started\" button (in the hero section)",
+    "Embedded webpage screenshot with a woman and man wearing glasses",
+    "\"A frame for every mood\" text (within the embedded screenshot)",
+    "Sales chart/graph (within the embedded screenshot)",
+    "Yellow dots (below the embedded screenshot)"
+  ]
+}

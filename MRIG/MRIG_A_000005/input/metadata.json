@@ -1,0 +1,23 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "Create a digital painting featuring the character from image 1, particularly her red hair and iconic jacket, rendered using the soft, painterly art style and vibrant warm color palette seen in image 2, achieving an ethereal feel.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a digital painting featuring the character from image 1, Vi from Arcane, specifically emphasizing her signature short red hair and distinctive maroon leather jacket. The artwork should be rendered in the soft, painterly art style observed in image 2, characterized by smooth blending and luminous effects. Utilize the vibrant warm color palette from image 2, rich with oranges, golden yellows, and fiery reds, to evoke an ethereal and dreamlike atmosphere.",
+  "annotator": "samin",
+  "objects": [
+    "Vi (the character from Arcane)",
+    "Short red hair (of Vi)",
+    "Maroon leather jacket (of Vi)",
+    "Oranges (as a dominant color)",
+    "Golden yellows (as a dominant color)",
+    "Fiery reds (as a dominant color)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

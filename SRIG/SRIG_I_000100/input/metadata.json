@@ -1,0 +1,21 @@
+{
+  "subtopic": "Icons and symbols",
+  "prompt": "From the logistics truck icon reference, create five icons representing shipping methods: air freight, sea freight, rail cargo, drone delivery, and bicycle courier.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://cdn1.iconfinder.com/data/icons/industry-and-manufacturing-flat-line-processing/512/cargo_truck-512.png",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate a single image containing five distinct icons, each representing a shipping method: air freight, sea freight, rail cargo, drone delivery, and bicycle courier. Each icon must strictly adhere to the minimalist flat design, side-view perspective, and the specific color palette (orange, blue-grey, dark grey, and white highlights) as seen in the logistics truck icon of image 1. Arrange the five icons clearly, separated but within the same visual frame, suitable for an information graphic.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "air freight icon",
+    "sea freight icon",
+    "rail cargo icon",
+    "drone delivery icon",
+    "bicycle courier icon"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

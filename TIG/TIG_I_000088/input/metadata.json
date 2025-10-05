@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "Design a social media icon featuring a paper airplane made of folded pixels, holographic gradient background, glassmorphism effect",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a square social media icon. In the center, a paper airplane is rendered in a folded pixel art style, appearing as if constructed from low-polygon or voxel shapes. The background features a smooth, iridescent holographic gradient. The entire icon design incorporates a prominent glassmorphism effect, showcasing blurred transparency and frosted glass elements.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Square social media icon",
+    "Paper airplane (in the center)",
+    "Folded pixel art style",
+    "Low-polygon or voxel shapes",
+    "Smooth iridescent holographic gradient background",
+    "Prominent glassmorphism effect",
+    "Blurred transparency elements",
+    "Frosted glass elements"
+  ],
+  "human_annotation": true
+}

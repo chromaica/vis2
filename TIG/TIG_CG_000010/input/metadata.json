@@ -1,0 +1,17 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "3D renders",
+  "prompt": "A blender render of a realistic tesla car, blue colored.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A high-detail, photorealistic 3D render of a realistic Tesla car, colored in a metallic blue. The rendering style should emulate a professional Blender studio presentation, complete with realistic lighting and reflections.",
+  "annotator": "maxku",
+  "objects": [
+    "Tesla car",
+    "Metallic blue finish",
+    "Studio presentation environment",
+    "Realistic lighting",
+    "Realistic reflections"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "oil paintings",
+  "prompt": "A whimsical oil painting of a fairytale castle at midnight, with shimmering reflections in the surrounding tranquil moat under a starlit sky.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A whimsical oil painting of a majestic fairytale castle at deep midnight. The tranquil, mirror-like moat encircling the castle beautifully reflects the castle's shimmering lights and the countless, vibrant stars in the vast night sky above.",
+  "annotator": "cwhsu",
+  "objects": [
+    "majestic fairytale castle",
+    "tranquil, mirror-like moat encircling the castle",
+    "vast night sky",
+    "countless, vibrant stars",
+    "shimmering lights on the castle",
+    "reflections of the castle in the moat",
+    "reflections of the stars in the moat"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

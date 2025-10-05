@@ -1,0 +1,24 @@
+{
+  "subtopic": "Volume Rendering",
+  "prompt": "Change the color mapping for the bone structure in the volume rendering from blue/cyan to a bright yellow.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751799520368,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1. Apply a new color mapping to the bone structure in the volume rendering, changing its current blue and cyan hues to a bright yellow.",
+  "annotator": "edisy",
+  "objects": [
+    "Volume rendering of human head and neck",
+    "Skull bone structure with a bright yellow hue",
+    "Mandible bone structure with a bright yellow hue",
+    "Cervical spine bone structure with a bright yellow hue",
+    "Transparent soft tissue outline of the head and neck",
+    "Dark background",
+    "Medical annotation labels (H, R, L, F, 1)"
+  ],
+  "human_annotation": true
+}

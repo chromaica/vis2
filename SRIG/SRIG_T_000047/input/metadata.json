@@ -1,0 +1,22 @@
+{
+  "subtopic": "Posters",
+  "prompt": "Create a Textual Graphics poster design following the composition and scattered layout of the reference image. Incorporate elements with a crackled ceramic texture and small painted floral patterns, fitting for a Posters visual.",
+  "cond_images": [
+    "1.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1750705597338,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "T",
+  "annotator": "winston",
+  "prompt_refined": "Generate a poster design for Textual Graphics. The overall composition should emulate the scattered arrangement of multiple distinct, irregularly shaped elements, including their varying orientations and slight overlaps, similar to the objects displayed in image 1. Apply a prominent crackled ceramic texture to all textual and graphical elements within the poster design. Additionally, integrate small, hand-painted floral patterns, mirroring those found on the objects in image 1, onto specific elements within the composition.",
+  "objects": [
+    "Poster design for Textual Graphics",
+    "Text for \"Textual Graphics\"",
+    "Multiple distinct irregularly shaped graphical elements",
+    "Crackled ceramic texture applied to textual and graphical elements",
+    "Small hand-painted floral patterns on specific elements"
+  ],
+  "human_annotation": true
+}

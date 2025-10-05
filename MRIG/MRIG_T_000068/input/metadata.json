@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Generate a two-panel meme (horizontal).Left panel with first image and with caption: 'THE ONE WHO DID ALL THE WORK'. Right panel with the second image and with caption: 'THE ONE WHO MADE THE SLIDES'. Use classic meme-style bold white uppercase text, top-centered.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a horizontal two-panel meme. The left panel must display image 1 (featuring a disgruntled Shrek-like character) with the top-centered caption 'THE ONE WHO DID ALL THE WORK'. The right panel must display image 2 (featuring a smiling Barbie-like character in front of a burning car) with the top-centered caption 'THE ONE WHO MADE THE SLIDES'. All captions should use classic meme-style bold white uppercase text.",
+  "annotator": "parnian",
+  "objects": [
+    "Horizontal two-panel meme layout",
+    "Left panel",
+    "Disgruntled Shrek-like character (in left panel)",
+    "Dirty white hoodie (on Shrek-like character)",
+    "Top-centered caption 'THE ONE WHO DID ALL THE WORK' (bold white uppercase text, in left panel)",
+    "Right panel",
+    "Smiling Barbie-like character (in right panel)",
+    "Pink outfit (on Barbie-like character)",
+    "Burning car (in right panel, behind Barbie-like character)",
+    "Top-centered caption 'THE ONE WHO MADE THE SLIDES' (bold white uppercase text, in right panel)"
+  ]
+}

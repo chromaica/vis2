@@ -1,0 +1,24 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": "Turn these into jagged 'shout' bubbles with red outlines.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the yellow rectangular text bubble in the bottom-right quadrant with a jagged 'shout' bubble. The new bubble must have prominent red outlines. Use image 2 as a reference for the approximate size and placement of the new bubble.",
+  "annotator": "theblackcat",
+  "objects": [
+    "superhero character (Dollman)",
+    "creature/monster",
+    "green background",
+    "yellow rectangular text bubble (should not be present)",
+    "jagged 'shout' bubble in the bottom-right quadrant",
+    "prominent red outlines on the jagged 'shout' bubble",
+    "text within the jagged 'shout' bubble: \"THE GREEN EYES OF TIPPY GROW AS LARGE AS THE DOLLMAN!!\""
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

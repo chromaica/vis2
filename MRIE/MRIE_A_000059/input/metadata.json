@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Traditional art",
+  "prompt": "Replace the green apple and the background in the first image with the red apple from the second image and the sea painting from the third image, respectively.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the green apple located in front of the man's face with the red apple from image 2. Subsequently, replace the blue sky and distant ocean background with the full sunset beach and ocean scene from image 3. Ensure the man and the foreground wall from image 1 maintain their original composition and artistic style.",
+  "annotator": "paria",
+  "objects": [
+    "Man",
+    "Foreground wall",
+    "Red apple in front of man's face",
+    "Sunset sky",
+    "Ocean waves",
+    "Beach",
+    "Distant mountains",
+    "Green apple (should not be present)",
+    "Blue sky (should not be present)",
+    "Distant ocean (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

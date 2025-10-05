@@ -1,0 +1,26 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Change this flowchart to flow from bottom to top.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the flowchart in image 1. Transform the flowchart so that its overall information flow progresses visually from the bottom to the top of the diagram. To achieve this, reverse the direction of all existing arrows to point upwards. Additionally, reorder and reposition the flowchart nodes (boxes) vertically so that the process steps begin at the bottom of the diagram and conclude at the top. Preserve the original text content within each node and maintain the relative horizontal relationships and overall visual style of the flowchart.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Flowchart node with text \"Customer Approval and sign-off\"",
+    "Flowchart node with text \"Compile System Validation Report\"",
+    "Flowchart node with text \"IQ\"",
+    "Flowchart node with text \"OQ\"",
+    "Flowchart node with text \"PQ\"",
+    "Flowchart node with text \"Risk Assessment\"",
+    "Flowchart node with text \"Plan the System Validation\"",
+    "Upward-pointing flowchart arrows connecting the nodes",
+    "\"Autoscribe INFORMATICS\" logo",
+    "White background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

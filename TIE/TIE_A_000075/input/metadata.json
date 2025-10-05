@@ -1,0 +1,20 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Cultural or Heritage art",
+  "prompt": "Change the texture of the canvas to linen. Keep everything else the same.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Transform the texture of the artwork's background surface to resemble a linen canvas. Preserve all painted elements, including the plants, birds, and abstract rock formations, ensuring their colors, shapes, and positions remain entirely unchanged from the source image. The modification should be limited solely to the underlying surface texture.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Linen canvas textured background",
+    "Painted plants",
+    "Painted birds",
+    "Abstract rock formations"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

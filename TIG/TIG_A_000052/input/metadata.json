@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Glitch Art",
+  "prompt": "A distorted portrait of a woman with overlapping features, set against a flickering neon grid background.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A distorted portrait of a woman with prominent, overlapping facial features, set against a flickering neon grid background.",
+  "annotator": "cwhsu",
+  "objects": [
+    "distorted portrait",
+    "woman",
+    "prominent facial features",
+    "overlapping facial features",
+    "flickering effect",
+    "neon grid",
+    "background"
+  ],
+  "human_annotation": true
+}

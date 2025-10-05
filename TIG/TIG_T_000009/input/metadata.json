@@ -1,0 +1,19 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Graffiti (Text-based)",
+  "prompt": "A train car side transformed by wildstyle graffiti: 'FREEDOM' explodes in vivid orange and deep purple spray paint, showcasing intricate outlines and energetic, flowing forms.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Wildstyle graffiti on a train car side, featuring the word 'FREEDOM' dynamically rendered in vivid orange and deep purple spray paint, with intricate outlines and energetic, flowing forms.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Wildstyle graffiti",
+    "Train car side",
+    "The word 'FREEDOM'",
+    "Vivid orange spray paint",
+    "Deep purple spray paint",
+    "Intricate outlines on the graffiti",
+    "Energetic, flowing forms in the graffiti"
+  ]
+}

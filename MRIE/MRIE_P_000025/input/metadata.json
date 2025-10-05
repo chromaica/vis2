@@ -1,0 +1,21 @@
+{
+  "task": "MRIE",
+  "topic": "P",
+  "subtopic": "Wildlife & Nature Photography",
+  "prompt": "Replace the black cat from the first image with the 2 chicks from the second image. Then add some of those purple flowers from the third image just next to the chicks.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the black cat in the central grassy area of image 1 with the two chicks from image 2, positioning them naturally where the cat was. Subsequently, add clusters of the purple lilac flowers from image 3 directly alongside the newly placed chicks.",
+  "annotator": "boris",
+  "objects": [
+    "black cat (should not be present)",
+    "two chicks",
+    "grassy area",
+    "clusters of purple lilac flowers alongside the chicks"
+  ],
+  "human_annotation": true
+}

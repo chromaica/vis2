@@ -1,0 +1,26 @@
+{
+  "subtopic": "Game assets",
+  "prompt": "Add significant rust, dents, and scratches to all metal assets like pipes and barriers, showing heavy industrial wear and tear.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751797828118,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1. Apply heavy industrial wear and tear to all metal assets, adding significant rust, deep dents, and prominent scratches. Specifically target the orange barrel, the grey safety barrier and fence, the trash bins, the base and top grates of the large cylindrical sign, the frames of the 'PIZZA' and 'OPEN' signs, all pipes (including the single curved pipe, the long vertical pipe, and the double curved pipes on the right), the rectangular grates, the large square industrial unit with a flexible pipe (bottom center), the two large rectangular industrial units (bottom right), the tall vertical pole, the antenna structure, and the small fence section (bottom right). Ensure the wear is extensive and visibly aged.",
+  "annotator": "edisy",
+  "objects": [
+    "orange barrel",
+    "grey safety barrier",
+    "trash bins",
+    "large cylindrical sign",
+    "frames of the 'PIZZA' and 'OPEN' signs",
+    "all pipes (including the single curved pipe, the long vertical pipe, and the double curved pipes on the right)",
+    "rectangular grates",
+    "large square industrial unit with a flexible pipe (bottom center)",
+    "two large rectangular industrial units (bottom right)",
+    "antenna structure"
+  ]
+}

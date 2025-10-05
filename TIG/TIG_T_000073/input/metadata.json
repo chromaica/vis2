@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Calligraphy",
+  "prompt": "Calligraphic expression: 'Write On' executed with dynamic, wet brush strokes in deep black ink, on a visibly textured paper surface.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A dynamic calligraphic rendering of the phrase 'Write On', executed with wet, deep black ink brush strokes that appear to bleed slightly. The calligraphy is centered on a visibly textured paper surface, showcasing its natural grain and imperfections.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Calligraphy of the phrase \"Write On\"",
+    "Deep black ink",
+    "Wet appearance of ink",
+    "Ink brush strokes",
+    "Slightly bleeding ink effect",
+    "Textured paper surface",
+    "Natural paper grain",
+    "Paper imperfections",
+    "Centered calligraphy"
+  ]
+}

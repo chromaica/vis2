@@ -1,0 +1,23 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "Generate the word 'Power' with 3D layout and perspective from the first image, but each letter formed using serif styles from the second.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate the word 'Power' rendered as bold, three-dimensional (3D) block lettering. Apply the dynamic, receding perspective from image 1, where the letters of 'Power' appear to converge towards a central vanishing point, creating a strong sense of depth. Each individual letter ('P', 'o', 'w', 'e', 'r') must be formed using a clear serif typeface, consistent with the letterforms displayed in image 2.",
+  "annotator": "parnian",
+  "objects": [
+    "The word \"Power\"",
+    "Bold lettering",
+    "Three-dimensional (3D) block lettering",
+    "Letters 'P', 'o', 'w', 'e', 'r'",
+    "Serif typeface for each letter",
+    "Dynamic, receding perspective",
+    "Letters converging towards a central vanishing point",
+    "Sense of depth"
+  ]
+}

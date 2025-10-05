@@ -1,0 +1,23 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Stylized art",
+  "prompt": "A stylized artwork combining the desert landscape and warm lighting of image 1, featuring a tree inspired by the silhouette form of image 2, all rendered in the vibrant, swirling, abstract painting style of image 3.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a stylized artwork depicting a desert landscape. The scene should embody the undulating sand dunes and the warm, golden hour lighting with pronounced shadows from image 1. A distinctive tree, clearly inspired by the broad, textured silhouette and branching form of image 2, should be a central or prominent element in the composition. The entire image must be rendered in the vibrant, highly abstract, and fluid painting style characteristic of image 3, featuring its dynamic swirling lines, expressive brushwork, and rich, saturated color blending.",
+  "annotator": "samin",
+  "objects": [
+    "Desert landscape",
+    "Undulating sand dunes",
+    "Distinctive tree (prominent or central)",
+    "Warm, golden hour lighting",
+    "Pronounced shadows",
+    "Dynamic swirling lines",
+    "Rich, saturated color blending"
+  ]
+}

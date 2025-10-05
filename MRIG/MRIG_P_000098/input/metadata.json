@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "Create a textbook-style illustration featuring a single diatom. Use a detailed, stippled pen-and-ink style with pops of turquoise, gold, and green to highlight its intricate silica pattern. Simplify high-resolution textures into clean, stippled lines, drawing inspiration from diverse shapes (centric, pennate, or star-shaped).  Simplify the high-resolution textures from  the first reference image into clean, stippled lines, and draw inspiration from the second reference image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a textbook-style illustration of a single centric diatom. Meticulously depict the diatom's intricate silica patterns using a detailed stippled pen-and-ink technique. Incorporate pops of turquoise, gold, and green to highlight specific structural details. Simplify the high-resolution external textures and overall form from image 1 into clean, precise stippled lines, accurately capturing its characteristic centric shape. Additionally, draw inspiration from the radial internal patterns and translucent appearance of image 2. The final illustration should be clear and suitable for a scientific publication.",
+  "objects": [
+    "A single centric diatom",
+    "Intricate silica patterns",
+    "Stippled pen-and-ink technique",
+    "Turquoise colored highlights",
+    "Gold colored highlights",
+    "Green colored highlights",
+    "Characteristic centric shape",
+    "Radial internal patterns",
+    "Translucent appearance",
+    "Clear, simple background"
+  ],
+  "human_annotation": true
+}

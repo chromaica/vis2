@@ -1,0 +1,24 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Medical images",
+  "prompt": "Visualize this virus attaching to human lung cells in a microscopic environment with realistic biological textures.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic microscopic image depicting the virus from image 1, a roughly spherical particle with prominent spike proteins, in the precise moment of attaching to the textured surface of a human lung cell. The virus should be centrally or prominently positioned, with its spike proteins visibly interacting with the cell membrane. Emphasize intricate biological textures for both the virus and the lung cell, showcasing membrane details, receptor sites, and glycoprotein structures. The environment should convey a deep, realistic cellular space with appropriate lighting for a scientific, microscopic observation.",
+  "annotator": "samin",
+  "objects": [
+    "Virus (roughly spherical with prominent spike proteins, matching Image 1's structure)",
+    "Human lung cell",
+    "Textured surface of the lung cell",
+    "Virus attaching to the lung cell surface",
+    "Virus spike proteins interacting with cell membrane",
+    "Cell membrane details",
+    "Receptor sites (on cell)",
+    "Glycoprotein structures (on cell)",
+    "Deep, realistic cellular space",
+    "Scientific, microscopic observation lighting"
+  ]
+}

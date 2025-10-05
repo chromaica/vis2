@@ -1,0 +1,27 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "In image 1, remove the orange butterflies and replace them with the pink butterflies from image 2. Also, replace the volcanic earth planet with the Saturn planet from image 3.",
+  "cond_images": [
+    "1.jpg",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the three orange butterflies in the upper-right section with three pink butterflies, adopting the style and aesthetic of the butterflies in image 2. In the upper-left section, replace the fiery volcanic Earth-like planet near the black hole with the planet Saturn from image 3, ensuring it fits into the same compositional space.",
+  "annotator": "paria",
+  "objects": [
+    "Three pink butterflies in the upper-right section",
+    "Planet Saturn in the upper-left section",
+    "Black hole",
+    "Mountains",
+    "Starry sky",
+    "Pond with water lilies",
+    "Red flowers",
+    "Purple flowers",
+    "Fiery volcanic Earth-like planet (should not be present)",
+    "Three orange butterflies (should not be present)"
+  ],
+  "human_annotation": true
+}

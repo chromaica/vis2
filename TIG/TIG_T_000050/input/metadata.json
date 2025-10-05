@@ -1,0 +1,23 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": "A dynamic comic book sound effect: 'BAM!' rendered in vivid emerald green comic font, dramatically angled, with a thick black outline and sharp, jagged edges. This is set against a bright, energetic yellow starburst background, amplified by radiating red and blue speed lines to convey powerful impact.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A dynamic comic book graphic: The word 'BAM!' in vivid emerald green comic font, dramatically angled, with a thick black outline and sharp, jagged edges. This text is centrally positioned against a bright, energetic yellow starburst background, amplified by radiating red and blue speed lines extending outwards to convey powerful impact.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "The word 'BAM!'",
+    "Emerald green text color",
+    "Comic font",
+    "Angled text orientation",
+    "Thick black outline for text",
+    "Jagged edges for text",
+    "Centrally positioned text",
+    "Yellow starburst background",
+    "Radiating red speed lines",
+    "Radiating blue speed lines"
+  ],
+  "human_annotation": true
+}

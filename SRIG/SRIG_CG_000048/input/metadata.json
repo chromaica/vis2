@@ -1,0 +1,26 @@
+{
+  "subtopic": "VFX and Particles",
+  "prompt": "Use the dynamic mid-air pose and upward perspective from the reference image. Generate a computer graphics scene with a figure creating vivid particle trails and energy bursts during a jump, showcasing VFX.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://itoldya420.getarchive.net/amp/media/jump-sport-hop-sports-a909bf",
+  "promptGeneratedTimestamp": 1748768069563,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a computer graphics scene. Utilize the dynamic mid-air pose of the figure and the upward, low-angle perspective from image 1. The central figure, captured mid-jump, should be actively creating vivid particle trails and intense energy bursts, prominently showcasing visual effects (VFX). The background should feature a bright, partly cloudy sky with distant mountains and a stadium structure visible in the lower portion of the frame, mirroring the overall composition and lighting from image 1.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Central human figure in mid-air jump pose",
+    "Vivid particle trails",
+    "Intense energy bursts",
+    "Bright blue sky",
+    "White clouds",
+    "Distant mountains",
+    "Stadium structure in lower portion of frame",
+    "Green field in lower foreground",
+    "Upward, low-angle perspective",
+    "Sunny lighting"
+  ]
+}

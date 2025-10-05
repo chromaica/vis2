@@ -1,0 +1,25 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "QR Code",
+  "prompt": "Edit image 1 by replacing the original black-and-white QR code with the QR code from image 3, keeping its central alignment and size. Then, insert the PayPal logo from image 2 at the bottom-right corner of the card below the text, scaled down to not exceed the text height. Keep all fonts and borders unchanged.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the 'Review us on Google' card. Replace the existing QR code on the card with the QR code from image 3, maintaining its central alignment and original size. Insert the PayPal logo from image 2 into the bottom-right corner of the card, positioned below the 'Scan the above QR code...' text. Ensure the PayPal logo's height does not exceed the height of this text. Keep all existing fonts and borders on the card unchanged.",
+  "annotator": "parnian",
+  "objects": [
+    "\"Review us on Google\" card",
+    "Google logo on the card",
+    "Text: \"Review us on Google\"",
+    "QR code from image 3, centrally aligned on the card",
+    "PayPal logo from image 2, in the bottom-right corner below the \"Scan the above QR code...\" text",
+    "Text: \"Scan the above QR code with your smart phone and make our day by leaving us a review on Google!\"",
+    "Colored borders of the card (red, blue, yellow, green)",
+    "Wooden stand",
+    "Existing QR code from image 1 (should not be present)"
+  ]
+}

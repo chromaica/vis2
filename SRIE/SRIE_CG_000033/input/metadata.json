@@ -1,0 +1,23 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Depth maps",
+  "prompt": "Place the cartoonish octopus from the reference at the same depth as the pineapple house (scale accordingly), and overlay a consistent depth map on the whole image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, which serves as the source image and features Spongebob, Patrick, and the pineapple house. Introduce the character Squidward from image 2 (the reference image) into image 1. Position Squidward such that he appears at the same depth plane as the pineapple house, scaling him proportionally to maintain consistent perspective. Subsequently, overlay a consistent, full-scene depth map onto the entire edited image.",
+  "annotator": "nimajamali",
+  "objects": [
+    "Spongebob",
+    "Patrick",
+    "Pineapple house",
+    "Squidward",
+    "Sandy seabed",
+    "Blue water",
+    "Flower-shaped clouds",
+    "Consistent, full-scene depth map overlay"
+  ]
+}

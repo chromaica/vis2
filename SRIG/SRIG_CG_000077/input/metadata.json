@@ -1,0 +1,24 @@
+{
+  "subtopic": "3D renders",
+  "prompt": "A realistic 3D render of a futuristic jet cockpit view, flying over mountains through clouds at sunset, inspired by the reference image's dynamic angle and atmospheric mood.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://p3.pikrepo.com/preview/1002/689/plane-aircraft-3d-rendered-3d-rendering-jet-flight-flying-futuristic-plane-futuristic-aircraft-aeronautical.jpg",
+  "promptGeneratedTimestamp": 1748769185576,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a realistic 3D render of a futuristic jet's cockpit and upper fuselage, capturing the dynamic external perspective seen in image 1. The jet, featuring a sleek design with a dark grey and black camouflage pattern, has a pilot visible inside its transparent canopy. The scene depicts the jet flying high among large, fluffy clouds, with a snow-capped mountain partially visible through the clouds in the lower left background. Emphasize the warm, golden light of a dramatic sunset, mirroring the atmospheric mood and lighting of image 1.",
+  "annotator": "ishengfang",
+  "objects": [
+    "futuristic jet",
+    "dark grey and black camouflage pattern",
+    "pilot",
+    "transparent canopy",
+    "large, fluffy clouds",
+    "snow-capped mountain (partially visible in lower left background)",
+    "warm, golden sunset light"
+  ],
+  "human_annotation": true
+}

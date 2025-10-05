@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "Fill the \u2018Science\u2019 word with the cell-pattern micrograph, mapping top-to-bottom.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 (the 'SCIENCE LESSONS' poster). Using image 2 (the cell micrograph) as a reference for the fill pattern, replace the solid color of the word 'SCIENCE' (located prominently in the upper-middle section of image 1) with the detailed cell pattern. Ensure the cell pattern maps vertically from the top of the 'SCIENCE' word to its bottom.",
+  "annotator": "matina",
+  "objects": [
+    "Dark blue background with lighter blue wavy elements",
+    "DNA double helix",
+    "Benzene ring chemical structure",
+    "Atomic model diagram",
+    "\"JOIN NOW\" text button",
+    "\"SCIENCE\" text filled with detailed cell pattern",
+    "\"LESSONS\" text",
+    "Beaker with red liquid",
+    "Test tube rack with test tubes",
+    "Stack of books with beaker on top"
+  ]
+}

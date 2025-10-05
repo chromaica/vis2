@@ -1,0 +1,24 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Cultural or Heritage art",
+  "prompt": "Replace the monkey on the left side of the first image with the dog from the second image, and replace the cat on the right side of the first image with the cat from the third image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the artwork in image 1. Substitute the monkey on the left side of image 1 with the dog from image 2. Furthermore, replace the black cat on the right side of image 1 with the calico cat shown in image 3.",
+  "annotator": "paria",
+  "objects": [
+    "Woman (Frida Kahlo)",
+    "Green foliage background",
+    "Butterflies in hair",
+    "Necklace of thorns",
+    "Dog from image 2 on the left side",
+    "Calico cat from image 3 on the right side",
+    "Monkey (should not be present)",
+    "Black cat (should not be present)"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "subtopic": "VFX and Particles",
+  "prompt": "Transform the bright green energy burst effect into a dynamic, expanding fiery explosion of intense red and orange particles, leaving behind faint smoke trails against the black background.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751814137804,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1: Transform the central bright green energy burst into a dynamic, expanding fiery explosion composed of intense red and orange particles. Ensure faint smoke trails are visible, set against the existing black background.",
+  "annotator": "edisy",
+  "objects": [
+    "dynamic, expanding fiery explosion",
+    "intense red particles",
+    "orange particles",
+    "faint smoke trails",
+    "black background",
+    "central bright green energy burst (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

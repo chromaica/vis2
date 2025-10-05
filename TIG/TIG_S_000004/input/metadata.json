@@ -1,0 +1,24 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": "a 90s website thats about the game half-life",
+  "cond_images": [],
+  "remarks": "must have half-life icon, looks like its made by html-1, those shadowy button",
+  "prompt_refined": "A nostalgic 1990s-era website homepage dedicated to the game Half-Life. The design features a low-resolution, pixelated aesthetic with a web-safe color palette. A prominent header displays the Half-Life title or logo. A vertical navigation menu is on the left side, with options like 'News', 'Screenshots', and 'Downloads'. The main content area contains small, blocky images or low-fidelity screenshots from the game, alongside simple text. Include typical 90s web elements such as a hit counter, animated GIFs, or a 'Best viewed with' badge.",
+  "annotator": "theblackcat",
+  "objects": [
+    "1990s-era website homepage layout",
+    "Prominent header with Half-Life title or logo",
+    "Vertical navigation menu on the left side",
+    "'News' text in navigation menu",
+    "'Screenshots' text in navigation menu",
+    "'Downloads' text in navigation menu",
+    "Main content area",
+    "Small, blocky Half-Life game screenshots",
+    "Simple text content",
+    "Hit counter",
+    "Animated GIFs",
+    "'Best viewed with' badge"
+  ]
+}

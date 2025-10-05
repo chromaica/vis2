@@ -1,0 +1,24 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "A kaleidoscopic collage using fragments of iconic landmarks and textures from different fabrics, creating a cultural tapestry.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A vibrant, kaleidoscopic collage, intricately composed of fragmented and mirrored elements. It features iconic global landmarks (such as the Eiffel Tower, Taj Mahal, and Colosseum) interwoven with a rich variety of fabric textures (like woven silk, ornate brocade, and denim). The elements are layered and overlapping, forming a complex, symmetrical pattern that visually embodies a cohesive cultural tapestry.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Eiffel Tower",
+    "Taj Mahal",
+    "Colosseum",
+    "Woven silk texture",
+    "Ornate brocade texture",
+    "Denim texture",
+    "Fragmented elements",
+    "Mirrored elements",
+    "Layered elements",
+    "Symmetrical pattern"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

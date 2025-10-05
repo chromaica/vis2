@@ -1,0 +1,25 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Visual instructions and manuals",
+  "prompt": "Edit image 1 (handwashing diagram): Replace the human character with a robot character inspired by the design and color palette of the Gundam from image 2, depicting it performing the handwashing steps. Replace the existing sink with the illustration of the sink from image 3.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Replace the central human character with a robot, styled according to the design and color palette (white, blue, red, yellow) of the Gundam from image 2. Ensure this robot is depicted actively performing the handwashing steps illustrated in the surrounding circles of image 1. Simultaneously, replace the existing sink located below the character in image 1 with the distinct illustration of the sink provided in image 3, maintaining its appropriate size and position within the diagram.",
+  "annotator": "maxku",
+  "objects": [
+    "Gundam-styled robot with white, blue, red, yellow colors",
+    "Robot actively performing handwashing steps",
+    "Seven circular diagrams illustrating handwashing steps",
+    "Distinct sink illustration (from image 3)",
+    "Chinese text \"\u4e03\u6b65\u6d17\u624b\u6cd5\"",
+    "Arrows indicating step flow",
+    "Numbers 1-7 (for steps)",
+    "Central human character (should not be present)",
+    "Original sink (should not be present)"
+  ]
+}

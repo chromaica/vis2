@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "Generate a UI mockup for a language learning app. Use Image 1 at the top for daily goals, Image 2 for lesson thumbnails, and Image 3 for streak tracking.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.png"
+  ],
+  "remarks": "",
+  "annotator": "matina",
+  "prompt_refined": "Generate a modern UI mockup for a language learning application. Place a daily goal progress bar prominently at the top of the screen, adopting the visual style of the linear sequence of green checkmarks and empty squares from Image 1. Below this, arrange multiple lesson thumbnails in a grid layout, emulating the illustrative card design and text labels found in Image 2. In the top-right corner, incorporate a streak tracking component, clearly displaying a numerical day count and flame icons, directly referencing the visual elements from Image 3.",
+  "objects": [
+    "modern UI mockup for a language learning application",
+    "daily goal progress bar at the top of the screen",
+    "green checkmarks",
+    "empty squares",
+    "multiple lesson thumbnails in a grid layout",
+    "illustrative card design",
+    "text labels on thumbnails",
+    "streak tracking component in the top-right corner",
+    "numerical day count",
+    "flame icons"
+  ]
+}

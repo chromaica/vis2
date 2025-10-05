@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Word Clouds",
+  "prompt": "'Innovate Daily' rendered in imposing 3D polished steel lettering, characterized by sharp edges and a faint blue-green luminescence. The backdrop is a complex, dark pattern of abstract circuitry, suggesting a high-tech word cloud focus.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate an image featuring the text 'Innovate Daily'. The lettering should be rendered in imposing, three-dimensional polished steel with sharp edges and a faint blue-green luminescence. The background is a complex, dark pattern of abstract circuitry. The text is prominently displayed and centrally positioned, resembling the focal point of a high-tech word cloud.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Text 'Innovate Daily'",
+    "Three-dimensional polished steel lettering",
+    "Sharp edges on lettering",
+    "Faint blue-green luminescence on lettering",
+    "Complex dark background pattern",
+    "Abstract circuitry pattern in background",
+    "Centrally positioned text",
+    "Prominently displayed text"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,21 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Make a two-panel meme. Panel 1 with 1st image and text 'How I look on LinkedIn'. Panel 2 with the 2nd image and text 'How I solve problems in real life.' Use bold white text in meme style, placed at the top of each panel.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a two-panel meme, arranged vertically.\nThe top panel should feature image 1 (a man in a suit jumping excitedly). Overlay the bold white text \"How I look on LinkedIn\" at the top-center of this panel.\nThe bottom panel should feature image 2 (a man with a watermelon helmet and goggles). Overlay the bold white text \"How I solve problems in real life.\" at the top-center of this panel.\nAll overlaid text must be in a standard meme font.",
+  "annotator": "parnian",
+  "objects": [
+    "Two-panel vertical layout",
+    "Top panel containing a man in a suit jumping excitedly",
+    "Bottom panel containing a man with a watermelon helmet and goggles",
+    "Bold white text \"How I look on LinkedIn\" at the top-center of the top panel",
+    "Bold white text \"How I solve problems in real life.\" at the top-center of the bottom panel",
+    "Standard meme font for all overlaid text"
+  ]
+}

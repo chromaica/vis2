@@ -1,0 +1,18 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "Design a poster with 'Limitless Potential' as its focus. The text should be bold, holographic gradient sans-serif, appearing to float within an abstract cosmic void.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate an image of a poster. The prominent text 'Limitless Potential' is rendered in a bold, sans-serif font with a vibrant holographic gradient, appearing to float centrally within a deep, abstract cosmic void.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Poster",
+    "Text: \"Limitless Potential\"",
+    "Bold, sans-serif font",
+    "Vibrant holographic gradient",
+    "Centrally floating text",
+    "Deep, abstract cosmic void"
+  ]
+}

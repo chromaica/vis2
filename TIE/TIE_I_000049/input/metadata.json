@@ -1,0 +1,25 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Match the icon colors to their corresponding year's color.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Modify the color of each icon in the top row to match the color of its corresponding year circle located directly below it. Specifically:\n- Recolor the person icon in the top-left to match the green of the '2020' circle.\n- Recolor the bar chart icon in the top-center-left to match the orange of the '2021' circle.\n- Recolor the flask icon in the top-center-right to match the red of the '2022' circle.\n- Recolor the globe icon in the top-right to match the blue of the '2023' circle.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Green person icon",
+    "Orange bar chart icon",
+    "Red flask icon",
+    "Blue globe icon",
+    "Four dotted grey circle outlines",
+    "Green '2020' timeline graphic",
+    "Orange '2021' timeline graphic",
+    "Red '2022' timeline graphic",
+    "Blue '2023' timeline graphic"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

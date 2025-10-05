@@ -1,0 +1,26 @@
+{
+  "subtopic": "Urban & Street Photography",
+  "prompt": "Edit image 1: Keep the swan, but change the water texture to be choppy like in image 3. Apply the dramatic sunset lighting and water reflections style from image 2 to the entire scene around the swan.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748572166157,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "P",
+  "prompt_refined": "Edit Image 1: Preserve the white swan in its current position and appearance. Modify the water surface around the swan to display the choppy texture and ripples characteristic of the water in Image 3. Furthermore, integrate the dramatic, warm sunset lighting and vivid water reflections from Image 2 into the entire scene, affecting both the water and the background elements surrounding the swan.",
+  "annotator": "boris",
+  "objects": [
+    "white swan in original position",
+    "water surface with choppy texture",
+    "ripples on the water surface",
+    "warm sunset lighting",
+    "vivid water reflections",
+    "background foliage under sunset light",
+    "foreground foliage under sunset light"
+  ],
+  "human_annotation": true
+}

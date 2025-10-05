@@ -1,0 +1,27 @@
+{
+  "subtopic": "Websites",
+  "prompt": "Edit the website screenshot in image 1. Apply the vibrant color scheme and header style from image 2 to the corresponding elements in image 1, incorporating the bright colored blocks structure where appropriate in the layout.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751006702168,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit the website screenshot in image 1 by transforming its visual style to match the vibrant aesthetic of image 2. Update image 1's overall muted color palette to incorporate the bright blue, red, and yellow hues seen in image 2. Re-design the top header section of image 1 to emulate the style of image 2's header, featuring a prominent logo positioned on the left and a clear top navigation bar. Additionally, integrate a new section of multiple distinct, brightly colored content blocks into the layout of image 1, drawing inspiration from the four blocks located at the bottom of image 2, placing them coherently within the website's structure.",
+  "annotator": "ishengfang",
+  "objects": [
+    "website screenshot",
+    "vibrant aesthetic",
+    "bright blue color palette",
+    "bright red color palette",
+    "bright yellow color palette",
+    "re-designed top header section",
+    "prominent logo on the left",
+    "clear top navigation bar",
+    "multiple distinct content blocks",
+    "brightly colored content blocks"
+  ]
+}

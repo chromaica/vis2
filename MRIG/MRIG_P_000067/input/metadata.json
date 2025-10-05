@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Reimagine the real-life forest portrait referenced in the first image as a manga-inspired comic book illustration using the second image as the art style. Apply clean, sharp lines and a vibrant color palette with subtle gradients. Enhance the subject\u2019s features with expressive, oversized eyes and flowing hair that interacts with the forest environment. Add comic-style sparkles and motion lines to convey a sense of vitality. Maintain the serene forest backdrop but stylize it with angular, exaggerated foliage and a dreamlike atmosphere.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a new image: Transform the real-life forest portrait from image 1 into a manga-inspired comic book illustration, applying the art style demonstrated in image 2. The resulting image should feature clean, sharp lines and a vibrant color palette with subtle gradients. Enhance the subject's features with expressive, oversized eyes and dynamic, flowing hair that visually interacts with the surrounding forest environment. Incorporate comic-style sparkles and subtle motion lines around the subject to convey a sense of vitality. Maintain the serene ambiance of the forest backdrop but stylize the foliage with angular, exaggerated shapes, creating a dreamlike atmosphere.",
+  "objects": [
+    "Subject (person from image 1)",
+    "Forest backdrop (from image 1)",
+    "Manga-inspired comic book illustration style",
+    "Expressive, oversized eyes (on subject)",
+    "Dynamic, flowing hair (on subject)",
+    "Comic-style sparkles (around subject)",
+    "Subtle motion lines (around subject)",
+    "Angular, exaggerated foliage shapes (in forest)",
+    "Clean, sharp lines (visual characteristic)",
+    "Vibrant color palette with subtle gradients (visual characteristic)"
+  ],
+  "human_annotation": true
+}

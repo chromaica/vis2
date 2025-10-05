@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "A realistic photo of a steakhouse restaurant receipt placed on a wooden table. The receipt is from 'EPIC STEAKHOUSE' located at 369 The Embarcadero, San Francisco, CA 94105. It lists: 2 Filet Mignon: $98.00, 1 Rib Eye: $52.00, 1 Caesar Salad: $14.50, 1 Creamed Spinach: $11.00, 1 Baked Potato: $9.50. Subtotal: $185.00, Tax: $17.02, Tip: $75.00, Total: $277.02. The receipt is slightly wrinkled, printed in a bold, clear font, and has a casual upscale steakhouse feel.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a realistic photo of a steakhouse restaurant receipt lying on a wooden table. The receipt prominently displays the name 'EPIC STEAKHOUSE' and the address '369 The Embarcadero, San Francisco, CA 94105'. It clearly lists the following items and prices: 2 Filet Mignon: $98.00, 1 Rib Eye: $52.00, 1 Caesar Salad: $14.50, 1 Creamed Spinach: $11.00, 1 Baked Potato: $9.50. Below these, it shows the summary totals: Subtotal: $185.00, Tax: $17.02, Tip: $75.00, Total: $277.02. The receipt paper is slightly wrinkled, and all text is printed in a bold, clear font, conveying a casual upscale steakhouse aesthetic.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Steakhouse restaurant receipt",
+    "Wooden table",
+    "Wrinkled receipt paper",
+    "The name \"EPIC STEAKHOUSE\" on the receipt",
+    "The address \"369 The Embarcadero, San Francisco, CA 94105\" on the receipt",
+    "List of food items and their prices on the receipt (e.g., \"2 Filet Mignon: $98.00\")",
+    "Summary totals (Subtotal, Tax, Tip, Total) with values on the receipt",
+    "Bold and clear font for all text on the receipt"
+  ]
+}

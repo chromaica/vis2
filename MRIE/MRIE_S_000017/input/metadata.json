@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Online Meeting Interfaces",
+  "prompt": "Replace the bottom toolbar 'Share Screen' icon in image 1 with the arrow icon from image 2 in the same size of other icons in image 1, and insert the Zoom logo from image 3 in the top-right corner in small size as a watermark. Everything else still the same in image 1.",
+  "cond_images": [
+    "1.jpg",
+    "2.png",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. In the bottom toolbar, replace the green 'Share Screen' icon with the arrow icon from image 2. Ensure the replacement icon matches the size of the other existing icons in image 1's bottom toolbar. Furthermore, add the Zoom logo from image 3 to the top-right corner of image 1, scaling it to a small size to function as a watermark. All other content and elements of image 1 must remain unchanged.",
+  "annotator": "parnian",
+  "objects": [
+    "Zoom Meeting window frame",
+    "Six video conference participants",
+    "Bottom toolbar",
+    "Arrow icon in bottom toolbar",
+    "Small Zoom logo in top-right corner",
+    "Microphone icon in bottom toolbar",
+    "Video camera icon in bottom toolbar",
+    "Participants icon in bottom toolbar",
+    "Chat icon in bottom toolbar",
+    "Green 'Share Screen' icon (should not be present)"
+  ]
+}

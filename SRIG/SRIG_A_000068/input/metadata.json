@@ -1,0 +1,23 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Cultural or Heritage art",
+  "prompt": "Traditional Japanese tea ceremony garden painting in dawn time.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a painting of a traditional Japanese tea ceremony garden, drawing inspiration from image 1. The scene depicts a serene garden at dawn, with soft, diffused light creating a tranquil atmosphere. Prominent features include a tall pine tree on the left and a vibrant green maple tree near the center, surrounded by a collection of large, moss-covered rocks and smaller green shrubs. A classic stone lantern (toro) stands beside a water basin (tsukubai) on the right side of the central area. A traditional wooden building with multiple window panes frames the background on the right. Stepping stones and rich green moss pave the ground, illuminated by the gentle, golden hues of the rising sun.",
+  "annotator": "Johnny",
+  "objects": [
+    "tall pine tree on the left",
+    "vibrant green maple tree near the center",
+    "large, moss-covered rocks",
+    "smaller green shrubs",
+    "classic stone lantern (toro)",
+    "water basin (tsukubai)",
+    "traditional wooden building with multiple window panes in the background on the right",
+    "stepping stones",
+    "rich green moss paving the ground"
+  ]
+}

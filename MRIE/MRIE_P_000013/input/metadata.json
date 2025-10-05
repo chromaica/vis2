@@ -1,0 +1,25 @@
+{
+  "task": "MRIE",
+  "topic": "P",
+  "subtopic": "Wildlife & Nature Photography",
+  "prompt": "Add the sheep from the first image to the left side of the third image, then add the rabbit from the second image to the lower right corner of the third image. Make sure the sheep is looking at the rabbit.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 3. Insert the sheep from image 1 into the left foreground of the scene. Place the grey rabbit from image 2 into the lower right foreground of the scene. Ensure the sheep is facing towards the rabbit.",
+  "annotator": "boris",
+  "objects": [
+    "snowy landscape",
+    "blue sky",
+    "distant hills",
+    "frosted trees",
+    "a sheep in the left foreground",
+    "a grey rabbit in the lower right foreground",
+    "the sheep facing towards the rabbit"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,26 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Stylized art",
+  "prompt": "Generate a stylized art of a ancient marketplace.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a stylized painting of an ancient marketplace, using image 1 as a structural and compositional guide. The scene should depict a bustling outdoor market with large, distinctive canopies or stalls positioned prominently on the upper left and upper right. In the central mid-ground, a prominent figure is visible, surrounded by the general activity and other, less defined figures and market goods. Emphasize a vibrant and lively atmosphere typical of an ancient trading hub.",
+  "annotator": "Johnny",
+  "objects": [
+    "stylized painting",
+    "ancient marketplace",
+    "large canopy on the upper left",
+    "large canopy on the upper right",
+    "prominent figure in the central mid-ground",
+    "less defined figures",
+    "market goods",
+    "market stalls",
+    "bustling market scene",
+    "outdoor setting"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,21 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "A girl standing in the foreground, facing and looking toward a futuristic cityscape.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "https://pixabay.com/photos/city-skyline-skyscrapers-buildings-1124681/",
+  "prompt_refined": "Generate an artwork where a girl, using the pose and positioning from image 1, stands in the foreground on the right, facing left and looking intently towards a sprawling, vibrant futuristic cityscape that fills the left and central background.",
+  "annotator": "Johnny",
+  "objects": [
+    "A girl",
+    "Girl with pose from image 1",
+    "Girl standing in the foreground on the right",
+    "Girl facing left",
+    "Girl looking intently",
+    "Sprawling, vibrant futuristic cityscape",
+    "Futuristic cityscape filling the left and central background"
+  ]
+}

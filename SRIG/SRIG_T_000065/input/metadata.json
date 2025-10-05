@@ -1,0 +1,24 @@
+{
+  "task": "SRIG",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": "Design a manga-style romantic comedy page following the comic page flow diagram. The story shows two high school students awkwardly confessing their feelings during a school festival, leading to sweet and funny moments.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "https://medibangpaint.com/en/use/2021/09/mangatutorialforbeginners06/",
+  "prompt_refined": "Generate a manga-style romantic comedy comic page. The page layout must strictly adhere to the 3x3 panel grid and right-to-left, top-to-bottom reading flow explicitly illustrated in image 1. The panels should sequentially depict a story featuring two high school students during a lively school festival, as they navigate an awkward confession of feelings. The narrative should progressively unfold across the page, capturing a series of sweet and funny moments stemming from their confession.",
+  "annotator": "Johnny",
+  "objects": [
+    "manga-style artwork",
+    "comic page layout",
+    "3x3 panel grid",
+    "two high school students",
+    "school festival elements (e.g., stalls, decorations, crowds)",
+    "dialogue bubbles",
+    "sequential story panels",
+    "visual portrayal of an awkward confession",
+    "visual portrayal of sweet moments",
+    "visual portrayal of funny moments"
+  ]
+}

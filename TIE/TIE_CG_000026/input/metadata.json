@@ -1,0 +1,25 @@
+{
+  "subtopic": "Facial estimation and analysis",
+  "prompt": "Remove all the overlaid white bounding boxes and blue facial landmark points currently displayed on the people's faces in this image.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751816347588,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1: Remove the white rectangular bounding boxes and the small blue facial landmark points that are overlaid on the faces of the three individuals.",
+  "annotator": "edisy",
+  "objects": [
+    "three individuals",
+    "man on the left",
+    "woman in the middle",
+    "man on the right",
+    "background wall",
+    "white picture frames",
+    "white rectangular bounding boxes (should not be present)",
+    "small blue facial landmark points (should not be present)"
+  ],
+  "human_annotation": true
+}

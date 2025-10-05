@@ -1,0 +1,27 @@
+{
+  "subtopic": "Cultural or Heritage art",
+  "prompt": "Edit image 1: Replace the concentric circle patterns on the large colorful discs with the vibrant, geometric block pattern from image 2, blending the abstract and cultural styles.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748497024337,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1: Replace the existing concentric circle patterns on all the prominent colorful discs held by the figures with the vibrant, multi-colored geometric block pattern from image 2. Ensure the new pattern conforms to the circular shape of each disc and seamlessly blends the abstract style of image 2 with the cultural aesthetic of image 1.",
+  "annotator": "kellycyy",
+  "objects": [
+    "Figures",
+    "Circular discs",
+    "Vibrant, multi-colored geometric block patterns on discs",
+    "Abstract trees in background",
+    "Abstract building structures in background",
+    "Yellow background elements",
+    "Blue background elements",
+    "Orange background elements",
+    "Green background elements",
+    "Concentric circle patterns (should not be present)"
+  ]
+}

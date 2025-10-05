@@ -1,0 +1,27 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Online Meeting Interfaces",
+  "prompt": " Replace the bottom-left tile in image 1 (man with facial hair) with the woman from image 2, and overlay the Zoom logo from image 3 in the top-left above the grid. Leave button layout intact.",
+  "cond_images": [
+    "1.png",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the person currently in the bottom-left video tile with the woman from image 2. Overlay the Zoom logo from image 3 in the top-left corner, positioned above the video grid. Ensure the existing bottom control bar and button layout remain intact.",
+  "annotator": "parnian",
+  "objects": [
+    "Zoom meeting interface with video grid",
+    "Woman in top-left video tile",
+    "Man in top-right video tile",
+    "Woman from image 2 in the bottom-left video tile",
+    "Man in bottom-right video tile",
+    "Zoom logo from image 3 in the top-left corner, above the video grid",
+    "Bottom control bar with its buttons",
+    "Top bar with \"Zoom Meeting\" text and \"View\" button",
+    "Original person in bottom-left video tile (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

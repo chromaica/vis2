@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Cultural/heritage art",
+  "prompt": "Celtic festival under moonlight, with people in historical attire dancing around a large bonfire in a stone circle.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "An artistic rendering of a Celtic festival. Under a bright, large full moon, an ancient stone circle frames a towering, roaring bonfire at its center, casting warm, flickering light across the scene. Numerous people, dressed in intricate historical Celtic attire, are seen actively dancing around the bonfire. The moonlight casts long, dramatic shadows from the standing stones and the celebratory dancers.",
+  "annotator": "cwhsu",
+  "objects": [
+    "bright, large full moon",
+    "ancient stone circle",
+    "towering, roaring bonfire at the center",
+    "numerous people dressed in intricate historical Celtic attire",
+    "people actively dancing around the bonfire",
+    "warm, flickering light from the bonfire",
+    "long, dramatic shadows from the standing stones",
+    "long, dramatic shadows from the dancing people"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

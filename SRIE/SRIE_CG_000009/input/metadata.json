@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Facial estimation and analysis",
+  "prompt": "Replace the nose in the source face with the reference object, preserving shape consistency",
+  "cond_images": [
+    "1.png",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 by replacing the nose on Taylor Swift's face with the nose from image 2. Ensure the transplanted nose seamlessly integrates, maintaining the original facial structure, lighting, and perspective of image 1.",
+  "annotator": "nimajamali",
+  "objects": [
+    "Taylor Swift's face",
+    "nose (from reference image 2)",
+    "Taylor Swift's eyes with makeup",
+    "Taylor Swift's lips with red lipstick",
+    "Taylor Swift's blonde hair",
+    "Taylor Swift's ear",
+    "earring",
+    "dark background",
+    "Taylor Swift's neck and shoulder",
+    "Taylor Swift's original nose (should not be present)"
+  ]
+}

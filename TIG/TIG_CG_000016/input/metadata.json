@@ -1,0 +1,16 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "Facial estimation and analysis",
+  "prompt": "Three man standing in front of KFC, each person holding a bucket of fried chicken. Highlight the face features with blue color.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Three men standing in front of KFC, each person holding a bucket of fried chicken. Their facial features are highlighted in blue.",
+  "annotator": "maxku",
+  "objects": [
+    "Three men",
+    "KFC restaurant",
+    "Bucket of fried chicken (one held by each man)",
+    "Facial features of the three men (highlighted in blue)"
+  ]
+}

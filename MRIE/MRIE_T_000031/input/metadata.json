@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "Change the bottom left image to the second image, and change the middle image to the third image. Finally, edit the caption of those images accordingly to match the image. Crop or enlarge the images if necessary to fit the layout.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the provided newspaper page (image 1).\nReplace the existing image in the bottom-left frame with image 2, a portrait of an older man with glasses, wearing a blue shirt and red tie.\nReplace the large existing image in the middle of the page with image 3, a black and white photograph of four seated men.\nFor both newly inserted images, adjust their size and crop as necessary to fit seamlessly within their respective frames and the existing layout.\nFinally, update the text caption directly below the bottom-left image to: 'Portrait of an older man with glasses.'\nAnd update the text caption directly below the middle image to: 'Black and white photograph of four seated men.'",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Newspaper page layout",
+    "\"Harvard University Gazette\" masthead",
+    "Newspaper articles and text columns",
+    "Portrait of an older man with glasses (in bottom-left frame)",
+    "Black and white photograph of four seated men (in middle frame)",
+    "Text caption: 'Portrait of an older man with glasses.' (below bottom-left image)",
+    "Text caption: 'Black and white photograph of four seated men.' (below middle image)",
+    "Original image in bottom-left frame (should not be present)",
+    "Original large image in the middle of the page (should not be present)",
+    "Original text captions below the replaced images (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

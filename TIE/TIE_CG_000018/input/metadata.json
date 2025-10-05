@@ -1,0 +1,20 @@
+{
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "Apply a strong Gaussian blur effect to the image background, keeping the segmented person and dog objects sharp and unaffected.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751818429777,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1. Apply a strong Gaussian blur effect to the entire background. Ensure that the child on the left and the dog on the right remain sharp and unaffected by the blur.",
+  "annotator": "edisy",
+  "objects": [
+    "child on the left",
+    "dog on the right",
+    "blurred background",
+    "sports ball"
+  ]
+}

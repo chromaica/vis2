@@ -1,0 +1,26 @@
+{
+  "subtopic": "Memes",
+  "prompt": "Design a meme featuring a given image on the left, and on the right, two vertically stacked text captions that contrast a tech worker's state before and after being laid off.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://i.imgflip.com/98qr33.jpg?a486216",
+  "task": "SRIG",
+  "topic": "T",
+  "prompt_refined": "Generate a meme formatted as a two-panel image. The left panel should display image 1, serving as the visual component. The right panel should contain two text captions, stacked vertically. The top caption should describe a tech worker's state *before* being laid off, and the bottom caption should describe their state *after* being laid off. The captions must create a clear contrast between these two states, conceptually mirroring the differing expressions shown in image 1.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "two-panel image layout",
+    "left panel containing a visual component",
+    "right panel containing text",
+    "image of a man with a smiling expression (in the left panel)",
+    "image of a man with a serious expression (in the left panel)",
+    "pink wall background",
+    "man wearing a teal and white tracksuit top",
+    "top text caption (in the right panel)",
+    "bottom text caption (in the right panel)",
+    "vertically stacked text captions"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

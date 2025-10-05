@@ -1,0 +1,27 @@
+{
+  "subtopic": "Medical images",
+  "prompt": "Edit image 1 (healthy fundus) by adding features similar to the exudates in image 2. Apply a heatmap overlay onto the fundus image, styled like image 3, highlighting areas of potential pathology, including the added exudates.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749229129608,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "P",
+  "prompt_refined": "Edit image 1, the healthy fundus, by introducing photorealistic, yellowish-white, irregular hard exudates, similar in appearance and distribution to those present in image 2. Position these exudates primarily in the central to central-right area of the fundus. Following this, apply a comprehensive heatmap overlay to the entire edited fundus image. The heatmap should emulate the color gradient style of image 3, transitioning from cool colors (blue/green) for healthy regions to warm colors (yellow/orange/red) for pathological areas. Crucially, the heatmap must highlight areas of potential pathology, with the highest intensity (red/orange) specifically focused on and encompassing the newly added exudates.",
+  "annotator": "boris",
+  "objects": [
+    "Photorealistic fundus image",
+    "Yellowish-white, irregular hard exudates",
+    "Hard exudates in the central to central-right area of the fundus",
+    "Comprehensive heatmap overlay",
+    "Heatmap with cool color gradient (blue/green)",
+    "Heatmap with warm color gradient (yellow/orange/red)",
+    "Red/orange heatmap intensity focused on and encompassing the exudates"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

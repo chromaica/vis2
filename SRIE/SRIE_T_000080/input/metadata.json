@@ -1,0 +1,23 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Recolor text captions and accent lines using coral for the woman\u2019s speech, mint for the cat\u2019s reply, and lavender outlines.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Using the colors from image 2 as a reference, recolor the text caption \"IT'S A SNEAKER !!\" (top left) to coral, and the text caption \"TENNASHU\" (top right) to mint. Additionally, apply a lavender outline to both text captions.",
+  "annotator": "matina",
+  "objects": [
+    "Text caption \"IT'S A SNEAKER !!\" in coral with a lavender outline (top left)",
+    "Text caption \"TENNASHU\" in mint with a lavender outline (top right)",
+    "Woman yelling",
+    "Woman holding the yelling woman",
+    "White cat",
+    "Table",
+    "Plate with food",
+    "Glass"
+  ]
+}

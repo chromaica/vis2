@@ -1,0 +1,28 @@
+{
+  "subtopic": "Websites",
+  "prompt": "Generate a realistic screenshot of a modern data analytics website dashboard, displaying various charts and graphs on a clean desktop monitor, using the reference image's composition and digital mock-up style for inspiration.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://www.blendb2b.com/hs-fs/hubfs/blog-images/Modern%20Website%20Designs/Screenshot%202025-01-23%20at%2015.06.17-min.png?width=3544&height=1742&name=Screenshot%202025-01-23%20at%2015.06.17-min.png",
+  "promptGeneratedTimestamp": 1749415419892,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a realistic screenshot of a modern data analytics website dashboard, using the composition and digital mock-up style of image 1. Display the dashboard on a clean desktop monitor, with a minimalist keyboard and mouse positioned below it, similar to image 1. The layout should feature a prominent textual section on the left side, containing a main headline and a call-to-action button. On the right side, inside the monitor, the website dashboard should be clearly visible, presenting various data visualizations, including diverse charts (e.g., line graphs, bar charts, pie charts) and key performance indicators (KPIs), within a clean and modern user interface.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "clean desktop monitor",
+    "minimalist keyboard",
+    "mouse",
+    "prominent textual section on the left side",
+    "main headline on the left side",
+    "call-to-action button on the left side",
+    "modern data analytics website dashboard on the right side (inside the monitor)",
+    "data visualizations within the dashboard",
+    "diverse charts (e.g., line graphs, bar charts, pie charts) within the dashboard",
+    "key performance indicators (KPIs) within the dashboard"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": "Change the headline text to \"Revolutionize Revenue Models with Intelligence.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Locate the large, white headline text \"Subscriptions are just the beginning.\" in the upper-left main content area of the screenshot. Replace this text with: \"Revolutionize Revenue Models with Intelligence.\"",
+  "annotator": "cwhsu",
+  "objects": [
+    "\"Revolutionize Revenue Models with Intelligence.\"",
+    "\"Subscriptions are just the beginning.\" (should not be present)",
+    "Website header with navigation bar",
+    "Dark green background area",
+    "Descriptive paragraph text below the main headline",
+    "\"Watch a Demo\" button",
+    "\"Speak to an Expert\" button",
+    "Image of a smiling woman with glasses and financial charts",
+    "Two rectangular content blocks (Press Release and Business Insights)",
+    "\"The monetization platform for any business model\" heading"
+  ]
+}

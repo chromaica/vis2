@@ -1,0 +1,27 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "Alter the map software image to show what happens when the user clicks the CVS pin.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Highlight the CVS pin, identifiable by the shopping bag icon, located in the top-left area of the map, to indicate it has been clicked. Replace the entire HubSpot business information panel at the bottom of the screen (which currently displays 'HubSpot', its rating, 'Software company' text, and associated images) with a new information panel specifically for CVS, including its name, a relevant business type (e.g., 'Drugstore' or 'Pharmacy'), an appropriate star rating, and corresponding images of a CVS store.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Highlighted CVS map pin (top-left, shopping bag icon)",
+    "Map background with streets and landmarks",
+    "Red HubSpot map pin",
+    "Other map pins (e.g., parking, shopping bags)",
+    "Top search bar",
+    "Floating settings button",
+    "CVS business information panel (at the bottom)",
+    "CVS name in the information panel",
+    "CVS business type (e.g., 'Drugstore' or 'Pharmacy') in the information panel",
+    "Star rating for CVS in the information panel",
+    "Images of a CVS store in the information panel"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

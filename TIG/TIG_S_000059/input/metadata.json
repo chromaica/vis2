@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "Retro 16-bit style platformer showing a pixel art knight battling a mechanical boss robot in a factory setting. Knight wielding an energy sword while dodging laser beams and steam vents. Include classic arcade UI: lives counter with heart icons, score display, boss health bar, collected coins, and power-up status. Vibrant pixel art with industrial background featuring conveyor belts and sparking machinery",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a vibrant 16-bit pixel art style screenshot of a retro platformer video game. The scene depicts a heroic pixel art knight, dynamically dodging laser beams and steam vents, while wielding a glowing energy sword against a massive mechanical boss robot. The setting is a detailed industrial factory environment with active conveyor belts, sparking machinery, and metallic platforms. The screenshot incorporates a classic arcade UI: a score display and lives counter with heart icons in the top-left corner; a prominent boss health bar spanning the top of the screen; a collected coins counter with a coin icon in the top-right corner; and a power-up status indicator in the bottom-right corner.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Pixel art knight",
+    "Massive mechanical boss robot",
+    "Glowing energy sword",
+    "Laser beams",
+    "Steam vents",
+    "Industrial factory environment with conveyor belts, sparking machinery, and metallic platforms",
+    "Score display and lives counter with heart icons in top-left corner",
+    "Prominent boss health bar spanning the top of the screen",
+    "Collected coins counter with coin icon in top-right corner",
+    "Power-up status indicator in bottom-right corner"
+  ]
+}

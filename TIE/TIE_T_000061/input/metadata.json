@@ -1,0 +1,23 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Keep Mr. Krabs\u2019 shape but change his color palette to blue and blur the background with Python code snippets.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Maintain the precise shape and pose of the central character, Mr. Krabs. Recolor Mr. Krabs, including his body, claws, and striped pants, using a cohesive blue color palette. Concurrently, blur the entire background of image 1, encompassing all elements behind Mr. Krabs (other characters, the wall, and the overlaid text), and integrate visible, blurred Python code snippets as the texture or content of this background.",
+  "annotator": "matina",
+  "objects": [
+    "Mr. Krabs (maintaining original shape and pose)",
+    "Blue Mr. Krabs's body",
+    "Blue Mr. Krabs's claws",
+    "Blue Mr. Krabs's striped pants",
+    "Blurred background",
+    "Blurred other characters (behind Mr. Krabs)",
+    "Blurred wall (behind Mr. Krabs)",
+    "Blurred overlaid text (behind Mr. Krabs)",
+    "Visible, blurred Python code snippets (as background texture/content)"
+  ]
+}

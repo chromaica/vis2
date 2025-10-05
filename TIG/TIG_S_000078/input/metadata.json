@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "A receipt from a Mongolian herder's market written in Cyrillic script, showing purchases of yak cheese, fermented mare's milk, and handwoven blankets, on rough paper with horsehair fibers and wind damage",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate an image of a worn and weathered paper receipt from a traditional Mongolian herder's market. The receipt is made from rough, off-white paper visibly embedded with fine horsehair fibers, and shows significant wind damage, including frayed edges, prominent creases, and small tears. The written content on the receipt is in clear Cyrillic script, specifically itemizing the purchases of yak cheese, fermented mare's milk, and handwoven blankets.",
+  "annotator": "theblackcat",
+  "objects": [
+    "paper receipt",
+    "off-white paper",
+    "rough paper texture",
+    "horsehair fibers embedded in paper",
+    "frayed edges on receipt",
+    "prominent creases on receipt",
+    "small tears on receipt",
+    "Cyrillic script on receipt",
+    "itemized list of purchases on receipt"
+  ]
+}

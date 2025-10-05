@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "Edit image 1, the pixel art map. Add the pixel art knight character from image 2 onto the grassy starting island area. Place the pixel art red dragon creature from image 3 within the arid desert region at the bottom right of the map.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the pixel art map. Place the pixel art knight character from image 2 onto the large grassy island in the upper-left, near the starting castle (World 1). Additionally, place the pixel art red dragon creature from image 3 within the distinct arid desert region in the bottom-right portion of the map, around the World 6 area.",
+  "annotator": "maxku",
+  "objects": [
+    "pixel art map",
+    "pixel art knight character on the large grassy island in the upper-left",
+    "pixel art red dragon creature in the distinct arid desert region in the bottom-right",
+    "large grassy island (upper-left)",
+    "starting castle (World 1)",
+    "distinct arid desert region (bottom-right)",
+    "World 6 area (including its castle)",
+    "water surrounding the islands",
+    "various land formations (e.g., mountains, forests)",
+    "paths and game elements (e.g., pipes, enemy routes)"
+  ]
+}

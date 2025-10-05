@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Swap the captions so Panel 1 reads \u2018Facing merge conflicts\u2019 and Panel 2 reads \u2018Using feature branches\u2019.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the caption in the top-right text panel, which currently reads \u2018CUSTOMER SERVICE\u2019, with \u2018Facing merge conflicts\u2019. Then, replace the caption in the bottom-right text panel, which currently reads \u2018CUSTOMER HOSTILITY\u2019, with \u2018Using feature branches\u2019. Ensure the new text matches the style, font, size, and centered alignment of the original captions in image 1. Image 2 serves as a reference for the overall layout and the blank text panel areas.",
+  "annotator": "matina",
+  "objects": [
+    "Drake's disapproving expression (top-left panel)",
+    "Drake's approving expression (bottom-left panel)",
+    "Top-right text panel with white background",
+    "Bottom-right text panel with white background",
+    "Text \"CUSTOMER SERVICE\" (should not be present)",
+    "Text \"CUSTOMER HOSTILITY\" (should not be present)",
+    "Text \"Facing merge conflicts\" in the top-right panel",
+    "Text \"Using feature branches\" in the bottom-right panel",
+    "Imgflip.com watermark",
+    "Four-panel meme layout"
+  ]
+}

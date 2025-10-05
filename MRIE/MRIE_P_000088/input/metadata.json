@@ -1,0 +1,30 @@
+{
+  "subtopic": "Medical images",
+  "prompt": "Transform image 1 (CT scan) into an MRI scan. Adopt the grayscale and soft tissue rendering style from image 2, while applying the high-contrast detail and sharpness of image 3 to the large cystic structure.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749229231774,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "P",
+  "prompt_refined": "Edit the provided CT scan (image 1) to transform it into an MRI scan. Apply the overall grayscale and soft tissue rendering style from image 2. For the large cystic structure prominently located on the left side of image 1, implement the high-contrast detail and sharpness seen in image 3.",
+  "annotator": "boris",
+  "objects": [
+    "Abdominal cross-section (as an MRI scan)",
+    "Overall grayscale appearance consistent with image 2",
+    "Soft tissue rendering style consistent with image 2",
+    "Large cystic structure prominently located on the left side of the abdomen",
+    "High-contrast detail applied to the large cystic structure",
+    "Sharpness applied to the large cystic structure",
+    "Spinal column/vertebra",
+    "Kidneys",
+    "Abdominal wall muscles",
+    "Bowel loops with internal content"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

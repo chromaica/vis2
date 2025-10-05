@@ -1,0 +1,23 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "Edit image 1 by replacing all X marks with the stylized purple X from image 2 and all O marks with the yellow O from image 3. All replacements must preserve size and alignment within the original cells. No other elements should be altered.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, which features a black and white tic-tac-toe board. Replace every black 'X' symbol on the board with the stylized, light purple 'X' from image 2. Concurrently, replace every black 'O' symbol with the vibrant yellow and blue 'O' from image 3. Each replaced symbol must precisely maintain its original size and exact alignment within its corresponding cell on the grid. Ensure that the grid lines and all other elements of image 1 remain completely unaltered.",
+  "annotator": "parnian",
+  "objects": [
+    "Black tic-tac-toe grid lines",
+    "Stylized, light purple 'X' symbols",
+    "Vibrant yellow and blue 'O' symbols",
+    "Black 'X' symbols (should not be present)",
+    "Black 'O' symbols (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

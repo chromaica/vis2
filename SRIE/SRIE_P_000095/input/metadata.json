@@ -1,0 +1,24 @@
+{
+  "task": "SRIE",
+  "topic": "P",
+  "subtopic": "Medical images",
+  "prompt": "Replace the port-wine stain in the source image (image 1) with smooth skin texture from the reference image (image 2), preserving facial shape and lighting for a natural post-treatment appearance.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the source image, by seamlessly replacing the prominent port-wine stain on the side of the face, ear, and neck with unblemished skin texture from the reference image (image 2). Preserve the original facial shape, lighting, and surrounding skin tone of image 1 to ensure a natural, post-treatment appearance.",
+  "annotator": "nimajamali",
+  "objects": [
+    "person's face in profile",
+    "ear",
+    "neck",
+    "unblemished skin texture",
+    "red lipstick",
+    "dark hair",
+    "white background",
+    "port-wine stain (should not be present)"
+  ],
+  "human_annotation": true
+}

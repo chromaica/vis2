@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "Generate a textbook-style illustration of a single neuron, designed for a college-level neuroscience textbook. Use a 3D-rendered style with realistic shading and a color palette of deep blue, red, and yellow to highlight dendrites, axon, cell body, and synapses. Simplify the fluorescent glow from the first referenced image into defined, glossy surfaces, and use the second referenced image to inform the neuron\u2019s context within a network by adding faint, semi-transparent neurons in the background. Include detailed labels with a sleek, sans-serif font and callouts explaining synaptic gaps. Place the illustration on a dark gray background with a subtle neural network pattern to enhance the high-tech aesthetic",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic, 3D-rendered illustration of a single neuron, presented in a textbook-style suitable for a college-level neuroscience textbook. The main neuron should feature realistic shading and exhibit defined, glossy surfaces, specifically transforming the soft fluorescent glow observed in image 1 into a polished, non-glowing appearance. Apply a distinct color palette: use deep blue for the dendrites and axon, red for the cell body (soma), and yellow for the synapses. Integrate elements from image 2 by depicting faint, semi-transparent neurons in the background, subtly illustrating the primary neuron's context within a larger neural network. Include detailed labels for the dendrites, axon, cell body, and synapses, presented in a sleek sans-serif font, along with clear callouts explaining synaptic gaps. The entire illustration should be set against a dark gray background that features a subtle neural network pattern, enhancing a high-tech aesthetic.",
+  "objects": [
+    "Photorealistic 3D-rendered single neuron (with realistic shading, defined, glossy, non-glowing surfaces)",
+    "Deep blue dendrites",
+    "Deep blue axon",
+    "Red cell body (soma)",
+    "Yellow synapses",
+    "Faint, semi-transparent background neurons",
+    "Dark gray background",
+    "Subtle neural network pattern on the background",
+    "Detailed labels for dendrites, axon, cell body, and synapses (in sleek sans-serif font)",
+    "Clear callouts explaining synaptic gaps"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,24 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Create a new image where the individual from the second image is seamlessly integrated into the scene of the first image, as though they are visiting that location. Preserve the person's original appearance and attire, and ensure they are naturally positioned within the context of the first image's setting.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic image where the man from image 2 is seamlessly integrated into the scene of image 1. Preserve his exact appearance, including his facial features, expression, and the light blue striped shirt he is wearing. Position him naturally standing on the brick path in the mid-ground of image 1, slightly to the right of the central path, facing towards the wooden structure, as if he is visiting and observing the location.",
+  "objects": [
+    "Man (from image 2, with preserved facial features and expression, wearing a light blue striped shirt, naturally standing on the brick path in the mid-ground, slightly to the right of the central path, facing towards the wooden structure)",
+    "Brick path (from image 1)",
+    "Wooden structure (from image 1)",
+    "Rows of benches (from image 1)",
+    "White walls (from image 1)",
+    "Trees and foliage (from image 1)",
+    "Sky (from image 1)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

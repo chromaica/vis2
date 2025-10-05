@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "In image 1, replace the Pepsi can with the Coca-Cola can from image 2, and change the street background to the room background from image 3.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit Image 1. Replace the Pepsi can held by the girl's right hand at the top of her head in Image 1 with the Coca-Cola can from Image 2. Simultaneously, modify the existing street background in Image 1 to the detailed room interior background depicted in Image 3.",
+  "annotator": "paria",
+  "objects": [
+    "girl",
+    "girl's right hand",
+    "girl's long dark hair",
+    "girl's headphones",
+    "small white bird on girl's head",
+    "black hoodie",
+    "Coca-Cola can",
+    "detailed room interior background",
+    "Pepsi can (should not be present)",
+    "street background (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Edit image 1 by replacing the brain icon with the stylized brain illustration from image 2. Also, replace the stopwatch icon with the cartoon pocket watch illustration from image 3, integrating them into the infographic layout.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the existing grey and red brain icon located in the bottom-left section of the infographic with the pink and blue stylized brain illustration from image 2. Additionally, replace the yellow stopwatch icon, currently in the bottom-right section displaying \"0:01 seconds,\" with the gold cartoon pocket watch illustration from image 3. Ensure both new elements are seamlessly integrated into the infographic layout, maintaining a consistent visual style and appropriate scale relative to the surrounding text and elements.",
+  "annotator": "maxku",
+  "objects": [
+    "Large eye icon with red wires and plugs",
+    "Red ribbon banner with text \"'visually wired'\"",
+    "Pink and blue stylized brain illustration (in bottom-left)",
+    "Text \"almost 50% of your brain is involved in visual processing\" (in bottom-left)",
+    "Three blue eye icons (in bottom-center)",
+    "Text \"70% of all your sensory receptors are in your eyes\" (in bottom-center)",
+    "Gold cartoon pocket watch illustration (in bottom-right)",
+    "Text \"we can get the sense of a visual scene in less than 1/10 of a second\" (in bottom-right)",
+    "Grey and red brain icon (should not be present)",
+    "Yellow stopwatch icon (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

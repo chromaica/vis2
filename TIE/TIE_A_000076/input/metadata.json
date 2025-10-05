@@ -1,0 +1,25 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Traditional art",
+  "prompt": "Those heads should be at the same level, align their jaws to the same horizontal line. Do not change other aspects of the image.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "In image 1, adjust the vertical positions of the seven heads so that all their jaws are perfectly aligned along a single horizontal line. Preserve all other visual details and the artistic style of the image.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Bearded head with an ornate helmet on the left",
+    "Youthful head with curly hair and a simple cap",
+    "Bearded head with an ornate cylindrical crown",
+    "Bearded head with a patterned tall cap",
+    "Female head with an elaborate helmet topped by a small figure",
+    "Bearded head with a large, curved helmet crest",
+    "Bearded head with a classical crested helmet",
+    "Sepia-toned artwork",
+    "Engraving/drawing style",
+    "Plain background"
+  ],
+  "human_annotation": true
+}

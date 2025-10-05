@@ -1,0 +1,26 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Create a Sankey diagram illustrating the projected profits for the upcoming quarter.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Modify the existing Sankey diagram to illustrate 'projected profits for the upcoming quarter'. Retain the current visual style, color palette, and flow structure of the diagram. Update the main title at the top of the chart to 'Projected Profits for Upcoming Quarter'. Replace all specific textual labels and numerical values related to 'Alphabet Q3 FY22 Income Statement' with generic, appropriate labels and corresponding hypothetical values for projected profit categories. For example, replace specific revenue sources (like 'Search advertising', 'YouTube') with generic projected income streams (e.g., 'Projected Income Stream A', 'Projected Income Stream B'), and replace specific expense items (like 'Tax', 'R&D') with generic projected expense categories (e.g., 'Projected Operating Costs', 'Projected Overhead'). Ensure the visual width of the flows and final profit figures logically correspond to the new projected numerical values.",
+  "annotator": "cwhsu",
+  "objects": [
+    "A Sankey diagram structure",
+    "Chart title: 'Projected Profits for Upcoming Quarter'",
+    "Flows and labels for generic projected income streams (e.g., 'Projected Income Stream A', 'Projected Income Stream B')",
+    "Flows and labels for intermediate projected revenue categories (e.g., 'Projected Ad Revenue', 'Projected Total Revenue')",
+    "Flows and labels for intermediate projected profit categories (e.g., 'Projected Gross Profit', 'Projected Operating Profit')",
+    "Flows and labels for generic projected expense categories (e.g., 'Projected Operating Costs', 'Projected Overhead')",
+    "Flows and labels for generic projected cost of revenues categories (e.g., 'Projected Cost of Revenues')",
+    "Node and label for 'Projected Net Profit'",
+    "Hypothetical numerical values and percentages associated with all flows and labels",
+    "The original color palette (blue, gold, green, red hues)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

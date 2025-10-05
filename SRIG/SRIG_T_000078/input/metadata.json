@@ -1,0 +1,26 @@
+{
+  "subtopic": "Typography",
+  "prompt": "Generate a black and white graphic image of the number '3.141592653589' where each number is formed using elements inspired by piano keys and musical notation, adopting the minimalist line art style and typographical concept seen in the reference image.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://mir-s3-cdn-cf.behance.net/project_modules/hd/b0c5b235845923.56062d1b45573.jpg",
+  "promptGeneratedTimestamp": 1750500191149,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "T",
+  "prompt_refined": "Create a minimalist line art graphic displaying the number '3.141592653589'. Each character (digits and decimal point) should be designed in black and white, incorporating elements of piano keys and musical notation, consistent with the unique typographical style exemplified by the alphabet shown in image 1. The full number should be presented horizontally.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "The numerical sequence \"3.141592653589\"",
+    "Individual characters (digits and decimal point)",
+    "Minimalist line art graphic style",
+    "Black and white color scheme",
+    "Elements of piano keys integrated into characters",
+    "Elements of musical notation (e.g., curls, notes) integrated into characters",
+    "Typographical style consistent with the alphabet in Image 1",
+    "Horizontal arrangement of the full number"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

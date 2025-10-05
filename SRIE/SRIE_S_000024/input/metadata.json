@@ -1,0 +1,28 @@
+{
+  "subtopic": "Software interfaces",
+  "prompt": "Edit image 1: Redesign the Windows Settings interface shown on the canvas, applying the dark left navigation sidebar style and the modern, flat color palette from the web interface in image 2.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "Modern software interface screenshot",
+  "searchQueryGeneratedTimestamp": 1752235816109,
+  "promptGeneratedTimestamp": 1752235872755,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "annotator": "ishengfang",
+  "prompt_refined": "Edit image 1: Redesign the Windows Settings interface visible within the main canvas area. Apply the dark grey background and flat design style of the left navigation sidebar from image 2 to the corresponding left navigation pane in image 1. Additionally, update the entire Windows Settings interface in image 1 to adopt the modern, flat color palette and aesthetic from image 2, incorporating its clean whites, light greys, and light blue accents.",
+  "objects": [
+    "Windows Settings window interface",
+    "Left navigation pane with dark grey background and flat design style",
+    "Main content area with modern, flat color palette (clean whites, light greys, light blue accents)",
+    "Search bar within the left navigation pane",
+    "Navigation categories (e.g., System, Display, Battery) within the left navigation pane",
+    "\"Overview\" title in the main content area",
+    "Battery percentage display (e.g., \"98%\")",
+    "\"Battery saver\" section with its toggle, checkbox, and descriptive text"
+  ],
+  "human_annotation": true
+}

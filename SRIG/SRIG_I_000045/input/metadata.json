@@ -1,0 +1,26 @@
+{
+  "subtopic": "Maps",
+  "prompt": "Using the topological layout of the London Underground map, generate a ancient style map. Each station labels and lines must be preserved in the map.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://i2-prod.mylondon.news/incoming/article26090976.ece/ALTERNATES/s615b/1_Screenshot-2023-01-27-144011.png",
+  "promptGeneratedTimestamp": 1749908940846,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate a new image depicting a map in an ancient, parchment-like style. The map's topological layout, including all station locations, connecting lines, and their precise interconnections, must be derived directly from the London Underground map provided in image 1. All station names and line labels visible in image 1 (e.g., 'Brixton', 'Stockwell', 'Clapham Common', 'Vauxhall') must be clearly preserved and legibly rendered on the generated map using a calligraphic or vintage font appropriate for an ancient aesthetic. The various lines of the underground network, including their distinctive pathways, junctions, and any associated symbols (such as interchange circles, dotted walking connections, river crossings, or accessibility indicators), must be faithfully maintained according to image 1's structure, but depicted with an aged, hand-drawn appearance. The overall aesthetic should evoke an antique document, featuring sepia tones, textured paper, and classic cartographic embellishments.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "London Underground map layout",
+    "Underground network lines (with distinct pathways and junctions, aged and hand-drawn)",
+    "Station locations (represented by circles)",
+    "Station names (e.g., 'Brixton', 'Stockwell', 'Clapham Common', 'Vauxhall', rendered in calligraphic/vintage font)",
+    "Interchange circles",
+    "Dotted walking connections",
+    "River crossing symbol (boat icon)",
+    "Accessibility indicators (wheelchair symbol)",
+    "National Rail interchange symbols (train track symbol)",
+    "Parchment-like textured paper background (with sepia tones)"
+  ]
+}

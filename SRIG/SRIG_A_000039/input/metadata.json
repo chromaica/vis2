@@ -1,0 +1,21 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Stylized art",
+  "prompt": "An adventure with this teddy bear in a imaginative world",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate an artwork depicting the teddy bear from image 1 on a whimsical adventure through a fantastical, dreamlike landscape with vibrant, surreal elements.",
+  "annotator": "Johnny",
+  "objects": [
+    "teddy bear (from image 1)",
+    "fantastical landscape",
+    "dreamlike landscape",
+    "vibrant elements",
+    "surreal elements"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

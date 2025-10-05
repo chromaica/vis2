@@ -1,0 +1,21 @@
+{
+  "subtopic": "3D renders",
+  "prompt": "Render and place a photorealistic 3D model of a futuristic spaceship with metallic surfaces on the center of the wooden podium.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751761573305,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1 to depict a photorealistic, futuristic spaceship with metallic surfaces. Position the spaceship centrally on the wooden podium shown in image 1.",
+  "annotator": "edisy",
+  "objects": [
+    "wooden podium",
+    "photorealistic futuristic spaceship",
+    "metallic surfaces on the spaceship",
+    "spaceship positioned centrally on the podium",
+    "beige background"
+  ]
+}

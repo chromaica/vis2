@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "Generate typography for the the phrase 'Freedom' in vertical Chinese-style layout from first image, but with English characters using textures from the second image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate an image displaying the word 'Freedom' using a vertical layout. Each letter of 'Freedom' should be stacked vertically, centered on the image, similar to the Chinese characters' arrangement in image 1. The text 'Freedom' should appear in a crisp, clean, bold white font, replicating the style and solid white color of the 'Canon' logo text in image 2. The background should be a solid red, matching the vibrant red background seen in image 2.",
+  "annotator": "parnian",
+  "objects": [
+    "The word \"Freedom\"",
+    "Each letter of \"Freedom\" stacked vertically",
+    "Letters of \"Freedom\" centered on the image",
+    "Crisp font for the word \"Freedom\"",
+    "Clean font for the word \"Freedom\"",
+    "Bold font for the word \"Freedom\"",
+    "White color for the word \"Freedom\"",
+    "Solid red background",
+    "Vibrant red background color (matching reference image 2)"
+  ],
+  "human_annotation": true
+}

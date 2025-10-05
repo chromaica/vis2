@@ -1,0 +1,23 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Facial estimation and analysis",
+  "prompt": "Rotate the head to the left according to the facial landmarks in the reference.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 (the source image) by rotating the subject's head to align with the left-facing pose indicated by the facial landmarks in image 2 (the reference image).",
+  "annotator": "nimajamali",
+  "objects": [
+    "Woman",
+    "Head rotated to a left-facing pose",
+    "Brown, wavy hair",
+    "Eyes",
+    "Nose",
+    "Mouth",
+    "Black garment/top",
+    "Plain white background"
+  ]
+}

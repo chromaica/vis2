@@ -1,0 +1,23 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "Create a dramatic digital scene merging the Batman silhouette from Image 1 with the airplane silhouette from Image 2, set against a moody, cloud-filled sky.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a dramatic digital scene. A large, stark silhouette of Batman, based on Image 1, is positioned prominently in the midground, facing right. In the upper-right portion of the frame, a distinct silhouette of an airplane, referencing Image 2, flies in the distance. Both figures are depicted as pure black against a vast, moody, and densely cloud-filled sky, rendered with deep twilight or pre-dawn hues and dramatic, atmospheric lighting that emphasizes the silhouettes.",
+  "annotator": "samin",
+  "objects": [
+    "Large, stark, pure black Batman silhouette (prominently in midground, facing right)",
+    "Distinct, pure black airplane silhouette (in upper-right, flying in the distance)",
+    "Vast sky",
+    "Moody sky",
+    "Densely cloud-filled sky",
+    "Sky with deep twilight or pre-dawn hues",
+    "Dramatic lighting",
+    "Atmospheric lighting"
+  ]
+}

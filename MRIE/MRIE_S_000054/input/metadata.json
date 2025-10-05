@@ -1,0 +1,24 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "In image 1, replace the white camera icon at the top-left corner of the screen with the blue shield badge from image 3 (bottom-left blue badge), resizing it to match the original camera icon's scale. Also, add the 3D star ribbon badge from image 3 to the top-right corner of the Pou interface in image 1, sized proportionally to look like an achievement medal. Make sure the badge and arrow are scaled proportionally to match surrounding UI elements. All other aspects of the source image should remain unchanged.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the Pou screenshot, by performing the following modifications:\n\n1.  Replace the white camera icon in the top-left corner of image 1 with the dark blue hexagonal badge featuring a feather icon, located at the bottom-left of image 3. Scale this new badge to exactly match the size and perspective of the original camera icon.\n2.  Add the 3D star ribbon badge from image 2 to the top-right corner of the Pou interface in image 1. This badge should be sized proportionally to function as an achievement medal, ensuring its overall scale, including its ribbon 'arrow' elements, is consistent with the surrounding UI elements.\n\nMaintain all other elements and aspects of image 1 without alteration.",
+  "annotator": "parnian",
+  "objects": [
+    "Pou character",
+    "Green background",
+    "Top UI bar icons (green Pou, paint brush, plus, head, lightning, heart)",
+    "\"Game Room\" text with left and right arrows and question mark",
+    "Bottom UI elements (rainbow gamepad, white ball, shop icon, three dots)",
+    "Dark blue hexagonal badge with feather icon (in top-left corner)",
+    "3D star ribbon badge (in top-right corner)",
+    "White camera icon (should not be present)"
+  ]
+}

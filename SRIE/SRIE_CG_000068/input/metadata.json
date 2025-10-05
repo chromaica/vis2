@@ -1,0 +1,24 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Facial estimation and analysis",
+  "prompt": "Apply the surprised expression defined by the reference landmark map.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, a man's face with a neutral expression, to display a surprised expression. The specific details of the surprised expression should be guided by the reference facial landmark map provided in image 2.",
+  "annotator": "nimajamali",
+  "objects": [
+    "man",
+    "man's face with a surprised expression",
+    "wide open eyes",
+    "raised eyebrows",
+    "open mouth",
+    "man's beard",
+    "man's hair",
+    "grey t-shirt",
+    "neutral background"
+  ]
+}

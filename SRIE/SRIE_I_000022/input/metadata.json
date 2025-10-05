@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Add this mirror above the dresser.",
+  "cond_images": [
+    "1.png",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit Image 1 by adding the ornate gold-framed mirror from Image 2 onto the wall, centered directly above the wooden dresser.",
+  "annotator": "Johnny",
+  "objects": [
+    "Bedroom interior",
+    "Wooden bed with bedding",
+    "Wooden dresser",
+    "Ornate gold-framed mirror centered directly above the wooden dresser",
+    "Wall",
+    "Window with curtains",
+    "Ceiling fan",
+    "Hardwood floor",
+    "Pink upholstered ottomans",
+    "Framed pictures"
+  ]
+}

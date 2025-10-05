@@ -1,0 +1,26 @@
+{
+  "subtopic": "Astronomical images",
+  "prompt": "Edit image 1: Enhance the moon's surface detail and contrast, making it appear as sharp and textured as the moon in image 2. Add a background starfield to image 1, incorporating the density and blueish ambient color of the stars shown in image 3.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749222644624,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "P",
+  "prompt_refined": "Edit the source image (image 1) to transform the moon into a highly detailed, photorealistic celestial body with an accompanying starfield background.\n\n1.  **Moon Surface Detail**: Enhance the moon's surface in image 1 by significantly increasing its detail, contrast, and texture. The edited moon should visually match the sharpness, intricate surface features (like craters and maria), and overall granular appearance of the moon presented in image 2, while maintaining the bright luminosity of image 1.\n2.  **Starfield Background**: Add a comprehensive starfield to the dark background surrounding the moon in image 1. This starfield should accurately reflect the density, distribution, and characteristic bluish ambient light of the stars demonstrated in image 3, filling the entire sky surrounding the central moon.",
+  "annotator": "boris",
+  "objects": [
+    "photorealistic moon",
+    "highly detailed moon surface",
+    "craters on moon surface",
+    "maria on moon surface",
+    "bright moon luminosity",
+    "comprehensive starfield background",
+    "stars within the starfield",
+    "bluish ambient light within the starfield"
+  ]
+}

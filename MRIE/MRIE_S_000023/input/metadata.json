@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "In image 1, replace the Wi-Fi icon in the top right corner with the 'No Wi-Fi' icon from image 2, keeping the same size and placement. Add the volume slider from image 3 at the bottom of the screen, just above the orange 'Next' button. Make sure the rest of the UI stays the same.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the existing Wi-Fi icon in the top-right status bar of image 1 with the 'No Wi-Fi' icon from image 2, ensuring it retains the original size and precise placement. Additionally, add the white vertical volume slider with the speaker icon from image 3 to the bottom of image 1, positioning it centrally just above the orange 'Next' button. All other UI elements in image 1 must remain unchanged.",
+  "annotator": "parnian",
+  "objects": [
+    "Existing Wi-Fi icon (should not be present)",
+    "'No Wi-Fi' icon in top-right status bar",
+    "White vertical volume slider with speaker icon at bottom",
+    "Mobile app quiz background and layout",
+    "Top status bar with \"9:41\", cellular signal, and battery icon",
+    "Top UI elements including \"1 of 10\" player count, orange progress bar, \"1 of 10\" notification, and \"20\" timer",
+    "\"Hint\" button",
+    "Question block with \"Question 01\", \"Sports Quiz\", and question text",
+    "Four answer options (\"Soccer\", \"Basketball\", \"Cricket\", \"Badminton\")",
+    "Orange \"Next\" button at the bottom"
+  ]
+}

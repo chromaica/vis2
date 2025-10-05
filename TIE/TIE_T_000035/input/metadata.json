@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": "Close the door of the train and overlay a bold, cracked-edge \u2018SLAM!\u2019 in exploding letters at the hinge.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. In the second panel, close the open train door, so the characters and the train's interior are no longer visible. Overlay the word 'SLAM!' onto the newly closed door. Position 'SLAM!' prominently on the left side of the door, where the hinge would be. The text should be bold, have a distinct cracked-edge outline, and feature a dynamic, exploding visual effect with radiating lines, consistent with a comic book sound effect.",
+  "annotator": "matina",
+  "objects": [
+    "Left character in the first panel",
+    "Right character in the first panel",
+    "Speech bubbles in the first panel",
+    "Train interior in the first panel",
+    "Train window in the first panel",
+    "Speech bubbles in the second panel",
+    "Train window in the second panel",
+    "Closed train door in the second panel",
+    "The word 'SLAM!' prominently on the left side of the closed door with bold font, distinct cracked-edge outline, dynamic exploding visual effect, and radiating lines",
+    "Characters previously visible in the second panel's doorway (should not be present)"
+  ]
+}

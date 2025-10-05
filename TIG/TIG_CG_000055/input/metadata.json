@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "CAD models",
+  "prompt": "A CAD model of a corrugated pipe.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A highly detailed 3D CAD model of a corrugated pipe, rendered with clean lines and precise geometric accuracy. The object should appear with a smooth, matte finish, illuminated by soft studio lighting against a solid, neutral background. Emphasize the distinct ridges and valleys of the corrugated design.",
+  "annotator": "maxku",
+  "objects": [
+    "A highly detailed 3D CAD model of a corrugated pipe",
+    "Clean lines (of the pipe)",
+    "Precise geometric accuracy (of the pipe)",
+    "Smooth, matte finish (on the pipe)",
+    "Emphasized distinct ridges and valleys (of the pipe)",
+    "Soft studio lighting",
+    "Solid background",
+    "Neutral background"
+  ],
+  "human_annotation": true
+}

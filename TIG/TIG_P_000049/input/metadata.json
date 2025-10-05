@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Long exposure",
+  "prompt": "A serene waterfall in a lush forest, captured with long exposure to transform the water into silky white streams cascading down the rocks, surrounded by the deep green of moss and ferns.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic image of a serene waterfall nestled deep within a lush, temperate forest. The water, captured with a long exposure, should appear as ethereal, silky white streams gracefully cascading over dark, craggy rocks. These rocks and the surrounding forest floor are densely covered in vibrant, deep green moss and various delicate ferns, creating a rich, verdant tapestry. Ensure the lighting is soft and diffused, contributing to a tranquil and peaceful atmosphere.",
+  "annotator": "cwhsu",
+  "objects": [
+    "serene waterfall",
+    "lush temperate forest",
+    "ethereal, silky white streams of water",
+    "dark, craggy rocks",
+    "deep green moss",
+    "delicate ferns",
+    "forest floor",
+    "soft and diffused lighting"
+  ]
+}

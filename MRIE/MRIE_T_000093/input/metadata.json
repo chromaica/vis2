@@ -1,0 +1,30 @@
+{
+  "subtopic": "Posters",
+  "prompt": "Edit image 1 (movie poster). Incorporate the vibrant color palette and graphic elements from image 2. Adopt the segmented, colorful text blocks style from image 3 for the silhouettes. Render the main title with the bold, bubbly style and background shapes from image 4. Apply the chalkboard background texture and chalk-like text style from image 5.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg",
+    "4.jpeg",
+    "5.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749712057030,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "T",
+  "prompt_refined": "Edit the movie poster presented in image 1. Incorporate the vibrant, multi-colored aesthetic and cheerful graphical style observed in the motivational posters of image 2 into the overall composition. Transform the text forming the male silhouettes within image 1 into segmented, brightly colored text blocks, adopting the grid-like style and distinct background colors seen in the 'Word Families' chart (image 3). Redraw the main title 'THE WORDS' at the bottom of image 1 using the bold, rounded, and playful text style, including the characteristic background shapes/bubbles, as exemplified in image 4. Finally, replace the existing background of image 1 with the dark, textured chalkboard appearance from image 5, and render all other text elements (specifically the cast names at the top and the words within the silhouettes) with the white, chalk-like text style from image 5.",
+  "annotator": "winston",
+  "objects": [
+    "Male silhouettes",
+    "Segmented, brightly colored text blocks (within silhouettes, with grid-like style)",
+    "Words within the silhouettes (white, chalk-like text style)",
+    "Main title \"THE WORDS\" at the bottom",
+    "Bold, rounded, playful text for \"THE WORDS\"",
+    "Background shapes/bubbles surrounding \"THE WORDS\"",
+    "Dark, textured chalkboard background",
+    "Cast names at the top",
+    "White, chalk-like text for cast names",
+    "Overall vibrant, multi-colored and cheerful aesthetic"
+  ]
+}

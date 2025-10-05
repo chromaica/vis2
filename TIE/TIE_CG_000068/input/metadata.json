@@ -1,0 +1,26 @@
+{
+  "subtopic": "CAD models",
+  "prompt": "Change the metallic gold base and supports of the robotic arm to a brushed aluminum texture and color.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751798851677,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1. Change the metallic gold circular base and the vertical cylindrical supports of the robotic arm to a brushed aluminum texture and color.",
+  "annotator": "edisy",
+  "objects": [
+    "robotic arm structure",
+    "brushed aluminum circular base",
+    "brushed aluminum vertical cylindrical supports",
+    "translucent dark gray arm segments",
+    "robotic arm gripper",
+    "silver gears on the gripper",
+    "yellow fasteners/pins on the arm",
+    "internal components of the base",
+    "translucent upper base plate",
+    "white/light gray background"
+  ]
+}

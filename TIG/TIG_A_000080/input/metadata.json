@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "oil paintings",
+  "prompt": "A richly detailed oil painting of a violinist in a dimly lit room, the intensity of their closed eyes and fluid hand movements captured lovingly.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A richly detailed oil painting of a violinist in a dimly lit room. Their closed eyes convey intense focus, and their hands are depicted in fluid, graceful motion. The entire scene is rendered with a tender and appreciative tone.",
+  "annotator": "cwhsu",
+  "objects": [
+    "violinist",
+    "violin",
+    "room",
+    "dim lighting",
+    "closed eyes",
+    "fluid, graceful hands"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

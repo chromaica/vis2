@@ -1,0 +1,27 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Edit image 1 (the diagram). Add a small green car icon inspired by image 2 next to the 'DDIM Inversion' box. Add a small blue car icon inspired by image 3 next to the 'I2V Model' box. Change the color of the arrows feeding into 'DDIM Inversion' to green and into 'I2V Model' to blue.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, which is a scientific diagram illustrating a video processing pipeline.\nAdd a small icon of a green car, inspired by the overall shape and side-view style of the car in image 2, positioned immediately to the right of the 'DDIM Inversion' box.\nAdd a small icon of a blue car, inspired by the overall shape and side-view style of the car in image 3, positioned immediately to the right of the 'I2V Model' box.\nChange the color of the arrow feeding into the 'DDIM Inversion' box (the horizontal arrow originating from the left) to green.\nChange the color of all arrows feeding into the 'I2V Model' box (specifically, the horizontal arrow from 'DDIM Inversion' and the vertical arrow from 'ZT_S') to blue.",
+  "annotator": "maxku",
+  "objects": [
+    "Video processing pipeline diagram",
+    "'DDIM Inversion' box",
+    "Top 'I2V Model' box",
+    "Small icon of a green car, inspired by image 2, positioned immediately to the right of the 'DDIM Inversion' box",
+    "Small icon of a blue car, inspired by image 3, positioned immediately to the right of the top 'I2V Model' box",
+    "Green horizontal arrow feeding into the 'DDIM Inversion' box from the left",
+    "Blue horizontal arrow from 'DDIM Inversion' feeding into the top 'I2V Model' box",
+    "Blue vertical arrow from 'ZT_S' feeding into the top 'I2V Model' box",
+    "Source Video V^S and 1st Frame I1 blocks",
+    "Black-Box Image Editing Model box and Edited 1st Frame block"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,23 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "generate a textile map embroidered on a quilt, with different fabric patterns representing various terrains, stitched rivers and roads, and appliqu\u00e9 landmarks",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Detailed textile map, intricately embroidered onto a large quilt, featuring diverse fabric patterns and textures depicting various geographic terrains. Precisely stitched winding rivers and roads traverse the map, while distinct, three-dimensional appliqu\u00e9 landmarks are strategically placed. Overhead view, soft even lighting.",
+  "annotator": "theblackcat",
+  "objects": [
+    "textile map",
+    "large quilt",
+    "embroidered details",
+    "diverse fabric patterns",
+    "diverse fabric textures",
+    "geographic terrains",
+    "winding rivers",
+    "roads",
+    "three-dimensional appliqu\u00e9 landmarks"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

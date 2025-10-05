@@ -1,0 +1,27 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": " In image 1, replace the \u201cGame Center\u201d app icon with the TikTok icon from image 2, keeping the same size and rounded border. Then, change the current battery icon at the top-right with the red low-battery icon from image 3. Keep all other app icons and layout unchanged.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the 'Game Center' app icon, located in the fourth row, fourth column of the app grid, with the TikTok app icon from image 2. Ensure the replaced icon matches the original 'Game Center' icon's size and rounded corner style. Next, change the current battery icon in the top-right corner of image 1 to the red low-battery icon (the bottom one) from image 3. Keep all other app icons, the screen layout, and remaining status bar elements of image 1 unchanged.",
+  "annotator": "parnian",
+  "objects": [
+    "TikTok app icon",
+    "red low-battery icon",
+    "iOS 7 app grid layout",
+    "Messages app icon",
+    "Calendar app icon",
+    "Photos app icon",
+    "Camera app icon",
+    "Phone app icon",
+    "Vodafone carrier info in status bar",
+    "WiFi signal strength icon in status bar"
+  ],
+  "human_annotation": true
+}

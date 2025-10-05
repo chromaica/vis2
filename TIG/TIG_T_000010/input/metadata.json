@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Calligraphy",
+  "prompt": "The word \"Serenity\" captured in masterful brush calligraphy, using profound black ink upon the delicate texture of rice paper.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "The word 'Serenity' in exquisite brush calligraphy, rendered with deep, rich black ink on a sheet of delicately textured rice paper. The calligraphy is centrally placed, showcasing the paper's subtle fibers and the ink's soft absorption.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "The word 'Serenity'",
+    "Brush calligraphy",
+    "Deep, rich black ink",
+    "Sheet of rice paper",
+    "Delicately textured paper",
+    "Centrally placed calligraphy",
+    "Subtle paper fibers",
+    "Soft ink absorption"
+  ]
+}

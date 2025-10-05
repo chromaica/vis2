@@ -1,0 +1,27 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": "Paste this poster on the back wall, edges slightly curled.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 (the comic panel) by applying the content and style of the poster from image 2 onto the boarded-up wall. Position the poster centrally on the boarded section, ensuring its edges are subtly curled.",
+  "annotator": "matina",
+  "objects": [
+    "Building exterior (background)",
+    "Woman with blonde hair",
+    "Man wearing a hat",
+    "Speech bubbles with text",
+    "\"MIDDLEWOOD TRUST COMPANY\" sign",
+    "Blue poster centrally placed on the boarded wall",
+    "\"THE 13TH ANNUAL GATHERING OF MC's\" text on the poster",
+    "Microphone graphics on the poster",
+    "Crumpled texture on the poster",
+    "Subtly curled edges on the poster"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

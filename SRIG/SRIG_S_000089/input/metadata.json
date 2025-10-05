@@ -1,0 +1,23 @@
+{
+  "subtopic": "Games",
+  "prompt": "Reimagine the skill tree from the reference RPG screenshot as a constellation map against a night sky, where each star is a skill and lines connect related abilities.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "https://frpnet.net/wp-content/uploads/2014/03/path-of-exile-skill-tree.jpg",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate an image transforming the complex skill tree from image 1 into a celestial constellation map. The background should be a deep, dark night sky, populated with faint nebulae and a vast scattering of distant stars. Each 'skill' node from image 1 is to be represented as a distinct, luminous star; the larger, central 'keystone' nodes should appear as brighter, more prominent, or uniquely colored stars. The connecting lines between skills are to be rendered as glowing, ethereal lines of starlight, forming intricate constellation patterns that precisely mirror the original skill tree's structure and layout. Importantly, exclude all user interface elements from image 1 (such as the top 'SKILLS' bar, health/mana orbs, and inventory) to focus solely on the transformed cosmic skill tree.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "A deep, dark night sky",
+    "Faint nebulae",
+    "A vast scattering of distant stars",
+    "Distinct, luminous stars (representing skill nodes)",
+    "Brighter, more prominent, or uniquely colored stars (representing keystone nodes)",
+    "Glowing, ethereal lines of starlight (forming intricate constellation patterns)",
+    "Top 'SKILLS' bar (should not be present)",
+    "Health/mana orbs (should not be present)",
+    "Inventory (should not be present)"
+  ]
+}

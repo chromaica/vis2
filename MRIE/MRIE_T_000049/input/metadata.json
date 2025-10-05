@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "T",
+  "subtopic": "Menu",
+  "prompt": "Remove the set of cutlery from the first image. Then, edit the font of the text 'Let's Eat' to match the style of the text in the second image. Finally, replace the pasta on the top side with the pasta in the third image, the name of the pasta in the third image is called 'Linguine di Mare'. Change the name in the menu accordingly.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 (the menu cover).\n1.  Remove the fork located on the right side of the 'Tour of Italy' pasta dish.\n2.  Change the font style of the prominent 'LET'S EAT' text at the top of the page to match the rounded sans-serif font style of the word 'Delicious' shown in image 2.\n3.  Replace the entire 'Tour of Italy' pasta dish, positioned at the top-right of the menu, with the 'Linguine di Mare' seafood pasta dish from image 3, ensuring it includes ingredients like shrimp and mussels as depicted in image 3.\n4.  Update the text label directly below the newly replaced dish from 'tour of italy' to 'Linguine di Mare'.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Dark blue napkin",
+    "'LET'S EAT' text with rounded sans-serif font style",
+    "'OUR TWO FAVOURITE WORDS' text",
+    "Bottle of Moscato wine",
+    "Lasagna dish",
+    "Pasta dish (below the lasagna)",
+    "'Linguine di Mare' seafood pasta dish with shrimp and mussels (at top-right of menu)",
+    "'Linguine di Mare' text label (below the seafood pasta dish)",
+    "'chicken & shrimp carbonara' dish",
+    "Fork (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

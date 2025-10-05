@@ -1,0 +1,26 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": "Add sweeping speed lines behind the runner and a radial blur around their feet.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Add sweeping speed lines behind each of the two running characters, and apply a radial blur around the feet of each character.",
+  "annotator": "matina",
+  "objects": [
+    "Running character (left)",
+    "Running character (right)",
+    "Sweeping speed lines behind the left running character",
+    "Sweeping speed lines behind the right running character",
+    "Radial blur around the feet of the left running character",
+    "Radial blur around the feet of the right running character",
+    "Speech bubble with text (left)",
+    "Speech bubble with text (right)",
+    "Airfield ground",
+    "Hangar and airplanes in background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

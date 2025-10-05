@@ -1,0 +1,22 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "an image of a cellular structure, using the texture from the reference image as guidance.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic microscopic image of a cellular structure. The image should be rendered with the distinctive texture and visual characteristics observed in image 1, specifically replicating the pattern of irregularly shaped, dark polygonal cells with luminous, interconnected boundaries.",
+  "annotator": "samin",
+  "objects": [
+    "Photorealistic microscopic image",
+    "Cellular structure",
+    "Irregularly shaped cells",
+    "Dark cells",
+    "Polygonal cells",
+    "Luminous cell boundaries",
+    "Interconnected cell boundaries"
+  ],
+  "human_annotation": true
+}

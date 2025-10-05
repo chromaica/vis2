@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "I",
+  "subtopic": "Visual instructions and manuals",
+  "prompt": "Generate a visual instruction to create a bandage like in Image 1, where a person is applying it to the injured person shown in Image 2, who is in pain.",
+  "cond_images": [
+    "1.png",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "matina",
+  "prompt_refined": "Generate an information graphic illustrating the process of applying a white arm sling bandage, styled similarly to the one in Image 1. The graphic should show an individual actively applying this bandage to another person, who closely resembles the man in Image 2 and is clearly in visible pain, grimacing. The overall composition should clearly convey the steps involved in securing the bandage.",
+  "objects": [
+    "Information graphic visual style",
+    "Multiple visual panels/steps depicting a process",
+    "White arm sling bandage",
+    "Individual applying the bandage",
+    "Individual receiving the bandage",
+    "Facial features resembling the man in Image 2",
+    "Grimacing expression (on the person receiving bandage)",
+    "Hands actively applying the bandage",
+    "Injured arm or shoulder"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

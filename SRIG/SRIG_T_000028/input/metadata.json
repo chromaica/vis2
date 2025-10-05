@@ -1,0 +1,23 @@
+{
+  "task": "SRIG",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "add the text to this meme template, top: not sure if my dog truly loves me, bottom: or just thinks I'm a walking treat dispenser",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "look for text auto newline for the bottom one",
+  "prompt_refined": "Generate a meme image using image 1 as a template. Overlay the text 'not sure if my dog truly loves me' centered at the top of the image. Overlay the text 'or just thinks I'm a walking treat dispenser' centered at the bottom of the image. The text should be bold, white, and outlined in black, typical of internet memes.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Cartoon character (Fry) from the reference image",
+    "Blue background",
+    "Text \"not sure if my dog truly loves me\" centered at the top",
+    "Text \"or just thinks I'm a walking treat dispenser\" centered at the bottom",
+    "Bold text style",
+    "White text color",
+    "Black text outline"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

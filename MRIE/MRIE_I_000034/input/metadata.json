@@ -1,0 +1,23 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "Edit image 1 by replacing the three generic black car icons with distinct visual elements for an information graphic. Make the car on the left a stylized yellow illustration similar to image 2. Make the middle car a realistic silver tesla like image 3. Make the car on the right a realistic yellow sports car with racing stripes like image 4.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png",
+    "4.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the generic black car icon on the left with a stylized yellow car illustration, referencing the visual style and color of image 2. Replace the generic black car icon in the center with a realistic silver Tesla, referencing the appearance of image 3. Replace the generic black car icon on the right with a realistic yellow sports car featuring racing stripes, referencing the design of image 4.",
+  "annotator": "maxku",
+  "objects": [
+    "generic black car icon on the left (should not be present)",
+    "generic black car icon in the center (should not be present)",
+    "generic black car icon on the right (should not be present)",
+    "stylized yellow car illustration on the left",
+    "realistic silver Tesla in the center",
+    "realistic yellow sports car with racing stripes on the right"
+  ]
+}

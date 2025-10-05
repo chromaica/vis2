@@ -1,0 +1,27 @@
+{
+  "task": "MRIE",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "Edit the wedding invitation such that the bridge's name is changed to 'Essence' and the groom's name is changed to 'Donald'. The date should be changed to '2028-11-20'. The venue should be changed to 'The Grand Hall'. The font of the title should be changed to the font in the second image. Replace the flower on the top right corner with the third image, and match the art style of that flower but the stroke should be green. Finally, replace the border with a seamless pattern created based on the fourth image, and make it as in the color of the original border. Make sure the new border blends well with the overall design.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png",
+    "4.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit `image 1` (the wedding invitation) as follows:\n\n1.  **Text Content Updates:**\n    *   Change the bride's name from 'Olivia' to 'Essence'.\n    *   Change the groom's name from 'Taylor' to 'Donald'.\n    *   Update the date from '30th October 2023' to '2028-11-20'.\n    *   Replace the venue information 'ANYWHERE HOTEL 123 ANYWHERE STREET.. ANY CITY' with 'The Grand Hall'.\n2.  **Font Style Modification:**\n    *   Modify the font of the main title text, 'Essence and Donald', to match the expressive, handwritten, calligraphic style exemplified by the 'Ink Pen' font shown in `image 2`.\n3.  **Graphic Replacement (Top-Right):**\n    *   Replace the existing floral line-art graphic in the top-right corner of `image 1` with a new line-art illustration of the climbing vine from `image 3`. The style of this new vine illustration should be consistent with the delicate, minimalist line drawings already present in `image 1`, and its strokes must be green.\n4.  **Border Transformation:**\n    *   Replace the current thin line border in `image 1` with a seamless, repeating pattern. This pattern should be generated using the leafy vine motif from `image 4`. The color of this new patterned border must be identical to the original grey color of the border in `image 1`. Ensure the new border seamlessly integrates with the overall clean and elegant aesthetic of the wedding invitation.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Main title text 'Essence and Donald' in a handwritten, calligraphic font",
+    "Text 'and'",
+    "Date text '2028-11-20'",
+    "Venue text 'The Grand Hall'",
+    "Green line-art illustration of a climbing vine in the top-right corner",
+    "Seamless, repeating grey leafy vine pattern border",
+    "Text 'REQUEST THE PLEASURE OF YOUR COMPANY AT THEIR WEDDING CELEBRATION'",
+    "Text 'AT 3PM,'",
+    "Text 'Reception To Follow'",
+    "Light beige background of the invitation"
+  ]
+}

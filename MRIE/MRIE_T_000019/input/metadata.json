@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "Based on the poster style in the first image, change the third image to match the style. Replace the title to Toy Story 3. The second image should be the replacing the main character in the first image, and extend the shadow of the character. Retain the use of the matte mask in the first image.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit Image 1 to create a new movie poster for 'Toy Story 3', while preserving the distinctive poster style, compositional layout, and visual effects of Image 1.\n\n1.  **Replace Main Character:** Replace the central figure (Vin Diesel) in Image 1 with the character from Image 2 (Lotso). Position Lotso centrally, mirroring Vin Diesel's dominant scale and pose.\n2.  **Extend Shadow:** Extend Lotso's shadow downwards from his base, consistent with the existing shadow style in Image 1.\n3.  **Apply Matte Mask Effect with New Content:** Retain the unique 'matte mask' visual effect from Image 1, where the central figure's silhouette is filled with other imagery. Integrate the ensemble of characters from Image 3 (e.g., Woody, Buzz Lightyear, Jessie, Mr. Potato Head, Hamm, Rex, Slinky Dog) within Lotso's silhouette, arranging them similarly to how the supporting characters are placed within Vin Diesel's silhouette in Image 1.\n4.  **Replace Title and Subtitle:** Change the main title from 'THE FATE OF THE FURIOUS 8' to 'TOY STORY 3'. Remove the subtitle 'FAMILY NO MORE'. Maintain the prominent top-center placement and a bold, impactful typography style similar to the original title in Image 1.\n5.  **Overall Theme Adaptation:** Remove any remaining elements specific to the 'Fast & Furious' franchise (e.g., other non-Toy Story characters, cars, specific background details) to ensure the entire poster is coherently themed around 'Toy Story 3'.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Lotso (central figure)",
+    "Lotso's extended shadow",
+    "Matte mask effect",
+    "Woody (within Lotso's silhouette)",
+    "Buzz Lightyear (within Lotso's silhouette)",
+    "Mr. Potato Head (within Lotso's silhouette)",
+    "Title: TOY STORY 3 (top-center)",
+    "Vin Diesel (should not be present)",
+    "THE FATE OF THE FURIOUS 8 title (should not be present)",
+    "Fast & Furious cars (should not be present)"
+  ]
+}

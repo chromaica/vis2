@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "generate a treemap of global CO\u2082 emissions (2024): outer level = continent, inner rectangles = sector (energy, transport, manufacturing, agriculture). Use an earth-tone palette and annotate the three largest rectangles with exact metric-ton values",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a treemap visualization of global CO\u2082 emissions for 2024. The treemap's outermost, large rectangular blocks should represent continents, and within each continent block, smaller nested rectangles should represent the following specific sectors: Energy, Transport, Manufacturing, and Agriculture. The entire treemap, including all blocks and backgrounds, must utilize a consistent earth-tone color palette. Each continent block must be clearly labeled with its continent name, and each sector block must be clearly labeled with its respective sector name. Identify the three largest rectangular areas within the entire treemap (which could be either continent blocks or specific sector blocks) and prominently display their exact CO\u2082 emission values in metric tons directly on or immediately adjacent to them. Ensure the relative sizes of all rectangles accurately reflect their corresponding emission values.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Treemap visualization structure",
+    "Large rectangular blocks representing continents",
+    "Smaller nested rectangular blocks representing sectors (Energy, Transport, Manufacturing, Agriculture)",
+    "Continent name labels",
+    "Sector name labels",
+    "Numerical CO\u2082 emission values (in metric tons)",
+    "Prominent highlighting or display for the three largest rectangular areas",
+    "Consistent earth-tone color palette applied to all blocks",
+    "Background utilizing an earth-tone color",
+    "Title or header indicating \"Global CO\u2082 emissions for 2024\""
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "Vibrant paint layers blend with torn newspaper fragments and colorful fruit images, creating a lively, textured, and dynamic collage.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a lively, textured, and dynamic collage artwork. The composition should be dense and abstract, featuring overlapping, irregularly torn paper fragments, inspired by the style and structure of image 1. Integrate distinct elements such as vibrant paint layers, torn newspaper fragments with legible text, and colorful fruit images. Ensure the overall piece conveys a rich tactile quality and a vibrant color palette, consistent with image 1.",
+  "annotator": "Johnny",
+  "objects": [
+    "Irregularly torn paper fragments",
+    "Overlapping paper fragments",
+    "Vibrant paint layers",
+    "Torn newspaper fragments with legible text",
+    "Colorful fruit images",
+    "Floral images",
+    "Abstract geometric patterns",
+    "Map fragments",
+    "Silhouetted figures",
+    "Cat image"
+  ]
+}

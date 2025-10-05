@@ -1,0 +1,19 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Concrete Poetry",
+  "prompt": "A concrete poetry piece: the text 'EVOLVE' visually transforms and morphs into dynamic, flowing shapes, presented against a clean, uncluttered background.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A concrete poetry piece featuring the word 'EVOLVE' at its center. The letters of 'EVOLVE' visually transform and morph into dynamic, flowing, liquid-like and sculptural shapes. The transformation should appear fluid and organic. The artwork is set against a clean, minimalistic, and uncluttered background.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "The word 'EVOLVE' as the central visual element",
+    "Letters of 'EVOLVE' transforming into dynamic shapes",
+    "Letters of 'EVOLVE' morphing into flowing shapes",
+    "Letters of 'EVOLVE' appearing liquid-like",
+    "Letters of 'EVOLVE' forming sculptural shapes",
+    "Organic appearance of the transformed letters",
+    "Clean, minimalistic, uncluttered background"
+  ]
+}

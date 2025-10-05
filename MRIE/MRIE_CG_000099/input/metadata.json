@@ -1,0 +1,27 @@
+{
+  "subtopic": "Augmented Reality or Computer Vision Visualization",
+  "prompt": "Edit image 1: Replace the pocket watch with the modern camera setup from image 2. Overlay computer graphics elements simulating live image analysis, drawing inspiration from the camera view perspective in image 3. Adjust wood texture slightly towards image 2.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748456623762,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1: Replace the antique pocket watch in the lower-left with the assembled black DSLR camera body and its lens from image 2, maintaining a similar scale and position. Overlay the entire scene with dynamic computer graphics elements, simulating a live image analysis feed originating from the newly placed camera. These graphics should depict an overhead, downward-looking perspective, drawing visual cues and content inspiration from image 3. Additionally, subtly modify the wooden surface in image 1 to be lighter and less reddish, aligning its texture and tone closer to the wood in image 2.",
+  "annotator": "winston",
+  "objects": [
+    "antique pocket watch (should not be present)",
+    "assembled black DSLR camera body and lens in the lower-left",
+    "lighter, less reddish wooden surface",
+    "dynamic computer graphics overlay",
+    "live image analysis feed simulation (within graphics)",
+    "overhead, downward-looking perspective (within graphics content)",
+    "visual cues and content inspired by image 3 (within graphics content)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,21 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "Change the mood of the photo so it would give fall vibes.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, which features a tree made of green text with a brown trunk on green ground. Change the visual mood of the image to evoke autumn. Specifically, transform the green text forming the tree's canopy into a palette of warm fall colors such as deep reds, oranges, yellows, and browns. Additionally, modify the green ground to a fall-appropriate color like muted browns, ochres, or reddish-browns. Ensure the overall composition conveys a clear autumn aesthetic.",
+  "annotator": "matina",
+  "objects": [
+    "Tree canopy made of textual graphics (e.g., \"ENVIRONMENT\", \"IMPACT\", \"ECONOMY\", \"SUSTAINABLE\", \"POWER\", \"WASTE\", \"ECOLOGY\", \"CLIMATE\", \"RESPONSIBLE\", \"SOCIETY\", \"ENERGY\", \"POLICY\", \"SUPPLY\", \"FUTURE\", \"RESOURCES\") displaying a palette of deep reds, oranges, yellows, and browns",
+    "Brown tree trunk",
+    "Ground in muted browns, ochres, or reddish-browns",
+    "Dark background",
+    "\"STUDIO\" watermark (on the right side)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

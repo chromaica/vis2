@@ -1,0 +1,24 @@
+{
+  "subtopic": "Game assets",
+  "prompt": "Create a 3D game asset model of a stylized planet. Use the Earth's form and detail level as seen in image 2 and incorporate the simple smiley face graphic from image 1 onto its surface, in a clean game-ready style.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748422652972,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a stylized 3D game asset model of a planet. Its global form and features (continents, clouds, oceans) should be clearly inspired by the Earth as seen in image 2, but rendered in a stylized, non-photorealistic manner suitable for a game. Prominently display the simple black smiley face graphic from image 1 on the planet's visible surface. The overall render style should be clean, vibrant, and optimized for a game environment.",
+  "annotator": "winston",
+  "objects": [
+    "stylized 3D game asset model of a planet",
+    "Earth-like global form",
+    "Earth-like continents",
+    "Earth-like clouds",
+    "Earth-like oceans",
+    "simple black smiley face graphic",
+    "smiley face on the planet's visible surface"
+  ]
+}

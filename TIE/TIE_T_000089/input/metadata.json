@@ -1,0 +1,22 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Change the logo writing to lowercase.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Change the main brand name 'HEINZ' (currently in uppercase) located in the center of the logo to 'heinz' (all lowercase).",
+  "annotator": "matina",
+  "objects": [
+    "Heinz logo shape with black outline",
+    "Brown colored band within the logo",
+    "Green colored band within the logo",
+    "The text \"heinz\" in black",
+    "The text \"ESTD\" in red",
+    "The text \"1869\" in red"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

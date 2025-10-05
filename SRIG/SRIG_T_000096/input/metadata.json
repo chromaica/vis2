@@ -1,0 +1,20 @@
+{
+  "task": "SRIG",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "Based on the theme and the vibe of the image provided, create a typography list that list out all the alphabets from A to Z and a to z. The background should be a pure white background.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "annotator": "donaldtsang",
+  "prompt_refined": "Generate a full typography list of all uppercase (A-Z) and lowercase (a-z) English alphabet letters. The typography should reflect the whimsical, cartoonish, and monster-themed artistic style observed in image 1, similar to the Hotel Transylvania aesthetic. Arrange the letters clearly and legibly as a list, ensuring all characters are prominently displayed. The background must be a pure, solid white.",
+  "objects": [
+    "Uppercase English alphabet letters (A-Z)",
+    "Lowercase English alphabet letters (a-z)",
+    "Letters rendered in whimsical, cartoonish, and monster-themed style",
+    "Pure, solid white background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,23 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "Object detection visuals",
+  "prompt": "A microscope image of cells, with bounding boxes or overlays around nuclei, cytoplasm, and foreign objects. Labels should be clear and concise.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A microscope image of cells, featuring visual annotations. For each nucleus, cytoplasm region, and foreign object, render a distinct, colored outline or semi-transparent overlay with a corresponding, clearly legible text label (e.g., 'Nucleus', 'Cytoplasm', 'Foreign Object') positioned near the annotated area.",
+  "annotator": "maxku",
+  "objects": [
+    "microscope image style",
+    "cells",
+    "nucleus",
+    "cytoplasm regions",
+    "foreign objects",
+    "distinct colored outlines",
+    "text label 'Nucleus'",
+    "text label 'Cytoplasm'",
+    "text label 'Foreign Object'"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

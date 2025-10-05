@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "Swap the color between yellow and purple. No changes to other colors or elements.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Swap all yellow elements (such as the buildings, hair strands, and accessories) with purple, and all purple elements (such as the background and the character's main hair color) with yellow. Ensure no other colors, elements, or the overall composition of the image are altered.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "character",
+    "character's long yellow hair with purple strands",
+    "character's green eyes",
+    "character's outfit",
+    "purple hair accessories",
+    "character's hand",
+    "purple gun-like object",
+    "pencil-like object",
+    "purple cityscape buildings",
+    "yellow background"
+  ]
+}

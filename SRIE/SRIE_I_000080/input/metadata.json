@@ -1,0 +1,24 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Removing the top hierachy in the organization chart.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, an organization chart. Remove the single yellow-outlined person icon at the absolute top of the hierarchy, along with its connecting lines. The three blue-outlined person icons, currently in the second tier, should then become the new top tier of the chart, with the five red-outlined person icons correctly connected underneath them. Image 2, a black and white mask, can be used to precisely identify the locations of all individual nodes in the chart.",
+  "annotator": "Johnny",
+  "objects": [
+    "yellow-outlined person icon (should not be present)",
+    "connecting lines from top yellow icon (should not be present)",
+    "three blue-outlined person icons at the top tier",
+    "five red-outlined person icons connected below the blue icons",
+    "\"NAME SURNAME\" text labels",
+    "\"JOB POSITION\" text labels",
+    "dashed connecting lines between tiers",
+    "white background"
+  ],
+  "human_annotation": true
+}

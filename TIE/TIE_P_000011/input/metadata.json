@@ -1,0 +1,22 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "Create a daylight version of from the given reference photo",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 to transform the current night or twilight scene into a bright, clear daylight environment. Replace the dark sky, crescent moon, and stars with a vibrant blue sky featuring soft daytime clouds. The large hand silhouette reaching upwards from the bottom of the frame should remain, along with the distant cityscape on the horizon, but all elements must be re-illuminated to appear as if under a strong daytime sun, changing the current reddish horizon glow to natural, bright daylight.",
+  "annotator": "theblackcat",
+  "objects": [
+    "large hand silhouette reaching upwards from the bottom of the frame",
+    "distant cityscape on the horizon",
+    "vibrant blue sky",
+    "soft daytime clouds",
+    "crescent moon (should not be present)",
+    "stars (should not be present)",
+    "dark sky (should not be present)",
+    "reddish horizon glow (should not be present)"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Glitch Art",
+  "prompt": "A deconstructed butterfly with fragmented wings, hovering over a glitchy texture of digital static.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A centrally suspended, deconstructed butterfly, its wings broken into geometric shards and transparent fragments. It hovers over a chaotic background of glitchy digital static, characterized by flickering pixels, corrupted scanlines, and subtle color distortions, in a digital art style.",
+  "annotator": "cwhsu",
+  "objects": [
+    "centrally suspended deconstructed butterfly",
+    "butterfly wings broken into geometric shards",
+    "transparent fragments",
+    "chaotic background",
+    "glitchy digital static",
+    "flickering pixels",
+    "corrupted scanlines",
+    "subtle color distortions"
+  ]
+}

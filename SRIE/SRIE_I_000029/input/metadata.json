@@ -1,0 +1,27 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "Change map lighting to golden hour ambiance",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the 3D model city map, to change its lighting to a golden hour ambiance. Apply a warm, soft, golden illumination with a low sun angle across the entire map, causing the buildings, roads, rivers, and vehicles to cast long, soft shadows, replicating the distinct light quality of image 2.",
+  "annotator": "Johnny",
+  "objects": [
+    "3D model city map",
+    "Buildings",
+    "Roads",
+    "Rivers",
+    "Vehicles (cars, planes, boats)",
+    "Green areas",
+    "Golden hour ambiance",
+    "Warm, soft, golden illumination",
+    "Low sun angle",
+    "Long, soft shadows"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

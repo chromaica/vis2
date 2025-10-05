@@ -1,0 +1,25 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Medieval art",
+  "prompt": "Remove the outter border, then enlarge the remaining image to fill the output. KEEP EVERY DETAIL.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, which displays a mosaic artwork. Remove the distinct mosaic border that frames the central scene on all four sides. This border is characterized by dark blue semicircles and gold tesserae. After removing the border, enlarge the remaining central mosaic image to fill the entire output space, maintaining all original details and the aspect ratio of the artwork.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Mosaic artwork",
+    "Christ-like figure",
+    "Figure kissing the Christ-like figure",
+    "Group of soldiers",
+    "Group of disciples",
+    "Golden mosaic background",
+    "Green mosaic ground",
+    "Halo around Christ-like figure's head",
+    "Weapons",
+    "Distinct mosaic border (should not be present)"
+  ],
+  "human_annotation": true
+}

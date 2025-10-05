@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Design a Nimitz-class aircraft carrier referenced in the first image reimagined as a great white shark referenced in the second image. The carrier\u2019s massive, flat deck is textured with jagged, shark-skin-like plating in gray and white, with a runway resembling a shark\u2019s spine. The island superstructure is angular, mimicking a shark\u2019s head with sharp, predatory eyes as windows. Propulsion is provided by four enormous nuclear-powered propellers at the stern, churning the water like a shark\u2019s tail. The hull has fin-like stabilizers that glow faintly.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic image of a massive Nimitz-class aircraft carrier (inspired by the structure and scale of image 1) seamlessly fused with the sleek, predatory characteristics of a great white shark (drawing visual cues from image 2). The carrier's immense, flat flight deck is textured with jagged, scaly plating in a distinct gray and white pattern, directly mimicking the dorsal and ventral coloration of the shark in image 2. A central runway is subtly designed to resemble a shark\u2019s spine. The island superstructure, positioned on the starboard side of the deck, is angular and mimics a shark's head, featuring sharp, predatory windows that appear like glowing eyes. Propulsion is provided by four enormous, nuclear-powered propellers at the stern, churning the water vigorously to create a powerful wake, evocative of a shark's forceful tail movement. Protruding from the hull are prominent, fin-like stabilizers that emit a subtle, faint glow. The vessel should be depicted at sea, moving through clear blue water, conveying a powerful sense of speed and motion.",
+  "objects": [
+    "Massive Nimitz-class carrier-shark hybrid vessel",
+    "Immense, flat flight deck with jagged, scaly gray and white plating",
+    "Central runway resembling a shark\u2019s spine",
+    "Angular island superstructure on the starboard side mimicking a shark\u2019s head",
+    "Sharp, predatory windows on the superstructure appearing like glowing eyes",
+    "Four enormous, nuclear-powered propellers at the stern",
+    "Powerful wake",
+    "Prominent, fin-like stabilizers protruding from the hull with a subtle, faint glow",
+    "Clear blue water",
+    "Sense of speed and motion"
+  ]
+}

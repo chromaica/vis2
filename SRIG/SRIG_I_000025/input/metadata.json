@@ -1,0 +1,24 @@
+{
+  "subtopic": "Icons and symbols",
+  "prompt": "Generate 8 different styles of 'power button ON' icon based on the 'power button OFF' icon in the image for reference.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "https://as2.ftcdn.net/jpg/03/18/58/17/1000_F_318581739_pmYu1XSpLtfuSshBOMBs6KUFwZraBrXr.jpg",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate 8 distinct visual styles of 'power button ON' icons. Each icon should be inspired by the structure and simplicity of the 'power button OFF' icon in image 1 (a red circle with a white power symbol, open at the bottom). For each 'ON' icon, depict the active power state, potentially by completing the circle, changing its color (e.g., to green or a glowing effect), or adding other indicators of power. Ensure variety in the aesthetic styles of the 8 generated icons, such as minimalistic, glossy, metallic, flat, neon, or gradient designs.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "8 distinct power button ON icons",
+    "Power symbol (vertical line and curved element) within each icon",
+    "Circular or near-circular shape for each icon",
+    "Indicators of active power state for each icon (e.g., completed circle, green color, glowing effect)",
+    "Minimalistic style power button ON icon",
+    "Glossy style power button ON icon",
+    "Metallic style power button ON icon",
+    "Flat style power button ON icon",
+    "Neon style power button ON icon",
+    "Gradient style power button ON icon"
+  ]
+}

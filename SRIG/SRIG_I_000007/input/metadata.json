@@ -1,0 +1,25 @@
+{
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Based on the provided mind map template, generate about creative writing into a magical library visualization where main topics are represented as distinct themed rooms (e.g., 'Character Development' as a portrait gallery, 'Plot Structure' as a maze-like chamber), and subtopics are enchanted books that glow and float between rooms, connected by streams of magical light.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "https://marketplace.canva.com/EAFipCHqmhY/1/0/1600w/canva-purple-colorful-organic-mind-map-brainstorm-gKBEZtdQsC0.jpg",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate a magical library visualization based on the mind map structure presented in image 1, transforming the 'MIND MAPPING' concept into elements relevant to 'creative writing'.\n\nThe central 'MIND MAPPING' node from image 1 should be depicted as a grand, ornate central library hall, serving as the core nexus of this magical space.\n\nEach primary topic node branching from the center in image 1 should be reimagined as a distinct, elaborately themed room surrounding the central hall.\n*   The 'Habits' node (located top-left in image 1) transforms into a disciplined 'Writing Routine' study, filled with ancient quills and softly glowing manuscripts, positioned in the top-left area of the library.\n*   The 'Goals' node (top-right) becomes an 'Aspirations' observatory, featuring a domed ceiling of swirling galaxies and pedestals displaying shimmering, ethereal future works, situated in the top-right area.\n*   The 'Organization' node (mid-left) manifests as a labyrinthine 'Structure & Planning' archive, dense with magically indexing scrolls and architectural blueprints, located to the mid-left.\n*   The 'Learning Style' node (bottom-left) becomes a multi-sensory 'Inspiration Sources' chamber, where whispering bookshelves and shifting, immersive landscapes evoke new ideas, found in the bottom-left area.\n*   The 'Motivation' node (mid-right) transforms into a vibrant 'Spark of Creation' garden, overflowing with bioluminescent flora and a shimmering fount of dynamic ideas, placed to the mid-right.\n*   The 'Review' node (bottom-right) is a 'Refinement & Critique' laboratory, equipped with magical mirrors that highlight textual edits and alchemical stations for polishing prose, located in the bottom-right area.\n\nAll subtopic nodes from image 1 (e.g., 'Plan', 'Study', 'System', 'Research', 'Lecture', 'Conclusions', 'Breaks', 'Read', 'Listen', 'Summarize', 'Tips', 'Roadmap', 'Notes', 'Method', 'Discuss') should be represented as individual, glowing, enchanted books. These books should float in the magical air, specifically appearing within or just outside the entrance of their respective main themed rooms.\n\nAll connections and arrows from image 1 should be depicted as flowing streams of magical light, linking the central hall to the main themed rooms, and further linking the main themed rooms to their associated floating enchanted books. The overall perspective should be a wide, immersive view of the magical library, showcasing the intricate connections and unique room layouts with an ethereal, dreamlike aesthetic.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Grand, ornate central library hall",
+    "'Writing Routine' study (top-left) with ancient quills and softly glowing manuscripts",
+    "'Aspirations' observatory (top-right) with a domed ceiling of swirling galaxies and pedestals displaying ethereal future works",
+    "'Structure & Planning' archive (mid-left) with magically indexing scrolls and architectural blueprints",
+    "'Inspiration Sources' chamber (bottom-left) with whispering bookshelves and shifting, immersive landscapes",
+    "'Spark of Creation' garden (mid-right) with bioluminescent flora and a shimmering fount of dynamic ideas",
+    "'Refinement & Critique' laboratory (bottom-right) with magical mirrors and alchemical stations",
+    "Glowing, enchanted floating books",
+    "Flowing streams of magical light linking elements",
+    "Wide, immersive view of the magical library"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,25 @@
+{
+  "subtopic": "Websites",
+  "prompt": "Generate a 'night mode' version of this bright, colorful website that is specifically designed for AMOLED screens, using true black backgrounds to save power.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://www.zarla.com/images/zarla-sugar-sin-20240621-desktop.webp?width=1056&dpr=2&crop=400:248%2Coffset-x0%2Coffset-y0&format=jpg",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a 'night mode' version of the website shown in image 1. The design should be optimized for AMOLED screens, featuring true black (#000000) for all background areas that are currently bright (the large white and light gray sections, and the bright pink footer). Adapt all text and icon colors, including those in the header, the 'Destination' section, and the 'Sweet Delivery Perfection' section, to light, legible shades (e.g., white, light gray, or desaturated brand colors) that contrast effectively with the new black backgrounds. Ensure interactive elements like the 'SHOP NOW' buttons remain visually prominent and functional. The vibrant appearance of the candy images should be preserved while integrating seamlessly into the true black surroundings.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Website header with \"SugarSin\" logo, navigation links, and icons, all in light, legible colors",
+    "Top informational banner with light, legible text and a true black background",
+    "True black background for all main website sections (previously white, light gray, or bright pink)",
+    "Vibrant assorted candies in the top-left section",
+    "\"Destination\" section title, descriptive text, and right arrow icon, all in light, legible colors",
+    "Visually prominent \"SHOP NOW\" button in the \"Destination\" section",
+    "\"Sweet Delivery Perfection\" section title and descriptive text, all in light, legible colors",
+    "Visually prominent \"SHOP NOW\" button in the \"Sweet Delivery Perfection\" section",
+    "Vibrant assorted candies in bowls in the bottom-right section"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

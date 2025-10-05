@@ -1,0 +1,26 @@
+{
+  "subtopic": "CAD models",
+  "prompt": "Generate a CAD model render of the knife from image 2. Apply the level of intricate metallic detail and shine found in the necklace from image 1. Render in a realistic style.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748422177123,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a photorealistic CAD render of the kitchen knife from image 2. The knife's blade should exhibit the intricate metallic detail, high reflectivity, and polished sheen characteristic of the silver necklace in image 1. Ensure the render accurately portrays the original knife's shape and proportions, applying the highly detailed, complex metalwork appearance of the necklace to its blade.",
+  "annotator": "winston",
+  "objects": [
+    "Kitchen knife",
+    "Photorealistic CAD render style",
+    "Knife blade",
+    "Intricate metallic detail on the blade",
+    "High reflectivity on the blade",
+    "Polished sheen on the blade",
+    "Complex metalwork appearance on the blade",
+    "Original shape of the knife (from image 2)",
+    "Original proportions of the knife (from image 2)"
+  ]
+}

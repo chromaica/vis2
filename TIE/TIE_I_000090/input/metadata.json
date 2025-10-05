@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Change the chart's timeline to reflect fiscal years instead of calendar years, starting from FY2020.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, which shows a Gantt chart. Change the timeline displayed in the top header rows from calendar years to fiscal years, starting from FY2020. Update the primary quarter labels from 'Q1 2019', 'Q2 2019', and 'Q3 2019' to 'Q1 FY2020', 'Q2 FY2020', and 'Q3 FY2020' respectively. Re-label the secondary monthly columns (currently 'Jan 19', 'Feb 19', 'Mar 19', 'Apr 19', 'Jun 19', 'Jul 19') to accurately represent the months within these fiscal quarters, beginning with the first month of FY2020. For instance, if the fiscal year starts in October, the first set of monthly labels ('Jan 19', 'Feb 19', 'Mar 19') should become 'Oct 19', 'Nov 19', 'Dec 19'. The blue task bars representing tasks should retain their exact visual positions on the chart, with their durations now corresponding to the new fiscal timeline labels.",
+  "annotator": "cwhsu",
+  "objects": [
+    "\"Gantt Chart\" title",
+    "White background with a grid structure",
+    "Blue header row at the top of the grid",
+    "\"Task Name\" text in the top-left header cell",
+    "Task labels: \"Planning\", \"Research\", \"Design\", \"Implementation\", \"Follow up\"",
+    "\"Q1 FY2020\" text in the first primary quarter header cell",
+    "\"Q2 FY2020\" text in the second primary quarter header cell",
+    "\"Q3 FY2020\" text in the third primary quarter header cell",
+    "Monthly labels: \"Oct 19\", \"Nov 19\", \"Dec 19\", \"Jan 20\", \"Feb 20\", \"Apr 20\" in the secondary header cells",
+    "Blue horizontal task bars, maintaining their original visual positions relative to the grid"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "I",
+  "subtopic": "Visual instructions and manuals",
+  "prompt": "Generate a 4-step hand washing instruction using Image 1 for the layout and Image 2 for the washing components.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "annotator": "matina",
+  "prompt_refined": "Generate a 4-step information graphic for hand washing instructions. The overall layout should follow the 2x2 grid structure with rounded corners as depicted in Image 1. Each of the four quadrants will illustrate one sequential step of the hand washing process, utilizing visual elements and the cartoon style from Image 2.\n\nSpecifically:\n- In the **top-left quadrant**, illustrate the first step: 'Wet hands and apply soap.' This should combine the hands under running water and the soap dispenser elements from Image 2.\n- In the **top-right quadrant**, depict the second step: 'Lather and scrub hands thoroughly.' This step should show hands actively washing, with visual cues of soap or foam, consistent with the hands and water interaction style found in Image 2.\n- In the **bottom-left quadrant**, represent the third step: 'Rinse hands completely.' This should again feature hands under running water, emphasizing the removal of soap, using the visual style from Image 2.\n- In the **bottom-right quadrant**, show the final step: 'Dry hands and ensure cleanliness.' This should incorporate the towel and the sparkling clean hands elements from Image 2.",
+  "objects": [
+    "2x2 grid layout with rounded corners",
+    "Cartoon illustration style",
+    "Hands under running water",
+    "Soap dispenser",
+    "Hands actively lathering/scrubbing",
+    "Soap bubbles/foam",
+    "Towel",
+    "Sparkling clean hands",
+    "Faucet"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,24 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Place white text labels only in the deepest background areas so they remain legible over the scene.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Insert white text labels into the background of the blue water, specifically in the regions that are visually furthest from the prominent otter and pipe. These labels should appear integrated within the scene and remain perfectly legible against the blue background. Reference image 2 to inform the graphic style and appearance of these white text labels, including font and any subtle textural elements.",
+  "annotator": "matina",
+  "objects": [
+    "Otter",
+    "Pipe",
+    "Blue water background",
+    "White text labels",
+    "Text labels in the background of the blue water",
+    "Text labels located visually furthest from the prominent otter and pipe",
+    "Text labels appearing integrated within the scene",
+    "Text labels with a font style informed by reference image 2",
+    "Text labels with subtle textural elements informed by reference image 2"
+  ]
+}

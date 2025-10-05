@@ -1,0 +1,21 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": " an image of a single red flower in a glass vase on a windowsill, using the mask to define the shape of the flower. Background should be softly lit with sunlight streaming in.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic image of a single red flower. The flower's shape must precisely match the silhouette defined by the white area in image 1. It is placed in a clear glass vase, which rests directly on a windowsill. The background beyond the windowsill is softly lit, with visible rays of sunlight streaming into the room.",
+  "annotator": "samin",
+  "objects": [
+    "red flower (with silhouette from image 1)",
+    "clear glass vase",
+    "windowsill",
+    "softly lit background",
+    "rays of sunlight streaming into the room"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

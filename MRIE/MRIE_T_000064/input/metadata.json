@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "Chnage the character (like the one in the second image) in the first image to the character in the third image. Finally, add a subtitle 'PRESS START' under the title, and the style should match the title, but only smaller in size.'",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 (The Super Mario Bros. Movie poster). In the lower-left section of the poster, replace the character Kamek, the blue-robed figure holding a staff, with the character Toad as depicted in image 3. Ensure Toad is integrated naturally into the poster's composition, matching the overall lighting and art style. Additionally, add the text 'PRESS START' centered directly below the main title 'THE SUPER MARIO BROS. MOVIE'. This new subtitle should replicate the precise typography, color scheme, and dimensional style of the main title, but be rendered at a smaller size.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Kamek (should not be present)",
+    "Toad in the lower-left section",
+    "'THE SUPER MARIO BROS. MOVIE' main title",
+    "Text 'PRESS START' centered directly below 'THE SUPER MARIO BROS. MOVIE' main title, with matching typography, color, and dimensional style at a smaller size",
+    "Bowser",
+    "Mario",
+    "Luigi",
+    "Princess Peach",
+    "Donkey Kong",
+    "Fantastical landscape background (including clouds, rainbow, and Mushroom Kingdom structures)"
+  ]
+}

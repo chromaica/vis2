@@ -1,0 +1,26 @@
+{
+  "subtopic": "Visual instructions and manuals",
+  "prompt": "Using the reference image of a home WiFi router, create a simple, non-technical setup guide showing where to plug in the power and internet cables. The guide should be in step-by-step with photorealistic visuals.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "https://cdn.thewirecutter.com/wp-content/media/2024/07/wifirouters-2048px-3579.jpg?auto=webp&quality=75&width=1024",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate a single photorealistic information graphic, comprising two side-by-side panels, illustrating a simple, step-by-step guide for connecting power and internet to a home WiFi router. The router in both panels must accurately reflect the model and port configuration seen in image 1.\n\n*   **Left Panel (Step 1: Power Connection):** Depict a close-up of the router's back panel. A black power cable should be clearly shown being inserted into a typical small, circular power input jack located on the far left of the router's back panel.\n*   **Right Panel (Step 2: Internet Connection):** Depict a close-up of the router's back panel. A blue Ethernet cable should be clearly shown being inserted into the blue '2.5 Gbps WAN/LAN' port, as labeled and visible in image 1.\n\nBoth panels should maintain a photorealistic aesthetic with clear, non-technical visual cues (e.g., implied motion or subtle arrows pointing to the connections).",
+  "annotator": "thomas-chong",
+  "objects": [
+    "two side-by-side panels",
+    "home WiFi router (model and port configuration as seen in image 1)",
+    "black power cable, being inserted into a jack (in left panel)",
+    "small, circular power input jack, on the far left of the router's back panel (in left panel)",
+    "blue Ethernet cable, being inserted into a port (in right panel)",
+    "blue '2.5 Gbps WAN/LAN' port on router (in right panel)",
+    "orange '1 Gbps WAN/LAN' ports (LAN1, LAN2, LAN3) on router",
+    "USB port on router",
+    "text labels for router ports (\"2.5 Gbps WAN/LAN\", \"1 Gbps WAN/LAN\", \"LAN1\", \"LAN2\", \"LAN3\")",
+    "visual cues (e.g., subtle arrows, implied motion) indicating connection action"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,18 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "Put this red sports car into a futuristic spaceship",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate an image where a red sports car, mirroring the front 3/4 angle and composition of the vehicle in image 1, is prominently displayed inside the sleek, brightly lit interior of a futuristic spaceship. The spaceship's interior should feature advanced, minimalist designs, with sci-fi elements like glowing panels and holographic displays, providing a sense of depth and scale around the car.",
+  "annotator": "Johnny",
+  "objects": [
+    "red sports car",
+    "futuristic spaceship interior",
+    "glowing panels",
+    "holographic displays"
+  ]
+}

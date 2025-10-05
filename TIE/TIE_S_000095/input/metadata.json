@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Change the \"Windows 95\" text to \"Futuristic OS 2050\" and update the design to reflect advanced technology.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, which displays a Windows 95 desktop. In the large central \"Welcome\" dialog box, replace the text \"Windows 95\" with \"Futuristic OS 2050\". Additionally, update the entire graphical user interface and visual design elements within image 1 to reflect an advanced, modern, and high-tech aesthetic suitable for a 2050 operating system. This transformation should include the \"Welcome\" dialog box (its title bar, window frame, buttons like \"What's New\", \"Online Registration\", \"Close\", and its internal content), all desktop icons (e.g., \"My Computer\", \"Recycle Bin\", \"MSN\"), the taskbar at the bottom (including the \"Start\" button and clock), and the overall desktop background, rendering them sleek, contemporary, and futuristic, moving away from the original pixelated 1990s style.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Desktop background",
+    "Large central \"Welcome\" dialog box",
+    "Text \"Welcome to Futuristic OS 2050\" within the dialog box",
+    "My Computer desktop icon",
+    "Recycle Bin desktop icon",
+    "MSN desktop icon",
+    "Taskbar at the bottom",
+    "\"Start\" button on the taskbar",
+    "Clock display on the taskbar",
+    "\"Close\" button in the \"Welcome\" dialog box"
+  ]
+}

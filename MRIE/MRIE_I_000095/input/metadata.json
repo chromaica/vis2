@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "Edit image 1, the Pok\u00e9mon type effectiveness chart. Apply the blocky, pixelated visual style from the type labels in image 2 to the row and column type labels in image 1. Replace the numeric values (0, 1/2, 2) within the grid cells with stylized numbers matching the appearance from image 3.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, which is a Pok\u00e9mon type effectiveness chart.\n\nFirst, for the type labels positioned in the horizontal 'DEF' row at the top and the vertical 'AT' column on the left side, apply the blocky, pixelated visual style, including the specific font and color palette, found in the type labels shown in image 2.\n\nSecond, within the main grid cells of image 1, locate all existing numeric values (0, 1/2, and 2). Replace these numbers with stylized versions that precisely match the font, 3D effect, and yellow with blue outline color scheme of the numbers displayed in image 3.",
+  "annotator": "maxku",
+  "objects": [
+    "Pok\u00e9mon type effectiveness chart layout",
+    "Grid cells",
+    "Type labels in the horizontal DEF row (in pixelated style)",
+    "Type labels in the vertical AT column (in pixelated style)",
+    "Numeric value '0' (in stylized yellow with blue outline 3D effect)",
+    "Numeric value '1' (in stylized yellow with blue outline 3D effect, as part of '1/2')",
+    "Numeric value '2' (in stylized yellow with blue outline 3D effect)",
+    "\"DEF\" text",
+    "\"AT\" text",
+    "Red triangular area in the top-left"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "I",
+  "subtopic": "Visual instructions and manuals",
+  "prompt": "Generate a visual instruction guide showing how to assemble a tent from the components in Image 1 to match the final setup in Image 2.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "annotator": "matina",
+  "prompt_refined": "Generate a visual instruction guide for assembling the tent frame, presented as a clear infographic. This single image should illustrate the step-by-step connection of all components listed in Image 1 (specifically pole types 1-8 and connectors A-E), leading to the final assembled structure. The completed tent frame in the guide must precisely match the configuration and scale shown in Image 2, ensuring correct arrangement of all poles and connectors. Include simplified human figures, similar to those in Image 2, positioned interactively with the frame during different stages of assembly, particularly at the vertical poles labeled '5', to convey scale and highlight key connection points.",
+  "objects": [
+    "Clear infographic style",
+    "Tent pole components (types 1-8)",
+    "Tent connector components (types A-E)",
+    "Step-by-step illustrations of tent frame assembly",
+    "Final assembled tent frame (matching configuration and scale of Image 2)",
+    "Simplified human figures (similar to Image 2)",
+    "Human figures interacting with the tent frame",
+    "Human figures positioned at vertical poles labeled '5'",
+    "Highlighted key connection points",
+    "Scale conveyed by human figures"
+  ]
+}

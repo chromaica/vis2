@@ -1,0 +1,19 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": "A comic book punch: 'POW!' explodes in vibrant orange lettering with a chunky blue outline. The text is angled sharply against a backdrop of clean, energetic speed lines.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Create an image of the comic book sound effect 'POW!'. The text is rendered in vibrant orange lettering with a thick, chunky blue outline, designed to appear explosive and dynamic. It is sharply angled against a background of clean, energetic speed lines.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "\"POW!\" text",
+    "Vibrant orange lettering",
+    "Thick, chunky blue outline",
+    "Sharply angled text orientation",
+    "Background speed lines",
+    "Clean speed lines",
+    "Energetic speed lines"
+  ]
+}

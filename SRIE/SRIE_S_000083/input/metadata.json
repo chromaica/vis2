@@ -1,0 +1,23 @@
+{
+  "subtopic": "Games",
+  "prompt": "Edit image 1: Introduce the large 'Tancher Alpha' fantasy boss creature from image 2 into the urban environment, placing it prominently in the background as a new epic threat emerging within this shooter scene.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1750835303820,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit image 1. Integrate the large 'Tancher Alpha' boss creature, as referenced in image 2, prominently into the background of the urban environment. Position the creature to appear colossal and imposing, towering over the distant buildings and skyline behind the primary action. The goal is to depict its emergence as a new, epic threat within this shooter scene.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Colossal Tancher Alpha boss creature",
+    "Urban environment with distant buildings and skyline",
+    "Player character in the foreground",
+    "Shooter game HUD/UI elements",
+    "Blue energy beams",
+    "Other smaller characters in the urban scene"
+  ]
+}

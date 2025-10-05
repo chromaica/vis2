@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "Replace the recipient's name and address with \"Jane Doe, 123 Main St, Anytown, USA\" for privacy.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "For image 1, in the 'INVOICE' section, replace the 'SHIP TO' recipient's name and address with 'Jane Doe, 123 Main St, Anytown, USA'.",
+  "annotator": "cwhsu",
+  "objects": [
+    "B&H Photo Video Pro Audio logo",
+    "Green navigation bar",
+    "\"YOUR ORDER HAS BEEN PLACED.\" text",
+    "Section for creating an account",
+    "\"INVOICE\" section heading",
+    "\"SHIP TO\" recipient's name and address: \"Jane Doe, 123 Main St, Anytown, USA\"",
+    "Payment details (VISA ****8903, $10.25)",
+    "Order total details (Subtotal, Shipping, Sales Tax, You Pay)",
+    "\"Modify / Cancel my order\" button",
+    "Map of the United States"
+  ]
+}

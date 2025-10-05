@@ -1,0 +1,24 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Design a meme with three square panels left to right, showing the cat in the first image with caption 'eyeshadow tutorial' as the first panel, the ogre (Shrek) in the second image with 'how I think I look' as the second panel, and the fairy with scary head (Voldemort-fairy) from the third image with caption 'how I actually look' in the third panel.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a three-panel meme image, with the panels arranged horizontally from left to right. Each panel should feature a visual element from the provided conditioning images and include a specific text caption.\n\n*   **Panel 1 (Left):** This panel should display the white cat from image 1, showcasing its prominent blue eyeshadow, pink blush, and pink lipstick, along with its distinct yellow and blue eyes. The text caption for this panel is 'eyeshadow tutorial'.\n*   **Panel 2 (Center):** This central panel should feature the Shrek character from image 2, depicted wearing sunglasses, a brown vest over a white shirt, and striking his confident pose. The text caption for this panel is 'how I think I look'.\n*   **Panel 3 (Right):** This panel on the right should show the figure from image 3, which is a person in a pink fairy costume with large pink wings, featuring Voldemort's head superimposed on it. The text caption for this panel is 'how I actually look'.",
+  "annotator": "parnian",
+  "objects": [
+    "Three panels arranged horizontally from left to right",
+    "White cat with blue eyeshadow, pink blush, pink lipstick, and distinct yellow and blue eyes (in Panel 1)",
+    "Text 'eyeshadow tutorial' (in Panel 1)",
+    "Shrek character wearing sunglasses, a brown vest over a white shirt, and striking a confident pose (in Panel 2)",
+    "Text 'how I think I look' (in Panel 2)",
+    "Figure in a pink fairy costume with large pink wings (in Panel 3)",
+    "Voldemort's head superimposed on the fairy costume figure (in Panel 3)",
+    "Text 'how I actually look' (in Panel 3)"
+  ]
+}

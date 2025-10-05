@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Edit the flow diagram in image 1: replace the source image subject (the dog) with the cat from image 3 in all panels, and stylize all arrows within the diagram to match the bold, red appearance of the arrow in image 2.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the flow diagram presented in image 1. Replace all instances of the dog subject image appearing within the diagram's various panels with the cat image from image 3. Additionally, modify all existing arrows in the diagram to match the bold, red, and distinctly textured style of the arrow depicted in image 2.",
+  "annotator": "maxku",
+  "objects": [
+    "Flow diagram structure",
+    "Cat images",
+    "Bold, red, textured arrows",
+    "White mask images on black backgrounds",
+    "Noisy images",
+    "Text labels (e.g., \"Segmentation\", \"DDIM Encoding\", \"Iteration 1\", \"Q: photo of a [V] dog\")",
+    "Mathematical equations and variables (e.g., x_0^(1), M_s^(1), z_t^(1))",
+    "Orange bounding boxes",
+    "Blue bounding box",
+    "Dog subject image (should not be present)"
+  ]
+}

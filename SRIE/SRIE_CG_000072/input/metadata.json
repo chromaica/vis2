@@ -1,0 +1,19 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "3D renders",
+  "prompt": "Add the reference goblet to the center of the table.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 by adding the goblet from image 2 to the center of the table.",
+  "annotator": "nimajamali",
+  "objects": [
+    "fancy dining table",
+    "ornate chairs",
+    "golden goblet in the center of the table"
+  ],
+  "human_annotation": true
+}

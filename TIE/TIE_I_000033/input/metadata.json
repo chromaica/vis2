@@ -1,0 +1,25 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Add icons or symbols to each node of the graph.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Add a small, relevant icon or symbol to each text node within the mind map. Position each icon directly beside its corresponding text label, ensuring it visually represents the concept of the text. For example, add a cake icon next to 'cake', a gift box icon next to 'gifts', or a calendar icon next to 'October'. Ensure every single text label in the entire mind map has an associated icon.",
+  "annotator": "cwhsu",
+  "objects": [
+    "mind map structure",
+    "mind map text labels",
+    "green balloon",
+    "orange balloon",
+    "yellow balloon",
+    "red balloon",
+    "birthday icon (positioned next to 'birthday' text)",
+    "cake icon (positioned next to 'cake' text)",
+    "gift box icon (positioned next to 'gifts' text)",
+    "calendar icon (positioned next to 'October' text)",
+    "various small, relevant icons (positioned next to all other text labels in the mind map)"
+  ]
+}

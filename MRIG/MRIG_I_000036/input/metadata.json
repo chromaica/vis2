@@ -1,0 +1,30 @@
+{
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Generate a chart infographic combining the 3D bar graph style from image 1 with multi-segment ring charts featuring detailed text and percentages, similar to those in image 2. Use a clean, modern layout.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "Infographic charts diagrams",
+  "searchQueryGeneratedTimestamp": 1752243029409,
+  "promptGeneratedTimestamp": 1752243109314,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "I",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a chart infographic with a clean, modern layout, featuring distinct, rounded rectangular sections similar to the overall template in image 1. Include a prominent 3D bar graph section in the bottom half, characterized by cylindrical columns and a clear axis, directly inspired by the 'Main Performance' chart in image 1. In the top half, incorporate multiple multi-segment ring charts. These should feature detailed text labels within segments (e.g., 'Product A'), explicit percentage values (e.g., '30%'), and optionally include small descriptive icons within some segments or the chart's center, drawing heavily from the diverse styles of segmented ring charts shown in image 2.",
+  "objects": [
+    "Chart infographic with a clean, modern layout",
+    "Distinct, rounded rectangular sections",
+    "Prominent 3D bar graph section in the bottom half",
+    "Cylindrical columns within the 3D bar graph",
+    "Clear axis for the 3D bar graph",
+    "Multiple multi-segment ring charts in the top half",
+    "Detailed text labels within ring chart segments",
+    "Explicit percentage values within ring chart segments",
+    "Small descriptive icons within some ring chart segments",
+    "Small descriptive icons in the center of some ring charts"
+  ],
+  "human_annotation": true
+}

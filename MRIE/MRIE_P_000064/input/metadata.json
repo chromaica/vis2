@@ -1,0 +1,25 @@
+{
+  "subtopic": "Astronomical images",
+  "prompt": "Edit image 1: Reshape the central nebula into the eye-like structure of image 3, applying image 3's blue-orange palette. Add the muted dusty texture and darker, sparser background stars from image 2.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749222297183,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "P",
+  "prompt_refined": "Edit image 1. Reshape the central nebula to adopt the distinct eye-like structure and prominent blue-orange color palette of image 3. Integrate the muted, dusty texture seen in image 2 into the transformed nebula. Furthermore, modify the background of image 1 to feature darker and sparser stars, emulating the stellar density around the galaxy in image 2.",
+  "annotator": "boris",
+  "objects": [
+    "central nebula",
+    "eye-like structure (for the nebula)",
+    "blue-orange color palette (for the nebula)",
+    "muted, dusty texture (for the nebula)",
+    "dark background",
+    "sparse stars (in the background)",
+    "darker stars (in the background)"
+  ]
+}

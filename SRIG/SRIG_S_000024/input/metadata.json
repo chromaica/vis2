@@ -1,0 +1,26 @@
+{
+  "subtopic": "Software interfaces",
+  "prompt": "Generate a screenshot with the OS setting window like the style in this image.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "https://sm.pcmag.com/pcmag_uk/photo/w/windows-11/windows-11_uzf4.jpg",
+  "searchQueryGenerated": "Clean modern software interface screenshots high resolution",
+  "searchQueryGeneratedTimestamp": 1749424402766,
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a full screenshot of a Windows 11 desktop, emulating the overall visual style and composition of image 1. The image should prominently feature a dark-themed, translucent Windows Start Menu, centrally positioned on the screen, displaying a 'Type here to search' bar, a 'Pinned' applications section (including icons like Settings, File Explorer, and Microsoft Edge), and a 'Recommended' section. At the bottom of the Start Menu, a user profile icon and a power button icon should be visible. The desktop background should be the characteristic dark blue abstract Windows 11 wallpaper, with desktop icons (such as Recycle Bin, Microsoft Edge, Firefox, and Skype) visible on the top-left. A centered taskbar with system tray elements (e.g., time, date, network status) should be present at the bottom of the screen.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Windows 11 desktop",
+    "Dark blue abstract Windows 11 wallpaper",
+    "Dark-themed, translucent Windows Start Menu, centrally positioned",
+    "'Type here to search' bar (inside Start Menu)",
+    "'Pinned' applications section (inside Start Menu)",
+    "'Recommended' section (inside Start Menu)",
+    "User profile icon (at the bottom of the Start Menu)",
+    "Power button icon (at the bottom of the Start Menu)",
+    "Desktop icons (Recycle Bin, Microsoft Edge, Firefox, Skype) on the top-left",
+    "Centered taskbar at the bottom of the screen with system tray elements (time, date, network status)"
+  ]
+}

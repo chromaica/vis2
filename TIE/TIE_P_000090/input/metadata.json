@@ -1,0 +1,22 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "add a slice of lemon besides the chips",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Add a fresh, photorealistic slice of lemon to the white plate, positioned on the left side, adjacent to the large pile of chips.",
+  "annotator": "theblackcat",
+  "objects": [
+    "white plate",
+    "large pile of chips",
+    "small white bowl of sauce",
+    "fried fish/chicken pieces",
+    "wine glass in background",
+    "fork",
+    "table surface",
+    "fresh, photorealistic slice of lemon on the white plate, on the left side, adjacent to the large pile of chips"
+  ]
+}

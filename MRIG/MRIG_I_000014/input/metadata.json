@@ -1,0 +1,30 @@
+{
+  "subtopic": "Maps",
+  "prompt": "Create an information graphic map combining the illustration style and warm color palette from image 1. Apply the state coloring based on data ranges concept shown in image 2. Include callout boxes with icons similar to image 1.",
+  "cond_images": [
+    "1.png",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "Infographic Map Examples",
+  "searchQueryGeneratedTimestamp": 1750582970813,
+  "promptGeneratedTimestamp": 1750583053193,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "I",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a detailed information graphic map of the United States. The map and its accompanying elements should be rendered in the flat, whimsical illustration style and warm color palette, primarily featuring oranges, browns, and desaturated greens, inspired by image 1. Apply a choropleth coloring scheme to the US states, where each state is distinctly colored according to data ranges, similar to the concept demonstrated in image 2. The specific colors used for these data ranges on the map must adhere to the overall warm color palette derived from image 1. Position multiple hexagonal callout boxes around the central map, with each box pointing to a specific state. These callout boxes should mimic the design, layout (including a numbered pin, state name, and an illustrative icon), and visual style of those present in image 1. Include a clear legend in the bottom right corner of the graphic, similar to image 2, correlating the data ranges to their respective colors on the map.",
+  "objects": [
+    "Detailed information graphic",
+    "Map of the United States",
+    "US states with choropleth coloring scheme",
+    "Multiple hexagonal callout boxes",
+    "Numbered pins within callout boxes",
+    "State names within callout boxes",
+    "Illustrative icons within callout boxes",
+    "Clear legend in the bottom right corner",
+    "Flat illustration style",
+    "Warm color palette (oranges, browns, desaturated greens)"
+  ],
+  "human_annotation": true
+}

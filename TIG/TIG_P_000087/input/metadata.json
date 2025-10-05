@@ -1,0 +1,15 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "A minimalist photo of a single red apple on a pristine white table, casting a sharp shadow, highlighting simplicity and contrast.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A photorealistic, minimalist studio photograph featuring a single, perfectly formed red apple centrally placed on a pristine, seamless white table. The apple casts a stark, sharp shadow that extends directly behind it, creating strong visual contrast and emphasizing the simple, clean composition.",
+  "annotator": "cwhsu",
+  "objects": [
+    "single, perfectly formed red apple, centrally placed",
+    "pristine, seamless white table",
+    "stark, sharp shadow cast by the apple, extending directly behind it"
+  ]
+}

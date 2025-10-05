@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Cultural or Heritage art",
+  "prompt": "Generate an artwork depicting a sculptural figure based on the dynamic form and posture of the horse from image 1, but apply the intricate geometric patterns, vibrant blue and gold palette, and manuscript illumination style of the cultural art shown in image 2.",
+  "cond_images": [
+    "1.png",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate an artwork depicting a sculptural figure. The figure should embody the dynamic, layered, and abstract mid-stride posture of the horse from image 1. Adorn the figure with the intricate star-shaped and circular geometric patterns, and the vibrant royal blue and luminous gold palette, characteristic of the Islamic manuscript illumination style found in image 2. The final artwork should fuse sculptural depth with the ornate, highly detailed, and stylized aesthetic of traditional illuminated manuscripts.",
+  "annotator": "samin",
+  "objects": [
+    "Artwork",
+    "Sculptural figure",
+    "Dynamic mid-stride posture (referencing the horse from image 1)",
+    "Layered and abstract form (referencing the horse from image 1)",
+    "Intricate star-shaped geometric patterns (from Islamic manuscript style)",
+    "Circular geometric patterns (from Islamic manuscript style)",
+    "Vibrant royal blue color (from Islamic manuscript style)",
+    "Luminous gold color (from Islamic manuscript style)",
+    "Sculptural depth",
+    "Ornate, highly detailed, and stylized aesthetic"
+  ],
+  "human_annotation": true
+}

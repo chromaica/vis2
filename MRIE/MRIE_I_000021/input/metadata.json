@@ -1,0 +1,27 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Visual instructions and manuals",
+  "prompt": "Modify the cooking diagram in image 1 by incorporating an egg from image 2, ham slices from image 3, and seaweed from image 4 into the bowl during steps 5 and 6. Ensure the entire diagram is rendered in a cohesive colored illustration style.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png",
+    "4.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the 'COOKING INSTANT NOODLE' diagram in image 1. In both step 5 and step 6, incorporate a fried egg (referencing the top-right egg from image 2), ham slices (referencing image 3), and pieces of seaweed (referencing image 4) into the bowls, positioning them visibly on top of the noodles. The entire diagram, including all existing and newly added elements, must be rendered in a cohesive colored illustration style.",
+  "annotator": "maxku",
+  "objects": [
+    "\"COOKING INSTANT NOODLE\" diagram title",
+    "Numbered steps (1-6)",
+    "Bowls",
+    "Instant noodles",
+    "Seasoning packets",
+    "Water pouring from a kettle",
+    "Chopsticks",
+    "Fried egg, visibly on top of noodles in step 5 and step 6",
+    "Ham slices, visibly on top of noodles in step 5 and step 6",
+    "Seaweed pieces, visibly on top of noodles in step 5 and step 6"
+  ]
+}

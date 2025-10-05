@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "generate a photorealistic confusing, multilingual receipt from a tourist in Bangkok, showing a long list of unfamiliar snacks, mistranslated as \u201cSquid sky rollers\u201d and \u201cLaughing bean paste bun.\u201d Scribbled note: \u201cWas this lunch?\u201d",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic, crumpled receipt from a street vendor in Bangkok. The receipt is prominently multilingual, featuring Thai script with some English text. It displays a long, itemized list of unfamiliar snack purchases. Among the items, clearly visible entries include \"Squid sky rollers\" and \"Laughing bean paste bun,\" presented as humorous mistranslations from their Thai originals. The receipt shows a total amount in Thai Baht (\u0e3f). A handwritten note, \"Was this lunch?\", is scribbled in blue or black ink across the bottom margin of the receipt.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Crumpled receipt",
+    "Thai script on receipt",
+    "English text on receipt",
+    "Itemized list of snack purchases on receipt",
+    "\"Squid sky rollers\" text on receipt",
+    "\"Laughing bean paste bun\" text on receipt",
+    "Thai Baht (\u0e3f) symbol on receipt",
+    "Total amount (numbers) on receipt",
+    "Handwritten note \"Was this lunch?\" across the bottom margin of the receipt",
+    "Blue or black ink for the handwritten note"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "a website new trading firm named 'stable alpha' designed in the style of berkshire hathaway website : looks simple and text only",
+  "cond_images": [],
+  "remarks": "white background, text only",
+  "prompt_refined": "Design a website homepage for 'Stable Alpha', a new financial trading firm. The aesthetic should precisely mimic the Berkshire Hathaway corporate website: extremely simple, text-only, using default browser fonts, blue hyperlinked text, and a stark, unstyled HTML appearance with no images or modern design elements.",
+  "annotator": "theblackcat",
+  "objects": [
+    "\"Stable Alpha\" company name text",
+    "Plain black text content",
+    "Blue hyperlinked text",
+    "Simple webpage layout",
+    "White background",
+    "Horizontal rule dividers",
+    "Bulleted or numbered lists",
+    "Footer text",
+    "Images (should not be present)",
+    "Modern UI elements (e.g., complex buttons, gradients, shadows) (should not be present)"
+  ]
+}

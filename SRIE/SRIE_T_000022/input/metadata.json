@@ -1,0 +1,23 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Swap in the manga\u2019s speech-bubble shape and hand-drawn Japanese font style for the question text",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Remove the existing text \"Is this a pigeon?\" located at the bottom center. In its place, generate a new speech bubble. The shape of this new speech bubble should be an irregular, jagged outline, mirroring the style of the speech bubble present in image 2. Inside this new speech bubble, render the Japanese translation of \"Is this a pigeon?\", specifically \"\u3053\u308c\u3001\u30cf\u30c8\u3067\u3059\u304b\uff1f\". The font for this Japanese text should be a hand-drawn, energetic style, consistent with the Japanese text seen in image 2.",
+  "annotator": "matina",
+  "objects": [
+    "Anime man",
+    "Butterfly",
+    "Window",
+    "Book with Japanese text",
+    "Sunrise logo",
+    "\"Is this a pigeon?\" text (should not be present)",
+    "Speech bubble at the bottom center, with an irregular, jagged outline",
+    "Japanese text \"\u3053\u308c\u3001\u30cf\u30c8\u3067\u3059\u304b\uff1f\" inside the speech bubble, rendered in a hand-drawn, energetic style"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Create a new image where the individual from the second image is seamlessly integrated into the scene of the first image, as though they are visiting that location. Preserve the person's original appearance and attire, and ensure they are naturally positioned within the context of the first image's setting.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a new photorealistic image by seamlessly integrating the individual from image 2 into the scene of image 1. The man should be positioned on the rocky foreground of image 1, facing slightly towards the water and the distant structure. Preserve his original appearance, including his white blazer, light blue shirt, and glasses, ensuring he appears naturally present within the landscape as if observing the scene.",
+  "objects": [
+    "Man (from image 2), positioned on the rocky foreground",
+    "Man's white blazer",
+    "Man's light blue shirt",
+    "Man's glasses",
+    "Rocky foreground (from image 1)",
+    "Water/sea (from image 1)",
+    "Distant structure/pier (from image 1)",
+    "Cloudy sky (from image 1)"
+  ]
+}

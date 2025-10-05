@@ -1,0 +1,27 @@
+{
+  "task": "MRIE",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": "Make the pigeon in the first image wears the same gown as the student in the second image. Then, the line 'OH NO!' should be in the style of the third image.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "1.png source: Will The Pigeon Graduate?",
+  "prompt_refined": "Edit image 1. Dress the pigeon in the right panel of image 1 in the full black academic gown with white accents, matching the attire of the student in the foreground of image 2. Transform the 'OH NO!' text, also located in the right panel of image 1, to adopt the bold, outlined, dynamic comic-book style (including the explosive speech bubble and radiating background) depicted in image 3.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Left panel of the image",
+    "Pigeon in the left panel",
+    "Speech bubbles and text in the left panel",
+    "Right panel background (purple and brown stairs)",
+    "Pigeon in the right panel",
+    "Full black academic gown with white accents on the right pigeon",
+    "'OH NO!' text in bold, outlined, comic-book style",
+    "Explosive speech bubble around 'OH NO!'",
+    "Radiating background behind the speech bubble"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

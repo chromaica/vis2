@@ -1,0 +1,23 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Turn one arm into a robot limb (metal gears) and the other into a vine-wrapped branch.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Transform the arm on the left side into a mechanical robot limb with visible metal gears. Convert the arm on the right side into a tree branch densely wrapped with green vines. Maintain the original clasped pose of the arms and ensure any existing text on the arms or hands remains clearly legible.",
+  "annotator": "matina",
+  "objects": [
+    "mechanical robot limb on the left",
+    "visible metal gears on the left limb",
+    "tree branch on the right",
+    "green vines wrapped around the right branch",
+    "clasped pose of the limbs",
+    "text \"not calling the police\"",
+    "text \"rap\"",
+    "text \"punk\"",
+    "background"
+  ]
+}

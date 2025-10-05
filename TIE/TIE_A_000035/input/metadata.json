@@ -1,0 +1,22 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Sketches",
+  "prompt": "Duplicate the water droplets and populate them across the entire image. Each droplets should be the same as the original ones, but only differ in size.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Duplicate the spherical drawing (resembling a 3D water droplet) from image 1. Populate these duplicated drawings across the entire white paper area of image 1, maintaining the original's pencil sketch style, 3D shading, and highlights. Vary the size of each new drawing, creating a natural distribution of smaller and larger droplets.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Multiple spherical drawings resembling 3D water droplets, in pencil sketch style with 3D shading and highlights, of varied sizes, populating the white paper area",
+    "Original spherical drawing",
+    "Heart drawing",
+    "Hand holding a pencil",
+    "White paper surface",
+    "Spiral notebook binding"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

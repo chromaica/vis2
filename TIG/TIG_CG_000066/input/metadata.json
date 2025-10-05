@@ -1,0 +1,24 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "VFX and Particles",
+  "prompt": "A hand-painted magical dust cloud, with whimsical swirls and glittering particles in pastel colors.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a hand-painted, magical dust cloud, centered and floating, rendered in a whimsical painterly style. The cloud features intricate, graceful swirls and is filled with sparkling, luminescent particles of varying sizes. The entire composition is rendered exclusively in a palette of soft pastel colors, including delicate pinks, pale lavenders, gentle blues, and subtle mint greens.",
+  "annotator": "maxku",
+  "objects": [
+    "Hand-painted magical dust cloud (centered and floating)",
+    "Whimsical painterly style",
+    "Intricate, graceful swirls within the cloud",
+    "Sparkling, luminescent particles within the cloud",
+    "Particles of varying sizes",
+    "Soft pastel color palette",
+    "Delicate pink color",
+    "Pale lavender color",
+    "Gentle blue color",
+    "Subtle mint green color"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

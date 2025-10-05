@@ -1,0 +1,23 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Apply the abstract style to the bar chart.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the pie chart, by applying the abstract, geometric, and multi-colored style from image 2. The transformation should integrate the fragmented and vibrant aesthetic of image 2 across all segments and the overall structure of the pie chart in image 1, turning it into an abstract information graphic.",
+  "annotator": "Johnny",
+  "objects": [
+    "Pie chart structure",
+    "Pie chart segments",
+    "Abstract geometric patterns",
+    "Fragmented visual elements",
+    "Vibrant colors",
+    "Multi-colored composition",
+    "Information graphic appearance"
+  ],
+  "human_annotation": true
+}

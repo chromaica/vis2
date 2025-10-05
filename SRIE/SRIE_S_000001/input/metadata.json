@@ -1,0 +1,31 @@
+{
+  "subtopic": "Receipts",
+  "prompt": "Modify Image 1 by replacing the \"Test Checkout\" header with the \"Pied Piper\" logo and header color style taken from Image 2. Make the header area resemble Image 2's branding.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "receipt screenshot image",
+  "searchQueryGeneratedTimestamp": 1750756487868,
+  "promptGeneratedTimestamp": 1750756523435,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit Image 1. Replace the current 'Test Checkout' header in the top section of Image 1 with the branding style and content found in the header of Image 2. Specifically, change the background color of Image 1's header bar to the teal-green color from Image 2, and insert the white 'pied piper' logo and text (as seen in Image 2's header) into the center of this updated header bar in Image 1.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Teal-green header bar",
+    "White 'pied piper' logo in the header",
+    "White 'pied piper' text in the header",
+    "\"Test Checkout\" header text, original blue header background, and back arrow icon (should not be present)",
+    "Summary list with \"Handling\", \"Discount\", \"Shipping\", \"Total\", and dollar values",
+    "Payment method section with text and icons (e.g., \"Visa *4242\", \"Stripe Test Bot\")",
+    "Shipping address section with text and icons (e.g., \"Db G, Hb, B, AR, 11\", \"Ff\")",
+    "Shipping method section with text and icon (e.g., \"Free Shipping - Pigeons\")",
+    "\"PAY $143.22\" button at the bottom",
+    "Top status bar with time, battery, and signal icons"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,23 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "Generate the word 'Sweet' using thick, round bubble letters filled with rainbow lines (second image) inside a watermelon triangle frame from the first image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate the word 'Sweet' using thick, round, bubble letters. Each letter should be filled with the distinct parallel rainbow lines style shown in image 2. Position the entire word within the red flesh of the triangular watermelon slice from image 1.",
+  "annotator": "parnian",
+  "objects": [
+    "The word 'Sweet'",
+    "Thick, round, bubble letters",
+    "Letters filled with parallel rainbow lines",
+    "Triangular watermelon slice",
+    "Red flesh of the watermelon slice",
+    "Watermelon seeds",
+    "White rind of the watermelon slice",
+    "Green rind of the watermelon slice"
+  ]
+}

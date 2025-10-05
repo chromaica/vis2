@@ -1,0 +1,26 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Generate an image of a bustling city street during sunset, using the reference mask image to preserve the layout of people and cars",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic image of a bustling city street at sunset. Use the spatial layout from image 1, featuring a wide road populated with multiple cars. On the left, a sidewalk with two pedestrians and a building; a prominent traffic light pole extends overhead across the street. Another pedestrian is visible crossing the street towards the right. The background is filled with trees and buildings, all rendered with warm, golden hour lighting.",
+  "annotator": "samin",
+  "objects": [
+    "bustling city street",
+    "wide road",
+    "multiple cars on the road",
+    "sidewalk on the left",
+    "two pedestrians on the left sidewalk",
+    "building on the left",
+    "prominent traffic light pole",
+    "traffic light extending overhead across the street",
+    "pedestrian crossing the street towards the right",
+    "trees in the background",
+    "buildings in the background"
+  ],
+  "human_annotation": true
+}

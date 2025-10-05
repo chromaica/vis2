@@ -1,0 +1,24 @@
+{
+  "subtopic": "Object detection visuals",
+  "prompt": "Create an image simulating object detection: show the detailed colorful parrot from image 2 situated within the soft focus grassy environment of image 1, overlaid with typical object detection bounding boxes and labels.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748420034979,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate an image simulating object detection. Integrate the detailed, vibrant colorful parrot from image 2 into the lush, soft-focus grassy environment of image 1, ensuring the mouse is absent from the scene. Position the parrot centrally within the frame, standing naturally on the grass. Overlay the resulting image with a distinct object detection bounding box around the parrot, clearly labeled 'parrot'.",
+  "annotator": "winston",
+  "objects": [
+    "detailed, vibrant colorful parrot",
+    "lush, soft-focus grassy environment",
+    "parrot centrally positioned",
+    "parrot standing naturally on grass",
+    "distinct object detection bounding box around the parrot",
+    "label 'parrot'",
+    "mouse (should not be present)"
+  ]
+}

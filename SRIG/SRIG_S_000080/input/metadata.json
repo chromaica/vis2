@@ -1,0 +1,21 @@
+{
+  "subtopic": "Receipts",
+  "prompt": "Redesign this email receipt to look like a message delivered by a carrier pigeon, complete with a small, tied scroll and a feather.",
+  "cond_images": [
+    "1.jpeg"
+  ],
+  "remarks": "https://9to5mac.com/wp-content/uploads/sites/6/2019/12/SCREEN-SHOT-2019-12-09-AT-5.40.30-PM.jpeg?quality=82&strip=all",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate an image where the Apple email receipt from image 1 is redesigned as a small, tightly tied parchment scroll. This scroll is being delivered by a carrier pigeon, which is depicted either in flight or perched. A single, natural feather should be included, subtly placed near the scroll or the pigeon. Ensure the text and details from the original receipt are clearly legible on the scroll's surface, as if printed on it.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Small, tightly tied parchment scroll",
+    "Carrier pigeon",
+    "Legible text and details from the Apple email receipt on the scroll's surface",
+    "Apple logo on the scroll",
+    "Single, natural feather"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

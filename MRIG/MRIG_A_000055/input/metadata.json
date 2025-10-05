@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "Generate an image of a fantasy dragon with the lion\u2019s pose from image 3, butterfly wings from image 2, and lizard-like anatomy from image 1, rendered in a glowing digital painting style.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a fantasy dragon. The dragon should adopt the powerful, roaring pose of the lion depicted in image 3, standing majestically on a rocky outcrop. Its wings must be clearly derived from the butterfly in image 2, showcasing its distinctive large shape and intricate brown, orange, and black eye-spot patterns. The dragon's overall body structure, including its elongated torso, limbs, and tail, should reflect the detailed reptilian skeletal anatomy and proportions visible in image 1. The entire image should be rendered in a vibrant, glowing digital painting style, with dramatic lighting evocative of the sunset from image 3.",
+  "annotator": "samin",
+  "objects": [
+    "fantasy dragon",
+    "dragon in a powerful, roaring pose",
+    "dragon standing majestically on a rocky outcrop",
+    "large dragon wings with intricate brown, orange, and black eye-spot patterns",
+    "dragon body with elongated torso, limbs, and tail reflecting reptilian skeletal anatomy",
+    "dramatic sunset lighting",
+    "vibrant, glowing digital painting style"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,19 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "A tranquil beach scene at sunrise, with soft pink clouds mirrored on the calm water.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a serene and deserted beach scene at sunrise. Soft, wispy pink clouds are perfectly mirrored on the calm, glassy water. The scene is bathed in the gentle, warm glow of the rising sun.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Deserted beach",
+    "Rising sun",
+    "Soft, wispy pink clouds",
+    "Calm, glassy water",
+    "Reflections of pink clouds on water",
+    "Gentle, warm glow (pervading the scene)"
+  ],
+  "human_annotation": true
+}

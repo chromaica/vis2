@@ -1,0 +1,24 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "Create an action RPG battle interface showing an epic confrontation between a medieval knight and a fire-breathing dragon in a crumbling castle courtyard. The knight should be mid-swing with a glowing sword while the dragon rears back breathing flames. Include detailed UI: health/mana bars for both characters, skill cooldown timers, damage numbers floating above characters, minimap in corner, and action buttons for special attacks. Dramatic lighting with fire effects and stone debris flying through the air",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate an action RPG battle interface. The scene features a medieval knight in a crumbling castle courtyard, mid-swing with a glowing sword, battling a fire-breathing dragon that rears back, exhaling intense flames. The interface prominently displays health and mana bars for both the knight and the dragon, along with skill cooldown timers and dynamic damage numbers floating above the characters. A minimap is positioned in the top-right corner, and action buttons for special attacks are arrayed along the bottom of the screen. The scene is illuminated by dramatic lighting, enhanced by the dragon's fire, with stone debris flying through the air.",
+  "annotator": "theblackcat",
+  "objects": [
+    "medieval knight",
+    "glowing sword",
+    "fire-breathing dragon",
+    "crumbling castle courtyard",
+    "health and mana bars",
+    "skill cooldown timers",
+    "dynamic damage numbers",
+    "minimap in the top-right corner",
+    "action buttons along the bottom of the screen",
+    "stone debris flying through the air"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

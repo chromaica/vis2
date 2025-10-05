@@ -1,0 +1,22 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "Convert the downtown to a hectic sunny morning vibe.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 (the black and white city skyline silhouette within a circular frame) to convey a hectic sunny morning vibe. Use image 2 (the bustling city street at dusk) as a reference for the 'hectic' atmosphere and the general urban setting. Transform the scene in image 1 by introducing bright, warm morning sunlight, casting prominent long shadows from the buildings. Add stylized graphic elements such as moving cars and active pedestrians within the street level of the silhouette to depict busyness. The color palette should shift from black and white to vibrant morning hues like bright yellows, oranges, and light blues for the sky, maintaining a crisp information graphic style.",
+  "annotator": "Johnny",
+  "objects": [
+    "city skyline silhouette",
+    "circular frame",
+    "bright morning sunlight",
+    "long shadows from buildings",
+    "stylized graphic moving cars",
+    "stylized graphic active pedestrians",
+    "light blue sky"
+  ]
+}

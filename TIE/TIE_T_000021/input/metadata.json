@@ -1,0 +1,26 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "On the left, list \u2018Spending 12 hours debugging\u2019, and on the right, list \u2018Getting a single semicolon wrong\u2019. Add an emoji next to each.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. On the left side of image 1, add the text 'Spending 12 hours debugging' below the phrase 'i receive:'. On the right side of image 1, add the text 'Getting a single semicolon wrong' below the phrase 'you receive:'. Include an emoji next to each of these two newly added text phrases.",
+  "annotator": "matina",
+  "objects": [
+    "man in a suit",
+    "purple lit background",
+    "plant",
+    "red \"TRADE OFFER\" banner",
+    "text \"i receive:\"",
+    "text \"you receive:\"",
+    "text \"Spending 12 hours debugging\" on the left, below \"i receive:\"",
+    "emoji next to \"Spending 12 hours debugging\"",
+    "text \"Getting a single semicolon wrong\" on the right, below \"you receive:\"",
+    "emoji next to \"Getting a single semicolon wrong\""
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

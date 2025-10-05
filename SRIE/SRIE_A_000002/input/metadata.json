@@ -1,0 +1,25 @@
+{
+  "subtopic": "Digital arts",
+  "prompt": "the eye of image 1 shows the reflection of the girl in image 2 with the same art style as image 1",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1. Within the central iris or pupil of the eye in image 1, integrate a clear reflection of the girl from image 2. Ensure the reflection is rendered in the intricate, mechanical, and detailed art style of image 1.",
+  "annotator": "kellycyy",
+  "objects": [
+    "mechanical eye",
+    "intricate mechanical details",
+    "gears and cogs",
+    "warm, fiery background texture",
+    "reflection of a girl within the central iris/pupil",
+    "girl with blonde hair (as part of reflection)",
+    "girl with a brown hat (as part of reflection)",
+    "girl wearing a shirt and tie (as part of reflection)",
+    "blue iris/pupil",
+    "detailed, mechanical art style"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Combine the SpongeBob burning paper meme in the first image with Patrick to-do list in the second image. Make a meme where Patrick writes '1. Stay calm, 2. Don\u2019t overthink' and then cut to SpongeBob smiling while burning it.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a two-panel horizontal meme image. The left panel should feature Patrick's hand, styled after image 2, holding a pencil and writing on a crumpled light blue-green paper. The text prominently displayed on the paper should read: \"1. Stay calm,\" and on the line below it, \"2. Don\u2019t overthink.\" The background for this panel should be a plain, light blue-green, subtly textured surface, matching image 2. The right panel should depict SpongeBob SquarePants, consistent with the style of image 1, smiling broadly as he holds a similar piece of paper over a small, crackling fire, actively burning it. SpongeBob's posture and the underwater environment background, including the sandy seafloor, should directly reference the final frame of image 1.",
+  "annotator": "parnian",
+  "objects": [
+    "Two-panel horizontal meme layout",
+    "Left panel: Patrick's hand",
+    "Left panel: Pencil",
+    "Left panel: Crumpled light blue-green paper with text \"1. Stay calm, 2. Don\u2019t overthink\"",
+    "Left panel: Light blue-green subtly textured background",
+    "Right panel: SpongeBob SquarePants (smiling, specific posture from image 1 final frame)",
+    "Right panel: Piece of paper (being held, burning)",
+    "Right panel: Small, crackling fire",
+    "Right panel: Underwater environment background",
+    "Right panel: Sandy seafloor"
+  ]
+}

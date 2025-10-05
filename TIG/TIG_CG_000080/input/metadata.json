@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "Depth maps",
+  "prompt": "A depth map of a city street, with a large white SUV in the center foreground (brightest), two pedestrians on the right sidewalk midground (mid-tones), traffic lights suspended upper center (mid-dark), and tall buildings in the far background (black).",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a depth map of a city street. A large white SUV is positioned in the center foreground, rendered with the brightest white values. Two pedestrians are on the right sidewalk in the midground, appearing in mid-tone gray values. Traffic lights are suspended in the upper center, depicted in mid-dark gray. Tall buildings define the far background, represented by solid black.",
+  "annotator": "maxku",
+  "objects": [
+    "city street",
+    "large white SUV (in the center foreground)",
+    "two pedestrians (on the right sidewalk in the midground)",
+    "sidewalk (on the right)",
+    "traffic lights (suspended in the upper center)",
+    "tall buildings (in the far background)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

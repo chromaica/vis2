@@ -1,0 +1,23 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Image Transformation",
+  "prompt": "Match the lighting and color tone of the reference in the source image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the daytime image of the Milad Tower, to match the lighting and color tone of image 2. Transform the scene in image 1 into a dark, nighttime environment, incorporating the distinct warm artificial illumination visible on the Milad Tower's upper sections and observation deck as shown in image 2.",
+  "annotator": "nimajamali",
+  "objects": [
+    "Milad Tower",
+    "Dark nighttime sky",
+    "Snowy mountains (in a nighttime setting)",
+    "Warm artificial illumination on the Milad Tower's observation deck",
+    "Warm artificial illumination on the Milad Tower's upper head sections",
+    "Red artificial illumination on the Milad Tower's top spire",
+    "Hills/lower mountains (in a nighttime setting)",
+    "Buildings/structures at the base of the Milad Tower (in a nighttime setting)"
+  ]
+}

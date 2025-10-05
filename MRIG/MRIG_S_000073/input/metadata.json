@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": "Generate the homepage of a university website (called UT). Use the logo and color scheme from the first image and the navigation bar design and overall website structure from the second image.",
+  "cond_images": [
+    "1.png",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a responsive website homepage for 'UT University'.\nIntegrate the exact logo from image 1 into the top-left corner of the navigation bar.\nUtilize the light blue color from image 1 as the primary brand color for backgrounds and accents throughout the website.\nThe website's overall structure and navigation bar design should emulate image 2:\n- The top navigation bar should feature a smaller secondary set of links (e.g., 'Alumni', 'Parents') aligned to the far right.\n- The main navigation menu (e.g., 'Academics', 'Admissions & Aid') should be horizontally centered, with 'VISIT', 'GET INFO', and 'APPLY' call-to-action buttons positioned on the far right of the main navigation bar.\n- Below the navigation, include a full-width hero section with a large, centered main heading and a smaller sub-heading, mirroring the 'WHERE EVERYTHING CONNECTS' and 'FIND YOUR PROGRAM' layout from image 2.\n- Conclude the page with a search bar on the left and a 'TAKE THE QUIZ' section on the right, consistent with the bottom layout of image 2.",
+  "annotator": "paria",
+  "objects": [
+    "Logo from image 1 (in top-left corner of navigation bar)",
+    "Light blue color (as primary brand color for backgrounds and accents)",
+    "Top navigation bar (emulating image 2's design)",
+    "Smaller secondary set of links (aligned to the far right in top navigation bar)",
+    "Horizontally centered main navigation menu",
+    "'VISIT', 'GET INFO', and 'APPLY' call-to-action buttons (positioned on the far right of the main navigation bar)",
+    "Full-width hero section (below the navigation)",
+    "Large, centered main heading and smaller sub-heading (in the hero section)",
+    "Search bar (on the left at the bottom of the page)",
+    "'TAKE THE QUIZ' section (on the right at the bottom of the page)"
+  ]
+}

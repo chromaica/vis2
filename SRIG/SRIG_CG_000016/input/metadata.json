@@ -1,0 +1,27 @@
+{
+  "subtopic": "VFX and Particles",
+  "prompt": "Use the reference image's dynamic runner pose and outdoor environment. Generate a scene with a runner leaving a trail of bright energy particles and dynamic VFX behind, showcasing speed and motion. Computer graphics concept.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://runkeeper.com/cms/wp-content/uploads/sites/4/2022/12/how-sleep-can-make-you-a-better-runner.jpg",
+  "promptGeneratedTimestamp": 1748766043897,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate an image based on image 1, featuring the runner in their dynamic mid-stride pose within the bright outdoor environment. The runner should emit a vibrant, luminous trail of energy particles and dynamic visual effects (VFX) streaming behind them, extending from their feet and body towards the left side of the frame. This trail must visually emphasize high speed and intense motion. The entire scene should be rendered with a distinct computer graphics aesthetic, maintaining the clear blue sky, grassy ground, and evergreen trees visible in the background of image 1.",
+  "annotator": "ishengfang",
+  "objects": [
+    "runner",
+    "runner in dynamic mid-stride pose",
+    "vibrant, luminous trail of energy particles",
+    "dynamic visual effects (VFX) streaming behind runner",
+    "trail extending from runner's feet and body",
+    "trail extending towards the left side of the frame",
+    "visual emphasis of high speed and intense motion",
+    "clear blue sky",
+    "grassy ground",
+    "evergreen trees"
+  ],
+  "human_annotation": true
+}

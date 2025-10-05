@@ -1,0 +1,19 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "A detailed macro shot of a honeybee on a vibrant sunflower, capturing the intricate details of its wings and the flower's texture.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic macro shot of a single honeybee resting prominently on the vibrant petals of a sunflower. Emphasize the intricate veining of the bee's translucent wings and the detailed, textured surface of the sunflower's center and petals.",
+  "annotator": "cwhsu",
+  "objects": [
+    "single honeybee",
+    "sunflower",
+    "vibrant sunflower petals",
+    "intricate veining on honeybee's translucent wings",
+    "detailed, textured surface of sunflower's center"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

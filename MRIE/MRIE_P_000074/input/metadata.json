@@ -1,0 +1,24 @@
+{
+  "subtopic": "Astronomical images",
+  "prompt": "Edit image 1 by replacing the asteroid with the Moon from image 2. Enhance the appearance of Earth in image 1 with the realistic cloud patterns and continent detail seen in image 3.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749223319290,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "P",
+  "prompt_refined": "Edit image 1. Replace the asteroid on the left with the full, detailed Moon from image 2, ensuring its scale and lighting are consistent with image 1. Additionally, apply the realistic cloud patterns and distinct continent details of Earth from image 3 to the Earth in image 1, achieving a photorealistic appearance.",
+  "annotator": "boris",
+  "objects": [
+    "full, detailed Moon on the left",
+    "Earth with realistic cloud patterns and distinct continent details",
+    "sun/starburst",
+    "space/dark sky",
+    "asteroid (should not be present)"
+  ],
+  "human_annotation": true
+}

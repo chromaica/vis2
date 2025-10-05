@@ -1,0 +1,18 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Minimalist Designs",
+  "prompt": "A cup of steaming coffee on a plain white table, casting a soft gray shadow, invoking calmness.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A simple white ceramic coffee mug, with subtle steam gently rising, is positioned centrally on a smooth, plain white table. A soft, diffused gray shadow is cast by the mug onto the table surface. The scene is bathed in gentle, natural light, creating a clean, minimalist, and calm composition.",
+  "annotator": "cwhsu",
+  "objects": [
+    "white ceramic coffee mug",
+    "steam",
+    "white table",
+    "mug positioned centrally on the table",
+    "soft, diffused gray shadow",
+    "natural light"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Prompt: Create a children\u2019s luxury product logo combining the playfulness of the first image with the sophisticated pattern of the second.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a children's luxury product logo. The logo should feature a central, cute, and playful character in a charming, cartoonish style, drawing inspiration from the expressive features and overall aesthetic of the baby giraffe in image 1. This character should be integrated with a sophisticated, repeating monogram background pattern, which mirrors the structured diamond lattice and signature beige and brown color palette found in image 2.",
+  "annotator": "parnian",
+  "objects": [
+    "Children's luxury product logo",
+    "Central character",
+    "Cute baby giraffe character",
+    "Playful baby giraffe character",
+    "Cartoonish character style",
+    "Sophisticated repeating monogram background pattern",
+    "Diamond lattice background pattern",
+    "Beige color scheme",
+    "Brown color scheme"
+  ]
+}

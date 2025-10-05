@@ -1,0 +1,18 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Have the word \u2018Salesforce\u2019 drift like soft white clouds from left to right across the header, looping seamlessly.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Add the word \u2018Salesforce\u2019 rendered as soft white clouds. This cloud-like word should appear to be drifting horizontally from the left edge to the right edge within the top area of the image, conveying a sense of seamless, continuous motion.",
+  "annotator": "matina",
+  "objects": [
+    "Original Salesforce blue cloud icon",
+    "Original \"salesforce\" text (dark blue)",
+    "White background",
+    "The word 'Salesforce' formed by soft white clouds, drifting horizontally from left to right in the top area, conveying seamless continuous motion"
+  ]
+}

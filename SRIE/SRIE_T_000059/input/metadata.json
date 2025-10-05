@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "Project the disco-ball\u2019s specular-highlight map onto the letter surfaces, adding moving glints and tiny lens-flare spots",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Apply the luminous, multi-colored specular highlights and light patterns, characteristic of the disco ball in image 2, onto the white 'DISCO NIGHT' text at the top of image 1. The letters should display a dynamic appearance with moving glints and tiny, subtle lens-flare spots across their surfaces.",
+  "annotator": "matina",
+  "objects": [
+    "\"DISCO NIGHT\" text with luminous, multi-colored specular highlights",
+    "\"DISCO NIGHT\" text with dynamic moving glints",
+    "\"DISCO NIGHT\" text with tiny, subtle lens-flare spots",
+    "\"ENTERTAINMENT PRESENTS\" text",
+    "Crowd with hands raised",
+    "Stage lighting",
+    "\"30 September\" event detail circle",
+    "\"FREE TICKET\" information",
+    "Event details text (e.g., \"STARTS AT 6PM - LIVE - FOOD & DRINKS\")",
+    "Footer contact information"
+  ]
+}

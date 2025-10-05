@@ -1,0 +1,25 @@
+{
+  "subtopic": "Facial estimation and analysis",
+  "prompt": "Generate a realistic 3D computer graphics model close-up of a face, guided by the pose and neutral expression of the reference image, suitable for facial analysis data.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://storage.needpix.com/rsynced_images/portrait-2159177_1280.jpg",
+  "promptGeneratedTimestamp": 1748766717960,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a realistic 3D computer graphics model of a face, presented as a close-up portrait. The model's pose and expression must be precisely guided by image 1, replicating its frontal head orientation, direct eye gaze, and neutral facial expression. The final image should be clean, well-lit, and suitable for facial analysis data.",
+  "annotator": "ishengfang",
+  "objects": [
+    "realistic 3D computer graphics model of a human face",
+    "blond hair",
+    "eyes (with direct gaze)",
+    "nose",
+    "mouth (with neutral expression)",
+    "skin",
+    "partial ears",
+    "partial shoulders",
+    "plain background"
+  ]
+}

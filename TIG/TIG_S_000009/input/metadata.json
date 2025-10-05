@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "generate a receipt from a 24-hour diner at 3 AM, showing black coffee and apple pie, crumpled and coffee-stained, under harsh fluorescent lighting with cigarette burns on the table",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate an image featuring a crumpled and coffee-stained diner receipt. The receipt rests on a worn, dark table with prominent cigarette burn marks. The receipt clearly lists 'black coffee' and 'apple pie'. The scene is illuminated by harsh, cool-toned fluorescent lighting, conveying the atmosphere of a desolate 24-hour diner at 3 AM.",
+  "annotator": "theblackcat",
+  "objects": [
+    "crumpled and coffee-stained diner receipt",
+    "worn, dark table",
+    "prominent cigarette burn marks on the table",
+    "'black coffee' text on receipt",
+    "'apple pie' text on receipt",
+    "harsh, cool-toned fluorescent lighting"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

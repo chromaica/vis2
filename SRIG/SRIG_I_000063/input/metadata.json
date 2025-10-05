@@ -1,0 +1,25 @@
+{
+  "subtopic": "UI mockups",
+  "prompt": "From the photo-editing app toolbar reference, create a filter-selection overlay with live preview thumbnails.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://cdn.dribbble.com/userupload/29447544/file/original-8808a5074b7fc0f2e5191e924f93a83e.png?format=webp&resize=400x300&vertical=center",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate a filter-selection overlay for a photo-editing application. This overlay should adopt the clean, white, rounded-rectangle design aesthetic of the toolbar presented in image 1. Position this overlay as a dropdown or pop-up menu, appearing directly below or adjacent to the main toolbar. Within the overlay, display a grid of multiple live preview thumbnails, with each thumbnail showcasing a different applied image filter on a sample image.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Main toolbar (from image 1)",
+    "Blue background",
+    "Filter-selection overlay",
+    "Dropdown or pop-up menu appearance for the overlay",
+    "Overlay positioned below or adjacent to the main toolbar",
+    "Overlay with clean, white, rounded-rectangle design aesthetic",
+    "Grid of live preview thumbnails within the overlay",
+    "Multiple thumbnails showcasing a sample image",
+    "Different applied image filter on each thumbnail"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

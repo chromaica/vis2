@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Traditional art",
+  "prompt": "Create a watercolor painting of a landscape scene. Use the layered rock formation texture from image 1, incorporate the gnarled tree style seen in image 2, and render the entire scene with the atmospheric, misty lighting and mood from image 3.",
+  "cond_images": [
+    "1.png",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a watercolor painting of a landscape scene. Include prominent rock formations or cliffs displaying the distinct, angular, horizontally layered geological texture from image 1. Feature at least one gnarled, ancient, and twisted tree with sparse, weathered branches, replicating the style seen in image 2. The entire scene should be enveloped in dense, soft mist, creating diffused lighting and a serene, ethereal mood, consistent with image 3.",
+  "annotator": "samin",
+  "objects": [
+    "Watercolor painting style",
+    "Landscape scene",
+    "Prominent rock formations or cliffs",
+    "Angular, horizontally layered geological texture",
+    "At least one gnarled, ancient, twisted tree",
+    "Sparse, weathered tree branches",
+    "Dense, soft mist",
+    "Diffused lighting"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,25 @@
+{
+  "subtopic": "Games",
+  "prompt": "Edit image 1: Apply the intense battlefield atmosphere and visual combat effects from image 2, adding elements like explosions and laser strikes throughout the futuristic city environment.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751179238196,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit image 1, transforming the futuristic city into an active combat zone. Apply the intense battlefield atmosphere and visual combat effects observed in image 2. Integrate multiple bright orange and yellow explosions, similar in style to those in image 2, appearing around the central monument, near the distant buildings, and along the street level. Add thin, bright laser strikes and projectile trails streaking across the sky and impacting various structures within the scene. Enhance the environment with plumes of smoke, flying debris, and subtle signs of destruction to convey a chaotic, war-torn atmosphere throughout the futuristic cityscape.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Futuristic cityscape (transformed into an active combat zone)",
+    "Intense battlefield atmosphere",
+    "Multiple bright orange and yellow explosions (around the central monument, near distant buildings, and along the street level)",
+    "Thin, bright laser strikes (streaking across the sky and impacting various structures)",
+    "Projectile trails (streaking across the sky and impacting various structures)",
+    "Plumes of smoke",
+    "Flying debris",
+    "Subtle signs of destruction"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Long exposure",
+  "prompt": "Fireworks display over a calm lake, reflected in the water, with trails of light painting the sky.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A photorealistic image of a spectacular fireworks display. Vibrant bursts of light and arcing trails illuminate the night sky, perfectly reflected on the calm, mirror-like surface of the lake below.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Spectacular fireworks display",
+    "Vibrant bursts of light",
+    "Arcing trails of light",
+    "Night sky",
+    "Lake",
+    "Calm, mirror-like lake surface",
+    "Reflections of fireworks display on the lake surface"
+  ],
+  "human_annotation": true
+}

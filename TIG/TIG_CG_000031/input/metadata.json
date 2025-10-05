@@ -1,0 +1,15 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "Texture Map",
+  "prompt": "A normal map of hexagonal sci-fi metal panels, with beveled edges and engraved lines.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a seamless normal map of hexagonal sci-fi metal panels, featuring distinct beveled edges and intricate engraved lines.",
+  "annotator": "maxku",
+  "objects": [
+    "hexagonal panels",
+    "beveled edges",
+    "engraved lines"
+  ]
+}

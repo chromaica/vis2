@@ -1,0 +1,21 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": "Give these letters a bold 3D extrusion in red with black shading.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 2. In the black rectangular area at the bottom, render the text 'SMASH'. Refer to image 1 for the exact word, its original position, and scale. The rendered letters should have a bold 3D extrusion, be red in color, and include distinct black shading.",
+  "annotator": "matina",
+  "objects": [
+    "Man in yellow shirt",
+    "Man in black pants",
+    "Light blue door",
+    "Wall (background)",
+    "Red, bold, 3D extruded text 'SMASH' with black shading, at the bottom of the image"
+  ],
+  "human_annotation": true
+}

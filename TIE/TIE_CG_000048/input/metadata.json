@@ -1,0 +1,28 @@
+{
+  "subtopic": "3D renders",
+  "prompt": "Replace the current blue car parked in the driveway with a sleek, modern black electric vehicle like a Tesla or similar style.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751815498369,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1: Replace the blue Audi car, currently parked in the driveway under the overhang on the right side of the house, with a sleek, modern black electric vehicle, resembling a Tesla or similar style.",
+  "annotator": "edisy",
+  "objects": [
+    "modern house",
+    "sleek, modern black electric vehicle, resembling a Tesla or similar style",
+    "blue Audi car (should not be present)",
+    "driveway under the overhang",
+    "trees",
+    "hedge",
+    "road",
+    "sky",
+    "house windows",
+    "balcony with greenery"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

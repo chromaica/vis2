@@ -1,0 +1,23 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Facial estimation and analysis",
+  "prompt": "Detect and highlight all faces in the image that are visually similar to the reference face.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Identify all faces in image 1 that are visually similar to the face shown in image 2. Clearly outline or draw a bounding box around each identified face. This includes, but is not limited to, the faces of the two basketball players in the foreground of image 1 (the one on the left and the one on the right).",
+  "annotator": "nimajamali",
+  "objects": [
+    "basketball player on the left",
+    "basketball player on the right",
+    "woman holding flowers",
+    "crowd in the background",
+    "basketball court / arena setting",
+    "outline or bounding box around the face of the basketball player on the left",
+    "outline or bounding box around the face of the basketball player on the right",
+    "outline or bounding box around any other identified similar face in the image"
+  ]
+}

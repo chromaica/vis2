@@ -1,0 +1,27 @@
+{
+  "subtopic": "UI mockups",
+  "prompt": "Create a electric car control panel UI, using the soft white/gray and purple color palette from the reference image, displaying the car speed, map, and other information related to driving.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://media.istockphoto.com/id/1248507372/vector/user-interface-elements-for-medical-mobile-app-diagnosis-and-treatment-pharmacy-store-and.jpg?s=612x612&w=0&k=20&c=4VcEYmD0nOk-MRnoYb0JAySpv5OnfKzAxjR9V7S_Rr8=",
+  "promptGeneratedTimestamp": 1749893743763,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate an electric car control panel user interface (UI). The UI should utilize the soft white/gray base and purple accent color palette, along with the distinctive Neumorphism (soft UI) design style evident in image 1. The interface must prominently display:\n- The current car speed, ideally in a clear, central position.\n- A large navigation map, which could be the primary focal point of the display.\n- Other relevant driving information such as battery level, estimated range, and current driving mode, integrated intuitively into the layout.\nEnsure the design maintains a clean, modern aesthetic suitable for an in-car display.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Electric car control panel user interface",
+    "Neumorphism (soft UI) design style",
+    "Soft white/gray UI background",
+    "Purple accent colored UI elements",
+    "Central digital car speed display",
+    "Large interactive navigation map",
+    "Digital battery level indicator",
+    "Digital estimated range display",
+    "Digital current driving mode indicator",
+    "Neumorphic information display panels"
+  ],
+  "human_annotation": true
+}

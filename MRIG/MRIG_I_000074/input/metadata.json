@@ -1,0 +1,27 @@
+{
+  "task": "MRIG",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "Generate a world map infographic using Image 1, Image 2, and Image 3 (book covers). For each book, mark the author\u2019s region on the map and place the corresponding book cover near that location.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "annotator": "matina",
+  "prompt_refined": "Generate a world map infographic illustrating the geographical origins of three authors. On the map, clearly pinpoint the birth country of each author with a distinct marker or pin icon: Brazil for Paulo Coelho, Russia for Leo Tolstoy, and Sweden for Fredrik Backman. Adjacent to each marked country, precisely position its corresponding book cover image: Image 1 (The Alchemist by Paulo Coelho) near Brazil, Image 2 (Anna Karenina by Leo Tolstoy) near Russia, and Image 3 (A Man Called Ove by Fredrik Backman) near Sweden. The book covers should be appropriately scaled for clear visibility without obscuring the map. Ensure a clean, modern infographic style with a clear visual connection (e.g., thin lines or arrows) between each country marker and its associated book cover.",
+  "objects": [
+    "World map (infographic style)",
+    "Marker or pin icon on Brazil",
+    "Marker or pin icon on Russia",
+    "Marker or pin icon on Sweden",
+    "Book cover of \"The Alchemist\" positioned near Brazil",
+    "Book cover of \"Anna Karenina\" positioned near Russia",
+    "Book cover of \"A Man Called Ove\" positioned near Sweden",
+    "Visual connection (thin line or arrow) between Brazil marker and \"The Alchemist\" cover",
+    "Visual connection (thin line or arrow) between Russia marker and \"Anna Karenina\" cover",
+    "Visual connection (thin line or arrow) between Sweden marker and \"A Man Called Ove\" cover"
+  ],
+  "human_annotation": true
+}

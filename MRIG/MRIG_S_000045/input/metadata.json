@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Generate a live map app interface centered on Tehran, Iran, using the stylized map design from the first image and location icons from the second image.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a live map application interface, visually centered on the city of Tehran, Iran. The map's background, road network, and general stylization should strictly adhere to the dark, high-contrast aesthetic of image 1, including its specific use of light grey for roads, green for park areas, blue for water bodies, and purple for major zones. Populate the map with various point-of-interest (POI) markers, utilizing the distinct circular icon design with bright, solid color backgrounds (such as red, green, blue, and yellow) and simple white pictograms within them, as clearly demonstrated in image 2. These icons should be logically placed across the map to indicate different locations and services within the urban landscape.",
+  "annotator": "paria",
+  "objects": [
+    "Live map application interface",
+    "Map of Tehran, Iran",
+    "Dark map background",
+    "Light grey road network",
+    "Green park areas on map",
+    "Blue water bodies on map",
+    "Purple major zones on map",
+    "Circular POI markers with bright, solid color backgrounds (red, green, blue, yellow)",
+    "Simple white pictograms within POI markers",
+    "Text labels for locations/areas on map"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "Edit image 1 by applying the glossy marker style from image 2 to its existing markers, and render the terrain using the contoured style and adding trees/buildings as seen in image 3, maintaining the original map layout.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the map in image 1. Apply the distinct glossy, pixel-art style from the path markers in image 2 to all existing orange path segments and red node markers in image 1. Rerender the terrain in image 1 to adopt the layered, contoured elevation style visible in image 3. Additionally, incorporate small, stylized trees and simple building structures onto the landmasses in image 1, mirroring the aesthetic and typical placement of such elements seen in image 3. Ensure the original geographical layout of the land, water bodies, and the defined path network from image 1 is precisely maintained.",
+  "annotator": "maxku",
+  "objects": [
+    "Landmasses with layered, contoured elevation style",
+    "Water bodies",
+    "Orange path segments with glossy, pixel-art style",
+    "Red node markers with glossy, pixel-art style",
+    "Blue path segments",
+    "Small, stylized trees on landmasses",
+    "Simple building structures on landmasses"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "3D renders",
+  "prompt": "A 3D render of a low-poly stylized city street, with simplified cars, blocky buildings, and vibrant color palettes. Rendered from an isometric perspective at 512x512 resolution.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a 3D rendered, low-poly stylized city street scene. The image should feature simplified, minimalist cars and distinctly blocky buildings. Employ a vibrant, high-contrast color palette. The scene must be presented from a clear isometric perspective.",
+  "annotator": "maxku",
+  "objects": [
+    "Low-poly stylized city street scene",
+    "Simplified, minimalist cars",
+    "Distinctly blocky buildings",
+    "Vibrant color palette",
+    "High-contrast colors",
+    "Isometric perspective",
+    "3D rendered objects"
+  ],
+  "human_annotation": true
+}

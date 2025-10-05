@@ -1,0 +1,22 @@
+{
+  "subtopic": "VFX and Particles",
+  "prompt": "Modify the central vibrant blue particle explosion effect, changing the particles and surrounding energy glow to a shimmering emerald green.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751814000300,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1: Modify the central vibrant blue particle explosion effect, changing the blue particles and the surrounding blue energy glow to a shimmering emerald green.",
+  "annotator": "edisy",
+  "objects": [
+    "central particle explosion effect",
+    "shimmering emerald green particles",
+    "shimmering emerald green energy glow",
+    "surrounding white smoke",
+    "scattered multi-colored particles",
+    "dark grey background"
+  ]
+}

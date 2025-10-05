@@ -1,0 +1,28 @@
+{
+  "subtopic": "Urban & Street Photography",
+  "prompt": "Edit image 1: Add rain and wet street reflections from image 2, incorporate colorful geometric patterns from image 3 onto the road.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748657496449,
+  "promptLengthUsed": "short",
+  "task": "MRIE",
+  "topic": "P",
+  "prompt_refined": "Edit image 1: Introduce a heavy rain effect throughout the scene and create distinct wet street reflections on the entire road surface, drawing inspiration from the atmospheric conditions in image 2. Additionally, incorporate colorful, block-like geometric patterns onto the asphalt of the road, mirroring the style and arrangement of the court patterns seen in image 3.",
+  "annotator": "boris",
+  "objects": [
+    "heavy rain effect",
+    "wet street reflections on the road",
+    "colorful, block-like geometric patterns on the road asphalt",
+    "nighttime city street scene",
+    "buildings lining the street",
+    "road surface",
+    "vehicles on the road",
+    "pedestrians",
+    "neon signs",
+    "street lights"
+  ]
+}

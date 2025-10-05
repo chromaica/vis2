@@ -1,0 +1,25 @@
+{
+  "subtopic": "VFX and Particles",
+  "prompt": "Generate a dynamic computer graphics scene: The jacket and shirt from image 1 are dissolving into a swarm of particles. Utilize the layered texture and muted color palette seen in image 2 for the appearance and behavior of the particle effect, creating a digital disintegration simulation.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748423388768,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a dynamic computer graphics scene where the dark blue bomber jacket and light blue polo shirt from image 1 are undergoing a digital disintegration. They are dissolving into a dense swarm of particles. These particles should visually emulate the subtle layered fabric texture and adopt the muted color palette (including beige, off-white, and light blue tones) observed in the garments from image 2. The overall scene should clearly depict a precise digital disintegration simulation.",
+  "annotator": "winston",
+  "objects": [
+    "Dark blue bomber jacket (disintegrating)",
+    "Light blue polo shirt (disintegrating)",
+    "Dense swarm of particles",
+    "Particles emulating subtle layered fabric texture",
+    "Particles in a muted color palette (beige, off-white, light blue tones)",
+    "Visual elements depicting a precise digital disintegration simulation"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

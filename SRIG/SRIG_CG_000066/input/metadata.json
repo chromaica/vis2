@@ -1,0 +1,25 @@
+{
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "Visualize semantic segmentation applied to an urban street scene, inspired by the reference image. Use bright, flat color overlays and distinct object outlines for vehicles, buildings, and the road environment.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://unidata.pro/wp-content/uploads/2024/11/semantic-driving-1024x663.png",
+  "promptGeneratedTimestamp": 1748768716977,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate an image depicting a semantic segmentation visualization of an urban street scene, mirroring the perspective and visual style of image 1. The scene should feature a straight-on view looking down a city street, with the foreground and midground occupied by a bright cyan road, flanked by tall buildings rendered in a vibrant magenta. The distant background and sky should be a pale yellow. Multiple vehicles, appearing similar to the dark, desaturated cars in image 1, should be present on the road, each distinctly outlined in white. Additionally, the image should include graphical annotations such as small blue geometric icons, trails of connected pink and white dots, and white textual labels (e.g., 'BUILDING 32 (MANUAL)'), placed over the segmented areas as seen in image 1, indicating data points or manual segmentation markers.",
+  "annotator": "ishengfang",
+  "objects": [
+    "semantic segmentation visualization",
+    "straight-on view of an urban street",
+    "bright cyan road in foreground and midground",
+    "tall vibrant magenta buildings flanking the road",
+    "pale yellow distant background and sky",
+    "multiple dark, desaturated vehicles outlined in white",
+    "small blue geometric icons",
+    "trails of connected pink and white dots",
+    "white textual labels (e.g., 'BUILDING 32 (MANUAL)')"
+  ]
+}

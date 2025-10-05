@@ -1,0 +1,22 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "Make the character leap off the cliff using a Zelda BOTW style paraglider.",
+  "cond_images": [
+    "1.jpeg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Transform the character, currently positioned at the cliff's edge, into a dynamic pose mid-leap off the cliff. The character should be actively using a paraglider, specifically styled like those in Zelda: Breath of the Wild, which is open and positioned below them as they descend.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Character (in dynamic mid-leap pose)",
+    "Paraglider (Zelda: Breath of the Wild style, open, positioned below character)",
+    "Cliff's edge",
+    "Houses/buildings",
+    "Trees (various colors)",
+    "Body of water",
+    "Fortnite User Interface (UI) elements",
+    "Ground/landscape below the character"
+  ]
+}

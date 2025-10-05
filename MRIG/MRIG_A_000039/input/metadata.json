@@ -1,0 +1,23 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "Create a digital artwork featuring the abstract shape from image 1 as a mermaid. Render it in the vibrant digital painting style of image 2, and integrate it into the detailed underwater environment also shown in image 2.",
+  "cond_images": [
+    "1.png",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a new digital artwork. The main subject is a mermaid, with her body and tail forming the distinct abstract silhouette seen in image 1. Render the entire scene in the vibrant, illustrative digital painting style of image 2. The mermaid should be seamlessly integrated into a dynamic underwater environment, mirroring the rich details of image 2, including luminous sunbeams filtering from above, diverse coral formations, and abundant marine life. Position the mermaid centrally in the mid-ground for prominence.",
+  "annotator": "samin",
+  "objects": [
+    "Mermaid (centrally positioned in the mid-ground)",
+    "Abstract silhouette (for mermaid's body and tail, from image 1)",
+    "Dynamic underwater environment",
+    "Luminous sunbeams filtering from above",
+    "Diverse coral formations",
+    "Abundant marine life",
+    "Underwater rock formations/cliffs",
+    "Vibrant, illustrative digital painting style"
+  ]
+}

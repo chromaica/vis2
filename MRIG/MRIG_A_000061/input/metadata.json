@@ -1,0 +1,24 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "Create a digital artwork featuring the silhouette of the cat from image 1, set within a city environment. Fill the silhouette with the intricate patterns and vibrant colors from the butterfly wing in image 2.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a digital artwork featuring a prominent, centrally placed silhouette of the sitting cat from image 1. The interior of this cat silhouette must be completely filled with the intricate, detailed patterns and the vibrant orange, black, and white color palette directly derived from the butterfly wing in image 2. The artwork should be set against a backdrop of a stylized, futuristic city environment at night.",
+  "annotator": "samin",
+  "objects": [
+    "Digital artwork style",
+    "Prominent, centrally placed sitting cat silhouette",
+    "Intricate patterns filling the cat silhouette",
+    "Vibrant orange color filling the cat silhouette",
+    "Black color filling the cat silhouette",
+    "White color filling the cat silhouette",
+    "Stylized futuristic city environment backdrop",
+    "Night time setting"
+  ],
+  "human_annotation": true
+}

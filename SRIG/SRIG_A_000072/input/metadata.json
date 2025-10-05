@@ -1,0 +1,22 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "An Aliens invasion scene",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a dramatic artwork depicting an alien invasion scene. The primary alien invader should visually incorporate the imposing, armored humanoid silhouette and design cues from image 1, positioned centrally in the foreground. This alien should be leading an assault on a futuristic city, with towering skyscrapers crumbling under attack. In the sky, a fleet of alien spacecraft descends, casting ominous shadows. The scene should convey chaos and a sense of overwhelming force, rendered with dynamic lighting and a dark, gritty atmosphere.",
+  "annotator": "Johnny",
+  "objects": [
+    "primary alien invader (incorporating image 1's imposing, armored humanoid silhouette, centrally in foreground)",
+    "futuristic city",
+    "crumbling towering skyscrapers",
+    "fleet of alien spacecraft",
+    "sky (with descending spacecraft)",
+    "ominous shadows",
+    "dynamic lighting",
+    "dark, gritty atmosphere"
+  ]
+}

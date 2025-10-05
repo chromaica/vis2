@@ -1,0 +1,29 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Edit image 1, a process diagram, by replacing the rocket icon in step 1 with the icon from image 3 and the lightbulb icon in step 2 with the icon from image 4. Transform the LEGO brick elements to appear as interconnected puzzle pieces, incorporating the style and linkage concept from image 2, maintaining the diagram's flow.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png",
+    "4.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, a process diagram. Replace the gray rocket icon located above 'LOREM IPSUM' for step '01' with the blue and orange rocket icon from image 3, ensuring it is appropriately scaled and positioned within the existing layout. Replace the gray lightbulb icon located above 'LOREM IPSUM' for step '02' with the blue and yellow lightbulb icon from image 4, ensuring it is appropriately scaled and positioned within the existing layout. Additionally, transform the four 3D LEGO-style brick elements (blue for '01', orange for '02', green for '03', yellow for '04') into 3D puzzle pieces. Each transformed piece should exhibit the distinctive interlocking tabs and slots, replicating the shape and linkage concept from the puzzle pieces in image 2. Maintain their original colors and 3D perspective, ensuring their current spatial arrangement and the overall flow of the diagram are preserved.",
+  "annotator": "maxku",
+  "objects": [
+    "\"LEGO\u00ae Process Diagram for PowerPoint\" title",
+    "Four \"LOREM IPSUM\" text blocks",
+    "Blue and orange rocket icon (for step 01)",
+    "Blue and yellow lightbulb icon (for step 02)",
+    "Gray hashtag icon (for step 03)",
+    "Gray people icon (for step 04)",
+    "Blue 3D puzzle piece with '01'",
+    "Orange 3D puzzle piece with '02'",
+    "Green 3D puzzle piece with '03'",
+    "Yellow 3D puzzle piece with '04'"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

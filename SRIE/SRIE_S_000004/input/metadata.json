@@ -1,0 +1,30 @@
+{
+  "subtopic": "Software interfaces",
+  "prompt": "Edit image 1: Redesign the software interface elements (buttons, panels, window frame) to adopt the modern, rounded corners and cleaner aesthetic of the interface shown in image 2. Replace the title bar with a minimalist style similar to image 2's top bar.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "Clean software interface screenshot",
+  "searchQueryGeneratedTimestamp": 1751004348265,
+  "promptGeneratedTimestamp": 1751004380605,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit image 1: Redesign the software interface to adopt the modern, rounded corners and cleaner aesthetic of image 2. Specifically, modify all existing interface elements in image 1, including buttons, panels, and the main window frame, to feature the prominent rounded corners seen throughout image 2's UI. Replace the traditional Windows title bar in image 1 with a minimalist top bar styled like image 2's top bar, including its characteristic close, minimize, and maximize buttons positioned on the left.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Main software window with rounded corners",
+    "Minimalist top bar",
+    "Close button on the left (in top bar)",
+    "Minimize button on the left (in top bar)",
+    "Maximize button on the left (in top bar)",
+    "File/folder tree panel with rounded corners",
+    "File list display panel with rounded corners",
+    "Bottom configuration panels with rounded corners",
+    "Buttons (e.g., Rename, Reset, Revert) with rounded corners",
+    "Traditional Windows title bar (should not be present)"
+  ],
+  "human_annotation": true
+}

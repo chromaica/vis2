@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "T",
+  "subtopic": "Menu",
+  "prompt": "Change the cup of drink next to 'HEAPING HELPING' to the cup of drink in the second image. Then, add the icon from the third image to the right side of the text '12,748 FOOD IDEAS', adjust the font size in order to fit in the icon.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the provided image (Image 1), which depicts a chalkboard menu illustration. Replace the existing chalk-drawn cup located to the left of the 'HEAPING HELPING' text with a chalk-style illustration of the strawberry Frappuccino shown in Image 2. Additionally, integrate the thought bubble icon from Image 3 by placing it immediately to the right of the text '12,748 FOOD IDEAS' in the bottom-right section. Adjust the font size of '12,748 FOOD IDEAS' so that its vertical height approximately matches the height of the added thought bubble icon, ensuring a cohesive visual fit within the existing layout.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Chalkboard menu illustration",
+    "Chalk-drawn cup located to the left of the 'HEAPING HELPING' text (should not be present)",
+    "Chalk-style illustration of a strawberry Frappuccino (located to the left of 'HEAPING HELPING' text)",
+    "Thought bubble icon (located immediately to the right of the text '12,748 FOOD IDEAS')",
+    "Text '12,748 FOOD IDEAS' (with font size adjusted to match the height of the thought bubble icon)",
+    "Starbucks Siren logo",
+    "\"MENU\" text",
+    "\"HOWARD SCHULTZ'S GRAND TURNAROUND CAFE\" text",
+    "\"SPECIALS\" section with coffee beans icon",
+    "\"HEAPING HELPING\" text"
+  ]
+}

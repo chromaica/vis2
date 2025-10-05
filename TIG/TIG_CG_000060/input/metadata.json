@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "Depth maps",
+  "prompt": "A depth map of four pots in different distances in the scene, showing the pots in different depths. The left pot is the closest, the right pot is the farthest.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a grayscale depth map featuring four pots. The pots should be arranged horizontally such that the leftmost pot is the closest to the viewer, and the rightmost pot is the farthest away. The two central pots should exhibit progressively increasing depths from left to right.",
+  "annotator": "maxku",
+  "objects": [
+    "Grayscale depth map visualization",
+    "Four pots",
+    "Pots arranged horizontally",
+    "Leftmost pot appearing closest to the viewer",
+    "Second pot from left appearing at progressively increasing depth",
+    "Third pot from left appearing at progressively increasing depth",
+    "Rightmost pot appearing farthest from the viewer"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

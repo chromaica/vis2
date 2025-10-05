@@ -1,0 +1,30 @@
+{
+  "subtopic": "Typography",
+  "prompt": "Edit image 1. Incorporate image 2's blocky text composition and repeated words. Apply image 3's vibrant graffiti style and drips. Use image 4's rough handwritten texture and repetition for shading. Add image 5's isometric text and color palette around the portrait.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg",
+    "4.jpeg",
+    "5.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749711885827,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "T",
+  "prompt_refined": "Edit the portrait composed of text in image 1.\n1.  Recompose the text within the portrait, adopting the blocky letterforms and repeated word patterns characteristic of image 2.\n2.  Apply image 3's vibrant graffiti style, including its bold colors and dripping paint effects, to the text making up the portrait.\n3.  Utilize image 4's rough, repeated handwritten texture for shading and depth within the modified text portrait.\n4.  Around the portrait, introduce new graphic elements and text in the distinct isometric style and vibrant color palette (purples, greens, blues, oranges) found in image 5.",
+  "annotator": "winston",
+  "objects": [
+    "Portrait composed of text",
+    "Blocky letterforms within portrait text",
+    "Repeated word patterns within portrait text",
+    "Vibrant graffiti style with bold colors and dripping paint effects on portrait text",
+    "Rough, repeated handwritten texture for shading and depth on portrait text",
+    "Graphic elements surrounding the portrait",
+    "Text surrounding the portrait",
+    "Isometric style for surrounding graphic elements and text",
+    "Vibrant color palette (purples, greens, blues, oranges) for surrounding graphic elements and text"
+  ],
+  "human_annotation": true
+}

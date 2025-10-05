@@ -1,0 +1,26 @@
+{
+  "subtopic": "Scenic Nature Parks",
+  "prompt": "Add the swimming penguin from image 2 realistically into the lake in image 1, and place the sunflower from image 3 near the dock.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748571913559,
+  "promptLengthUsed": "short",
+  "task": "MRIE",
+  "topic": "P",
+  "prompt_refined": "Edit image 1. Insert the swimming penguin from image 2 into the lake, positioning it realistically in the water in the middle-left portion of the frame, appearing to swim towards the wooden dock. Additionally, place the sunflower from image 3 onto the grassy bank situated immediately to the right of the wooden dock, ensuring it is photorealistically integrated into the scene.",
+  "annotator": "boris",
+  "objects": [
+    "lake",
+    "wooden dock",
+    "forest/trees surrounding the lake",
+    "sky with clouds",
+    "grassy bank to the right of the wooden dock",
+    "swimming penguin in the middle-left of the lake, swimming towards the wooden dock",
+    "sunflower on the grassy bank immediately to the right of the wooden dock",
+    "reeds/grass in the foreground water"
+  ]
+}

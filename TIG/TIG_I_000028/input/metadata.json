@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "generate a detailed assembly line flowchart for electric vehicle manufacturing with quality checkpoints, robotic stations, and human intervention points",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A detailed, infographic-style assembly line flowchart for electric vehicle manufacturing. The flowchart visually progresses from left to right, illustrating sequential stages of production with interconnected nodes and directional arrows. Clearly identifiable sections within the flow include robotic stations, depicted with automated machinery and robotic arms performing tasks like welding and assembly. Human intervention points are shown with human figures performing specialized or intricate tasks such as wiring and interior fitting. Prominently integrated quality checkpoints are marked by distinct icons or labels, signifying inspection points at critical junctures of the manufacturing process.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Infographic-style assembly line flowchart",
+    "Flowchart nodes",
+    "Directional arrows (progressing left to right)",
+    "Robotic stations",
+    "Automated machinery",
+    "Robotic arms",
+    "Human intervention points",
+    "Human figures",
+    "Quality checkpoints",
+    "Distinct icons or labels for quality checkpoints"
+  ]
+}

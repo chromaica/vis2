@@ -1,0 +1,23 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": "Attach this sign to the wall, slightly tilted.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 (the building scene) to incorporate the STOP sign from image 2. Place the STOP sign onto the large, grey wall section on the right side of the building. The sign should appear slightly tilted.",
+  "annotator": "matina",
+  "objects": [
+    "Building",
+    "Two guards",
+    "Windows on the building",
+    "Entrance/doorway of the building",
+    "Ground/pavement",
+    "Speech bubble with text \"THE WORK WENT ON NIGHT AND DAY-UNDER CONSTANT GUARD.\"",
+    "Background cityscape",
+    "Red octagonal STOP sign with white \"STOP\" text, placed on the large, grey wall section on the right side of the building, appearing slightly tilted"
+  ]
+}

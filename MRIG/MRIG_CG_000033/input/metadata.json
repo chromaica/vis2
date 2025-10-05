@@ -1,0 +1,21 @@
+{
+  "subtopic": "Object detection visuals",
+  "prompt": "Generate a computer graphics visual for object detection: Display the yellow sports car from image 1, set against the black background of image 2, overlaid with a dynamic bounding box and detection confidence label.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748422582497,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a computer graphics image demonstrating object detection. The central subject is the yellow convertible sports car from image 1, positioned against a pure black background consistent with image 2. Overlay the car with a crisp, vibrant green bounding box. Inside or immediately adjacent to the bounding box, include a clear white text label, such as 'Sports Car: 98% Confidence'.",
+  "annotator": "winston",
+  "objects": [
+    "yellow convertible sports car",
+    "pure black background",
+    "crisp, vibrant green bounding box (overlaying the car)",
+    "clear white text label \"Sports Car: 98% Confidence\" (inside or immediately adjacent to the bounding box)"
+  ]
+}

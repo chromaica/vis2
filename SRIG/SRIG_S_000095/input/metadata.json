@@ -1,0 +1,25 @@
+{
+  "subtopic": "Websites",
+  "prompt": "Transform this Twitter/X feed screenshot into a single, dynamic comic book panel, using explosive action lines, dramatic character poses, and speech bubbles for the tweets.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://tweetdelete.net/resources/wp-content/uploads/2024/02/Best-Twitter-Accounts-SpaceX-Comments-630-x-630.png",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a single, dynamic comic book panel transforming the content of image 1. The panel should feature a powerful rocket (representing the '9x flight-proven booster' from image 1's top tweet) in the upper half, shown in a dramatic launch or landing sequence, with explosive action lines radiating from it to convey speed and impact. In the lower half of the panel, position several distinct human characters, inspired by the profile pictures and names from image 1 (e.g., Musa, Muhmmad Azhar, Hamid khan), depicted in dramatic, expressive poses that convey awe, excitement, or congratulation in response to the rocket's action. The main tweet text from image 1 ('The 9x flight-proven booster will launch ~4 tons of science and supplies aboard Cygnus prior to landing at Landing Zone 1') should be displayed in a prominent, narrative-style text box or large speech bubble at the top-center of the panel. Each replying character (Musa, Muhmmad Azhar, Hamid khan) should have their corresponding reply text (e.g., 'Congrats \ud83c\udf89\ud83e\udd42', 'The 9x flight-proven booster not only demonstrates...', 'You can do anything Elon musk') in a clearly legible speech bubble originating from them, artistically integrated into the scene.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "comic book panel style",
+    "powerful rocket in the upper half",
+    "explosive action lines radiating from the rocket",
+    "Musa character in the lower half, in a dramatic pose",
+    "Muhmmad Azhar character in the lower half, in a dramatic pose",
+    "Hamid khan character in the lower half, in a dramatic pose",
+    "narrative-style text box or large speech bubble at top-center with text: \"The 9x flight-proven booster will launch ~4 tons of science and supplies aboard Cygnus prior to landing at Landing Zone 1\"",
+    "speech bubble originating from Musa with text: \"Congrats \ud83c\udf89\ud83e\udd42\"",
+    "speech bubble originating from Muhmmad Azhar with text: \"The 9x flight-proven booster not only demonstrates...\"",
+    "speech bubble originating from Hamid khan with text: \"You can do anything Elon musk\""
+  ],
+  "human_annotation": true
+}

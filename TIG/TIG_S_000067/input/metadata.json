@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "A grease-soaked receipt from \"The Chippy\" in London, showing fish and chips with mushy peas in pounds sterling, wrapped in yesterday's newspaper with vinegar stains and printed in classic British pub font",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A close-up image of a grease-soaked receipt from \"The Chippy\" in London, partially wrapped within a crumpled and aged piece of yesterday's newspaper. The receipt clearly displays \"Fish and Chips\" and \"Mushy Peas\" listed with their prices in pounds sterling (GBP), all rendered in a classic British pub font. Both the visible sections of the receipt and the surrounding newspaper are marked with prominent, dark vinegar stains and distinct grease spots, conveying a tactile sense of dampness and use.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Grease-soaked receipt",
+    "Crumpled newspaper",
+    "Text \"The Chippy\" on receipt",
+    "Text \"Fish and Chips\" on receipt",
+    "Text \"Mushy Peas\" on receipt",
+    "Prices in GBP on receipt",
+    "Dark vinegar stains",
+    "Distinct grease spots",
+    "Classic British pub font"
+  ]
+}

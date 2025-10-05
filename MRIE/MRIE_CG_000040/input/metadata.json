@@ -1,0 +1,24 @@
+{
+  "subtopic": "VFX and Particles",
+  "prompt": "Edit image 1: Apply the dripping/melting effect style from image 2 to the chicken character. Add atmospheric mist, light rays, and scattered particle effects from image 3 to the background, creating a dynamic VFX scene.",
+  "cond_images": [
+    "1.jpeg",
+    "2.png",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748455585888,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit the source image, Image 1 (the chicken character), by applying a prominent dripping and melting visual effect to the lower portion of the chicken's body, consistent with the style observed in Image 2. Ensure the drips flow downwards from the character, maintaining its original white and orange/yellow color palette. Transform the plain background into a dynamic VFX scene by incorporating dense atmospheric mist, particularly concentrated at the bottom and mid-ground, adding strong, visible light rays descending from the top or upper background, and integrating scattered circular particle effects throughout the scene. All background elements should be inspired by the visual style and cool-toned ambiance of Image 3.",
+  "annotator": "winston",
+  "objects": [
+    "Chicken character",
+    "Prominent dripping and melting effect on the lower portion of the chicken's body",
+    "Dense atmospheric mist concentrated at the bottom and mid-ground",
+    "Strong, visible light rays descending from the top or upper background",
+    "Scattered circular particle effects throughout the scene"
+  ],
+  "human_annotation": true
+}

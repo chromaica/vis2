@@ -1,0 +1,26 @@
+{
+  "subtopic": "Cultural or Heritage art",
+  "prompt": "in image 1, create one hand like the hand in image 2 to hold all the statues",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "Cultural heritage artwork",
+  "searchQueryGeneratedTimestamp": 1748293138949,
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1: Integrate a hand, inspired by the illustrative style and perspective of the hand in image 2, positioned at the bottom of the composition to cradle all the depicted figures and statues.",
+  "annotator": "kellycyy",
+  "objects": [
+    "Stylized human figures",
+    "Masks",
+    "Small statues",
+    "A hand, positioned at the bottom of the composition",
+    "The hand cradling the figures and statues",
+    "Illustrative, sketch-like style for the hand",
+    "Vibrant, patterned background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

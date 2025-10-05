@@ -1,0 +1,18 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "An extreme close-up of the human skin surface illustrating pores and hair follicles, emphasizing texture and shades of pink and beige.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Photorealistic extreme close-up of human skin, highlighting intricate pores and fine hair follicles. Emphasize granular texture in natural pink and beige tones.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Human skin",
+    "Pores",
+    "Fine hair follicles",
+    "Granular texture",
+    "Pink tones",
+    "Beige tones"
+  ]
+}

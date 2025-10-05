@@ -1,0 +1,20 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Cultural or Heritage art",
+  "prompt": "Recover the scene of the roman ruins with a prophet",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate an artwork depicting an ancient Roman ruin scene, using the distinct architectural outlines from image 1 on the left and right as prominent, crumbling stone structures. Position a solitary prophet figure within the central area of these ruins, surrounded by the scattered debris and fallen stones indicated by image 1. Emphasize the weathered textures of the stone to 'recover' and detail the historical setting.",
+  "annotator": "Johnny",
+  "objects": [
+    "Ancient Roman ruin scene",
+    "Prominent, crumbling stone structure on the left (using image 1 outline)",
+    "Prominent, crumbling stone structure on the right (using image 1 outline)",
+    "Solitary prophet figure in the central area",
+    "Scattered debris (indicated by image 1)",
+    "Fallen stones (indicated by image 1)"
+  ]
+}

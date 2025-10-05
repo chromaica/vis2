@@ -1,0 +1,25 @@
+{
+  "task": "MRIE",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Place the logo in the second image on the pink police car in the first image. Then, change the title under the logo to 'gpt-o4' and place that edited logo to the black SUV. finally, crop the third image such that it only contains the response from the AI, and place it on the left side of the pink driver in the third section of the first image.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit Image 1 using elements from Image 2 and Image 3.\n\nFirst, take the entire logo graphic from Image 2, including the 'ChatGPT-4o' text, and place it clearly visible on the front door of the pink police car in the upper section of Image 1.\n\nNext, modify the text under the logo from Image 2 to 'gpt-o4'. Place this newly edited 'gpt-o4' logo, including the spiral icon, clearly visible on the front door of the black SUV, also in the upper section of Image 1.\n\nFinally, crop Image 3 to isolate only the AI's response text bubble, which states '9.11 is larger than 9.9.'. Place this cropped text bubble on the left side of the pink driver in the bottom section of Image 1.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Pink police car",
+    "Black SUV",
+    "Nick Fury",
+    "Pink driver",
+    "City street and buildings",
+    "ChatGPT-4o logo graphic (including spiral icon and 'ChatGPT-4o' text) on the pink police car's front door",
+    "gpt-o4 logo graphic (including spiral icon and 'gpt-o4' text) on the black SUV's front door",
+    "AI's response text bubble stating '9.11 is larger than 9.9.' on the left side of the pink driver"
+  ],
+  "human_annotation": true
+}

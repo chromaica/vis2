@@ -1,0 +1,24 @@
+{
+  "subtopic": "Software interfaces",
+  "prompt": "Create a version of this email client that looks like it's built entirely from LEGO bricks, with studs on all surfaces and blocky, colorful UI elements.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "https://wallpapers.com/images/hd/gmail-inbox-interface-screenshot-9ewink39crv5iag0.jpg",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate an image of the email client shown in `image 1`, entirely reimagined as if constructed from LEGO bricks. All components, including the window frame, background, and every UI element, must exhibit the distinctive appearance of interconnected LEGO bricks, featuring visible studs on all flat surfaces. The interface should be blocky and vibrant, with UI elements such as the 'Compose' button (on the left sidebar), the Gmail logo (top left), the search bar, all navigation icons (on the left sidebar and top right), and the email list entries (in the main content area) all rendered as colorful, chunky LEGO constructions. Maintain the original layout and content as depicted in `image 1` while transforming it into a cohesive LEGO build.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "LEGO-style email client window frame",
+    "LEGO-style email client background",
+    "LEGO 'Compose' button (on the left sidebar)",
+    "LEGO Gmail logo (top left)",
+    "LEGO search bar",
+    "LEGO left sidebar navigation icons",
+    "LEGO top right navigation icons",
+    "LEGO email list entries (in the main content area)",
+    "LEGO Inbox section/tab",
+    "LEGO Primary/Social/Promotions/Updates tabs"
+  ]
+}

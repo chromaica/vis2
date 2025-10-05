@@ -1,0 +1,22 @@
+{
+  "subtopic": "Medical images",
+  "prompt": "Edit image 1, a hand X-ray. Add a surgical fixation plate with screws to one of the hand bones, similar to the hardware seen in image 2. Adjust the radiographic density and contrast of the bones and soft tissue in image 1 to match the overall appearance of the chest X-ray in image 3.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749229163258,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "P",
+  "prompt_refined": "Edit the provided hand X-ray (image 1). Add a photorealistic surgical fixation plate with screws onto one of the hand bones. The style and appearance of this hardware should closely resemble the fixation plate and screws visible in the ankle X-ray (image 2). Simultaneously, adjust the radiographic density and contrast of all bone structures and soft tissues in image 1 to match the overall grayscale appearance and intensity of the chest X-ray (image 3).",
+  "annotator": "boris",
+  "objects": [
+    "Hand bones with radiographic appearance matching chest X-ray (image 3)",
+    "Soft tissues with radiographic appearance matching chest X-ray (image 3)",
+    "Surgical fixation plate on a hand bone, matching style of image 2",
+    "Screws for the fixation plate, matching style of image 2"
+  ]
+}

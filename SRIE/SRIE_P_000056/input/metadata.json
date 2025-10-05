@@ -1,0 +1,22 @@
+{
+  "task": "SRIE",
+  "topic": "P",
+  "subtopic": "Medical images",
+  "prompt": "Modify image 1 to reduce wrinkles and dryness, applying the smoother, youthful texture seen in the reference for improved skin condition and photorealistic appearance.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Reduce the visible wrinkles and dryness across the skin surface in image 1 by applying the smoother, youthful, and hydrated skin texture observed in image 2 (reference image). The final output should maintain a photorealistic appearance, reflecting an improved skin condition.",
+  "annotator": "nimajamali",
+  "objects": [
+    "Skin surface",
+    "Smoother skin texture",
+    "Youthful skin appearance",
+    "Hydrated skin appearance",
+    "Photorealistic rendering"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

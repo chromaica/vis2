@@ -1,0 +1,21 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Stylized art",
+  "prompt": "A red sneaker transformed into a rocket blasting through space.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Transform one of the red sneakers from image 1 into a rocket. The rocket, retaining the distinctive red color and white stripe of the original sneaker, is dramatically blasting off into deep space with fiery exhaust plumes from its rear, illuminating a background of shimmering stars and vibrant cosmic dust.",
+  "annotator": "Johnny",
+  "objects": [
+    "rocket (transformed from one red sneaker)",
+    "red color on the rocket",
+    "white stripe on the rocket",
+    "fiery exhaust plumes",
+    "deep space environment",
+    "shimmering stars",
+    "vibrant cosmic dust"
+  ]
+}

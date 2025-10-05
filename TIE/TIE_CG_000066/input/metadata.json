@@ -1,0 +1,19 @@
+{
+  "subtopic": "CAD models",
+  "prompt": "Render the CAD model with a matte black finish and a darker, industrial workshop background environment.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751798639775,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1: Transform the CAD model to have a matte black finish and replace the white background with a darker, industrial workshop environment.",
+  "annotator": "edisy",
+  "objects": [
+    "Matte black CAD model",
+    "Darker industrial workshop environment",
+    "White background (should not be present)"
+  ]
+}

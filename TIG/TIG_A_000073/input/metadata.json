@@ -1,0 +1,18 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "oil paintings",
+  "prompt": "A classic oil painting of a ballerina mid-pose, her delicate tutu flourished with light pastel colors and intricate brush details.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a classic oil painting of a ballerina mid-pose, her delicate tutu flourished with light pastel colors and intricate brush details.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Ballerina",
+    "Ballerina in a mid-pose",
+    "Delicate tutu",
+    "Light pastel colors on the tutu",
+    "Intricate brush details",
+    "Classic oil painting style"
+  ]
+}

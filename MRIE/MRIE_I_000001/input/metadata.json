@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "Add two continents to the map in the first image. The first continent, named Appia, should be positioned above Russia and shaped like the object in the second image. The second continent, named Pearia, should be located to the left of Australia and shaped like the object in the third image.",
+  "cond_images": [
+    "1.jpg",
+    "2.png",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the world map in `image 1` by adding two new continents.\n\nThe first new continent, named Appia, should be positioned directly north of Russia and shaped precisely like the object in `image 2` (the Apple logo).\n\nThe second new continent, named Pearia, should be located directly west of Australia, within the Indian Ocean area, and shaped precisely like the object in `image 3` (the pear).\n\nBoth continents should be rendered in a distinct, solid color that blends seamlessly with the existing graphical style of the landmasses on the map.",
+  "annotator": "maxku",
+  "objects": [
+    "World map with existing continents and oceans (from `image 1`)",
+    "Continent Appia positioned directly north of Russia",
+    "Appia shaped precisely like the Apple logo (from `image 2`)",
+    "Appia rendered in a distinct solid color",
+    "Continent Pearia positioned directly west of Australia, within the Indian Ocean area",
+    "Pearia shaped precisely like the pear (from `image 3`)",
+    "Pearia rendered in a distinct solid color",
+    "Labels for Appia and Pearia",
+    "Labels for existing continents, countries, and oceans (e.g., Russia, Australia, Indian Ocean)",
+    "Compass rose"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "In the first image, replace the orange slice with the watermelon slice from the second image, and add the Earth planet from the third image to the sky alongside the other planets.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the provided source image (image 1) as follows:\n1.  Replace the large, central orange slice with the watermelon slice from image 2. Ensure the watermelon slice maintains the identical size, position, and orientation as the original orange slice.\n2.  Add the Earth planet from image 3 to the starry sky. Position the Earth in the upper-right area of the sky, specifically to the right of the existing Moon and below the small red celestial body, ensuring it is clearly visible alongside the other planets (Jupiter, Moon, and the small red planet).",
+  "annotator": "paria",
+  "objects": [
+    "Watermelon slice (large, central)",
+    "Large, central orange slice (should not be present)",
+    "Figure sitting on the watermelon slice",
+    "Starry sky",
+    "Jupiter (large planet on upper-left)",
+    "Moon (large celestial body on upper-right)",
+    "Small red celestial body (upper-center-right)",
+    "Earth planet (in the upper-right area, to the right of the Moon and below the small red celestial body)",
+    "Townscape with buildings, trees, vehicles, and people",
+    "Street light pole"
+  ]
+}

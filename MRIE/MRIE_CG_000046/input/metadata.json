@@ -1,0 +1,29 @@
+{
+  "subtopic": "Object detection visuals",
+  "prompt": "Edit image 1 for object detection challenge: Replace forklift cargo with fish from image 2. Change safety cones into goldfish from image 3. Texture forklift forks with shark teeth from image 4. Add the toilet paper roll from image 5 inside the cab.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg",
+    "4.jpeg",
+    "5.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749067289113,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1:\n1.  Replace the multiple cylindrical cargo objects currently carried by the forklift with multiple instances of the fish from image 2.\n2.  Transform all orange safety cones visible in the scene into instances of the goldfish from image 3.\n3.  Apply the texture and appearance of shark teeth, as seen in image 4, onto the metal forks of the forklift.\n4.  Add the toilet paper roll from image 5 inside the cab of the forklift.",
+  "annotator": "winston",
+  "objects": [
+    "yellow forklift",
+    "driver",
+    "multiple yellow fish carried by the forklift",
+    "multiple goldfish on the ground",
+    "metal forks of the forklift with shark teeth texture",
+    "toilet paper roll inside the forklift cab",
+    "building(s)",
+    "asphalt ground",
+    "another yellow forklift"
+  ]
+}

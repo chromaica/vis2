@@ -1,0 +1,24 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Depth maps",
+  "prompt": "Add rain streaks that fade near the camera.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the source image (image 1) to include falling rain streaks. Ensure the rain streaks are clearly visible in the midground and background, but gradually become less distinct, fainter, or sparser as they extend into the foreground, closest to the camera's perspective. Use image 2 as a depth map to accurately inform the spatial density and visibility of the rain, ensuring the fading effect is proportional to distance from the camera.",
+  "annotator": "nimajamali",
+  "objects": [
+    "Park bench",
+    "Trees",
+    "Green foliage",
+    "Paved ground",
+    "Falling rain streaks (clearly visible in midground)",
+    "Falling rain streaks (clearly visible in background)",
+    "Fading rain streaks (in foreground)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

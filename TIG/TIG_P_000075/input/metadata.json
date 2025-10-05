@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Medical images",
+  "prompt": "A panoramic illustration of a human digestive system in vibrant colors, showing labeled organs from esophagus to intestines.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A panoramic, high-resolution photorealistic anatomical rendering of the complete human digestive system. From the esophagus down to the large and small intestines, all major organs are distinctly rendered in vibrant colors and clearly labeled with legible text, presented in a comprehensive view.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Esophagus",
+    "Stomach",
+    "Small intestines",
+    "Large intestines",
+    "Liver",
+    "Gallbladder",
+    "Pancreas",
+    "Rectum",
+    "Anus",
+    "Legible text labels"
+  ]
+}

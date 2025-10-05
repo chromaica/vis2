@@ -1,0 +1,22 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "create a colored versions of this image",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 by adding realistic, natural colors to transform it from grayscale to a full-color photorealistic image. Colorize the woman's skin, hair, and light dress, as well as the wooden stool, the surrounding grass, and the background, while maintaining the existing lighting and shadow details.",
+  "annotator": "theblackcat",
+  "objects": [
+    "woman's skin",
+    "woman's hair",
+    "light dress",
+    "wooden stool",
+    "surrounding grass",
+    "background",
+    "existing lighting patterns",
+    "existing shadow details"
+  ]
+}

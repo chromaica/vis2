@@ -1,0 +1,27 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Object detection visuals",
+  "prompt": "Compare each detected car in the source (regardless of color) with the reference car and flag mismatches by outlining them in yellow.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, which displays multiple parked cars on a street. Using image 2, a blue Peugeot 206, as the sole reference car model, identify all cars in image 1. For every car in image 1 that does not match the model of the Peugeot 206 in image 2, draw a clear yellow outline around it. Ensure the comparison is based purely on the car's model, ignoring its color.",
+  "annotator": "nimajamali",
+  "objects": [
+    "street with parked cars",
+    "buildings lining the street",
+    "white Peugeot 206 car",
+    "white car with yellow outline (front left)",
+    "silver hatchback car with yellow outline",
+    "white hatchback car with yellow outline",
+    "purple/grey sedan car with yellow outline",
+    "dark sedan car with yellow outline",
+    "distant car with yellow outline",
+    "clear yellow outlines around non-Peugeot 206 car models"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

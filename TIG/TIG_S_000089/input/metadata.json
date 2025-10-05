@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": "Design a botanical garden website with watercolor flower illustrations, nature photography galleries, seasonal bloom calendars, interactive plant identification tools, and event booking systems",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a high-resolution screenshot of a modern botanical garden website homepage. The design is elegant, clean, and infused with watercolor flower illustrations.\n\n*   **Header:** A top navigation bar features a botanical garden logo on the left and menu links (e.g., Home, Gardens, Calendar, Identify, Events) on the right.\n*   **Hero Section:** A large hero banner prominently displays a beautiful, full-width watercolor illustration of various blooming flowers and lush greenery.\n*   **Content Sections:** Below the hero, arrange two main content blocks side-by-side.\n    *   **Left Block:** A \"Nature Photography Galleries\" section with a grid of high-quality nature photographs (plants, landscapes).\n    *   **Right Block:** A \"Seasonal Bloom Calendar\" displayed as a clear monthly calendar widget or an organized list of blooms.\n*   **Interactive Tools & Events:** Further down, include a dedicated section for an \"Interactive Plant Identification Tool,\" depicted as a prominent search bar with an image upload option. Below or alongside it, a clear \"Event Booking System\" represented by a distinct 'Book an Event' button or upcoming events listing.\n\nThe website's aesthetic should be light, inviting, and consistent with the soft, vibrant style of watercolor botanical art, suitable for a professional website screenshot.",
+  "annotator": "theblackcat",
+  "objects": [
+    "modern botanical garden website homepage screenshot",
+    "watercolor flower illustrations",
+    "website header navigation bar",
+    "botanical garden logo on the left",
+    "website menu links on the right",
+    "full-width hero banner with watercolor flower and greenery illustration",
+    "\"Nature Photography Galleries\" section with grid of nature photographs on the left",
+    "\"Seasonal Bloom Calendar\" widget or list on the right",
+    "\"Interactive Plant Identification Tool\" search bar with image upload option",
+    "\"Event Booking System\" button or upcoming events listing"
+  ]
+}

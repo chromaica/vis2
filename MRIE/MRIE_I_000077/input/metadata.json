@@ -1,0 +1,27 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "Edit image 1's UI flowchart. Replace the placeholder icons and wireframe elements with higher fidelity graphics. Adopt the clean, modern UI style and subtle icon design from image 2. Incorporate the vibrant color palette and distinct, filled icon style from image 3 for interactive buttons and key information indicators, enhancing the information graphics.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, which displays a UI flowchart for a new profile, depicted as multiple wireframe phone screens. Convert all low-fidelity wireframe components, including input fields, labels, the placeholder image icon within screens, and the central profile icon, into high-fidelity UI graphics.\n\nAdopt the clean, modern aesthetic, crisp typography, and subtle, thin-line icon design from image 2 for the overall user interface elements, such as general navigation icons, search bars, and text displays.\n\nSpecifically, for interactive buttons (e.g., the 'Button' elements within each phone screen) and any key information indicators that enhance the information graphics (such as progress trackers, status icons, or prominent data labels), incorporate the vibrant color palette and distinct, filled icon style exemplified in image 3.",
+  "annotator": "maxku",
+  "objects": [
+    "Multiple high-fidelity UI phone screens",
+    "High-fidelity input fields",
+    "High-fidelity UI labels and text displays",
+    "High-fidelity image placeholders within screens",
+    "High-fidelity central profile icon",
+    "High-fidelity interactive buttons with vibrant color and filled icon style",
+    "High-fidelity general navigation icons with thin-line design",
+    "High-fidelity search bars",
+    "Progress trackers with vibrant color and filled icon style",
+    "UI flow arrows connecting the screens"
+  ],
+  "human_annotation": true
+}

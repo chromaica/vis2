@@ -1,0 +1,24 @@
+{
+  "subtopic": "CAD models",
+  "prompt": "Apply a realistic brushed steel material finish to the metal components of the CAD model.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751798949335,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1. Apply a realistic brushed steel material finish to the metal components of the caster wheel CAD model, specifically the rectangular mounting plate at the top, the U-shaped bracket/fork, and the axle bolt holding the wheel.",
+  "annotator": "edisy",
+  "objects": [
+    "caster wheel CAD model",
+    "rectangular mounting plate at the top",
+    "U-shaped bracket/fork",
+    "axle bolt",
+    "wheel",
+    "holes in the mounting plate"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

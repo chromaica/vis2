@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Create a new image where the individual from the second image is seamlessly integrated into the scene of the first image, as though they are visiting that location. Preserve the person's original appearance and attire, and ensure they are naturally positioned within the context of the first image's setting.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic image by seamlessly integrating the individual from image 2 into the street scene of image 1. The man should be naturally positioned on the foreground or midground of the paved street, appearing as if he is visiting the location. Preserve his original appearance, including his suit, bow tie, and glasses.",
+  "objects": [
+    "Man in suit, bow tie, and glasses (on foreground/midground of paved street)",
+    "Paved street",
+    "Buildings with colorful facades",
+    "Street lamps",
+    "Palm trees",
+    "Golden dome building",
+    "Ornate star pattern on paved street",
+    "Shopfronts/Outdoor seating",
+    "Sky"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

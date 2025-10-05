@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "Modify the city map in the second image according to the style of the first image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 2 to transform its current abstract lines and shapes into a city map. Adopt the distinct visual style of image 1, including its flat graphic design, vibrant color palette, and simplified illustrative representation of urban elements such as roads, buildings, trees, and vehicles.",
+  "annotator": "Johnny",
+  "objects": [
+    "Roads",
+    "Houses",
+    "Multi-story buildings",
+    "Trees",
+    "Truck",
+    "Airplane",
+    "Sailboat",
+    "Bicycle with rider",
+    "Water bodies",
+    "Green hills"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Generate a screenshot of a weather forecast app that uses the weather condition icons from the first image and the layout and typography from the second image.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a mobile app screenshot for a weather forecast application. The user interface layout, typography, and general aesthetic, including color palette and rounded elements, should be replicated from image 2. All weather condition icons displayed within the application, such as the main current weather icon, hourly forecast icons, and other city weather icons, must use the distinct flat, stylized icon design exemplified in image 1.",
+  "annotator": "paria",
+  "objects": [
+    "Mobile app screenshot",
+    "Weather forecast application user interface",
+    "Mobile app frame with rounded corners",
+    "Prominent current temperature display",
+    "Weather condition icons with a flat, stylized design",
+    "Hourly weather forecast section with individual cards",
+    "Current weather details section (e.g., precipitation, humidity, wind speed)",
+    "Other cities weather forecast section",
+    "Purple/blue gradient color palette",
+    "Rounded UI elements throughout the application"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

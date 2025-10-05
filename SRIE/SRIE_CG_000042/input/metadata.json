@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "3D renders",
+  "prompt": "Transform the lighting of the city to match the night neon cityscape in the reference.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the futuristic cityscape, to adopt the nocturnal, neon lighting style depicted in image 2. The entire scene in image 1 should transition from its current daylight appearance to a dark night with prominent artificial lights, reflecting the saturated blue, purple, and pink/red hues and the intense glow characteristic of image 2's urban environment.",
+  "annotator": "nimajamali",
+  "objects": [
+    "futuristic cityscape",
+    "dark night environment",
+    "prominent artificial lights",
+    "saturated blue neon lighting",
+    "saturated purple neon lighting",
+    "saturated pink/red neon lighting",
+    "intense glow from artificial lights",
+    "towering futuristic skyscrapers",
+    "elevated futuristic highways",
+    "water reflections of city lights"
+  ]
+}

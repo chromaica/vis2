@@ -1,0 +1,26 @@
+{
+  "subtopic": "Depth maps",
+  "prompt": "Edit image 1 by generating its depth map. Populate the scene by adding objects from image 3 (coffee cup, plant) at depth-appropriate locations using the depth map as a guide. Apply a final rendering pass that visually represents the depth map, using the blue and grey colors and abstract cyclical concept from image 2 to illustrate depth variations.",
+  "cond_images": [
+    "1.jpeg",
+    "2.png",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748455536841,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1: First, generate a precise depth map of the scene. Then, integrate the coffee cup and the plant, as seen in image 3, onto the wooden desk. Position the coffee cup to the left of the existing mouse and the plant slightly behind the mouse, closer to the laptop, ensuring their placement aligns with the generated depth map. Finally, apply a rendering pass to the entire image that visually represents this depth map, using the blue and grey colors and the abstract cyclical concept from image 2 to illustrate the depth variations.",
+  "annotator": "winston",
+  "objects": [
+    "Wooden desk",
+    "White mouse",
+    "Laptop",
+    "Coffee cup to the left of the mouse",
+    "Plant slightly behind the mouse, closer to the laptop",
+    "Depth map visual representation of the scene",
+    "Blue and grey color scheme for depth variations",
+    "Abstract cyclical patterns illustrating depth variations"
+  ]
+}

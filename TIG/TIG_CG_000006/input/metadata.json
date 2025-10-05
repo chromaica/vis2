@@ -1,0 +1,18 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "Game assets",
+  "prompt": "Zombie walk cycle sprite sheet in horror pixel art style, 6 frames, 48x48, muted palette.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Create a pixel art sprite sheet of a zombie walk cycle. It must contain 6 sequential frames, each 48x48 pixels, rendered in a horror pixel art style with a muted color palette.",
+  "annotator": "maxku",
+  "objects": [
+    "Zombie character",
+    "Pixel art style rendering",
+    "Horror aesthetic",
+    "Muted color palette",
+    "Six sequential animation frames",
+    "Sprite sheet layout"
+  ]
+}

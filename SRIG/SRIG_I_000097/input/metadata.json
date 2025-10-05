@@ -1,0 +1,26 @@
+{
+  "subtopic": "Visual instructions and manuals",
+  "prompt": "Based on the provided diagram of a fire extinguisher, create a clear, four-step safety infographic illustrating the P.A.S.S. (Pull, Aim, Squeeze, Sweep) method for operating it correctly.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://cdn.vectorstock.com/i/1000v/07/74/fire-extinguisher-internal-components-diagram-vector-27640774.jpg",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate a clear, four-step safety infographic demonstrating the P.A.S.S. (Pull, Aim, Squeeze, Sweep) method for operating a fire extinguisher. The visual representation of the fire extinguisher within the infographic should align with the design and components illustrated in image 1.\n\nOrganize the infographic into four distinct panels, arranged vertically from top to bottom:\n1.  **Panel 1 (Top):** Illustrate the 'P - Pull' step. Show a hand pulling the safety pin from the handle of the fire extinguisher.\n2.  **Panel 2:** Illustrate the 'A - Aim' step. Depict a person aiming the hose/nozzle of the fire extinguisher towards the base of a small fire.\n3.  **Panel 3:** Illustrate the 'S - Squeeze' step. Show a hand firmly pressing the operating lever/handle of the fire extinguisher.\n4.  **Panel 4 (Bottom):** Illustrate the 'S - Sweep' step. Depict a person sweeping the hose/nozzle from side to side at the base of the fire.\n\nEach panel must include its corresponding P.A.S.S. letter, a concise textual description of the action, and a clear visual illustration.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Four vertically arranged infographic panels",
+    "Fire extinguisher (red body, black handle, black hose)",
+    "P.A.S.S. letters (P, A, S, S)",
+    "Concise textual descriptions of actions (e.g., \"Pull,\" \"Aim,\" \"Squeeze,\" \"Sweep\")",
+    "Hand(s)",
+    "Safety pin",
+    "Fire extinguisher hose/nozzle",
+    "Small fire (at its base)",
+    "Person (or arms/upper body)",
+    "Operating lever/handle of the fire extinguisher"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

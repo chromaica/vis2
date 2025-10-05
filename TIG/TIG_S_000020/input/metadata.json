@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": "Design a mockup for fictional space tourism company site with holographic effects, star field backgrounds, 3D spaceship models, and futuristic UI elements",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a detailed screenshot of a futuristic website interface for a luxury space tourism company. The central display should prominently feature a sleek, 3D spaceship model, set against a deep space starfield background visible through translucent UI elements. Integrate translucent holographic effects throughout the interface, including glowing borders, projected informational panels, and subtle light trails. All UI components should be clean, minimalist, and futuristic, showcasing interactive buttons, data readouts, and navigation elements.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Futuristic website interface",
+    "Sleek, 3D spaceship model (on central display)",
+    "Deep space starfield background",
+    "Translucent UI elements",
+    "Glowing borders",
+    "Projected informational panels",
+    "Subtle light trails",
+    "Interactive buttons",
+    "Data readouts",
+    "Navigation elements"
+  ]
+}

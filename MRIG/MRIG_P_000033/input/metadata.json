@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Generate an image of a faun where the human upper body (head, torso, arms) mirrors the style, and features (e.g., a bearded face with a flute) of the human in the first reference image, and the goat-like lower body matches the fur, hooves, and build of the goat in the second reference image. Ensure a natural transition at the waist. Place the faun dancing in a sunlit forest glade, rendered in a whimsical, painterly style.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate an image of a faun. The faun's upper body (head, torso, arms) should adopt the muscular physique, detailed features, and full beard of the man depicted in image 1. The faun should be holding and playing a flute. The lower body, from the waist down, must seamlessly transition to resemble the sturdy build, shaggy white fur, and distinct hooves of the goat in image 2. The faun is shown dancing gracefully in a brightly sunlit forest glade, with dappled light filtering through the trees. The overall image should be rendered in a whimsical, painterly style, featuring visible brushstrokes and a soft, artistic aesthetic.",
+  "objects": [
+    "Faun",
+    "Muscular upper body on faun",
+    "Full beard on faun",
+    "Goat lower body on faun",
+    "Shaggy white fur on faun's lower body",
+    "Flute",
+    "Faun playing the flute",
+    "Faun dancing gracefully",
+    "Brightly sunlit forest glade with dappled light",
+    "Visible brushstrokes"
+  ]
+}

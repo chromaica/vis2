@@ -1,0 +1,27 @@
+{
+  "task": "MRIE",
+  "topic": "T",
+  "subtopic": "Nutrition Fact",
+  "prompt": "Replace the nutrition fact label in the first image with a label that is calculated based on 1 tbsp per serving size, halfen all values. Then, replace the image in the left side of the jar with the subject in the second image. Finally, replace the jar in the third image with the edited jar. Match the style, but keep the nutrition label clearly visible. ",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "The source image for editing is image 1.\nFirst, modify the nutrition facts label located on the right side of the jar in image 1. Change the 'Serv Size' from '2 tbsp (37g)' to '1 tbsp'. Subsequently, halve all numerical values for nutritional content and percentages listed on the entire nutrition label (e.g., Calories, Total Fat, %DV, Sugars, Protein, etc.). Ensure the modified label remains clearly visible and legible.\nSecond, replace the small illustrative graphic on the lower-left portion of the jar's main label in image 1 (currently showing bread with spread, fruit, and milk) with the isolated image of the small glass jar filled with Nutella and a spoon, as presented in image 2.\nFinally, replace the existing Nutella jar in image 3 (the stylized jar on the yellow background) with the fully edited jar from image 1. The inserted jar must visually integrate and adopt the stylized, flat-design aesthetic of image 3, rather than retaining its original realistic rendering from image 1. The updated nutrition label on the inserted jar must remain clearly visible after this integration.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "stylized Nutella jar",
+    "modified nutrition label (on the jar)",
+    "small glass jar with Nutella and a spoon graphic (on the jar's main label)",
+    "Nutella logo/text (on the jar)",
+    "white jar lid",
+    "yellow circular background",
+    "stylized shadow (underneath the jar)",
+    "bread with spread, fruit, and milk graphic (should not be present)",
+    "original Nutella jar from image 3 (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

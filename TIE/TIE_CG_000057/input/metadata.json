@@ -1,0 +1,26 @@
+{
+  "subtopic": "Game assets",
+  "prompt": "Apply a worn and rusty texture to the green tank asset on the right, giving it the appearance of aged metal used in battle.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751797972231,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1: Apply a worn and rusty texture to the green tank asset, which is located in the top-right grid section and positioned on the right within that section. This modification should give it the appearance of aged metal used in battle.",
+  "annotator": "edisy",
+  "objects": [
+    "Green tank asset with worn and rusty texture (located in the top-right grid section, positioned on the right)",
+    "Food stall with red and purple striped canopy",
+    "Food stall with green canopy",
+    "Collection of gems and mining tools",
+    "Green tank asset (located in the top-right grid section, positioned on the left)",
+    "Golden and white/grey mechanical assets",
+    "Purple and white/grey crystal-like assets",
+    "Purple and white/grey plant-like assets"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "A receips about buying 'Martian Red Fruit' that cost 90 million dollars from the shop 'Dr Who Garage Sale'",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A screenshot of a digital receipt, displaying the purchase of 'Martian Red Fruit' for 90 million dollars from the 'Dr Who Garage Sale'. The receipt has a retro-futuristic sci-fi video game interface style.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Digital receipt",
+    "Screenshot visual framing",
+    "Text: \"Martian Red Fruit\"",
+    "Text: \"90 million dollars\"",
+    "Text: \"Dr Who Garage Sale\"",
+    "Retro-futuristic design elements",
+    "Sci-fi interface elements",
+    "Video game user interface elements",
+    "Receipt title (e.g., \"RECEIPT\" or \"TRANSACTION RECORD\")",
+    "Itemized list entry for \"Martian Red Fruit\""
+  ]
+}

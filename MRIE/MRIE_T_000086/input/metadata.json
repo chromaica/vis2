@@ -1,0 +1,30 @@
+{
+  "subtopic": "Memes",
+  "prompt": "Edit image 1 (Gandalf meme) by creating a two-panel meme layout inspired by Images 2 and 3, placing image 1 at the top. Add a reaction panel below image 1, like Image 2's kitten. Reformat the text to use a relatable 'When...' structure from Image 4, splitting text across panels like Image 3. Include a text element in the style of Image 5, referencing a specific detail about Gandalf's actions.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg",
+    "4.jpeg",
+    "5.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749711517117,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "T",
+  "prompt_refined": "Edit image 1 to create a two-panel vertical meme layout. Place the content of image 1 in the top panel. For the bottom panel, generate a new reaction image, inspired by the expressive kitten in image 2, depicting a character or creature expressing surprise or frustration. Reformat the meme text using the 'When...' structure from image 4, splitting the text across the two panels like in image 3. The top panel text should be: 'When Gandalf says he'll lead the way and guide you...', and the bottom panel text should be: '...but then makes you walk through all of Middle-earth'. Below the entire two-panel meme, add a separate, smaller text element in the commentary style of text seen in image 5, referencing another specific detail about Gandalf's actions, such as: 'He really does have Eagles on speed dial though.'",
+  "annotator": "winston",
+  "objects": [
+    "Two-panel vertical meme layout",
+    "Top panel containing Gandalf",
+    "Hat (on Gandalf in the top panel)",
+    "Top meme text: \"When Gandalf says he'll lead the way and guide you...\"",
+    "Bottom panel containing a character or creature expressing surprise or frustration",
+    "Bottom meme text: \"...but then makes you walk through all of Middle-earth\"",
+    "Meme text formatted with a 'When...' structure split across panels",
+    "Separate text element below the two-panel meme",
+    "Commentary text: \"He really does have Eagles on speed dial though.\"",
+    "Commentary text in a social media style"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "Create a dynamic poster where the word 'IGNITE' is the centerpiece. It should be rendered in bold, striking 3D metallic letters that glow with fiery orange and red hues and emit sparks, all set against a smoky, dark, atmospheric background.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A dynamic poster featuring the word 'IGNITE' as the central focus. The letters are rendered in bold, striking 3D metallic typography, intensely glowing with vibrant fiery orange and red hues. Bright, hot sparks burst and dissipate from the letters. The background is a dark, smoky, and atmospheric void, with the word dominating the center of the frame.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "The word 'IGNITE'",
+    "Bold, striking 3D metallic typography",
+    "Vibrant fiery orange hues",
+    "Vibrant fiery red hues",
+    "Intense glow",
+    "Bright, hot sparks",
+    "Dark background",
+    "Smoky background",
+    "Atmospheric void background",
+    "The word 'IGNITE' dominating the center of the frame"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

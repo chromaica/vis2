@@ -1,0 +1,24 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Transform a medieval knight\u2019s plate armor from the first reference image into a futuristic exosuit. Retain the crested helmet and embossed details, but integrate the LED panels, mechanical joints, and lightweight carbon-fiber aesthetics from the second reference image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic image of a futuristic exosuit that synthesizes elements from two reference images. The exosuit should largely maintain the silhouette and robust full plate design of the medieval armor from image 1, specifically incorporating its crested helmet and retaining decorative embossed patterns seen on its pauldrons. Simultaneously, integrate the exposed mechanical joints, lightweight carbon-fiber aesthetic, and glowing blue LED panel accents, particularly around the shoulders and spine, as observed in the futuristic exosuit from image 2.",
+  "objects": [
+    "Futuristic exosuit",
+    "Silhouette resembling medieval armor",
+    "Robust full plate design",
+    "Crested helmet",
+    "Decorative embossed patterns on pauldrons",
+    "Exposed mechanical joints",
+    "Lightweight carbon-fiber aesthetic",
+    "Glowing blue LED panel accents around shoulders",
+    "Glowing blue LED panel accents around spine"
+  ]
+}

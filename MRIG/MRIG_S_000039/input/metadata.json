@@ -1,0 +1,24 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": "Generate a hotel reservation website called ImagenHub Booking that uses the booking form layout and calendar interface from the first image, and the color scheme from the second image.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a website screenshot for 'ImagenHub Booking', a hotel reservation platform. The screenshot must prominently feature a centrally located booking form that replicates the layout, structure of tabs (e.g., Hotels, Homes & Apts), input fields (destination, check-in/out dates, guests), and the 'Search' button as seen in image 1. For the date selection, incorporate the visual style of the date input fields and their implied calendar interface from image 1. The overall website design should integrate the color scheme from image 2, specifically utilizing its muted dark olive green, light sage green, medium olive green, light peach, and very light beige tones across the UI elements, background, and text.",
+  "annotator": "paria",
+  "objects": [
+    "'ImagenHub Booking' website screenshot",
+    "Centrally located booking form",
+    "Booking form with layout and structure replicating Image 1",
+    "Booking form tabs (e.g., Hotels, Homes & Apts)",
+    "Booking form input fields (destination, check-in/out dates, guests)",
+    "'Search' button",
+    "Date selection fields with implied calendar interface (visual style from Image 1)",
+    "Website design incorporating the color scheme from Image 2 (muted dark olive green, light sage green, medium olive green, light peach, and very light beige tones) across UI elements, background, and text"
+  ],
+  "human_annotation": true
+}

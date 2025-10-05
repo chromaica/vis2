@@ -1,0 +1,27 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "Update the login screen (left image) with a calming green gradient background and icon placeholders for username and password; refresh the sessions overview (middle image) with cooler blue-purple tones, new session names, and a search bar below the greeting; and redesign the session player (right image) with a minimalist play/pause button, a detailed progress bar, and a soft lavender background while keeping the session list visible.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, which displays three mobile app screens for an information graphics application.\n\n1.  **Login Screen (leftmost panel):** Change the background from its current blue-purple gradient to a calming green gradient. Add distinct icon placeholders immediately to the left of the existing 'username' and 'password' input fields.\n2.  **Sessions Overview Screen (middle panel):** Update the overall color scheme from the current warm (orange/yellow/red) tones to cooler blue-purple tones, applying this change to the top banner gradient and the session cards. Replace the existing session names (e.g., 'Calm day', 'Focus') with new, distinct session names. Insert a search bar directly below the 'Hi, Amelia!' greeting and introductory text.\n3.  **Session Player Screen (rightmost panel):** Redesign the background from its current red-orange gradient to a soft lavender. Replace the current play/pause control with a minimalist play/pause button. Enhance the existing progress bar (currently displaying '12:04') into a more detailed progress bar. Ensure the 'Sessions' list located at the bottom of the screen remains clearly visible and maintains its current layout.",
+  "annotator": "Johnny",
+  "objects": [
+    "Login screen with calming green gradient background",
+    "Username input field with left icon placeholder",
+    "Password input field with left icon placeholder",
+    "Sessions overview screen with cooler blue-purple color scheme",
+    "Search bar below 'Hi, Amelia!' greeting",
+    "Session cards with distinct new names",
+    "Session player screen with soft lavender background",
+    "Minimalist play/pause button",
+    "Detailed progress bar",
+    "Sessions list at the bottom of the session player screen"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

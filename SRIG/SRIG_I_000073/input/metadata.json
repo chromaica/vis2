@@ -1,0 +1,25 @@
+{
+  "subtopic": "Icons and symbols",
+  "prompt": "Generate an isolated icon representing a data network node with flowing lines. Use the distinct comic-angular style, thick outlines, and green/white flat color palette from the reference image.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://cdn.dribbble.com/userupload/13326562/file/still-2374fff183e6199a58de77d41a0b3ecc.gif?resize=400x0",
+  "searchQueryGenerated": "Flat design information graphics icons set white background",
+  "searchQueryGeneratedTimestamp": 1749925803734,
+  "promptGeneratedTimestamp": 1749925839536,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate an isolated icon depicting a data network node with dynamic, flowing lines. The icon must adhere to the distinct comic-angular style, featuring prominent thick black outlines and a flat color palette of teal green and white, as exemplified by the icons in image 1.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "isolated icon",
+    "data network node",
+    "dynamic lines",
+    "flowing lines",
+    "thick black outlines",
+    "teal green color",
+    "white color"
+  ]
+}

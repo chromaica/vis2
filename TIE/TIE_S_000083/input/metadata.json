@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Change the interface theme to a dark mode with neon green highlights for active elements.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Transform the entire user interface of the software application shown in image 1 into a dark mode theme. This includes changing the background colors of all application windows, panels (such as the 'System Navigator' on the left and 'Message Log' at the bottom), menu bars at the top, and toolbars (both top and within individual window headers) to dark shades (e.g., dark grey or black). Update all visible text elements, including menu items, tree view labels, and status bar text, to a light, contrasting color (e.g., white or light grey). Apply neon green highlights to all active or selected UI elements, specifically for selected items in the 'System Navigator' tree, active tab headers of windows, and hovered or focused buttons within the toolbars. While the window backgrounds for the plots (e.g., the heat maps in the top-left and bottom-left windows, and the 3D model in the bottom-right window) should transition to dark, ensure the color schemes used for the visualized data itself (e.g., the blue-to-red gradients, the 3D model's materials) remain unchanged to preserve data representation.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Dark mode software application UI",
+    "Dark mode System Navigator panel on the left",
+    "Dark mode Message Log panel at the bottom",
+    "Dark mode menu bars at the top",
+    "Dark mode toolbars (top and within window headers)",
+    "Multiple application windows with dark backgrounds",
+    "Heat map plots with original data color schemes",
+    "3D model visualization with original materials",
+    "Light-colored text elements (e.g., menu items, tree view labels, status bar text)",
+    "Neon green highlights on active/selected UI elements"
+  ]
+}

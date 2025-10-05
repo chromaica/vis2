@@ -1,0 +1,17 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "A segmentation map of a NBA player slamming a basketball into a hoop, in the NBA court. View from the audience seats.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a segmentation map of an NBA player slamming a basketball into a hoop on an NBA court, with the view from the audience seats.",
+  "annotator": "maxku",
+  "objects": [
+    "NBA player",
+    "basketball",
+    "basketball hoop",
+    "NBA court",
+    "audience seats"
+  ]
+}

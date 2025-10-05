@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "Transform the game screens into a vibrant underwater world with coral reefs and colorful marine life interacting with blocks.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Transform the content displayed within all three mobile game screens into a vibrant underwater world.\n\nOn the left screen, which features colorful square blocks, create a lively coral reef as the background environment, with various colorful fish and marine life swimming around and interacting with these square blocks.\n\nIn the central screen, containing circular bubbles, render a dynamic, shallower underwater scene with swaying sea plants and small schools of bright fish actively moving amongst the bubbles. Convert the existing landscape at the bottom into a sandy or rocky seabed.\n\nFor the right screen, displaying hexagonal blocks, depict a deeper ocean setting with more intricate coral structures and larger marine creatures, such as sea turtles or rays, appearing to glide past and around the hexagonal blocks.\n\nEnsure the overall lighting and color palette within each screen reflect a rich and immersive aquatic environment.",
+  "annotator": "cwhsu",
+  "objects": [
+    "colorful square blocks on the left screen",
+    "lively coral reef on the left screen",
+    "colorful fish and marine life on the left screen",
+    "circular bubbles on the central screen",
+    "swaying sea plants on the central screen",
+    "small schools of bright fish on the central screen",
+    "sandy or rocky seabed on the central screen",
+    "hexagonal blocks on the right screen",
+    "intricate coral structures on the right screen",
+    "sea turtles or rays on the right screen"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "edit out all the flower vase from the image except the one thats on the leftmost one",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 to remove all flower vases except the leftmost one. Reconstruct the background to seamlessly fill the vacated areas, matching the existing wall and floor textures.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Leftmost flower vase with purple orchids",
+    "Tiled wall",
+    "Tiled floor",
+    "Wall reflections",
+    "Floor reflections",
+    "Second flower vase from left (should not be present)",
+    "Third flower vase from left (should not be present)",
+    "Fourth flower vase from left (should not be present)",
+    "Fifth flower vase from left (should not be present)",
+    "Sixth flower vase from left (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

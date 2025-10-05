@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "Edit image 1, a tactical map with various mech icons. Add a head icon on the right side of the green mech icons with the stylized vector mech head from image 2. Add a new unit icon to the top left map based on the detailed miniature figure style of the Gundam in image 3.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit `image 1`, a tactical map featuring various mech unit icons and terrain.\n1.  Insert a new mech head icon into the empty grid cell located immediately to the right of the cluster of three green Zaku-style mech icons (approximately grid coordinate [18,6]). This new icon should be a smaller, top-down view representation of the stylized vector mech head from `image 2`, maintaining its distinct angular and colorful art style.\n2.  Add a new mech unit icon into an empty grid cell in the top-left quadrant of the map (approximately grid coordinate [3,2]). This icon should depict a distinct mech unit rendered in the highly detailed, realistic miniature figure style, similar to the visual quality and rendering of the Gundam model shown in `image 3`, and scaled appropriately to fit the map grid.",
+  "annotator": "maxku",
+  "objects": [
+    "Tactical map grid",
+    "Green forested terrain",
+    "Blue water bodies",
+    "Various existing mech unit icons (e.g., Gundam head, Zaku-style, pink blob, dinosaur-like, yellow mech)",
+    "Volcanic terrain features",
+    "Grey rectangular structure icon",
+    "New stylized vector mech head icon (from `image 2`'s style), positioned to the right of the three green Zaku-style mech icons.",
+    "New highly detailed, realistic miniature-style mech unit icon (similar to the Gundam model in `image 3`), positioned in the top-left quadrant."
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "A patchwork collage of colorful feathers with interlaced swirling water patterns, giving an illusion of motion.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "An artwork of a vibrant patchwork collage of intricate, colorful feathers, dynamically interlaced with fluid, translucent swirling water patterns, creating a strong illusion of continuous motion.",
+  "annotator": "cwhsu",
+  "objects": [
+    "artwork",
+    "patchwork collage",
+    "intricate feathers",
+    "colorful feathers",
+    "water patterns",
+    "fluid water patterns",
+    "translucent water patterns",
+    "swirling water patterns"
+  ],
+  "human_annotation": true
+}

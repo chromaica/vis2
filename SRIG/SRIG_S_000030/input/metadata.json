@@ -1,0 +1,31 @@
+{
+  "subtopic": "Websites",
+  "prompt": "Generate a photorealistic screenshot of a minimalist dark-themed website showcasing Google Glass. Match the clean typography, structured layout composition, and overall aesthetic inspired by the reference image.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://fireart.studio/wp-content/uploads/2020/09/screenshot-1060.jpg.webp",
+  "searchQueryGenerated": "High resolution modern website screenshot examples",
+  "searchQueryGeneratedTimestamp": 1749426516076,
+  "promptGeneratedTimestamp": 1749426643553,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a photorealistic screenshot of a minimalist dark-themed website, meticulously designed to showcase Google Glass. The website's visual style, including its clean sans-serif typography, high-contrast black and white color palette, and structured layout composition, must be directly inspired by image 1.\n\nPosition Google Glass as the prominent hero product image, angled diagonally across the left-center section of the screen, mirroring the device's placement in image 1. To its immediate right, display a large product title (e.g., 'Google Glass Pro'), a price, and a star rating. Below these details, include a concise product description text block. Further below the description, arrange three smaller, square thumbnail images of Google Glass from different perspectives. A 'SHOP' call-to-action button should be positioned directly below these thumbnails.\n\nEnsure the website features a top navigation bar with a brand logo on the left and distinct menu links (e.g., Home, Features, Store, Contact) along with search and user icons on the far right. Incorporate subtle interface elements in the bottom corners, specifically a page navigation indicator (e.g., '1 - 1') on the left and a media control widget (e.g., play/pause button with a timer) on the right, consistent with the style seen in image 1.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "minimalist dark-themed website with black and white color palette and clean sans-serif typography",
+    "structured website layout",
+    "Google Glass hero image, angled diagonally in left-center",
+    "large product title (e.g., 'Google Glass Pro'), price, and star rating (to the right of Google Glass)",
+    "concise product description text block",
+    "three square Google Glass thumbnail images from different perspectives",
+    "'SHOP' call-to-action button",
+    "top navigation bar with brand logo on the left",
+    "menu links (e.g., Home, Features, Store, Contact), search icon, and user icon on the top right",
+    "page navigation indicator (e.g., '1 - 1') on the bottom left",
+    "media control widget (e.g., play/pause button with timer) on the bottom right"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

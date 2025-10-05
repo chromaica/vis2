@@ -1,0 +1,21 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "Using the reference of a single bacterial cell, generate a microscopy image of a bacterial colony.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic microscopy image of a bacterial colony. The colony should appear as a dense cluster of numerous rod-shaped bacterial cells, replicating the distinctive purplish hue and morphological features, including pili and flagella, of the single bacterium shown in image 1. Maintain a dark background, consistent with the visual style of image 1.",
+  "annotator": "samin",
+  "objects": [
+    "bacterial colony",
+    "dense cluster of numerous rod-shaped bacterial cells",
+    "purplish hue on bacterial cells",
+    "pili on bacterial cells",
+    "flagella on bacterial cells",
+    "dark background",
+    "photorealistic microscopy image style"
+  ]
+}

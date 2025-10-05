@@ -1,0 +1,23 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Medical images",
+  "prompt": "Replace the blue liquid found in this image with colors found in rainbows",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the blue liquid in the test tubes and the flask on the right with a vibrant rainbow of colors.",
+  "annotator": "theblackcat",
+  "objects": [
+    "test tubes",
+    "test tube rack",
+    "flask on the right",
+    "beaker in the foreground",
+    "pipette/stirrer",
+    "liquid with a vibrant rainbow of colors in the test tubes",
+    "liquid with a vibrant rainbow of colors in the flask on the right",
+    "blue liquid (should not be present)",
+    "laboratory background"
+  ]
+}

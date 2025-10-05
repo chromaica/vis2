@@ -1,0 +1,25 @@
+{
+  "subtopic": "Visual instructions and manuals",
+  "prompt": "From the drone pre-flight checklist, create a safety infographic summarising the \"during-flight\" steps with icons and color coding.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "https://pbs.twimg.com/media/DD_ICMOWAAAeB22.jpg",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate a new safety infographic for drone operations. The infographic's visual style, layout, and color scheme must precisely emulate image 1, which depicts pre-flight checks.\n\nThe main title, located at the top-left, should be 'DRONE DURING-FLIGHT SAFETY CHECK'. A prominent graphic icon relevant to drone flight (e.g., a drone flying) should be placed at the top-right, mirroring image 1's overall icon.\n\nThe infographic body should present a vertical list of seven numbered safety steps applicable during drone flight. Each step must replicate image 1's two-column format:\n- The left column, with a light blue background, will contain a concise topic title.\n- The right column, with a gray background, will provide a brief, descriptive instruction.\n\nSpecifically, include the following content for the seven steps, ensuring a small, distinct icon is integrated next to each topic title in the left column:\n1.  **Monitor Battery:** 'Regularly check drone battery levels and plan return/landing accordingly.'\n2.  **Maintain Line of Sight:** 'Always keep the drone visible to the naked eye without aid of binoculars or FPV goggles.'\n3.  **Observe Airspace:** 'Strictly adhere to pre-defined no-fly zones and dynamic restricted airspace regulations.'\n4.  **Weather Changes:** 'Continuously assess changing wind conditions, precipitation, and temperature throughout the flight.'\n5.  **Avoid Obstacles:** 'Actively steer clear of trees, power lines, buildings, other aircraft, and all aerial hazards.'\n6.  **Emergency Protocol:** 'Have a pre-determined emergency landing site and procedure ready before and during flight.'\n7.  **Monitor Telemetry:** 'Regularly review drone altitude, speed, GPS signal strength, and critical flight data.'\n\nAll text should be dark on light backgrounds. Conclude the infographic with social media handles (e.g., 'FOLLOW US ON' and specific icons/handles like '@DRONESAFETY' or similar) at the bottom, mirroring the placement and style of image 1.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Infographic with a white background",
+    "Main title \"DRONE DURING-FLIGHT SAFETY CHECK\" at the top-left, in dark text",
+    "Prominent graphic icon of a flying drone at the top-right",
+    "Seven vertical sections, each representing a safety step",
+    "Each step section divided into a light blue left column and a gray right column",
+    "A numbered circle icon for each of the seven steps",
+    "A distinct small icon next to each topic title in the left column (e.g., battery icon, eye icon, weather icon)",
+    "Dark text for all topic titles (e.g., 'Monitor Battery', 'Maintain Line of Sight') in the left column",
+    "Dark text for all descriptive instructions in the right column (e.g., 'Regularly check drone battery levels and plan return/landing accordingly.')",
+    "Footer text \"FOLLOW US ON\" at the bottom-left",
+    "Social media icons (e.g., Facebook, Twitter) with the text \"@DRONESAFETY\" at the bottom"
+  ]
+}

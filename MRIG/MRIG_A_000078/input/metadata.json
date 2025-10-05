@@ -1,0 +1,24 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Cultural or Heritage art",
+  "prompt": "Create a cultural art piece: a wooden carving inspired by the howling wolf silhouette in image 1. Render it in the traditional style and material of the totem pole from image 2, featuring carved details and color accents.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a new image depicting a cultural wooden carving. The carving should represent a howling wolf, directly drawing its form from the black wolf silhouette shown in image 1. Render this carving in the traditional style and material of the aged wooden totem pole from image 2, incorporating its characteristic deep carved details, stylized features, and distinct red and black paint accents on elements like lips or eyes. The overall appearance should reflect the natural wood texture and weathered aesthetic seen in image 2.",
+  "annotator": "samin",
+  "objects": [
+    "cultural wooden carving",
+    "howling wolf form",
+    "aged wood texture",
+    "weathered aesthetic",
+    "deep carved details",
+    "stylized features",
+    "red paint accents",
+    "black paint accents"
+  ],
+  "human_annotation": true
+}

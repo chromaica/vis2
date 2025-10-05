@@ -1,0 +1,27 @@
+{
+  "subtopic": "Digital arts",
+  "prompt": "In image 1, change the pink giraffe into the animal of image 2 but using the same pink color pattern as the giraffe.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748713322541,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1. Replace the prominent pink giraffe with the meerkat depicted in image 2. The meerkat should be rendered in the exact shade of pink and feature the distinct spotted pattern that characterizes the giraffe in image 1.",
+  "annotator": "kellycyy",
+  "objects": [
+    "Meerkat",
+    "Pink color (on meerkat)",
+    "Spotted pattern (on meerkat)",
+    "Black and gold striped scarf (on meerkat)",
+    "Earrings/piercings (on meerkat)",
+    "Blue and white striped background",
+    "Brown ornate stamp border",
+    "Pink giraffe (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

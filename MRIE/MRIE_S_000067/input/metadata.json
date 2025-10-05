@@ -1,0 +1,30 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "Edit image 1 by replacing the VISA card visual with the MasterCard logo from image 4, scaled and placed in the same card area. Change the currency for the amount from \u201c$450.00\u201d to \u201c\u20ac450.00\u201d using the Euro symbol from image 3. Insert the Target logo from image 2 beneath the 'Pay' blue button. Do not alter any existing text or amounts.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg",
+    "4.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the payment details screen shown in image 1.\n\n1.  Replace the 'VISA' logo on the blue payment card with the 'MasterCard' logo from image 4. Ensure the MasterCard logo is accurately scaled and positioned precisely where the VISA logo currently resides on the card.\n2.  Change the currency symbol on the 'PAY $450.00' button from '$' to the '\u20ac' (Euro) symbol provided in image 3, resulting in the button text 'PAY \u20ac450.00'.\n3.  Insert the Target logo from image 2 centrally below the blue 'PAY' button, scaled proportionally to fit the interface layout.\n\nNo other existing text or numerical values on the screen should be altered.",
+  "annotator": "parnian",
+  "objects": [
+    "White screen interface",
+    "Navigation menu (e.g., \"PAYMENT DETAILS\" highlighted)",
+    "Blue payment card",
+    "MasterCard logo on the blue payment card",
+    "Payment card details (card number, name, expiration date)",
+    "\"Payment Details\" heading",
+    "Payment details form fields (Name on Card, Card Number, Valid Through, CVV)",
+    "\"Previous Step\" text and arrow",
+    "Blue \"PAY\" button",
+    "Euro symbol (\u20ac) on the \"PAY\" button",
+    "Target logo below the \"PAY\" button"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "create a map made entirely of food items arranged on a dining table, where different cuisines represent countries, spice trails show trade routes, and landmarks are built from iconic dishes",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a top-down, hyper-realistic photograph of a conceptual world map meticulously laid out on a polished wooden dining table. The continents and countries are formed entirely from distinct national cuisines: for example, Italy is crafted from pasta and pizza, Japan from sushi, and Mexico from tacos, each region visually separated by its unique food elements. Elegant, winding 'spice trails,' composed of colorful ground spices, whole cinnamon sticks, and dried chilies, delineate historical trade routes across the food map. Key global landmarks are represented by miniature sculptures made from iconic national dishes\u2014such as a tiny croissant Eiffel Tower, a sushi Great Wall, or a baklava pyramid. The scene is evenly lit to showcase the intricate details and vibrant textures of the edible geography.",
+  "annotator": "theblackcat",
+  "objects": [
+    "conceptual world map",
+    "polished wooden dining table",
+    "continents formed from distinct national cuisines",
+    "countries formed from distinct national cuisines",
+    "spice trails",
+    "colorful ground spices",
+    "whole cinnamon sticks",
+    "dried chilies",
+    "miniature sculptures of global landmarks",
+    "croissant Eiffel Tower"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "subtopic": "Branding and visual identity",
+  "prompt": "Based on the old logo of \"Korean Air\", generate a modernised corporate logo, while maintaining the korean and aviation context in the typography and logo design.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTVUZd5-bBENVHg2Yck2ycon7Bc-mLDpdSZQ&s",
+  "promptGeneratedTimestamp": 1750504087776,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "T",
+  "prompt_refined": "Generate a modernized corporate logo for \"Korean Air\". Based on the design and elements of image 1, update the typography to a sleek, contemporary font suitable for an airline. Redesign the red and blue Taegeuk symbol from image 1 into a simplified, abstract, and modern form that subtly conveys both Korean identity and aviation. The final logo should be clean, minimalist, and reflect a modern corporate identity.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "\"Korean Air\" text",
+    "Sleek, contemporary typography for the text",
+    "Redesigned red and blue Taegeuk symbol",
+    "Simplified form for the Taegeuk symbol",
+    "Abstract form for the Taegeuk symbol",
+    "Modern style for the Taegeuk symbol",
+    "Taegeuk symbol subtly conveying Korean identity",
+    "Taegeuk symbol subtly conveying aviation",
+    "Clean and minimalist logo design"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

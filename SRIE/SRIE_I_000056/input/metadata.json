@@ -1,0 +1,20 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "Use the satellite imagery colors for this road map",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the road map, to apply the color palette of image 2, the satellite image. Transform the existing light blue water features in image 1 to the deep blue of the ocean found in image 2. Change the dark grey and blue land areas and city blocks in image 1 to the earthy brown and tan hues of the landmass in image 2. Finally, recolor the bright road lines in image 1 to a prominent but naturalistic light tone, such as off-white or light grey, consistent with bright features seen in satellite imagery, ensuring they remain clearly visible.",
+  "annotator": "Johnny",
+  "objects": [
+    "Deep blue water features",
+    "Earthy brown land areas",
+    "Tan city blocks",
+    "Light-toned road lines"
+  ],
+  "human_annotation": true
+}

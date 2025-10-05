@@ -1,0 +1,17 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "VFX and Particles",
+  "prompt": "A meteor impact effect, with bright orange-red streaks, debris scattering in all directions, and ground cracks forming in a stylized low-poly environment.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate an image depicting a meteor impact scene, featuring bright orange-red energy streaks, debris scattering radially outwards from the central point, and extensive ground cracks emanating from the impact site, all rendered in a stylized low-poly art style.",
+  "annotator": "maxku",
+  "objects": [
+    "meteor impact scene",
+    "bright orange-red energy streaks",
+    "debris scattering radially outwards from the central point",
+    "extensive ground cracks emanating from the impact site",
+    "stylized low-poly art style"
+  ]
+}

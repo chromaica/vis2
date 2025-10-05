@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "The surface of Mars under a pink-hued sunrise, showcasing its rocky terrain and dust-filled atmosphere.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A photorealistic wide shot of the Martian surface at sunrise. The sky is bathed in a distinct pink hue. The foreground and midground prominently feature rugged, rocky terrain with diverse rock formations. A dense, reddish-brown dust fills the atmosphere, creating a hazy, diffuse visibility.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Martian surface",
+    "Sunrise lighting",
+    "Sky with distinct pink hue",
+    "Rugged, rocky terrain in foreground",
+    "Rugged, rocky terrain in midground",
+    "Diverse rock formations",
+    "Dense, reddish-brown atmospheric dust",
+    "Hazy, diffuse visibility"
+  ],
+  "human_annotation": true
+}

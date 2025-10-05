@@ -1,0 +1,23 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "replace the overhang cascading plants and ferns beside the buildings into trees with branches, in photorealistic style",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "make sure the tree grow from inside the building not floating",
+  "prompt_refined": "Edit image 1. Transform the dense, cascading green plants and ferns currently hanging from the diagonal architectural ledges of the building into distinct trees featuring visible branches. The resulting image should maintain a photorealistic style.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Building",
+    "Windows",
+    "Diagonal architectural ledges",
+    "Light-colored facade panels",
+    "Sky reflection in windows",
+    "Distinct trees featuring visible branches",
+    "Dense, cascading green plants and ferns (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

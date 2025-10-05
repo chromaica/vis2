@@ -1,0 +1,26 @@
+{
+  "subtopic": "3D renders",
+  "prompt": "Generate a 3D render in the clean, stylized aesthetic of image 2. Feature a character resembling the one from image 1, interacting with a monitor displaying 3D software elements, similar to the desk setup shown in image 2.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748423358223,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a 3D render in the clean, stylized aesthetic of image 2. The scene should feature a yellow, cylindrical character with large goggle-like eyes and denim overalls, reminiscent of the character from image 1. This character is seated at a light-colored, rounded desk, similar to the setup in image 2, and appears to be typing on a keyboard. A large monitor, similar in style to the one in image 2, is centrally positioned on the desk, displaying a user interface with elements typical of 3D software, such as a viewport, toolbars, and property panels. A small potted plant and a mug should also be visible on the desk.",
+  "annotator": "winston",
+  "objects": [
+    "Yellow, cylindrical character with large goggle-like eyes and denim overalls",
+    "Light-colored, rounded desk",
+    "Keyboard",
+    "Large monitor, centrally positioned on the desk",
+    "User interface on monitor with 3D software elements (viewport, toolbars, property panels)",
+    "Small potted plant on the desk",
+    "Mug on the desk"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

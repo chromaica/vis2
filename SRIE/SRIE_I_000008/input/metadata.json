@@ -1,0 +1,24 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "Transform the UI mockup to a cartoon interface style.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the web interface UI mockup shown on the monitor within image 2. Transform its design and elements into a cartoon style, drawing visual guidance from the distinct cartoon aesthetic of image 1.",
+  "annotator": "Johnny",
+  "objects": [
+    "Monitor displaying a web interface UI",
+    "Web interface UI mockup with a cartoon design style",
+    "\"YOUR LOGO\" element in cartoon style",
+    "Cartoon navigation links (Home, About, Products, Blog, Sign In)",
+    "Cartoon menu/search icon",
+    "Cartoon main headline text (\"MAKE EVERYTHING FEEL EASIER\")",
+    "Cartoon body text (\"KEEP YOUR HOUSE UNDER YOUR CONTROL...\")",
+    "Cartoon image of a person within the UI",
+    "Cartoon background elements of the UI"
+  ]
+}

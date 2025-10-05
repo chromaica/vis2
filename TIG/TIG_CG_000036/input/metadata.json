@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "A segmentation mask of a furnished living room, with labeled regions for sofas, tables, lamps, windows, walls, floor, and ceiling. Each object should be precisely outlined.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a segmentation mask image of a furnished living room. The image must clearly display precisely outlined and distinctly labeled regions for sofas, tables, lamps, windows, walls, floor, and ceiling.",
+  "annotator": "maxku",
+  "objects": [
+    "sofas",
+    "tables",
+    "lamps",
+    "windows",
+    "walls",
+    "floor",
+    "ceiling"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

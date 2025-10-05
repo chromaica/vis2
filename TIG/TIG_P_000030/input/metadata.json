@@ -1,0 +1,17 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Minimalist Designs",
+  "prompt": "A single green leaf with drops of water, set against a plain gray backdrop, symbolizing tranquility.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A single, vibrant green leaf with clear, glistening water droplets on its surface. The leaf is centrally positioned and in sharp focus against a smooth, uniform light gray background. The scene is captured with soft, natural lighting and a shallow depth of field, rendering a photorealistic image that evokes tranquility.",
+  "annotator": "cwhsu",
+  "objects": [
+    "centrally positioned vibrant green leaf",
+    "clear, glistening water droplets on the leaf's surface",
+    "smooth, uniform light gray background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

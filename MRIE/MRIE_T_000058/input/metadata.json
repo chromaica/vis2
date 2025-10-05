@@ -1,0 +1,25 @@
+{
+  "task": "MRIE",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Add the logo in the second image to the man's body in the top section of the first image. Then, add the logo in the third image to the man's body in the bottom section. Ensure those logos are vertically aligned to the center of those sections. Finally, change the text in the bottom section to 'Generate Memes with AI'. ",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the provided Drake meme template (image 1).\nPlace the Google logo from image 2 onto Drake's jacket in the top-left panel of image 1.\nPlace the ChatGPT logo (including the text 'ChatGPT') from image 3 onto Drake's jacket in the bottom-left panel of image 1.\nEnsure both added logos are centrally positioned on Drake's chest within their respective panels.\nFinally, replace the text 'Create a meme for yourself' in the bottom-right panel of image 1 with 'Generate Memes with AI'.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Drake meme template",
+    "Drake showing disinterest in top-left panel",
+    "Drake showing approval in bottom-left panel",
+    "Text \"Looking at memes online\" in top-right panel",
+    "Google logo centrally on Drake's chest in top-left panel",
+    "ChatGPT logo with 'ChatGPT' text centrally on Drake's chest in bottom-left panel",
+    "Text \"Generate Memes with AI\" in bottom-right panel",
+    "Text \"Create a meme for yourself\" (should not be present)",
+    "Yellow background"
+  ]
+}

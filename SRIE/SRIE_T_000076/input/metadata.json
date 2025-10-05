@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "Fill the shape with Canadian city names in a rough marker font\u2014largest names for biggest cities, smaller for towns\u2014arranged geographically.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 2 by filling the white landmass shape with Canadian city names. Position each city name geographically accurately within the shape, referring to image 1 for precise locations and the relative importance of cities and towns. Use a rough marker font for all names. Vary the font size according to the city's significance: use the largest font sizes for major cities and progressively smaller sizes for less populated towns, as suggested by their representation in image 1.",
+  "annotator": "matina",
+  "objects": [
+    "Canadian landmass shape (white)",
+    "Black background",
+    "Numerous Canadian city names",
+    "Large-sized city names (e.g., Toronto, Vancouver)",
+    "Medium-sized city names (e.g., Winnipeg, Halifax)",
+    "Small-sized city names (e.g., Yellowknife, Iqaluit)",
+    "Rough marker font style for all names",
+    "Geographically accurate positions of city names"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

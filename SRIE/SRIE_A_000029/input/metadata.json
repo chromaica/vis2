@@ -1,0 +1,28 @@
+{
+  "subtopic": "Cultural or Heritage art",
+  "prompt": "Replace the women in image 1 with the object in image 2, following the same style of image 1.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748492961803,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1. Replace the central woman figure wearing a feathered headdress with the abstract bird artwork from image 2. Ensure the newly integrated bird figure adopts the vibrant color palette, intricate details, and overall distinctive folk art style of the original painting in image 1.",
+  "annotator": "kellycyy",
+  "objects": [
+    "central woman figure wearing a feathered headdress (should not be present)",
+    "abstract bird artwork in folk art style",
+    "painting with a vibrant blue border",
+    "smaller figures within the border of the painting",
+    "birds within the border of the painting",
+    "flowers and plants within the border of the painting",
+    "decorative patterns within the border of the painting",
+    "textured white wall",
+    "wooden floor"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

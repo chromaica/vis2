@@ -1,0 +1,22 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "a realistic image of a tree in a plain green field, using the leaf from the reference image as the tree's foliage.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic image of a tree positioned within a plain green field. The tree's entire foliage must be visually consistent with and entirely composed of numerous instances of the distinct autumn maple leaf presented in image 1, replicating its precise shape, vibrant orange-red coloration, and textural characteristics.",
+  "annotator": "samin",
+  "objects": [
+    "Tree",
+    "Plain green field",
+    "Autumn maple leaves (as foliage)",
+    "Precise maple leaf shape (consistent with image 1)",
+    "Vibrant orange-red leaf coloration (consistent with image 1)",
+    "Leaf textural characteristics (consistent with image 1)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

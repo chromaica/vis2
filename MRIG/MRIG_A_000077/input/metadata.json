@@ -1,0 +1,19 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "Design a symbolic collage using a burning flame from image 1, ocean waves from image 2, and cloud forms from image 3.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a symbolic collage artwork. Feature the burning flame from image 1 positioned centrally, ascending from a dynamic expanse of ocean waves derived from image 2, which should occupy the lower and mid-ground. Integrate the cloud forms from image 3 across the upper portion of the composition, forming the sky backdrop for a visually impactful and cohesive artwork.",
+  "annotator": "samin",
+  "objects": [
+    "burning flame positioned centrally",
+    "dynamic expanse of ocean waves in the lower and mid-ground",
+    "cloud forms in the upper portion, forming the sky backdrop"
+  ]
+}

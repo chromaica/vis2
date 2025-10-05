@@ -1,0 +1,25 @@
+{
+  "subtopic": "Stylized art",
+  "prompt": "Add the two people of image 2 in the middle of image 1, while maintaining the style of them.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748496535736,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1. Add the two human figures from image 2 to the center of the scene, ensuring they retain the distinct watercolor artistic style as depicted in image 2.",
+  "annotator": "kellycyy",
+  "objects": [
+    "Two human figures (in the center, with watercolor artistic style)",
+    "Forest",
+    "Mountains",
+    "Sky",
+    "River",
+    "Grassy field",
+    "Deer",
+    "Stepping stones"
+  ]
+}

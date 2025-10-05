@@ -1,0 +1,23 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": "Fill the background with the newspaper page",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 by replacing its black background. Use the content and visual style of the newspaper page from image 2 to fill the entire background area behind the cartoon fox. Ensure the fox character remains prominent in the foreground and is not altered.",
+  "annotator": "matina",
+  "objects": [
+    "cartoon fox (orange and beige with green eyes)",
+    "newspaper page background",
+    "newspaper headlines",
+    "newspaper articles/text",
+    "photograph of a man (on newspaper page)",
+    "another photograph of a man (on newspaper page)",
+    "aged paper texture",
+    "black background (should not be present)"
+  ]
+}

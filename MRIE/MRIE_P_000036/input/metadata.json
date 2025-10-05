@@ -1,0 +1,25 @@
+{
+  "subtopic": "Wildlife & Nature Photography",
+  "prompt": "Edit image 1 to incorporate the pair of elephants from image 2 walking along the snowy road. Also, add the pair of rhinos from image 3 moving into the woods beside the road, maintaining the overall photorealistic style.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748571420575,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "P",
+  "prompt_refined": "Edit image 1 to incorporate the pair of elephants from image 2 walking along the snowy road in the mid-ground, moving away from the viewer. Additionally, integrate the pair of rhinos from image 3 into the dense woods on the right side of the road, positioned slightly behind the elephants, as they are entering the forest. Ensure all added elements maintain the existing photorealistic style, lighting, and snowy conditions of image 1.",
+  "annotator": "boris",
+  "objects": [
+    "Snowy road",
+    "Snow-covered trees",
+    "Bright winter sunlight",
+    "Pair of elephants on the snowy road in the mid-ground",
+    "Pair of rhinos in the dense woods on the right side of the road"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

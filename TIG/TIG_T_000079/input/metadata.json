@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "Design a futuristic poster where 'Innovate' is the key message, rendered in a bold, sleek metallic sans-serif font transitioning through a blue-to-purple gradient. The background should be a clean, abstract pattern of flowing light trails.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a futuristic poster. The word 'Innovate' is prominently displayed in the center, rendered in a bold, sleek, metallic sans-serif font with a blue-to-purple gradient transition. The background is a clean, abstract pattern of flowing light trails.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "The word \"Innovate\"",
+    "Bold, sleek, metallic sans-serif font for \"Innovate\"",
+    "Blue-to-purple gradient transition on \"Innovate\"",
+    "\"Innovate\" prominently displayed in the center",
+    "Clean background",
+    "Abstract pattern background",
+    "Flowing light trails in the background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

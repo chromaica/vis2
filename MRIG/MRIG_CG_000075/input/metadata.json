@@ -1,0 +1,28 @@
+{
+  "subtopic": "3D renders",
+  "prompt": "A 3D render featuring dramatic lighting and sharp shadows (image 1), depicting a ribbed glass surface with distorted views (image 3), reflecting or containing colorful ring objects (image 2).",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "high quality 3D render",
+  "searchQueryGeneratedTimestamp": 1748417620167,
+  "promptGeneratedTimestamp": 1748417634269,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a 3D render. The central element is a ribbed glass surface, capturing the distinctive texture and optical distortion effects seen in image 3. This glass should be illuminated with dramatic, high-contrast lighting, casting sharp, defined shadows, drawing inspiration from image 1. Integrated either as reflections on the surface or appearing distorted through the glass, include multiple vibrant, colorful ring-shaped objects, mirroring the diverse hues and forms of the items in image 2.",
+  "annotator": "winston",
+  "objects": [
+    "A 3D rendered scene",
+    "Ribbed glass surface (central element)",
+    "Optical distortion effects",
+    "Dramatic, high-contrast lighting",
+    "Sharp, defined shadows",
+    "Multiple vibrant, colorful ring-shaped objects"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

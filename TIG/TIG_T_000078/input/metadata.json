@@ -1,0 +1,19 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": "Capture a comic book moment: 'POW!' dominates the panel in bold yellow with a stark black outline and explosive, jagged edges. The scene is amplified by dynamic Ben-Day dots and streaking speed lines in the background.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a comic book panel featuring a large, bold yellow 'POW!' with a stark black outline and explosive, jagged edges, prominently centered. The background includes dynamic Ben-Day dots and streaking speed lines.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "comic book panel",
+    "large, bold yellow 'POW!' text",
+    "stark black outline on 'POW!' text",
+    "explosive, jagged edges on 'POW!' text",
+    "Ben-Day dots in the background",
+    "streaking speed lines in the background",
+    "'POW!' text prominently centered"
+  ]
+}

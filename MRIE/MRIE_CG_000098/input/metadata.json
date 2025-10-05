@@ -1,0 +1,24 @@
+{
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "Edit image 1 using semantic segmentation: Replace the grasshopper with the hand holding the phone from image 2. Modify the spider to hold the phone from image 3, positioned as if observing the other phone on the web.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748456618762,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1. Replace the grasshopper, which is entangled in the spider's web below the spider, with the hand holding the phone from image 2. Ensure this newly placed hand and phone appear to be caught within the web. Additionally, modify the spider in image 1 so it appears to be holding the phone from image 3. Position the spider and the phone it holds to face towards and observe the phone now entangled in the web below.",
+  "annotator": "winston",
+  "objects": [
+    "Spider",
+    "Spider's web",
+    "Hand holding a phone, entangled in the web below the spider",
+    "Phone held by the hand, entangled in the web below the spider",
+    "Phone held by the spider, facing towards the phone in the web below",
+    "Grasshopper (should not be present)"
+  ]
+}

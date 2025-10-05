@@ -1,0 +1,27 @@
+{
+  "subtopic": "Medical images",
+  "prompt": "Edit image 1: Integrate image 2's slanted wisdom teeth to all sides and add image 3's dental implant to a random tooth.",
+  "cond_images": [
+    "1.jpeg",
+    "2.png",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749228716590,
+  "promptLengthUsed": "short",
+  "task": "MRIE",
+  "topic": "P",
+  "prompt_refined": "Edit image 1 (a panoramic dental X-ray):\n\n1.  Modify the existing third molars (wisdom teeth) in all four quadrants (upper left, upper right, lower left, and lower right) to exhibit severe horizontal impaction, mirroring the angular position and appearance of the wisdom tooth depicted in image 2.\n2.  Add a new dental implant, stylistically consistent with the implant shown in image 3, to replace the lower left first molar (tooth #36) in image 1.",
+  "annotator": "boris",
+  "objects": [
+    "Panoramic dental X-ray",
+    "Jawbones (upper and lower)",
+    "Remaining natural teeth (excluding third molars and lower left first molar)",
+    "Lower left first molar (tooth #36) (should not be present)",
+    "Severely horizontally impacted upper left third molar",
+    "Severely horizontally impacted upper right third molar",
+    "Severely horizontally impacted lower left third molar",
+    "Severely horizontally impacted lower right third molar",
+    "Dental implant replacing lower left first molar"
+  ]
+}

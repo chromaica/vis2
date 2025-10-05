@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Oil painting",
+  "prompt": "Make the woman in image 1 wear the birthday hat from image 3, and place the iPhone from image 2 in her hands.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Place the pink polka-dot \"Happy Birthday\" hat from image 3 on the woman's head, and position the pink iPhone from image 2 in her clasped hands.",
+  "annotator": "paria",
+  "objects": [
+    "woman",
+    "white dress",
+    "pink polka-dot \"Happy Birthday\" hat on the woman's head",
+    "pink iPhone in the woman's clasped hands",
+    "trees",
+    "distant landscape/waterfall",
+    "stone balustrade",
+    "red fabric/robe"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

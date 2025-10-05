@@ -1,0 +1,26 @@
+{
+  "subtopic": "VFX and Particles",
+  "prompt": "Generate an image using the reference pose and composition of the baseball batter swinging. Integrate striking VFX particles around the bat, depicting explosive energy and motion blur, reflecting advanced computer graphics techniques in a sports context.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://www.google.com/url?sa=i&url=https%3A%2F%2Ffeatured.japan-forward.com%2Fsportslook%2Fshohei-ohtani-continues-hitting-tear-as-dodgers-triumph-over-twins%2F&psig=AOvVaw2bkcOayMrit1rIYmbVN9Iv&ust=1748771297453000&source=images&cd=vfe&opi=89978449&ved=0CBcQjhxqFwoTCPCKxvO2zY0DFQAAAAAdAAAAABAV",
+  "promptGeneratedTimestamp": 1748685406887,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate an image of a baseball batter in mid-swing, precisely replicating the pose and composition of the batter and bat from image 1. Integrate striking visual effects (VFX) around the baseball bat, depicting explosive energy bursts, dynamic light trails, and strong motion blur to convey intense speed and impact. The VFX should reflect advanced computer graphics techniques, such as volumetric particle systems and high-fidelity rendering, seamlessly blended within a realistic sports stadium environment.",
+  "annotator": "ishengfang",
+  "objects": [
+    "baseball batter in mid-swing, replicating pose from image 1",
+    "baseball bat, replicating composition from image 1",
+    "explosive energy bursts around the baseball bat",
+    "dynamic light trails around the baseball bat",
+    "strong motion blur around the baseball bat",
+    "volumetric particle systems around the baseball bat",
+    "realistic sports stadium environment",
+    "catcher, partially visible",
+    "spectators in the background",
+    "advertising boards within the stadium environment"
+  ]
+}

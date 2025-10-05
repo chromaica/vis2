@@ -1,0 +1,23 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Mobile software interfaces",
+  "prompt": "Change the background to a surreal underwater scene with floating bubbles and aquatic elements.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 by transforming its background into a surreal underwater scene. This new background should depict glowing aquatic elements like coral reefs and otherworldly fish, along with numerous translucent floating bubbles, while preserving the foreground content.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Woman in foreground",
+    "White crop top",
+    "Black skirt/pants",
+    "TikTok screenshot overlay",
+    "Surreal underwater background",
+    "Glowing aquatic elements",
+    "Coral reefs",
+    "Otherworldly fish",
+    "Translucent floating bubbles"
+  ]
+}

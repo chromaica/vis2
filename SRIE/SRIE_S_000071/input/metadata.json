@@ -1,0 +1,28 @@
+{
+  "subtopic": "Games",
+  "prompt": "Edit image 1: Apply the winking facial expression from the character in image 2 to the main subject. Give this game screenshot character a playful, Lara Croft-inspired wink.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1752237041515,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "annotator": "ishengfang",
+  "prompt_refined": "Edit image 1: Modify the facial expression of the central male character with a bald head and tattoos. Apply a winking expression to his face, specifically closing his right eye and adding a subtle, playful smirk, replicating the style and charm of the winking character in image 2.",
+  "objects": [
+    "Central male character",
+    "Bald head of the male character",
+    "Tattoos on the male character",
+    "Male character with a winking expression",
+    "Right eye of the male character closed",
+    "Subtle, playful smirk on the male character's face",
+    "Grey/blue hoodie on the male character",
+    "Workshop/storage room background",
+    "Shelves in the background",
+    "Digital image viewer interface"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,25 @@
+{
+  "task": "SRIG",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "create a sass for a payment processing service with 3 pricing model for beginners, business and enterprise tier of 60, 120, 500 in the font style in the image",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a retro-style, illuminated pricing board for a payment processing SaaS. The board should feature three distinct pricing tiers: 'Beginners', 'Business', and 'Enterprise'. Each tier should display a corresponding price: '60', '120', and '500' respectively. Replicate the visual style of the backlit menu board from image 1, including its prominent black sans-serif, all-caps font and its horizontal, glowing light strips. The text should be clearly readable, appearing as dark characters against bright, illuminated panels, similar to the items and prices shown in image 1. Position the tier names on the left and their prices on the right, aligned as seen in image 1.",
+  "annotator": "theblackcat",
+  "objects": [
+    "retro-style illuminated pricing board",
+    "backlit board style",
+    "horizontal, glowing light strips",
+    "prominent black sans-serif, all-caps font",
+    "dark characters against bright, illuminated panels",
+    "\"Beginners\" text on the left",
+    "\"Business\" text on the left",
+    "\"Enterprise\" text on the left",
+    "\"60\" price on the right",
+    "\"120\" price on the right",
+    "\"500\" price on the right"
+  ]
+}

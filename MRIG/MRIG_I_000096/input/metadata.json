@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "Generate a workfolw process infographic using icons in reference 1 and arranging the step icons along the spiral path from the reference image.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "annotator": "matina",
+  "prompt_refined": "Generate a workflow process infographic. Incorporate the distinct flowchart icons provided in image 1 to represent the various steps of the process. Arrange these icons sequentially along the prominent spiral path from image 2, following the flow from the spiral's origin to its arrowed termination point to illustrate the workflow's progression.",
+  "objects": [
+    "Workflow process infographic",
+    "Spiral path (black, hand-drawn style, from image 2)",
+    "Oval flowchart icon (blue outline)",
+    "Rectangle flowchart icon (blue outline)",
+    "Diamond flowchart icon (blue outline)",
+    "Parallelogram flowchart icon (blue outline)",
+    "Dashed arrow flowchart icon (blue outline)",
+    "Circle flowchart icon (blue outline)",
+    "Wavy bottom rectangle flowchart icon (blue outline)",
+    "Hexagon flowchart icon (blue outline)"
+  ]
+}

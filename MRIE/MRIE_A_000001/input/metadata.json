@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Oil painting",
+  "prompt": "Replace the ballerina's dress in the first image with the dress from the second image. Additionally, use the background from the third image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Modify Image 1: Replace the ballerina's existing purple leotard and tutu with the black long-sleeved leotard and white classical tutu as depicted in Image 2. Additionally, completely change the background of Image 1 to feature the classical stage set with grand stairs and columns from Image 3.",
+  "annotator": "paria",
+  "objects": [
+    "ballerina",
+    "black long-sleeved leotard",
+    "white classical tutu",
+    "classical stage set",
+    "grand stairs",
+    "columns",
+    "ballerina's pointe shoes",
+    "purple leotard (should not be present)",
+    "purple tutu (should not be present)",
+    "abstract background (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

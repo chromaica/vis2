@@ -1,0 +1,23 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Statue",
+  "prompt": "Change the status with gigachad beard and hair.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, which features the marble statue of David. Transform the statue's head by adding a prominent, 'gigachad' style full beard and voluminous, sculpted hair.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "David's marble statue (body/torso and arm)",
+    "David's transformed head",
+    "Prominent, 'gigachad' style full beard",
+    "Voluminous, sculpted hair",
+    "White marble texture",
+    "Background wall",
+    "Recessed panels on the background wall",
+    "Statue's base/pedestal"
+  ],
+  "human_annotation": true
+}

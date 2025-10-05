@@ -1,0 +1,26 @@
+{
+  "subtopic": "Stylized art",
+  "prompt": "Edit image 1: Apply the vibrant, textured, impasto painting style from image 2 to the landscape, incorporating similar warm color tones and visible brushwork to restyle the original artwork.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748652450683,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1: Restyle the landscape artwork, including the sky, trees, and ground elements, by applying the vibrant, heavily textured, impasto painting style from image 2. Incorporate the prominent warm color tones (reds, oranges, yellows) and distinct, visible brushwork seen in image 2 across the entire scene.",
+  "annotator": "kellycyy",
+  "objects": [
+    "Landscape scene",
+    "Sky",
+    "Trees",
+    "Ground",
+    "Vibrant colors",
+    "Heavy texture",
+    "Impasto painting style",
+    "Warm color tones (reds, oranges, yellows)",
+    "Visible brushwork"
+  ]
+}

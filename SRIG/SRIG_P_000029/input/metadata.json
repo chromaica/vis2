@@ -1,0 +1,23 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "an image of three cats in a room, using the provided mask image as reference.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic image of three cats inside a room, precisely following the spatial arrangement and silhouettes depicted in image 1. A large cat is positioned prominently on the left. A smaller cat is situated in the background, behind and slightly to the right of the large cat. Another smaller cat is located on the far right, in the foreground, adjacent to the large cat. The cats are resting on a floor surface, with a plain wall forming the background of the room.",
+  "annotator": "samin",
+  "objects": [
+    "Large cat positioned prominently on the left",
+    "Smaller cat in the background, behind and slightly to the right of the large cat",
+    "Another smaller cat on the far right, in the foreground, adjacent to the large cat",
+    "Spatial arrangement of the three cats precisely as depicted in image 1",
+    "Silhouettes of the three cats precisely as depicted in image 1",
+    "Floor surface (where cats are resting)",
+    "Plain wall forming the background of the room",
+    "Indoor room setting"
+  ],
+  "human_annotation": true
+}

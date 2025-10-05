@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Traditional art",
+  "prompt": "In the first image, replace the background with the landscape from the second image, and replace the lion with the tiger from the third image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the primary image (Image 1), which depicts a lion carrying a baby and a woman.\nReplace the existing architectural background of Image 1, featuring an archway and distant buildings, with the expansive natural landscape from Image 2, including its prominent lake, mountains, and trees.\nConcurrently, substitute the large lion on the left side of Image 1 with a tiger. This tiger should inherit its visual characteristics (e.g., stripes, fur texture) from the tiger shown in Image 3, but it must be rendered in the specific action of carrying the baby, consistent with the lion's current pose in Image 1.",
+  "annotator": "paria",
+  "objects": [
+    "Tiger (on the left side)",
+    "Baby (being carried by the tiger)",
+    "Woman (kneeling with raised arms)",
+    "Expansive natural landscape background",
+    "Prominent lake",
+    "Mountains",
+    "Trees",
+    "Pavement/ground",
+    "Lion (should not be present)",
+    "Architectural background (should not be present)"
+  ]
+}

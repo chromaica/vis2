@@ -1,0 +1,27 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Create a screenshot of a word processing software interface, showing a document from the first image and formatting tools from the second image.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a screenshot of a word processing software interface. The document area within the software should display the complete text and the blue and yellow sailboat graphic exactly as seen in image 1, with the graphic positioned in the bottom-right. The interface's ribbon menu bar should replicate the layout and tools from image 2, specifically showing the 'Home' tab active. Ensure the 'Font', 'Paragraph', and 'Styles' groups are visible, and that the 'Select' dropdown menu is open within the 'Editing' group on the far right, with its options displayed precisely as in image 2.",
+  "annotator": "paria",
+  "objects": [
+    "Word processing software interface",
+    "Document area",
+    "Text content from Image 1 (The Boat Parade title and paragraphs)",
+    "Blue and yellow sailboat graphic (from Image 1, positioned bottom-right within document area)",
+    "Ribbon menu bar (replicating layout and tools from Image 2)",
+    "Active 'Home' tab (as in Image 2)",
+    "'Font' group (visible in ribbon, as in Image 2)",
+    "'Paragraph' group (visible in ribbon, as in Image 2)",
+    "'Styles' group (visible in ribbon, as in Image 2)",
+    "Open 'Select' dropdown menu with its options (as in Image 2, within the 'Editing' group)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

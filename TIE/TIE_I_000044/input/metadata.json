@@ -1,0 +1,23 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Retro style with grunge texture and vintage typography, adding distressed effects to each segment for an aged, classic look.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Transform the entire infographic into a retro style, applying a prominent grunge texture across the background and all graphical elements. Apply a vintage typography style to all text elements in image 1, including 'infographics template', the list items (01. Lorem, 02. Ipsum dolor, etc.), the percentage values (90%, 35%, 75%, 43%, 25%), and the placeholder body text. Add distressed effects specifically to each of the colored segments: the horizontal and 3D bar elements (green, beige, orange, dark blue, light blue) on the right, and the vertical list item backgrounds on the left. The overall aesthetic should convey an aged and classic appearance.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Infographic structure with an overall retro style",
+    "Background with a prominent grunge texture",
+    "\"infographics template\" title in vintage typography",
+    "Numbered list items (01. Lorem, 02. Ipsum dolor, etc.) on the left, in vintage typography",
+    "Vertical colored list item backgrounds on the left, with distressed effects and grunge texture",
+    "Horizontal and 3D colored bar elements on the right (green, beige, orange, dark blue, light blue), with distressed effects and grunge texture",
+    "Percentage values (90%, 35%, 75%, 43%, 25%) in vintage typography",
+    "Placeholder body text in vintage typography",
+    "Overall aged and classic appearance"
+  ]
+}

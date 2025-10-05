@@ -1,0 +1,27 @@
+{
+  "subtopic": "Posters",
+  "prompt": "Edit the poster in image 1. Replace the text with a new message about creativity, keeping the layered structure. Render the main words in the vibrant brush-stroke font style from image 2. Incorporate the light, whimsical illustrative style of image 3 into the background and decorative elements.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1750178594633,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "T",
+  "prompt_refined": "Edit the chalkboard poster displayed in image 1. Completely replace the existing text with a new message about creativity, ensuring it maintains the original hierarchical, layered structure where a prominent main word is followed by a smaller descriptive phrase. Render these prominent main words using the vibrant, lime-green, brush-stroke font style seen in image 2. Integrate the light, whimsical, flat-design illustration style from image 3 into the poster's background and update the existing corner decorative elements to reflect this illustrative style, such as stylized organic shapes or simple abstract elements.",
+  "annotator": "winston",
+  "objects": [
+    "Chalkboard poster",
+    "Existing text from image 1 (should not be present)",
+    "New text about creativity",
+    "Hierarchical text structure (prominent main words followed by smaller descriptive phrases)",
+    "Prominent main words in lime-green, brush-stroke font style",
+    "Smaller descriptive phrases",
+    "Background illustration on the poster",
+    "Light, whimsical, flat-design illustration style",
+    "Corner decorative elements (stylized organic shapes or simple abstract elements)"
+  ]
+}

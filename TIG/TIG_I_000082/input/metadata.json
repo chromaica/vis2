@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "generate an alluvial diagram showing US population migration patterns between regions (Northeast, South, Midwest, West) across three decades (2000-2010-2020-2030). Flow ribbons colored by origin region with transparency showing bidirectional movement",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate an alluvial diagram illustrating US population migration. The diagram should feature four distinct vertical columns representing the years 2000, 2010, 2020, and 2030, arranged chronologically from left to right. Each column will contain four nodes corresponding to the regions: Northeast, South, Midwest, and West. Flow ribbons, whose width indicates the volume of migration, should connect regions between consecutive time points. Each ribbon must be uniquely colored based on its origin region. Transparency should be incorporated into the flow ribbons to clearly depict bidirectional movement between regions.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Alluvial diagram structure",
+    "Vertical column for year 2000 (leftmost)",
+    "Vertical column for year 2010",
+    "Vertical column for year 2020",
+    "Vertical column for year 2030 (rightmost)",
+    "Nodes labeled \"Northeast\"",
+    "Nodes labeled \"South\"",
+    "Nodes labeled \"Midwest\"",
+    "Nodes labeled \"West\"",
+    "Flow ribbons (connecting regions between columns, with varying width, unique colors, and transparency)"
+  ]
+}

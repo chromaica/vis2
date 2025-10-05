@@ -1,0 +1,26 @@
+{
+  "subtopic": "UI mockups",
+  "prompt": "Generate a flowchart with corresponding UI mockups for a food ordering app's workout tracking sequence. Use the clean, minimalist line-art illustration style, limited color palette, and multi-screen layout structure from the reference image for guidance.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://balsamiq.com/assets/learn/articles/gym-app_user-flow.jpg",
+  "promptGeneratedTimestamp": 1749912601995,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate a multi-screen flowchart depicting a workout tracking sequence for a food ordering application. Each step in the sequence should be represented by a clean, minimalist mobile UI mockup. Adopt the overall aesthetic from image 1, including its line-art illustration style, limited color palette (e.g., white background, black text and outlines, subtle orange accents for buttons/highlights, and purple/magenta flow lines), and the structured layout of connected phone screen mockups. Position the screens logically to show the progression of the workout tracking flow, using connecting lines and arrows as seen in image 1.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Multiple mobile phone screen mockups",
+    "Mobile user interface (UI) elements (e.g., buttons, text fields, icons, labels)",
+    "Line-art illustrations depicting workout tracking or food ordering elements within UI mockups",
+    "Connecting lines between screen mockups",
+    "Arrows on connecting lines",
+    "Overall white background",
+    "Black text and outlines within UI mockups",
+    "Subtle orange accents on buttons or highlighted UI elements",
+    "Purple/magenta flow lines",
+    "Titles or labels for each screen/step"
+  ]
+}

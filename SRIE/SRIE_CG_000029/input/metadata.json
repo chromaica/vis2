@@ -1,0 +1,22 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Object detection visuals",
+  "prompt": "Highlight objects in the source scene based on confidence scores in the reference heatmap.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 (the photograph of two poodles) to apply a visual highlight to the two dogs. The highlight's intensity and form for the black poodle on the left and the white poodle on the right should directly correspond to the confidence scores depicted by the two circular hot spots in image 2 (the heatmap). Higher confidence scores (red and yellow areas in image 2) should result in a more intense and distinct highlight on the corresponding poodle, while lower scores (blue background in image 2) should yield no highlight.",
+  "annotator": "nimajamali",
+  "objects": [
+    "black poodle on the left",
+    "white poodle on the right",
+    "visual highlight on the black poodle",
+    "visual highlight on the white poodle",
+    "rocky foreground",
+    "hilly background"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,21 @@
+{
+  "task": "SRIE",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "Keep only the structures at the specified depth (white color in the reference) and remove others.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Preserve only the specific cellular structures that are precisely delineated by the white areas in image 2. Ensure these retained structures remain photorealistic. All other elements present in image 1, such as the green filaments and blue aggregates, must be completely removed, resulting in a solid black background.",
+  "annotator": "nimajamali",
+  "objects": [
+    "cellular structures",
+    "photorealistic appearance",
+    "solid black background",
+    "green filaments (should not be present)",
+    "blue aggregates (should not be present)"
+  ],
+  "human_annotation": true
+}

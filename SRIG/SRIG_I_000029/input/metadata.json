@@ -1,0 +1,24 @@
+{
+  "subtopic": "Icons and symbols",
+  "prompt": "The image provided is a flat paper airplane icon. Please generate in total of 5 icons to show how the flat paper airplane icon transforms to a Telegram icon.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "https://img.freepik.com/premium-vector/paper-plane-message-icon-flat-black-line-style_434853-1396.jpg",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate five distinct icons, arranged horizontally in a sequence, depicting the transformation of the flat paper airplane icon from image 1 into a standard Telegram messaging application icon. Each icon should maintain a clean, flat graphic style suitable for information graphics.\n\n*   **Icon 1 (leftmost):** A faithful reproduction of the paper airplane icon from image 1, rendered with a black outline, including the heart detail on the tail and the trailing line.\n*   **Icon 2:** The paper airplane from image 1, with the heart detail on its tail and the trailing line beginning to subtly fade or simplify, while the overall paper plane shape starts to subtly shift towards the Telegram icon's proportions and angle.\n*   **Icon 3:** The paper airplane's form becomes more angular and compact, clearly aligning with the distinct, stylized shape of the Telegram icon's paper plane. The heart detail and trailing line are completely absent.\n*   **Icon 4:** The stylized paper airplane, now fully in the Telegram plane's shape and tilted slightly upwards and to the right, is contained within a distinct circular outline. This circular background should show a partial or muted blue fill, hinting at the final Telegram color.\n*   **Icon 5 (rightmost):** A complete, standard Telegram icon, featuring a white, stylized paper airplane tilted upwards and to the right, centrally positioned within a solid, vibrant circular blue background.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Five distinct icons, arranged horizontally",
+    "Paper airplane icons (various forms)",
+    "Black outline (on initial icons)",
+    "Heart detail (on paper plane tail, in icons 1 & 2)",
+    "Trailing line (from paper plane, in icons 1 & 2)",
+    "Heart detail (should not be present in icons 3, 4, 5)",
+    "Trailing line (should not be present in icons 3, 4, 5)",
+    "Circular outline (for icons 4 and 5)",
+    "Blue circular background (partial/muted in icon 4, solid/vibrant in icon 5)",
+    "White stylized paper airplane (in icon 5)"
+  ]
+}

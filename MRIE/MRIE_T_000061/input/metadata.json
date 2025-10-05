@@ -1,0 +1,27 @@
+{
+  "task": "MRIE",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Replace the picture of the girl (left side) in the first image to the drawing within the second image. Then, replace the line of the boy (top right) with 'You are my hero, Elon.'. Then, replace the line of the girl (bottom right) with 'Delete that shit and never pick a pencil again.'. Finally, key the person's face in the third image to that girl's face.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 by performing the following modifications:\n\n1.  Replace the photograph of the woman in the left panel with the pencil drawing of Elon Musk from image 2.\n2.  In the top-right comic panel, change the text inside the boy's speech bubble to 'You are my hero, Elon.', using the text from image 2 as a reference for content.\n3.  In the bottom-right comic panel, change the text inside the girl's speech bubble to 'Delete that shit and never pick a pencil again.'.\n4.  Replace the face of the cartoon girl in the bottom-right panel with the photographic face of Elon Musk from image 3, while maintaining the original pose and expression, and integrating it into the comic art style of the panel.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Pencil drawing of Elon Musk in the left panel",
+    "Top-right comic panel featuring a boy",
+    "Speech bubble for the boy containing the text \"You are my hero, Elon.\"",
+    "Bottom-right comic panel featuring a cartoon body",
+    "Photographic face of Elon Musk integrated into the cartoon body in the bottom-right panel",
+    "Speech bubble for the cartoon character containing the text \"Delete that shit and never pick a pencil again.\"",
+    "Photograph of the woman (should not be present)",
+    "Original text \"i cant read that link you sent its behind a paywall can you send screenshots\" (should not be present)",
+    "Original text \"lose my number\" (should not be present)",
+    "Original cartoon face of the girl (should not be present)"
+  ],
+  "human_annotation": true
+}

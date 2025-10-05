@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "Turn the desert landscape into a lively underwater scene with colorful fish and coral, keeping the characters intact.",
+  "cond_images": [
+    "1.jpeg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 by transforming the entire arid landscape, including the rocky desert formations, the brown ground, and the sky, into a vibrant and detailed underwater scene. The sky should become clear blue water, and the ground should be converted into a colorful coral reef seafloor. Introduce various types of colorful coral, such as brain coral, staghorn coral, and fan coral, scattered across the seafloor and extending upwards. Add diverse schools of bright fish of different sizes and species, such as clownfish, angelfish, and surgeonfish, swimming throughout the water at various depths. Ensure the water has realistic light rays filtering from above. All original characters (Mario, Princess Peach, the Wiggler, Toad, and the yellow flower) and the game's user interface elements (score, lives, time) in the top-left and top-center must remain perfectly intact and unchanged, appearing as if they are now submerged in the underwater environment.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Mario",
+    "Princess Peach",
+    "The Wiggler",
+    "Toad",
+    "Yellow flower",
+    "Game user interface elements (score, lives, time) in top-left and top-center",
+    "Clear blue water",
+    "Colorful coral reef seafloor",
+    "Colorful coral (e.g., brain coral, staghorn coral, fan coral)",
+    "Diverse schools of bright fish (e.g., clownfish, angelfish, surgeonfish)"
+  ]
+}

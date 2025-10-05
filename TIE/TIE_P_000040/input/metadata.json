@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "give me a version of this image but with the shop closed during early morning",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Modify the Torimichisakaba restaurant on the left and the Teketeke restaurant on the right to appear closed for business. The scene should depict an early morning ambiance, with the shops' lights significantly dimmed or turned off, and a quiet street with minimal to no pedestrian presence.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Torimichisakaba restaurant on the left, appearing closed",
+    "Teketeke restaurant on the right, appearing closed",
+    "Street/sidewalk",
+    "Building facade",
+    "Restaurant signage",
+    "Dimmed or off shop lights",
+    "Early morning ambiance",
+    "Advertisements/posters outside shops",
+    "Overhead building lights/fixtures",
+    "Minimal to no pedestrians on the street"
+  ]
+}

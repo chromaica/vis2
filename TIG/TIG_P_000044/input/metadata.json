@@ -1,0 +1,17 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Long exposure",
+  "prompt": "A vibrant Ferris wheel spinning, creating circular rainbow light patterns against a dark night sky.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic image of a vibrant, brightly lit Ferris wheel captured in motion against a dark night sky. The spinning motion creates prominent, sweeping circular light trails in a spectrum of vivid rainbow colors. The Ferris wheel is centrally positioned, dominating the frame.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Vibrant, brightly lit Ferris wheel",
+    "Dark night sky",
+    "Prominent, sweeping circular light trails in rainbow colors"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

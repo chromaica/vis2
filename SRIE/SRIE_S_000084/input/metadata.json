@@ -1,0 +1,29 @@
+{
+  "subtopic": "Software interfaces",
+  "prompt": "Edit image 1: Transform the software interface into a dark theme interface, adopting the background colors, text colors, and general dark mode style from image 2.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1752237206417,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "annotator": "ishengfang",
+  "prompt_refined": "Edit image 1: Transform the entire AOMEI Partition Assistant software interface, including the top header bar, left navigation panel, main content area, and the 'PC Cleaner' pop-up window, into a dark theme. Adopt the dark background shades (similar to the main window and panels in image 2), the light text colors (white/light grey as seen in image 2), and the consistent dark mode styling from image 2 for all UI elements such as icons, buttons, highlighted selections, and accent colors.",
+  "objects": [
+    "AOMEI Partition Assistant software interface",
+    "Top header bar",
+    "Left navigation panel",
+    "Main content area displaying disk information",
+    "'PC Cleaner' pop-up window",
+    "\"Cleanup completed\" message within the pop-up",
+    "Computer monitor icon with checkmark inside the pop-up",
+    "\"Rescan\" button inside the pop-up",
+    "\"Back\" button inside the pop-up",
+    "\"Insufficient space on C drive\" warning message with icon"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

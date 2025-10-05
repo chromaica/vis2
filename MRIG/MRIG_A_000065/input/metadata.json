@@ -1,0 +1,22 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "Create a digital painting featuring the classical marble bust from image 1, depicted as if it is being slowly consumed by the lush, wild jungle vegetation from image 2, rendered in a naturalistic digital art style.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a digital painting depicting the classical white marble bust from image 2. The bust should be prominently centered, partially obscured and slowly being consumed by dense, verdant jungle foliage and intertwining vines, inspired by the lush vegetation from image 1. The surrounding environment should show the jungle extending into the background. Render the scene in a naturalistic digital art style with soft light filtering through the canopy.",
+  "annotator": "samin",
+  "objects": [
+    "classical white marble bust (prominently centered, partially obscured)",
+    "dense, verdant jungle foliage (consuming the bust)",
+    "intertwining vines (consuming the bust)",
+    "jungle extending into the background",
+    "soft light filtering through a canopy"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

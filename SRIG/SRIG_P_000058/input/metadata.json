@@ -1,0 +1,26 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "an image showing several instances of the reference cell dividing, each at slightly different phases of mitosis.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic microscopic image displaying several instances of the cell from image 1. Each cell should be depicted in a distinct, slightly different phase of mitosis, including prophase, metaphase, anaphase, and telophase. The visual characteristics of the dividing cells, such as their overall shape, light blue-grey cytoplasm, and darker blue nucleus, should be consistent with the reference cell in image 1, but appropriately transformed for each mitotic stage. Arrange these cells naturally across the microscopic field of view, maintaining clear detail on each instance against a subtly blurred background.",
+  "annotator": "samin",
+  "objects": [
+    "photorealistic microscopic image",
+    "cell in prophase",
+    "cell in metaphase",
+    "cell in anaphase",
+    "cell in telophase",
+    "light blue-grey cytoplasm",
+    "darker blue nucleus",
+    "microscopic field of view",
+    "subtly blurred background",
+    "multiple instances of cells"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

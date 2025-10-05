@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "Edit the isometric fantasy map in image 1. Apply the dark, muted color palette from image 2 to the map's overall aesthetic, including islands and background. Incorporate the stylized dragons from image 3, positioning them flying above and between the floating islands.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the isometric fantasy map in image 1. Apply the dark, muted color palette from image 2 to the overall aesthetic of the image, specifically recoloring the floating islands, connecting paths, clouds, and the background sky. Incorporate the stylized, cartoonish dragons from image 3, positioning them flying above and between the floating islands.",
+  "annotator": "maxku",
+  "objects": [
+    "Isometric fantasy map",
+    "Floating islands",
+    "Connecting paths",
+    "Clouds",
+    "Background sky",
+    "Stylized, cartoonish dragons flying above and between the floating islands",
+    "Treasure chest on a floating island",
+    "Skulls on floating islands",
+    "Coins on a floating island",
+    "Crystals on a floating island"
+  ]
+}

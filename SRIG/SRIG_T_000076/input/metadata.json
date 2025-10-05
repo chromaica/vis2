@@ -1,0 +1,24 @@
+{
+  "subtopic": "Typography",
+  "prompt": "Based on the referenced image, create a font showcase (\"A\" to \"Z\", \"a\" to \"z\" and \"0\" to \"9\") with the exact same font style in the image.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://cdn.prod.website-files.com/5d816b07d269382588dbcab1/62f353833d455d2b5c57564d_62ccbeacf33125953c976357_62b8caca74ce86d0567f91b5_20-typography-faqs-thumbnail.png",
+  "task": "SRIG",
+  "topic": "T",
+  "prompt_refined": "Generate an image displaying a comprehensive font character set. The font style must precisely replicate the typography observed in image 1. The image should distinctly feature all uppercase letters (A-Z), all lowercase letters (a-z), and all digits (0-9). Arrange these characters in a clear, organized, and legible layout, on a solid dark blue background with the text rendered in white, consistent with the visual style of image 1.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "solid dark blue background",
+    "uppercase letters (A-Z)",
+    "lowercase letters (a-z)",
+    "digits (0-9)",
+    "white color for all characters",
+    "serif font style from image 1",
+    "organized character layout",
+    "typographic annotation lines (should not be present)",
+    "typographic labels (should not be present)"
+  ],
+  "human_annotation": true
+}

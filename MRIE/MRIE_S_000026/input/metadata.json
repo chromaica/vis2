@@ -1,0 +1,27 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "Edit image 1 by replacing the 'Proceed to Checkout' button with a split-button layout that includes both the Apple Pay logo from image 2 on the left and the MasterCard logo from image 3 on the right, both scaled to fit. The rest of the UI should remain untouched.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the mobile shopping cart screenshot. Replace the full-width orange 'Proceed to Checkout' button located at the bottom of the screen with a new split-button layout. The new button should maintain the original orange background color. The left segment of this split button should display the Apple Pay logo from image 2, while the right segment should display the MasterCard logo from image 3. Both logos must be scaled to fit proportionally within their respective button halves. No other UI elements or aspects of image 1 should be altered.",
+  "annotator": "parnian",
+  "objects": [
+    "Mobile shopping cart user interface",
+    "Top status bar (AT&T, 9:41 AM, 100% battery icon)",
+    "Navigation bar (\"My Cart\" title, menu icon, shopping bag icon with '6')",
+    "\"Omelette\" item listing (with image, \"$25.00\", quantity controls)",
+    "\"Beignet\" item listing (with image, \"$30.00\", quantity controls)",
+    "\"Cornmeal mush\" item listing (with image, \"$10.00\", quantity controls)",
+    "Order summary section (Item Total, Coupon Discount, Delivery Charges, Total with values)",
+    "Orange split-button at the bottom of the screen",
+    "Apple Pay logo on the left segment of the orange button",
+    "MasterCard logo on the right segment of the orange button",
+    "Full-width orange \"Proceed to Checkout\" button (should not be present)"
+  ]
+}

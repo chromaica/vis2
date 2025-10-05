@@ -1,0 +1,28 @@
+{
+  "subtopic": "Games",
+  "prompt": "Generate isometric game screenshot with castles and rivers, matching the RTS style and feel of the reference.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/02/town-centre-cropped.jpg",
+  "promptGeneratedTimestamp": 1749420027640,
+  "promptLengthUsed": "short",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate an isometric game screenshot in the classic RTS style of image 1. The scene should depict a medieval settlement, including a large stone castle with turrets and crenellated walls, positioned towards the background. A winding river with clear water and earthy banks should flow through the middle or foreground of the scene. Ensure the image maintains the pixel-art, 2D sprite aesthetic, earthy terrain, and architectural details like stone walls and thatched roofs, consistent with the buildings and environment shown in image 1.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Isometric game screenshot view",
+    "Medieval settlement",
+    "Large stone castle towards the background",
+    "Castle turrets",
+    "Crenellated castle walls",
+    "Winding river through the middle or foreground",
+    "Clear river water",
+    "Earthy river banks",
+    "Earthy terrain",
+    "Buildings with stone walls and thatched roofs"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

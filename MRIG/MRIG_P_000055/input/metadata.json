@@ -1,0 +1,22 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Create a electric kettle with the style of a tropical parrot. The first reference image: a vintage electric kettle. Design it using the second reference image: a tropical parrot with vibrant red, yellow, and green feathers. The kettle should have a parrot-shaped spout, colorful enamel feathers, and a beak-like lid, set on a quirky retro diner counter.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic image of a vintage electric kettle stylized as a tropical parrot. The kettle's general shape should be inspired by electric kettles like image 1. Its design elements, including a distinctive parrot-shaped spout, a beak-like lid, and a main body adorned with vibrant red, yellow, and green enamel feathers, should replicate the plumage of the tropical parrot in image 2. The kettle is prominently displayed on a quirky retro diner counter.",
+  "objects": [
+    "photorealistic image",
+    "vintage electric kettle",
+    "electric kettle shape",
+    "parrot-shaped spout",
+    "beak-like lid",
+    "kettle body adorned with vibrant red, yellow, and green enamel feathers",
+    "quirky retro diner counter"
+  ]
+}

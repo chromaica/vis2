@@ -1,0 +1,20 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Stylized art",
+  "prompt": "A red sneaker transformed into a rocket blasting through space",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate an artwork transforming image 1, a red sneaker, into a rocket. The rocket-sneaker should be dynamically blasting upwards through the center of a cosmic deep space background, emitting powerful, fiery exhaust flames from its heel. The scene should convey a sense of rapid motion and adventure.",
+  "annotator": "Johnny",
+  "objects": [
+    "Red rocket-sneaker (blasting upwards through the center)",
+    "Fiery exhaust flames (emitting from its heel)",
+    "Cosmic deep space background",
+    "Stars",
+    "Galaxies",
+    "Visual cues of rapid motion"
+  ]
+}

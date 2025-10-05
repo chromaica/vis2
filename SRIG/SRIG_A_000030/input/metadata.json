@@ -1,0 +1,24 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "Design a fantasy castle surrounded under a dark sky",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a scene featuring an ornate fantasy castle, similar in architectural style, intricate detail, and overall landscape composition to image 1. The castle should be situated on a verdant hill with waterfalls cascading into a serene lake, viewed through a decorative, gilded archway overgrown with lush foliage and vibrant flowers in the foreground, mirroring image 1. Crucially, the entire scene must be rendered under a dramatic, dark sky, replacing the bright, sunny atmosphere of image 1, to evoke a mysterious and imposing mood.",
+  "annotator": "Johnny",
+  "objects": [
+    "Ornate fantasy castle on a verdant hill",
+    "Waterfalls cascading",
+    "Serene lake",
+    "Decorative, gilded archway in the foreground",
+    "Lush foliage overgrown on the archway and in the foreground",
+    "Vibrant flowers on the archway and in the foreground",
+    "Paved ground area in the foreground",
+    "Mountains in the background",
+    "Dramatic, dark sky",
+    "Bright, sunny sky (should not be present)"
+  ]
+}

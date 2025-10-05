@@ -1,0 +1,24 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Portraits",
+  "prompt": "Replace the oranges and the hanging carpet in the background of image 1 with the apples from image 2 and the Iranian carpet from image 3, respectively.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the oranges on the tray in the lower-left foreground with the green apples from image 2. Additionally, replace the large patterned rug hanging on the background wall with the red and blue Iranian carpet from image 3.",
+  "annotator": "paria",
+  "objects": [
+    "Woman",
+    "Tray in the lower-left foreground",
+    "Green apples on the tray",
+    "Red and blue Iranian carpet hanging on the background wall",
+    "Stool",
+    "Background wall",
+    "Oranges (should not be present)",
+    "Large patterned rug (should not be present)"
+  ]
+}

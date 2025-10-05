@@ -1,0 +1,24 @@
+{
+  "subtopic": "Maps",
+  "prompt": "Generate a 3D isometric map of a floating sky-city. The layout of the islands, bridges, and districts must be based on the circuit pathways and components of the provided motherboard schematic.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "https://www.build-your-own-computer.net/image-files/motherboard-diagram-01.jpg",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate a 3D isometric map of a sprawling floating sky-city. The entire structural organization of the sky-city, including the size and arrangement of its main islands, the intricate network of connecting bridges, and the formation of distinct districts, must be an architectural interpretation derived directly from the circuit pathways and component layout depicted in image 1 (the motherboard schematic). For example, the most prominent components from image 1, such as the CPU socket (G) in the upper-right, the various RAM slots (A, H), and expansion slots (B, C, D, J), should form the largest, most significant islands within the sky-city. The visible copper heat pipes and data traces on image 1 should translate into the sky-city's main thoroughfares and bridges. Furthermore, the smaller, clustered components across image 1 should define the density and boundaries of the city's sub-districts and neighborhoods, maintaining their relative positions and scale throughout the generated map.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "A 3D isometric map of a sprawling floating sky-city.",
+    "A large primary island in the upper-right, derived from the CPU socket (G).",
+    "Multiple prominent floating islands in the mid-left and upper-left regions, derived from RAM slots (A) and expansion slots (B).",
+    "Multiple prominent floating islands in the lower-right and lower-middle regions, derived from RAM slots (H) and expansion slots (J).",
+    "Other significant floating islands distributed throughout the map, derived from components like expansion slots (C, D).",
+    "An intricate network of multi-level connecting bridges, architecturally resembling copper heat pipes.",
+    "Extensive main thoroughfares and pathways across and between city sections, architecturally mimicking data traces.",
+    "Distinct city districts with varying architectural styles and densities, defined by the layout of smaller clustered components.",
+    "Clearly defined neighborhoods within the districts, reflecting component arrangements and boundaries.",
+    "Visible floating mechanisms or structural foundations supporting the islands in the sky."
+  ]
+}

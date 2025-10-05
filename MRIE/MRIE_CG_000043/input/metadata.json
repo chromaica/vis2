@@ -1,0 +1,29 @@
+{
+  "subtopic": "Stylized Rendering or Computer Animation",
+  "prompt": "Using computer graphics rendering techniques, edit Image 1. Apply the smooth, stylized texture and coloration of the whale from image 2 to the dog's fur. Give the dog the alert, focused gaze from the squirrel in image 3, reflecting a facial feature analysis.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748455696177,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit Image 1, the Yorkshire Terrier, rendering the modifications using computer graphics techniques. Transform the dog's fur to adopt the smooth, stylized texture and blue-green coloration with distinct white spots, as observed on the whale in Image 2. Adjust the dog's facial features to convey the alert, focused gaze of the squirrel in Image 3.",
+  "annotator": "winston",
+  "objects": [
+    "Yorkshire Terrier",
+    "Dog's fur with smooth texture",
+    "Dog's fur with stylized texture",
+    "Dog's fur with blue-green coloration",
+    "Dog's fur with distinct white spots",
+    "Dog's facial features",
+    "Alert gaze (of the dog)",
+    "Focused gaze (of the dog)",
+    "White background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

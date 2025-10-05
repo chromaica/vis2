@@ -1,0 +1,30 @@
+{
+  "subtopic": "UI mockups",
+  "prompt": "Create a conceptual UI mockup screen using the clean dashboard layout and chart types from image 1, incorporating vector icons and the structured sectioning style with dotted lines found in image 2.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "Infographic UI mockups",
+  "searchQueryGeneratedTimestamp": 1750582476128,
+  "promptGeneratedTimestamp": 1750582548580,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "I",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a conceptual UI mockup screen. The screen should display a clean, modular dashboard layout, incorporating diverse chart types (bar, line, donut) and the predominant purple and orange/yellow color palette, all consistent with image 1. Integrate illustrative vector icons with a light blue outline, inspired by the conceptual icons in image 2. Furthermore, organize UI elements within distinct, rounded sections similar to the containers in image 2, and include dotted lines as subtle visual connectors or separators between these sections, mirroring the style found in image 2.",
+  "objects": [
+    "UI mockup screen",
+    "Modular dashboard layout",
+    "Bar charts",
+    "Line charts",
+    "Donut charts",
+    "Purple and orange/yellow color palette",
+    "Illustrative vector icons with light blue outline",
+    "Distinct, rounded UI sections/containers",
+    "Dotted lines as visual connectors/separators",
+    "Numerical data and percentages"
+  ],
+  "human_annotation": true
+}

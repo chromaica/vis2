@@ -1,0 +1,25 @@
+{
+  "subtopic": "Digital arts",
+  "prompt": "Edit image 1: Apply the vibrant, textured, digital painting style and color palette from image 2 to the \"WordArt\" text. Make the text appear like it's painted in that fiery, abstract style.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "high quality digital art",
+  "searchQueryGeneratedTimestamp": 1748496103572,
+  "promptGeneratedTimestamp": 1748496429226,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1: Apply the vibrant, textured, digital painting style and fiery, abstract color palette from image 2 to the 'WordArt' text. The text should visually transform to appear painted with energetic, flame-like strokes, mirroring the aesthetic of the number '2' in image 2.",
+  "annotator": "kellycyy",
+  "objects": [
+    "\"WordArt\" text",
+    "Vibrant digital painting style on text",
+    "Textured appearance on text",
+    "Fiery abstract color palette on text",
+    "Energetic flame-like strokes on text",
+    "Light gray background"
+  ]
+}

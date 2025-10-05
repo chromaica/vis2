@@ -1,0 +1,25 @@
+{
+  "task": "SRIG",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "Create a futuristic neon typography design for a tech conference about AI.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a futuristic neon typography design for a tech conference about AI. The design should feature a prominent capital letter 'A' centrally placed, directly inspired by the bold, angular shape and distinct double-line detail of image 1. Render the 'A' with a vibrant blue and magenta neon glow, emanating light onto a dark, abstract background. The background should incorporate subtle, glowing lines reminiscent of circuit boards or data streams, creating an atmosphere of advanced technology and artificial intelligence suitable for a high-tech conference graphic.",
+  "annotator": "Johnny",
+  "objects": [
+    "Capital letter 'A' centrally placed",
+    "Bold, angular shape of the 'A'",
+    "Double-line detail on the 'A'",
+    "Vibrant blue neon glow on the 'A'",
+    "Magenta neon glow on the 'A'",
+    "Light emanating from the 'A'",
+    "Dark background",
+    "Abstract background",
+    "Subtle glowing lines on the background",
+    "Circuit board or data stream patterns on the background"
+  ],
+  "human_annotation": true
+}

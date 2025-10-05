@@ -1,0 +1,25 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Fill the blank table with colorful stock market data and include a visual graph.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, an empty Microsoft Excel spreadsheet. Populate the main spreadsheet grid with realistic, colorful stock market data, including specific stock symbols, company names, current prices, daily percentage changes (showing positive values in green and negative values in red), and trading volumes, filling a substantial portion of the visible rows and columns. Additionally, integrate a professional-looking line graph that visually represents key trends from this stock market data. Position this graph clearly within the spreadsheet grid, ideally in the upper-right section of the populated data area, without obstructing the Excel ribbon or other essential interface elements.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Microsoft Excel spreadsheet interface",
+    "Spreadsheet grid populated with stock market data",
+    "Stock symbols",
+    "Company names",
+    "Current stock prices",
+    "Daily percentage changes (green for positive values, red for negative values)",
+    "Trading volumes",
+    "Professional-looking line graph",
+    "Line graph in the upper-right section of the populated data area"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,22 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "Create a collage featuring a vintage dress from image 1, a futuristic bodysuit from image 2, and handwritten fashion notes from image 3.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a collage. Prominently feature the sleek, dark futuristic bodysuit with glowing geometric patterns from image 2. Artfully integrate a vintage dress, embodying the elegant, early 20th-century style and flowing silhouette seen in image 1, placed alongside or partially overlapping the bodysuit. Overlay the detailed handwritten fashion sketches and textual notes from image 3 as a transparent background texture or border, creating a harmonious yet contrasting visual composition.",
+  "annotator": "samin",
+  "objects": [
+    "sleek, dark futuristic bodysuit with glowing geometric patterns",
+    "vintage dress embodying elegant, early 20th-century style and flowing silhouette",
+    "detailed handwritten fashion sketches (as a transparent background texture or border)",
+    "textual notes (from fashion sketches, as a transparent background texture or border)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

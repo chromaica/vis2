@@ -1,0 +1,25 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "Edit image 1: Apply the detailed, angular sci-fi HUD overlay style from image 2 to the background of the stats and item panels. Redesign the buttons and icons using the sharp, clean futuristic aesthetic and teal/yellow color scheme from image 3.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit `image 1`. Apply the detailed, angular sci-fi HUD overlay style from `image 2` to the background of the 'Stats' panel (top right) and the 'Magic Potion' item panel (bottom right). Redesign all buttons and icons throughout `image 1`, including the circular, hexagonal, and rectangular buttons, as well as the small square icons and the 'Magic Potion' graphic, using the sharp, clean futuristic aesthetic and the teal/yellow color scheme from `image 3`.",
+  "annotator": "maxku",
+  "objects": [
+    "'Stats' panel (top right) with detailed, angular sci-fi HUD overlay style background",
+    "'Magic Potion' item panel (bottom right) with detailed, angular sci-fi HUD overlay style background",
+    "Circular buttons redesigned with sharp, clean futuristic aesthetic and teal/yellow color scheme",
+    "Hexagonal buttons redesigned with sharp, clean futuristic aesthetic and teal/yellow color scheme",
+    "Rectangular buttons redesigned with sharp, clean futuristic aesthetic and teal/yellow color scheme",
+    "Small square icons redesigned with sharp, clean futuristic aesthetic and teal/yellow color scheme",
+    "'Magic Potion' graphic redesigned with sharp, clean futuristic aesthetic and teal/yellow color scheme",
+    "UI background from original `image 1`"
+  ],
+  "human_annotation": true
+}

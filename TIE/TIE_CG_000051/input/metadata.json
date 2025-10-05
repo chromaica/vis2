@@ -1,0 +1,26 @@
+{
+  "subtopic": "Game assets",
+  "prompt": "Add a simple, rectangular stone platform asset with cracks to the collection of game environment tiles shown in the image.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751762784453,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1. Add a new game environment tile: a simple, rectangular stone platform asset with visible cracks. Place this new asset in the bottom-right corner of image 1, maintaining the grid-like arrangement and matching the existing cartoonish 2D art style, lighting, and color palette of the other assets.",
+  "annotator": "edisy",
+  "objects": [
+    "blue gem",
+    "cloud",
+    "full moon",
+    "tree",
+    "rock",
+    "gold trophy",
+    "heart",
+    "wooden crate with question mark",
+    "sword",
+    "simple, rectangular stone platform with visible cracks in the bottom-right corner"
+  ]
+}

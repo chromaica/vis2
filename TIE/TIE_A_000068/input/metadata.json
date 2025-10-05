@@ -1,0 +1,22 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Digital art",
+  "prompt": "Change those weird looking sphere with roots into jellyfishes. Those jellyfishes should be at the same size and position as the original spheres. Add glow to the jellyfishes.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Transform all the floating, spherical, plant-like creatures with trailing root structures into jellyfishes. The new jellyfishes must maintain the exact size and spatial position of the original creatures. Each jellyfish should also emanate a distinct glow.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Full moon",
+    "Starry sky",
+    "Large tree branches",
+    "Floating landmasses",
+    "Waterfalls",
+    "Mountains in the background",
+    "Floating rocks",
+    "Glowing jellyfishes"
+  ]
+}

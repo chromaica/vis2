@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Medical images",
+  "prompt": "create an illustrated sketch of this image like the style we seen in 19th century books",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Transform the photorealistic anatomical heart model into a detailed monochrome illustration using the precise line art and cross-hatching techniques characteristic of 19th-century scientific or anatomical textbook engravings. The rendering should be in black and white or sepia tones.",
+  "annotator": "theblackcat",
+  "objects": [
+    "anatomical heart model",
+    "heart chambers",
+    "major blood vessels",
+    "heart valves",
+    "chordae tendineae",
+    "detailed rendering",
+    "precise line art",
+    "cross-hatching",
+    "black and white tones",
+    "sepia tones"
+  ]
+}

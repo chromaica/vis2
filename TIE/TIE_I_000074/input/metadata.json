@@ -1,0 +1,22 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "Integrate a vibrant data-point bubble onto Africa, mirroring the design of existing continent highlights.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Add a new data-point bubble to the right of the continent of Africa. The new bubble must replicate the exact visual style, color scheme (light blue border, white inner circle, black text), and design of the existing continent highlight bubbles, such as those for North America and Europe. Ensure a dotted line connects the bubble to a specific point on the African continent, matching the style of the other connections. The text within the new bubble should clearly display 'XXM' on the top line and 'Africa' on the bottom line.",
+  "annotator": "cwhsu",
+  "objects": [
+    "blue banner with \"Market Share by Continent\" title and \"2019-2022\" subtitle",
+    "folded map icon on the blue banner",
+    "world map with continents",
+    "data-point bubble for North America with \"60M North America\" and its dotted connection line",
+    "data-point bubble for Europe with \"51M Europe\" and its dotted connection line",
+    "data-point bubble for South America with \"40M South America\" and its dotted connection line",
+    "data-point bubble for Asia-Pacific with \"55M Asia-Pacific\" and its dotted connection line",
+    "new data-point bubble to the right of Africa, with light blue border, white inner circle, black text 'XXM' on top line and 'Africa' on bottom line, and a dotted connection line to Africa"
+  ]
+}

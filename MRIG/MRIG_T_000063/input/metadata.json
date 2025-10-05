@@ -1,0 +1,24 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Design and generate a jewelry brand identity combining the minimalist elegance of the first image and the calligraphic brand font in the second, with the purple color palate in the third image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a new image for a jewelry brand identity. The design should feature a clean, minimalist graphic style, drawing inspiration from the elegant simplicity of the flower outline in image 1. The brand name text should be rendered in a sophisticated calligraphic font, similar to the style of the 'Cartier' logo in image 2. The entire brand identity, including any graphic elements and text, must utilize the distinctive purple color palette from image 3, incorporating its deep background purple and lighter accent shades.",
+  "annotator": "parnian",
+  "objects": [
+    "Flower outline graphic",
+    "Brand name text",
+    "Sophisticated calligraphic font style",
+    "Minimalist graphic style",
+    "Deep purple background",
+    "Lighter purple accent shades for graphic elements",
+    "Lighter purple accent shades for text"
+  ],
+  "human_annotation": true
+}

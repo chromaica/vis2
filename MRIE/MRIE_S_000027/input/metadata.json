@@ -1,0 +1,27 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Chat and Social Messaging",
+  "prompt": "Replace the message reaction with red heart eyes in image 1 after 'I\u2019m so proud of u' with the pink layered heart from image 2 with same size ration to other emojis in the image and change the message status under the final green bubble to the grey 'Unsent' icon from image 3.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the red heart eyes reaction emoji, which is positioned above the message 'I\u2019m so proud of u', with the pink layered heart emoji from image 2. Ensure the substituted emoji maintains a size consistent with other emojis present in the chat. Additionally, change the message status icon located directly below the final green chat bubble, which reads 'b careful', from its current delivered (double checkmarks) state to the grey 'Unsent' clock icon as depicted in image 3.",
+  "annotator": "parnian",
+  "objects": [
+    "WhatsApp chat interface",
+    "Pink layered heart emoji positioned above the message 'I\u2019m so proud of u'",
+    "Grey 'Unsent' clock icon positioned directly below the final green chat bubble 'b careful'",
+    "Message 'I\u2019m so proud of u'",
+    "Message 'b careful'",
+    "Red heart eyes reaction emoji (should not be present)",
+    "Double checkmarks delivered message status icon (should not be present)",
+    "Top phone status bar (time, battery, signal icons)",
+    "Bottom chat input bar with a plus icon and camera icon",
+    "Chat bubble \"Thanks honeeey \ud83d\ude01\ud83d\ude0d\u2764\ufe0f\""
+  ],
+  "human_annotation": true
+}

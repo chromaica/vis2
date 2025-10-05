@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "A magnified view of fish scales, highlighting their overlapping pattern and iridescence under a shimmering green and lavender light.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Extreme close-up of fish scales, showcasing their intricate overlapping pattern and vibrant iridescence, illuminated by shimmering green and lavender light.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Fish scales",
+    "Intricate overlapping pattern",
+    "Vibrant iridescence",
+    "Shimmering green light",
+    "Shimmering lavender light",
+    "Extreme close-up view"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

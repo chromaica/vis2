@@ -1,0 +1,24 @@
+{
+  "task": "MRIG",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Generate an image that illustrates both a pie chart and a bar chart side by side, using Image 1 as reference for the pie chart and Image 2 as reference for the bar chart.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "annotator": "matina",
+  "prompt_refined": "Generate an image displaying two information graphics side by side: a pie chart on the left and a bar chart on the right. The pie chart should visually replicate the style, specific color palette, and legend format of Image 1, illustrating 'Production by district'. The bar chart, positioned to its right, must adhere to the horizontal bar design, blue color scheme, axis labeling (e.g., 0, 400, 800, 1.2K), and overall aesthetic of Image 2, also representing 'Production by district'.",
+  "objects": [
+    "Pie chart on the left",
+    "Bar chart on the right",
+    "\"Production by district\" title (for both charts)",
+    "Pie chart segments with specific color palette from Image 1",
+    "Pie chart legend with percentage and district format from Image 1",
+    "Horizontal bars in blue on the bar chart",
+    "Bar chart horizontal axis with numerical labels (0, 400, 800, 1.2K, etc.)",
+    "Bar chart vertical axis with district labels (DI, GO, LG, etc.)",
+    "Grid lines on the bar chart"
+  ]
+}

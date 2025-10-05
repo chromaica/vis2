@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "A silhouette of a lone tree against a vibrant sunset sky with scattered clouds and distant mountains.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Photorealistic, ultra-detailed image of a single, sharply silhouetted tree standing prominently against a vibrant sunset sky. The sky displays a breathtaking gradient of deep fiery oranges, rich purples, and soft golden hues, with wispy, softly illuminated clouds scattered across it. In the far distance, subtly outlined, silhouetted mountain ranges complete the horizon.",
+  "annotator": "cwhsu",
+  "objects": [
+    "single, sharply silhouetted tree",
+    "vibrant sunset sky",
+    "deep fiery orange hues",
+    "rich purple hues",
+    "soft golden hues",
+    "wispy, softly illuminated clouds",
+    "subtly outlined, silhouetted mountain ranges",
+    "horizon"
+  ],
+  "human_annotation": true
+}

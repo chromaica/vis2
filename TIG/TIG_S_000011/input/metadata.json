@@ -1,0 +1,24 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "generate a realistic Taiwan receipt (\u7d71\u4e00\u767c\u7968) from a night market bubble tea stand called '\u73cd\u73e0\u5976\u8336\u738b' (Pearl Milk Tea King). The receipt shows the distinctive 8-digit random number 'AB-12345678' at the top for the lottery system, followed by items in Traditional Chinese: \u73cd\u73e0\u5976\u8336 (Pearl Milk Tea) - NT$65, \u96de\u6392 (Fried Chicken) - NT$80, \u9e7d\u9165\u96de (Popcorn Chicken) - NT$60. The receipt includes the store's unified business number, address in Taipei, and shows \u7e3d\u8a08 (Total): NT$205 with 5% \u71df\u696d\u7a05 (business tax) listed separately. The thermal-printed receipt is slightly faded and has grease stains from the fried food, lying on a red plastic table with Taiwan Beer bottles in the background. The receipt paper has the characteristic yellowish tint and the store chop/stamp mark is visible.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic image of a realistic Taiwan unified invoice (\u7d71\u4e00\u767c\u7968) from a night market bubble tea stand called '\u73cd\u73e0\u5976\u8336\u738b' (Pearl Milk Tea King). The thermal-printed receipt, characterized by a yellowish tint, is slightly faded and shows grease stains from fried food. It lies flat on a red plastic table, with Taiwan Beer bottles subtly blurred in the background.\n\nThe receipt's content is in Traditional Chinese. At the very top, the distinctive 8-digit lottery number 'AB-12345678' is visible. The store's unified business number and its address in Taipei are clearly printed. A store chop/stamp mark is visible on the paper.\n\nThe itemized purchases include: \u73cd\u73e0\u5976\u8336 (Pearl Milk Tea) - NT$65, \u96de\u6392 (Fried Chicken) - NT$80, and \u9e7d\u9165\u96de (Popcorn Chicken) - NT$60. The receipt displays a '\u7e3d\u8a08 (Total): NT$205' with '5% \u71df\u696d\u7a05 (business tax)' explicitly listed as a separate line item.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Taiwan unified invoice (\u7d71\u4e00\u767c\u7968) with yellowish tint",
+    "Thermal-printed receipt texture, slightly faded",
+    "Grease stains on the invoice",
+    "Red plastic table",
+    "Blurred Taiwan Beer bottles in the background",
+    "\"AB-12345678\" lottery number on invoice",
+    "\"\u73cd\u73e0\u5976\u8336\u738b\" (Pearl Milk Tea King) store name on invoice",
+    "Traditional Chinese receipt text including itemized purchases (\u73cd\u73e0\u5976\u8336, \u96de\u6392, \u9e7d\u9165\u96de), total (NT$205), and 5% business tax",
+    "Store's unified business number and Taipei address on invoice",
+    "Store chop/stamp mark on invoice"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,25 @@
+{
+  "subtopic": "Depth maps",
+  "prompt": "Generate and visualize the depth map of the image, representing closer objects with lighter shades of gray and distant objects with darker shades.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751815871876,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1, a grayscale illustration of a rooster against a dark background, to generate and visualize its depth map. The resulting depth map should represent closer objects with lighter shades of gray, and more distant objects, such as the dark background and subtle foliage, with darker shades. The rooster, being the primary subject, should be prominently lighter than its surroundings.",
+  "annotator": "edisy",
+  "objects": [
+    "Rooster represented by lighter shades of gray",
+    "Rooster's prominent tail feathers represented by lighter shades of gray",
+    "Rooster's body feathers represented by lighter shades of gray",
+    "Rooster's head and comb represented by lighter shades of gray",
+    "Rooster's legs and feet represented by lighter shades of gray",
+    "Foreground ground/surface represented by shades of gray indicating its depth",
+    "Subtle foliage represented by darker shades of gray",
+    "Dark background represented by the darkest shades of gray"
+  ],
+  "human_annotation": true
+}

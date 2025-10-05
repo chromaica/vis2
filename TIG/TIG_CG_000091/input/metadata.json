@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "Object detection visuals",
+  "prompt": "A riverbank scene with bounding boxes around fish, rocks, and plants. Boxes should have clear labels and different colors for each class. ",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a riverbank scene featuring fish, rocks, and plants. Each fish, rock, and plant must have a distinct bounding box drawn around it. These bounding boxes should be colored uniquely for each class: red for 'Fish', blue for 'Rock', and green for 'Plant'. Ensure all class labels are clearly legible.",
+  "annotator": "maxku",
+  "objects": [
+    "riverbank scene",
+    "fish",
+    "rocks",
+    "plants",
+    "red bounding boxes around fish",
+    "blue bounding boxes around rocks",
+    "green bounding boxes around plants",
+    "legible class labels for fish",
+    "legible class labels for rocks",
+    "legible class labels for plants"
+  ]
+}

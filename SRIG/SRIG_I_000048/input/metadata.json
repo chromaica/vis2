@@ -1,0 +1,26 @@
+{
+  "subtopic": "Maps",
+  "prompt": "Predict and generate the weather map with isobars and fronts in the next 3 days.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "https://as1.ftcdn.net/jpg/02/74/36/92/1000_F_274369230_Kvnl7UddxtOPCV0CDMwX6I0y6m1GezDo.jpg",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate a weather map of the contiguous United States, showing the predicted atmospheric conditions and meteorological features three days from now. The map should clearly display:\n-   **Isobars:** Curved lines with numerical pressure labels (e.g., 1010, 1050) indicating predicted atmospheric pressure, consistent in style and density with image 1.\n-   **Fronts:** Lines with standard meteorological symbols (e.g., blue triangles for cold fronts, red semicircles for warm fronts, purple alternating symbols for occluded fronts, blue triangles and red semicircles on opposite sides for stationary fronts), showing their new, predicted positions.\n-   **Pressure Centers:** Capital letters 'H' for high pressure and 'L' for low pressure, placed at their predicted locations on the map.\n\nThe generated map should adopt the overall visual style, color palette (green landmass, blue water, light brown mountainous regions), and line conventions (e.g., smooth curves for isobars, distinct symbols for fronts) as seen in image 1, while accurately representing a plausible meteorological forecast for a 3-day evolution of the weather systems.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "weather map of the contiguous United States",
+    "green landmass",
+    "blue water bodies",
+    "light brown mountainous regions",
+    "isobars (curved lines)",
+    "numerical pressure labels on isobars",
+    "cold fronts (blue lines with triangles)",
+    "warm fronts (red lines with semicircles)",
+    "occluded fronts (purple lines with alternating symbols)",
+    "high pressure centers (capital 'H')",
+    "low pressure centers (capital 'L')"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,26 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "Reflow the band names into a curved arc around the CD logo.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Reposition the text 'DJ CAHAYA DEWI - DJ KETUT SUSILO - DJ LARS PEETER' so that it is centered horizontally and positioned directly below the large central vinyl record graphic (referred to as the 'CD logo' in the prompt). Reflow this text into a curved arc that follows the lower curvature of the 'CD logo'. The 'MUSIC BY :' header should remain in its current straight line position, centered horizontally above the newly curved text.",
+  "annotator": "matina",
+  "objects": [
+    "Radial background with red and cream stripes",
+    "Cityscape silhouette",
+    "Large central vinyl record graphic",
+    "\"STUDIO SHODWE\" text",
+    "\"MUSIC FESTIVAL\" text",
+    "\"MUSIC BY :\" text, centered horizontally and straight",
+    "\"DJ CAHAYA DEWI - DJ KETUT SUSILO - DJ LARS PEETER\" text, curved in an arc below the large central vinyl record graphic",
+    "Left vintage microphone",
+    "Right vintage microphone",
+    "Event date, location, and website text"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

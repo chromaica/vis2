@@ -1,0 +1,20 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "Futuristic flying cars streak across the azure sky, casting dynamic shadows on the bustling highway below, crafting a vibrant sci-fi metropolis.",
+  "cond_images": [
+    "1.jpeg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Transform the existing cityscape into a vibrant sci-fi metropolis. Integrate futuristic flying cars streaking across the azure sky, ensuring they cast dynamic shadows onto the bustling highway in the foreground.",
+  "annotator": "cwhsu",
+  "objects": [
+    "vibrant sci-fi metropolis",
+    "futuristic flying cars",
+    "azure sky",
+    "dynamic shadows",
+    "highway in the foreground",
+    "traffic on the highway"
+  ]
+}

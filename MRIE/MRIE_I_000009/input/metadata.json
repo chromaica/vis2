@@ -1,0 +1,22 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Edit image 1 by transforming the flowchart into the style of a carved wooden plaque, similar to image 2, while preserving the original content structure. Replace the current shark images in image 1 with the large plush shark from image 3, depicted as if carved into the wooden plaque. Render the entire image in a realistic style akin to image 2.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Transform the entire flowchart, including its boxes, arrows, and text content, into a realistic carved wooden plaque. The wooden plaque should closely resemble the style, material, and realistic rendering of the 'Engineering Flowchart' displayed in image 2, ensuring all original text and structural elements of the flowchart remain clearly legible and appear as if engraved into the wood. Replace the two existing shark illustrations in image 1 (the smaller shark within the 'Not for' box and the larger shark within the 'BUY' box) with the appearance of the large, grey plush shark from image 3. Both new shark depictions must also appear realistically carved or engraved into the wooden plaque, consistent with the overall style and depth of the other engraved elements.",
+  "annotator": "maxku",
+  "objects": [
+    "a realistic carved wooden plaque",
+    "engraved flowchart boxes",
+    "engraved flowchart arrows",
+    "engraved text content from the original flowchart (e.g., \"Do you have money?\", \"NO\", \"YES\", \"BUY\", \"Not for\", \"BLASPHEMY\", \"Do you have a job?\", \"They pay you?\")",
+    "engraved illustration of the grey plush shark (from image 3) within the 'Not for' box",
+    "engraved illustration of the grey plush shark (from image 3) within the 'BUY' box"
+  ]
+}

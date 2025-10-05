@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "A dynamic action shot of a skateboarder mid-flip in an urban skate park, graffiti-covered walls in the background.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A photorealistic, high-energy action shot of a skateboarder suspended in mid-air during a flip trick, over a concrete ramp in a gritty urban skate park. The skateboard is visible below their feet. In the immediate background, vibrant, layered graffiti art adorns extensive concrete walls, stretching across the frame. Captured with a dynamic wide-angle lens from a low perspective, under natural daylight.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Skateboarder (suspended in mid-air)",
+    "Skateboard (visible below their feet)",
+    "Concrete ramp",
+    "Vibrant, layered graffiti art",
+    "Extensive concrete walls (in the immediate background, stretching across the frame)",
+    "Gritty urban skate park environment",
+    "Natural daylight (lighting)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

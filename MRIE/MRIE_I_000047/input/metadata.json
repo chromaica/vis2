@@ -1,0 +1,22 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "Edit image 1: Replace the orange background area with the solid color from image 2, and replace the blue background area with the color and subtle texture from image 3. Keep the white silhouette unchanged to create a new icon color scheme.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Replace the left-hand orange background area with the solid color from image 2. Replace the right-hand blue background area with the color and subtle texture from image 3. The central white silhouette of the armed figure must remain unchanged to create a new icon color scheme.",
+  "annotator": "maxku",
+  "objects": [
+    "Left-hand background area with a solid light green color",
+    "Right-hand background area with a blue color and subtle texture",
+    "Central white silhouette of an armed figure",
+    "Orange background area (should not be present)",
+    "Solid blue background area (should not be present)"
+  ],
+  "human_annotation": true
+}

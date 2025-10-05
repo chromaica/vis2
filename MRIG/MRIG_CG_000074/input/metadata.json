@@ -1,0 +1,28 @@
+{
+  "subtopic": "Object detection visuals",
+  "prompt": "A computer graphics visualization of object detection: The pixel dinosaur from image 1 is detected with a bounding box, placed within the blurry environment style from image 2, featuring the UI toggle switch graphic from image 3 in a corner.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748417914956,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a computer graphics visualization depicting object detection. In the foreground, display the black pixelated T-Rex dinosaur from image 1, clearly identified within a bounding box. The background should adopt the blurry, indoor environment style of image 2, characterized by its soft focus and diffused lighting. Integrate the blue UI toggle switch graphic from image 3, complete with its 'SWITCH' label and white circular toggle, in the top-right corner of the composition.",
+  "annotator": "winston",
+  "objects": [
+    "computer graphics visualization",
+    "object detection depiction",
+    "black pixelated T-Rex dinosaur in the foreground",
+    "bounding box around the T-Rex",
+    "blurry indoor environment background",
+    "soft focus background",
+    "diffused lighting background",
+    "blue UI toggle switch graphic in the top-right corner",
+    "'SWITCH' label on the toggle switch",
+    "white circular toggle on the toggle switch"
+  ]
+}

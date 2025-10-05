@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "Create an image that integrates the Nike Swoosh logo, as depicted in the first reference image, into the spiral galaxy shown in the second reference image. Reimagine the Swoosh as a luminous, comet-like streak that gracefully arcs across the galaxy\u2019s spiral arms, blending seamlessly with the cosmic environment. The Swoosh should adopt the galaxy\u2019s starry color palette of blues, purples, and whites, emitting a soft, glowing radiance that complements the galaxy\u2019s hues while maintaining its recognizable shape.",
+  "cond_images": [
+    "1.png",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic image that integrates the Nike Swoosh logo from image 1 into the spiral galaxy from image 2. Reimagine the Swoosh as a luminous, comet-like streak that gracefully arcs across the galaxy\u2019s prominent spiral arms, blending seamlessly with the cosmic environment. The transformed Swoosh should adopt the galaxy\u2019s starry color palette, primarily incorporating blues, purples, and whites, while emitting a soft, glowing radiance that complements the galaxy\u2019s existing hues. Ensure the recognizable shape of the Nike Swoosh is clearly maintained within this cosmic portrayal.",
+  "objects": [
+    "photorealistic image",
+    "spiral galaxy",
+    "Nike Swoosh logo",
+    "luminous comet-like streak",
+    "Swoosh arcing across the galaxy\u2019s prominent spiral arms",
+    "cosmic environment",
+    "starry background",
+    "Swoosh with blue, purple, and white color palette",
+    "Swoosh emitting soft, glowing radiance"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

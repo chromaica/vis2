@@ -1,0 +1,28 @@
+{
+  "subtopic": "Digital arts",
+  "prompt": "Edit image 1: Weave the vibrant, surreal floral headdress from image 2 into the dark, organic coral-like structure on the subject's head and neck in image 1, blending the digital art styles.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "Contemporary digital artwork",
+  "searchQueryGeneratedTimestamp": 1748488311003,
+  "promptGeneratedTimestamp": 1748488393643,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1: Transform the dark, intricate coral-like structure on the left side of the subject's head and neck in image 1 into the vibrant, surreal white and yellow floral headdress from image 2, incorporating the white daisies covering the eyes, while seamlessly blending the distinct digital art styles of both images.",
+  "annotator": "kellycyy",
+  "objects": [
+    "Subject's head and face",
+    "Subject's neck and shoulder",
+    "Dark, intricate coral-like structure (should not be present)",
+    "Vibrant, surreal white and yellow floral headdress on the left side of the subject's head and neck",
+    "White daisies covering the subject's eyes",
+    "Red circular background element",
+    "Grey background and frame"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

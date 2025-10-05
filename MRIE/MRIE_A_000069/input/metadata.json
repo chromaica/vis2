@@ -1,0 +1,24 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Traditional art",
+  "prompt": "Remove the three-pronged pitchfork from the man's hand in image 1, replace it with the sunflower from image 2, and change the background to the sunflower field from image 3.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Remove the three-pronged pitchfork from the man's right hand. Replace it with the larger, more prominent sunflower from image 2, ensuring it is naturally held by the man. Change the entire background of image 1, including the house and trees, to the vibrant sunflower field and cloudy sky from image 3, integrating the figures seamlessly into the new scene.",
+  "annotator": "paria",
+  "objects": [
+    "man",
+    "woman",
+    "three-pronged pitchfork (should not be present)",
+    "larger, more prominent sunflower",
+    "house (should not be present)",
+    "trees (from original background, should not be present)",
+    "vibrant sunflower field",
+    "cloudy sky"
+  ]
+}

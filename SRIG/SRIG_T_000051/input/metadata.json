@@ -1,0 +1,26 @@
+{
+  "task": "SRIG",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": "Using the comic book layout from the provided image, create a story about an office worker who accidentally activates a time-travel device, sending them back to their first day at work where they try to fix past mistakes and learn valuable lessons about growth.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a multi-panel comic book page using the exact panel layout, vibrant color palette, and graphic art style of image 1. The page should tell a sequential story about an office worker who accidentally activates a time-travel device. The narrative begins with scenes of their current mundane office life, transitions through the accidental activation of the device and the visual effects of time travel, then depicts their arrival back at their very first day at work. Subsequent panels should illustrate their attempts to correct past mistakes and the valuable lessons learned about personal growth and transformation. Ensure the final panel delivers a strong visual and textual message summarizing the journey, mirroring the impactful close-up nature of the final panel in image 1.",
+  "annotator": "Johnny",
+  "objects": [
+    "Multi-panel comic book page structure",
+    "Vibrant comic book color palette",
+    "Graphic comic book art style",
+    "Office worker character",
+    "Modern office environment elements",
+    "Time-travel device",
+    "Visual effects of time travel",
+    "Past office environment elements",
+    "Office worker interacting with past scenarios",
+    "Final close-up panel with a prominent textual message"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

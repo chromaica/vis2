@@ -1,0 +1,23 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Change the card into the +4 uno card.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Change the white custom Uno card, held by the hand on the left, into a standard black +4 Uno card. Maintain all other elements of the image, including the person and the table on the right.",
+  "annotator": "matina",
+  "objects": [
+    "standard black +4 Uno card held by the hand on the left",
+    "hand holding the card on the left",
+    "white custom Uno card (should not be present)",
+    "person on the right",
+    "table on the right",
+    "Uno cards on the table",
+    "green soda can on the table",
+    "text \"My crush\"",
+    "room background"
+  ]
+}

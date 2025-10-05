@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Generate a steampunk-style aerial scout that blends the agile, high-tech design of a modern quadcopter drone in the first image with the rustic, buoyant aesthetic of a vintage hot air balloon in the second image. The resulting device is a retro-futuristic marvel, with a compact, propeller-driven frame forged from polished copper and brass, adorned with tiny gears and filigree engravings. Four steam-powered propellers replace the balloon\u2019s fabric envelope.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic steampunk-style aerial scout. This device should integrate the agile, high-tech design and four-propeller quadcopter frame of the drone in image 1 with the rustic, buoyant aesthetic and vintage charm of the hot air balloon in image 2. The resulting retro-futuristic marvel must feature a compact, propeller-driven body forged entirely from polished copper and brass. This frame should be intricately adorned with visible tiny gears, intricate clockwork mechanisms, and elegant filigree engravings. Instead of the large fabric envelope of image 2, four prominent steam-powered propellers, similar in configuration to those on the drone in image 1 but with a distinct steampunk design, provide propulsion and lift.",
+  "objects": [
+    "Photorealistic steampunk-style aerial scout",
+    "Quadcopter frame",
+    "Compact, propeller-driven body",
+    "Body made of polished copper",
+    "Body made of polished brass",
+    "Visible tiny gears",
+    "Intricate clockwork mechanisms",
+    "Elegant filigree engravings",
+    "Four prominent steam-powered propellers",
+    "Large fabric envelope (should not be present)"
+  ]
+}

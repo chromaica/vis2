@@ -1,0 +1,18 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "Replace the center in this image from blood cell to amoeba",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace all the blood cells visible within the central circular microscopic field of view with photorealistic amoebas. The amoebas should be depicted in a similar microscopic style, scale, and lighting as the original blood cells in image 1.",
+  "annotator": "theblackcat",
+  "objects": [
+    "photorealistic amoebas",
+    "central circular microscopic field of view",
+    "dark area surrounding the circular field",
+    "blood cells (should not be present)"
+  ]
+}

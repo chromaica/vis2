@@ -1,0 +1,26 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Transform this trading chart to reflect economic crisis in dot com bubble",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, a candlestick trading chart, to visually represent an economic crisis mirroring the dot-com bubble burst. Modify the existing candlestick patterns and the black moving average line to show a sharp, significant, and sustained market decline. Ensure the price action, visible on the right vertical axis, reflects a dramatic drop, with prevailing red (bearish) candlesticks dominating the chart. The chart should transition from a prior high to a pronounced downturn. Retain the 'Stop Loss Order' title at the top, and the 'Entry Buy order' and 'Stop loss order' annotations with their arrows and labels, integrating them naturally within the new, crisis-driven price movements.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Candlesticks (predominantly red)",
+    "Black moving average line",
+    "Vertical price axis with numerical labels",
+    "Horizontal time axis",
+    "'Stop Loss Order' title at the top",
+    "'Entry Buy order' annotation with blue label and arrow",
+    "'Stop loss order' annotation with blue label and arrow",
+    "Horizontal dashed orange lines",
+    "Horizontal dashed green line",
+    "Horizontal solid black line"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

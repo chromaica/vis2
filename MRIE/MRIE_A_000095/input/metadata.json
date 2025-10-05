@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Stylized art",
+  "prompt": "Replace the color of the umbrella in image 1 with the umbrella from image 3, and replace the dog in image 1 with the cat from image 2. Maintain the geometric cubist style of image 1 when applying these edits.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the large red umbrella held by the woman in the top-right with the multi-colored, segmented umbrella from image 3, adopting its distinctive pattern and colors. Simultaneously, replace the bulldog on a leash in the bottom-left with the cubist cat from image 2. All modifications must seamlessly integrate and strictly adhere to the geometric cubist art style, color palette, and textures of image 1.",
+  "annotator": "paria",
+  "objects": [
+    "Woman",
+    "Multi-colored, segmented umbrella (held by the woman in the top-right)",
+    "Cubist cat (in the bottom-left)",
+    "Geometric cubist art style background",
+    "Chair with newspaper (bottom-right)",
+    "Checkered floor/ground pattern",
+    "Steps/stairs",
+    "Large red umbrella (should not be present)",
+    "Bulldog on a leash (should not be present)"
+  ],
+  "human_annotation": true
+}

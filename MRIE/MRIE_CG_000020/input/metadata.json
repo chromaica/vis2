@@ -1,0 +1,27 @@
+{
+  "subtopic": "Depth maps",
+  "prompt": "Edit Image 1: Add the graphics tablet from Image 2 onto the desk, positioned realistically using depth. Replace the laptop screen content with the 3D car render from Image 3, ensuring the car's depth and perspective match the scene. Generate the final scene's depth map.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748455117132,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit Image 1: Integrate the graphics tablet from Image 2 onto the wooden desk, positioning it to the right of the Acer laptop. Ensure its scale, depth, and perspective are consistent with the existing scene. Replace the content on the Acer laptop screen with the red 3D car render from Image 3, scaling and aligning it perspectively to appear naturally displayed on the screen, maintaining realistic depth within the scene. Finally, generate a depth map for the completed image.",
+  "annotator": "winston",
+  "objects": [
+    "Wooden desk",
+    "Acer laptop",
+    "Person's hand on laptop",
+    "Graphics tablet to the right of the Acer laptop",
+    "Red 3D car render on the Acer laptop screen",
+    "Smartphone",
+    "Tablet",
+    "Papers/magazine in background"
+  ],
+  "human_annotation": true
+}

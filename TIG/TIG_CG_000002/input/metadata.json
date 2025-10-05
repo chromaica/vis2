@@ -1,0 +1,16 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "Object detection visuals",
+  "prompt": "photograph of a car over a bridge. A red rectangle is drawn including the car, and a green rectangle is drawn including the whole bridge.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a realistic photograph depicting a car crossing a bridge. A red rectangular outline is drawn precisely around the car. A green rectangular outline is drawn to fully encompass the entire bridge structure.",
+  "annotator": "maxku",
+  "objects": [
+    "car crossing a bridge",
+    "bridge structure",
+    "red rectangular outline precisely around the car",
+    "green rectangular outline encompassing the entire bridge structure"
+  ]
+}

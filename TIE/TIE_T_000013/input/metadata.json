@@ -1,0 +1,19 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "\u201cImprint the text as if hot-stamped in leather\u2014deep emboss, slight edge burn, dusty residue around letters.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Transform the existing 'CHRISTIAN LOUBOUTIN' text to appear deeply hot-stamped into a textured leather surface. Implement a pronounced, deep embossed effect for the letters, making them look significantly sunken into the material. Add a subtle, dark edge burn around the perimeter of each letter, indicative of heat application. Finally, include fine, light-colored dusty residue scattered immediately around the base and edges of the imprinted text.",
+  "annotator": "matina",
+  "objects": [
+    "\"CHRISTIAN LOUBOUTIN\" text",
+    "Textured leather surface",
+    "Deeply hot-stamped and embossed text impression",
+    "Subtle dark edge burn around text letters",
+    "Fine, light-colored dusty residue around text"
+  ]
+}

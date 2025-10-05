@@ -1,0 +1,18 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "An abstract collage of floral arrangements and musical notes, intertwined in vivid watercolors against a soft pastel backdrop.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "An abstract art collage featuring delicate floral arrangements and intricate musical notes, including staves and individual notes. These elements are fluidly intertwined and overlap, forming a cohesive visual tapestry. The entire composition is rendered in a vibrant watercolor style, showcasing transparent washes, soft blending, and spontaneous brushstrokes. A gentle, diffused pastel backdrop provides a harmonious setting for the artwork.",
+  "annotator": "cwhsu",
+  "objects": [
+    "abstract art collage",
+    "delicate floral arrangements",
+    "intricate musical notes",
+    "musical staves",
+    "individual musical notes",
+    "gentle, diffused pastel backdrop"
+  ]
+}

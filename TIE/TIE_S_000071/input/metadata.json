@@ -1,0 +1,26 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Replace the text with a whimsical hand-drawn font style.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. On the main slide displayed in the PowerPoint screenshot, change the font style of the text \"Mongibello Artisan Pasta\" and \"About Our Business\" to a whimsical hand-drawn font. Ensure the text on the corresponding highlighted slide thumbnail in the left sidebar is also updated to match this whimsical hand-drawn font style.",
+  "annotator": "cwhsu",
+  "objects": [
+    "PowerPoint application window",
+    "Main slide display area",
+    "Text \"Mongibello Artisan Pasta\" on main slide (whimsical hand-drawn font)",
+    "Text \"About Our Business\" on main slide (whimsical hand-drawn font)",
+    "Highlighted slide thumbnail in left sidebar",
+    "Text \"Mongibello Artisan Pasta\" on highlighted thumbnail (whimsical hand-drawn font)",
+    "Text \"About Our Business\" on highlighted thumbnail (whimsical hand-drawn font)",
+    "Ribbon menu",
+    "Slide thumbnails sidebar",
+    "Status bar"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

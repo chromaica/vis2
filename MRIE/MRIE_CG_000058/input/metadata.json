@@ -1,0 +1,25 @@
+{
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "Edit image 1: Segment the beetles and apply the realistic fur texture and detailing from the tiger in image 2 to their exoskeletons. Segment the small orange flowers and replace them with insertions of the peering mole from image 3.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748455890876,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1: Segment the two beetles and apply the realistic fur texture and striped detailing from the tiger in image 2 to their exoskeletons, replacing their current green and orange appearance. Concurrently, segment all clusters of small orange flowers on the branches in image 1 and replace each cluster with an insertion of the peering mole from image 3, ensuring the mole's head is visible.",
+  "annotator": "winston",
+  "objects": [
+    "two beetles with realistic fur texture and striped detailing",
+    "branches",
+    "leaves",
+    "multiple peering mole heads",
+    "sky background",
+    "clusters of small orange flowers (should not be present)"
+  ],
+  "human_annotation": true
+}

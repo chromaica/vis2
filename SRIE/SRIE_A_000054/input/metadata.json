@@ -1,0 +1,27 @@
+{
+  "subtopic": "Cultural or Heritage art",
+  "prompt": "Edit image 1: Apply the distinctive watercolor and sketch artistic style of image 2 to the photograph of the temple, transforming it into a heritage artwork rendering.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748498506675,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1: Transform the photograph of the multi-tiered red and white temple building into a heritage artwork rendering. Apply the distinctive artistic style of image 2, characterized by its light watercolor washes, subtle color bleeds, and clear, fine sketch outlines, to the entire temple scene.",
+  "annotator": "kellycyy",
+  "objects": [
+    "multi-tiered red and white temple building",
+    "sky",
+    "trees",
+    "red fence/railings",
+    "people",
+    "multi-colored flags/banners",
+    "plants/bushes",
+    "ground",
+    "distant building on the left",
+    "SINGAPORE TOURIST PASS text (should not be present)"
+  ]
+}

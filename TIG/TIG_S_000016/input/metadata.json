@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": "create a website mock-up showcasing a sleek, dark-mode trading dashboard featuring teal, white, and gray accents. The interface includes a vertical navigation menu, a watchlist table with market assets and price changes, a candlestick chart with customized indicators, an order-ticket panel, and a scrolling news feed, all presented with minimalist design elements and clear, modern typography.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a sleek, dark-mode website mock-up of a trading dashboard. The interface features prominent teal, white, and gray elements and accents. On the far left, a vertical navigation menu. To the right of the navigation, in the upper-left section of the main content area, place a watchlist table displaying market assets and real-time price changes. Position a large candlestick chart with customized indicators as the central and most prominent element of the dashboard. In the upper-right section of the main content area, include an order-ticket panel. A scrolling news feed should be visible in the bottom section of the dashboard. The overall design should be minimalist with clear, modern typography.",
+  "annotator": "theblackcat",
+  "objects": [
+    "dark-mode trading dashboard mock-up",
+    "vertical navigation menu (on the far left)",
+    "watchlist table (in the upper-left section of the main content area)",
+    "large candlestick chart (central and most prominent element)",
+    "order-ticket panel (in the upper-right section of the main content area)",
+    "scrolling news feed (in the bottom section of the dashboard)",
+    "teal colored elements and accents",
+    "white colored elements and accents",
+    "gray colored elements and accents",
+    "minimalist design with clear, modern typography"
+  ]
+}

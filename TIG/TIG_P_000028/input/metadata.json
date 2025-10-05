@@ -1,0 +1,23 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "An abstract view of a supernova explosion, with intense colors radiating outward in all directions.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A photorealistic depiction of an abstract supernova explosion. At its brilliant, white-hot core, intense, vibrant colors of glowing plasma and swirling gas clouds radiate outwards in all directions, forming complex, nebular patterns. Hues of fiery red, electric blue, deep purple, and luminous gold blend and streak through the expanding cosmic event, illuminating fine interstellar dust against a dark, star-speckled void.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Abstract supernova explosion",
+    "Brilliant, white-hot core",
+    "Glowing plasma and swirling gas clouds",
+    "Complex, nebular patterns",
+    "Fiery red colors",
+    "Electric blue colors",
+    "Deep purple colors",
+    "Luminous gold colors",
+    "Fine interstellar dust",
+    "Dark, star-speckled void"
+  ],
+  "human_annotation": true
+}

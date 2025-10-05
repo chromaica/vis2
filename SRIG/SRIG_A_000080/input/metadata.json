@@ -1,0 +1,25 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Stylized art",
+  "prompt": "Generate a digital painting of a cyberpunk cityscape at night.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a digital painting of a cyberpunk cityscape at night, leveraging the street perspective and rain-soaked reflections from image 1. Populate the scene with towering, futuristic buildings bathed in the glow of vibrant neon signs and dynamic holographic advertisements. Replace the current vehicles with sleek, advanced cars, their lights casting luminous trails on the wet asphalt. Maintain the heavy rain and deep reflections seen in image 1, creating a gritty, high-tech urban environment.",
+  "annotator": "Johnny",
+  "objects": [
+    "Cyberpunk cityscape",
+    "Night",
+    "Street perspective",
+    "Heavy rain",
+    "Deep reflections on wet asphalt",
+    "Towering, futuristic buildings",
+    "Vibrant neon signs",
+    "Dynamic holographic advertisements",
+    "Sleek, advanced cars",
+    "Luminous trails from car lights"
+  ],
+  "human_annotation": true
+}

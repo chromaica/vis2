@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "A collage of historical newspaper clippings from different decades, artistically arranged to showcase evolving headlines, on a lightly distressed brown background.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A layered collage composed of aged newspaper clippings of various sizes, displaying faded black-and-white or sepia tones and slightly frayed edges. The clippings are artistically arranged and partially overlap, with their prominent headlines strategically positioned to visually showcase an evolving historical narrative. This intricate arrangement is set against a subtly textured, lightly distressed brown background.",
+  "annotator": "cwhsu",
+  "objects": [
+    "layered collage",
+    "aged newspaper clippings",
+    "newspaper clippings of various sizes",
+    "newspaper clippings with faded black-and-white or sepia tones",
+    "newspaper clippings with slightly frayed edges",
+    "partially overlapping newspaper clippings",
+    "prominent newspaper headlines",
+    "subtly textured brown background",
+    "lightly distressed brown background"
+  ],
+  "human_annotation": true
+}

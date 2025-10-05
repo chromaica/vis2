@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "A vibrant and cheerful typographic piece: 'CREATE JOY' lettered in a flowing, whimsical hand-painted brush script. The characters are filled with bright, happy hues like sunny yellow, sky blue, and rosy pink, showing visible brush stroke texture and slight watercolor bleeding effects. This is set against a soft, textured white paper background with subtle watercolor washes around the text, for a light, airy, artistic feel.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate an image of the text 'CREATE JOY'. The lettering is a whimsical, flowing hand-painted brush script. Characters are vibrant, filled with bright watercolor hues of sunny yellow, sky blue, and rosy pink, showcasing clear brush stroke textures and subtle watercolor bleeding. The text is centered on a soft, textured white paper background. Delicate watercolor washes subtly surround the letters on the background. The overall style is light, airy, and artistic.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Text 'CREATE JOY'",
+    "Whimsical, flowing hand-painted brush script lettering",
+    "Vibrant watercolor hues (sunny yellow, sky blue, rosy pink) filling the text",
+    "Clear brush stroke textures within the text",
+    "Subtle watercolor bleeding within the text",
+    "Soft, textured white paper background",
+    "Text 'CREATE JOY' centered on the background",
+    "Delicate watercolor washes subtly surrounding the letters on the background"
+  ],
+  "human_annotation": true
+}

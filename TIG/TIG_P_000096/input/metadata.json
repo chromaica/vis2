@@ -1,0 +1,17 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "A magnified view of a butterfly wing, revealing the brilliant iridescent blue scales with intricate, geometric alignments.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Photorealistic extreme macro shot of a butterfly wing, capturing highly detailed, brilliant iridescent blue scales arranged in intricate and precise geometric patterns, shimmering intensely under direct light.",
+  "annotator": "cwhsu",
+  "objects": [
+    "butterfly wing",
+    "iridescent blue scales",
+    "intricate geometric patterns",
+    "intense shimmering",
+    "direct light"
+  ]
+}

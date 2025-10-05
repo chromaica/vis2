@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "create a force-directed network graph of cryptocurrency transactions showing wallet addresses as nodes sized by balance, edges colored by transaction frequency (blue=rare, red=frequent), with suspicious clusters highlighted in neon yellow",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a force-directed network graph visualizing cryptocurrency transactions. Wallet addresses are represented as nodes, with their size proportional to the wallet's balance. Edges connecting nodes represent transactions, colored by frequency: blue for rare transactions and red for frequent transactions. Suspicious clusters within the graph are prominently highlighted in neon yellow.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Force-directed network graph",
+    "Nodes representing wallet addresses",
+    "Nodes with varying sizes (proportional to wallet balance)",
+    "Edges connecting nodes (representing transactions)",
+    "Blue edges (for rare transactions)",
+    "Red edges (for frequent transactions)",
+    "Suspicious clusters within the graph",
+    "Neon yellow highlighting on suspicious clusters"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "Create a racing game HUD using the speedometer design from the first image and the leaderboard layout from the second image.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a racing game Heads-Up Display (HUD). The HUD should incorporate the digital instrument cluster from image 1, featuring its speedometer, tachometer, gear indicator, and the overall octagonal, high-tech design. Position this main display at the bottom-center of the HUD. Additionally, integrate the race results leaderboard from image 2, replicating its distinct layout with numbered rankings, player names, and elapsed times. Place this leaderboard in the top-right corner of the HUD.",
+  "annotator": "paria",
+  "objects": [
+    "Digital instrument cluster (from image 1) at bottom-center",
+    "Speedometer (within the instrument cluster)",
+    "Tachometer (within the instrument cluster)",
+    "Gear indicator (within the instrument cluster)",
+    "Octagonal, high-tech design of the instrument cluster",
+    "Race results leaderboard (from image 2) at top-right",
+    "Numbered rankings on the leaderboard",
+    "Player names on the leaderboard",
+    "Elapsed times on the leaderboard",
+    "Distinct layout of the leaderboard"
+  ],
+  "human_annotation": true
+}

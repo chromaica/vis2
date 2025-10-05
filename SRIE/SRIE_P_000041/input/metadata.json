@@ -1,0 +1,27 @@
+{
+  "task": "SRIE",
+  "topic": "P",
+  "subtopic": "Medical images",
+  "prompt": "Repair the torn Achilles tendon in image 1 using the reference intact tendon structure, ensuring anatomical continuity and realistic texture.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Restore the torn Achilles tendon, visible as a discontinuity at the posterior ankle, to an anatomically intact and continuous structure. Use image 2 as a reference for the healthy tendon's appearance and texture. Maintain a photorealistic medical MRI scan style.",
+  "annotator": "nimajamali",
+  "objects": [
+    "Photorealistic medical MRI scan style",
+    "Ankle joint",
+    "Tibia",
+    "Talus",
+    "Calcaneus (heel bone)",
+    "Other foot bones",
+    "Soft tissues of the ankle",
+    "Anatomically intact and continuous Achilles tendon",
+    "Posterior ankle region",
+    "Dark background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

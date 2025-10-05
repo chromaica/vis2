@@ -1,0 +1,23 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Replace the \u2018o\u2019 in \u2018Eco\u2019 with the leaf, matching baseline and x-height.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the first 'o' character in the word 'ecoleaf' with the leaf shape from image 2. The replaced leaf must adopt the same green, textured fill as the other letters in image 1. Ensure the leaf's bottom edge aligns with the baseline, and its main body height matches the x-height of the surrounding lowercase characters, seamlessly integrating into the 'ecoleaf' logotype.",
+  "annotator": "matina",
+  "objects": [
+    "letters 'e', 'c', 'l', 'e', 'a', 'f' of the 'ecoleaf' logotype",
+    "leaf graphic replacing the first 'o' character in 'ecoleaf'",
+    "original leaf graphic to the right of the 'ecoleaf' logotype",
+    "green, textured fill",
+    "text \"for a clean conscience\"",
+    "green script font",
+    "white background",
+    "first 'o' character of 'ecoleaf' (should not be present)"
+  ]
+}

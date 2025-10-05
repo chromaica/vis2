@@ -1,0 +1,22 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Traditional art",
+  "prompt": "Produce a graphite pencil sketch using the animal in image 1, the pose in image 2, and the background from image 3.",
+  "cond_images": [
+    "1.jpg",
+    "2.png",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a graphite pencil sketch of the red fox from image 1, depicted in the sitting pose from image 2 and facing forward. The sketch should feature the lush, misty forest background from image 3, including the distinctive natural framing of large tree trunks.",
+  "annotator": "samin",
+  "objects": [
+    "red fox",
+    "fox in a sitting pose",
+    "fox facing forward",
+    "lush forest background",
+    "misty forest atmosphere",
+    "large tree trunks forming a natural frame"
+  ]
+}

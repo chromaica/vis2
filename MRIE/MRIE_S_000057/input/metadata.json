@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": " In image 1, replace the red 'SHOP NOW' button below the text with the red 'LOGOUT' button from image 3, maintaining the same size and position. Add the gray '24/7 Support' icon from image 2 to the top-right corner of the header, next to the 'My Account' text. Keep all other layout elements unchanged.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the website screenshot provided as image 1. In the main content area, replace the red 'SHOP NOW' button (located below the 'Get up to 30% Off New Arrivals' text) with the red 'LOGOUT' button shown in image 3, maintaining its exact size and position. In the top header bar, add the gray '24/7 Support' icon from image 2, placing it to the immediate left of the 'My Account' text in the top-right corner. All other layout elements and content within image 1 must remain unchanged.",
+  "annotator": "parnian",
+  "objects": [
+    "website browser interface",
+    "top header bar",
+    "gray '24/7 Support' icon (to the immediate left of 'My Account' text)",
+    "COLOSHOP logo",
+    "main navigation menu (HOME, SHOP, PROMOTION, PAGES, BLOG, CONTACT)",
+    "woman in main content area",
+    "\"Get up to 30% Off New Arrivals\" text",
+    "red 'LOGOUT' button (in place of 'SHOP NOW' button)",
+    "red 'SHOP NOW' button (should not be present)",
+    "three product preview blocks (Women's, Accessories, Men's)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

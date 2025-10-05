@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "An impactful poster design: the word 'VISION' in bold, metallic gold sans-serif lettering, standing out against a deep blue, abstractly textured background.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A poster design featuring the word 'VISION'. The word is centrally placed, bold, and rendered in metallic gold sans-serif lettering. It sharply contrasts with a deep blue, abstractly textured background.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "The word 'VISION'",
+    "Metallic gold lettering",
+    "Sans-serif font",
+    "Bold typography",
+    "Centrally placed text",
+    "Deep blue background",
+    "Abstractly textured background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

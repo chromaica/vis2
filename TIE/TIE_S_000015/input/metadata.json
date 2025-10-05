@@ -1,0 +1,25 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "Convert angry birds into joyful cats, positioned on a stronger catapult.",
+  "cond_images": [
+    "1.jpeg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. On the left side of the image, replace the angry birds on and near the catapult with joyful cats. Concurrently, transform the existing wooden catapult into a visibly stronger and more robust version.",
+  "annotator": "cwhsu",
+  "objects": [
+    "joyful cats on the left side",
+    "stronger and more robust catapult on the left side",
+    "sky",
+    "green landscape",
+    "ground",
+    "structure made of ice and stone blocks",
+    "green pigs",
+    "eggs",
+    "Highscore display",
+    "Pause button"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,22 @@
+{
+  "subtopic": "Cultural or Heritage art",
+  "prompt": "Transform Image 1, depicting the temple and flowers, into a flat, stylized vector illustration, applying the distinct graphic and colorful aesthetic observed in the cultural landmarks of Image 2 to the entire scene.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748489685655,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit Image 1, which displays a multi-tiered stone temple surrounded by a field of vibrant flowers, into a flat, stylized vector illustration. Apply the distinct graphic, simplified, and brightly colored aesthetic observed in the iconic cultural landmarks of Image 2 to all elements within Image 1, including the temple, the foreground flowers, and the background sky. The resulting scene should feature clean lines, simplified shapes, and flat, uniform color fills, characteristic of modern vector art.",
+  "annotator": "kellycyy",
+  "objects": [
+    "multi-tiered stone temple",
+    "foreground flowers",
+    "background sky",
+    "background trees/foliage"
+  ],
+  "human_annotation": true
+}

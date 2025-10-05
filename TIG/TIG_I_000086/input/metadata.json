@@ -1,0 +1,19 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "Gaming controller icon constructed entirely from tetris blocks, neon cyan and magenta, pixel art style with glow effects",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A gaming controller icon, centrally composed of interlocking Tetris blocks. The image should be in a detailed pixel art style, featuring vibrant neon cyan and magenta colors with a radiant glow effect.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Centrally positioned gaming controller icon",
+    "Interlocking Tetris blocks",
+    "Detailed pixel art style",
+    "Vibrant neon cyan colors",
+    "Vibrant neon magenta colors",
+    "Radiant glow effect"
+  ],
+  "human_annotation": true
+}

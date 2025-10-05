@@ -1,0 +1,21 @@
+{
+  "task": "SRIE",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "Restore the missing atom in the masked region to complete the 2D material\u2019s atomic structure.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Within the dark triangular void located in the upper-left section, as precisely outlined by image 2, generate a new atom. This new atom should be photorealistic and seamlessly match the appearance, size, brightness, and hexagonal arrangement of the surrounding atoms to complete the 2D material\u2019s atomic structure.",
+  "annotator": "nimajamali",
+  "objects": [
+    "2D material's atomic structure",
+    "Multiple atoms in a hexagonal arrangement",
+    "A new atom in the upper-left section, matching surrounding atoms in appearance, size, and brightness",
+    "Dark triangular void in the upper-left section (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

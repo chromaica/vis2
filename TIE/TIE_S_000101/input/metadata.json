@@ -1,0 +1,18 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "QR codes",
+  "prompt": "Replace the central blue logo with a vivid green color, maintaining its shape and contrast against the QR pattern.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Change the color of the central blue Twitter bird logo to a vivid green, ensuring its original shape and strong contrast against the surrounding QR code pattern are perfectly maintained.",
+  "annotator": "cwhsu",
+  "objects": [
+    "QR code pattern",
+    "Twitter bird logo (vivid green)",
+    "QR code corner markers"
+  ],
+  "human_annotation": true
+}

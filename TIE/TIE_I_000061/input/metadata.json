@@ -1,0 +1,20 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "Transform the graph bars into vibrant skyscrapers, add a sunset sky with golden hues and soft, glowing clouds.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Transform the dark gray graph bars into a vibrant city skyline of detailed skyscrapers, maintaining their current positions and relative heights. Replace the white background with a dramatic sunset sky featuring deep golden hues, warm orange and red tones, and soft, glowing clouds positioned above the skyline.",
+  "annotator": "cwhsu",
+  "objects": [
+    "dark gray graph bars (should not be present)",
+    "white background (should not be present)",
+    "vibrant city skyline of detailed skyscrapers",
+    "dramatic sunset sky",
+    "soft, glowing clouds",
+    "blue graph/arrow"
+  ]
+}

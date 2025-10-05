@@ -1,0 +1,22 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "Generate a digital scene where the person from image 1 is riding the horse from image 2 through a moonlit night.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a digital painting depicting the woman with short pink hair from image 1 riding the abstract, sculptural horse from image 2. The scene is set under a clear, moonlit night sky, with strong moonlight illuminating the figures and casting sharp shadows. The composition should provide a dynamic full-body view of both the rider and the horse.",
+  "annotator": "samin",
+  "objects": [
+    "woman with short pink hair",
+    "abstract sculptural horse",
+    "clear night sky",
+    "moon",
+    "strong moonlight",
+    "sharp shadows"
+  ],
+  "human_annotation": true
+}

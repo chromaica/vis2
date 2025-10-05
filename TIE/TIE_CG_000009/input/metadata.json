@@ -1,0 +1,28 @@
+{
+  "subtopic": "Object detection visuals",
+  "prompt": "Refine the object detection display: make the bounding boxes around the detected objects thicker with a solid bright yellow outline.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751817145682,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1. Change the appearance of the bounding boxes around the detected objects (potted plant, cup, and bottle) by making their outlines noticeably thicker and changing their color to a solid bright yellow.",
+  "annotator": "edisy",
+  "objects": [
+    "Potted plant with red flower",
+    "Blue cup containing pens and scissors",
+    "Clear bottle",
+    "Desk surface",
+    "Background wall",
+    "Thick, bright yellow bounding box around the potted plant",
+    "Thick, bright yellow bounding box around the blue cup",
+    "Thick, bright yellow bounding box around the clear bottle",
+    "Object detection window frame and title bar",
+    "Object detection text labels (e.g., \"potted plant: 84%\")"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

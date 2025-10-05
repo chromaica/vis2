@@ -1,0 +1,29 @@
+{
+  "subtopic": "UI mockups",
+  "prompt": "Create a UI mockup using the overall layout and typical components from image 2. Within this UI structure, include a graphic section featuring a chart inspired by the visual style and data representation of image 1.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "Information Graphics UI Mockup",
+  "searchQueryGeneratedTimestamp": 1750583122988,
+  "promptGeneratedTimestamp": 1750583415589,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "I",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a user interface (UI) mockup. The overall layout, typical components (e.g., rounded buttons, input fields, navigation sidebar, user profile cards), and general aesthetic should be derived from image 2. Within this UI structure, specifically in the main data visualization panel (similar to the 'graphic update' section in image 2, typically found in a central position), integrate a chart. This integrated chart must adopt the visual style and data representation of image 1: it should have a dark background, feature glowing, spiky vertical bars or columns in bright orange and yellow hues, and clearly display numerical data values above each bar, indicating daily progression.",
+  "objects": [
+    "User interface (UI) mockup",
+    "Rounded buttons",
+    "Input fields",
+    "Navigation sidebar",
+    "User profile cards",
+    "Main data visualization panel (central)",
+    "Integrated chart with dark background",
+    "Glowing, spiky vertical bars or columns",
+    "Numerical data values above each bar",
+    "Daily progression labels (e.g., Mon, Tue)"
+  ]
+}

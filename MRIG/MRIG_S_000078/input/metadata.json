@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": "Generate a screenshot of an online supermarket homepage that integrates the product card layout from the first image with the color scheme and logo positioning from the second image.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a screenshot of an online supermarket homepage. The page should feature the dark color scheme of image 2, specifically a black or dark grey background with orange accents and white text. Position the supermarket logo in the top-left corner of the page header, consistent with its placement in image 2. The main content area must display product cards in a grid layout, utilizing the distinct design characteristics found in image 1. Each product card should have rounded corners, include a product image, title, price, star rating, color and size selection options, and a 'BUY +' button. Additionally, a discount badge should be prominently located in the top-left corner of each product card, mirroring the style seen in image 1.",
+  "annotator": "paria",
+  "objects": [
+    "Online supermarket homepage screenshot",
+    "Dark color scheme (black/dark grey background, orange accents, white text)",
+    "Supermarket logo in top-left corner of page header",
+    "Product cards in a grid layout",
+    "Product cards with rounded corners",
+    "Product image on each product card",
+    "Product title, price, and star rating on each product card",
+    "Color and size selection options on each product card",
+    "'BUY +' button on each product card",
+    "Discount badge in top-left corner of each product card"
+  ]
+}

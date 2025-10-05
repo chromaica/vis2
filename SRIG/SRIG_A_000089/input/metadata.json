@@ -1,0 +1,19 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Cultural or Heritage art",
+  "prompt": "A painting of Chinese palace with a referenced bird flying in the sky.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a traditional Chinese painting depicting an ornate imperial palace. In the sky above the palace, include a bird in mid-flight, directly referencing the specific flying bird shown in the top-right of image 1 for its appearance and artistic style.",
+  "annotator": "Johnny",
+  "objects": [
+    "Traditional Chinese painting style",
+    "Ornate imperial palace",
+    "Sky",
+    "Flying bird from Image 1 (top-right), positioned above the palace"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,23 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "A calm evening lake scene with mountains reflected in the still water, the sky painted with subtle hues of pink and purple.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic wide shot of a serene evening lake scene. Majestic mountains stand prominently in the background, their forms clearly reflected in the perfectly still lake water in the foreground and midground. The expansive sky, occupying the upper portion of the image frame, is subtly painted with gentle hues of twilight pink and soft purple.",
+  "annotator": "cwhsu",
+  "objects": [
+    "perfectly still lake water",
+    "lake water in the foreground and midground",
+    "majestic mountains",
+    "mountains in the background",
+    "reflections of mountains in the lake water",
+    "expansive sky",
+    "sky in the upper portion of the image frame",
+    "twilight pink hues in the sky",
+    "soft purple hues in the sky"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

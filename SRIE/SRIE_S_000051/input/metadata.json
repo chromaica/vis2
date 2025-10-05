@@ -1,0 +1,25 @@
+{
+  "subtopic": "Games",
+  "prompt": "Edit image 1: Integrate the massive, dark demon creature from image 2 onto the beach, making it appear as a menacing new boss enemy in the sunny open-world environment.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1750833214590,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit image 1: Integrate the massive, dark red demon creature from image 2 onto the shallow water of the beach, positioning it prominently in the foreground near the existing body. The creature should appear as a colossal, menacing new boss enemy, seamlessly integrated into the bright, sunny open-world environment of image 1, casting appropriate shadows on the water and shore.",
+  "annotator": "ishengfang",
+  "objects": [
+    "massive, dark red demon creature in the foreground",
+    "man holding a gun",
+    "body in the shallow water",
+    "shallow water",
+    "beach",
+    "mountains in the background",
+    "sunny sky",
+    "shadows cast by the demon creature on the water and shore"
+  ]
+}

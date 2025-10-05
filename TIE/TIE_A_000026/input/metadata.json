@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Renaissance arts",
+  "prompt": "Repair the cracks in the painting, do not need to change anything else. Keep the texture of the canvas intact.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 by removing all visible craquelure (fine cracks) present across the entire artwork. Maintain the original artistic style, colors, lighting, composition, and all depicted elements. Ensure the characteristic texture of an aged oil painting on canvas is preserved, specifically without the cracks, to avoid an overly smooth or digital appearance.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "craquelure (should not be present)",
+    "sky with clouds",
+    "large tree on the right",
+    "river",
+    "boat/ferry on the river",
+    "person on horseback",
+    "group of people on the river bank",
+    "dog",
+    "background landscape with trees",
+    "cattle on the far bank"
+  ]
+}

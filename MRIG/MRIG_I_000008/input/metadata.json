@@ -1,0 +1,29 @@
+{
+  "subtopic": "Icons and symbols",
+  "prompt": "Generate information graphic icons based on the chart types from image 1 (like bar charts, pie charts, line graphs). Render them using the colorful outline and flat fill style characteristic of image 2.",
+  "cond_images": [
+    "1.jpeg",
+    "2.png"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "Infographic icons symbols",
+  "searchQueryGeneratedTimestamp": 1750576404574,
+  "promptGeneratedTimestamp": 1750576486646,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "I",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a collection of information graphic icons. Each icon should represent a common data visualization or chart type, drawing from the examples shown in image 1 (e.g., bar charts, pie charts, line graphs, donut charts, pyramid charts). Render these icons with clear, colorful outlines and solid, flat color fills, replicating the vibrant, clean, and minimalist style seen in image 2. Ensure the fills are uniform without gradients, shadows, or textures, and the outlines are distinctly colored rather than black.",
+  "objects": [
+    "Collection of information graphic icons",
+    "Bar chart icons",
+    "Pie chart icons",
+    "Line graph icons",
+    "Donut chart icons",
+    "Pyramid chart icons",
+    "Icons with colorful outlines",
+    "Icons with solid color fills",
+    "Gradients (should not be present)",
+    "Shadows (should not be present)"
+  ]
+}

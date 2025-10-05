@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "A chic, high-contrast receipt from \u201cP\u00e2tisserie \u00c9toile\u201d in Paris, France. Font is elegant and printed in dark gray ink. Items: 1 Mille-feuille: \u20ac5.20, 1 Espresso: \u20ac2.30, 1 Macaron Box (6pcs): \u20ac11.00. TVA 10% included. Total: \u20ac18.50. The receipt has embossed logo at the top, and lies delicately beside a half-eaten dessert and a ceramic cup on a marble caf\u00e9 table.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate an image of a chic, high-contrast receipt from 'P\u00e2tisserie \u00c9toile' in Paris, France. The receipt, printed in elegant dark gray font, displays an embossed logo at its top. It lists: '1 Mille-feuille: \u20ac5.20', '1 Espresso: \u20ac2.30', and '1 Macaron Box (6pcs): \u20ac11.00', clearly indicating 'TVA 10% included' and a 'Total: \u20ac18.50'. The receipt is delicately positioned on a polished marble caf\u00e9 table, next to a half-eaten dessert and a white ceramic coffee cup.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Chic, high-contrast receipt",
+    "Embossed logo on receipt top",
+    "Receipt text: 'P\u00e2tisserie \u00c9toile', 'Paris, France', '1 Mille-feuille: \u20ac5.20', '1 Espresso: \u20ac2.30', '1 Macaron Box (6pcs): \u20ac11.00', 'TVA 10% included', 'Total: \u20ac18.50', in elegant dark gray font",
+    "Polished marble caf\u00e9 table",
+    "Half-eaten dessert next to the receipt",
+    "White ceramic coffee cup next to the receipt"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

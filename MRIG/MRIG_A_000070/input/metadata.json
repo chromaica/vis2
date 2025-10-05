@@ -1,0 +1,22 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Cultural or Heritage art",
+  "prompt": "Generate an artwork in the style of image 1, featuring the crane from image 2 seen through a window, with a woman gazing at it from inside.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate an artwork in the Ukiyo-e woodblock print style of image 1. The scene features a traditional Japanese interior with a large, open architectural view (like a sliding door or window) looking out onto an outdoor setting. Through this opening, a flying crane, matching the form and flight of the crane in image 2 but rendered in the style of image 1, is clearly visible in the distance. Inside the room, a woman dressed in traditional Japanese attire is positioned to gaze intently towards the crane outside.",
+  "annotator": "samin",
+  "objects": [
+    "Traditional Japanese interior",
+    "Large, open architectural view (like a sliding door or window)",
+    "Outdoor setting (visible through the open view)",
+    "Flying crane (visible in the distance through the opening)",
+    "Woman in traditional Japanese attire (inside the room, gazing towards the crane)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

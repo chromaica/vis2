@@ -1,0 +1,20 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "A phoenix rising from flames at dawn",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate an artwork of a magnificent phoenix, strongly inspired by the majestic, upward-sweeping form of image 1. The phoenix is depicted vigorously emerging from a swirling mass of intense, fiery flames that form its base. The setting is dawn, with the first rays of sunlight casting golden and orange light across the sky, highlighting the phoenix and the vibrant flames against the softening pre-dawn blues. Focus on dynamic movement and the ethereal glow of the rising phoenix.",
+  "annotator": "Johnny",
+  "objects": [
+    "magnificent phoenix",
+    "swirling mass of intense, fiery flames",
+    "dawn sky",
+    "golden light",
+    "orange light",
+    "pre-dawn blue hues"
+  ]
+}

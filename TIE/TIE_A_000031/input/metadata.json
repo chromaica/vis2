@@ -1,0 +1,20 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Paintings",
+  "prompt": "Enhance the resolution of the image and enlarge it. Then, make the light source in the image come from a lower angle, adjust the intensity of light and the shape of shadow accordingly.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Increase the resolution and enlarge the overall composition. Re-illuminate the artwork so that the main light source comes from a lower angle, casting light upwards. Dynamically adjust the light intensity and reshape the shadows on the flowers, vase, and background to realistically reflect this new lighting direction.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "white flowers",
+    "green-blue rectangular vase",
+    "textured background",
+    "reshaped shadows",
+    "upward-casting light"
+  ],
+  "human_annotation": true
+}

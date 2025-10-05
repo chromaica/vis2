@@ -1,0 +1,25 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Visualize a future scenario by adding a projected flow from STEM major to new AI specialization with distinct labels.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, which displays a Sankey diagram of student major flows. Add a new projected flow to visualize a future scenario. This new flow should originate from the 'STEM major: 240' block on the left side of the diagram. It should then lead to a newly created block on the far right side of the diagram, positioned visually below the 'Stay STEM major: 200' block. This new block must be distinctly labeled 'AI Specialization: 40'. The connecting flow ribbon should also be clearly labeled 'To AI Specialization: 40'. Ensure the color and style of the new elements, including the font and numerical presentation, are consistent with the existing information graphics in image 1.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Sankey diagram",
+    "'Undeclared: 100' block",
+    "'STEM major: 240' block on the left side",
+    "'Social sciences: 50' block",
+    "'Humanities: 30' block",
+    "'Nursing: 60' block",
+    "'Stay STEM major: 200' block on the right side",
+    "Existing flow ribbons connecting major blocks",
+    "New flow ribbon originating from 'STEM major: 240', labeled 'To AI Specialization: 40'",
+    "New block on the far right, positioned below 'Stay STEM major: 200', labeled 'AI Specialization: 40'"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,20 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "Add a soft neon glow around objects closer, and a faint glow around mid-range per depth.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 by adding a soft neon glow around the 3D text (YOUR MESSAGE!) where it is closest to the viewer, referencing the brightest areas in image 2 (depth map). Additionally, apply a faint glow around the 3D text at a mid-range depth, corresponding to the medium gray areas in image 2.",
+  "annotator": "matina",
+  "objects": [
+    "3D text \"YOUR MESSAGE!\"",
+    "Soft neon glow around the 3D text closest to the viewer",
+    "Faint glow around the 3D text at mid-range depth",
+    "Shadow cast by the 3D text",
+    "White surface"
+  ]
+}

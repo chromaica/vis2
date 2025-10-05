@@ -1,0 +1,25 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "Convert this image into 9:16 aspect ratio for Instagram story. Adjust the composition to ensure the main subjects remain prominent, and all collage elements are kept intact.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, which features a collage of twelve varied photographs arranged around the central black text 'Gracias Universo' on a light grey background. Reshape the image to a 9:16 aspect ratio, suitable for an Instagram story. To achieve this, expand the canvas vertically, adding more of the light grey background above and below the existing collage. Simultaneously, adjust the vertical positioning and spacing of the individual collage elements and the central 'Gracias Universo' text, ensuring all twelve photographs and the text remain entirely visible, uncropped, and prominent within the new, taller frame. Maintain the aesthetic and relative arrangement of the collage elements as much as possible.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Light grey background",
+    "Central black text 'Gracias Universo'",
+    "Photograph of a carnival swing ride",
+    "Photograph of a person on a boat on the water",
+    "Photograph of a person standing on a mountain peak",
+    "Photograph of a woman with arms raised on a mountain",
+    "Photograph of a person on desert dunes with footprints",
+    "Photograph of a white airplane model on a globe",
+    "Photograph of a black dog with a red harness",
+    "Photograph of a couple holding hands looking at a view"
+  ],
+  "human_annotation": true
+}

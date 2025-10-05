@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Visualize a server load monitor where high traffic erupts like the lava in the first image, but the normal state is as calm as the foggy landscape in the second.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a screenshot of a server load monitor display. For elements indicating high server traffic or critical status, incorporate visual textures and dynamic effects that strongly resemble the erupting, intensely glowing orange lava and dark volcanic rock structures from image 1. For sections representing a normal or calm server state, such as a background or a 'system healthy' indicator, imbue them with the soft, muted green hues and serene, misty atmosphere of the foggy forest landscape from image 2. Ensure these distinct visual metaphors are clearly integrated into a functional-looking digital dashboard or monitoring interface, perhaps with the high-traffic elements prominently displayed and contrasting with the calm elements.",
+  "annotator": "paria",
+  "objects": [
+    "Digital dashboard interface",
+    "High server traffic elements",
+    "Critical status indicators",
+    "Glowing orange lava texture",
+    "Dark volcanic rock structures",
+    "Normal server state indicators",
+    "'System healthy' indicator",
+    "Soft, muted green hues",
+    "Misty atmosphere",
+    "Dashboard background"
+  ]
+}

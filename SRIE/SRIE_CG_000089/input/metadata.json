@@ -1,0 +1,23 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Game assets",
+  "prompt": "Adjust the character in the source image to match the attack pose from the reference control signal.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Adjust the pose of the armored knight to precisely replicate the dynamic, overhead sword attack stance shown by the 3D model in image 2. Ensure the knight holds its large blue glowing sword in the corresponding overhead position.",
+  "annotator": "nimajamali",
+  "objects": [
+    "Armored knight",
+    "Dynamic overhead sword attack stance",
+    "Large blue glowing sword",
+    "Sword in overhead position",
+    "Stone platform",
+    "Stone pillars",
+    "Distant stone building",
+    "Sunset sky"
+  ]
+}

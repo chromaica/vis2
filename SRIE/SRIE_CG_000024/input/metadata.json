@@ -1,0 +1,22 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Depth maps",
+  "prompt": "Reposition and rescale the boat and rower in the source image to match the depth layout provided in the reference depth map.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 (the source image) by carefully repositioning and rescaling the boat and rower. The objective is to adjust their visual depth and size to match the spatial arrangement and perceived distance of the boat and rowers depicted in image 2 (the reference image).",
+  "annotator": "nimajamali",
+  "objects": [
+    "rower",
+    "rowboat",
+    "oars",
+    "water",
+    "distant treeline",
+    "sky",
+    "wake behind the boat"
+  ]
+}

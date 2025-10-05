@@ -1,0 +1,20 @@
+{
+  "subtopic": "CAD models",
+  "prompt": "Change the valve handle to bright red ABS plastic and apply a realistic brushed stainless steel texture to the valve body.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751798606099,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1. Transform the black valve handle into bright red ABS plastic. Apply a realistic brushed stainless steel texture to the main valve body.",
+  "annotator": "edisy",
+  "objects": [
+    "bright red ABS plastic valve handle",
+    "main valve body with realistic brushed stainless steel texture",
+    "dimensional lines",
+    "dimensional text"
+  ]
+}

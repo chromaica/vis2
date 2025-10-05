@@ -1,0 +1,25 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Replace the dropdown list for DL State with a list of car brands.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. In the open dropdown menu labeled 'DL State' on the right side of the image, replace the current list of US states with a list of car brands. Preserve the existing visual style and layout of the dropdown menu, including its scrollbar and item selection highlight.",
+  "annotator": "cwhsu",
+  "objects": [
+    "CrimeStar State Interface Client application window",
+    "Left panel with green text content",
+    "Right form panel with user input fields (e.g., Last Name, First Name, DOB)",
+    "\"DL State\" label",
+    "Open dropdown menu (from \"DL State\" field)",
+    "List of car brands (e.g., Toyota, Honda, Ford) within the dropdown menu",
+    "Dropdown menu scrollbar",
+    "Item selection highlight within the dropdown menu (applied to a car brand)",
+    "\"Submit Transaction\" button",
+    "\"MESSAGE WAITING\" bar"
+  ],
+  "human_annotation": true
+}

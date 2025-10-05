@@ -1,0 +1,23 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Stylized art",
+  "prompt": "Replace the blue eye color of the person and the yellow flower in the first image with the eye color of the person from the second image and the blue flower from the third image, respectively.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Change the person's blue eye color to match the golden-brown eye color of the person in image 2. Additionally, replace the orange and yellow flower located on the right side of the person's head in image 1 with a blue flower inspired by the style and color of the flowers in image 3.",
+  "annotator": "paria",
+  "objects": [
+    "Person (artwork style)",
+    "Hat",
+    "Golden-brown eyes",
+    "Red lips",
+    "Blue flower (on the right side of the person's head)",
+    "Orange and yellow flower (should not be present)",
+    "Abstract geometric background"
+  ]
+}

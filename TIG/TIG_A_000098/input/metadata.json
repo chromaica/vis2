@@ -1,0 +1,18 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "A hyper-realistic digital portrait of a mythical warrior with luminescent tattoos, set against a backdrop of roaring waves illuminated by a fiery sunset.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a hyper-realistic digital portrait focusing on a mythical warrior. The warrior features luminescent tattoos and is positioned against a backdrop of roaring waves. The entire scene is illuminated by a fiery sunset.",
+  "annotator": "cwhsu",
+  "objects": [
+    "mythical warrior",
+    "luminescent tattoos",
+    "roaring waves",
+    "fiery sunset"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

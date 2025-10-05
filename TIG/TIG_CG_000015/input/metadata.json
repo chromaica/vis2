@@ -1,0 +1,18 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "A semantic map of two brown horses grazing on grass next to a lighthouse.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A semantic map depicting two brown horses grazing on grass, with a lighthouse positioned directly beside them.",
+  "annotator": "maxku",
+  "objects": [
+    "semantic map",
+    "two brown horses",
+    "grass",
+    "lighthouse positioned directly beside the horses"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

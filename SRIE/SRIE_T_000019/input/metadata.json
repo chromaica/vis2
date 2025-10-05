@@ -1,0 +1,22 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "Apply the shifting rainbow sheen and light streaks from the foil.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Apply the iridescent, shifting rainbow sheen and light reflections from the holographic foil effect of image 2 to the white text forming the cat silhouette.",
+  "annotator": "matina",
+  "objects": [
+    "dark gray background",
+    "cat silhouette",
+    "text forming the cat silhouette",
+    "iridescent sheen on the text",
+    "shifting rainbow colors on the text",
+    "light reflections on the text",
+    "holographic foil effect appearance on the text"
+  ]
+}

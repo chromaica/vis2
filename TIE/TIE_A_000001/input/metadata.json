@@ -1,0 +1,23 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Animation",
+  "prompt": "Add a bell to the cat in the sprite sheet. Each cat should have a consistent bell design and shows the movement of the bell as the cat moves.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "1.png source: https://www.freepik.com/free-vector/hand-drawn-animation-frames-element-collection_33591464.htm#fromView=keyword&page=1&position=0&uuid=631a40ec-6a48-42fb-9409-7debcef49e9f&query=Sprite+Sheets",
+  "prompt_refined": "Edit image 1. Add a small, consistently designed bell to the neck area of each of the six blue cat sprites. The bell's position and orientation must dynamically reflect the specific movement and posture of the cat in each frame, showing realistic hanging physics (e.g., swinging, tilting, or bouncing slightly) as the cat runs, walks, and jumps through frames 1-6.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Blue cat sprite 1 with a dynamically positioned bell",
+    "Blue cat sprite 2 with a dynamically positioned bell",
+    "Blue cat sprite 3 with a dynamically positioned bell",
+    "Blue cat sprite 4 with a dynamically positioned bell",
+    "Blue cat sprite 5 with a dynamically positioned bell",
+    "Blue cat sprite 6 with a dynamically positioned bell",
+    "Numeric labels 1, 2, 3, 4, 5, 6",
+    "Light blue background",
+    "Shadows under the cat sprites"
+  ]
+}

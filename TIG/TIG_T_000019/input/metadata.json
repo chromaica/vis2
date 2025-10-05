@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Visualize 'Build Your Legacy' as striking, polished gold 3D sans-serif lettering. This powerful statement is set before a crisp abstract geometric design in navy and gold, creating a strong brand feel.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate an image of the phrase 'Build Your Legacy' rendered as striking, polished 3D gold sans-serif lettering, centrally positioned. This typography is set before a crisp abstract geometric design, composed of sharp lines and shapes in deep navy blue and rich gold tones. The overall composition should project a powerful and sophisticated brand identity.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "'Build Your Legacy' phrase",
+    "3D gold sans-serif lettering",
+    "Centrally positioned lettering",
+    "Abstract geometric design",
+    "Sharp lines",
+    "Sharp shapes",
+    "Deep navy blue tones",
+    "Rich gold tones"
+  ]
+}

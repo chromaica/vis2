@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Convert the unit to million dollars and adjust the vertical axis values accordingly.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Update the unit declaration text 'IN BILLIONS (USD)' located below the chart's main title to 'IN MILLION DOLLARS (USD)'. Simultaneously, modify the numerical labels on the vertical axis (Y-axis) on the left side of the chart from 0, 5, 10, 15, 20, 25 to 0, 5000, 10000, 15000, 20000, 25000 respectively.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Chart title: \"US music sales by format (inflation-adjusted)\"",
+    "Unit declaration text: \"IN MILLION DOLLARS (USD)\"",
+    "Vertical axis (Y-axis) with numerical labels 0, 5000, 10000, 15000, 20000, 25000",
+    "Horizontal axis (X-axis) with numerical labels 1973, 1978, 1983, 1988, 1993, 1998, 2003, 2008, 2013, 2018",
+    "Stacked area chart representing music sales by format",
+    "\"COMPACT DISC\" area within the chart",
+    "\"VINYL\" area within the chart",
+    "\"CASSETTE\" area within the chart",
+    "\"STREAMING\" area within the chart",
+    "Source text: \"SOURCE: Recording Industry Association of America\""
+  ]
+}

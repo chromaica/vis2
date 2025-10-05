@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Typography-not-english",
+  "prompt": "Fill the piano silhouette from image 1 with the word \u201c\u062f\u0631\u06cc\u0627\u201d written in the Persian calligraphy style of image 3, arranged wave-like to follow the contours of the ocean in image 2.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate an image where the internal area of the grand piano silhouette from image 1 is completely filled with instances of the Persian word \u201c\u062f\u0631\u06cc\u0627\u201d. These words must be rendered in the distinct Persian calligraphy style shown in image 3 and arranged in multiple undulating, horizontal layers, mimicking the wave patterns and layered appearance of the watercolor ocean in image 2, adapting their flow to the internal shape of the piano.",
+  "annotator": "parnian",
+  "objects": [
+    "Grand piano silhouette",
+    "Persian word \u201c\u062f\u0631\u06cc\u0627\u201d",
+    "Persian calligraphy style",
+    "Multiple instances of the Persian word \u201c\u062f\u0631\u06cc\u0627\u201d",
+    "Undulating layers of text",
+    "Horizontal text layers",
+    "Wave patterns formed by text",
+    "Layered appearance of text",
+    "Blue watercolor tones (for the text layers)",
+    "Watercolor textures (for the text layers)"
+  ]
+}

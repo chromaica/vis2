@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "replace the chinese text in the image into 'I am a dish'",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Locate the white paper sign with Chinese text, held in a clear acrylic stand, in the center of the image. Replace the existing Chinese text on this sign with the English phrase 'I am a dish'.",
+  "annotator": "theblackcat",
+  "objects": [
+    "white paper sign with \"I am a dish\" text",
+    "clear acrylic stand",
+    "multiple white plates with sliced green fruit/vegetable",
+    "metal serving counter",
+    "blue mat on the counter",
+    "industrial shelves in the background",
+    "light-colored wall in the background",
+    "stacked white plates in the background",
+    "Chinese text on the sign (should not be present)"
+  ],
+  "human_annotation": true
+}

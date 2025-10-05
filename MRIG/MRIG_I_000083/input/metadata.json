@@ -1,0 +1,27 @@
+{
+  "task": "MRIG",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Generate a network graph showing collaborations between two influencers(image 1, image2) and two brand(image 3, image4). Use each image as a node icon and connect them based on partnerships.",
+  "cond_images": [
+    "1.png",
+    "2.jpg",
+    "3.jpg",
+    "4.jpg"
+  ],
+  "remarks": "",
+  "annotator": "matina",
+  "prompt_refined": "Generate a modern network graph designed as an information graphic. The graph should visually represent potential collaborations among the four provided entities.\nUse each of the four conditioning images as distinct node icons within the graph.\nSpecifically, integrate image 1 (Chiara Ferragni, a female influencer) and image 2 (a male influencer) as individual nodes.\nIntegrate image 3 (a cosmetics brand logo) and image 4 (the Nike brand logo) as additional individual nodes.\nArrange these four nodes in a clear, well-spaced layout; place the influencer nodes (image 1 and image 2) on the left side of the graph and the brand nodes (image 3 and image 4) on the right side.\nConnect these nodes with clean, straight lines or arrows to visually indicate hypothetical partnerships between them. The overall design should be crisp, minimalist, and highly legible, suitable for data visualization.",
+  "objects": [
+    "Modern network graph",
+    "Information graphic design",
+    "Node icon representing Chiara Ferragni (from Image 1), on the left side",
+    "Node icon representing a male influencer (from Image 2), on the left side",
+    "Node icon representing a cosmetics brand logo (from Image 3), on the right side",
+    "Node icon representing the Nike brand logo (from Image 4), on the right side",
+    "Clean, straight lines connecting nodes",
+    "Arrows connecting nodes",
+    "Well-spaced node layout",
+    "Minimalist design"
+  ]
+}

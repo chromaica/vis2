@@ -1,0 +1,23 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "a nebula with fine, smooth gas clouds using this fabric\u2019s texture and material qualities.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic image of a nebula. The gas clouds of the nebula should exhibit a fine, smooth texture and flowing forms, capturing the soft, luminous sheen and nuanced interplay of light and shadow observed on the velvet fabric in image 1.",
+  "annotator": "samin",
+  "objects": [
+    "photorealistic image",
+    "nebula",
+    "gas clouds",
+    "fine texture",
+    "smooth texture",
+    "flowing forms",
+    "soft sheen",
+    "luminous sheen",
+    "nuanced interplay of light and shadow"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Edit image 1, the butterfly diagram, by changing its white background to the black polka dot pattern from image 2. Recolor the butterfly illustration, labels, and lines using the vibrant retro color palette provided in image 3.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the anatomical diagram of a butterfly, by replacing its white background with the black polka dot pattern from image 2. Recolor the butterfly illustration, including its wings and body, as well as all the anatomical labels and connecting lines, using the vibrant retro color palette provided in image 3.",
+  "annotator": "maxku",
+  "objects": [
+    "anatomical diagram of a butterfly",
+    "butterfly wings",
+    "butterfly body",
+    "anatomical labels",
+    "connecting lines",
+    "black polka dot pattern background",
+    "white background (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

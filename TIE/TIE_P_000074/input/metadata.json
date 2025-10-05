@@ -1,0 +1,18 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "make the sky clear : remove any clouds in the night sky",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Completely clear the night sky by removing all existing clouds. The resulting image should show the moon against a clear, dark night sky.",
+  "annotator": "theblackcat",
+  "objects": [
+    "moon",
+    "clear, dark night sky",
+    "clouds (should not be present)",
+    "blurry reddish object in foreground"
+  ]
+}

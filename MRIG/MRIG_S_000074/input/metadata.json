@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Generate a screenshot of an alarm clock app that shows a list of multiple alarms with toggles, using the layout and toggle style from the first image and the color theme from the second image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a mobile app screenshot depicting an alarm clock. The screen should feature a vertical list of multiple alarm entries, each with a time, a descriptive label (e.g., 'Tomorrow', specific days), and an interactive toggle switch on the right. Adopt the specific layout and toggle switch style from image 1, including the top status bar, the floating action button (FAB) positioned at the bottom-center, and the bottom navigation bar. Apply the vibrant red background and white foreground elements from the color theme of image 2 throughout the entire app interface.",
+  "annotator": "paria",
+  "objects": [
+    "Mobile app screenshot",
+    "Vibrant red background",
+    "White foreground elements",
+    "Top status bar",
+    "Vertical list of multiple alarm entries",
+    "Time display for each alarm entry",
+    "Descriptive label for each alarm entry",
+    "Interactive toggle switch on the right for each alarm entry",
+    "Floating Action Button (FAB) at bottom-center",
+    "Bottom navigation bar"
+  ]
+}

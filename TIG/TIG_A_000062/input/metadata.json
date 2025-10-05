@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "A fashion-inspired collage combining sketches of elegant dresses with real fabric swatches, layered to create a dynamic, textured fashion plate on a gray background.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A dynamic and textured fashion-inspired mixed-media collage, showcasing several elegant dress sketches in a classic fashion illustration style. These sketches are intricately layered with various real fabric swatches, including silk, lace, and brocade, creating an overlapping composition. The entire fashion plate is presented on a clean, neutral gray background.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Mixed-media collage",
+    "Elegant dress sketches",
+    "Silk fabric swatches",
+    "Lace fabric swatches",
+    "Brocade fabric swatches",
+    "Classic fashion illustration style (for sketches)",
+    "Overlapping composition",
+    "Neutral gray background",
+    "Textured elements",
+    "Dynamic arrangement"
+  ]
+}

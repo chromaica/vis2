@@ -1,0 +1,21 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "Add fireworks in the sky to celebrate a team victory in this vibrant game scene.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 by adding colorful celebratory fireworks in the background, above the game map, to signify a team victory.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Game map",
+    "In-game characters",
+    "Game user interface elements",
+    "Buildings surrounding the map",
+    "Colorful celebratory fireworks in the background, above the game map"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

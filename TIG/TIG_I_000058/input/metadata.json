@@ -1,0 +1,24 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "design a subway-style transit map for interdimensional travel, showing colorful line connections between parallel universes, with station names like \"Mirror Earth,\" \"Steampunk Timeline,\" and \"Medieval Nexus\"",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a detailed, subway-style transit map for interdimensional travel. Display vibrant, color-coded lines connecting parallel universes, with clearly visible station names including 'Mirror Earth,' 'Steampunk Timeline,' and 'Medieval Nexus.' The map should have a clean, modern aesthetic.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Subway-style transit map",
+    "Vibrant, color-coded lines",
+    "Station names",
+    "'Mirror Earth' station name",
+    "'Steampunk Timeline' station name",
+    "'Medieval Nexus' station name",
+    "Transit stations (visual markers for stops)",
+    "Line intersections and connections",
+    "Map background",
+    "Map title"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

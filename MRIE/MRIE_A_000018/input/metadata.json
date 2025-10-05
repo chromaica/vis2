@@ -1,0 +1,17 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Traditional art",
+  "prompt": "Place a blanket with the same fabric and color as the one in the second image over the womans body in the first image, and replace the background of the first image with third image.",
+  "cond_images": [
+    "1.png",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 by draping a blanket, replicating the deep red color and rich fabric texture of the drapery in image 2, over the woman's body. Additionally, replace the entire background of image 1 with the expansive mountainous landscape, including the lake and trees, from image 3.",
+  "annotator": "paria",
+  "objects": [],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

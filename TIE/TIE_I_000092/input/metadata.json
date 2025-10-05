@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Transform the years' sections into a gradually evolving spectrum to represent transitions over time.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Transform the distinct solid colors of the large arc segments on the left side of the diagram, labeled '2015', '2016', and '2017', into a continuous, gradually evolving color spectrum. The colors should smoothly blend from the 2015 segment, through the 2016 segment, and into the 2017 segment, creating a visual gradient that represents the flow and transition over time.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Chart title \"Remittance Inflow (US$ million) by Country and Year\"",
+    "Large arc segments on the left, forming a continuous color spectrum",
+    "Label '2015'",
+    "Label '2016'",
+    "Label '2017'",
+    "Connecting flow lines/bands",
+    "Smaller rectangular segments on the right",
+    "Country labels on the right (e.g., Vietnam, Sri Lanka)",
+    "Country labels on the left (e.g., Bangladesh, Belgium)",
+    "Central circular hub of the diagram"
+  ]
+}

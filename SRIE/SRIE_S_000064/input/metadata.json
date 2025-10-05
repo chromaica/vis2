@@ -1,0 +1,29 @@
+{
+  "subtopic": "Software interfaces",
+  "prompt": "Edit image 1: Replace the circular user avatars in the top horizontal list with the rectangular thumbnail images showing video previews from the media library section in image 2, maintaining their position and aspect ratio.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1752236839761,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "annotator": "ishengfang",
+  "prompt_refined": "Edit image 1: Replace the row of circular user avatars located at the top of the dashboard with the rectangular video thumbnail previews from the 'Media Content' panel in image 2, maintaining their original position and aspect ratio.",
+  "objects": [
+    "Dashboard application interface",
+    "Left navigation sidebar",
+    "Rectangular video thumbnail previews (at the top of the dashboard)",
+    "\"30 Days Performance\" data panels",
+    "\"Daily Views\" line graph",
+    "\"Last 30 Days Performance\" circular progress bar",
+    "\"Blinking Light\" media content card",
+    "\"Ameer Hussain\" user profile information panel (on the right)",
+    "Statistics panel with percentage targets",
+    "Circular user avatars (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

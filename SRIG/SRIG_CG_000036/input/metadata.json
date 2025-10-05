@@ -1,0 +1,24 @@
+{
+  "subtopic": "Depth maps",
+  "prompt": "Based on this depth map, render a computer graphics scene. Show two figures, one dynamic and one standing, in an environment, adding realistic textures and lighting effects to create a full image.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://www.researchgate.net/publication/264873549/figure/fig1/AS:392207665254400@1470521002659/Examples-of-depth-image.png",
+  "promptGeneratedTimestamp": 1748767194041,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a complete computer graphics scene using the depth map provided in image 1 as a structural reference. The scene must feature two full-body figures within an indoor environment, such as a studio or a simple room. Specifically, render a dynamic figure on the left, posed in mid-action with an extended leg and arms, and a stationary figure on the right, standing upright with one hand near its head. Apply realistic textures, detailed shading, and naturalistic lighting effects to all elements, creating a fully rendered computer graphics image.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Indoor environment (e.g., studio or simple room)",
+    "Floor",
+    "Walls",
+    "Dynamic full-body figure on the left",
+    "Extended leg of the dynamic figure",
+    "Extended arms of the dynamic figure",
+    "Stationary full-body figure on the right",
+    "Hand of the stationary figure near its head"
+  ]
+}

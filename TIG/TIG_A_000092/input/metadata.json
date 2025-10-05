@@ -1,0 +1,17 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "An imaginative collage of marine life, where tropical fish swim through a backdrop of outer space, blending oceanic and cosmic elements seamlessly.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "An imaginative collage depicting colorful tropical fish dynamically swimming within a vast outer space backdrop. The cosmic environment, featuring swirling nebulae, twinkling stars, and ethereal planets, seamlessly integrates with the aquatic elements, creating a unified and fantastical blend of oceanic and cosmic realms.",
+  "annotator": "cwhsu",
+  "objects": [
+    "colorful tropical fish",
+    "outer space backdrop",
+    "swirling nebulae",
+    "twinkling stars",
+    "ethereal planets"
+  ]
+}

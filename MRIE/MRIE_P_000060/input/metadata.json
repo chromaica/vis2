@@ -1,0 +1,28 @@
+{
+  "subtopic": "Urban & Street Photography",
+  "prompt": "Edit image 1: Apply night scene ambiance and lanterns from image 2, adding motion blur like image 3.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748657928703,
+  "promptLengthUsed": "short",
+  "task": "MRIE",
+  "topic": "P",
+  "prompt_refined": "Edit image 1: Transform the daytime cityscape into a photorealistic night scene by darkening the sky, illuminating building windows, and activating streetlights. Incorporate the vibrant, glowing orange lanterns from image 2, stringing them overhead across the main street intersection and plaza area. Apply a motion blur effect, similar to the one on the bus in image 3, to the visible pedestrians and any potential vehicles moving in the street.",
+  "annotator": "boris",
+  "objects": [
+    "Buildings of the cityscape",
+    "Streets and plaza area",
+    "Night sky",
+    "Illuminated building windows",
+    "Activated streetlights",
+    "Vibrant, glowing orange lanterns strung overhead across the main street intersection",
+    "Vibrant, glowing orange lanterns strung overhead across the plaza area",
+    "Pedestrians with motion blur",
+    "Vehicles in the street with motion blur",
+    "Palm trees"
+  ]
+}

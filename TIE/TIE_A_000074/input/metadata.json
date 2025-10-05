@@ -1,0 +1,21 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Pop art",
+  "prompt": "Turn the car they are in into a modern sports car. Keep the color of the car the same as the original image.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Transform the car the man and woman are in into a modern sports car, ensuring it retains the original red color.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "red sports car",
+    "man",
+    "woman",
+    "windshield",
+    "motion lines"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

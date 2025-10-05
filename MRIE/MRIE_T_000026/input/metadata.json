@@ -1,0 +1,27 @@
+{
+  "task": "MRIE",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "Change the destination of Auckland to Disneyland, and the font of Disneyland should be in the font of the second image. Then, at the left side of every destination, add the corresponding country flag to the empty space. For Disneyland, use the logo from the third image as the flag.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the provided image (image 1), which displays an airport departure board, as follows:\n1. Replace all occurrences of the destination 'Auckland' with 'Disneyland'.\n2. Ensure the new 'Disneyland' text is styled using the font depicted in image 2.\n3. Add a corresponding country flag to the empty space located to the immediate left of every destination listed on the board (e.g., 'Singapore', 'Los Angeles', 'Sydney', 'Bangkok', 'Hong Kong', 'Kuala Lumpur', and the newly added 'Disneyland' entries).\n4. For all 'Disneyland' destinations, use the logo from image 3 as its flag.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Airport departure board",
+    "Flight numbers on the board",
+    "Departure times on the board",
+    "Counter numbers on the board",
+    "Destination names: Singapore, Los Angeles, Sydney, Bangkok, Hong Kong, Kuala Lumpur",
+    "Destination name 'Disneyland' (replacing 'Auckland', styled with the font from image 2)",
+    "Country flags to the immediate left of Singapore, Los Angeles, Sydney, Bangkok, Hong Kong, Kuala Lumpur",
+    "Disneyland logo from image 3 to the immediate left of 'Disneyland' destinations",
+    "Auckland (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

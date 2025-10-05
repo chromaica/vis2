@@ -1,0 +1,23 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Generate a messaging app interface using the chat bubble style and color scheme from the first image, combined with the emoji style from the second image.",
+  "cond_images": [
+    "1.png",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a modern mobile messaging app interface. The design should adopt the chat bubble style and color scheme from image 1, featuring rounded rectangular bubbles with light grey for incoming messages on the left and a distinct blue for outgoing messages on the right, against a light or white background. Additionally, any emojis displayed within the interface must match the detailed, colorful, and slightly three-dimensional style found in image 2.",
+  "annotator": "paria",
+  "objects": [
+    "modern mobile messaging app interface",
+    "chat bubbles",
+    "rounded rectangular chat bubbles",
+    "light grey chat bubbles on the left",
+    "distinct blue chat bubbles on the right",
+    "light or white background",
+    "emojis",
+    "detailed, colorful, and slightly three-dimensional emojis"
+  ]
+}

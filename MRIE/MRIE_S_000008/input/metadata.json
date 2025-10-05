@@ -1,0 +1,29 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": "In image 1, replace the main blue Converse shoe with the Nike Dunk Low sneaker from image 4, matching the angle and scale of the original product image. Also, overlay the \u201cNEW\u201d label from image 2 on the top-left corner of the product detail box (above the shoe name). Add the black shopping cart icon from image 3 to the left of the \u201cADD TO BASKET\u201d text inside the button, matching the icon\u2019s size to the text height. Keep everything else unchanged.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg",
+    "4.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1.\n1. Replace the large blue Converse shoe with the Nike Dunk Low sneaker from image 4. Ensure the Nike sneaker's angle and scale precisely match that of the original Converse shoe in image 1.\n2. Overlay the red 'NEW' label from image 2 onto the top-left corner of the product detail box, specifically above the 'CONVERSE CHUCK TAYLOR ALL STAR' shoe name.\n3. Insert the black shopping cart icon from image 3 to the left of the 'ADD TO BASKET' text, within the blue button. The icon's height should be consistent with the height of the 'ADD TO BASKET' text.\nMaintain all other elements of image 1 unchanged.",
+  "annotator": "parnian",
+  "objects": [
+    "large blue Converse shoe (should not be present)",
+    "Nike Dunk Low sneaker",
+    "red 'NEW' label overlaid on the product detail box",
+    "black shopping cart icon to the left of 'ADD TO BASKET' text",
+    "small blue Converse shoe images (three)",
+    "website header with navigation (MEN, WOMEN, BOYS, GIRLS, CONVERSE logo, FAVORITES, CART)",
+    "product detail box with description text and size selection",
+    "\"$225\" price",
+    "\"ADD TO BASKET\" button",
+    "user ratings and review section (including \"4.7\" score and comfort/durability/fit bars)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,28 @@
+{
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Create a multi-line graph similar to the format in image 1. Apply a diverse and vibrant color palette for the lines, drawing inspiration from the range of colors used across the various charts shown in image 2. Maintain a clean, modern digital visualization style.",
+  "cond_images": [
+    "1.png",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1750582256230,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "I",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a new multi-line graph. The graph should replicate the structural format of image 1, including a horizontal X-axis for dates at the bottom, a vertical Y-axis for numerical values positioned on the right side, a concise main title at the top-left, and a clear legend at the bottom mapping colors to line descriptions. For the lines within the graph, apply a diverse and vibrant color palette, drawing inspiration from the full spectrum of colors present across all charts in image 2. The overall visualization style must be clean, modern, and digital, consistent with the aesthetic shown in image 1.",
+  "objects": [
+    "Multi-line graph",
+    "Horizontal X-axis at the bottom",
+    "Vertical Y-axis on the right side",
+    "Concise main title at the top-left",
+    "Clear legend at the bottom",
+    "Multiple lines with diverse and vibrant colors",
+    "Numerical values on Y-axis",
+    "Date labels on X-axis",
+    "Line descriptions in legend",
+    "Horizontal grid lines"
+  ],
+  "human_annotation": true
+}

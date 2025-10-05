@@ -1,0 +1,27 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "Generate a screenshot of a non-horror game scene inspired by The Typing of the Dead, using characters from the first image and placing text boxes styled like the second image above their heads as typing prompts.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a screenshot of a non-horror, casual adventure game scene. The scene should feature multiple 3D animated characters in a visual style consistent with the diverse characters presented in image 1. Above the head of each character, position a distinct text box. These text boxes must precisely replicate the green, rectangular, semi-transparent style with white text and rounded corners observed in the typing prompts from image 2. Each box should display a short, typeable word or phrase (e.g., 'Jump', 'Smile', 'Explore') functioning as a game prompt.",
+  "annotator": "paria",
+  "objects": [
+    "A non-horror, casual adventure game scene environment",
+    "Multiple 3D animated characters",
+    "Characters with a visual style consistent with Image 1",
+    "Distinct text boxes positioned above each character's head",
+    "Green text boxes",
+    "Rectangular text boxes",
+    "Semi-transparent text boxes",
+    "Text boxes with rounded corners",
+    "White text within the text boxes",
+    "Short, typeable game prompt words/phrases (e.g., 'Jump', 'Smile', 'Explore') inside each text box"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

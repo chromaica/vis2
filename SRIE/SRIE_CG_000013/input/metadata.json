@@ -1,0 +1,19 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Depth maps",
+  "prompt": "Place the trees from the reference image into the grassy field scene, adjusting the scale and position based on the depth values.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit `image 1` by integrating the trees from `image 2`. For each tree, accurately determine its scale and placement within the grassy field of `image 1` based on the depth values provided in `image 2`, ensuring a cohesive and depth-aware landscape composition.",
+  "annotator": "nimajamali",
+  "objects": [
+    "grassy field",
+    "trees",
+    "mountain range",
+    "blue sky"
+  ]
+}

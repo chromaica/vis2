@@ -1,0 +1,23 @@
+{
+  "subtopic": "Stylized Rendering or Computer Animation",
+  "prompt": "Edit image 1: Render the sleeping dog using the soft, painterly digital art style and color palette from image 2's cat portrait. Transform the background elements (couch, pillow) into a clean, stylized illustration with graphic shapes and wind effects inspired by image 3's background style.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748455728022,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1: Re-render the sleeping dog with the soft, painterly digital art style and warm, muted color palette, including beige/grey tones and brown accents, derived from image 2's cat portrait. Simultaneously, transform the background elements, specifically the couch and zebra-print pillow, into a clean, stylized illustration incorporating graphic, abstract shapes and subtle wind-like effects, drawing style and element inspiration from image 3's background.",
+  "annotator": "winston",
+  "objects": [
+    "sleeping dog",
+    "couch",
+    "zebra-print pillow",
+    "graphic, abstract shapes",
+    "subtle wind-like effects"
+  ]
+}

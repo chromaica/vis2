@@ -1,0 +1,26 @@
+{
+  "subtopic": "Game assets",
+  "prompt": "Design a game asset inspired by the reference image, featuring an isometric view of a magical workshop in a similar whimsical 3D render style, perfect for computer graphics.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://cdn.dribbble.com/userupload/13586563/file/original-496d1d4493dd230d9f90a2163f3ea09e.png?resize=400x0",
+  "promptGeneratedTimestamp": 1748769205235,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a whimsical 3D render game asset of an isometric magical workshop, drawing visual inspiration from image 1. The scene should feature a charming building with a red tiled roof and a large wooden barrel integrated as an entrance, similar to image 1. Include a prominent copper pot still on the left side, emitting stylized smoke/steam, and a small wooden sign with a mug icon on the right, all presented on a vibrant green isometric platform with scattered rocks. The overall style should mirror the clean, soft, and inviting aesthetic of image 1, suitable for computer graphics.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Isometric magical workshop",
+    "Charming building with a red tiled roof",
+    "Large wooden barrel integrated as an entrance",
+    "Prominent copper pot still on the left side",
+    "Stylized smoke/steam emitting from the pot still",
+    "Small wooden sign on the right side",
+    "Mug icon on the wooden sign",
+    "Vibrant green isometric platform",
+    "Scattered rocks on the platform",
+    "Whimsical 3D render game asset aesthetic"
+  ]
+}

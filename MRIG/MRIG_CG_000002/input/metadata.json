@@ -1,0 +1,27 @@
+{
+  "subtopic": "Object detection visuals",
+  "prompt": "Create a computer graphics visualization for object detection. Utilize the night lake environment from image 1 as the scene base. Introduce the whale sharks from image 2 into the water. Overlay this composite scene with object detection bounding boxes and labels, rendered in a clean, technical CG style.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748419954598,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a computer graphics image depicting an object detection visualization. The scene should be set in the serene night lake environment from image 1, featuring the full moon reflection on the calm water and the distant illuminated buildings. Integrate multiple whale sharks, drawing their distinct spotted patterns and large forms from image 2, swimming within the lake's water, clearly visible in the foreground and mid-ground. Overlay this entire composite scene with precise object detection bounding boxes and corresponding labels. All elements, especially the bounding boxes and labels, must be rendered in a clean, technical computer graphics (CG) style.",
+  "annotator": "winston",
+  "objects": [
+    "Night lake environment",
+    "Full moon",
+    "Full moon reflection on calm water",
+    "Distant illuminated buildings",
+    "Multiple whale sharks",
+    "Whale sharks with distinct spotted patterns",
+    "Whale sharks visible in foreground and mid-ground",
+    "Object detection bounding boxes",
+    "Corresponding object detection labels",
+    "Clean, technical computer graphics (CG) style for all elements"
+  ]
+}

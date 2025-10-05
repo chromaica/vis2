@@ -1,0 +1,27 @@
+{
+  "subtopic": "Object detection visuals",
+  "prompt": "Correct the 'vest: 0%' labels for the two persons on the right to accurately reflect their clothing detection.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751817638147,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1: Remove the 'vest: 0%' detection labels and their associated red bounding boxes from the two persons on the right. These individuals are not wearing vests, so explicitly displaying 'vest: 0%' as a detection label is superfluous for an accurate and standard representation of clothing detection results.",
+  "annotator": "edisy",
+  "objects": [
+    "three persons (construction workers/engineers)",
+    "construction site scaffolding (background)",
+    "hard hats",
+    "orange safety vest (on the left person)",
+    "yellow 'person' detection bounding boxes",
+    "green 'hardcap' detection bounding boxes",
+    "light blue 'vest: 99%' detection bounding box",
+    "'vest: 0%' detection labels (should not be present)",
+    "red bounding boxes associated with 'vest: 0%' (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

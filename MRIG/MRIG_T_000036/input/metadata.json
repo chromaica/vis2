@@ -1,0 +1,23 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Generate a logo for a toy brand for girls by combining the stylish silhouette from Image 1 with the colorful cartoon text style in Image 2. The design should be fun and confidently feminine.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a logo for a girls' toy brand. The logo should prominently feature the vibrant pink, profile silhouette of a girl's head with a high ponytail, consistent with Image 1. This graphic element should be integrated with text for the brand name, which must be rendered in the bold, colorful, and playful cartoon style characterized by yellow letters with prominent blue outlines, as exemplified in Image 2. Arrange the silhouette to the left of or directly above the text element to form a cohesive logo composition. The final design must be fun, playfully vibrant, and embody a confidently feminine spirit.",
+  "annotator": "parnian",
+  "objects": [
+    "vibrant pink girl's head profile silhouette",
+    "high ponytail",
+    "brand name text",
+    "brand name text with yellow letters",
+    "brand name text with prominent blue outlines",
+    "brand name text in a bold, playful cartoon style",
+    "girl's head silhouette to the left of the brand name text",
+    "girl's head silhouette above the brand name text"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Transform this graph into a sketch style featuring hand-drawn elements.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Transform the entire information graphic into a hand-drawn sketch style. Every element, including the main title 'Bar Charts are Easier to Interpret than Pie Charts', the three pie charts with their segments, the three bar charts with their bars, and all associated text labels ('Question 1', 'A', 'B', 'C', 'D', 'E', etc.), should be rendered as if drawn by hand. Lines should appear slightly irregular and organic, characteristic of a pencil or ink drawing. Fills within the chart sections should exhibit a hand-drawn texture or light shading instead of flat colors. The goal is a complete visual conversion to a cohesive, spontaneous, and artistic sketch representation of the original data visualization.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Main title \"Bar Charts are Easier to Interpret than Pie Charts\" with hand-drawn sketch appearance",
+    "Three hand-drawn pie charts",
+    "Segments of the pie charts exhibiting hand-drawn texture or light shading",
+    "Three hand-drawn bar charts",
+    "Bars of the bar charts exhibiting hand-drawn texture or light shading",
+    "\"Question 1\", \"Question 2\", \"Question 3\" text labels with hand-drawn sketch appearance",
+    "\"A\", \"B\", \"C\", \"D\", \"E\" text labels with hand-drawn sketch appearance",
+    "vovici.com text with hand-drawn sketch appearance",
+    "All lines throughout the graphic appearing slightly irregular and organic",
+    "The overall border and background elements of the information graphic rendered in a hand-drawn sketch style"
+  ]
+}

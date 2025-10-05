@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": "Design a prestigious law firm homepage with navy blue and gold accents, marble texture backgrounds, classical column elements, professional headshots in circular frames, and an elegant case study timeline",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a full-screen screenshot of a prestigious law firm's website homepage. The design features a sophisticated navy blue and gold color palette, with subtle marble texture backgrounds consistently applied across various sections. Classical column elements are integrated as refined decorative motifs, particularly prominent within the grand hero section at the top of the page. Below the hero, include a dedicated 'Our Team' or 'Attorneys' section, showcasing multiple professional headshots, each precisely presented within a circular frame. Further down the page, integrate an elegant, vertically oriented case study timeline, detailing the firm's significant legal achievements.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Full-screen website screenshot",
+    "Sophisticated navy blue color palette",
+    "Gold color palette",
+    "Subtle marble texture backgrounds",
+    "Classical column elements (in hero section)",
+    "Grand hero section (at top of page)",
+    "'Our Team' or 'Attorneys' section",
+    "Multiple professional headshots",
+    "Circular frames (around headshots)",
+    "Vertically oriented case study timeline"
+  ]
+}

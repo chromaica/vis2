@@ -1,0 +1,24 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Graffiti (Text-based)",
+  "prompt": "A dynamic wildstyle graffiti piece on a textured brick surface. 'URBAN PULSE' is brought to life with vibrant, contrasting spray paints\u2014deep purple, electric orange, bright yellow\u2014featuring energetic shapes, sharp angles, and subtle drips. Detailed outlines and highlights give the text a 3D feel against the weathered bricks.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate an image of a dynamic wildstyle graffiti piece. It depicts the text 'URBAN PULSE' rendered in vibrant, contrasting spray paints: deep purple, electric orange, and bright yellow. The graffiti features energetic shapes, sharp angles, and subtle drips. It is painted directly onto a textured, weathered brick surface, with detailed outlines and highlights giving the 'URBAN PULSE' text a prominent 3D appearance against the bricks.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "dynamic wildstyle graffiti piece",
+    "the text 'URBAN PULSE'",
+    "deep purple spray paint elements",
+    "electric orange spray paint elements",
+    "bright yellow spray paint elements",
+    "energetic shapes within the graffiti",
+    "sharp angles within the graffiti",
+    "subtle drips on the graffiti",
+    "textured, weathered brick surface",
+    "'URBAN PULSE' text with prominent 3D appearance"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

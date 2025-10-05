@@ -1,0 +1,20 @@
+{
+  "task": "SRIG",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Design a logo for an adventure travel company named 'Adventure,' incorporating a mountain peak motif inspired by the reference image.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a minimalist logo for an adventure travel company. The logo must prominently feature the company name 'Adventure' as text. Directly above the text, integrate a stylized mountain range motif, mimicking the distinct black and white silhouette style of the peaks shown in image 1. The overall design should be clean, iconic, and suitable for a brand mark, with a vector-graphic aesthetic.",
+  "annotator": "Johnny",
+  "objects": [
+    "Text 'Adventure'",
+    "Stylized mountain range silhouette (black and white)",
+    "Mountain range positioned directly above the text",
+    "Vector-graphic aesthetic"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

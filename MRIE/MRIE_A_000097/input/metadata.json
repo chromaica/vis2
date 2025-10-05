@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Cultural or Heritage art",
+  "prompt": "In image 1, replace the sitar with the guitar from image 2, and replace the pankha (hand fan) with the one from image 3.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 by replacing the sitar, currently held by the woman, with the acoustic guitar from image 2. Ensure the guitar is naturally integrated into her hands as if she is playing it. Additionally, replace the pankha (hand fan) located on the ground in the lower-left corner of image 1 with the ornate, colorful hand fan from image 3, maintaining its original position and orientation.",
+  "annotator": "paria",
+  "objects": [
+    "woman",
+    "acoustic guitar (held by woman)",
+    "ornate, colorful hand fan (on the ground in the lower-left corner)",
+    "background architecture",
+    "large plant in pot",
+    "fountain with water",
+    "cushion",
+    "slippers",
+    "sitar (should not be present)",
+    "pankha (original hand fan) (should not be present)"
+  ]
+}

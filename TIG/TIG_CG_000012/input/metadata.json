@@ -1,0 +1,17 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "VFX / Particles",
+  "prompt": "Magic aura circle animation, 12 frames, top-down RPG style, purple glow.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A circular magical aura radiating vibrant purple light, viewed from a direct top-down perspective, in a stylized RPG game asset style.",
+  "annotator": "maxku",
+  "objects": [
+    "Circular magical aura",
+    "Vibrant purple light",
+    "Radiating light effect",
+    "Stylized art style",
+    "RPG game asset style"
+  ]
+}

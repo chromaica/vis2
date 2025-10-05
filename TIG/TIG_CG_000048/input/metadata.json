@@ -1,0 +1,24 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "Object detection visuals",
+  "prompt": "A city street scene with multiple cars, pedestrians, and traffic lights, each annotated with bounding boxes in contrasting colors. The labels should be clear and legible, with boxes accurately framing each object.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a realistic city street scene prominently featuring multiple cars, several pedestrians, and at least two distinct traffic lights. Each individual car, pedestrian, and traffic light within the scene must be clearly outlined by a precise bounding box. These bounding boxes must be rendered in vibrant, contrasting colors to ensure high visibility. Inside or immediately adjacent to each bounding box, a clear and legible text label (e.g., 'Car', 'Pedestrian', 'Traffic Light') must accurately identify the enclosed object. Ensure all bounding boxes precisely frame their respective objects.",
+  "annotator": "maxku",
+  "objects": [
+    "realistic city street scene",
+    "multiple cars",
+    "several pedestrians",
+    "at least two distinct traffic lights",
+    "precise, vibrant, contrasting bounding boxes around each car",
+    "precise, vibrant, contrasting bounding boxes around each pedestrian",
+    "precise, vibrant, contrasting bounding boxes around each traffic light",
+    "clear, legible text labels (e.g., 'Car') inside or adjacent to each car bounding box",
+    "clear, legible text labels (e.g., 'Pedestrian') inside or adjacent to each pedestrian bounding box",
+    "clear, legible text labels (e.g., 'Traffic Light') inside or adjacent to each traffic light bounding box"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

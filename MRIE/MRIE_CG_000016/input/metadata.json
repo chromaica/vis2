@@ -1,0 +1,26 @@
+{
+  "subtopic": "VFX and Particles",
+  "prompt": "Edit image 1: Replace the desktop computer with a sleek laptop model like in image 2. Display a dynamic VFX particle simulation on the screen. Add soft, ambient particle effects around the person, inspired by the comfortable textures and mood of image 3.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748455075770,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1: Replace the dark desktop computer and monitor with a sleek, silver laptop. This laptop should be placed on the desk in the same position as the original monitor, reflecting the thin profile and modern aesthetic of the laptop shown in image 2. On the laptop's screen, display a dynamic VFX particle simulation. Additionally, introduce soft, ambient particle effects around the person, ensuring their visual quality (e.g., diffused glow, gentle movement) is inspired by and reflects the comfortable textures and serene mood depicted in image 3.",
+  "annotator": "winston",
+  "objects": [
+    "dark desktop computer (should not be present)",
+    "monitor (should not be present)",
+    "sleek, silver laptop on the desk in the original monitor's position, with thin profile and modern aesthetic",
+    "laptop screen displaying a dynamic VFX particle simulation",
+    "person",
+    "soft, ambient particle effects around the person, with diffused glow and gentle movement",
+    "desk",
+    "keyboard"
+  ]
+}

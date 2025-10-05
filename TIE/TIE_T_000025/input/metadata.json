@@ -1,0 +1,21 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Label casual Pooh \u2018Using CPU\u2019, and tuxedo Pooh \u2018Offloading to TPU\u2019. Keep the color and style consistent.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. In the top half of the image, add the text \u2018Using CPU\u2019 to the blank grey rectangular area to the right of the casual Pooh. In the bottom half of the image, add the text \u2018Offloading to TPU\u2019 to the blank grey rectangular area to the right of the tuxedo Pooh. Ensure the font color and style are consistent with the existing image.",
+  "annotator": "matina",
+  "objects": [
+    "Winnie the Pooh in red shirt in the top left",
+    "Grey rectangular area in the top half",
+    "Text \u2018Using CPU\u2019 in the top grey area",
+    "Horizontal dividing line",
+    "Winnie the Pooh in tuxedo in the bottom left",
+    "Grey rectangular area in the bottom half",
+    "Text \u2018Offloading to TPU\u2019 in the bottom grey area"
+  ]
+}

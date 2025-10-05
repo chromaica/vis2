@@ -1,0 +1,20 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Traditional art",
+  "prompt": "A red koi fish swimming in a tranquil pond with lily pads",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate an artwork of a vibrant red koi fish, gracefully swimming in a tranquil pond. The water should appear calm and clear. Include several lush green lily pads floating on the water's surface, strategically placed around the fish. The overall artistic style should be minimalist and stylized, drawing inspiration from the fluid, elegant lines and composition present in image 1.",
+  "annotator": "Johnny",
+  "objects": [
+    "vibrant red koi fish",
+    "tranquil pond",
+    "calm and clear water",
+    "several lush green lily pads, strategically placed around the fish"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

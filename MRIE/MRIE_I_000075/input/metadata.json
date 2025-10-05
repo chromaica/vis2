@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Visual instructions and manuals",
+  "prompt": "Edit image 1: In step 2, update the added pasta to resemble spaghetti noodles as shown in image 2. For steps 1 and 2, refine the water graphic, depicting it with the wave pattern style found in image 3.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. In the top-right panel (step 2), transform the falling pasta pieces into thin spaghetti strands, drawing inspiration from the appearance of the pasta in image 2. Additionally, for the water graphic within the cooking pots in both the top-left panel (step 1) and the top-right panel (step 2), update its representation to precisely match the distinct undulating wave pattern found in image 3.",
+  "annotator": "maxku",
+  "objects": [
+    "top-left panel (step 1)",
+    "pot with undulating wave pattern water in top-left panel",
+    "top-right panel (step 2)",
+    "pot with undulating wave pattern water in top-right panel",
+    "falling thin spaghetti strands in top-right panel",
+    "bottom-left panel (step 3)",
+    "timer graphic showing 14 minutes in bottom-left panel",
+    "bottom-right panel (step 4)",
+    "bowl of pasta with spoon in bottom-right panel",
+    "beige background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

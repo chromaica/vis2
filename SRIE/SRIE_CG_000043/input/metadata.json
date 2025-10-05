@@ -1,0 +1,22 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "3D renders",
+  "prompt": "Place a 3D version of the mouse on the desk aligned to surface normal.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Place a 3D rendered version of the gaming mouse depicted in image 2 onto the desk. Position it to the right of the keyboard, ensuring it is accurately aligned with the desk's surface normal.",
+  "annotator": "nimajamali",
+  "objects": [
+    "desk",
+    "computer monitor",
+    "computer tower",
+    "keyboard",
+    "office chair",
+    "drawers",
+    "3D rendered gaming mouse to the right of the keyboard"
+  ]
+}

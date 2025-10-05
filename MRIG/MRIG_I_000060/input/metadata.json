@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "I",
+  "subtopic": "Visual instructions and manuals",
+  "prompt": "Create a step-by-step visual guide for performing the Heimlich maneuver. Use Image 1 to identify the emergency and Image 2 for the response.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "matina",
+  "prompt_refined": "Generate a clear, two-panel informational graphic, in an illustrative style, demonstrating the Heimlich maneuver. The panel on the left should depict the emergency: a person choking with hands at their throat, reflecting the visual content and style of image 1. The panel on the right should illustrate the response: a second person performing the Heimlich maneuver on the choking individual, drawing visual action and style from image 2. The combined graphic should serve as a concise step-by-step visual guide for identifying choking and performing the Heimlich maneuver.",
+  "objects": [
+    "Two-panel graphic structure",
+    "Left panel: a person choking",
+    "Left panel: choking person with hands at throat",
+    "Right panel: a second person performing the Heimlich maneuver",
+    "Illustrative style",
+    "Choking person",
+    "Person performing Heimlich maneuver",
+    "Heimlich maneuver action (second person embracing first)",
+    "Exclamation marks (!!) in the right panel",
+    "Plain background"
+  ]
+}

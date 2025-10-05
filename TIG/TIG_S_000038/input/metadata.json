@@ -1,0 +1,19 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "create a game interface mockup of a scene where in the middle there's a fishing rod and its already hook up a salmon and user must tap the lower left button to pull the rod",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a game interface screen depicting a fishing scenario. In the center of the screen, a fishing rod is prominently displayed with a large salmon clearly hooked and struggling on its line. In the lower-left corner of the interface, a distinct, interactive button is present, clearly labeled 'Pull Rod', indicating it should be tapped to reel in the fish.",
+  "annotator": "theblackcat",
+  "objects": [
+    "game interface screen",
+    "fishing rod (prominently displayed, in the center)",
+    "large salmon (hooked, on the line)",
+    "interactive button (in the lower-left corner)",
+    "'Pull Rod' text label (on the button)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

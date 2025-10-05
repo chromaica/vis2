@@ -1,0 +1,15 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "A close-up of Jupiter\u2019s Great Red Spot, highlighting swirling storm patterns and contrasting cloud bands.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A close-up image of Jupiter\u2019s Great Red Spot, prominently showcasing its swirling storm patterns and the contrasting cloud bands surrounding it.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Jupiter's Great Red Spot",
+    "Swirling storm patterns",
+    "Contrasting cloud bands"
+  ]
+}

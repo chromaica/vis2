@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "replace the crab stick with raw shrimp, replace the sushi roll on the upper left into a more traditional maki roll",
+  "cond_images": [
+    "1.jpeg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. On the wooden serving board, replace the crab stick sushi piece (red-orange with black seaweed band, near the bottom center) with a photorealistic raw shrimp (ebi) nigiri sushi. Additionally, transform the three existing sushi rolls on the green leaf in the upper left section of the board into traditional maki rolls, featuring seaweed clearly visible on the outside.",
+  "annotator": "theblackcat",
+  "objects": [
+    "wooden serving board",
+    "photorealistic raw shrimp (ebi) nigiri sushi",
+    "three traditional maki rolls with seaweed clearly visible on the outside",
+    "crab stick sushi piece (red-orange with black seaweed band, near the bottom center) (should not be present)",
+    "various other nigiri sushi pieces",
+    "green leaf on the board",
+    "ginger",
+    "wasabi ball",
+    "tea cup with green tea",
+    "teapot on saucer"
+  ]
+}

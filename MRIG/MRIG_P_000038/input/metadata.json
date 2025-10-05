@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Generate a steampunk-style high-speed train that fuses the sleek, aerodynamic design of a modern high-speed train in the first image with the industrial aesthetic of an old steam train in the second image. The resulting train is a retro-futuristic marvel, with a streamlined chassis from the first image crafted from polished brass and copper, adorned with intricate engravings and exposed gears. The train races along elevated iron tracks through a misty steampunk cityscape at dusk, with smokestacks and airships faintly visible in the background, lit by a warm, golden glow.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic image of a steampunk-style high-speed train. This train should seamlessly fuse the sleek, aerodynamic design and streamlined chassis exemplified in image 1 with the robust, industrial aesthetic and complex machinery details found in image 2. The train's exterior should be crafted from highly polished brass and copper, featuring intricate Victorian-era engravings and prominently exposed gears and pipes, evoking a retro-futuristic appearance. The train is depicted racing at high speed along elevated iron tracks, cutting through a misty steampunk cityscape at dusk. In the background, tall smokestacks and airships are faintly visible amidst the haze, all illuminated by a warm, golden glow.",
+  "objects": [
+    "Photorealistic steampunk high-speed train",
+    "Elevated iron tracks",
+    "Misty steampunk cityscape",
+    "Dusk sky",
+    "Tall smokestacks (in background)",
+    "Airships (in background)",
+    "Haze",
+    "Warm, golden glow (illumination)",
+    "Motion blur (indicating high speed)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

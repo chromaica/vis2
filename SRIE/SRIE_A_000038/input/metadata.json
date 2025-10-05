@@ -1,0 +1,26 @@
+{
+  "subtopic": "Stylized art",
+  "prompt": "Edit image 1: Apply the stylized, fluid patterns and specific color palette (blues, greens, purples, yellows) from Image 2's landscape to the leaves and background of the vibrant tree, merging the artistic styles.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748495559197,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1. Apply the stylized, fluid patterns and organic shapes, characteristic of the landscape and water in image 2, to the leaves of the vibrant tree. Simultaneously, recolor the background of image 1 (including the upper left, upper right, and lower right sections) using the distinct palette of blues, greens, purples, and yellows found in image 2. The goal is to seamlessly merge the artistic styles of both images.",
+  "annotator": "kellycyy",
+  "objects": [
+    "vibrant tree",
+    "tree trunk",
+    "leaves with stylized, fluid patterns",
+    "leaves with organic shapes",
+    "background of image 1 (upper left section)",
+    "background of image 1 (upper right section)",
+    "background of image 1 (lower right section)",
+    "background colored with blues, greens, purples, and yellows",
+    "other sections of the background (e.g., lower left, central)"
+  ]
+}

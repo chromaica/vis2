@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Task management board styled as a medieval quest interface, parchment textures, illuminated manuscript typography, progress bars as scrolls unfurling, and completed tasks dissolving into golden sparkles",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate an image of a task management board interface, meticulously styled as a medieval quest log. The entire interface, including distinct sections or columns for tasks, should feature detailed parchment textures. All text, including headings and individual task descriptions, must be rendered in an ornate, illuminated manuscript typography. For tasks currently in progress, include prominent visual progress bars designed as partially unfurling scrolls. Depict one completed task in the process of dissolving, represented by a burst of luminous golden sparkles emanating from its former position on the board.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Task management board interface",
+    "Distinct sections or columns for tasks",
+    "Detailed parchment textures on the interface",
+    "Headings rendered in ornate, illuminated manuscript typography",
+    "Individual task descriptions rendered in ornate, illuminated manuscript typography",
+    "Tasks currently in progress",
+    "Progress bars designed as partially unfurling scrolls",
+    "One completed task in the process of dissolving",
+    "Burst of luminous golden sparkles emanating from the dissolving task's position"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "Convert the paper receipt in the first image into a clean digital receipt format. Then, append an advertising space at the bottom, inspired by the layout and style of the second image.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a new digital receipt image. This image should incorporate all textual and numerical details from the paper receipt in image 1, including the merchant information, date, time, itemized list (Espresso, Sachertorte), total, gross, sales tax, net amounts, 'THANK YOU' message, and the barcode. Present this information in a clean, modern digital format, adopting the overall aesthetic and structured layout characteristic of the digital receipt shown in image 2. Position this main receipt content at the top. Below the main receipt, append a distinct advertising space. This advertising space should be visually consistent with the layout and style of the 'Combine it with' section at the bottom of image 2, featuring multiple product displays, each showing an image, product name, and price, arranged horizontally.",
+  "annotator": "paria",
+  "objects": [
+    "Digital receipt main content (top part)",
+    "Merchant information text (Hauptstrasse, 10115 Berlin, DE123456789)",
+    "Date and time text (05.07.2020, 13:43:40)",
+    "Itemized list (Espresso, Sachertorte, with prices)",
+    "Summary amounts (Total, Gross, Sales tax, Net)",
+    "\"THANK YOU\" message text",
+    "Barcode image",
+    "Advertising section heading",
+    "First product display (image, name, price) within advertising section",
+    "Second product display (image, name, price) within advertising section"
+  ]
+}

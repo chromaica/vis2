@@ -1,0 +1,24 @@
+{
+  "subtopic": "Traditional art",
+  "prompt": "Edit Image 1: Apply the vibrant, swirling, painterly style and warm color tones from Image 2 to the composition of the great wave, creating an abstract interpretation of the traditional artwork.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748653383468,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit Image 1 (The Great Wave off Kanagawa): Transform the artwork by applying the vibrant, textured, and swirling painterly style, along with the warm color palette, from Image 2. Render the great wave, boats, and distant Mount Fuji with the dominant oranges, reds, and yellows, accented by the greens and blues characteristic of Image 2's impasto brushwork. The edit should create an abstract interpretation of the original composition, while retaining its fundamental structure and iconic elements.",
+  "annotator": "kellycyy",
+  "objects": [
+    "Great wave",
+    "Boats",
+    "Mount Fuji",
+    "Sea",
+    "Sky"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

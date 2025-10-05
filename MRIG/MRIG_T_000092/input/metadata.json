@@ -1,0 +1,21 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "Use the first image of the Persian tiles and the Tower in the second image to design a poster for a comparative art event called 'From Isfahan to Paris'.",
+  "cond_images": [
+    "1.png",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a poster for a comparative art event titled 'From Isfahan to Paris'. The poster should feature 'From Isfahan to Paris' as prominent textual graphics. Integrate the intricate blue and yellow Persian tile patterns from image 1 as a dominant background or a significant decorative border. Incorporate the iconic Eiffel Tower from image 2 as a prominent visual element, positioned on the right side, maintaining the distinctive illustration style of image 2. The overall design should seamlessly blend these two cultural aesthetics.",
+  "annotator": "parnian",
+  "objects": [
+    "Poster",
+    "'From Isfahan to Paris' prominent textual graphics",
+    "Intricate blue and yellow Persian tile patterns (from image 1)",
+    "Eiffel Tower (from image 2)",
+    "Eiffel Tower positioned on the right side",
+    "Parisian illustrated elements surrounding the Eiffel Tower (from image 2)"
+  ]
+}

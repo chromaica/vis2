@@ -1,0 +1,23 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "A ground-truth label map of a cross-section of human tissue, labeling muscle, fat, bone, and connective tissue.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a ground-truth label map of a human tissue cross-section. This map must distinctly segment and color-code four specific tissue types: muscle, fat, bone, and connective tissue. Each tissue type should be represented by a unique, solid color, ensuring clear boundaries and precise anatomical labeling.",
+  "annotator": "maxku",
+  "objects": [
+    "human tissue cross-section",
+    "segmented muscle tissue",
+    "segmented fat tissue",
+    "segmented bone tissue",
+    "segmented connective tissue",
+    "muscle tissue represented by a unique solid color",
+    "fat tissue represented by a unique solid color",
+    "bone tissue represented by a unique solid color",
+    "connective tissue represented by a unique solid color",
+    "clear boundaries between tissue types"
+  ],
+  "human_annotation": true
+}

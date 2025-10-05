@@ -1,0 +1,23 @@
+{
+  "task": "SRIE",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "Blur the background in the source image.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the photorealistic space station scene, to achieve a shallow depth of field effect. Ensure the space station and its components in the foreground remain sharp. The background, consisting of the Earth and distant space, should be significantly blurred. Utilize image 2 as a precise depth map to guide the selective blur.",
+  "annotator": "nimajamali",
+  "objects": [
+    "Photorealistic space station (sharp, in foreground)",
+    "Space station modules (sharp, in foreground)",
+    "Space station solar panels (sharp, in foreground)",
+    "Detached space module/capsule (sharp, in foreground)",
+    "Small floating object (sharp, in foreground)",
+    "Earth (significantly blurred, in background)",
+    "Distant space (significantly blurred, in background)"
+  ],
+  "human_annotation": true
+}

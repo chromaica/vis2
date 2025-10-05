@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Object detection visuals",
+  "prompt": "Add similar umbrellas and visual clutter from the reference to make the source street look like a busy market.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 (the cobblestone street) by transforming it into a bustling market scene, drawing inspiration from image 2. Add market stalls overflowing with diverse goods, such as fruits and vegetables, along both sides of the street and on the sidewalks. Incorporate large, red market awnings above these stalls, similar in style and color to those prominently featured in image 2. Populate the street and sidewalks with numerous people engaged in various activities, matching the density and lively atmosphere depicted in image 2, to create a vibrant and visually cluttered market environment.",
+  "annotator": "nimajamali",
+  "objects": [
+    "Cobblestone street",
+    "Market stalls",
+    "Diverse goods (fruits and vegetables) overflowing from stalls",
+    "Large, red market awnings",
+    "Numerous people",
+    "Market stalls along both sides of the street",
+    "Market stalls on the sidewalks",
+    "People on the street",
+    "People on the sidewalks",
+    "Vibrant and visually cluttered market environment"
+  ]
+}

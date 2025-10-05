@@ -1,0 +1,26 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Exploded views",
+  "prompt": "Envision the product's appearance post-assembly in a detailed image.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, which depicts a disassembled fan, to show the product in its fully assembled state. Transform the separate components (Front Guard, Rear Guard, Blade, Plastic Nut, Spinner, Motor Shaft, Oscillating mechanism, Fan Body, Piano-key controls, and Base) into a single, cohesive desk fan. Ensure all parts are correctly fitted together to form the complete product, with a clear and detailed appearance.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Front Guard",
+    "Rear Guard",
+    "Blade",
+    "Plastic Nut",
+    "Spinner",
+    "Motor Shaft",
+    "Oscillating mechanism",
+    "Fan Body",
+    "Piano-key controls",
+    "Base"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

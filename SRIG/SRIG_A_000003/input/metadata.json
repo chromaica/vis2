@@ -1,0 +1,26 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Stylized art",
+  "prompt": "Create a stylized artwork of a European school setting, featuring a girl performing street arts. Use the provided reference image as inspiration for the girl's appearance and style.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a stylized artwork set in a European school environment, where a girl is performing street arts. The girl's distinctive appearance and artistic style are directly inspired by image 1: she has matte black body paint with shimmering metallic gold accents and brushstrokes on her skin, bright fiery orange hair, golden glitter on her lips and eyelids, and delicate golden leaf-shaped ornaments adorning her ears.",
+  "annotator": "Johnny",
+  "objects": [
+    "Stylized artwork",
+    "Girl",
+    "Matte black body paint on girl",
+    "Shimmering metallic gold accents and brushstrokes on girl's skin",
+    "Bright fiery orange hair on girl",
+    "Golden glitter on girl's lips",
+    "Golden glitter on girl's eyelids",
+    "Delicate golden leaf-shaped ornaments on girl's ears",
+    "European school environment",
+    "Street arts performance"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

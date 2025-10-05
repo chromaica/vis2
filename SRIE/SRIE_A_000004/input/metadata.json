@@ -1,0 +1,20 @@
+{
+  "subtopic": "Stylized art",
+  "prompt": "use the art style of image 2 into image 1",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1 to adopt the unique art style of image 2. Apply the characteristic swirling brushstrokes, impasto textures, and vibrant, expressive color palette of image 2 to the existing composition of image 1, including the great wave, fishing boats, and distant Mount Fuji.",
+  "annotator": "kellycyy",
+  "objects": [
+    "great wave",
+    "fishing boats",
+    "distant Mount Fuji",
+    "sky",
+    "sea"
+  ]
+}

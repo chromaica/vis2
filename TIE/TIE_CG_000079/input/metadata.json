@@ -1,0 +1,25 @@
+{
+  "subtopic": "Mesh Processing",
+  "prompt": "Render the 3D mesh head with a smooth, realistic skin material instead of the wireframe view.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751801107350,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1, which shows a 3D mesh head, by transforming its wireframe rendering into a smooth, realistic skin material.",
+  "annotator": "edisy",
+  "objects": [
+    "realistic human head",
+    "smooth skin texture",
+    "realistic eyes",
+    "realistic nose",
+    "realistic mouth",
+    "realistic ears",
+    "wireframe overlay (should not be present)",
+    "dark grey grid background"
+  ],
+  "human_annotation": true
+}

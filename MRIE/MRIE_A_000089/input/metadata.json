@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Cultural or Heritage art",
+  "prompt": "In image 1, replace the old sandals with the shoes from image 2, and change the overcast sky to the cloudy sky from image 3.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Using image 1 as the base for editing: Replace the brown sandals located on the ground in the foreground with the high-top sneakers from image 2. Concurrently, replace the existing overcast sky with the blue sky featuring scattered clouds, as seen in image 3.",
+  "annotator": "paria",
+  "objects": [
+    "Two women",
+    "High-top sneakers on the ground in the foreground",
+    "Blue sky with scattered clouds",
+    "Rooftop setting",
+    "Rug/carpet",
+    "Cityscape in the background",
+    "Book and glass",
+    "Brown sandals (should not be present)",
+    "Overcast sky (should not be present)"
+  ],
+  "human_annotation": true
+}

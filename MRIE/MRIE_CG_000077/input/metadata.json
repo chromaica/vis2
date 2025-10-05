@@ -1,0 +1,31 @@
+{
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "Using semantic segmentation on image 1, replace the mop handle texture with image 3's screwdriver style. Apply a pattern inspired by image 2's bolts to the mop head. Change the background lighting to image 4's dark ambient mood. Re-render the circular details in image 5's sketch art style.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg",
+    "4.jpeg",
+    "5.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749489730869,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit the provided source image (image 1), which features a mop, as follows:\n\n1.  Replace the texture and color of the mop's handle (the gray and yellow part) with the black, yellow-striped, and blue metallic aesthetic of the screwdriver handle from image 3.\n2.  Incorporate a metallic, hexagonal bolt-like pattern onto the surface of the large blue mop head. The pattern should be inspired by the bolts shown in image 2.\n3.  Transform the bright background of image 1 to match the dark, ambient, and low-light mood depicted in image 4.\n4.  Re-render the circular graphic elements in image 1\u2014specifically the \"Swiveling Head\" ring around the mop connection point and the smaller circular inset displaying the mop head texture\u2014in the hand-drawn, colored pencil sketch art style of image 5.",
+  "annotator": "winston",
+  "objects": [
+    "Mop handle with black, yellow-striped, and blue metallic aesthetic",
+    "Large blue mop head with metallic, hexagonal bolt-like pattern",
+    "Dark, ambient, and low-light background",
+    "\"Swiveling Head\" ring in hand-drawn, colored pencil sketch art style",
+    "Smaller circular inset displaying mop head texture and \"USE WET OR DRY!\" text in hand-drawn, colored pencil sketch art style",
+    "Text \"FASTER, EASIER, BETTER...\"",
+    "\"AS ON TV\" graphic",
+    "Oval graphic with \"Cleans: Dirt Scuff Marks Grease Pet Hair Spills and More!\" text",
+    "\"16\" Cleaning Path\" text and arrows",
+    "Text \"Special looped microfiber cleans faster, easier, better... with less effort!\""
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,30 @@
+{
+  "subtopic": "Receipts",
+  "prompt": "Generate a screenshot of a hotel receipt displayed on a phone screen. Use the vertical list layout and clean UI style from the reference image, featuring itemized purchases and a total.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://makereceipt.com/images/uber-receipt-generator-sample-min.jpg",
+  "searchQueryGenerated": "High resolution receipt screenshot",
+  "searchQueryGeneratedTimestamp": 1749426837326,
+  "promptGeneratedTimestamp": 1749426916208,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a screenshot of a hotel receipt displayed on a smartphone screen. The UI should adopt the clean, minimal style and vertical list layout observed in image 1, including a header bar at the top, consistent typography, and clear spacing between elements. The main content must feature itemized hotel charges such as room rates, taxes, and service fees, with each item clearly listed and its cost displayed. Conclude with a prominent grand total, replicating the numerical format and overall bill structure of image 1.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Smartphone screen display",
+    "Top header bar",
+    "Header bar title (e.g., \"Hotel Receipt\")",
+    "Close/back navigation icon (e.g., 'X' icon)",
+    "Main content heading (e.g., \"Your Hotel Bill\")",
+    "Itemized list entry for \"Room Rates\" with its displayed cost",
+    "Itemized list entry for \"Taxes\" with its displayed cost",
+    "Itemized list entry for \"Service Fees\" with its displayed cost",
+    "Prominent \"Grand Total\" line with its displayed cost",
+    "Vertical list structure of itemized charges, reflecting Image 1's bill structure"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

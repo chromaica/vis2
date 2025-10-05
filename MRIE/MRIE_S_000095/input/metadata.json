@@ -1,0 +1,27 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Forms and Authentication",
+  "prompt": "In image 1, replace the gradient 'SIGNUP' button with the yellow 'SIGN UP' button from image 2, keeping the same width. Add the notification bell with red badge from image 3 to the top left corner of the form container, maintaining alignment with the form\u2019s left margin. All other aspects of the source image should remain unchanged.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, a screenshot of a 'Sign up' form, as follows:\nReplace the large orange-red gradient 'SIGNUP' button at the bottom of the form with the yellow 'SIGN UP' button provided in image 2, ensuring it retains the exact same width as the original button. Additionally, place the grey notification bell icon with the red '1' badge from image 3 into the top-left corner of the main form section, aligning its left edge precisely with the left margin of the input fields (e.g., Username, Email). All other elements and aspects of the source image 1 must remain unchanged.",
+  "annotator": "parnian",
+  "objects": [
+    "Dark background",
+    "\"Sign up\" title",
+    "Three circular profile icons (PARENT, CHILD, TEACHER)",
+    "Username input field",
+    "Email input field",
+    "Password input field",
+    "Confirm Password input field",
+    "Yellow \"SIGN UP\" button",
+    "Grey notification bell icon with red '1' badge (in top-left corner of the main form section)",
+    "\"Already have an account. Login here\" text"
+  ],
+  "human_annotation": true
+}

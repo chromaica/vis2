@@ -1,0 +1,24 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "Illustrate a steampunk airship flying over a Victorian-era metropolis.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate an artwork depicting a majestic steampunk airship, intricately detailed and visually inspired by the vessel shown in image 1, soaring through a soft twilight sky. The airship, with its prominent spherical balloon and dark wooden hull featuring illuminated cabin windows and subtle sails, is positioned in the upper portion of the frame. Below it, a vast and dense Victorian-era metropolis stretches into the distance, characterized by ornate gothic and industrial buildings, numerous smoking chimneys, and the warm glow of gaslights illuminating its streets and structures. The scene should convey a sense of awe and historical fantasy.",
+  "annotator": "Johnny",
+  "objects": [
+    "Majestic steampunk airship",
+    "Prominent spherical balloon",
+    "Dark wooden hull",
+    "Illuminated cabin windows",
+    "Subtle sails",
+    "Soft twilight sky",
+    "Vast Victorian-era metropolis",
+    "Ornate gothic and industrial buildings",
+    "Numerous smoking chimneys",
+    "Warm glow of gaslights"
+  ]
+}

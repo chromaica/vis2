@@ -1,0 +1,22 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Transform this Sankey chart into one or more pie charts.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, replacing the existing Sankey chart with three distinct pie charts that visually represent the key compositional breakdowns of the financial data.\n\n1.  **Revenue Breakdown Pie Chart:** Depict the breakdown of 'Revenue $69.1B' from its components: 'Search advertising ($39.5B)', 'YouTube ($7.1B)', 'Google AdMob ($7.9B)', 'Google Play ($6.9B)', 'Google Cloud ($6.9B)', and 'Other ($0.8B)'.\n2.  **Cost of Revenues Breakdown Pie Chart:** Show the breakdown of 'Cost of Revenues $31.2B' into 'TAC ($11.8B)' and 'Others ($19.3B)'.\n3.  **Operating Expenses Breakdown Pie Chart:** Illustrate the breakdown of 'Operating expenses $20.8B' into 'R&D ($10.3B)', 'S&M ($6.9B)', and 'G&A ($3.6B)'.\n\nEach pie chart segment must be clearly labeled with its respective category name and financial value, mirroring the data in the original Sankey. Arrange these three pie charts logically within the area previously occupied by the Sankey chart, while retaining the main title 'Alphabet Q3 FY22 Income Statement' at the top.",
+  "annotator": "cwhsu",
+  "objects": [
+    "\"Alphabet Q3 FY22 Income Statement\" title",
+    "Sankey chart (should not be present)",
+    "Revenue Breakdown Pie Chart with its segments",
+    "Segment labels and financial values for Revenue Breakdown Pie Chart",
+    "Cost of Revenues Breakdown Pie Chart with its segments",
+    "Segment labels and financial values for Cost of Revenues Breakdown Pie Chart",
+    "Operating Expenses Breakdown Pie Chart with its segments",
+    "Segment labels and financial values for Operating Expenses Breakdown Pie Chart"
+  ]
+}

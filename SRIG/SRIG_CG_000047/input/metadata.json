@@ -1,0 +1,23 @@
+{
+  "subtopic": "CAD models",
+  "prompt": "Generate a detailed CAD model rendering of a sleek modern tablet. Use the overhead perspective and slightly tilted composition from the reference image. Show a technical wireframe view on the screen with professional lighting.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://cdn12.picryl.com/photo/2016/12/31/electronic-tablet-high-tech-digital-computer-communication-36222a-1024.jpg",
+  "promptGeneratedTimestamp": 1748768051644,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a detailed CAD model rendering of a sleek, modern white tablet. The tablet's perspective and slightly tilted composition should precisely match image 1. Display a clear, technical wireframe view of a complex 3D object on the tablet's screen. The rendering should feature professional studio lighting to highlight the tablet's design and the on-screen wireframe detail.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Sleek, modern white tablet",
+    "Tablet with the perspective and tilted composition precisely matching image 1",
+    "Tablet screen displaying a clear, technical wireframe view",
+    "Complex 3D object (rendered as wireframe) on the tablet screen",
+    "Professional studio lighting",
+    "CAD model rendering style applied to the tablet",
+    "Background surface (matching the compositional layout of image 1)"
+  ]
+}

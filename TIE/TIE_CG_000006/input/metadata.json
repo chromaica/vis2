@@ -1,0 +1,27 @@
+{
+  "subtopic": "Object detection visuals",
+  "prompt": "Introduce a new visual element by adding a small computer mouse on the laptop's keyboard, complete with a green bounding box and 'Mouse' label, mimicking the existing detection style.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751817439714,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1 to introduce a new visual element: add a small computer mouse on the laptop's keyboard. The added mouse should include a green bounding box around it and a 'Mouse' label, mimicking the style of existing object detection annotations visible in image 1.",
+  "annotator": "edisy",
+  "objects": [
+    "Notebook",
+    "Pen",
+    "Glasses",
+    "Laptop",
+    "small computer mouse on the laptop's keyboard",
+    "green bounding box around the mouse with 'Mouse' label",
+    "iPhone",
+    "Coffee cup",
+    "Wooden table surface"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

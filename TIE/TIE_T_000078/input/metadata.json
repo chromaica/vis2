@@ -1,0 +1,17 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "Extract the text from the image and recolor it to dark purple.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Recolor the textual graphics 'YOUR MIND IS INFINITE', which are formed by the pink convolutions of the brain, to dark purple.",
+  "annotator": "matina",
+  "objects": [
+    "Brain graphic",
+    "'YOUR MIND IS INFINITE' textual graphics in dark purple",
+    "Dark grey background"
+  ]
+}

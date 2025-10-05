@@ -1,0 +1,30 @@
+{
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "Edit image 1: Segment the volleyball and replace it with the rugby ball from image 3. Segment the court floor and apply the carpet texture from image 5. Segment the net structure and overlay it with the music staff design from image 2. On one segmented player, add a height measurement overlay using the ruler style from image 4.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg",
+    "4.jpeg",
+    "5.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749489768063,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit the provided image (Image 1) by performing the following modifications:\n\n1.  Locate and segment the volleyball (the ball in the upper center of the frame) and replace it with the rugby ball from Image 3, maintaining its perspective and lighting.\n2.  Segment the entire volleyball court floor and apply the carpet texture from Image 5 as its new surface, ensuring it integrates realistically.\n3.  Identify and segment the volleyball net structure, then overlay its entire surface with the music staff design visible in Image 2.\n4.  On the player in the immediate foreground wearing a yellow shirt and black shorts (the one with arms raised), add a vertical height measurement overlay along their side, mimicking the visual style and markings of the wooden ruler from Image 4.",
+  "annotator": "winston",
+  "objects": [
+    "rugby ball (in upper center)",
+    "volleyball (should not be present)",
+    "volleyball court floor with carpet texture",
+    "volleyball net structure with music staff design",
+    "player in foreground with yellow shirt and black shorts",
+    "vertical height measurement overlay on the foreground player's side",
+    "other players in the background",
+    "ceiling",
+    "lights",
+    "walls and banners"
+  ]
+}

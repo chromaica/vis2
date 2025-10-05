@@ -1,0 +1,23 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "Try to apply the UI mockup elements: on the left is the cooking content, in the middle is the travel content, and on the right is the yoga content.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the content within the UI elements: the mobile UI on the left should feature cooking-related content; the tall website UI in the middle should display travel-related content; and the desktop monitor UI on the right should continue to display yoga-related content.",
+  "annotator": "Johnny",
+  "objects": [
+    "Mobile UI on the left",
+    "Cooking-related content within the mobile UI",
+    "Tall website UI in the middle",
+    "Travel-related content within the tall website UI",
+    "Desktop monitor UI on the right",
+    "Yoga-related content within the desktop monitor UI"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

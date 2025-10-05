@@ -1,0 +1,25 @@
+{
+  "subtopic": "Games",
+  "prompt": "Reimagine this game's map screen as a hand-drawn fantasy map, in the style of Tolkien's Middle-earth, with calligraphic labels and sketched mountains.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://preview.redd.it/kd9hspan76311.png?auto=webp&s=6de4d206d82562260c666a2eb6480bd780a95b60",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a new image that reimagines the geographical layout and content from image 1 as a detailed, hand-drawn fantasy map. The map should adopt the visual style of Tolkien's Middle-earth, featuring an aged, warm parchment background with muted, earthy tones for landmasses and a soft, antique blue for the seas. Depict all mountainous regions, such as those in Lakonia and Arkadia, as intricately sketched peaks. All place names and descriptive labels (e.g., 'LAKONIA', 'Kraken', 'Bellerophon riding Pegasus') should be rendered in an elegant, flowing calligraphic script, maintaining their approximate positions from image 1. Redraw the mythological creatures and scenes (e.g., the Kraken illustration, Odysseus impaling Polyphemus, Theseus killing the Minotaur) as illustrative, hand-sketched elements consistent with the fantasy map aesthetic. Transform the compass from the top-right of image 1 into an ornate, hand-drawn compass rose. Exclude all game user interface elements (such as the top menu bar, bottom controls, and quest log) present in image 1, focusing solely on the map content.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Aged, warm parchment background",
+    "Landmasses (reimagined geographical layout from image 1, in muted, earthy tones)",
+    "Seas (reimagined geographical layout from image 1, in soft, antique blue)",
+    "Intricately sketched mountain ranges (e.g., in Lakonia and Arkadia)",
+    "Place names and descriptive labels (e.g., 'LAKONIA', 'Kraken', 'Bellerophon riding Pegasus', 'Arkadia', 'Messenia', 'Argolis', 'Korinthia', 'Keos', 'Delos', 'Mykonos', 'Naxos', 'Paros', 'Hydrea', 'Melos', 'Thera', 'Nisyros', 'Anaphi', 'Kythera Island', 'Typhon? Ichthyocentaur?', 'Odysseus impaling Polyphemus (cyclop)', 'Theseus killing the Minotaur', 'Person beating a horse?', 'Scylla?', rendered in elegant, flowing calligraphic script)",
+    "Hand-sketched mythological creatures (Kraken, Bellerophon riding Pegasus, Typhon? Ichthyocentaur?, Person beating a horse?, Scylla?)",
+    "Hand-sketched mythological scenes (Odysseus impaling Polyphemus, Theseus killing the Minotaur)",
+    "Ornate, hand-drawn compass rose (in the top-right position)",
+    "Top menu bar (should not be present)",
+    "Bottom controls and quest log (should not be present)"
+  ],
+  "human_annotation": true
+}

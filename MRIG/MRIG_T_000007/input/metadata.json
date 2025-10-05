@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Use the comic format of the first image. Man says: 'Save me.' Woman replies: 'Let me zoom in first'. Replace the woman\u2019s face with the second image, wide-eyed woman, for comedic effect. Use bold comic-style text.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a comic panel in the distinct pop art style of image 1, featuring a blue monochromatic color scheme and halftone dot texture. The panel should depict a man on the left, looking towards a woman on the right. Above the man's head, a speech bubble should contain the bold, comic-style uppercase text: \"SAVE ME.\" Above the woman's head, a second speech bubble should contain the bold, comic-style uppercase text: \"LET ME ZOOM IN FIRST.\" The woman's face should be replaced with the wide-eyed, glasses-wearing, purple-haired face from image 2, seamlessly integrated into the comic art style for a comedic effect.",
+  "annotator": "parnian",
+  "objects": [
+    "Comic panel",
+    "Man on the left, looking towards the woman",
+    "Woman on the right",
+    "Speech bubble above the man's head",
+    "Text \"SAVE ME.\" in the man's speech bubble",
+    "Speech bubble above the woman's head",
+    "Text \"LET ME ZOOM IN FIRST.\" in the woman's speech bubble",
+    "Woman's wide-eyed, glasses-wearing, purple-haired face (from image 2, integrated into comic style)",
+    "Blue monochromatic color scheme",
+    "Halftone dot texture"
+  ]
+}

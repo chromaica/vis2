@@ -1,0 +1,26 @@
+{
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "A computer graphics visualization of instance segmentation: the figure from image 1 shown alongside a stack of denim jeans like in image 2, with distinct colored masks highlighting different object instances and parts.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748424281949,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a computer graphics visualization of instance segmentation. The image should display the young girl from image 1 on the left, positioned alongside multiple stacks of folded denim jeans similar to those in image 2 on the right. Both the girl and the jeans should be distinctly overlaid with bright, varied colored masks highlighting different object instances and their specific parts.",
+  "annotator": "winston",
+  "objects": [
+    "Young girl from image 1",
+    "Young girl positioned on the left",
+    "Multiple stacks of folded denim jeans similar to image 2",
+    "Jeans positioned on the right",
+    "Bright, varied colored masks",
+    "Masks overlaid distinctly on the young girl",
+    "Masks overlaid distinctly on the folded denim jeans",
+    "Masks highlighting different object instances",
+    "Masks highlighting specific parts of objects"
+  ]
+}

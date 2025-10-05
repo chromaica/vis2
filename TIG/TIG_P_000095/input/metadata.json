@@ -1,0 +1,19 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "A dramatic capture of bacteria colonies in a petri dish, forming colorful and distinct patterns against a solid black background.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Photorealistic extreme macro photograph of vibrant, intricate bacteria colonies inside a clear glass petri dish, forming colorful and distinctly patterned structures. The colonies are dramatically illuminated with focused, high-contrast studio lighting, showcasing their detailed textures against a seamless, solid black background.",
+  "annotator": "cwhsu",
+  "objects": [
+    "vibrant, intricate bacteria colonies",
+    "colorful and distinctly patterned structures",
+    "detailed textures",
+    "clear glass petri dish",
+    "focused studio lighting",
+    "high-contrast studio lighting",
+    "seamless, solid black background"
+  ]
+}

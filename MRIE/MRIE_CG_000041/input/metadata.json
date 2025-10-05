@@ -1,0 +1,29 @@
+{
+  "subtopic": "Object detection visuals",
+  "prompt": "Edit image 1: Transform the realistic wolf into a stylized object detection visual. Use the minimalist line drawing style from image 3 to create the base outline of the wolf, then apply the vibrant, flat colors and bold decorative patterns from image 2 to represent distinct detected segments or features on its form.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748455676309,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit `image 1` (the realistic wolf) by transforming the wolf into a stylized object detection visual. First, abstract the wolf into a clean, minimalist line drawing, adopting the thin outline style seen in `image 3`. Then, apply vibrant, flat colors and bold, decorative patterns, drawing inspiration from the visual elements found on the animal characters in `image 2`. Each major segment or feature of the wolf's body (e.g., head, torso, limbs) should be colored and patterned distinctly to represent its detection, similar to how different parts of an object would be highlighted in a detection system. The background of `image 1` should remain as is, with only the wolf being modified.",
+  "annotator": "winston",
+  "objects": [
+    "Snowy mountain forest background",
+    "Light rays",
+    "Bokeh",
+    "Stylized wolf",
+    "Wolf with thin line outlines",
+    "Wolf's head with distinct vibrant color and pattern",
+    "Wolf's torso with distinct vibrant color and pattern",
+    "Wolf's front limbs with distinct vibrant color and pattern",
+    "Wolf's hind limbs with distinct vibrant color and pattern"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

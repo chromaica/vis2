@@ -1,0 +1,28 @@
+{
+  "subtopic": "Software interfaces",
+  "prompt": "Edit image 1: Change the user interface style of the application screenshot to adopt the light, clean visual style of image 2, incorporating the white background and green header color scheme.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751006344879,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit image 1 to transform its user interface style, adopting the light, clean visual aesthetic of image 2. Specifically, convert the dark grey background of image 1 to a bright white, similar to the main content area of image 2. Apply the prominent green color from the top header bar of image 2 to the top title bar of image 1, ensuring the text 'ShareX 15.0' remains clearly visible. Furthermore, redesign all other UI elements within image 1, including the left navigation sidebar, the central content panel, and the open right-click context menu, to consistently reflect this light and clean design, using light tones for their backgrounds and dark text for optimal contrast, mirroring the overall style of image 2.",
+  "annotator": "ishengfang",
+  "objects": [
+    "ShareX application window frame",
+    "Top title bar",
+    "Left navigation sidebar",
+    "Central content panel",
+    "Open right-click context menu",
+    "'ShareX_Logo.png' image",
+    "Bright white background for UI elements",
+    "'ShareX 15.0' text on the title bar",
+    "Window control buttons (minimize, maximize, close)",
+    "All original text labels and icons within the left navigation sidebar and the right-click context menu"
+  ],
+  "human_annotation": true
+}

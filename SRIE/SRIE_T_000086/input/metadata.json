@@ -1,0 +1,23 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Overlay dynamic flames, glowing embers, and heat haze using the reference\u2019s flicker patterns and color palette.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 (the source image) by overlaying dynamic flames, glowing embers, and a subtle heat haze specifically onto the text \"Mom told me not to touch it\" at the top of the image. The flames should emanate from and surround the text, displaying the vivid orange, red, and yellow color palette and characteristic flicker patterns seen in image 2 (the reference image). Include scattered glowing embers around the base of the flames and a shimmering heat haze visible above the burning text, ensuring the fiery elements appear integrated with the textual graphic.",
+  "annotator": "matina",
+  "objects": [
+    "young girl",
+    "chocolate cake with white frosting",
+    "plate",
+    "table/tablecloth",
+    "text: \"Mom told me not to touch it\" at the top of the image",
+    "dynamic flames emanating from and surrounding the text \"Mom told me not to touch it\"",
+    "glowing embers scattered around the base of the flames",
+    "shimmering heat haze above the text"
+  ]
+}

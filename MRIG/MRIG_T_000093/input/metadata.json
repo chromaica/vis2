@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "Use the first image of the man in black and the second image of the car to create a poster for an action movie titled 'No Speed Limit: Coming This Fall'.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate an action movie poster featuring the man from image 1 and the car from image 2. The man from image 1 should be prominently displayed in the foreground with an intense expression, wearing his black attire. The white sports car from image 2 should be in the mid-ground, positioned dynamically to suggest high speed or powerful motion, perhaps against a blurred, gritty urban or highway backdrop. The main title 'No Speed Limit' should be large, bold, and impactful, placed in the upper or central portion of the poster. A smaller tagline, 'Coming This Fall', should appear below the main title. The overall aesthetic should be dark, dramatic, and high-octane, typical of an action film.",
+  "annotator": "parnian",
+  "objects": [
+    "Man from image 1 (in foreground, with intense expression, wearing black attire)",
+    "White sports car from image 2 (in mid-ground, positioned dynamically)",
+    "Blurred, gritty urban or highway backdrop",
+    "Main title: 'No Speed Limit' (large, bold, impactful, in upper or central portion)",
+    "Tagline: 'Coming This Fall' (smaller, below main title)",
+    "Action movie poster style",
+    "Dark aesthetic",
+    "Dramatic aesthetic",
+    "Visual elements suggesting high speed or powerful motion"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

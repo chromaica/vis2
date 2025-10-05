@@ -1,0 +1,28 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": "Generate a screenshot of a grocery shop website that exclusively sells fruits. Display the fruit from the first image priced at $10 per kilo, the fruit from the second image priced at $20 per kilo, and the fruit from the third image priced at $30 per kilo. Each fruit should appear as a product card with image, price tag, and an 'Add to Cart' button.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a screenshot of a clean, modern grocery website designed exclusively for selling fruits. The main display area should feature three distinct product cards arranged prominently in a horizontal row.\n\n- The first product card, positioned on the left, should showcase the red apple from image 1, clearly displaying its image, a price tag indicating '$10 per kilo', and an 'Add to Cart' button.\n- The second product card, located in the center, should showcase the bunch of bananas from image 2, clearly displaying its image, a price tag indicating '$20 per kilo', and an 'Add to Cart' button.\n- The third product card, positioned on the right, should showcase the pineapple from image 3, clearly displaying its image, a price tag indicating '$30 per kilo', and an 'Add to Cart' button.",
+  "annotator": "paria",
+  "objects": [
+    "Screenshot of a clean, modern grocery website",
+    "Three distinct product cards in a horizontal row",
+    "Product card on the left displaying a red apple (from image 1)",
+    "Price tag '$10 per kilo' on the left product card",
+    "'Add to Cart' button on the left product card",
+    "Product card in the center displaying a bunch of bananas (from image 2)",
+    "Price tag '$20 per kilo' on the center product card",
+    "'Add to Cart' button on the center product card",
+    "Product card on the right displaying a pineapple (from image 3)",
+    "Price tag '$30 per kilo' on the right product card",
+    "'Add to Cart' button on the right product card"
+  ],
+  "human_annotation": true
+}

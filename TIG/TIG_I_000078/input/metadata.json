@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "A neon cyberpunk trading dashboard with glowing pink and cyan charts, holographic price tickers, and rain-streaked digital windows overlooking a futuristic cityscape",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a highly detailed, neon cyberpunk trading dashboard in the foreground, featuring multiple glowing pink and cyan line charts and intricate holographic price tickers. Behind the dashboard, a large, rain-streaked digital window overlooks a sprawling, futuristic cityscape under a dark, reflective sky.",
+  "annotator": "theblackcat",
+  "objects": [
+    "highly detailed neon cyberpunk trading dashboard (in the foreground)",
+    "multiple glowing pink line charts (on the dashboard)",
+    "multiple glowing cyan line charts (on the dashboard)",
+    "intricate holographic price tickers (on the dashboard)",
+    "large digital window (behind the dashboard)",
+    "rain streaks (on the digital window)",
+    "sprawling futuristic cityscape (visible through the window)",
+    "dark sky (above the cityscape)",
+    "reflective sky (above the cityscape)"
+  ],
+  "human_annotation": true
+}

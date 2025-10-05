@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "2D digital UI mock-up of a sleek, privacy-focused email client in dark mode. Clean layout with a collapsible sidebar on the left (icons for Unified Inbox, Smart Folders, Calendar, Tasks, Settings), a central message list showing colored priority dots and custom labels, and a reading pane on the right. Top bar features a prominent AI search field and encrypted-mail padlock badge. Minimalist, modern aesthetic with subtle shadows, rounded corners, and clear typography; attachment previews (photo thumbnail and simple bar-chart graphic) displayed in the reading pane for quick context.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A 2D digital UI mock-up of a sleek, privacy-focused email client in dark mode. The clean layout includes a collapsible sidebar on the left with icons for Unified Inbox, Smart Folders, Calendar, Tasks, and Settings. A central message list displays colored priority dots and custom labels. On the right, a reading pane shows attachment previews, including a photo thumbnail and a simple bar-chart graphic. The top bar features a prominent AI search field and an encrypted-mail padlock badge. The design is minimalist and modern, with subtle shadows, rounded corners, and clear typography.",
+  "annotator": "theblackcat",
+  "objects": [
+    "2D digital UI mock-up of an email client",
+    "Dark mode interface",
+    "Collapsible sidebar on the left",
+    "Navigation icons (for Unified Inbox, Smart Folders, Calendar, Tasks, Settings)",
+    "Central message list with colored priority dots and custom labels",
+    "Reading pane on the right",
+    "Attachment previews (including photo thumbnail and bar-chart graphic)",
+    "Top bar",
+    "Prominent AI search field",
+    "Encrypted-mail padlock badge"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "Change the world map colors to match autumn foliage",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 2 (the world map). Apply a color palette to the landmasses of the world map that directly matches the warm, vibrant reds, oranges, yellows, and deep greens/browns observed in the autumn forest in image 1. Ensure the ocean colors in image 2 are adjusted to maintain clear visual separation and contrast with the newly colored land areas, while still representing water.",
+  "annotator": "Johnny",
+  "objects": [
+    "world map",
+    "landmasses with warm red hues",
+    "landmasses with vibrant orange hues",
+    "landmasses with yellow hues",
+    "landmasses with deep green hues",
+    "landmasses with brown hues",
+    "oceans",
+    "oceans with colors providing clear visual separation from land",
+    "oceans representing water",
+    "polar ice caps"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "T",
+  "subtopic": "Flyers",
+  "prompt": "Convert all the price from CAD to USD, which has the rate of 1 CAD = 0.8 USD. Replace the image of coke to the second image. Finally, replace the money dew with the product from the third image, and change the name of the product accordingly. ",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the provided source image (Image 1) by performing the following modifications:\n\n1.  **Price Conversion:** Convert all displayed prices (e.g., $2.44, $6.97, etc., typically within red or orange bubbles) from CAD to USD using an exchange rate of 1 CAD = 0.8 USD. Update the numerical value of each price accordingly.\n2.  **Coca-Cola Product Replacement:** Replace the single Coca-Cola can image located in the bottom-middle section of the ad with the 24-pack of Coca-Cola cans shown in Image 2. Ensure the new image is integrated seamlessly regarding size, perspective, and lighting.\n3.  **Mountain Dew Product Replacement:** Replace the Mountain Dew Game Fuel product image located in the bottom-right section of the ad with the square watermelon from Image 3. Additionally, change the product name text \"Mountain Dew Game Fuel\" to \"Square Watermelon\" directly below the newly inserted image.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Walmart logo",
+    "Melons",
+    "Bell peppers",
+    "Prices in red/orange bubbles (with updated USD values)",
+    "24-pack of Coca-Cola cans in the bottom-middle",
+    "Square watermelon in the bottom-right",
+    "Text \"Square Watermelon\" below the square watermelon",
+    "Coca-Cola single can (should not be present)",
+    "Mountain Dew Game Fuel product (should not be present)",
+    "Text \"Mountain Dew Game Fuel\" (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

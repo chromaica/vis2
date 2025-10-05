@@ -1,0 +1,21 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Design a bookshelf inspired by the first provided images of a peacock and the second provided images of a modular shelving unit. Incorporate the peacock\u2019s vibrant blue and green feather patterns into the shelf panels, with iridescent accents that catch the light. The shelf structure should mimic the fan-like spread of a peacock\u2019s tail, with curved, open compartments. Ensure the design is functional, artistic, and fits a modern home office aesthetic.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic image of a bookshelf designed for a modern home office. The bookshelf's visual elements are inspired by image 1 (peacock) and image 2 (modular shelving unit). The shelf panels should incorporate the vibrant blue and green feather patterns from image 1, including the distinct iridescent eye-spot (ocelli) patterns that catch the light. The overall structure of the bookshelf should mimic the elegant, fan-like spread of a peacock's tail, featuring multiple curved, open compartments. Drawing from the concept of a modular shelving unit (image 2), the bookshelf must be functional and artistic, seamlessly fitting a contemporary home office environment.",
+  "objects": [
+    "Bookshelf",
+    "Modern home office environment",
+    "Bookshelf structure mimicking a peacock's fan-like tail spread",
+    "Shelf panels with vibrant blue and green feather patterns",
+    "Shelf panels with distinct iridescent eye-spot (ocelli) patterns",
+    "Multiple curved, open compartments"
+  ]
+}

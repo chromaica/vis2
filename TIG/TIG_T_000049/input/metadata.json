@@ -1,0 +1,23 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Generate the iconic 'This is Fine' meme. The text itself should be in the unmistakable bold white Impact font, heavily outlined in black. For the background, picture stylized, subtly animated orange flames hinting at controlled chaos.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a textual graphic of the iconic 'This is Fine' meme. The central text 'This is Fine' must appear in bold white Impact font with a thick black outline. The background should feature stylized, subtly animated orange flames, subtly suggesting controlled chaos.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "'This is Fine' text",
+    "White text color",
+    "Impact font",
+    "Thick black text outline",
+    "Central text placement",
+    "Background",
+    "Stylized flames",
+    "Orange flames",
+    "Subtly animated visual effect (for flames)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

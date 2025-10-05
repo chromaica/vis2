@@ -1,0 +1,27 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Chat and Social Messaging",
+  "prompt": "Replace the last chat entry ('Millena Irm\u00e3') with a new contact named 'Parnian' using the heart with bow emoji from image 3 as the profile and show the grey typing bubble from image 2 beneath the name in place of the message preview.",
+  "cond_images": [
+    "1.jpg",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Modify image 1. For the bottom-most chat entry, currently displaying the contact name 'Millena Irm\u00e3' and the message preview 'Kakakaka', perform the following edits:\n1.  Change the contact name 'Millena Irm\u00e3' to 'Parnian'.\n2.  Replace the existing circular profile picture to the left of the contact name with the heart with bow emoji from image 3.\n3.  Replace the message preview 'Kakakaka' with the grey typing bubble from image 2, positioned directly beneath the new 'Parnian' contact name.",
+  "annotator": "parnian",
+  "objects": [
+    "WhatsApp chat interface",
+    "Top status bar with time (9:04) and icons",
+    "\"Chats\" header",
+    "Search bar",
+    "Bottom navigation bar with icons (Status, Calls, Communities, Chats, Settings)",
+    "Parnian contact name (for the bottom-most chat entry)",
+    "Heart with bow emoji profile picture (for the bottom-most chat entry, replacing the original circular profile picture)",
+    "Grey typing bubble (for the bottom-most chat entry, positioned beneath Parnian)",
+    "Millena Irm\u00e3 contact name (should not be present)",
+    "Kakakaka message preview (should not be present)"
+  ],
+  "human_annotation": true
+}

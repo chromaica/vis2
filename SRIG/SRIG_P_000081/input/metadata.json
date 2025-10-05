@@ -1,0 +1,20 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Medical images",
+  "prompt": "a high-resolution 3D CT image of a human femur that accurately reflects the internal density variations depicted in the reference image",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a high-resolution, photorealistic 3D CT scan of a human femur. The internal density variations in the generated image must accurately reflect the pattern depicted in image 1, with the red and yellow regions of image 1 corresponding to high-density areas (appearing bright white in the CT scan), and the blue regions corresponding to low-density areas (appearing dark).",
+  "annotator": "samin",
+  "objects": [
+    "human femur",
+    "internal density variations",
+    "bright white areas (corresponding to high density)",
+    "dark areas (corresponding to low density)",
+    "CT scan visual style",
+    "3D representation"
+  ]
+}

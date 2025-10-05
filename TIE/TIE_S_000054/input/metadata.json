@@ -1,0 +1,26 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Transform the \"Reddit\" logo into a vibrant \"Bluebird\" logo, with shimmering feathers and a gentle golden glow, enhancing the page's innovative theme.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the prominent circular orange Reddit logo (Snoo icon) located in the top-left header of the webpage content with a vibrant bluebird logo. The bluebird should feature shimmering feathers and emit a gentle golden glow, ensuring the new logo integrates seamlessly and enhances the page's innovative and modern aesthetic.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Browser window frame",
+    "Reddit webpage layout",
+    "Sidebar navigation menu",
+    "Reddit post \"Find Alternatives for Ourselves Megathread\"",
+    "Search bar within the webpage",
+    "Login button on the webpage",
+    "Orange Reddit logo (Snoo icon) in the top-left header (should not be present)",
+    "Vibrant bluebird logo with shimmering feathers and a golden glow in the top-left header",
+    "\"You have no Favorites\" notification box",
+    "URL bar showing \"reddit.com\""
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,26 @@
+{
+  "subtopic": "Games",
+  "prompt": "Edit image 1: Introduce enemies from image 2 into the scene. Add the Slime monster sprites from image 2 onto the road in image 1, as if the car is encountering them in an RPG battle, keeping their distinct visual style.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1752236363866,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "annotator": "ishengfang",
+  "prompt_refined": "Edit image 1. Introduce the blue Slime monsters from image 2 onto the road in image 1. Position them directly in front of the car, arranged as if the car is about to engage them in an RPG battle. The Slimes should be on the asphalt surface, facing the car, and keep their distinct visual style from image 2.",
+  "objects": [
+    "Silver car",
+    "Asphalt road",
+    "Desert landscape",
+    "Sky",
+    "Game UI elements",
+    "Multiple blue Slime monsters with distinct visual style from image 2",
+    "Blue Slime monsters on the asphalt surface directly in front of the car",
+    "Blue Slime monsters facing the car",
+    "Blue Slime monsters arranged in an RPG battle formation"
+  ]
+}

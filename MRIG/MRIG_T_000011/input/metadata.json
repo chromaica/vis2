@@ -1,0 +1,22 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "Generate a cozy poster promoting a book club using the caf\u00e9 scene from the first image as the warm background, the stack of antique books from the second image placed on the table or to the side, and the text 'BOOK CLUB' from the third image as the title style. Use a white font and include the subtitle 'Saturdays at 5PM - Parnian Caf\u00e9' in smaller font below the title.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a cozy book club promotional poster. Utilize the warm, inviting caf\u00e9 interior scene, including the window view and wooden table details from image 1, as the primary background. Place a prominent stack of ornate, antique, leather-bound books, styled after the books in image 2, on the wooden table in the mid-right portion of the foreground. At the top of the poster, centered, display \"BOOK CLUB\" as the main title, using the clean, elegant serif font style from image 3. Directly below the main title, centered and in a visibly smaller font, add the subtitle \"Saturdays at 5PM - Parnian Caf\u00e9\". All textual elements (title and subtitle) should be in white.",
+  "annotator": "parnian",
+  "objects": [
+    "cozy, warm, inviting caf\u00e9 interior scene",
+    "window view",
+    "wooden table",
+    "prominent stack of ornate, antique, leather-bound books on the wooden table in the mid-right foreground",
+    "\"BOOK CLUB\" main title (white, centered at top, clean elegant serif font)",
+    "\"Saturdays at 5PM - Parnian Caf\u00e9\" subtitle (white, centered below main title, visibly smaller font)"
+  ]
+}

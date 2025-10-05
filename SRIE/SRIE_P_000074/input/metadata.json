@@ -1,0 +1,23 @@
+{
+  "task": "SRIE",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "Recolor the surface of Ceres in the source image using the colormap from the reference topographical map.",
+  "cond_images": [
+    "1.png",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the grayscale photographic image of Ceres, by applying the elevation-based colormap from image 2, the topographical map of Ceres. Ensure the colors from image 2 accurately represent the corresponding geographical locations and elevation changes on the surface of Ceres as depicted in image 1.",
+  "annotator": "nimajamali",
+  "objects": [
+    "Spherical dwarf planet Ceres",
+    "Ceres' surface features (craters, plains, ridges)",
+    "Photorealistic texture on Ceres' surface",
+    "Elevation-based colormap applied across Ceres' surface",
+    "Hues of blue, green, yellow, red, and white representing varying elevations",
+    "Black cosmic background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

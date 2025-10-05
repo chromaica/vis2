@@ -1,0 +1,20 @@
+{
+  "task": "MRIE",
+  "topic": "P",
+  "subtopic": "Wildlife & Nature Photography",
+  "prompt": "Add the white horse from the second image to the first image's background, then replace the entire background view of the first image with the background view of the third image. Make sure the horse is still there.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit Image 1. Retain the foreground sheep. Replace the entire background of Image 1 with the snowy landscape and clear blue sky from Image 3. Within this new background, add a white horse, referencing the subject and appearance of Image 2. Position the horse in the mid-ground, behind the prominent foreground sheep.",
+  "annotator": "boris",
+  "objects": [
+    "prominent foreground sheep",
+    "snowy landscape background",
+    "clear blue sky background",
+    "white horse in the mid-ground, behind the prominent foreground sheep"
+  ]
+}

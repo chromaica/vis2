@@ -1,0 +1,26 @@
+{
+  "subtopic": "VFX and Particles",
+  "prompt": "Generate a computer graphics render of the musical instrument from image 1. It should emit a dynamic particle system VFX, using colors and a dispersed yet structured composition inspired by the elements in image 2, emphasizing fluid simulation effects.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748423131548,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a computer graphics render of the dark recorder from image 1. It should emit a dynamic particle system visual effect. The particle system's color palette should be derived from the distinct yellow and cream tones present in image 2. Its composition should be a dispersed yet structured arrangement, drawing inspiration from the parallel lines of the pencils and the scattered, curved forms of the paper clips in image 2. The entire VFX should strongly emphasize fluid simulation, creating a flowing and organic movement for the particles.",
+  "annotator": "winston",
+  "objects": [
+    "dark recorder (from image 1)",
+    "dynamic particle system",
+    "particle system with yellow and cream tones (derived from image 2)",
+    "particle system exhibiting a dispersed yet structured arrangement",
+    "particle system composition inspired by parallel lines (from image 2 pencils)",
+    "particle system composition inspired by scattered, curved forms (from image 2 paper clips)",
+    "fluid simulation-based, flowing particle movement"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

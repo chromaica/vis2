@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Exploded Views",
+  "prompt": "Add color coding to each part to indicate different materials used in the construction.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Apply a color coding system to the technical illustration of the product's components. Assign a unique color to each distinct material used in the construction of the individual parts (1-10). Ensure that parts made of the same material share the same color, and parts made of different materials are represented by clearly contrasting colors, providing a distinct visual identification of the materials across the entire assembly.",
+  "annotator": "cwhsu",
+  "objects": [
+    "color-coded product component 1",
+    "color-coded product component 2",
+    "color-coded product component 3",
+    "color-coded product component 4",
+    "color-coded product component 5",
+    "color-coded product component 6",
+    "color-coded product component 7",
+    "color-coded product component 8",
+    "color-coded product component 9",
+    "color-coded product component 10"
+  ]
+}

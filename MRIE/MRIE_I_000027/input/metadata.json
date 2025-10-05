@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Visual instructions and manuals",
+  "prompt": "Edit image 1. Apply the blue/turquoise color palette from image 2 to recolor the tie-dyed shirts and process elements, giving the diagram a digital look. Use the soft pink gradient from image 3 as the background for the entire informational graphic.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, which depicts hand-drawn instructions for various tie-dye techniques.\n\nTransform the style of the entire informational graphic to a clean, digital aesthetic. Specifically:\n1.  Recolor all existing tie-dyed shirts and the intermediate colored process elements (such as the dyed fabric bundles and twisted shapes shown in each step) using the blue and turquoise color palette derived from image 2.\n2.  Apply a soft pink gradient as the background for the entire informational graphic, using the colors from the palette in image 3.",
+  "annotator": "maxku",
+  "objects": [
+    "Tie-dye informational graphic layout",
+    "White t-shirts (initial state)",
+    "Intermediate tie-dyed fabric elements (colored with blue and turquoise palette)",
+    "Finished tie-dyed shirts (colored with blue and turquoise palette)",
+    "Technique titles (e.g., \"STRIPES\", \"POLKA DOTS\", \"SPIRAL\")",
+    "Step-by-step instruction text",
+    "Arrows indicating process flow",
+    "Clean, digital aesthetic for all graphic elements",
+    "Soft pink gradient background",
+    "Blue and turquoise color scheme applied to tie-dyed patterns"
+  ]
+}

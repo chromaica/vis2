@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": "Create a 3-panel comic where the man in the second image walks into the scene from the first image, triggering the 'Oh my eyes!!' reaction.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a 3-panel comic strip using image 1 and image 2 as references.\n\nPanel 1 (left): Depict the background scene from image 1 (the bridge and swirling sky) without the screaming figure or text.\n\nPanel 2 (middle): Mr. Bean from image 2 is depicted walking into the central foreground of the background scene from image 1, maintaining his distinctive animated appearance.\n\nPanel 3 (right): The screaming character from image 1 is shown in an exaggerated state of horror, reacting to Mr. Bean's entrance. The text 'Oh my eyes!! My eyes!!!' from image 1 should be prominently displayed above this character, retaining its original style. The background for this panel should be consistent with the scene from image 1.\n\nThe entire comic strip must adopt the distinct artistic style and color palette of image 1.",
+  "annotator": "parnian",
+  "objects": [
+    "3-panel comic strip",
+    "Bridge scene",
+    "Swirling sky",
+    "Screaming figure from image 1 (exaggerated horror in Panel 3)",
+    "Mr. Bean (animated appearance in Panel 2)",
+    "Text 'Oh my eyes!! My eyes!!!' (in Panel 3, original style)",
+    "Artistic style of image 1",
+    "Color palette of image 1",
+    "Screaming figure from image 1 (should not be present in Panel 1)",
+    "Text 'Oh my eyes!! My eyes!!!' (should not be present in Panel 1)"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Add this red bicycle in the middle of a street road.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 2 by adding a red bicycle to the middle of the street road. Use image 1 as a reference for the bicycle's shape and design.",
+  "annotator": "Johnny",
+  "objects": [
+    "street road",
+    "red bicycle in the middle of the street road",
+    "bare trees",
+    "houses",
+    "green lawns",
+    "sidewalks",
+    "street lamp"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

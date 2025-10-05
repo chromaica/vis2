@@ -1,0 +1,23 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Stylized art",
+  "prompt": "Add the crown from image 2 to the head of the girl in image 1, and place the cigarette from image 3 in her mouth. Maintain the stylized art and ensure both added elements match the same style.",
+  "cond_images": [
+    "1.jpg",
+    "2.png",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Add the crown from image 2 onto the top of the girl's head. Place the cigarette from image 3 into her mouth. Ensure both the crown and the cigarette are rendered in the distinctive geometric and cubist art style of image 1, integrating seamlessly with the existing painting's aesthetic.",
+  "annotator": "paria",
+  "objects": [
+    "woman (girl)",
+    "crown on top of the girl's head",
+    "cigarette in the girl's mouth",
+    "geometric background",
+    "cubist art style",
+    "flower (top right)",
+    "flower (bottom right)"
+  ]
+}

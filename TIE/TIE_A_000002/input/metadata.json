@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "Make the left collage set of pictures have a clear sky.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. In the left-hand collage, which features two vertical portraits of a woman by the sea, replace the current overcast sky with a clear blue sky.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Left-hand collage structure",
+    "Two vertical portraits of a woman",
+    "Woman (in green sweater)",
+    "Sea (in the left-hand collage)",
+    "Clear blue sky (in the left-hand collage)",
+    "Overcast sky (should not be present)",
+    "Right-hand collage structure",
+    "Mountain and lake landscape",
+    "People on a cliff edge",
+    "People in a swimming pool with floating tray"
+  ]
+}

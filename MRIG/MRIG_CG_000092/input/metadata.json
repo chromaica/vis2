@@ -1,0 +1,26 @@
+{
+  "subtopic": "Depth maps",
+  "prompt": "Generate the depth map for a 3D scene: Render the golden ring from image 1 within a minimalist, high-key environment inspired by image 2's white background and shallow focus. Show the grayscale depth map for this computer graphics scene.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748424753866,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a grayscale depth map for a 3D computer graphics scene. The scene features the golden ring from image 1, positioned upright and centered. The environment should be minimalist and high-key, inspired by image 2's bright white background and the shallow depth of field it suggests, creating a distinct foreground for the ring and a rapidly receding background.",
+  "annotator": "winston",
+  "objects": [
+    "Grayscale depth map",
+    "The golden ring from image 1, upright and centered",
+    "Minimalist environment",
+    "High-key lighting",
+    "Bright white background",
+    "Shallow depth of field effect",
+    "Distinct foreground for the ring",
+    "Rapidly receding background"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,27 @@
+{
+  "subtopic": "UI mockups",
+  "prompt": "Using the same style of the UI mockup in the image, perform reverse-engineering to create a complete set of UI component kit.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/d4da19124351673.61021cfa1906b.jpg",
+  "promptGeneratedTimestamp": 1749894469262,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate a complete user interface (UI) component kit by extracting and replicating the distinct visual style from image 1. This kit should comprehensively showcase individual UI elements such as primary and icon buttons, search input fields, various card designs (e.g., image, detail, map), all unique icons, and examples of text styles (e.g., headings, body, labels). Ensure the generated components precisely match image 1's typography, color palette, rounded corners, and shadow effects, presented as a coherent collection of reusable design assets.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Primary button",
+    "Icon buttons",
+    "Search input field",
+    "Small image card",
+    "Detail information card",
+    "Map-integrated card",
+    "Bottom navigation bar",
+    "Text style examples (headings, body, labels)",
+    "Category icon set (e.g., Plain, Train, Taxi, Electric)",
+    "Rating component"
+  ],
+  "human_annotation": true
+}

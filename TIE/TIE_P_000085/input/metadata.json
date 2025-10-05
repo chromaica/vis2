@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "create an illustrated sketch of this image like the style we seen in 19th century books",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, transforming the photorealistic scanning electron micrograph of cells into a detailed, monochrome illustrated sketch. The visual style should meticulously emulate scientific illustrations found in 19th-century books, featuring precise line work, intricate shading through techniques like cross-hatching or stippling, and a generally illustrative, non-photorealistic aesthetic that accurately depicts the cellular structures present in the source image.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Cellular structures",
+    "Sprawling cells",
+    "Round cells",
+    "Cellular extensions/processes",
+    "Substrate",
+    "Monochrome tonality",
+    "Precise line work",
+    "Cross-hatching",
+    "Stippling",
+    "19th-century scientific illustration style"
+  ]
+}

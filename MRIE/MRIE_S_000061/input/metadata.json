@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "In image 1, replace the background of the '13,450 steps' panel with the light background style from image 2\u2019s 'Walk' section, keeping the step number and chart the same. Then, add the yellow folder icon from image 3 in the bottom-right corner of the '95 BP' panel as a visual bookmark. Keep all other panels unchanged.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit Image 2 (the dark-themed health tracking UI) using Image 1 and Image 3 as references.\n1.  **Background Replacement:** In Image 2, locate the panel displaying '13,450 steps' with a blue chart. Change its current dark background to a light background style, matching the white/light gray aesthetic observed in the 'Walk' panel of Image 1. Ensure the '13,450 steps' text and the blue line chart within this panel remain unchanged in their appearance and position.\n2.  **Icon Addition:** In Image 2, locate the '95 BPM' panel (the red heart rate panel). Insert the yellow folder icon from Image 3 into the bottom-right corner of this panel. This icon should function as a visual bookmark.\nAll other panels and elements within Image 2 must remain exactly as they are in the original Image 2.",
+  "annotator": "parnian",
+  "objects": [
+    "Dark health tracking UI background",
+    "\"Back\" text",
+    "\"09:41\" time text",
+    "Running, Swimming, Gymnastics panel (dark-themed)",
+    "'13,450 steps' panel with light background and blue line chart",
+    "'95 BPM' heart rate panel with red line chart",
+    "Yellow folder icon in the bottom-right of the '95 BPM' panel",
+    "'376 kcal' calories panel (dark-themed)",
+    "\"visit ronasit.com\" text",
+    "Swirl logo/icon"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,28 @@
+{
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "Edit image 1 using semantic segmentation: Replace the visual texture of the largest action figure package with the detailed shield design from image 2. Re-render the text on all product labels using the font style and prominent color contrast of the sign from image 3. Apply the translucent paper texture and geometric grid pattern of the shoji screen from image 4 to the segmented shelf backgrounds. Add a realistic instance of the shopping basket filled with items from image 5 onto the floor area.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg",
+    "4.jpeg",
+    "5.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749489707697,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1 using semantic segmentation: Replace the visual texture of the largest action figure package with the detailed shield design from image 2. Re-render all text on product labels within image 1, applying the font style and the high-contrast color scheme (e.g., light text on dark background) observed on the sign in image 3. Apply the translucent paper texture and geometric grid pattern from the shoji screen in image 4 to the vertical back panels of all display shelves in image 1. Finally, add a realistic instance of the shopping basket, complete with its contents, from image 5 onto the visible floor area at the bottom of image 1.",
+  "annotator": "winston",
+  "objects": [
+    "Largest action figure package with detailed shield design",
+    "Product labels on action figure packages with high-contrast text",
+    "Display shelves with translucent paper texture and geometric grid pattern on back panels",
+    "Action figures within their packaging",
+    "Realistic shopping basket with contents on the visible floor area at the bottom",
+    "Wooden framework of the display shelves"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

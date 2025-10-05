@@ -1,0 +1,27 @@
+{
+  "subtopic": "Games",
+  "prompt": "Edit image 1: Overlay the prominent first-person sniper scope element from image 2 onto the center of the scene in image 1. Make image 1 appear as if viewed through the scope.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1750758421197,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit image 1. Extract the prominent first-person sniper rifle and scope elements (including crosshairs and any digital overlay) from image 2. Overlay these extracted elements onto image 1, positioning the scope's central view to align with the center of image 1. Apply visual effects to the original content of image 1 (the background) such that the entire scene appears to be viewed through the sniper scope, adopting the visual perspective and characteristics (e.g., field of view, potential lens distortion, or darkened periphery) of the scope from image 2.",
+  "annotator": "ishengfang",
+  "objects": [
+    "First-person sniper rifle",
+    "Sniper scope",
+    "Scope crosshairs",
+    "Digital overlay elements from the scope",
+    "Character from Image 1 (viewed through scope)",
+    "Energy burst from Image 1 (viewed through scope)",
+    "Industrial background from Image 1 (viewed through scope)",
+    "Tracks/bridge from Image 1 (viewed through scope)",
+    "Circular scoped view of the scene from Image 1",
+    "Darkened periphery/vignetting around the scope view"
+  ]
+}

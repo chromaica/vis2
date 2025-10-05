@@ -1,0 +1,21 @@
+{
+  "subtopic": "Volume Rendering",
+  "prompt": "Modify the volume rendering's transfer function, changing the color mapping to a cool spectrum of blues and greens for different densities.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751799599771,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1, which displays a volume rendering. Re-color the entire volume rendering by changing its transfer function to map different densities to a cool spectrum of blues and greens, replacing the current warm color scheme (oranges, browns, whites).",
+  "annotator": "edisy",
+  "objects": [
+    "volume rendering of human facial/cranial structure",
+    "cool blue colors",
+    "cool green colors",
+    "black background",
+    "warm colors (oranges, browns, whites) (should not be present)"
+  ]
+}

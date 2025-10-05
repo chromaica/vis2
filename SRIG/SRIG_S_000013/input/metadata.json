@@ -1,0 +1,28 @@
+{
+  "subtopic": "Receipts",
+  "prompt": "Create a digital receipt for Amazon orders, with showing a purchased item \"iPhone 15 Pro Max 256GB\", using the clean screenshot layout and style as provided.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://d2duuy9yo5pldo.cloudfront.net/jamcity/b72a0127-fdd8-4356-8537-409e69a40c2f-2t.png",
+  "searchQueryGenerated": "High resolution clear receipt screenshot",
+  "searchQueryGeneratedTimestamp": 1749420544039,
+  "promptGeneratedTimestamp": 1749420623099,
+  "promptLengthUsed": "short",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a digital receipt screenshot for an Amazon order. Adopt the clean, minimalist layout, typography, and color scheme (light background, dark text) of image 1. Replace the 'Google Play' branding in the top header with 'Amazon' (logo or text). Adapt the general 'Thank you' message and order detail sections to be consistent with an Amazon purchase confirmation. Specifically, within the itemized list, change the listed item to 'iPhone 15 Pro Max 256GB', including a plausible price. Maintain the column structure and the left-alignment for the item name and right-alignment for the price, as depicted in image 1.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Digital receipt screenshot",
+    "Light background with dark text color scheme",
+    "Amazon branding (logo or text) in top header",
+    "Google Play branding (should not be present)",
+    "\"Thank you\" main heading",
+    "Order confirmation message text",
+    "Order number and order date details",
+    "Itemized list with \"Item\" and \"Price\" column headers",
+    "\"iPhone 15 Pro Max 256GB\" item name (left-aligned)",
+    "Plausible price for iPhone 15 Pro Max 256GB (right-aligned)"
+  ]
+}

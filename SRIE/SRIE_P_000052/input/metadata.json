@@ -1,0 +1,20 @@
+{
+  "task": "SRIE",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "Apply a blur to background structures based on depth.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the pink cellular structure, by applying a photorealistic depth-of-field blur effect. Use image 2 as a depth map to guide the blur intensity: regions corresponding to lighter pixel values in image 2 (representing greater distance) should receive a stronger blur, while regions corresponding to darker pixel values (representing closer proximity) should remain sharp or minimally blurred.",
+  "annotator": "nimajamali",
+  "objects": [
+    "Pink cellular tissue",
+    "Purple cell nuclei",
+    "Sharp regions",
+    "Blurred regions"
+  ],
+  "human_annotation": true
+}

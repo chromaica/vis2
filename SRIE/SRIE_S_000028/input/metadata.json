@@ -1,0 +1,28 @@
+{
+  "subtopic": "Software interfaces",
+  "prompt": "Edit image 1: Update the software interface styling. Apply the dark theme color scheme and use the flatter, modern button/label design style evident in image 2 to refresh the UI.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1750759056968,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit image 1. Update the software interface styling by applying a dark theme color scheme throughout the UI, similar to the overall dark blue and grey aesthetic seen in image 2. Redesign all interactive elements, including buttons, labels, and input fields in image 1, to adopt the flatter, modern, and minimalist design style evident in the UI components of image 2, replacing their current beveled or 3D appearance.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Software interface with a dark blue and grey color scheme",
+    "Top menu bar",
+    "Clock and date widgets (top-left)",
+    "Main header bar (\"Usingen Antenne 1 Antennen\u00fcbersicht\")",
+    "Left sidebar menu with flat, modern, and minimalist interactive elements",
+    "Central UI blocks (e.g., \"RF-ZF Empfangsweg\", \"Antennennachf\u00fchrung\") with flat, modern, and minimalist interactive elements",
+    "Image of a satellite dish",
+    "Image of a building",
+    "\"Stationstechnik\" section with flat, modern, and minimalist labels and indicators",
+    "\"Aktueller Satellit\" section with flat, modern, and minimalist input fields and \"Daten speichern\" button"
+  ],
+  "human_annotation": true
+}

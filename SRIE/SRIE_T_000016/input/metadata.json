@@ -1,0 +1,22 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "draw boundries based on the provided heathmap in the refrence image",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 2. Draw distinct, clear boundaries around the two high-intensity \"hot spots\" visible in the heatmap of image 2. The boundaries should follow the contours where the color transitions from yellow/red to blue, effectively outlining the most intense regions within image 2.",
+  "annotator": "matina",
+  "objects": [
+    "heatmap image",
+    "blue background",
+    "red/yellow hot spot",
+    "yellow/green hot spot",
+    "boundary around the red/yellow hot spot",
+    "boundary around the yellow/green hot spot"
+  ],
+  "human_annotation": true
+}

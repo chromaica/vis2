@@ -1,0 +1,29 @@
+{
+  "task": "MRIE",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Change the person from the first image to the character in the second image, and keep the vibe and facial expression of the first image. Then, add that to the right container of the fourth image, with the caption 'You don't say'. After that, add the third image to the left container, with the caption 'Green Lantern was the worst superhero movie.'. ",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png",
+    "4.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 4, the blank comic strip template, by performing the following operations:\n\n1.  **For the right panel:** Generate a black-and-white line art illustration of the person from image 2 (Ryan Reynolds) adopting the exact wide-eyed, surprised facial expression and cartoonish style of the person in image 1 (Nicolas Cage meme). Insert this generated illustration into the main area of the right rectangular panel. Within the speech bubble already present in the upper right of this panel (labeled 'PUT TEXT HERE.'), add the text 'You don't say?'.\n2.  **For the left panel:** Insert image 3 (depicting Ryan Reynolds as Green Lantern) into the main area of the left rectangular panel. Within the caption box already present in the upper left of this panel (labeled 'PUT A CAPTION HERE.'), add the text 'Green Lantern was the worst superhero movie.'.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "comic strip template",
+    "\"TITLE OF THE COMIC STRIP\" text",
+    "left comic panel",
+    "right comic panel",
+    "black-and-white line art illustration of Ryan Reynolds in the right panel",
+    "speech bubble in the upper right of the right panel",
+    "text \"You don't say?\" inside the speech bubble",
+    "image of Ryan Reynolds as Green Lantern in the left panel",
+    "caption box in the upper left of the left panel",
+    "text \"Green Lantern was the worst superhero movie.\" inside the caption box"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

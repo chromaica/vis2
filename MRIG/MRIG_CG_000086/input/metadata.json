@@ -1,0 +1,26 @@
+{
+  "subtopic": "Game assets",
+  "prompt": "Render a computer graphics scene showing a 3D modeling software interface on a laptop screen (from image 2), focused on creating a clothing game asset inspired by the shirt in image 1. Include digital tools and wireframe view.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748424337273,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a computer graphics scene showing a 3D modeling software interface. This interface should be displayed on the screen of a silver laptop, similar in appearance and perspective to the laptop in image 2. The software's main viewport should focus on creating a 3D game asset: a long-sleeved, collared button-up shirt, directly inspired by the salmon-pink checkered design and style of the shirt in image 1. Ensure the interface prominently features digital modeling tools, menus, and a clear wireframe render of the shirt asset within its workspace.",
+  "annotator": "winston",
+  "objects": [
+    "silver laptop (similar appearance and perspective to laptop in image 2)",
+    "laptop screen",
+    "3D modeling software interface (displayed on screen)",
+    "software's main viewport",
+    "3D game asset: long-sleeved, collared button-up shirt",
+    "salmon-pink checkered design and style on the shirt asset (inspired by image 1)",
+    "digital modeling tools (within the interface)",
+    "menus (within the interface)",
+    "clear wireframe render of the shirt asset (within its workspace)"
+  ]
+}

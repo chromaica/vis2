@@ -1,0 +1,24 @@
+{
+  "subtopic": "Digital arts",
+  "prompt": "Edit image 1: Apply the traditional art style of the illustration in image 2. And simulating a watercolor and colored pencil render onto the digital portrait while retaining the original character and composition.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748489322843,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1, the digital portrait of the girl, to adopt the traditional art style and rendering of image 2. Transform the digital artwork to simulate the textures and appearance of a watercolor and colored pencil illustration, as seen in image 2. Maintain the original character, composition, and pose of the portrait in image 1.",
+  "annotator": "kellycyy",
+  "objects": [
+    "Girl",
+    "Brown braided hair",
+    "Flowers in hair",
+    "Green eyes",
+    "Light-colored dress or top",
+    "Pinkish background",
+    "Small floral or vine elements on background"
+  ]
+}

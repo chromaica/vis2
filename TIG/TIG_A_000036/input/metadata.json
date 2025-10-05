@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Cultural/heritage art",
+  "prompt": "Greek amphitheater during a classic play, actors in ancient costumes, with spectators seated on carved stone steps.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A sun-drenched, ancient Greek amphitheater carved from light-colored stone. On the central stage, several actors in historically accurate, flowing ancient Greek togas and tunics are performing a dramatic scene from a classic play. The tiered, carved stone seating steps are filled with a large, attentive audience of spectators.",
+  "annotator": "cwhsu",
+  "objects": [
+    "ancient Greek amphitheater",
+    "light-colored stone",
+    "sun-drenched lighting",
+    "central stage",
+    "actors on the central stage",
+    "ancient Greek togas and tunics",
+    "tiered stone seating steps",
+    "large audience of spectators",
+    "dramatic scene performance"
+  ]
+}

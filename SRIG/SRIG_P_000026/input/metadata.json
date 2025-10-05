@@ -1,0 +1,21 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Using the provided flamingo sketch as reference, generate a realistic image where the flamingo is standing near a lake, with surrounding scenery including grass, trees, and a calm water surface.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic image of a flamingo standing upright by a calm lake. The flamingo's pose and silhouette should be derived from image 1. The surrounding scenery includes lush green grass along the lakeshore and various trees in the background, with the still water reflecting the environment.",
+  "annotator": "samin",
+  "objects": [
+    "flamingo (standing upright, on one leg, with pose and silhouette derived from image 1)",
+    "calm lake",
+    "lush green grass",
+    "lakeshore",
+    "various trees in the background",
+    "still water",
+    "reflections in the water"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "subtopic": "Websites",
+  "prompt": "Edit image 1: Add the browser window elements (tabs, address bar, icons) from the top section of image 2 above the captured website area, simulating the site being viewed within that browser.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751004933976,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit image 1. Add the browser window elements (tabs, address bar, and icons) from the top section of image 2. Position these elements directly above the embedded website screenshot in image 1, creating the visual of the site being viewed within that browser.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Browser window top bar",
+    "Browser tabs",
+    "Browser address bar",
+    "Browser navigation and utility icons",
+    "\"The Who Behind Cyber Threat Intelligence\" website screenshot",
+    "\"Screenshot Lookup\" webpage header",
+    "\"whoisxmlapi.com website screenshot\" text",
+    "\"Enter URL\" input field",
+    "\"New capture\" button",
+    "\"Parameters\" section"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

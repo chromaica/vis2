@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Cultural or Heritage art",
+  "prompt": "Generate a celadon vase (from image 3), adorned with a flowing, intricate pattern combining the tilework style of image 1 and floral motifs from image 2.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a celadon vase with the elegant shape and characteristic green-blue glaze of the vase in image 3. Adorn its surface with a flowing, intricate decorative pattern. This pattern should integrate the curvilinear, interlocking arabesque style from image 1, seamlessly incorporating the stylized carnation and tulip floral motifs characteristic of image 2 throughout the design.",
+  "annotator": "samin",
+  "objects": [
+    "Celadon vase",
+    "Elegant vase shape",
+    "Green-blue glaze",
+    "Flowing decorative pattern",
+    "Intricate decorative pattern",
+    "Curvilinear arabesque pattern style",
+    "Interlocking arabesque pattern style",
+    "Stylized carnation motifs",
+    "Stylized tulip floral motifs"
+  ]
+}

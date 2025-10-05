@@ -1,0 +1,19 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "Depth maps",
+  "prompt": "Grayscale depth map of a rabbit, side view. The rabbit's head is closest to the camera, followed by the body, and the background is the farthest.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A grayscale depth map of a rabbit, side view. The rabbit's head is in the foreground, rendered with the darkest gray values. The body is in the midground, rendered with a medium gray. The background is in the far distance, rendered with the lightest gray values.",
+  "annotator": "maxku",
+  "objects": [
+    "grayscale depth map",
+    "rabbit (side view)",
+    "rabbit's head (in foreground, darkest gray values)",
+    "rabbit's body (in midground, medium gray values)",
+    "background (in far distance, lightest gray values)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

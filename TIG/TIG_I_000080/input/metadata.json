@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "generate a constellation map reimagined as a cosmic city layout, where star clusters form neighborhoods, nebulae create colorful districts, and space lanes connect different galactic sectors",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a detailed, expansive constellation map rendered as a cosmic city layout. Star clusters should form densely packed, illuminated neighborhoods. Large, swirling nebulae, bursting with vibrant and diverse colors, define distinct districts throughout the city. Bright, glowing space lanes elegantly crisscross the map, interconnecting various galactic sectors and creating a complex network of pathways.",
+  "annotator": "theblackcat",
+  "objects": [
+    "constellation map",
+    "cosmic city layout",
+    "star clusters",
+    "illuminated neighborhoods",
+    "large, swirling nebulae",
+    "vibrant and diverse colors",
+    "distinct districts",
+    "bright, glowing space lanes",
+    "galactic sectors",
+    "complex network of pathways"
+  ]
+}

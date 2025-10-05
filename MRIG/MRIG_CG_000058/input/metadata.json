@@ -1,0 +1,24 @@
+{
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "A detailed image combining the close-up portrait and semantic segmentation overlay graphics from image 2, integrated into the abstract digital network background and blue color palette style of image 1, visually depicting face segmentation processing.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748423151156,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate an image that combines the close-up portrait from image 2 with its overlaid semantic segmentation graphics. These graphics include the green rectangular bounding box around the face, the white facial landmark points, and the 'PROCESSING' text with its progress bar positioned on the left side of the image. The entire composition should be set against the abstract digital network background and utilize the blue color palette style, as seen in image 1. The image should visually represent an active face segmentation process.",
+  "annotator": "winston",
+  "objects": [
+    "Close-up portrait of a man's face",
+    "Green rectangular bounding box around the face",
+    "White facial landmark points",
+    "'PROCESSING' text",
+    "Progress bar (positioned on the left side of the image)",
+    "Abstract digital network background",
+    "Blue color palette style"
+  ]
+}

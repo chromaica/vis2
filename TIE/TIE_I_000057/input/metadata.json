@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Set the primary x-axis to different file types and the secondary x-axis to months.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the bar chart in image 1. Currently, the chart's primary x-axis categorizes data by month (January, February, March, April), with grouped bars representing file types (Videos, Documents, Images). Reverse this structure: the primary x-axis should now categorize by file type (Videos, Documents, Images), and within each file type, the grouped bars should represent the months (January, February, March, April). Ensure all original numerical data values are accurately reflected in the rearranged chart.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Bar chart visualization",
+    "Chart title \"Number of Files Uploaded by Month\"",
+    "Y-axis with numerical scale (0 to 3000)",
+    "Horizontal grid lines",
+    "X-axis with main categories \"Videos\", \"Documents\", \"Images\"",
+    "Grouped bars within each X-axis category representing months (January, February, March, April)",
+    "Legend displaying categories for \"January\", \"February\", \"March\", \"April\" and their associated colors",
+    "Bars representing specific data values for each month within each file type (e.g., Videos: 112 for Jan, 96 for Feb, 74 for Mar, 158 for Apr)",
+    "Numerical data labels above each bar accurately reflecting original values",
+    "Distinct colors for January, February, March, and April applied to the bars and legend"
+  ]
+}

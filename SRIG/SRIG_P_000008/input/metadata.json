@@ -1,0 +1,24 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "Generate a starry sky using the following star map",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic night sky, displaying stars and constellations such as the Big Dipper, Orion, and Pegasus, with their precise positions and patterns replicated from image 1. Ensure the final celestial scene is naturalistic, omitting all connecting lines and text labels found in the reference map.",
+  "annotator": "samin",
+  "objects": [
+    "photorealistic night sky",
+    "stars",
+    "Big Dipper constellation",
+    "Orion constellation",
+    "Pegasus constellation",
+    "Hercules constellation",
+    "Cygnus constellation",
+    "Cassiopeia constellation",
+    "connecting lines (should not be present)",
+    "text labels (should not be present)"
+  ]
+}

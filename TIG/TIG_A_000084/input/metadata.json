@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Pop art",
+  "prompt": "A pop art-inspired portrait of a fashionable person, featuring exaggerated facial features and vivid, contrasting colors.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a pop art-style portrait of a person in stylish attire, positioned centrally and filling the frame. The artwork should distinctly feature exaggerated facial features and utilize a palette of vivid, highly contrasting colors.",
+  "annotator": "cwhsu",
+  "objects": [
+    "A person",
+    "Stylish attire",
+    "Exaggerated facial features",
+    "Pop art style",
+    "Vivid colors",
+    "Highly contrasting colors",
+    "Central positioning of the person",
+    "Person filling the frame"
+  ]
+}

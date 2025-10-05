@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "oil paintings",
+  "prompt": "An imaginative oil portrait of a steampunk aviator, with intricate goggles, leather helmet, and eccentric attire, painted in muted metallic tones.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "An oil painting portrait of a steampunk aviator, rendered with high detail. The aviator, positioned centrally, is depicted wearing intricately designed brass goggles, a weathered leather flight helmet, and elaborate Victorian-punk attire featuring visible gears and clockwork elements. The entire scene is painted in a sophisticated palette of muted metallic tones, emphasizing the textures of aged brass, copper, and leather.",
+  "annotator": "cwhsu",
+  "objects": [
+    "steampunk aviator (positioned centrally)",
+    "oil painting style",
+    "intricately designed brass goggles",
+    "weathered leather flight helmet",
+    "elaborate Victorian-punk attire",
+    "visible gears (on attire)",
+    "clockwork elements (on attire)",
+    "muted metallic tones (for the scene)",
+    "aged brass texture",
+    "copper texture"
+  ]
+}

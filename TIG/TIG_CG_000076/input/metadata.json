@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "3D renders",
+  "prompt": "A 3D render a high-tech lab interior, featuring futuristic consoles, glowing monitors, and holographic displays.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a high-fidelity 3D render depicting a sleek, high-tech laboratory interior. The space features futuristic workstations, each equipped with integrated glowing monitors displaying dynamic abstract data patterns. Multiple large, transparent holographic displays are prominently positioned throughout the lab, projecting intricate three-dimensional schematics and real-time information. The environment is illuminated by the cool, ambient light emanating from the displays and consoles.",
+  "annotator": "maxku",
+  "objects": [
+    "Sleek, high-tech laboratory interior",
+    "Futuristic workstations",
+    "Integrated glowing monitors",
+    "Dynamic abstract data patterns",
+    "Large, transparent holographic displays",
+    "Intricate three-dimensional schematics",
+    "Real-time information",
+    "Cool ambient light",
+    "Consoles"
+  ]
+}

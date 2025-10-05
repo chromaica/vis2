@@ -1,0 +1,25 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Edit image 1's bar chart by transforming the 'Avg' bars into architectural elements styled like the red building in image 2, and the 'Best' bars into elements styled like the modern building in image 3.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Transform each 'Avg' bar in the chart into a vertical architectural element visually styled like the red building depicted in image 2. Concurrently, transform each 'Best' bar into a vertical architectural element visually styled like the modern building depicted in image 3. Ensure these transformed elements maintain their original positions, heights, and widths, continuing to function as the chart's data bars.",
+  "annotator": "maxku",
+  "objects": [
+    "Overall Score of different subtasks chart title",
+    "Y-axis with numerical labels",
+    "X-axis with textual labels",
+    "Chart legend",
+    "System names (Dall-E 3, SuTI, MagicBrush, SDXL-Inpaint, PhotoSwap, CustomDiff, ControlNet)",
+    "Multiple vertical architectural elements visually styled like the red building from image 2, maintaining original 'Avg' bar positions, heights, and widths",
+    "Multiple vertical architectural elements visually styled like the modern building from image 3, maintaining original 'Best' bar positions, heights, and widths"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

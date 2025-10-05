@@ -1,0 +1,19 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "Create a password manager icon shaped like a vault door but made of flowing digital ribbons in electric blue and silver",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A digital icon for a password manager, featuring a vault door. The vault door is intricately formed from flowing, glowing digital ribbons. The primary colors are vibrant electric blue and shimmering silver, creating a futuristic and secure aesthetic.",
+  "annotator": "theblackcat",
+  "objects": [
+    "vault door",
+    "flowing digital ribbons",
+    "glowing effect",
+    "vibrant electric blue color",
+    "shimmering silver color",
+    "iconographic style"
+  ],
+  "human_annotation": true
+}

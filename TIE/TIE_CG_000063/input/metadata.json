@@ -1,0 +1,26 @@
+{
+  "subtopic": "CAD models",
+  "prompt": "Make the outer casing of the engine transparent with a light blue tint to clearly showcase the internal structure.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751798449631,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1: Make the opaque outer casing of the jet engine transparent with a light blue tint, allowing for a clear view of its intricate internal structure.",
+  "annotator": "edisy",
+  "objects": [
+    "jet engine",
+    "transparent outer casing with a light blue tint",
+    "internal fan section",
+    "internal compressor section",
+    "internal combustion chamber components",
+    "internal turbine section",
+    "internal shafts",
+    "internal piping",
+    "internal wiring",
+    "grey background"
+  ]
+}

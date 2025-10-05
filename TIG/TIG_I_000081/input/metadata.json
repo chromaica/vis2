@@ -1,0 +1,19 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "Design a task management icon featuring origami cranes carrying tiny briefcases, paper-white with crimson accent shadows",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a task management icon: multiple paper-white origami cranes, each carrying a tiny briefcase. The image features crisp lines and distinct crimson accent shadows cast by the figures.",
+  "annotator": "theblackcat",
+  "objects": [
+    "multiple paper-white origami cranes",
+    "tiny briefcases",
+    "briefcases carried by cranes",
+    "distinct crimson accent shadows",
+    "shadows cast by the origami cranes"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

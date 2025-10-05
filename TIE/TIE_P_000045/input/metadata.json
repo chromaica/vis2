@@ -1,0 +1,23 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Make the clock now points to 11:25 pm",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "its also night time so the ceiling should not be bright",
+  "prompt_refined": "Edit image 1, setting the hands of the large, centrally-located clock with Roman numerals to indicate 11:25 pm.",
+  "annotator": "theblackcat",
+  "objects": [
+    "large, centrally-located clock",
+    "clock hands set to 11:25 pm",
+    "Roman numerals on the clock face",
+    "ornate clock hanging fixture",
+    "metal ceiling beams",
+    "glass skylight roof",
+    "hanging light fixtures"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

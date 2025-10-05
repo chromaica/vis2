@@ -1,0 +1,26 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "Add this oak tree to the park map.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 2, the park map. Add a graphic of an oak tree, stylized as a black silhouette similar to image 1. Position this oak tree graphic within the large green, wooded area in the bottom-right quadrant of the map, ensuring it does not obscure any existing labels or trails.",
+  "annotator": "Johnny",
+  "objects": [
+    "Oak tree graphic (black silhouette style, similar to image 1, positioned in the bottom-right green wooded area)",
+    "Park map background (green wooded areas, blue water bodies)",
+    "Large green, wooded area in the bottom-right quadrant",
+    "Various colored trails (e.g., green, blue, orange, yellow lines)",
+    "Map labels (e.g., \"Pine Knob Loop\", \"I-94\", \"Enjoy the Ski!\")",
+    "Roads (e.g., Old Entrance Road, Old Saint Joe Road)",
+    "I-94 highway",
+    "Foot-bridge",
+    "Parking symbols",
+    "Radio Tower"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,23 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "create a radar chart comparing five LLMs\u2014GPT-4o, Claude-4, Gemini 1.5, Llama-3-70B, Mixtral-8x22B\u2014across six skills: reasoning, summarization, translation, code generation, factual recall, and latency (where lower latency means a longer spoke). Label each axis, use semi-transparent fills, and add a gentle drop shadow for depth",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a radar chart comparing five Large Language Models (LLMs): GPT-4o, Claude-4, Gemini 1.5, Llama-3-70B, and Mixtral-8x22B. Each of the six axes should be clearly labeled: reasoning, summarization, translation, code generation, factual recall, and latency. For the latency axis, a lower latency value should correspond to a longer spoke. Each LLM's performance area should be filled with a distinct semi-transparent color, and a gentle drop shadow should be applied to the chart for depth.",
+  "annotator": "theblackcat",
+  "objects": [
+    "radar chart",
+    "six clearly labeled axes",
+    "\"reasoning\" axis label",
+    "\"summarization\" axis label",
+    "\"translation\" axis label",
+    "\"code generation\" axis label",
+    "\"factual recall\" axis label",
+    "\"latency\" axis label",
+    "five distinct semi-transparent colored performance areas",
+    "gentle drop shadow"
+  ],
+  "human_annotation": true
+}

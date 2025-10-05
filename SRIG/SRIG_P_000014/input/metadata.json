@@ -1,0 +1,21 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "an image of the comet in the reference image crashing into Earth's surface.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic image depicting the fiery, luminous comet from image 1 as it violently impacts Earth's surface. The scene should capture the moment of a colossal explosion, with a rising plume of incandescent light and debris, illuminating the surrounding landscape and showcasing the destructive power of the event.",
+  "annotator": "samin",
+  "objects": [
+    "Fiery, luminous comet",
+    "Earth's surface",
+    "Impact crater",
+    "Colossal explosion",
+    "Rising plume of incandescent light",
+    "Debris",
+    "Illuminated surrounding landscape"
+  ]
+}

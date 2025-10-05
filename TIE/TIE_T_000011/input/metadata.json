@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Swap the sign text to \u2018Stable Diffusion is the future\u2019 and replace the coffee mug with a mini-GPU model.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Change the text on the white sign affixed to the front of the table from 'CHANGE MY MIND' to 'Stable Diffusion is the future'. Additionally, replace the black coffee mug with 'LOUDER CROWDER' text, located on the table to the right of the stack of papers, with a detailed mini-GPU model.",
+  "annotator": "matina",
+  "objects": [
+    "man",
+    "white sign on the table with text 'Stable Diffusion is the future'",
+    "black coffee mug with 'LOUDER CROWDER' text in man's hand",
+    "detailed mini-GPU model on the table",
+    "table",
+    "stack of papers on the table",
+    "microphone on the table",
+    "camera on flexible stand on the table",
+    "chairs",
+    "bricked ground/patio"
+  ]
+}

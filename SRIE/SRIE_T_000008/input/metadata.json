@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Pixelate this area so the likes are unreadable.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Apply a strong pixelation filter to the '108 Likes' text and numerical value at the bottom of the Twitter post, ensuring they become completely unreadable. Refer to image 2 for the exact location of the area to be pixelated.",
+  "annotator": "matina",
+  "objects": [
+    "Twitter post format",
+    "Dominik's profile picture",
+    "Dominik's name and handle",
+    "Twitter post content text",
+    "Timestamp and source",
+    "\"15 Retweets\" text and number",
+    "\"4 Quote Tweets\" text and number",
+    "Pixelated \"Likes\" text and numerical value"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

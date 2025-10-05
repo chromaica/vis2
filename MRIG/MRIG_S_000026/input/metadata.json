@@ -1,0 +1,21 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "Generate a luxury boutique receipt using the marble texture from the first image as the background, and apply the handwritten style from the second image for the item text, styled in a golden color.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate an image of a luxury boutique receipt. The background of the receipt should utilize the white marble texture with gold veins visible in image 1. The itemized text on the receipt should be rendered in the elegant handwritten script font from image 2 and displayed in a golden color.",
+  "annotator": "paria",
+  "objects": [
+    "luxury boutique receipt",
+    "white marble texture (as receipt background)",
+    "gold veins (on the marble texture)",
+    "itemized text on the receipt",
+    "elegant handwritten script font (for the text)",
+    "golden colored text"
+  ]
+}

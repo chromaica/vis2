@@ -1,0 +1,22 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Painting",
+  "prompt": "Convert the hill at the left side into a snow covered mountain, matching the style and texture of the original painting.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Transform the prominent green hill located on the far left side of the painting into a snow-covered mountain. Ensure the new mountain's texture, style, and vibrant color palette seamlessly match the impasto characteristics of the original artwork in image 1.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "snow-covered mountain on the far left",
+    "large tree",
+    "sky with clouds",
+    "body of water",
+    "green, yellow, and brown ground patches",
+    "distant hills"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

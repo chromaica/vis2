@@ -1,0 +1,26 @@
+{
+  "subtopic": "Memes",
+  "prompt": "Generate a meme picture with photorealistic image and text description related that it's painful to have long commute distance between your home and office. Create this image with format like the one shown in the reference image.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://cdn-useast1.kapwing.com/static/templates/square-white-meme-with-arial-font-caption-regular-c3acc2e0.webp",
+  "promptGeneratedTimestamp": 1750498026470,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "T",
+  "prompt_refined": "Generate a photorealistic meme image that visually and textually conveys the pain and difficulty of having a long commute distance between home and office. The image must adhere to the specific format shown in image 1: place a concise, black text caption at the very top, and below it, create a large photorealistic visual scene that occupies the majority of the image area. The text should be a relatable expression of the long commute struggle, and the visual scene should vividly illustrate exhaustion, frustration, or the extensive duration associated with daily commuting.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Black text caption at the very top",
+    "Photorealistic visual scene below the text, occupying the majority of the image area",
+    "Commuter (depicting exhaustion or frustration)",
+    "Commuter vehicle (e.g., car, bus, train)",
+    "Road or highway",
+    "Traffic congestion",
+    "Urban or suburban landscape (in the background or surrounding area)",
+    "Sky (indicating time of day, e.g., dawn or dusk)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

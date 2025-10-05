@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Edit image 1: Apply the color palette (blue, pink, purple) and rounded style from image 2 to the red lines in the rune diagrams. Modify the top right grid cells within the diagrams to include the triangle shape from image 3, integrating it geometrically.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: For each of the twelve rune diagrams, transform the red line segments. These segments should adopt the rounded-end style and be colored using the blue, pink, and purple palette from image 2. Additionally, in the top-right grid cell of every rune diagram, integrate the right-angled triangle shape from image 3, fitting it geometrically within the cell.",
+  "annotator": "maxku",
+  "objects": [
+    "\"Mega Man Starforce 2: Mu Rune Guide\" title",
+    "Introductory text paragraph describing rune collection",
+    "Three distinct areas (Area 1, Area 2, Area 3)",
+    "Twelve grid-based rune diagrams",
+    "Rune names below each diagram (e.g., Kath, Fon, Wol, Mir, Tuk, Zul, Ebesh, Masa, Foh, Fai, Rai, Chan)",
+    "Blue rounded-end line segments within rune diagrams",
+    "Pink rounded-end line segments within rune diagrams",
+    "Purple rounded-end line segments within rune diagrams",
+    "Right-angled triangle in the top-right grid cell of each of the twelve rune diagrams",
+    "\"\u00a9 2008 Mr Weird Guy\" copyright text"
+  ]
+}

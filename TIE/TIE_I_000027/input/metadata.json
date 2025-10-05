@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Modify the graph to display an alternative data distribution.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the plot structure graph, by modifying the red shaded area to represent a flatter and more evenly distributed data curve. Ensure the overall shape is less pronounced, with a reduced peak height and shallower slopes, making the 'Climax' less dominant compared to other stages.",
+  "annotator": "cwhsu",
+  "objects": [
+    "red shaded plot structure curve (modified shape)",
+    "horizontal baseline",
+    "vertical dashed lines",
+    "white circular points",
+    "\"Exposition\" text label",
+    "\"Incitin Incident\" text label",
+    "\"Rising Action\" text label",
+    "\"Midpoint\" text label",
+    "\"Climax\" text label",
+    "\"Denouement\" text label"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "subtopic": "Traditional art",
+  "prompt": "Edit image 1: Transform the traditional folk art style into the monochrome ink wash painting style of image 2. Render the tiger and landscape using fluid brushstrokes and subtle tonal gradations characteristic of Sumi-e art.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "Traditional art painting reference",
+  "searchQueryGeneratedTimestamp": 1748489784052,
+  "promptGeneratedTimestamp": 1748489856490,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1: Transform the vibrant traditional folk art style of image 1, which depicts a tiger and its landscape surroundings (including stylized clouds and background structures), into the monochrome ink wash painting (Sumi-e) style. Utilize image 2 as a reference for the desired artistic quality. Ensure the re-rendered tiger, clouds, and landscape elements are depicted with fluid, expressive brushstrokes and subtle grayscale tonal gradations characteristic of Sumi-e art.",
+  "annotator": "kellycyy",
+  "objects": [
+    "Tiger",
+    "Stylized clouds",
+    "Background structures",
+    "Ground surface",
+    "Foreground vegetation"
+  ]
+}

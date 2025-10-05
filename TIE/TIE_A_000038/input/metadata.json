@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Neoclassicism",
+  "prompt": "Add more tension to the bow, making it appear more stretched. Yet, the string should be relaxed since the force is only applied to the bow.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Focus on the bow held by the woman. Intensify the curve of the bow's stave, making it visibly more stretched and under tension. Crucially, the bowstring should remain loose and not taut, reflecting that the force is applied to bend the bow itself, rather than to draw the string.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Woman",
+    "Bow with an intensely curved stave",
+    "Loose bowstring",
+    "Child with wings",
+    "Quiver with arrows",
+    "Red drapery",
+    "Standing brown dog",
+    "Lying dog",
+    "Large tree",
+    "Landscape background"
+  ]
+}

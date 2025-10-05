@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": "Create a mockup for art gallery website with a brutalist concrete texture background, bold typography, asymmetrical layout, and artwork that appears to break out of traditional grid boundaries",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a website mockup for an art gallery. The background features a raw, brutalist concrete texture. The layout is distinctly asymmetrical, using bold, commanding typography. Integrate multiple art pieces into the design, specifically arranged to visually break free from traditional grid boundaries, appearing to extend beyond their frames or overlap other elements.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Website mockup interface",
+    "Raw brutalist concrete texture background",
+    "Asymmetrical website layout",
+    "Bold, commanding typography",
+    "Multiple art pieces",
+    "Art pieces extending beyond their frames",
+    "Art pieces overlapping other website elements"
+  ],
+  "human_annotation": true
+}

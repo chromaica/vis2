@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "generate a project management kanban board with sticky note aesthetics, cork board background texture, colorful task cards with realistic shadows and slight rotation angles, progress bars as completion stamps",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a project management kanban board. The background should be a realistic cork board texture. The board should be divided into three vertical columns: 'To Do' on the left, 'In Progress' in the center, and 'Done' on the right. Each column should contain multiple vibrant, colorful task cards designed with a sticky note aesthetic. Each task card should have a slight, varied rotation angle and cast a realistic shadow onto the cork board. A small progress bar, indicating completion status, should be visible on each task card.",
+  "annotator": "theblackcat",
+  "objects": [
+    "project management kanban board",
+    "realistic cork board texture background",
+    "'To Do' column on the left",
+    "'In Progress' column in the center",
+    "'Done' column on the right",
+    "multiple vibrant, colorful task cards with a sticky note aesthetic",
+    "task cards with slight, varied rotation angles",
+    "realistic shadows cast by task cards",
+    "small progress bar on each task card"
+  ],
+  "human_annotation": true
+}

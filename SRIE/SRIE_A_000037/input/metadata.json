@@ -1,0 +1,25 @@
+{
+  "subtopic": "Digital arts",
+  "prompt": "Edit image 1. Incorporate the grid structure from image 2 into the digital artwork, applying a prominent digital, grid-like effect or overlay across the portrait, inspired by image 2's pattern.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748495470166,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1. Apply a prominent, digital grid overlay across the entire portrait, drawing inspiration from the uniform grid pattern of image 2.",
+  "annotator": "kellycyy",
+  "objects": [
+    "Portrait of a woman",
+    "Pink and orange hair",
+    "Gold eyes",
+    "Nose ring",
+    "White patterns on face and neck",
+    "Bokeh background",
+    "Digital grid overlay",
+    "Uniform grid lines"
+  ]
+}

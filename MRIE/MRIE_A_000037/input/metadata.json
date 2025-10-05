@@ -1,0 +1,23 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Cultural or Heritage art",
+  "prompt": "In the first image, replace the woman's Indian sari with the sari worn by the woman in the second image, and remove the birds on the niche, replacing them with the four birds from the third image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Replace the woman's existing red and green sari with the blue and gold sari worn by the woman in image 2. Additionally, remove the two small green and pink birds from the window niche and incorporate the four distinct birds from image 3 onto that same niche.",
+  "annotator": "paria",
+  "objects": [
+    "Woman",
+    "Blue and gold sari",
+    "Window niche",
+    "Four distinct birds on the window niche",
+    "Room interior",
+    "Two small green and pink birds (should not be present)",
+    "Red and green sari (should not be present)"
+  ]
+}

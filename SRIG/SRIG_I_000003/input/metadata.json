@@ -1,0 +1,26 @@
+{
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Reinterpret the provided Venn diagram illustrating the intersection of 'art' and 'science' as a fantasy scene where two distinct magical realms are merging, showing unique creatures and flora in the overlapping zone.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "https://media.istockphoto.com/id/1294563703/vector/blank-venn-diagram-icon.jpg?s=612x612&w=0&k=20&c=MaA7j8J2s6lTwxd-2zdHgQ3vAxPnDy_XWQxYqfbDlEw=",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate a fantastical image inspired by image 1, reimagining its Venn diagram structure as two distinct magical realms merging. On the left, corresponding to the yellow circle in image 1, depict a first magical realm featuring unique fantastical creatures and flora specific to that domain. On the right, aligning with the blue circle in image 1, illustrate a second, distinct magical realm with its own unique inhabitants and vegetation. In the central overlapping region, which reflects the green intersection of image 1, showcase a vibrant blend of elements from both realms, with hybrid or transitional unique creatures and flora that signify their magical convergence. The overall composition should clearly represent the intersecting circular shapes from image 1 within the fantastical landscape.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Fantastical landscape with intersecting circular shapes",
+    "First magical realm on the left",
+    "Unique fantastical creatures specific to the left realm",
+    "Unique flora specific to the left realm",
+    "Second distinct magical realm on the right",
+    "Unique inhabitants specific to the right realm",
+    "Unique vegetation specific to the right realm",
+    "Central overlapping region",
+    "Hybrid or transitional unique creatures in the central region",
+    "Blended flora in the central region"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

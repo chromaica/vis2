@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "An imaginative depiction of a bustling alien market, where vendors sell kaleidoscopic fruits and luminous fabrics under hanging lanterns emitting ethereal glows.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a vibrant, imaginative artwork depicting a bustling alien market. Numerous alien vendors are displaying and selling fantastical fruits with kaleidoscopic, iridescent colors, alongside luminous, glowing fabrics. Overhead, many decorative lanterns hang, emitting an ethereal, soft light that illuminates the crowded scene and diverse alien species.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Bustling alien market",
+    "Alien vendors",
+    "Fantastical fruits",
+    "Kaleidoscopic, iridescent colors on fruits",
+    "Luminous, glowing fabrics",
+    "Decorative lanterns overhead",
+    "Ethereal, soft light",
+    "Diverse alien species"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

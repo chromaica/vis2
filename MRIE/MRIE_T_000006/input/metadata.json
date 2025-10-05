@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Change the two person in the left side of the first image to the two characters in the second image. Then, change the cat in the right side of the first image to Pikachu and Ashe in the third image. Finally, change the meme caption from spider-related to pokemon-related.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit Image 1, the \"woman yelling at cat\" meme, by applying the following changes:\n1.  **Replace left figures:** Swap the two women on the left side of Image 1 with the characters from Image 2 (Ash and Pikachu), integrating them naturally into the scene while maintaining a similar dynamic and scale.\n2.  **Replace right figure:** Replace the cat on the right side of Image 1 with the characters from Image 3 (Jessie and James from Team Rocket), integrating them naturally into the scene while maintaining a similar dynamic and scale.\n3.  **Update text captions:** Modify the meme's existing top text \"Girls when they see a spider\" and bottom text \"The spider\" to be relevant to a Pok\u00e9mon theme, ensuring the new captions maintain the original meme's structure and comedic impact.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Ash (on the left)",
+    "Pikachu (on the left)",
+    "Jessie (on the right)",
+    "James (on the right)",
+    "Restaurant background (left panel)",
+    "Table with glass and plate (right panel)",
+    "Pok\u00e9mon-themed top text",
+    "Pok\u00e9mon-themed bottom text",
+    "Two women from Image 1 (should not be present)",
+    "White cat from Image 1 (should not be present)"
+  ]
+}

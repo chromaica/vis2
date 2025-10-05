@@ -1,0 +1,19 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Medical images",
+  "prompt": "An axial MRI scan of the abdomen showing internal organs, with kidneys appearing clearly in the same location and shape as the provided mask.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic axial MRI scan of the human abdomen, clearly depicting internal organs. The two kidneys must be rendered precisely according to the location and distinct shapes indicated by the white regions in image 1.",
+  "annotator": "samin",
+  "objects": [
+    "photorealistic axial MRI scan",
+    "human abdomen",
+    "internal organs",
+    "two kidneys, precisely located and shaped as indicated by the white regions in image 1"
+  ],
+  "human_annotation": true
+}

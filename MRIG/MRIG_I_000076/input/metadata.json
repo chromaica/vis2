@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "Generate a UI mockup of a student course dashboard. Use Image 1 for progress indicators, Image 2 as course thumbnails, and Image 3 for the action buttons below each course.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "annotator": "matina",
+  "prompt_refined": "Generate a UI mockup of a student course dashboard. The top section of the dashboard should feature progress indicators, specifically adopting the style and layout of the circular and horizontal progress bars shown in Image 1. Below this, display a series of course cards or thumbnails. Each course card should visually replicate the style, rounded rectangular shape, and general appearance of the 'Physics II' thumbnail shown in Image 2. Directly beneath each course card, include an action button designed with the distinct pill shape, red color, and white outline icon as seen in Image 3.",
+  "objects": [
+    "UI mockup of a student course dashboard",
+    "Multiple circular progress indicators (from Image 1)",
+    "Horizontal progress bar (from Image 1)",
+    "Series of course cards",
+    "Rounded rectangular course cards (like Image 2)",
+    "Abstract visual element on course cards (like Image 2 background)",
+    "Action buttons (one below each course card)",
+    "Pill-shaped action buttons (from Image 3)",
+    "Red action buttons (from Image 3)",
+    "White outline icon on action buttons (from Image 3)"
+  ]
+}

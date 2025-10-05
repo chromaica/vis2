@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Remove all red text and add a trend line.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Remove all red instructional text labels (e.g., 'Y-Axis', 'Plot area', 'Chart title', 'Data series', 'Gridline', 'Legend', 'Total', 'Tick mark', 'X-Axis') and their associated red arrows from the bar chart. Then, add a clear trend line to the bar chart, overlaying the 'Computer Hope Views' data series, to illustrate its progression from 2005 to 2013.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Bar chart with blue bars",
+    "Y-Axis with numerical labels",
+    "X-Axis with year labels (2005-2013)",
+    "Horizontal gridlines",
+    "\"Bar Chart Overview\" title",
+    "\"Computer Hope Views\" chart title",
+    "Trend line overlaying the 'Computer Hope Views' data series",
+    "Red instructional text labels (should not be present)",
+    "Red arrows (should not be present)",
+    "\"ComputerHope.com\" text"
+  ]
+}

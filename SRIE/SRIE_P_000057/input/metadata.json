@@ -1,0 +1,20 @@
+{
+  "task": "SRIE",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "Place the moon rover from the reference image close to the astronaut in the source image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Integrate the lunar rover shown in image 2 onto the lunar surface. Position it photorealistically close to the astronaut, specifically slightly behind and to the left of the astronaut.",
+  "annotator": "nimajamali",
+  "objects": [
+    "lunar surface",
+    "astronaut",
+    "Earth in the sky",
+    "starry sky",
+    "lunar rover (positioned slightly behind and to the left of the astronaut)"
+  ]
+}

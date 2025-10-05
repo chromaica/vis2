@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "Transform the Starbucks logo depicted in the first reference image into a radiant celestial object within the provided astronomical image of a galaxy cluster in the second reference image. Reimagine the siren as a glowing, star-like entity or cosmic orb at the heart of the cluster, emitting a soft green and white light that interacts with the surrounding galaxies. The circular shape should be preserved, with the siren\u2019s details subtly visible in the glowing texture, casting faint rays and illuminating nearby cosmic dust.",
+  "cond_images": [
+    "1.png",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic image. A radiant celestial object, inspired by the Starbucks logo from image 1, should be centrally positioned within a galaxy cluster resembling the one in image 2. The siren within the logo should be re-envisioned as a glowing, star-like entity or cosmic orb. This celestial object should emit a soft green and white light that visibly interacts with and illuminates the surrounding galaxies and cosmic dust. The circular shape of the original logo must be preserved, with the siren\u2019s details subtly visible within the glowing texture of the celestial body, casting faint rays.",
+  "objects": [
+    "radiant celestial object (centrally positioned)",
+    "galaxy cluster (resembling image 2)",
+    "glowing, star-like entity or cosmic orb (re-envisioned siren)",
+    "soft green and white light (emitted by the celestial object)",
+    "illuminated surrounding galaxies",
+    "illuminated cosmic dust",
+    "circular shape (of the central celestial object)",
+    "subtle siren details (within the glowing texture)",
+    "faint rays (cast by the celestial object)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

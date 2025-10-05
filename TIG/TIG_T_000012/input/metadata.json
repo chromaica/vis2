@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Create a relatable internet meme: The phrases 'Me attempting to adult' are split, top and bottom, in classic bold white Impact font with heavy black outlines. Between them, a fluffy orange cat sits defeated at a messy desk, hilariously perplexed by a mountain of paperwork and a baffling instruction manual.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate an image of a fluffy orange cat sitting defeated at a messy desk, appearing hilariously perplexed by a large mountain of paperwork and a baffling instruction manual on the desk. Above the cat, centered at the top of the image, display the text 'Me attempting to'. Below the cat, centered at the bottom of the image, display the text 'adult'. Both text elements must be in classic bold white Impact font with heavy black outlines. The entire image should resemble a relatable internet meme.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "fluffy orange cat",
+    "cat with defeated posture and perplexed expression",
+    "messy desk",
+    "large mountain of paperwork on the desk",
+    "baffling instruction manual on the desk",
+    "text: 'Me attempting to' above the cat, centered at the top, in bold white Impact font with heavy black outline",
+    "text: 'adult' below the cat, centered at the bottom, in bold white Impact font with heavy black outline"
+  ],
+  "human_annotation": true
+}

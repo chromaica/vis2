@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "Design a receipt from a pet store listing pet food, toys, and grooming. Use playful font from the first image and paw-print divider lines from the second.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a comprehensive pet store receipt. The receipt should feature essential elements like a store name, transaction date, and a detailed list of items including pet food, toys, and grooming services, culminating in a total amount. Utilize the bubbly, handwritten font style presented in image 1 (the 'Slurpy' font) for prominent text elements such as the store name and item categories. Incorporate the distinctive horizontal pink paw-print divider line, complete with the small cat silhouette at its right end, as shown in image 2, to clearly separate major sections of the receipt, such as the header from the item list and between different item categories.",
+  "annotator": "paria",
+  "objects": [
+    "Pet store receipt",
+    "Store name (using bubbly, handwritten font style)",
+    "Transaction date",
+    "Detailed list of pet food items",
+    "Detailed list of pet toy items",
+    "Detailed list of pet grooming services",
+    "Total amount on receipt",
+    "Bubbly, handwritten font style (like 'Slurpy' font) for prominent text elements (store name, item categories)",
+    "Horizontal pink paw-print divider line",
+    "Small cat silhouette at the right end of the divider line"
+  ],
+  "human_annotation": true
+}

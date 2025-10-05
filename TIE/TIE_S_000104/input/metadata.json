@@ -1,0 +1,23 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "QR codes",
+  "prompt": "Change the QR code's color scheme to a gradient of blue and green, creating a more vibrant and eye-catching appearance.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Modify the QR code within image 1. Change its current purple and red color scheme to a vibrant gradient of blue and green. The gradient should apply to all colored elements of the QR code, including the data modules, position markers, and the central 'BIIKE' logo, making the QR code appear more dynamic and eye-catching.",
+  "annotator": "cwhsu",
+  "objects": [
+    "rounded rectangle card",
+    "QR code",
+    "data modules of the QR code with blue and green gradient",
+    "position markers of the QR code with blue and green gradient",
+    "'BIIKE' logo within the QR code with blue and green gradient",
+    "red \"View PDF\" banner",
+    "PDF icon",
+    "\"View PDF\" text"
+  ],
+  "human_annotation": true
+}

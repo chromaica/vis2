@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Cubism",
+  "prompt": "Change all black parts to be drawn by pencil.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the Cubist still life painting. Transform all the solid black painted areas within the artwork into a pencil drawing style. The modified black regions should exhibit the distinct texture, shading, and linework characteristic of graphite pencil sketches, while maintaining their original abstract shapes and positions within the composition.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Cubist still life painting",
+    "Abstract bottle form",
+    "Abstract bowl/cup form",
+    "Abstract table surface",
+    "Abstract background planes",
+    "Brown painted regions",
+    "Green painted regions",
+    "White painted regions",
+    "Grey painted regions",
+    "Black abstract shapes with pencil drawing texture and linework"
+  ]
+}

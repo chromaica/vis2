@@ -1,0 +1,24 @@
+{
+  "task": "SRIG",
+  "topic": "T",
+  "subtopic": "Newspaper",
+  "prompt": "Make a news article for the New Jersey Times about the announcement made by the mayor of New Jersey regarding the new housing development regulations. The news content should state that new houses within the 100 yard radius of the river must equip with flood-resistant features. The first image should be place at the top left corner of the article, and generate a map at the right side that indicate the affected area.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "annotator": "donaldtsang",
+  "prompt_refined": "Generate a digital news article titled 'New Jersey Times' announcing new housing development regulations. The article should feature a headline about the mayor's announcement regarding these regulations. The main body text must state that new houses within a 100-yard radius of the river are required to be equipped with flood-resistant features. Place image 1, a close-up photo of a man (the mayor) speaking, at the top-left corner of the article. On the right side of the article, include a detailed map highlighting the affected area, specifically illustrating a river and the 100-yard radius zone along its banks where the new regulations apply.",
+  "objects": [
+    "Digital news article layout",
+    "\"New Jersey Times\" title",
+    "Headline about the mayor's announcement",
+    "Main body text about housing regulations",
+    "Close-up photo of a man (the mayor) speaking (at top-left corner)",
+    "Detailed map (on the right side)",
+    "River (on the map)",
+    "100-yard radius zone along river banks (on the map)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

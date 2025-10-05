@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Generate a naga where the human upper body (head, torso, arms) matches the style, skin tone, and details (e.g., ornate jewelry) of the human in the first reference image, and the snake-like lower body matches the scales, colors, and patterns of the snake in the second reference image. Blend the parts seamlessly at the waist. Place the naga coiled in a jungle temple overgrown with vines, in a vibrant, semi-realistic style.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic image of a naga. The naga's human upper body (head, torso, and arms) should precisely capture the fair skin tone, elegant aesthetic, and specific ornate gold jewelry (including intricate ear cuffs and a sculptural necklace) of the human model in image 1. The snake-like lower body should accurately replicate the distinct textured scales, yellow and dark brown coloration, and banded patterns of the snake in image 2. Ensure a seamless and natural blend where the human torso transitions into the snake body at the waist. Position the naga coiled centrally amidst ancient stone ruins within a jungle temple, heavily overgrown with lush green vines. The overall image should be rendered in a vibrant, semi-realistic style.",
+  "objects": [
+    "Naga coiled centrally",
+    "Human upper body (head, torso, arms) with fair skin tone",
+    "Elegant aesthetic (of human upper body)",
+    "Ornate gold jewelry (including intricate ear cuffs and sculptural necklace)",
+    "Snake-like lower body with distinct textured scales",
+    "Yellow and dark brown coloration (on snake lower body)",
+    "Banded patterns (on snake lower body)",
+    "Ancient stone ruins",
+    "Jungle temple",
+    "Lush green vines (heavily overgrown)"
+  ]
+}

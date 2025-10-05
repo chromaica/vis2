@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "A minimalist thermal receipt from \"Blue Lagoon Spa Reception\" in Iceland, listing geothermal entrance fees and towel rental in Icelandic kr\u00f3na, slightly damp from steam with volcanic rock and snow visible through a window behind it",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A minimalist thermal receipt from 'Blue Lagoon Spa Reception' in Iceland. The receipt clearly lists geothermal entrance fees and towel rental costs, denominated in Icelandic kr\u00f3na. It is visibly slightly damp from steam, with subtle condensation and water marks on its surface. Through a window located directly behind the receipt, a natural landscape featuring dark volcanic rock partially covered in pristine white snow is visible.",
+  "annotator": "theblackcat",
+  "objects": [
+    "minimalist thermal receipt",
+    "text content on receipt (including 'Blue Lagoon Spa Reception', geothermal entrance fees, towel rental costs, Icelandic kr\u00f3na denomination)",
+    "damp thermal receipt",
+    "subtle condensation on receipt",
+    "water marks on receipt",
+    "window directly behind the receipt",
+    "natural landscape visible through window",
+    "dark volcanic rock visible through window",
+    "pristine white snow visible through window"
+  ]
+}

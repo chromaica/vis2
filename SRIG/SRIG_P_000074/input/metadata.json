@@ -1,0 +1,22 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "A cosmic scene of a galaxy, generated using the saliency map for structure.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic image of a vibrant spiral galaxy within a cosmic scene. The structural form, including the shape of its core and spiral arms, and the relative luminosity distribution across the galaxy, must precisely adhere to the intensity map provided in image 1. Specifically, the bright yellow and red regions in image 1 should manifest as highly luminous and dense stellar and nebular areas, forming the galaxy's glowing core and distinct spiral arms. The darker blue areas in image 1 should represent the deeper, less dense regions of space surrounding and within the galaxy. Position the galaxy centrally, reflecting its main mass distribution from image 1, set against a backdrop of deep space with scattered faint stars.",
+  "annotator": "samin",
+  "objects": [
+    "vibrant spiral galaxy",
+    "glowing galaxy core",
+    "distinct galaxy spiral arms",
+    "highly luminous stellar areas",
+    "dense nebular areas",
+    "deeper, less dense regions of space within and surrounding the galaxy",
+    "deep space backdrop",
+    "scattered faint stars"
+  ]
+}

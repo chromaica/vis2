@@ -1,0 +1,26 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Add this end symbol in the last step of the flowchart.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the oval labeled 'Start' located in the bottom-right corner of the flowchart with the 'End' symbol depicted in image 2. Ensure the arrow originating from the 'All steps' diamond shape connects correctly to this newly placed 'End' symbol. The 'End' symbol should replicate the rounded rectangle shape and yellow fill color of image 2, while maintaining the overall black line and text style of the existing flowchart elements in image 1.",
+  "annotator": "Johnny",
+  "objects": [
+    "\"How to make a flowchart\" title",
+    "Top \"Start\" oval",
+    "\"Descriptive name for process\" rectangle",
+    "\"Determine inputs\" rectangle",
+    "\"Determine sequential steps\" rectangle",
+    "\"All steps\" diamond",
+    "\"Find missing steps\" rectangle",
+    "Arrows connecting flowchart elements, including the arrow from \"All steps\" connecting to the bottom-right symbol",
+    "\"End\" symbol (rounded rectangle shape, yellow fill, in the bottom-right corner)",
+    "Oval labeled 'Start' in the bottom-right corner (should not be present)"
+  ],
+  "human_annotation": true
+}

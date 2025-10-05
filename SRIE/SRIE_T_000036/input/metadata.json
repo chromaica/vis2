@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Fill the roads with the appropriate color based on the trafic heatmap",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the road network displayed in image 1 by coloring each road segment. The color of each segment should directly correspond to the traffic intensity shown at that location in the heatmap from image 2. Apply a color gradient from red (for high traffic areas) to yellow (for lower traffic areas) to the roads, matching the visual representation of the heatmap.",
+  "annotator": "matina",
+  "objects": [
+    "road network",
+    "red colored road segments",
+    "yellow colored road segments",
+    "orange colored road segments",
+    "Lake Union",
+    "bodies of water",
+    "land areas",
+    "Interstate 5 shield"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

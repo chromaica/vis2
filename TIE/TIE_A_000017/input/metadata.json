@@ -1,0 +1,25 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Renaissance",
+  "prompt": "Add a city skyline at the hill in the background of the painting. Make a contrast with the historical style of the foreground.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Integrate a modern city skyline onto the distant hills in the background, specifically behind the large castle structure and across the river. Ensure the contemporary style of the skyline sharply contrasts with the traditional, historical painting style evident in the foreground elements.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "modern city skyline in the background, behind the large castle structure and across the river",
+    "large castle structure",
+    "river",
+    "distant hills",
+    "people in the foreground",
+    "boat with people",
+    "sheep",
+    "trees",
+    "wagon with horses"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

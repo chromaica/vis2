@@ -1,0 +1,25 @@
+{
+  "subtopic": "VFX and Particles",
+  "prompt": "Edit image 1 by applying chaotic, vibrant paint splatter particle effects around the cat and pumpkin, inspired by image 3's dynamic watercolor style. Overlay soft, glowing light particles across the scene, mimicking the gentle bokeh and natural lighting of image 2.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748455873546,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit the source image (image 1) depicting a cat holding a pumpkin. Introduce chaotic, vibrant paint splatter particle effects around the cat and pumpkin, capturing the dynamic watercolor style and expressive splatters observed in image 3. Additionally, overlay soft, glowing light particles across the entire scene, replicating the gentle bokeh and natural, ambient lighting characteristic of image 2.",
+  "annotator": "winston",
+  "objects": [
+    "Cat",
+    "Pumpkin",
+    "Chaotic, vibrant paint splatters around the cat and pumpkin",
+    "Soft, glowing light particles across the entire scene",
+    "Dark green textured background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

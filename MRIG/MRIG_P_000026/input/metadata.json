@@ -1,0 +1,23 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Create an image of a bed inspired by the first provided images of a whale and the second provided images of a minimalist platform bed. Incorporate the whale\u2019s smooth, ocean-blue skin texture into the headboard and bedding, with subtle wave-like patterns. The bed frame should evoke the whale\u2019s curved, streamlined body, with rounded edges and sturdy supports resembling fins. The design should be calming, modern, and ideal for a serene bedroom.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic image of a bed that integrates visual elements from image 1 (a whale) and image 2 (a minimalist platform bed).\n\nThe bed's headboard and all bedding should prominently feature a smooth, deep ocean-blue texture and color, inspired directly by the skin and hue of the whale in image 1. The bedding fabric should also display subtle, undulating wave-like patterns. The bed frame itself should be a low-profile platform design, drawing its overall structure and material inspiration from the minimalist bed in image 2. However, its form should subtly echo the curved, streamlined body of the whale from image 1, presenting soft, rounded edges throughout. The bed's support legs, positioned discreetly at the corners, should subtly resemble the broad, paddle-like pectoral fins of the whale in image 1. The overall design should convey a modern, calming aesthetic, creating a serene bedroom ambiance consistent with the style and mood of the room depicted in image 2.",
+  "objects": [
+    "A bed",
+    "Headboard with smooth, deep ocean-blue texture and color",
+    "Bedding with smooth, deep ocean-blue color and subtle undulating wave-like patterns",
+    "Low-profile platform bed frame",
+    "Bed frame with curved, streamlined form and soft, rounded edges",
+    "Discreet support legs resembling whale pectoral fins",
+    "Serene bedroom ambiance"
+  ],
+  "human_annotation": true
+}

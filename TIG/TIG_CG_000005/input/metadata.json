@@ -1,0 +1,17 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "Depth maps",
+  "prompt": "A grayscale depth map of a simple scene with a white house with a red roof (color not shown), a tree to the left of the house, and sky in the background. The house is closest to the camera, followed by the tree, and the sky is the farthest. Brighter values represent closer depth, darker values represent farther distance. No textures, no colors, just smooth grayscale gradients. Front-facing view.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a grayscale depth map of a simple outdoor scene. The scene features a house, a tree, and the sky. The house, structured like a typical white house with a red roof (represented solely by its depth, not color), is positioned centrally and is the closest object to the viewer, depicted with the brightest grayscale values. A tree stands immediately to the left of the house, appearing slightly darker than the house but distinctly brighter than the background. The sky constitutes the farthest background, rendered with the darkest grayscale values. The entire image must be a smooth, continuous grayscale gradient, completely devoid of textures, colors, or any visual noise, purely representing depth. The perspective is a direct, front-facing view.",
+  "annotator": "maxku",
+  "objects": [
+    "house (positioned centrally)",
+    "tree (immediately to the left of the house)",
+    "sky (farthest background)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,27 @@
+{
+  "subtopic": "Facial estimation and analysis",
+  "prompt": "Generate a close-up digital portrait focusing on facial estimation. Use the reference's detailed rendering of wrinkles and skin texture to depict age on a new face for analysis.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://live.staticflickr.com/8007/7459793046_dbf6d9709d_b.jpg",
+  "promptGeneratedTimestamp": 1748768174423,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a close-up digital portrait of a new face, precisely rendering advanced age by replicating the deep wrinkles, prominent skin folds, and detailed skin texture from image 1. The output should be suitable for facial estimation and analysis.",
+  "annotator": "ishengfang",
+  "objects": [
+    "A new face",
+    "Close-up portrait",
+    "Digital aesthetic",
+    "Appearance of advanced age",
+    "Deep wrinkles",
+    "Prominent skin folds",
+    "Detailed skin texture",
+    "Eyes",
+    "Nose",
+    "Mouth"
+  ],
+  "human_annotation": true
+}

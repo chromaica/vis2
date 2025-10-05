@@ -1,0 +1,23 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "Empower the warrior with a glowing celestial sword, casting radiant light, and add enchanted runes around the battlefield.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Equip the warrior, located centrally, with a glowing celestial sword in hand. This sword should emit a brilliant, radiant light, enhancing the illumination around the warrior. Furthermore, add scattered, enchanted, and glowing runes across the dark ground of the battlefield surrounding both the warrior and the large skeletal creature.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Warrior (centrally located)",
+    "Large skeletal creature",
+    "Game user interface (UI) elements",
+    "Dark ground battlefield",
+    "Energy beam from skeletal creature",
+    "Glowing celestial sword (in warrior's hand)",
+    "Enhanced illumination around the warrior",
+    "Scattered, enchanted, glowing runes (across the dark ground)"
+  ],
+  "human_annotation": true
+}

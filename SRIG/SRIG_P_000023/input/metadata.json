@@ -1,0 +1,23 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Medical images",
+  "prompt": "Using the provided skull CT scan as reference, generate an image of the person's face",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic frontal portrait of a human face. The facial structure, proportions, and features must be accurately reconstructed and consistent with the underlying skull anatomy provided in image 1, which is a 3D rendering of a human skull from a frontal perspective.",
+  "annotator": "samin",
+  "objects": [
+    "Photorealistic human face",
+    "Eyes",
+    "Nose",
+    "Mouth",
+    "Forehead",
+    "Cheeks",
+    "Chin",
+    "Human hair",
+    "Skin texture"
+  ]
+}

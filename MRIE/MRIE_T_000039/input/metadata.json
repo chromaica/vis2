@@ -1,0 +1,27 @@
+{
+  "task": "MRIE",
+  "topic": "T",
+  "subtopic": "Menu",
+  "prompt": "Replace the monster energy drink in the menu to the drink in the second image. Then, change the associated picture of Moon Over My Hammy to the dish in the third image. Next, replace the associated picture of juice to the cups in the fourth image, but make the small cup containing apple juice and the large cup containing orange juice. Remove the background for all new images before adding to the menu. Finally, increase the price of all drinks by 25 cents.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png",
+    "4.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the menu in image 1 as follows:\n\n1.  Locate the black Monster Energy Drink can, currently priced at '$7.00' in the bottom-right section of the menu, below 'Lemon, Lime & Bitters'. Replace this image and text with the 'Fever-Tree Premium Ginger Beer' bottle shown in image 2. The new price for this item should be $7.25. Ensure the background of the bottle from image 2 is removed for seamless integration into the menu layout.\n2.  In the bottom-left section of the menu, replace the existing picture associated with 'Moon Over My Hammy' (which shows scrambled eggs with ham and toast) with the grilled sandwich and hash browns from image 3. Ensure the background of the dish from image 3 is removed for seamless integration into the menu layout.\n3.  In the mid-right section of the menu, replace the current 'Juice' graphic (displaying various fruit slices and a glass of orange juice) with the two clear cups from image 4. Ensure the background of the cups from image 4 is removed. Modify the contents of these cups so the taller cup on the left contains orange juice and the shorter cup on the right contains apple juice.\n4.  Increase the price of all drinks listed on the menu by 25 cents:\n    *   **Hot Drinks:** Update Long/Short Black to $5.25, Flat White to $6.25, Cappuccino to $6.25, Mochaccino to $6.75, Hot Chocolate to $6.75, Tea to $5.25, and Filter Coffee to $5.25.\n    *   **Juice:** Update Small to $5.75, Large to $6.55, Apple to $5.75, Pineapple to $5.75, and Tomato to $5.75.\n    *   **Other Drinks:** Update Lemon, Lime & Bitters to $7.25, and Ginger Beer (the existing one, above the replaced Monster Energy Drink) to $7.25.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Fever-Tree Premium Ginger Beer bottle",
+    "Black Monster Energy Drink can (should not be present)",
+    "Grilled sandwich and hash browns",
+    "Scrambled eggs with ham and toast picture (Moon Over My Hammy) (should not be present)",
+    "Two clear cups, with the taller cup on the left",
+    "Juice graphic (fruit slices and glass of orange juice) (should not be present)",
+    "Orange juice in the taller cup",
+    "Apple juice in the shorter cup",
+    "Price $7.25 for Fever-Tree Premium Ginger Beer",
+    "Price $5.25 for Long/Short Black"
+  ]
+}

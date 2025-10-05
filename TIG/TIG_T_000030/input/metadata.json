@@ -1,0 +1,24 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Illuminated Manuscripts",
+  "prompt": "Craft an illuminated manuscript detail: 'Pax', featuring an ornate, golden 'P' followed by gothic script with red flourishes, all on a parchment texture.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "An illuminated manuscript detail featuring the word 'Pax'. The ornate, golden capital 'P' is large and positioned on the left. The letters 'ax' follow to its right in gothic script, adorned with red flourishes. The entire piece is rendered on a textured, aged parchment background.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "illuminated manuscript detail",
+    "ornate, golden capital 'P'",
+    "large capital 'P'",
+    "capital 'P' positioned on the left",
+    "letters 'ax'",
+    "gothic script for 'ax'",
+    "red flourishes on 'ax'",
+    "letters 'ax' positioned to the right of 'P'",
+    "textured parchment background",
+    "aged parchment background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

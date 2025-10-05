@@ -1,0 +1,26 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Transform into sleek, vibrant flat design, infusing minimalist elegance and colorful accents for a cutting-edge app interface.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Transform the wireframe app interfaces depicted within the software window into a modern, sleek, and vibrant flat design. Implement minimalist elegance throughout the UI, ensuring clean lines, simple shapes, and an uncluttered layout. Introduce colorful accents strategically on interactive elements and key features, such as buttons, selected tabs, and icons, to highlight them. Render all visible UI components and text elements, including \"Designed for iOS 7\", \"Featured\", \"App\", \"FREE\", star ratings, and \"Carrier\", with full color and detail, creating a polished and cutting-edge app interface.",
+  "annotator": "cwhsu",
+  "objects": [
+    "WireframeSketcher Studio application window",
+    "Left modern flat design iPhone app interface",
+    "Right modern flat design iPhone app interface",
+    "\"Designed for iOS 7\" text (full color and detail)",
+    "\"Featured\" tab/element (with colorful accent and full color)",
+    "\"App\" text labels (full color and detail)",
+    "\"FREE\" button (with colorful accent and full color)",
+    "Star ratings (with colorful accent and full color)",
+    "\"Carrier\" text in status bar (full color and detail)",
+    "Icons (e.g., user profile, download, app placeholders) with colorful accents and full detail"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

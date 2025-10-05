@@ -1,0 +1,19 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "QR codes",
+  "prompt": "Add an intricate floral border around the QR code, using soft pastel shades to create a harmonious and artistic contrast.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Add an intricate floral border around the QR code, using soft pastel shades to create a harmonious and artistic contrast.",
+  "annotator": "cwhsu",
+  "objects": [
+    "QR code",
+    "Dinosaur (inside the QR code)",
+    "Intricate floral border (around the QR code, in soft pastel shades)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

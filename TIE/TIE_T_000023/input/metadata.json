@@ -1,0 +1,25 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": "Turn all bubbles into scribbly, jagged shapes to indicate frantic chatter.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Convert the smooth, rounded outlines of all speech bubbles within the comic panels into scribbly, jagged shapes. Specifically, modify the speech bubble located in the top-middle of the left comic panel and the speech bubble in the top-right of the right comic panel, ensuring their altered appearance conveys frantic chatter.",
+  "annotator": "matina",
+  "objects": [
+    "Left comic panel with cockpit interior",
+    "Right comic panel with sky and character on aircraft",
+    "Speech bubble in top-middle of left panel with scribbly, jagged outline",
+    "Text \"THIS GUN IS JAMMED! AND THE OTHERS ARE DISMANTLED! STEP ON IT, TIM! THEY'RE DROPPING MORE BOMBS!\"",
+    "Speech bubble in top-right of right panel with scribbly, jagged outline",
+    "Text \"KEEP IT LEVEL, TIM! BABY, COME TO PAPA! AND WHATEVER YOU DO, PLEASE DON'T BLOW YOUR TOP!\"",
+    "Man/pilot in the left panel",
+    "Gun in the left panel",
+    "Superman-like character/hero holding bomb-like object in the right panel",
+    "Airplane in the top-left of the left panel"
+  ],
+  "human_annotation": true
+}

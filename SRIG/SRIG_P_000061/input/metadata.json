@@ -1,0 +1,21 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "Using the reference image showing the pose of two astronauts, create a realistic image of them exploring the Moon.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic image of two astronauts exploring the lunar surface. The astronauts should precisely match the poses and relative positions depicted in image 1, with the astronaut on the left appearing closer and the astronaut on the right positioned slightly behind and looking upwards. They are situated on a desolate, rocky, cratered lunar landscape under a dark, star-filled sky, with a visible Earth in the background.",
+  "annotator": "samin",
+  "objects": [
+    "Astronaut on the left (matching pose and closer position from image 1)",
+    "Astronaut on the right (matching pose and slightly behind position from image 1, looking upwards)",
+    "Desolate, rocky, cratered lunar landscape",
+    "Dark, star-filled sky",
+    "Visible Earth in the background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

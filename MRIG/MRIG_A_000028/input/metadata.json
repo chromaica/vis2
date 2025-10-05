@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Traditional art",
+  "prompt": "A traditional watercolor painting featuring the vibrant flower from image 1 placed inside the clear glass pitcher from image 2. Render using the fluid yet detailed watercolor style of image 2, capturing light and transparency.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a traditional watercolor painting depicting the pink lily-like flower and bud from image 1 placed inside the clear glass pitcher from image 2. Render the artwork in the fluid yet detailed watercolor style of image 2, effectively capturing light and the transparency of the glass.",
+  "annotator": "samin",
+  "objects": [
+    "pink lily-like flower",
+    "flower bud",
+    "clear glass pitcher",
+    "flower and bud placed inside the pitcher",
+    "traditional watercolor painting style",
+    "fluid watercolor brushwork",
+    "detailed watercolor rendering",
+    "effective capture of light",
+    "transparent glass appearance"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,21 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": "Soften the eyebrows, close the lip into a smile, and warm the skin tone slightly and change the bubble so it would say 'WOW!'.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Modify the character's face by softening the eyebrows and changing the wide-open mouth into a closed smile. Slightly warm the existing green skin tone of the character. In the speech bubble at the top-left of the image, replace all current text with the word 'WOW!'.",
+  "annotator": "matina",
+  "objects": [
+    "Character with warmer green skin tone",
+    "Character's face with softened eyebrows",
+    "Character's face with a closed smile",
+    "Character's hat",
+    "Speech bubble in top-left",
+    "Text \"WOW!\" inside the speech bubble",
+    "Original text in speech bubble (should not be present)"
+  ]
+}

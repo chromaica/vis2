@@ -1,0 +1,29 @@
+{
+  "subtopic": "Software interfaces",
+  "prompt": "Edit image 1: Replace the grid of application icons within the dashed rectangle with a data visualization panel. This panel should display usage statistics in a style inspired by the charts and dashboard elements seen in image 2.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751006004977,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit image 1: Replace the grid of application icons contained within the central dashed rectangle with a data visualization panel. This panel should clearly display usage statistics, adopting the clean, organized style and data representation elements (such as charts, tables, and overall dashboard aesthetic) found in image 2.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Web browser window",
+    "Top bar with \"screenrec\" logo",
+    "Left sidebar with application/navigation icons",
+    "\"Type to search\" bar",
+    "Grid of application icons (should not be present)",
+    "Data visualization panel (replacing the icons)",
+    "Charts (e.g., circular progress, bar/timeline) displaying usage statistics",
+    "Data tables displaying usage statistics",
+    "Search bar within the data visualization panel",
+    "Overall clean, organized dashboard aesthetic for the panel"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

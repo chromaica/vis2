@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "Generate a screenshot of a detailed pharmacy receipt, combining the overall layout and structure from the first image, the pharmacy logo and branding elements from the second image, and the itemized list of medications with dosages and prices from the third image. ",
+  "cond_images": [
+    "1.png",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a detailed screenshot of a pharmacy receipt by combining visual elements from the provided images:\n\n*   **Overall Layout & Structure**: Adopt the complete receipt structure, general font style, and all standard receipt elements (e.g., date, time, transaction numbers, subtotal, total, payment details, \"Thanks for shopping with us\" message, and barcode at the bottom) from image 1.\n*   **Pharmacy Branding**: Replace the \"Pharmacy LOCAL DRUGS\" header in image 1 with the \"SNEADS PHARMACY\" logo and branding, including the distinctive mortar and pestle icon and the 3D rendered text style, derived from image 2. Position this branding prominently at the top center of the receipt.\n*   **Itemized List**: Populate the central itemized section with a list of medications, including their specific dosages and prices. Structure this list following the quantity-item-price format and right-alignment of prices as clearly demonstrated in the itemized list of image 3. Ensure the content reflects plausible pharmacy items and dosages.",
+  "annotator": "paria",
+  "objects": [
+    "SNEADS PHARMACY logo and branding (top center, with mortar and pestle icon and 3D rendered text style)",
+    "Receipt paper layout",
+    "Date and time",
+    "Transaction numbers/IDs",
+    "Itemized list of medications (with quantities, dosages, prices, right-aligned)",
+    "Subtotal",
+    "Total",
+    "Payment details (e.g., charge, card type, change)",
+    "\"Thanks for shopping with us\" message",
+    "Barcode at the bottom with numerical code"
+  ]
+}

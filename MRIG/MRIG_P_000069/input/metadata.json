@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Reinterpret the beach party photo referenced in the first image as a modern superhero comic book scene, using the second image as the art style. Transform the partygoers into dynamic superheroes with colorful costumes, using a glossy, high-energy comic style with bold outlines and vivid colors. Add comic book effects like starbursts around the bonfire and motion lines for dancing figures. Stylize the beach with exaggerated waves and a glowing sunset, incorporating halftone patterns and dramatic silhouettes, while keeping the festive atmosphere intact.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Transform the beach party composition from image 1 into a modern superhero comic book scene, adopting the dynamic and glossy art style of image 2. Re-envision each individual from image 1 as a unique, colorful superhero, maintaining their general positions but with more heroic and expressive poses. Add a prominent bonfire near the center of the group, surrounded by vibrant comic book starburst effects. Include motion lines for figures depicted in dynamic or dancing poses. Stylize the sandy beach with exaggerated waves and a glowing sunset in the background, incorporating halftone patterns and dramatic silhouettes into environmental elements. The overall image should feature bold outlines, vivid colors, and a high-energy feel characteristic of superhero comics, while retaining the festive and social atmosphere of the original beach gathering.",
+  "objects": [
+    "Multiple unique, colorful superheroes",
+    "Beach party composition (retained from image 1)",
+    "Prominent bonfire near the center of the group",
+    "Vibrant comic book starburst effects around bonfire",
+    "Motion lines for dynamic poses",
+    "Stylized sandy beach with exaggerated waves",
+    "Glowing sunset in the background",
+    "Bold outlines",
+    "Vivid colors",
+    "Halftone patterns in environmental elements"
+  ]
+}

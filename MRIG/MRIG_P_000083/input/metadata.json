@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "A singing Jigglypuff referenced in the first image standing on a stage, holding a microphone shaped like a siu mai dumpling referenced in the second image. The siu mai microphone has a juicy pork and shrimp filling, a steamed wrapper, and tiny orange roe dots on top, glowing faintly like a stage light. Jigglypuff\u2019s pink, fluffy body contrasts with the savory, textured siu mai.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic image. A cute, pink, and fluffy Jigglypuff, accurately depicted from image 1, stands centrally on a dark stage. It is singing, with its mouth open, holding a unique microphone in its small hands. This microphone is precisely shaped like the siu mai dumpling from image 2, featuring a distinct yellow-orange steamed wrapper, a visible juicy pork and shrimp filling, and tiny orange roe dots on top. The siu mai microphone emits a faint, soft glow that illuminates Jigglypuff's face, similar to a stage light. The smooth, soft texture of Jigglypuff should strongly contrast with the savory, detailed texture of the siu mai microphone.",
+  "objects": [
+    "photorealistic Jigglypuff",
+    "Jigglypuff's open mouth (singing)",
+    "Jigglypuff's small hands",
+    "Jigglypuff positioned centrally",
+    "dark stage",
+    "microphone shaped like a siu mai dumpling (from image 2)",
+    "yellow-orange steamed wrapper on the microphone",
+    "visible juicy pork and shrimp filling on the microphone",
+    "tiny orange roe dots on top of the microphone",
+    "faint, soft glow from the microphone illuminating Jigglypuff's face"
+  ],
+  "human_annotation": true
+}

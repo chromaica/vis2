@@ -1,0 +1,27 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "QR Code",
+  "prompt": "Edit image 1 by replacing the barcode inside the red box at the bottom with the black-and-white QR code from image 2, ensuring the QR is fully contained within the red box without crossing its borders, and scaled proportionally to the surrounding elements \u2014 not too large. Then, insert the Mickey Mouse silhouette from image 3 in the bottom-left area of the red section, positioned directly above the QR code and sized to about half the QR\u2019s height. All other aspects of the source image should remain unchanged.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the provided boarding pass screenshot (image 1).\n1.  **Replace Barcode:** Replace the barcode located at the bottom of the red section in image 1 with the black-and-white QR code from image 2. Ensure the QR code is fully contained within this red section without crossing its borders, and is scaled proportionally to the surrounding elements so it is not overly large.\n2.  **Add Mickey Mouse:** Insert the black Mickey Mouse silhouette from image 3 into the bottom-left area of the same red section. Position this silhouette directly above the newly inserted QR code and size it to approximately half the QR code's height.\nAll other aspects of image 1 must remain unchanged.",
+  "annotator": "parnian",
+  "objects": [
+    "Boarding pass user interface",
+    "DELTA logo",
+    "Red boarding pass section",
+    "\"DEL\" and \"SFO\" airport codes",
+    "Passenger name \"Anil Singh\"",
+    "Seat number \"2B\"",
+    "Flight details (flight number, date, time)",
+    "Boarding gate details (terminal, gate number, time)",
+    "Black-and-white QR code (at the bottom of the red section)",
+    "Black Mickey Mouse silhouette (in the bottom-left area of the red section, above the QR code)",
+    "Barcode from image 1 (should not be present)"
+  ]
+}

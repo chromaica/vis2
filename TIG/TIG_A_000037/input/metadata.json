@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Cultural/heritage art",
+  "prompt": "Maori warrior performing a haka, displaying traditional tattoos, with New Zealand's stunning landscape in the background.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A powerful Maori warrior, in a dynamic full-body pose, fiercely performs a haka. Traditional Maori facial moko and body tattoos are prominently displayed. The background features a vast and stunning New Zealand landscape with lush green valleys and majestic, snow-capped mountains under a dramatic sky.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Maori warrior",
+    "Full-body pose",
+    "Traditional Maori facial moko",
+    "Traditional Maori body tattoos",
+    "New Zealand landscape",
+    "Lush green valleys",
+    "Majestic, snow-capped mountains",
+    "Dramatic sky"
+  ],
+  "human_annotation": true
+}

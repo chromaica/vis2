@@ -1,0 +1,23 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "A futuristic robot reimagined from a cheetah referenced in the first Image, inspired by the rugged, angular design of a Tesla Cybertruck referenced in the second Image. The cyber-cheetah has a sleek, stainless-steel frame with sharp, geometric facets and glowing green circuit lines etched into its surface. Its eyes are high-resolution LIDAR sensors, and its tail is a segmented antenna for real-time data transmission.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic image of a futuristic robotic cheetah. This cyber-cheetah should possess the lithe, quadrupedal form and predatory stance of the cheetah presented in image 1. Its overall design must be inspired by the rugged, angular, and minimalist aesthetic of the Tesla Cybertruck in image 2, featuring a sleek, brushed stainless-steel frame with sharply defined geometric facets. Vivid glowing green circuit lines are intricately etched into its surface. Its eyes are detailed, high-resolution LIDAR sensors, and its tail is a segmented, articulated antenna optimized for real-time data transmission.",
+  "objects": [
+    "Futuristic robotic cheetah",
+    "Lithe, quadrupedal form",
+    "Predatory stance",
+    "Brushed stainless-steel frame",
+    "Sharply defined geometric facets",
+    "Vivid glowing green circuit lines",
+    "High-resolution LIDAR sensor eyes",
+    "Segmented, articulated antenna tail"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Add a new generation above labeled \"4th-Great-Grandfather/Grandmother\" in a lighter shade of green.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Add a new horizontal generation section at the very top of the family tree chart, directly above the existing '3rd-Great-Grandfather/Grandmother' generation. This new section should contain a single rectangular box labeled \"4th-Great-Grandfather/Grandmother\". The background color of this new generation section and its box should be a lighter shade of green than the current '3rd-Great-Grandfather/Grandmother' section, continuing the chart's established generational color progression. Ensure the new elements match the existing visual style of the chart, including text font, box shape, and any necessary connecting lines.",
+  "annotator": "cwhsu",
+  "objects": [
+    "new horizontal generation section with lighter green background at the very top",
+    "rectangular box labeled \"4th-Great-Grandfather/Grandmother\" at the top",
+    "connecting line(s) from the \"4th-Great-Grandfather/Grandmother\" box to the \"3rd-Great-Grandfather/Grandmother\" box",
+    "'3rd-Great-Grandfather/Grandmother' generation section (including background and boxes)",
+    "'2nd-Great-Grandfather/Grandmother' generation section (including background and boxes)",
+    "'Great-Grandfather/Grandmother' generation section (including background and boxes)",
+    "'Grandfather/Grandmother' generation section (including background and boxes)",
+    "'Father/Mother' generation section (including background and boxes)",
+    "'YOU' generation section (including background and boxes)",
+    "\"Generations\" vertical text and vertical axis line on the left"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

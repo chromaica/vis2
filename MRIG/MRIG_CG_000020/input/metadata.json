@@ -1,0 +1,25 @@
+{
+  "subtopic": "Depth maps",
+  "prompt": "Create a depth map visualization of the person from image 2, wearing the sunglasses from image 1. Render this in a computer graphics style, emphasizing spatial depth.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748421862964,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a depth map visualization of the person from image 2, wearing the round, pink-lensed sunglasses from image 1. Render the image in a computer graphics style, strongly emphasizing spatial depth.",
+  "annotator": "winston",
+  "objects": [
+    "Male person",
+    "Round sunglasses",
+    "Pink lenses",
+    "Depth map visualization",
+    "Computer graphics style",
+    "Spatial depth emphasis"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

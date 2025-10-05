@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "A binary star system, with two suns exchanging light in a dance of gravitational attraction, set against a densely populated stellar backdrop.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Photorealistic image of a vibrant binary star system. Two colossal suns, one fiery orange and the other brilliant blue-white, orbit each other closely, their powerful gravitational dance visible through luminous arcs of superheated plasma stretching between them. Intense stellar flares erupt from their surfaces, illuminating nearby cosmic dust. The binary system is centrally positioned against an awe-inspiring backdrop of a densely populated galactic core, filled with countless pinprick stars, glowing nebulae, and dark cosmic dust lanes, creating a vast and deep space vista.",
+  "annotator": "cwhsu",
+  "objects": [
+    "fiery orange colossal sun",
+    "brilliant blue-white colossal sun",
+    "luminous arcs of superheated plasma between the suns",
+    "intense stellar flares",
+    "cosmic dust (illuminated)",
+    "densely populated galactic core (as a backdrop)",
+    "countless pinprick stars",
+    "glowing nebulae",
+    "dark cosmic dust lanes",
+    "binary star system (centrally positioned)"
+  ]
+}

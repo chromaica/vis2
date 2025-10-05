@@ -1,0 +1,25 @@
+{
+  "subtopic": "Memes",
+  "prompt": "Edit image 1 by adding classic top and bottom meme text overlays using a bold white font with a black border, referencing the style in Image 2 and Image 5. The text content should be humorous or reactive, in the style of internet memes like those in Image 3 and Image 4.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg",
+    "4.jpeg",
+    "5.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749711519785,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "T",
+  "prompt_refined": "Edit image 1 by adding two meme text overlays: one positioned horizontally centered at the very top of the image, and the other horizontally centered at the very bottom. The text for both overlays should use a bold, sans-serif font (such as Impact), be white in color, and have a thick black border, consistent with the classic meme text style exemplified in image 2 and image 5. The content of the text should be humorous, reactive, or a relatable commentary, aligning with the typical internet meme humor demonstrated in image 3 and image 4.",
+  "annotator": "winston",
+  "objects": [
+    "Image of a man with a confused expression",
+    "Background behind the man (from image 1)",
+    "Question mark symbols (from image 1)",
+    "Top text overlay: humorous text, white with thick black border, bold sans-serif font, horizontally centered at the very top",
+    "Bottom text overlay: humorous text, white with thick black border, bold sans-serif font, horizontally centered at the very bottom"
+  ]
+}

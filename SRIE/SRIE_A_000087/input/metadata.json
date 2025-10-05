@@ -1,0 +1,27 @@
+{
+  "subtopic": "Digital arts",
+  "prompt": "Edit image 1: Apply the subtle, serene atmospheric gradient and color palette from image 2 to the sky and overall lighting of image 1, blending the soft blue and pink hues to enhance the digital art scene.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748670832463,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1: Apply the subtle, serene atmospheric gradient and color palette from image 2 to the sky and overall ambient lighting. Transform the sky in image 1 to feature a soft blue to delicate pink gradient, matching the hues and transition style of image 2. Ensure these blended blue and pink hues subtly illuminate the entire digital art scene, including the large moon, distant hills, and foreground landscape, to enhance its harmonious and ethereal quality.",
+  "annotator": "kellycyy",
+  "objects": [
+    "pink blossom tree",
+    "large moon",
+    "sky with blue to pink gradient",
+    "distant hills",
+    "grassy landscape",
+    "circular pond",
+    "water lilies",
+    "small white flowers in grass"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,29 @@
+{
+  "subtopic": "Object detection visuals",
+  "prompt": "An object detection visualization showing the creature from image 2. Use the abstract shapes and colors of image 1 for the detection overlay, bounding box, and confidence score. Maintain the lighting and depth of field from image 2.",
+  "cond_images": [
+    "1.png",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748419991690,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate an image depicting an object detection visualization of the blue creature from image 2. A bounding box, precisely outlining the creature, should feature an outline rendered in the abstract blue and grey color scheme and swirling patterns of image 1. A semi-transparent overlay, textured with the abstract shapes and colors from image 1, should cover the detected creature. Display a confidence score, styled with the colors of image 1, near the top-left corner of the bounding box. The image should faithfully replicate the warm, diffused lighting and the shallow depth of field from image 2, ensuring the creature is sharply in focus against a blurred background.",
+  "annotator": "winston",
+  "objects": [
+    "Blue creature",
+    "Bounding box outlining the creature",
+    "Abstract blue and grey color scheme on bounding box outline",
+    "Swirling patterns on bounding box outline",
+    "Semi-transparent overlay covering the creature",
+    "Abstract shapes and colors on the overlay",
+    "Confidence score near the top-left of the bounding box",
+    "Warm, diffused lighting",
+    "Shallow depth of field",
+    "Blurred background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

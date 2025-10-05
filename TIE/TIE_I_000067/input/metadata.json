@@ -1,0 +1,23 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Exploded Views",
+  "prompt": "Transform the assembly diagram into a colorful pop-art style, highlighting each component with vibrant colors.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Transform image 1, an exploded assembly diagram, into a vibrant pop-art illustration. Fill each distinct component with a bold, flat, and contrasting color, while preserving and enhancing their clear, strong outlines. Ensure all component labels (e.g., MC253, MC042) remain perfectly legible and are stylistically integrated into the pop-art aesthetic.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Individual mechanical components (e.g., housing, tanks, tubes, levers, base)",
+    "Clear, strong outlines defining each mechanical component",
+    "Bold, flat, contrasting color fills within each mechanical component",
+    "All component labels (e.g., MC253, MC042, ASSMC190, MC234, MC742)",
+    "Component labels stylistically integrated into a pop-art aesthetic (e.g., specific font, color, or background)",
+    "Dashed lines indicating assembly relationships or pathways",
+    "Overall exploded assembly diagram layout"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

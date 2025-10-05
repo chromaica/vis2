@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "A digital collage combining elements of Renaissance art with futuristic technology, depicting a robotic angel with mechanical wings ascending amidst temporal distortion.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Digital collage artwork. A robotic angel with detailed mechanical wings, rendered in a style that combines elements of Renaissance art with futuristic technology. The angel is ascending upwards, enveloped by swirling, luminous temporal distortion effects.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Robotic angel",
+    "Detailed mechanical wings",
+    "Swirling temporal distortion effects",
+    "Luminous temporal distortion effects",
+    "Upward ascension (of the angel)",
+    "Elements of Renaissance art style",
+    "Elements of futuristic technology style",
+    "Digital collage artwork aesthetic"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

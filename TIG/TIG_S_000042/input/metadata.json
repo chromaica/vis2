@@ -1,0 +1,23 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "Create a real-time strategy space battle mockup showing massive starships engaged in combat around a planet with rings (like Saturn). Display various ship types: massive capital ships firing laser beams, smaller fighters swarming around them, and explosion effects with debris fields. Include UI: fleet command panel, resource mining indicators, zoom level controls, battle formation buttons, and unit health/shield status bars. In the background, show a nebula with swirling cosmic clouds, distant stars, and space stations. Epic scale with dramatic lighting and particle effects",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a high-fidelity screenshot mockup of an epic real-time strategy (RTS) space battle. In the midground, colossal starships are locked in intense combat around a prominent, ringed gas giant planet, similar to Saturn. Massive capital ships exchange vibrant, glowing laser beams, while swarms of smaller, agile fighter ships dart and engage around the larger vessels. Dynamic explosion effects, complete with scattering debris fields, are visible throughout the battle scene.\n\nThe image includes a detailed game UI overlay: a comprehensive fleet command panel is anchored at the bottom-center of the screen. Resource mining indicators are displayed in the top-right corner. Zoom level controls are positioned in the bottom-right. Battle formation buttons are integrated within the main command panel. Individual unit health and shield status bars are clearly visible above selected ships.\n\nIn the deep background, a vibrant nebula with swirling cosmic clouds and distant stars creates a dramatic backdrop. Several space stations are subtly visible in the far distance. The overall scene is rendered with an immense scale, dramatic lighting, and intricate particle effects such as energy trails, sparks, and smoke, conveying a powerful and chaotic engagement.",
+  "annotator": "theblackcat",
+  "objects": [
+    "prominent, ringed gas giant planet",
+    "colossal starships locked in intense combat",
+    "swarms of smaller, agile fighter ships",
+    "vibrant, glowing laser beams",
+    "dynamic explosion effects with scattering debris fields",
+    "comprehensive fleet command panel at the bottom-center of the screen",
+    "resource mining indicators in the top-right corner",
+    "zoom level controls in the bottom-right",
+    "vibrant nebula in the deep background",
+    "individual unit health and shield status bars above selected ships"
+  ],
+  "human_annotation": true
+}

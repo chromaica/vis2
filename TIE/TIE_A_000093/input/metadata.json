@@ -1,0 +1,25 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Expressionism",
+  "prompt": "Change the paint to watercolor. Keep the rest of the painting intact.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Convert the painting style of the abstract landscape from its current oil paint with visible impasto strokes to a watercolor painting style. Ensure the original composition, color palette, and abstract elements of the landscape remain unchanged.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Abstract landscape composition",
+    "Abstract sky",
+    "Abstract mountain range",
+    "Abstract mid-ground forms",
+    "Abstract foreground",
+    "Blue color palette",
+    "Orange color palette",
+    "Yellow color palette",
+    "Dark green/blue color palette"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

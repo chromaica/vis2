@@ -1,0 +1,23 @@
+{
+  "task": "MRIE",
+  "topic": "P",
+  "subtopic": "Wildlife & Nature Photography",
+  "prompt": "Replace the horse in the background from the third image with the horse from the second image, then replace the horse in the first image with the other horse (the one focused on the camera) from the third image. Make sure the horse in the first image is looking at the camera.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit Image 1. Replace the dark, blurred horse located in the background of Image 1 with the white dappled horse from Image 2. Subsequently, replace the prominent white horse in the foreground of Image 1 with the grey horse from Image 3 that is looking directly at the camera. Ensure the horse in the foreground of the edited Image 1 maintains its direct gaze towards the camera.",
+  "annotator": "boris",
+  "objects": [
+    "grey horse in foreground looking directly at the camera",
+    "white dappled horse in background",
+    "hay bale",
+    "snow",
+    "blue sky",
+    "blurred background trees"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,28 @@
+{
+  "subtopic": "Traditional art",
+  "prompt": "change the background of image 1 with the background of image 2 (with the exact same art style and elements e.g., sunset, forest and sky).",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "Stylized artwork examples",
+  "searchQueryGeneratedTimestamp": 1748292431534,
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1 by replacing its background. The new background should replicate the misty forest, sunset, and sky elements found within image 2, adopting the exact art style and color palette of these elements from image 2.",
+  "annotator": "kellycyy",
+  "objects": [
+    "Woman's face",
+    "Blue hair",
+    "Yellow eyes",
+    "Pink makeup",
+    "Ear",
+    "Earring",
+    "Misty forest background",
+    "Sunset background",
+    "Sky background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

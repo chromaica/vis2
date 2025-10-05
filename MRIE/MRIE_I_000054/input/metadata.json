@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "Edit image 1: Replace the woman's hair with the curly style shown in image 2. Change the background and color scheme to incorporate the pale pink from image 3, giving the banner a softer look.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the provided image 1:\n1.  Modify the woman's hairstyle by replacing her current hair, along with the hat she is wearing, with the dark, voluminous, curly style shown in image 2.\n2.  Redesign the banner's overall color scheme and background to prominently feature the pale pink color (#FADADD) from image 3. This transformation should create a softer, more pastel aesthetic throughout the banner, replacing the existing vibrant green elements.",
+  "annotator": "maxku",
+  "objects": [
+    "Woman (with sunglasses, dress, bag)",
+    "Dark, voluminous, curly hairstyle",
+    "Banner/website interface elements",
+    "Pale pink (#FADADD) banner background/color scheme",
+    "\"SPECIAL DEAL NEW STYLE HOME FASHION STORE\" text",
+    "\"SHOP NOW\" button",
+    "\"GRAPHICSFAMILY\" logo",
+    "Navigation menu",
+    "Woman's current hair (should not be present)",
+    "Woman's hat (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

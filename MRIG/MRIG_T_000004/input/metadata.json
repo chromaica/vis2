@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Generate a visual identity for an award called 'Canes Flower Gold' by blending the prestigious gold logo style of Image 1 with the minimal floral symbol in Image 2. The result should convey elegance, honor.",
+  "cond_images": [
+    "1.png",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a visual identity logo for the 'Canes Flower Gold' award. The central graphic should feature the minimalist five-petal floral symbol from Image 2, reimagined with the prestigious, polished gold metallic finish and refined aesthetic found in Image 1. This golden floral emblem should be contained within an elegant oval frame, directly inspired by the compositional style of Image 1. Place the award name 'Canes Flower Gold' in a sophisticated, all-caps serif typeface below the oval emblem, consistent with the text presentation in Image 1. The overall design must strongly convey elegance, honor, and luxury.",
+  "annotator": "parnian",
+  "objects": [
+    "minimalist five-petal floral symbol",
+    "polished gold metallic finish on floral symbol",
+    "elegant oval frame",
+    "gold metallic finish on oval frame",
+    "the text \"Canes Flower Gold\"",
+    "sophisticated, all-caps serif typeface for the text",
+    "text positioned below the oval emblem",
+    "black background",
+    "overall elegant and luxurious aesthetic",
+    "visual identity logo"
+  ]
+}

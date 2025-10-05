@@ -1,0 +1,21 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Design a logo for a pasta house restaurant by combining the cartoon pizza style from Image 1 with the appetizing spaghetti aesthetic in Image 2. The logo should feel warm, fun, and Italian-inspired.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a logo for a pasta house restaurant. The logo should depict appetizing spaghetti, similar in rich red sauce and twirled texture to Image 2, rendered entirely in the vibrant, bold-outlined cartoon style evident in Image 1. The overall design should evoke a warm, fun, and Italian-inspired atmosphere.",
+  "annotator": "parnian",
+  "objects": [
+    "Appetizing spaghetti",
+    "Rich red spaghetti sauce",
+    "Twirled spaghetti",
+    "Bold outlines",
+    "Vibrant colors",
+    "Cartoon style rendering"
+  ]
+}

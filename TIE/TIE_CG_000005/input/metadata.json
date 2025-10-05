@@ -1,0 +1,25 @@
+{
+  "subtopic": "Object detection visuals",
+  "prompt": "Above each colored bounding box, add a clear text label specifying the detected object class, such as 'person' or 'car'.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751817054653,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1. Add a clear and legible text label directly above the top edge of each colored bounding box. The label should specify the object class detected within that box. For example, label human figures as 'person' and vehicles as 'car'.",
+  "annotator": "edisy",
+  "objects": [
+    "Urban street environment",
+    "Elevated train tracks",
+    "Buildings",
+    "Multiple pedestrians",
+    "Multiple cars",
+    "Colored bounding boxes around detected objects",
+    "Text label \"person\" above corresponding bounding boxes",
+    "Text label \"car\" above corresponding bounding boxes"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "A segmentation mask of cells under a microscope, with clear boundaries marking nuclei, cytoplasm, and background.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A high-resolution segmentation mask of multiple biological cells, as viewed through a microscope. The image must clearly delineate the boundaries of each cell's nucleus, cytoplasm, and the surrounding background. Each distinct region (nuclei, cytoplasm, background) should be represented by a unique, solid color to ensure clear visual separation.",
+  "annotator": "maxku",
+  "objects": [
+    "Multiple biological cells",
+    "Cell nuclei",
+    "Cell cytoplasm",
+    "Surrounding background",
+    "Solid color for nuclei",
+    "Solid color for cytoplasm",
+    "Solid color for background",
+    "Clear boundaries between nuclei and cytoplasm",
+    "Clear boundaries between cells and background",
+    "Clear boundaries between individual cells"
+  ]
+}

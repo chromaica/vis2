@@ -1,0 +1,32 @@
+{
+  "subtopic": "Posters",
+  "prompt": "Edit image 1, the Teacher's Day poster. Adopt image 2's colorful text column layout. Use image 3's title hierarchy and add small laurel-like icons. Integrate simple educational illustrations from image 4 near relevant phrases. Apply image 5's bordered color block style to key words or details.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg",
+    "4.jpeg",
+    "5.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749712052883,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "T",
+  "prompt_refined": "Edit the poster in image 1.\nReformat the main body text into a multi-column, multi-row layout using distinct colored background blocks for each section, similar to the text arrangement in image 2. The text within these blocks should be a light color.\nApply the title hierarchy from image 3: make 'WORLD TEACHER'S DAY' a prominent central title. Above it, position 'POSTER A4 TEMPLATE' as a smaller subtitle and add small laurel-like award icons, replicating those found in image 3.\nIntegrate simple, cartoon-style educational illustrations, similar to those in image 4, next to relevant phrases within the main body text (e.g., an icon for 'tools', 'planet').\nFor the key words or details currently highlighted in image 1 (e.g., 'critical', 'learners', 'potential', 'tools', 'responsibility', 'themselves', 'others', 'planet'), replace their current highlighting with bordered color blocks. Each word should be enclosed in a block featuring a solid dark background and a distinct colored border, mirroring the visual style of image 5.",
+  "annotator": "winston",
+  "objects": [
+    "Main body text in a multi-column, multi-row layout",
+    "Distinct colored background blocks for main text sections",
+    "Light-colored text within background blocks",
+    "Prominent central title 'WORLD TEACHER'S DAY'",
+    "Smaller subtitle 'POSTER A4 TEMPLATE' positioned above the main title",
+    "Small laurel-like award icons (multiple)",
+    "Simple, cartoon-style educational illustrations (e.g., for 'tools', 'planet')",
+    "Bordered color blocks enclosing keywords ('critical', 'learners', 'potential', 'tools', 'responsibility', 'themselves', 'others', 'planet')",
+    "Solid dark background within keyword blocks",
+    "Distinct colored borders around keyword blocks"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

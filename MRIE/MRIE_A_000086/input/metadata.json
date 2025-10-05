@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Pop art",
+  "prompt": "In image 1, replace the Chrysler Building with Big Ben from image 2, and replace the yellow cab with the police car from image 3. Maintain the same color palette of image 1 when adding these new elements.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the Chrysler Building, the multi-colored building with a spire located to the right of the Statue of Liberty, with Big Ben from image 2. Replace the yellow taxi cab positioned at the bottom left of the image with the police car from image 3. Ensure that the Big Ben and the police car adopt the vibrant, pop-art color palette of image 1.",
+  "annotator": "paria",
+  "objects": [
+    "Statue of Liberty",
+    "Empire State Building",
+    "Big Ben to the right of the Statue of Liberty",
+    "Police car at the bottom left",
+    "American flag",
+    "Street signs (e.g., Times Sq-42 St Station, Broadway)",
+    "New Yorker building",
+    "Vibrant pop-art color palette",
+    "Chrysler Building (should not be present)",
+    "Yellow taxi cab (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,27 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "Generate a vibrant, textbook-style illustration of a bacterial cell, styled as a clean, 2D vector diagram. Emphasize key structures (cell wall, flagella, pili, nucleoid, and ribosomes) with clear labels in a sans-serif font. Use bold primary colors (blue, red, yellow, green) with a white background for contrast. Incorporate a slight 3D effect for depth, inspired by modern biology textbooks. Add a subtle gradient to the cytoplasm to suggest fluidity, and vary the flagella thickness to show movement. Ensure the illustration simplifies the gritty realism of the first referenced image while incorporating the colony context from the second referenced image as a faded background pattern.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a vibrant, textbook-style illustration of a single bacterial cell, presented as a clean, 2D vector diagram. Clearly depict and label the key internal and external structures: cell wall, multiple flagella, pili, nucleoid, and ribosomes, using a clear sans-serif font for all labels. The illustration should utilize a bold primary color palette (blue, red, yellow, green) for the cell components, set against a pure white background for high contrast. Incorporate a subtle 3D effect to the cell for depth, reminiscent of modern biology textbooks, intentionally simplifying the intricate, 'gritty realism' and monochrome appearance of the bacterial cell seen in image 1 into a smooth, illustrative form. Add a gentle gradient to the cytoplasm to suggest fluidity and vary the thickness of the individual flagella to imply movement. In the background, subtly integrate a faded, out-of-focus pattern derived from the aggregated microbial colony context depicted in image 2.",
+  "objects": [
+    "single bacterial cell",
+    "cell wall",
+    "multiple flagella",
+    "pili",
+    "nucleoid",
+    "ribosomes",
+    "labels (for cell wall, flagella, pili, nucleoid, ribosomes)",
+    "vibrant, bold primary color palette (on cell components)",
+    "pure white background",
+    "faded, out-of-focus microbial colony pattern (in background)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

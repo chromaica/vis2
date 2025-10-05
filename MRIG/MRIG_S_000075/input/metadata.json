@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "Generate a screenshot of an online poker game interface that integrates the poker table design from the first image with the chip set from the second image.",
+  "cond_images": [
+    "1.png",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a screenshot of an online poker game interface. The central poker table should adopt the design from image 1, featuring an oval shape, a vibrant red felt playing surface, black padded armrests, and integrated metallic cup holders. On this table, prominently display multiple stacks of poker chips that replicate the distinct colors and patterns found in image 2, specifically including blue, black, purple, lime green, and orange chips with white markings.",
+  "annotator": "paria",
+  "objects": [
+    "Online poker game interface screenshot",
+    "Central poker table",
+    "Oval poker table shape",
+    "Vibrant red felt playing surface",
+    "Black padded armrests",
+    "Integrated metallic cup holders",
+    "Multiple stacks of poker chips prominently displayed on the table",
+    "Blue poker chips with white markings",
+    "Black poker chips with white markings",
+    "Purple, lime green, and orange poker chips with white markings"
+  ]
+}

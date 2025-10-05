@@ -1,0 +1,24 @@
+{
+  "subtopic": "Depth maps",
+  "prompt": "Invert the grayscale depth map so that darker pixels represent objects closer to the camera and lighter pixels represent objects farther away.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751815818189,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1, which displays a grayscale depth map of a rabbit. Perform a color inversion on the entire image so that darker pixels represent objects closer to the camera (such as the rabbit's head and ears on the left) and lighter pixels represent objects farther away (such as the rabbit's body and tail on the right).",
+  "annotator": "edisy",
+  "objects": [
+    "Grayscale depth map",
+    "Rabbit",
+    "Rabbit's head on the left, depicted with darker grayscale values",
+    "Rabbit's ears on the left, depicted with darker grayscale values",
+    "Rabbit's body on the right, depicted with lighter grayscale values",
+    "Rabbit's tail on the right, depicted with lighter grayscale values",
+    "White background"
+  ],
+  "human_annotation": true
+}

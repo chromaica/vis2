@@ -1,0 +1,20 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Object detection visuals",
+  "prompt": "Rotate the selected objects in the reference image 90 degrees clockwise, while keeping the alignment of other elements in the scene.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Rotate the golden retriever on the left and the grey and white cat on the right, which are highlighted by bounding boxes in image 2, 90 degrees clockwise. Maintain the original position and alignment of all other scene elements, including the floor, background, and the central food bowl.",
+  "annotator": "nimajamali",
+  "objects": [
+    "golden retriever on the left",
+    "grey and white cat on the right",
+    "central food bowl",
+    "floor",
+    "background"
+  ]
+}

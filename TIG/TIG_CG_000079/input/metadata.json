@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "Depth maps",
+  "prompt": "A depth map of a sci-fi corridor, where the foreground floor and walls are bright, fading into near-black as the corridor recedes.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a grayscale depth map image of a sci-fi corridor. The foreground elements, including the floor and walls closest to the viewer, should appear in bright white. This brightness should smoothly transition, progressively darkening to near-black as the corridor extends into the distance.",
+  "annotator": "maxku",
+  "objects": [
+    "Sci-fi corridor",
+    "Grayscale image",
+    "Corridor floor",
+    "Corridor walls",
+    "Foreground elements",
+    "Distant elements",
+    "Bright white foreground",
+    "Near-black distant areas",
+    "Smooth brightness transition",
+    "Depth map style"
+  ]
+}

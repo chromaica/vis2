@@ -1,0 +1,26 @@
+{
+  "subtopic": "VFX and Particles",
+  "prompt": "Generate an image inspired by the reference: musicians performing in a room with a city view. Incorporate dynamic computer graphic VFX, like vibrant particle systems and light trails emanating from instruments, visualizing musical energy.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://uwm.edu/arts/wp-content/uploads/sites/637/2023/07/Songs-of-Work-Archive-High-Res_054.jpg",
+  "promptGeneratedTimestamp": 1748771946279,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate an image inspired by image 1, featuring a group of musicians actively performing in a modern, well-lit room with expansive windows showcasing a vibrant city skyline at dusk. Integrate dynamic computer graphic visual effects into the scene: include vibrant particle systems and luminous, flowing light trails originating specifically from the musical instruments (such as the grand piano, saxophone, and percussion instruments seen in image 1) and dispersing outwards, effectively visualizing the energetic flow of the music.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Group of musicians actively performing",
+    "Modern, well-lit room interior",
+    "Expansive windows",
+    "Vibrant city skyline at dusk",
+    "Grand piano",
+    "Saxophone",
+    "Percussion instruments (e.g., tambourine, shaker)",
+    "Vibrant particle systems",
+    "Luminous, flowing light trails",
+    "Visual effects originating from instruments and dispersing outwards"
+  ]
+}

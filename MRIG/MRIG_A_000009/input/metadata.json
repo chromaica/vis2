@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Cultural or Heritage art",
+  "prompt": "Create a cultural artwork: a scene in the style of image 2, incorporating the dragon motif from image 1, and utilizing the celadon patterns and green palette of image 3.",
+  "cond_images": [
+    "1.png",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a new image depicting a cultural artwork: a narrative scene rendered in the traditional Japanese *yamato-e* painting style, reminiscent of image 2's composition and muted aesthetic. Integrate a prominent, dynamically posed dragon as a central element, its intricate golden scales, vibrant red fins, and green accents directly inspired by the dragon in image 1. The overall color scheme should prominently feature the specific pale celadon green palette of image 3. Additionally, subtly embed the distinctive white crane-and-cloud circular patterns from image 3 onto background elements like screens, walls, or garments within the scene.",
+  "annotator": "samin",
+  "objects": [
+    "Traditional Japanese *yamato-e* painting style",
+    "Narrative scene",
+    "Indoor setting with elements like screens or walls",
+    "Muted aesthetic",
+    "Prominent, dynamically posed dragon",
+    "Dragon with intricate golden scales",
+    "Dragon with vibrant red fins and green accents",
+    "Overall pale celadon green color palette",
+    "White crane-and-cloud circular patterns",
+    "Patterns embedded on background elements like screens, walls, or garments"
+  ]
+}

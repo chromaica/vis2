@@ -1,0 +1,26 @@
+{
+  "task": "SRIG",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "make a meme with the text : 'Make a profitable startups' in the left uno card (keep the original text 'draw 25 or' intact) and add a caption on the forehead of the man saying 'SV tech bros'",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "if you think the text is in the right place give me it full marks",
+  "prompt_refined": "Generate an image based on image 1. Modify the Uno card in the left part of the image by adding the text 'Make a profitable startups' to the large blank space, keeping the original 'OR draw 25' text intact below it. Additionally, superimpose the text 'SV tech bros' onto the forehead of the man in the right part of the image.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Uno card in the left part of the image",
+    "Text \"Make a profitable startups\" on the Uno card",
+    "Text \"OR draw 25\" on the Uno card",
+    "Hand holding the Uno card",
+    "Man in the right part of the image",
+    "Text \"SV tech bros\" on the man's forehead",
+    "Uno cards in the man's hand",
+    "Can of soda on the table",
+    "Table",
+    "Other Uno cards on the table"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

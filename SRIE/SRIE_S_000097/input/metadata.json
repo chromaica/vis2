@@ -1,0 +1,21 @@
+{
+  "subtopic": "Receipts",
+  "prompt": "Transform the scanned receipt in image 1 into a digital list entry, updating the date to reflect November 2023 and adopting the clean digital text style and layout exemplified by the entries in image 2.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751179357764,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit image 1, the scanned receipt, by transforming its content and style into a single digital list entry. Adopt the clean, minimalist text style, font, and compact layout seen in the individual receipt entries of image 2, such as 'Receipt 11' with '8 Nov 2023'. Specifically, replace the current date '02/02/2014' with '8 Nov 2023' or a similar date within November 2023. The edited image should concisely represent a list item, similar to those found under the 'November 2023' heading in image 2, including a right-aligned arrow icon.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Receipt title text (e.g., \"Receipt 11\")",
+    "Date text (e.g., \"8 Nov 2023\")",
+    "Right-aligned arrow icon",
+    "Horizontal divider line"
+  ]
+}

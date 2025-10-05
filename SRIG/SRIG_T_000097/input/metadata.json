@@ -1,0 +1,20 @@
+{
+  "task": "SRIG",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "Create a poster for this character. The poster should indicate the character's name, Judy, and include the name of the movie, 'Zootopia'.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "annotator": "donaldtsang",
+  "prompt_refined": "Generate a movie poster prominently featuring the character Judy Hopps, as depicted in image 1 in her police uniform and dynamic running pose. Clearly display the character's name \"Judy\" near her. Additionally, include the movie title \"Zootopia\" at the bottom of the poster.",
+  "objects": [
+    "Judy Hopps character",
+    "Police uniform (on Judy Hopps)",
+    "Dynamic running pose (of Judy Hopps)",
+    "Text: \"Judy\" (near Judy Hopps)",
+    "Text: \"Zootopia\" (at the bottom of the poster)",
+    "Movie poster background (implied environment for a Zootopia poster)"
+  ]
+}

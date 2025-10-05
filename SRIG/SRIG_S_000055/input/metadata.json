@@ -1,0 +1,24 @@
+{
+  "subtopic": "Websites",
+  "prompt": "Generate a mobile-first UI for the provided desktop website screenshot, reorganizing the layout to follow Android's Material Design principles strictly.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "https://www.newscaststudio.com/wp-content/uploads/2009/10/cnndotcompart.jpg",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a mobile-first user interface (UI) for a news application by completely reorganizing the layout and content from the desktop website screenshot in image 1, strictly following Android's Material Design principles.\n\nThe new mobile UI should feature:\n- A Material Design Top App Bar prominently displaying the \"CNN\" logo, with a hamburger menu icon on the left for primary navigation (e.g., Home, Video, U.S., World), and a search icon on the right.\n- A single, vertically scrollable content column that adapts the multi-column layout of image 1.\n- Major news stories, such as \"Thousands ordered to flee California wildfire\" and \"Latino in America: Meet the Garcias,\" presented as distinct Material Design cards or large list items, including their respective images and headlines.\n- The \"Top stories\" and \"FEATURES\" sections from image 1 transformed into scrollable horizontal lists of smaller Material Design cards or compact list items.\n- The \"NEWSPULSE Local Weather & News\" section integrated as a dedicated Material Design card within the main content stream.\n- The user profile (\"Hi, James!\") should be accessible through the main navigation.\n- Consistent Material Design typography (e.g., Roboto), color palette (maintaining CNN's red as a primary accent), spacing, and elevation should be applied throughout. Omit the advertisement present in image 1.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Material Design Top App Bar",
+    "\"CNN\" logo in the Top App Bar",
+    "Hamburger menu icon on the left in the Top App Bar",
+    "Search icon on the right in the Top App Bar",
+    "Material Design card with image and headline for \"Thousands ordered to flee California wildfire\"",
+    "Material Design card with image and headline for \"Latino in America: Meet the Garcias\"",
+    "Horizontal scrollable list of Material Design cards for \"Top stories\"",
+    "Horizontal scrollable list of Material Design cards for \"FEATURES\"",
+    "Material Design card for \"NEWSPULSE Local Weather & News\"",
+    "Advertisement (should not be present)"
+  ]
+}

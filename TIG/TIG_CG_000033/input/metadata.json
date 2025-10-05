@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "A ground-truth label map of an intersection, showing boundaries between vehicles, crosswalks, road signs, trees, and sky.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a ground-truth label map of an urban intersection. The map must distinctly show boundaries and regions for vehicles, crosswalks, road signs, trees, and sky, with each category represented by a flat, uniform color.",
+  "annotator": "maxku",
+  "objects": [
+    "regions for vehicles",
+    "regions for crosswalks",
+    "regions for road signs",
+    "regions for trees",
+    "regions for sky",
+    "regions for road surface",
+    "regions for sidewalks",
+    "regions for urban buildings"
+  ],
+  "human_annotation": true
+}

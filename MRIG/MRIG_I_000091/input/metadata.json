@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Generate a decision tree for recommending high school courses based on career interest. Use Image 1\u20133 as icons for the final outcomes. Branch through prompts like \u201cAre you interested in healthcare?\u201d, \u201cDo you enjoy problem solving or public speaking?\u201d, etc. Use academic-style visuals.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "annotator": "matina",
+  "prompt_refined": "Generate an academic-style decision tree graphic for recommending high school courses based on career interest. The tree should start at the top and branch downwards.\n\nThe initial decision node should pose the question: 'Are you interested in healthcare?'.\n*   One branch, representing 'Yes' to healthcare, should lead to a terminal node displaying Image 1 (a doctor icon) for healthcare-related career outcomes.\n*   The other branch, representing 'No' to healthcare, should then present a subsequent decision node with the question: 'Do you enjoy problem solving or public speaking?'.\n    *   From this node, a branch for 'Problem Solving' should lead to a terminal node displaying Image 2 (a programmer icon) for problem-solving/tech careers.\n    *   A separate branch for 'Public Speaking' should lead to a terminal node displaying Image 3 (an advocate/speaker icon) for public speaking/law careers.\n\nAll text, including questions and labels, must be clear and legible. The overall visual style should be clean and professional, resembling an educational infographic.",
+  "objects": [
+    "Academic-style decision tree graphic",
+    "Decision node with question: 'Are you interested in healthcare?'",
+    "Branch labels: 'Yes', 'No', 'Problem Solving', 'Public Speaking'",
+    "Doctor icon",
+    "Terminal node text: 'healthcare-related career outcomes'",
+    "Decision node with question: 'Do you enjoy problem solving or public speaking?'",
+    "Programmer icon",
+    "Terminal node text: 'problem-solving/tech careers'",
+    "Advocate/speaker icon",
+    "Terminal node text: 'public speaking/law careers'"
+  ]
+}

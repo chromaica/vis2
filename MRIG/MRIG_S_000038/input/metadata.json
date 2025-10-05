@@ -1,0 +1,24 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Generate a screenshot of a video conferencing app where the two friends from the reference images are in a video call interface.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a realistic full-screen screenshot of a modern video conferencing application interface. The primary video panel, on the left side of the screen, should feature the individual from image 1 (Dwayne 'The Rock' Johnson), engaged and smiling. In the top-right corner, a smaller secondary video panel should display the individual from image 2 (Brad Pitt), also with a friendly expression. The overall composition should depict two friends in an active video call, complete with typical video conferencing UI elements like mute/unmute buttons, camera toggles, and call controls at the bottom of the screen.",
+  "annotator": "paria",
+  "objects": [
+    "Full-screen screenshot",
+    "Modern video conferencing interface",
+    "Primary video panel on the left side",
+    "Dwayne 'The Rock' Johnson (engaged and smiling)",
+    "Smaller secondary video panel in the top-right corner",
+    "Brad Pitt (with a friendly expression)",
+    "Mute/unmute buttons at the bottom of the screen",
+    "Camera toggles at the bottom of the screen",
+    "Call controls at the bottom of the screen"
+  ]
+}

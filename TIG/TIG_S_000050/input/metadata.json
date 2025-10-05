@@ -1,0 +1,23 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "A faded, handwritten receipt stub from a Nairobi matatu (public minibus), issued from \u201cCity Shuttle Ltd\u201d. Fare: KSh 80.00. Passenger Name: Juma Otieno. Route: CBD to Rongai. The receipt is printed on thin carbon paper and features a faint blue official stamp and handwritten time '17:45'. It's held in a pocket-sized logbook with scuffed pages, captured in natural dusty evening light.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate an image of a faded, handwritten receipt stub. This receipt, from a Nairobi matatu ('City Shuttle Ltd'), is printed on thin carbon paper and displays the text: 'Fare: KSh 80.00', 'Passenger Name: Juma Otieno', and 'Route: CBD to Rongai'. It also features a faint blue official stamp and the handwritten time '17:45'. The receipt is held inside a pocket-sized logbook with scuffed pages, illuminated by natural, dusty evening light.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Faded receipt stub",
+    "Text 'City Shuttle Ltd' on receipt",
+    "Text 'Fare: KSh 80.00' on receipt",
+    "Text 'Passenger Name: Juma Otieno' on receipt",
+    "Text 'Route: CBD to Rongai' on receipt",
+    "Faint blue official stamp on receipt",
+    "Handwritten '17:45' on receipt",
+    "Pocket-sized logbook",
+    "Scuffed pages of logbook",
+    "Natural, dusty evening light"
+  ],
+  "human_annotation": true
+}

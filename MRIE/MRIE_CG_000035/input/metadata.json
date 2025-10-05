@@ -1,0 +1,26 @@
+{
+  "subtopic": "UI Design or Stylized Rendering",
+  "prompt": "Edit image 1 by replacing the content on the laptop screen with the vibrant 3D UI elements and icons seen in image 2, and change the background to a realistic wooden desk surface with the moody lighting and atmosphere from image 3.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748455520520,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1: Replace the content on the laptop screen with the vibrant, three-dimensional user interface (UI) elements and application icons (like the message bubble, gear, and envelope) from image 2. Transform the background into a realistic dark wooden desk surface, adopting the rich, ambient, and subtly moody lighting and shadow atmosphere from image 3.",
+  "annotator": "winston",
+  "objects": [
+    "Cartoon girl with red hair and glasses",
+    "Laptop",
+    "Vibrant, three-dimensional user interface (UI) on the laptop screen",
+    "Message bubble icon on the laptop screen",
+    "Gear icon on the laptop screen",
+    "Envelope icon on the laptop screen",
+    "Realistic dark wooden desk surface (as background)",
+    "Rich, ambient, and subtly moody lighting and shadow atmosphere"
+  ]
+}

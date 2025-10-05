@@ -1,0 +1,26 @@
+{
+  "subtopic": "Facial estimation and analysis",
+  "prompt": "Generate a computer graphics visualization of facial analysis inspired by the reference. Overlay facial landmark points, text data (gender, age), and an emotion bar graph onto a new portrait image.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Visage_Technologies_Face_Tracking_and_Analysis.png",
+  "promptGeneratedTimestamp": 1748768497628,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a new human portrait image with a computer graphics facial analysis visualization overlaid. On the face, precisely position small, light blue filled circular facial landmark points with thin darker blue outlines, connected by fine white lines to form contours around the eyebrows, eyes, nose, and mouth. A slender green vertical line should extend upwards from the nose area, intersected by a slender red horizontal line. In the lower-right portion of the image, overlay a translucent rectangular panel with a light blue tint, similar to image 1. Inside this panel, display white sans-serif text \"GENDER: FEMALE, 31\" at the top. Below this text, include an emotion bar graph featuring categories \"Anger\", \"Disgust\", \"Fear\", \"Happiness\", \"Sadness\", and \"Surprise\". Each category should have a short, dark blue horizontal bar indicating intensity, with the \"Happiness\" bar significantly longer and more prominent, mirroring the data representation in image 1.",
+  "annotator": "ishengfang",
+  "objects": [
+    "human portrait",
+    "small, light blue filled circular facial landmark points with thin darker blue outlines",
+    "fine white lines connecting facial landmark points to form contours around eyebrows, eyes, nose, and mouth",
+    "slender green vertical line extending upwards from the nose area",
+    "slender red horizontal line intersecting the green vertical line",
+    "translucent rectangular panel with a light blue tint in the lower-right portion of the image",
+    "white sans-serif text \"GENDER: FEMALE, 31\" inside the panel",
+    "emotion bar graph structure with categories: \"Anger\", \"Disgust\", \"Fear\", \"Happiness\", \"Sadness\", \"Surprise\"",
+    "short, dark blue horizontal bars for emotion intensity",
+    "significantly longer and more prominent dark blue horizontal bar for \"Happiness\""
+  ]
+}

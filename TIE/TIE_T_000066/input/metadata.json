@@ -1,0 +1,18 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "keep the text as it is, but rotate the pencile 180 degree, in a way the earasor be at the bottom and the pencil part at top.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Rotate the pencil 180 degrees vertically. The eraser, currently positioned at the top, should move to the bottom, and the sharpened tip, currently at the bottom, should move to the top. The 'Draw More' text must remain exactly as it is, maintaining its current appearance and position.",
+  "annotator": "matina",
+  "objects": [
+    "pencil with sharpened tip at the top",
+    "pencil with eraser at the bottom",
+    "\"Draw More\" text formed by the pencil, maintaining its original appearance and position",
+    "dark patterned background"
+  ]
+}

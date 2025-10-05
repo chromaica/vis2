@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Pop art",
+  "prompt": "In the first image, replace the donut with the hamburger from the second image, and replace the lips in the top right with the lips from the third image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the artwork in image 1. Replace the purple donut Homer is holding with the hamburger from image 2. Additionally, replace the large red lips with the extended tongue in the top-right corner with the red lips from image 3.",
+  "annotator": "paria",
+  "objects": [
+    "Homer Simpson",
+    "hamburger",
+    "red lips (from image 3)",
+    "purple donut (should not be present)",
+    "large red lips with extended tongue (should not be present)",
+    "McDonalds logo",
+    "Krispy Kreme logo",
+    "Starbucks logo",
+    "Burger Chef logo",
+    "Collage artwork background"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "task": "MRIG",
+  "topic": "I",
+  "subtopic": "Visual instructions and manuals",
+  "prompt": "Generate a visual guide showing the correct vs. incorrect way to treat a nosebleed using Image 1 and Image 2.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "annotator": "matina",
+  "prompt_refined": "Generate a visual guide illustrating the correct and incorrect ways to treat a nosebleed. On the left side, depict the *correct* method, showing a person leaning slightly forward with their head tilted down while pinching their nose, consistent with the posture in Image 1. On the right side, depict the *incorrect* method, showing a person leaning their head backward while pinching their nose, consistent with the posture in Image 2. Clearly label the left illustration 'Correct' and the right illustration 'Incorrect'. The overall visual style should be a clean, informational illustration.",
+  "objects": [
+    "Person on the left side, leaning slightly forward with head tilted down, pinching nose.",
+    "Visual indication of a nosebleed on the person on the left.",
+    "Label 'Correct' on the left side.",
+    "Person on the right side, leaning head backward, pinching nose.",
+    "Label 'Incorrect' on the right side.",
+    "Clean, informational illustration style."
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

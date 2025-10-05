@@ -1,0 +1,18 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "VFX and Particles",
+  "prompt": "A sci-fi shield impact, with shimmering particles and forcefield ripples.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A dynamic close-up of a translucent sci-fi energy shield absorbing a high-impact strike. From the central point of impact, vibrant, shimmering particles explode outward in a radial burst. Simultaneously, translucent, concentric forcefield ripples rapidly expand across the shield's surface, subtly distorting the background behind it.",
+  "annotator": "maxku",
+  "objects": [
+    "translucent sci-fi energy shield",
+    "central point of impact",
+    "vibrant, shimmering particles exploding outward in a radial burst",
+    "translucent, concentric forcefield ripples expanding across the shield's surface",
+    "background behind the shield",
+    "subtly distorted background"
+  ]
+}

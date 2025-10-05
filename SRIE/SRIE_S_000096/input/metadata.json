@@ -1,0 +1,28 @@
+{
+  "subtopic": "Software interfaces",
+  "prompt": "Transform the graphical app display grid in Image 1 into a text-based list format with a dark terminal background, adopting the command-line interface style including font and colors from Image 2.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751179324583,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit Image 1. Transform the entire graphical app display grid, encompassing both the 'Top free' and 'Top paid apps' sections, into distinct text-based lists. Each list should replace its corresponding graphical app section, adopting the visual style of a command-line interface. This transformation must mirror the dark terminal background, the monospace font, and the green text colors observed in Image 2. Ensure that the app entries are presented as clear, concise text items within these new list formats, appearing against the new dark background.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Microsoft Store application window",
+    "Microsoft Store search bar",
+    "Left navigation sidebar",
+    "Bottom status bar/toolbar",
+    "\"Top free\" section heading",
+    "\"Top paid apps\" section heading",
+    "Dark terminal-style background (within the app display areas)",
+    "Green, monospace text list for 'Top free' app entries",
+    "Green, monospace text list for 'Top paid apps' entries"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

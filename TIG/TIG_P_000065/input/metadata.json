@@ -1,0 +1,19 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Medical images",
+  "prompt": "An X-ray image of a human chest cavity displaying organs, ribs, and spine with clear definition, highlighting the heart and lungs in focus.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a high-definition X-ray image of a human chest cavity, clearly displaying the ribs, spine, and internal organs. The heart and lungs should be prominently highlighted and in sharp focus.",
+  "annotator": "cwhsu",
+  "objects": [
+    "high-definition X-ray image style",
+    "human chest cavity",
+    "ribs",
+    "spine",
+    "internal organs (general)",
+    "heart (prominently highlighted and in sharp focus)",
+    "lungs (prominently highlighted and in sharp focus)"
+  ]
+}

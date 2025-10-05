@@ -1,0 +1,28 @@
+{
+  "subtopic": "Websites",
+  "prompt": "Edit image 1: Apply the vibrant, illustrated header graphic style from image 2 to the main hero section. Replace the current gradient background and text with a similar illustration promoting website creation instead of trails.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751013516489,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit image 1: Replace the gradient background and all accompanying text (including 'AI WEBSITE BUILDER', 'Experience site creation like never before', and 'Get a unique, business-ready website...') within the main hero section of image 1 with a new, vibrant illustration. This illustration should emulate the abstract, geometric, and colorful graphic style of the header image found in image 2. The content of the new illustration should visually promote 'website creation' (e.g., stylized web interfaces, code snippets, digital icons) instead of outdoor trails. The 'Create with AI' button should be visually integrated and clearly positioned within or overlaid on this new illustrative background, maintaining its original functionality.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Top navigation bar (Wix logo, menu items, Log In button, Get Started button, globe icon)",
+    "New vibrant illustration in abstract, geometric, and colorful graphic style",
+    "Stylized web interfaces within the illustration",
+    "Code snippets within the illustration",
+    "Digital icons within the illustration",
+    "'Create with AI' button",
+    "Gradient background (should not be present)",
+    "'AI WEBSITE BUILDER' text (should not be present)",
+    "'Experience site creation like never before' text (should not be present)",
+    "'Get a unique, business-ready website...' text (should not be present)"
+  ],
+  "human_annotation": true
+}

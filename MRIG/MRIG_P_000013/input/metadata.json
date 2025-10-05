@@ -1,0 +1,22 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Redesign a medieval crown from the first reference Image into a futuristic neural interface headpiece. Preserve the jewel placements and gold filigree, but incorporate the glowing circuitry and minimalist design from the second reference image. The crown pulses with bioluminescent lights.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic image of a futuristic neural interface headpiece. This headpiece should be a transformation of the medieval crown depicted in image 1, retaining its overall silhouette, the distinctive spire-like forms (original jewel placements), and the intricate gold filigree pattern visible along its base. Integrate the exposed, glowing circuitry and the sleek, minimalist design aesthetic from the neural interface shown in image 2. The finished headpiece should pulse with dynamic bioluminescent lights.",
+  "objects": [
+    "Futuristic neural interface headpiece",
+    "Medieval crown overall silhouette (for the headpiece)",
+    "Spire-like forms (on the headpiece)",
+    "Intricate gold filigree pattern (on the headpiece base)",
+    "Exposed, glowing circuitry",
+    "Sleek, minimalist design aesthetic (for the headpiece)",
+    "Pulsing dynamic bioluminescent lights"
+  ]
+}

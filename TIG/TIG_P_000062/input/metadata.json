@@ -1,0 +1,17 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "An image of a black hole, depicted as a dark sphere surrounded by a glowing accretion disk of spiraling matter and light bending through space.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic image of a solitary, perfectly dark spherical black hole. It is intensely encircled by a vibrant, superheated accretion disk of rapidly spiraling matter. Show light from distant stars and galaxies dramatically bending and distorting around the black hole's event horizon, set against the backdrop of deep space.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Solitary, perfectly dark, spherical black hole",
+    "Vibrant, superheated, rapidly spiraling accretion disk (encircling the black hole)",
+    "Light from distant stars (bending and distorting)",
+    "Light from distant galaxies (bending and distorting)",
+    "Deep space backdrop"
+  ]
+}

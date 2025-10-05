@@ -1,0 +1,25 @@
+{
+  "subtopic": "Websites",
+  "prompt": "Take this news website screenshot and present its content as a page from a vintage newspaper, with columns, serif fonts, and monochrome photos.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://cdn.mos.cms.futurecdn.net/QkNvAURUBt73J26LnVjjc4.png",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a vintage newspaper page by reinterpreting the content and layout from image 1. The page must adhere to a classic monochrome newspaper aesthetic, featuring multiple columns of text, and all headlines and body text rendered in serif fonts. Convert all images present in image 1, including the large rectangular meeting photo and the smaller circular profile pictures, into monochrome (black and white or sepia-toned) illustrations or photographs, integrated naturally within the newspaper's column structure. The primary 'Ukraine war live' article from image 1 should maintain its prominence. A vintage newspaper masthead, conceptually similar to 'The Guardian' logo in image 1, should be positioned at the top of the page.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Vintage newspaper masthead at the top of the page",
+    "Monochrome illustration or photograph of the large meeting",
+    "Monochrome illustration or photograph of the crowd profile picture",
+    "Monochrome illustration or photograph of Andy Beckett's profile picture",
+    "Monochrome illustration or photograph of the hand with snail profile picture",
+    "Monochrome illustration or photograph of the man with saucepan profile picture",
+    "Multiple columns of text",
+    "Headlines rendered in serif fonts",
+    "Body text rendered in serif fonts",
+    "Prominent 'Ukraine war live' article content"
+  ],
+  "human_annotation": true
+}

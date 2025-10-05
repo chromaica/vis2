@@ -1,0 +1,25 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "make the street photograph looks like its taken in ochard road singapore",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Transform the depicted street scene to resemble Orchard Road, Singapore. Replace all specific Korean text and local signage with English or international commercial branding. Modify the architectural style of the buildings along the street to feature modern, sleek, and upscale shopping mall facades, distinct from the current dense, vertically stacked signs. Integrate elements of wider, cleaner pedestrian areas and lush urban greenery characteristic of Orchard Road, while maintaining the busy, photorealistic street ambiance.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Modern, sleek, and upscale shopping mall facades",
+    "English or international commercial branding",
+    "Wider pedestrian areas",
+    "Cleaner pedestrian areas",
+    "Lush urban greenery",
+    "Busy street ambiance with people",
+    "Photorealistic style",
+    "Specific Korean text (should not be present)",
+    "Local signage (should not be present)",
+    "Dense, vertically stacked signs (should not be present)"
+  ],
+  "human_annotation": true
+}

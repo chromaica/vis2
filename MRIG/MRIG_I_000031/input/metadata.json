@@ -1,0 +1,31 @@
+{
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Generate a chart using the opposing series structure from image 1, showing positive and negative values. Represent the data using lines, in the style of the line chart from image 2. Incorporate the clean background and grid lines from image 2, with a title and legend.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "Diagrams Charts Graphs Examples",
+  "searchQueryGeneratedTimestamp": 1752242233060,
+  "promptGeneratedTimestamp": 1752242332789,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "I",
+  "annotator": "htwong",
+  "prompt_refined": "Generate an information graphic. Create a diverging line chart with two distinct series. One series should represent positive values, extending upwards from a central horizontal axis. The second series should represent negative values, extending downwards from the same central horizontal axis. This bi-directional structure should visually echo the opposing series concept shown in image 1. Render both lines using the clean, minimalist style of the line chart from image 2, including similar line thickness and overall aesthetic. Integrate the subtle light grey plotting area background and faint horizontal grid lines observed in image 2. Ensure the chart includes a clear title positioned at the top and a concise legend identifying both series.",
+  "objects": [
+    "Diverging line chart structure",
+    "Two distinct line series (one extending upwards from the central axis, one extending downwards)",
+    "Central horizontal axis",
+    "Clean, minimalist style for lines (including similar line thickness)",
+    "Subtle light grey plotting area background",
+    "Faint horizontal grid lines",
+    "Clear title positioned at the top",
+    "Concise legend identifying both series",
+    "Vertical axis with labels",
+    "Horizontal axis with labels"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

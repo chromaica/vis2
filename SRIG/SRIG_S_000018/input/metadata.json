@@ -1,0 +1,29 @@
+{
+  "subtopic": "Websites",
+  "prompt": "Generate a screenshot of a project page with card views for a minimalist personal portfolio website like the reference image. You should use the dark theme instead.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://deifkwefumgah.cloudfront.net/screenshots/thumbnail/alshedivat-al-folio-thumbnail-2x.webp",
+  "searchQueryGenerated": "Clean modern website screenshot examples",
+  "searchQueryGeneratedTimestamp": 1749422207123,
+  "promptGeneratedTimestamp": 1749422314965,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a screenshot of a minimalist personal portfolio website's project page. The page should primarily display a grid of project cards, each containing a project title, a thumbnail image, and a brief description. Unlike image 1, this page must utilize a dark theme, featuring a dark background with light text and UI elements, while still maintaining the clean, simple layout and overall structure (header at top, main content area, footer at bottom) reminiscent of image 1.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Website screenshot",
+    "Dark theme background",
+    "Light text",
+    "Light UI elements",
+    "Header at top",
+    "Grid of project cards",
+    "Project title on each card",
+    "Thumbnail image on each card",
+    "Brief description on each card",
+    "Footer at bottom"
+  ],
+  "human_annotation": true
+}

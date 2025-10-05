@@ -1,0 +1,30 @@
+{
+  "subtopic": "Websites",
+  "prompt": "Edit image 1: Apply the dark background color and the style of the large, centered headline text from image 2's main section to the hero section in image 1, changing its visual design.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "High quality website screenshot",
+  "searchQueryGeneratedTimestamp": 1751004625772,
+  "promptGeneratedTimestamp": 1751004655296,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit image 1. In the hero section (the top portion with the woman and main text), apply the dark blue-black background color and the prominent headline text style from the main content area of image 2. Specifically, transform the existing headlines 'iScripts MultiCart' and 'Multi-Vendor Shopping Cart' in image 1 to be large, bold, white, and horizontally centered, similar to 'The world's easiest design maker' in image 2.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Dark blue-black background in the hero section",
+    "'iScripts MultiCart' text (large, bold, white, horizontally centered)",
+    "'Multi-Vendor Shopping Cart' text (large, bold, white, horizontally centered)",
+    "Woman in hero section (should not be present)",
+    "\"iscripts.com\" logo",
+    "Top navigation links (PRODUCTS, SERVICES, SHOWCASE, SUPPORT, CONTACT US, BLOG, COMPANY, LOGIN)",
+    "Search icon",
+    "Sub-text: \"MultiCart is a unique multi-vendor shopping cart software that allows you to easily create your own e-commerce marketplace with multiple vendors in the backend, similar to Etsy or Amazon Marketplace.\"",
+    "\"View Details\" button",
+    "Lower content section with icons and statistics (e.g., \"15 Years in Business\", \"150+ Engineers Working\", etc.)"
+  ],
+  "human_annotation": true
+}

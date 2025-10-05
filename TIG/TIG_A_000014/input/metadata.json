@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "A robotic hummingbird hovering over crystalline flowers, surrounded by shimmering digital sparkles in a virtual garden.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A highly detailed metallic robotic hummingbird, with subtle internal glows, hovers elegantly above a cluster of luminous, multifaceted crystalline flowers. The scene is set within a vibrant virtual garden, featuring futuristic glowing flora and geometric structures in the background. Shimmering, bright digital sparkles and ethereal glowing particles are abundant throughout the foreground and midground, enveloping the hummingbird and flowers.",
+  "annotator": "cwhsu",
+  "objects": [
+    "highly detailed metallic robotic hummingbird with subtle internal glows",
+    "cluster of luminous, multifaceted crystalline flowers",
+    "vibrant virtual garden setting",
+    "futuristic glowing flora in the background",
+    "geometric structures in the background",
+    "shimmering, bright digital sparkles in the foreground and midground",
+    "ethereal glowing particles in the foreground and midground"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

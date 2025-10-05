@@ -1,0 +1,26 @@
+{
+  "task": "SRIE",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Apply the oil painting style from the reference image to the source photograph, transforming the photograph into a stylized painting with similar textures and tones.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the photorealistic portrait of a woman, by applying the oil painting style from image 2. Transform image 1 into a stylized painting, incorporating the visible, thick impasto brushstrokes and the vibrant, expressive tonality characteristic of image 2, while maintaining the original subject and composition of image 1.",
+  "annotator": "nimajamali",
+  "objects": [
+    "Portrait of a woman",
+    "Straw hat",
+    "Woman's blue eyes",
+    "Woman's freckles",
+    "Red/orange top/dress",
+    "Hoop earring",
+    "Visible, thick impasto brushstrokes",
+    "Vibrant, expressive colors",
+    "Stylized painting appearance",
+    "Blurry background"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,23 @@
+{
+  "subtopic": "Depth maps",
+  "prompt": "Generate a photorealistic image using this depth map, depicting a computer desk scene with a monitor, speaker, and cables, rendered with realistic lighting based on the geometry.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://i.redd.it/use-marigold-an-sd-based-depth-map-generator-to-add-cgi-v0-kuvxt5jxtj5c1.png?width=724&format=png&auto=webp&s=63048d39d5020c7990d412683f398ea78c589693",
+  "promptGeneratedTimestamp": 1748772115649,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a photorealistic image from the provided depth map (image 1), depicting a computer desk setup. The scene should include a flat-screen monitor on the left side of the desk, a large rectangular speaker on the right side, and various cables trailing across the desk surface and hanging in the foreground. Render the image with realistic lighting that accurately reflects the geometry defined by image 1.",
+  "annotator": "ishengfang",
+  "objects": [
+    "computer desk",
+    "flat-screen monitor on the left side of the desk",
+    "large rectangular speaker on the right side of the desk",
+    "cables trailing across the desk surface",
+    "cables hanging in the foreground",
+    "realistic lighting"
+  ],
+  "human_annotation": true
+}

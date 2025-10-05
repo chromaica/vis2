@@ -1,0 +1,24 @@
+{
+  "subtopic": "Object detection visuals",
+  "prompt": "Change the color of the object detection bounding boxes and labels. Make cars and buses green, persons red, and the traffic light cyan.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751817325451,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1 by recoloring the existing object detection bounding boxes and their associated text labels. Change all 'car' and 'bus' bounding boxes and labels to green. Change all 'person' bounding boxes and labels to red. Change the 'traffic light' bounding box and label to cyan.",
+  "annotator": "edisy",
+  "objects": [
+    "City street",
+    "Buildings",
+    "Sky",
+    "Cars with green bounding boxes and labels",
+    "Bus with a green bounding box and label",
+    "Persons with red bounding boxes and labels",
+    "Traffic light with a cyan bounding box and label",
+    "Handbag with a green bounding box and label"
+  ]
+}

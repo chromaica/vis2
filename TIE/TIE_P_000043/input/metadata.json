@@ -1,0 +1,21 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "make the photo like its taken at midnight, with galaxy visible in the center",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "the moon should be in a different position?",
+  "prompt_refined": "Edit image 1. Transform the scene to portray a deep midnight ambiance. Significantly darken the sky and landscape, adjusting the lighting and colors to reflect a true night setting. In the central upper portion of the sky, directly above the tree, make a vibrant, photorealistic galaxy (Milky Way) clearly visible.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Deep midnight sky",
+    "Darkened landscape",
+    "Central tree",
+    "Grassy field",
+    "Vineyard rows",
+    "Vibrant, photorealistic galaxy (Milky Way) in the central upper sky, directly above the tree",
+    "Moon (should not be present)"
+  ]
+}

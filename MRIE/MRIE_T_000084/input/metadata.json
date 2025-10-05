@@ -1,0 +1,29 @@
+{
+  "subtopic": "Memes",
+  "prompt": "Edit image 1 (MEMES balloons): Add a top meme caption in the style of image 2 and a bottom caption like image 3. Include a graphic element related to image 4's pie chart theme. Apply image 5's vibrant, illustrative style and patterns to the background.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg",
+    "4.jpeg",
+    "5.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749711512876,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "T",
+  "prompt_refined": "Edit image 1 by applying multiple referenced elements to transform its background and add captions.\n\n1.  **Top Caption:** Add the text \"When u meet his mom and she says \"oh so you're the girl he's always on FaceTime with\" but you got an android\" centered above the 'MEMES' balloon text. The text should replicate the black sans-serif font and clean, simple styling observed in image 2.\n2.  **Bottom Caption:** Add the text \"Well yes, but actually no\" centered below the 'MEMES' balloon text. The text should mimic the bold, rounded, yellow-green font style, including any subtle outline or shadow, as seen in image 3.\n3.  **Graphic Element:** Integrate a distinct graphic element into the background, specifically in the lower-right area. This element should be a pie chart inspired by image 4, clearly showing a large blue section and a small yellow section to visually represent its theme.\n4.  **Background Style:** Replace the current background with a vibrant and illustrative design, drawing inspiration from image 5. Incorporate colorful patterns such as hearts, stars, dots, and concentric shapes to match the playful, cartoon-like aesthetic of image 5.",
+  "annotator": "winston",
+  "objects": [
+    "\"MEMES\" balloon text",
+    "Top caption: \"When u meet his mom and she says \"oh so you're the girl he's always on FaceTime with\" but you got an android\" (black sans-serif font)",
+    "Bottom caption: \"Well yes, but actually no\" (bold, rounded, yellow-green font with outline/shadow)",
+    "Pie chart with large blue section and small yellow section, in the lower-right area",
+    "Vibrant, illustrative background",
+    "Colorful background patterns (hearts)",
+    "Colorful background patterns (stars)",
+    "Colorful background patterns (dots)",
+    "Colorful background patterns (concentric shapes)"
+  ]
+}

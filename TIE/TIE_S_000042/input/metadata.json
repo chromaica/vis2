@@ -1,0 +1,22 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Change the graph's style from Microsoft Excel to Apple Numbers.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Redesign the visual style of both charts within the screenshot to match the aesthetic of Apple Numbers charts. Ensure the updated charts feature a clean, modern appearance with a refined color palette, simplified gridlines, and clear typography, while preserving all original data and chart types.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Data table with 'Min', 'Span', 'Max' columns and 'eng 1' through 'eng 6' rows",
+    "Stacked bar chart (top right)",
+    "Waterfall chart (bottom right)",
+    "Chart Title text",
+    "X-axis labels (eng 1, eng 2, eng 3, eng 4, eng 5, eng 6) for both charts",
+    "Y-axis labels (numerical values like 0, 20k, ..., 120k) for both charts",
+    "Stacked bar chart legend (Min, Span)",
+    "Simplified gridlines within both charts"
+  ]
+}

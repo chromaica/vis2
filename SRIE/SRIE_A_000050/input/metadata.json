@@ -1,0 +1,27 @@
+{
+  "subtopic": "Cultural or Heritage art",
+  "prompt": "Edit image 1: Replace the crown on the cushion in the foreground with the ring on the cushion from image 2. Also, replace the person kneeling in image 1 with the bear kneeling in image 2. Integrate it seamlessly into the historical painting style.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748497956773,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1: Replace the crown and its accompanying cushion located in the foreground of image 1 with the ring and its associated red cushion from image 2. Additionally, replace the kneeling human figure in the center of image 1 with the entire kneeling bear from image 2. Ensure these new elements are seamlessly integrated into the historical painting style of image 1, matching its distinct lighting, textures, and overall realism.",
+  "annotator": "kellycyy",
+  "objects": [
+    "ring in the foreground",
+    "red cushion in the foreground",
+    "kneeling bear in the center",
+    "crown (should not be present)",
+    "crown's cushion (should not be present)",
+    "kneeling human figure (should not be present)",
+    "Napoleon",
+    "historical church interior / architecture",
+    "crowd of spectators / courtiers / clergy",
+    "draping fabrics / curtains"
+  ]
+}

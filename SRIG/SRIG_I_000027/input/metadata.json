@@ -1,0 +1,22 @@
+{
+  "subtopic": "Icons and symbols",
+  "prompt": "Please generate a set of new settings icons (total of 4) from left to right. The first left icon is the settings icon with the minimal flat design. Then it naturally transform to the icon with 3D photorealistic style.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://img.freepik.com/premium-vector/simple-gear-setting-icon-minimalist-professional_1194136-49.jpg",
+  "promptGeneratedTimestamp": 1749899148538,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate four distinct settings icons, arranged horizontally from left to right. The leftmost icon (first of four) should be a minimalist, flat design, based on the content and style of image 1, which depicts a two-gear settings icon. Progressing from left to right, each subsequent icon should naturally evolve, transitioning smoothly in style from the initial minimalist flat design towards a fully rendered 3D photorealistic appearance. The fourth and rightmost icon should be a complete 3D photorealistic rendition of a settings icon, maintaining the same underlying subject as image 1.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Leftmost minimalist flat two-gear settings icon",
+    "Second evolving style two-gear settings icon",
+    "Third evolving style two-gear settings icon",
+    "Rightmost 3D photorealistic two-gear settings icon"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

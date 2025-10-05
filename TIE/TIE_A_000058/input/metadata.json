@@ -1,0 +1,19 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Graffiti",
+  "prompt": "Add smoke to the background to add depth and dramatic atmosphere to the scene. Ensure the smoke is subtle and does not overpower the existing elements.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 to incorporate subtle, light, and translucent smoke into the background, specifically appearing behind the Banksy artwork. The smoke should enhance the depth and add a dramatic atmosphere to the overall scene, ensuring it does not obscure or overpower the central artwork or the two individuals seated below it.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Banksy artwork (man throwing flowers)",
+    "Wall",
+    "Two individuals seated below the artwork",
+    "Ground",
+    "Subtle, light, translucent smoke behind the Banksy artwork"
+  ]
+}

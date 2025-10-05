@@ -1,0 +1,29 @@
+{
+  "subtopic": "Posters",
+  "prompt": "Create a typographic poster for \"DESIGN INNOVATION EXHIBITION\" using bold, minimalist letters. Employ the high-contrast blue, black, and white color palette and dynamic text arrangement inspired by the reference poster's graphic style.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://i.pinimg.com/736x/d3/07/e0/d307e0075ba156e4b5d170de9a9e8fbf.jpg",
+  "searchQueryGenerated": "High Quality Modern Typographic Graphic Poster",
+  "searchQueryGeneratedTimestamp": 1750500419712,
+  "promptGeneratedTimestamp": 1750500457130,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "T",
+  "prompt_refined": "Generate a minimalist typographic poster for \"DESIGN INNOVATION EXHIBITION.\" The poster should feature the phrase \"DESIGN INNOVATION EXHIBITION\" as its dominant visual element, rendered in very large, bold, sans-serif letters. Employ a high-contrast blue, black, and white color palette, with blue as the primary background color and the text rendered in striking black and white. The text arrangement must be highly dynamic and graphically impactful, directly inspired by the composition of image 1. Mimic the stacked, interwoven, and vertically spanning letterforms of image 1, creating a powerful, nearly abstract typographic form. For example, 'DESIGN INNOVATION' can be arranged horizontally across the top and mid-sections, while 'EXHIBITION' is stacked vertically alongside or intertwined with it, mirroring the 'ARCHITECTURE NOW!' layout. Ensure some letters extend or overlap to maximize visual presence and fill the poster area. Any smaller, supporting text elements should be discreetly placed within the negative space created by the main typography, following the stylistic example of image 1.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "minimalist typographic poster",
+    "blue background",
+    "\"DESIGN INNOVATION EXHIBITION\" phrase as dominant visual element",
+    "very large, bold, sans-serif letters for \"DESIGN INNOVATION EXHIBITION\"",
+    "black letters for \"DESIGN INNOVATION EXHIBITION\"",
+    "white letters for \"DESIGN INNOVATION EXHIBITION\"",
+    "dynamically arranged, stacked, interwoven, and vertically spanning letterforms for the main phrase",
+    "\"DESIGN INNOVATION\" arranged horizontally across top and mid-sections",
+    "\"EXHIBITION\" stacked vertically alongside or intertwined with \"DESIGN INNOVATION\"",
+    "smaller supporting text elements discreetly placed within negative space"
+  ],
+  "human_annotation": true
+}

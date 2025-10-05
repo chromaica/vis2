@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Facial estimation and analysis",
+  "prompt": "Align the face in the source image to match the expression defined by the reference landmarks.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the source image (image 1). Modify the facial expression of the person in image 1 to perfectly conform to the specific configuration of facial landmarks depicted in image 2.",
+  "annotator": "nimajamali",
+  "objects": [
+    "Person",
+    "Curly brown hair",
+    "Facial expression (conforming to image 2 landmarks)",
+    "Eyes",
+    "Nose",
+    "Mouth",
+    "Stubble/beard",
+    "Blue shirt/clothing",
+    "Blurry indoor background",
+    "Partially visible person in background"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "Education app icon showing an open book where pages transform into origami birds taking flight, gradient from deep purple to sky blue",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A minimalist education app icon, featuring an open book centrally positioned. From its pages, multiple origami birds gracefully emerge, transforming from paper and ascending to take flight outwards. The icon's background is a smooth gradient transitioning from deep purple at the bottom to a bright sky blue at the top.",
+  "annotator": "theblackcat",
+  "objects": [
+    "open book (centrally positioned)",
+    "multiple origami birds",
+    "origami birds emerging from book pages",
+    "origami birds transforming from paper",
+    "origami birds ascending and taking flight outwards",
+    "smooth gradient background",
+    "deep purple color (at bottom of background)",
+    "bright sky blue color (at top of background)"
+  ]
+}

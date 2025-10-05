@@ -1,0 +1,24 @@
+{
+  "subtopic": "Game assets",
+  "prompt": "Edit image 1: Replace the camera with a stylized game asset item representing a captured creature or resource, inspired by the insect prey held in image 3. Adjust the woman's grip and presentation of this item to mimic how the bird holds its prey in image 2, creating a game asset showcase scene.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748456583848,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1: Replace the camera held by the woman with a stylized computer graphics game asset. This game asset should depict a captured insect-like creature, drawing inspiration from the predatory insect holding its prey in image 3. Adjust the woman's hand pose and grip on this new item to mimic the delicate manner in which the bird in image 2 holds its insect prey in its beak, transforming the scene into a computer graphics 'game asset showcase'.",
+  "annotator": "winston",
+  "objects": [
+    "woman",
+    "stylized computer graphics game asset",
+    "captured insect-like creature (as part of the game asset)",
+    "woman's hands (with delicate pose and grip)",
+    "beach background",
+    "camera (should not be present)"
+  ]
+}

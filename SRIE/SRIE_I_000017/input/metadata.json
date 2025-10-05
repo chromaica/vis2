@@ -1,0 +1,23 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "Match the map's palette to desert sunset tones",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 2, the USA National Parks map. Update the color palette of the map's landmass (the green-filled continental USA and islands) to reflect the vibrant and striking desert sunset tones from image 1. Specifically, replace the current green with a gradient or selection of colors featuring the purples, pinks, oranges, and deep blues prominent in the sky and sand of image 1, while ensuring all geographical features, text labels, and park icons on the map remain highly visible and distinct.",
+  "annotator": "Johnny",
+  "objects": [
+    "USA National Parks map structure",
+    "Continental USA landmass with purples, pinks, oranges, and deep blues",
+    "USA-associated islands (e.g., Hawaii, Alaska) with purples, pinks, oranges, and deep blues",
+    "Geographical features on map (e.g., state borders, coastlines)",
+    "National Park text labels",
+    "National Park tree icons",
+    "\"USA NATIONAL PARKS\" title text",
+    "White background"
+  ]
+}

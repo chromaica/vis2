@@ -1,0 +1,21 @@
+{
+  "subtopic": "Traditional art",
+  "prompt": "In image 1, put a bunch of hens (around 10 hens) from image 2 onto the hill. Keep other elements in image 1 the same.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1 by adding approximately 10 hens. The hens should be composed in the torn paper collage style, similar to the rooster in image 2. Place these hens on the prominent red-brown hill in image 1. Retain all other existing elements of image 1 unchanged.",
+  "annotator": "kellycyy",
+  "objects": [
+    "Blue sky (torn paper collage style)",
+    "Prominent red-brown hill (torn paper collage style)",
+    "Foreground ground (torn paper collage style)",
+    "Approximately 10 hens",
+    "Hens in torn paper collage style",
+    "Hens placed on the prominent red-brown hill"
+  ]
+}

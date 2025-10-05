@@ -1,0 +1,19 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "A close-up of the lunar surface revealing sharp craters and grey, dusty plains under harsh sunlight, casting distinct shadows across its rugged landscape.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A photorealistic close-up image of the lunar surface, prominently featuring sharp craters and expansive grey, dusty plains. Harsh sunlight illuminates the rugged landscape, casting long, distinct shadows.",
+  "annotator": "cwhsu",
+  "objects": [
+    "lunar surface",
+    "sharp craters",
+    "expansive grey, dusty plains",
+    "harsh sunlight",
+    "long shadows",
+    "distinct shadows",
+    "rugged landscape"
+  ]
+}

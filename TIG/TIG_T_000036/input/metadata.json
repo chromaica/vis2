@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Textual Tattoos",
+  "prompt": "Photo-realistic rendering of a hand tattoo: 'Courage' inscribed in a worn, black calligraphic script upon textured skin.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Photo-realistic close-up of a human hand with a tattoo. The word 'Courage' is written in a worn, black calligraphic script directly onto the textured skin.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "human hand",
+    "tattoo",
+    "the word \"Courage\"",
+    "worn script (for the tattoo)",
+    "black script (for the tattoo)",
+    "calligraphic script (for the tattoo)",
+    "textured skin"
+  ],
+  "human_annotation": true
+}

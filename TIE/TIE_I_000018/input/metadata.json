@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Expand the horizon of this vibrant OS usage graph, revealing dynamic trends and colorful data patterns beyond August 2019.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Horizontally extend the existing OS usage area chart to the right, adding new data points for months beyond August 2019. The added data should reveal dynamic trends and maintain the vibrant, colorful patterns seen in the original graph.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Operating system title",
+    "Windows legend item",
+    "macOS legend item",
+    "Other legend item",
+    "Teal area for Windows usage",
+    "Purple area for macOS usage",
+    "Orange area for Other usage",
+    "Users Y-axis label",
+    "Extended X-axis with months beyond August 2019",
+    "2019 year label"
+  ]
+}

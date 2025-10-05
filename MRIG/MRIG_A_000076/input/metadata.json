@@ -1,0 +1,21 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "A digital art illustration of the dynamic jumping pose from image 1, rendered entirely using the abstract black splatter forms and high-contrast style of image 2.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a digital art illustration depicting the dynamic jumping pose of the person from image 1. The entire figure should be rendered exclusively with the abstract black splatter forms and high-contrast style found in image 2, against a stark white background.",
+  "annotator": "samin",
+  "objects": [
+    "Person in a dynamic jumping pose",
+    "Abstract black splatter forms (as the rendering style for the person)",
+    "High-contrast visual style (for the person)",
+    "Stark white background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

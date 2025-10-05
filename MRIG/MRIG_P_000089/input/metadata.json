@@ -1,0 +1,27 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Generate a photorealistic image of the provided car photo referenced in the first image, subtly infused with the monochromatic, cross-hatched shading and fine linework of the pencil drawing style from the second reference image. Retain hyper-realistic details in the car\u2019s metallic surfaces, reflections, and textures, with lifelike lighting and shadows. The pencil drawing effect should appear as delicate, sketch-like shading and subtle line textures, seamlessly integrated to maintain the photorealistic quality of the final image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a new image of the yellow Chevrolet Camaro and desert landscape from image 1. This image should incorporate the monochromatic, cross-hatched shading and fine linework style of the pencil drawing from image 2. Crucially, the final image must remain highly photorealistic, retaining all hyper-realistic details of the car's metallic surfaces, reflections, and textures, as well as the lifelike lighting and shadows present in image 1. The integrated pencil drawing effect should appear as delicate, sketch-like shading and subtle line textures, seamlessly blended to preserve the overall photorealistic quality.",
+  "objects": [
+    "Yellow Chevrolet Camaro",
+    "Desert landscape",
+    "Road",
+    "Mountains",
+    "Sky (with sunset colors)",
+    "Desert vegetation",
+    "Photorealistic rendering",
+    "Monochromatic shading",
+    "Cross-hatched textures",
+    "Fine linework"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

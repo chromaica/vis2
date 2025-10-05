@@ -1,0 +1,17 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "Game assets",
+  "prompt": "A campfire animation, 128x128 pixels per frame, with 6 frames of flickering flames and smoke, stylized cartoon style.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a 6-frame animation sprite sheet featuring a stylized cartoon campfire. Each frame, measuring 128x128 pixels, displays flickering flames and wisps of smoke.",
+  "annotator": "maxku",
+  "objects": [
+    "stylized cartoon campfire",
+    "flickering flames",
+    "wisps of smoke",
+    "six distinct animation frames"
+  ],
+  "human_annotation": true
+}

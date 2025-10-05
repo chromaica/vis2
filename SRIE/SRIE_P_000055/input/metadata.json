@@ -1,0 +1,24 @@
+{
+  "task": "SRIE",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Enhance the colors of the source image, making the areas near the edges detected by the reference Canny edge map more vibrant and saturated.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 (the landscape photo) by enhancing its colors. Specifically, make the regions immediately surrounding the edges detected in image 2 (the Canny edge map) more vibrant and saturated. Apply this enhancement to prominent features like the large tree on the left, the barn on the right, the distant treeline, and defined cloud formations, while maintaining the overall photorealistic style of image 1.",
+  "annotator": "nimajamali",
+  "objects": [
+    "Landscape scene",
+    "Large tree on the left",
+    "Barn on the right",
+    "Distant treeline",
+    "Cloud formations",
+    "Sky",
+    "Field",
+    "Smaller tree"
+  ],
+  "human_annotation": true
+}

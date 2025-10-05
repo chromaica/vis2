@@ -1,0 +1,20 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "Turn the right arrow to a left arrow with a green color.",
+  "cond_images": [
+    "1.png",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the single right-pointing arrow in image 1. Transform it into a left-pointing arrow. The resulting arrow should be solid green. Refer to image 2 for the overall graphic style of the arrow, ensuring it maintains a similar simple, solid fill appearance.",
+  "annotator": "Johnny",
+  "objects": [
+    "left-pointing arrow",
+    "solid green color",
+    "simple solid fill appearance"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

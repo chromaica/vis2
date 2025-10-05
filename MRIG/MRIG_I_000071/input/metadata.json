@@ -1,0 +1,27 @@
+{
+  "task": "MRIG",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "Generate a UI mockup for a healthy food app using the three fruit images as product cards. Display each fruit with its name, price, and an \"Add to Cart\" button. Use a fresh, fruit-inspired color palette.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "annotator": "matina",
+  "prompt_refined": "Generate a UI mockup for a healthy food application. The interface should prominently display three distinct product cards arranged vertically.\n\n- The top product card will feature the content of image 1 (red apples and slices) as its main visual. Below the image, clearly display the text 'Red Apple', a placeholder price such as '$2.99', and an 'Add to Cart' button.\n- The middle product card will feature the content of image 2 (strawberries with leaves) as its main visual. Below the image, clearly display the text 'Strawberries', a placeholder price such as '$4.50', and an 'Add to Cart' button.\n- The bottom product card will feature the content of image 3 (watermelon slices) as its main visual. Below the image, clearly display the text 'Watermelon', a placeholder price such as '$6.75', and an 'Add to Cart' button.\n\nThe overall UI design should utilize a fresh, vibrant, fruit-inspired color palette, drawing hues from the reds, greens, and pale yellows visible in the reference images.",
+  "objects": [
+    "Healthy food application UI mockup",
+    "Three distinct product cards, arranged vertically",
+    "Top product card featuring red apples and slices",
+    "Text 'Red Apple', price '$2.99', and an 'Add to Cart' button on the top card",
+    "Middle product card featuring strawberries with leaves",
+    "Text 'Strawberries', price '$4.50', and an 'Add to Cart' button on the middle card",
+    "Bottom product card featuring watermelon slices",
+    "Text 'Watermelon', price '$6.75', and an 'Add to Cart' button on the bottom card",
+    "Fresh, vibrant, fruit-inspired color palette (reds, greens, pale yellows)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

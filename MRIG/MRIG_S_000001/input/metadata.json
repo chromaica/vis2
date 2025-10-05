@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Design a crypto wallet dashboard interface using the coin logos from the first image and the chart visualization from the second image.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a sleek, modern cryptocurrency wallet dashboard interface. The dashboard should incorporate the circular cryptocurrency logos from image 1 (e.g., Bitcoin, Ethereum, Solana, XRP) as a list of available assets, possibly positioned on the left side or within a dedicated portfolio summary panel. The central and largest display area of the dashboard must feature a detailed price chart, adopting the exact visual style of the candlestick chart from image 2, including its dark background, green and red candlesticks, and the prominent yellow moving average line. This chart should represent the historical performance of a selected cryptocurrency within the dashboard context.",
+  "annotator": "paria",
+  "objects": [
+    "Sleek, modern cryptocurrency wallet dashboard interface",
+    "Circular Bitcoin logo",
+    "Circular Ethereum logo",
+    "Circular Solana logo",
+    "Circular XRP logo",
+    "List of available assets featuring cryptocurrency logos (possibly on the left side)",
+    "Detailed price chart in the central display area",
+    "Candlestick chart with dark background",
+    "Green and red candlesticks on the chart",
+    "Prominent yellow moving average line on the chart"
+  ]
+}

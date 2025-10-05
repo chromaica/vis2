@@ -1,0 +1,24 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "a microscopy image with cell distribution and intensity levels guided by the heatmap.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic microscopy image of biological cells where their spatial distribution, density, and luminescence intensity are directly guided by the heatmap in image 1. Regions of high intensity (yellow, orange) in image 1 should correspond to dense clusters of brightly luminescent cells, while low intensity regions (blue) should show sparse or absent cells with minimal luminescence. The white contour lines in image 1 should define the boundaries of these distinct cellular areas.",
+  "annotator": "samin",
+  "objects": [
+    "Photorealistic microscopy view",
+    "Biological cells",
+    "Dense clusters of biological cells",
+    "Brightly luminescent biological cells",
+    "Sparsely distributed biological cells",
+    "Minimally luminescent biological cells",
+    "Areas with absent biological cells",
+    "White contour lines defining cellular area boundaries"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

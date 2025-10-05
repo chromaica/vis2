@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "A segmentation label map of a forest, dividing regions into trees, shrubs, grass, dirt paths, rocks, and sky. Boundaries should follow natural contours with crisp edges.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a segmentation label map of a forest. The image must clearly delineate regions for trees, shrubs, grass, dirt paths, rocks, and sky. All boundaries between these distinct regions should be crisp, sharp, and follow natural contours.",
+  "annotator": "maxku",
+  "objects": [
+    "trees",
+    "shrubs",
+    "grass",
+    "dirt paths",
+    "rocks",
+    "sky"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,21 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Conceptual art",
+  "prompt": "Make the weather completely dry. The apples should look dry and lack moisture.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Transform the entire scene to reflect completely dry conditions. Remove the rainbow and change the current wet, cloudy sky in the upper portion of the image to a clear, dry sky. Ensure that all apples, from the foreground to the distant background, appear entirely dry, with all water droplets removed and their surfaces lacking any visual signs of moisture.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Many apples (from foreground to distant background)",
+    "Apples appearing entirely dry",
+    "Clear sky",
+    "Completely dry scene conditions",
+    "Rainbow (should not be present)",
+    "Water droplets (should not be present)",
+    "Cloudy sky (should not be present)"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "subtopic": "Depth maps",
+  "prompt": "Generate a realistic image of a small town nestled in hills. Utilize the reference depth map to guide the exact spatial layout and relative distances of buildings and landscape elements based on their proximity.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://www.researchgate.net/publication/364434040/figure/fig1/AS:11431281090991281@1666283200303/left-depth-map-visualization-example-right-schematic-diagram-of-LIDAR-perception-The.ppm",
+  "promptGeneratedTimestamp": 1748765822646,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a realistic image of a small town nestled within undulating hills. Utilize image 1 as a depth map to accurately render the exact spatial layout and relative distances of all buildings and landscape elements. Ensure a large building is prominently positioned in the foreground on the right, with another structure in the lower-left, followed by various smaller buildings scattered across the mid-ground hills, and even more distant structures receding into the background, all adhering strictly to the depth information provided.",
+  "annotator": "ishengfang",
+  "objects": [
+    "small town",
+    "undulating hills",
+    "large building in the foreground on the right",
+    "structure in the lower-left foreground",
+    "smaller buildings across the mid-ground hills",
+    "distant structures receding into the background",
+    "sky"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

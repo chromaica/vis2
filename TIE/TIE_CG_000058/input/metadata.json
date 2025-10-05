@@ -1,0 +1,28 @@
+{
+  "subtopic": "Game assets",
+  "prompt": "Change the style of all game assets from wood to dark, aged metal with glowing green highlights, suitable for a sci-fi game UI.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751798010157,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1. Transform all depicted game UI elements (buttons, progress bar, and various icons) from their current wooden style to a dark, aged metal. Ensure the metal surfaces include prominent glowing green highlights, achieving a cohesive aesthetic suitable for a sci-fi game user interface.",
+  "annotator": "edisy",
+  "objects": [
+    "Long horizontal game UI panel",
+    "Irregular horizontal game UI panel",
+    "Game UI progress bar",
+    "Star-shaped game UI icon",
+    "Play-shaped game UI icon",
+    "Heart-shaped game UI icon",
+    "Lightning bolt-shaped game UI icon",
+    "Circular plus sign game UI icon",
+    "Circular speaker game UI icon",
+    "Circular music note game UI icon"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

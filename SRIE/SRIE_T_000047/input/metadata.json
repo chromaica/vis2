@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": "Cast highlights and shadows according to this light direction.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 by adding highlights and shadows to all depicted elements, including the characters, the 'GET WELL CARDS' sign, and the card display stand. The illumination should be consistent with a single light source originating from the top-right, as indicated by the sun's position in the sky diagram of image 2. Ensure shadows are cast towards the bottom-left, creating a sense of depth and form on the flat line art.",
+  "annotator": "matina",
+  "objects": [
+    "Older female character",
+    "Younger female character",
+    "'GET WELL CARDS' sign",
+    "Card display stand",
+    "Displayed cards",
+    "Highlights on depicted elements (consistent with top-right light source)",
+    "Shadows on depicted elements (cast towards bottom-left)",
+    "Ground surface"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

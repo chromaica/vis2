@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Chat and Social Messaging",
+  "prompt": "In the first image, replace the sender avatar in the upper header of image 1 with the illustrated woman from image 2 and change the entire background of the conversation to the pastel rainbow gradient from image 3, retaining all message bubbles.",
+  "cond_images": [
+    "1.png",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the generic grey sender avatar icon in the top header (next to 'Dev') with the illustrated female avatar from image 2. Change the entire conversation background of image 1 (the light green patterned area behind the messages) to the pastel rainbow gradient from image 3, ensuring all message bubbles, their content, and styling remain in their original positions.",
+  "annotator": "parnian",
+  "objects": [
+    "iPhone frame",
+    "Phone status bar (at top)",
+    "Top header with back arrow, 'Dev', 'Test', time, and checkmarks",
+    "Illustrated female avatar (in top header, next to 'Dev')",
+    "Conversation message bubbles with their content and styling",
+    "Input field with '+' icon, camera icon, and microphone icon",
+    "Keyboard",
+    "Pastel rainbow gradient conversation background",
+    "Generic grey sender avatar icon (should not be present)",
+    "Light green patterned conversation background (should not be present)"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "Texture Map",
+  "prompt": "A roughness map of brushed metal, with clear directional grain and varying reflectivity levels.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a grayscale roughness map of brushed metal. The map must feature a distinct directional grain and show clear variations in grayscale values, representing different levels of surface roughness and thus varying reflectivity.",
+  "annotator": "maxku",
+  "objects": [
+    "Grayscale image",
+    "Roughness map",
+    "Brushed metal texture",
+    "Distinct directional grain",
+    "Grayscale value variations"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,27 @@
+{
+  "subtopic": "Branding and visual identity",
+  "prompt": "Edit image 1 by applying diverse branding styles: make some logos vibrant and illustrative like image 2, incorporate infographic data presentation from image 3, apply the refined typography and layout elegance of image 4 to others, and enhance textual logos with the boldness from image 5.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg",
+    "4.jpeg",
+    "5.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749712302453,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "T",
+  "prompt_refined": "Edit the collection of logos and textual graphics presented in image 1 by applying diverse branding styles inspired by the provided reference images. Transform a selection of these logos to be highly vibrant, colorful, and illustrative, adopting the playful energy, character-driven design, and dynamic compositions characteristic of the cereal box graphics in image 2. For another subset of elements, integrate infographic data presentation, mirroring the structured layout, numerical information, and clean visual organization found in image 3. Redesign several other logos and their surrounding text to reflect the refined typography, spacious layouts, and minimalist elegance exemplified by the luxury brand list in image 4. Finally, for the remaining textual logos in image 1, enhance their visual impact by applying the strong, assertive, and bold typographic style seen in the iconic brand logos of image 5.",
+  "annotator": "winston",
+  "objects": [
+    "A compilation of logos and textual graphics",
+    "Logos and textual graphics with vibrant, colorful, and illustrative designs",
+    "Logos and textual graphics incorporating infographic data and structured layouts",
+    "Logos and textual graphics featuring refined typography, spacious layouts, and minimalist elegance",
+    "Textual logos with strong, assertive, and bold typographic styles"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

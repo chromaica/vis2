@@ -1,0 +1,18 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "A photo of a woman standing in front of the Eiffel Tower on a cloudy day.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic image of a woman whose pose and overall form are guided by image 1. She is standing in the foreground, with the Eiffel Tower prominently visible in the background. The entire scene is depicted on a cloudy day.",
+  "annotator": "samin",
+  "objects": [
+    "Woman in the foreground (with pose and overall form guided by image 1)",
+    "Eiffel Tower prominently visible in the background",
+    "Cloudy sky"
+  ],
+  "human_annotation": true
+}

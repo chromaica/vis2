@@ -1,0 +1,27 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": "Design a screenshot of an online cosmetic store that shows the perfume section page, sorted from most expensive to cheapest, using the perfumes from the first image and the product card layout from the second image.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a screenshot depicting the perfume section page of an online cosmetic store. Populate the page with individual product cards for each of the 10 distinct perfume bottles shown in image 1. Each product card must adhere to the layout structure presented in image 2, featuring the perfume bottle prominently, accompanied by placeholder text for its brand name, detailed product description, star rating, review count, and a price range. Ensure the 'favorite' heart icon, as seen in image 2, is positioned in the top-right corner of each product image within its card. Arrange these product cards in a multi-column grid, ordered visually from the most expensive perfumes at the top-left to the least expensive at the bottom-right of the page.",
+  "annotator": "paria",
+  "objects": [
+    "Screenshot of an online cosmetic store perfume section page",
+    "Multi-column grid layout",
+    "Ten individual product cards",
+    "Perfume bottle prominently displayed within each product card",
+    "Heart icon in the top-right corner of each product image",
+    "Placeholder text for brand name",
+    "Placeholder text for product description",
+    "Placeholder star rating",
+    "Placeholder text for review count",
+    "Placeholder text for price range"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

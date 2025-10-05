@@ -1,0 +1,22 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "Transform the living space into a futuristic smart home with holographic screens and advanced robotic assistants.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Transform the primary living area of the home, including the sofa, the two characters, the kitchen, and the dining table, into a futuristic smart home. Replace the current wall-mounted screen with multiple transparent, glowing holographic displays showcasing advanced interfaces. Integrate sleek, advanced robotic assistants performing various tasks throughout this living space.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Futuristic sofa",
+    "Two characters",
+    "Futuristic kitchen",
+    "Futuristic dining table and chairs",
+    "Multiple transparent, glowing holographic displays",
+    "Advanced interfaces",
+    "Sleek, advanced robotic assistants",
+    "Wall-mounted screen (should not be present)"
+  ]
+}

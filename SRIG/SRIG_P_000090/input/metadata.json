@@ -1,0 +1,18 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Medical images",
+  "prompt": "a lung CT scan showing bronchial tree structures matching the tree\u2019s branching pattern.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic lung CT scan image clearly displaying detailed internal bronchial tree structures. The branching pattern of these bronchial structures must precisely match the intricate, complex branching of the bare tree presented in image 1.",
+  "annotator": "samin",
+  "objects": [
+    "photorealistic CT scan image",
+    "lung",
+    "internal bronchial tree structures",
+    "intricate, complex branching pattern"
+  ]
+}

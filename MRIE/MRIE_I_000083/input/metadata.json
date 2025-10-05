@@ -1,0 +1,23 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "Edit image 1: Replace the 'X' graphic with the 'Y' shape from image 2, adopting its flowing form and colorful gradient. Change the dark circular background to the vibrant purple color from image 3, removing the shadow effect.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Replace the central white 'X' graphic with the 'Y' shape from image 2, adopting its distinct flowing form and vibrant purple, yellow, and orange gradient. Change the dark gray circular background to the solid vibrant purple color from image 3, ensuring the long shadow effect is completely removed.",
+  "annotator": "maxku",
+  "objects": [
+    "'Y' shape graphic",
+    "Flowing form (of the 'Y' shape)",
+    "Vibrant purple, yellow, and orange gradient (on the 'Y' shape)",
+    "Circular background",
+    "Solid vibrant purple color (for the background)",
+    "Central white 'X' graphic (should not be present)",
+    "Long shadow effect (should not be present)"
+  ]
+}

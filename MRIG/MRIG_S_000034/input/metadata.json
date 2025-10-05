@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "Generate a screenshot of a desert survival game using the main character design from the first image and the desert environment from the second image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a detailed game screenshot for a desert survival game. The main character should be the female design from image 1, rendered with her dark skin, dark ponytail, grey tank top, ripped dark pants, brown boots, and brown hip holster, holding the black and red crossbow in a ready stance. Position her prominently in the foreground, slightly to the right of center, looking towards the large stacked rock formations. The environment must be the stylized desert from image 2, featuring its massive rock formations, sparse saguaro cacti, Joshua trees, and sandy ground with scattered animal skeletal remains, all under a pinkish-orange sky. The overall scene should evoke a desolate and challenging survival atmosphere.",
+  "annotator": "paria",
+  "objects": [
+    "Female main character (from image 1, with dark skin, dark ponytail, grey tank top, ripped dark pants, brown boots, brown hip holster, positioned prominently in foreground, slightly to the right of center)",
+    "Black and red crossbow (held by character in ready stance)",
+    "Stylized desert environment (from image 2)",
+    "Massive stacked rock formations",
+    "Sparse saguaro cacti",
+    "Joshua trees",
+    "Sandy ground",
+    "Scattered animal skeletal remains",
+    "Pinkish-orange sky",
+    "Desolate and challenging survival atmosphere"
+  ],
+  "human_annotation": true
+}

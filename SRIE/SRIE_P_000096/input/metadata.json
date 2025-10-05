@@ -1,0 +1,21 @@
+{
+  "task": "SRIE",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Add the sunglasses from the reference to the model\u2019s face in the source image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Transfer the sunglasses from image 2 and place them onto the face of the man in image 1.",
+  "annotator": "nimajamali",
+  "objects": [
+    "man",
+    "sunglasses on the man's face",
+    "beige jacket",
+    "beige pants",
+    "brown background"
+  ],
+  "human_annotation": true
+}

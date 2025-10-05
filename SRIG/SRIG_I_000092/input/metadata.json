@@ -1,0 +1,25 @@
+{
+  "subtopic": "Visual instructions and manuals",
+  "prompt": "The reference image is a text-only instruction manual for cooking a steak. Generate a new, visual-first guide, using large icons and minimal text for each step.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://cdn.shopify.com/s/files/1/0599/1215/9370/files/how_to_cook_steak_with_oilve_oil.webp?v=1719034024",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate a visual-first infographic cooking guide for steak, based on the textual content of image 1. The guide should feature the title 'How to Cook Steak with Olive Oil' prominently at the top. Below the title, represent each ingredient listed in image 1 with a distinct, large icon (e.g., a steak cut, an olive oil bottle, a salt shaker, a pepper mill, garlic cloves, herb sprigs, a butter stick), accompanied by minimal descriptive text for quantities or notes. The main body of the guide should illustrate the cooking instructions as a series of sequential steps. For each key instruction from image 1, create a dedicated panel or section containing a large, clear icon depicting the action (e.g., an oven, a pan, a thermometer, hands drying, a knife slicing) and a very concise, action-oriented text label (e.g., 'Preheat Oven', 'Dry Steak', 'Season', 'Bake', 'Sear', 'Slice & Serve'). Arrange these steps in a clear, linear flow, from top to bottom or left to right. The overall aesthetic should be clean, modern, and easily scannable, emphasizing visual communication over extensive text, and reflecting the culinary quality suggested by the cooked steak image within image 1.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Title: 'How to Cook Steak with Olive Oil' prominently at the top",
+    "Large steak cut icon with minimal descriptive text",
+    "Large olive oil bottle icon with minimal descriptive text",
+    "Large salt shaker icon with minimal descriptive text",
+    "Large pepper mill icon with minimal descriptive text",
+    "Panel with a large oven icon and 'Preheat Oven' text label",
+    "Panel with a large hands drying icon and 'Dry Steak' text label",
+    "Panel with a large seasoning icon (e.g., salt/pepper shaker in action) and 'Season' text label",
+    "Panel with a large pan icon and 'Sear' text label",
+    "Panel with a large knife slicing icon and 'Slice & Serve' text label"
+  ],
+  "human_annotation": true
+}

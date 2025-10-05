@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "A dynamic poster concept centered on 'Spark Innovation'. The text is rendered in a bold, futuristic sans-serif font, glowing with vibrant electric blue and fiery orange neon effects. Energetic particle trails stream behind the letters, all set against a dark, abstract digital background with subtle light streaks and geometric patterns that suggest forward momentum and high energy.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a dynamic poster concept. The phrase 'Spark Innovation' is the central element, rendered in a bold, futuristic sans-serif font. It glows with vibrant electric blue and fiery orange neon effects. Energetic particle trails stream dynamically behind the letters. The background is a dark, abstract digital landscape, featuring subtle light streaks and sharp geometric patterns that convey forward momentum and high energy.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "'Spark Innovation' phrase",
+    "Bold, futuristic sans-serif font",
+    "Vibrant electric blue glow effect",
+    "Fiery orange neon effect",
+    "Energetic particle trails behind the letters",
+    "Dark, abstract digital landscape background",
+    "Subtle light streaks in the background",
+    "Sharp geometric patterns in the background"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,16 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Calligraphy",
+  "prompt": "Showcase the word \"Believe\" written in an ornate calligraphic script, using deep crimson ink against a pristine white background.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "An ornate calligraphic rendering of the word 'Believe' in deep crimson ink, set against a pristine white background.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "The word \"Believe\"",
+    "Ornate calligraphic text style",
+    "Deep crimson color",
+    "Pristine white background"
+  ]
+}

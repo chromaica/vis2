@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Online Meeting Interfaces",
+  "prompt": "In image 1, add the Skype logo (in second image) to the center top and add the Teams logo (in third image) to the bottom right corner, keeping video tiles and UI and labels as-is and unchanged.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Add the Google Meet logo (from image 2) to the center top of the screen. Add the Microsoft Teams logo (from image 3) to the bottom right corner. Ensure all video tiles, user interface elements, and text labels in image 1 remain unchanged.",
+  "annotator": "parnian",
+  "objects": [
+    "video call interface",
+    "four video tiles with people",
+    "Google Meet logo at the center top",
+    "Microsoft Teams logo at the bottom right corner",
+    "bottom control bar with call icons",
+    "Windows taskbar",
+    "\"4 Participants\" label",
+    "\"Conversation (4 Participants)\" label",
+    "time and date display (top right)",
+    "\"Search the web and Windows\" text box"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

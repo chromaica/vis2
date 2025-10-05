@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "QR codes",
+  "prompt": "Replace the QR code corners with stylized floral patterns, keeping the digital look while adding a natural contrast.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the QR code's large square finder patterns at the top-left, top-right, and bottom-left corners with stylized floral patterns. The floral designs should retain a digital appearance while providing a natural visual contrast against the existing QR code elements.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Angry Birds character",
+    "QR code data modules",
+    "QR code timing patterns",
+    "Stylized floral pattern at top-left corner",
+    "Stylized floral pattern at top-right corner",
+    "Stylized floral pattern at bottom-left corner",
+    "QR code's large square finder pattern at top-left (should not be present)",
+    "QR code's large square finder pattern at top-right (should not be present)",
+    "QR code's large square finder pattern at bottom-left (should not be present)"
+  ],
+  "human_annotation": true
+}

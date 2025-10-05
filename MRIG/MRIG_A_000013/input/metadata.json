@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Cultural or Heritage art",
+  "prompt": "Create a traditional bronze sculpture showing a figure in the dynamic jumping pose from image 1, rendered in the style and material of the figure in image 2.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a traditional bronze sculpture depicting a figure in the dynamic jumping pose from image 1, specifically with arms raised high, thumbs up, and legs bent mid-air. The sculpture should meticulously replicate the distinct hand-crafted aesthetic, simplified forms, and aged bronze appearance, including its specific surface texture and patination, as seen in the figure in image 2.",
+  "annotator": "samin",
+  "objects": [
+    "Traditional bronze sculpture",
+    "Figure",
+    "Dynamic jumping pose",
+    "Arms raised high",
+    "Thumbs up",
+    "Legs bent mid-air",
+    "Hand-crafted aesthetic",
+    "Simplified forms",
+    "Aged bronze appearance",
+    "Specific bronze surface texture and patination"
+  ]
+}

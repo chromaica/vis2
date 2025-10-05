@@ -1,0 +1,20 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "Show the UI mockup on the large carpet..",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 (the grey, shaggy carpet) by rendering image 2 (the collection of weather app UI mockups) flat on its surface. Ensure the entire composition of image 2 is centrally placed on the carpet, maintaining its original horizontal arrangement.",
+  "annotator": "Johnny",
+  "objects": [
+    "grey, shaggy carpet",
+    "mobile phone with weather app UI",
+    "weather app UI showing \"how's today weather?\"",
+    "weather app UI showing temperature and hourly forecast",
+    "weather app UI showing weather details and life index"
+  ]
+}

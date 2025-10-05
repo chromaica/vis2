@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "CAD models",
+  "prompt": "A CAD model of a 6 DOF Serial robotic Arm, wireframe.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A precise wireframe rendering of a 6 DOF industrial serial robotic arm, presented as a technical CAD model. The arm's distinct links and joints should be clearly visible, rendered with sharp lines on a clean, studio-like background.",
+  "annotator": "maxku",
+  "objects": [
+    "6 DOF industrial serial robotic arm",
+    "Wireframe rendering (of the arm)",
+    "Technical CAD model presentation (of the arm)",
+    "Distinct robotic arm links",
+    "Distinct robotic arm joints",
+    "Sharp lines (on the arm)",
+    "Clean background",
+    "Studio-like background"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,28 @@
+{
+  "subtopic": "3D renders",
+  "prompt": "Generate a 3D render like the reference image, showcasing various glossy geometric primitives arranged on a plain surface with soft global illumination lighting and subtle depth of field.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://upload.wikimedia.org/wikipedia/commons/3/32/Recursive_raytrace_of_a_sphere.png",
+  "promptGeneratedTimestamp": 1748772139988,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a 3D render in the style of image 1, depicting multiple glossy spheres of varying sizes in peach, pink, and yellow hues. A large peach sphere is sharply in focus and centrally positioned, with other spheres scattered around it on a plain, light-colored reflective surface. The scene should feature soft global illumination, casting diffused shadows, and a subtle depth of field effect, blurring elements such as the small yellow sphere on the lower left and the large pink sphere on the right.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Multiple glossy spheres",
+    "Spheres of varying sizes",
+    "Peach colored spheres",
+    "Pink colored spheres",
+    "Yellow colored spheres",
+    "Large peach sphere (centrally positioned, sharply in focus)",
+    "Other spheres scattered around the central sphere",
+    "Plain, light-colored reflective surface",
+    "Small yellow sphere on the lower left (blurred)",
+    "Large pink sphere on the right (blurred)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

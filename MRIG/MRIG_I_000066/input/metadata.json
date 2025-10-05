@@ -1,0 +1,23 @@
+{
+  "task": "MRIG",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "Redraw all food icons in a blend of the cartoon thickness of Reference 1 and the pastel color style of Reference 2",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "annotator": "matina",
+  "prompt_refined": "Generate a new image displaying the six food icons from image 1: an ice cream sundae, a lidded drink cup, a hot dog, a steaming coffee mug, french fries, and a milkshake. Arrange these icons in the same 2x3 grid layout as shown in image 1. The icons should feature the thick, bold cartoon outlines characteristic of the apple in image 2 and be filled with the soft, muted pastel color palette exemplified by image 3.",
+  "objects": [
+    "ice cream sundae icon with thick, bold cartoon outline and soft, muted pastel colors",
+    "lidded drink cup icon with thick, bold cartoon outline and soft, muted pastel colors",
+    "hot dog icon with thick, bold cartoon outline and soft, muted pastel colors",
+    "steaming coffee mug icon with thick, bold cartoon outline and soft, muted pastel colors",
+    "french fries icon with thick, bold cartoon outline and soft, muted pastel colors",
+    "milkshake icon with thick, bold cartoon outline and soft, muted pastel colors",
+    "icons arranged in a 2x3 grid layout"
+  ]
+}

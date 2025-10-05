@@ -1,0 +1,24 @@
+{
+  "task": "MRIG",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "Generate one icon from merging two icons in a colomn and then color the icon according to the gradient in the reference image.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "annotator": "matina",
+  "prompt_refined": "Generate a single, new rounded square icon. This icon should creatively combine visual elements from the App Store icon (image 1, top-left) and the LINE icon (image 1, bottom-left) to form a cohesive merged symbol. The merged icon should then be filled with the smooth blue-to-green gradient observed in image 2. The background of the new icon should remain solid black, consistent with image 1.",
+  "objects": [
+    "rounded square icon",
+    "solid black background",
+    "merged symbol",
+    "A-shape or triangle element (from App Store icon)",
+    "speech bubble shape element (from LINE icon)",
+    "\"LINE\" text element",
+    "smooth blue-to-green gradient fill"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

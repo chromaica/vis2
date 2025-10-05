@@ -1,0 +1,27 @@
+{
+  "subtopic": "Facial estimation and analysis",
+  "prompt": "Visualize the cat's face from image 2, depicted in a computer graphics context for facial analysis. Overlay technical graphic elements inspired by the shapes and feel of the tools from image 1, illustrating measurement points for estimation.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748422935351,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate an image of the tabby cat's face from image 2, rendered within a computer graphics interface for facial analysis. Overlay its key facial features with precise, technical graphic elements, including digital measurement points, lines, and crosshairs. These overlay graphics should adopt the sharp angles, clean lines, and metallic or monochromatic aesthetic inspired by the tools in image 1, creating a visual representation of detailed biometric estimation.",
+  "annotator": "winston",
+  "objects": [
+    "Tabby cat's face",
+    "Computer graphics interface",
+    "Digital measurement points (overlaying the cat's face)",
+    "Technical lines (overlaying the cat's face)",
+    "Crosshairs (overlaying the cat's face)",
+    "Sharp angles (as a design element for the overlay graphics)",
+    "Clean lines (as a design element for the overlay graphics)",
+    "Metallic aesthetic (for the overlay graphics)",
+    "Monochromatic aesthetic (for the overlay graphics)"
+  ],
+  "human_annotation": true
+}

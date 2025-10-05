@@ -1,0 +1,25 @@
+{
+  "subtopic": "Depth maps",
+  "prompt": "Create a computer graphics rendering of the red handbag (from image 2). Use the high-contrast profile lighting style from image 1 to emphasize depth features relevant for generating a depth map.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748424811089,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a computer graphics rendering of the red handbag from image 2. Apply the high-contrast rim lighting style from image 1 to accentuate the handbag's silhouette and emphasize its 3D depth features, optimizing it for depth map generation.",
+  "annotator": "winston",
+  "objects": [
+    "red handbag (with quilted pattern, gold clasp, and top handle)",
+    "high-contrast rim lighting",
+    "computer graphics rendering aesthetic",
+    "accentuated handbag silhouette",
+    "emphasized handbag 3D depth features",
+    "bright or white background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

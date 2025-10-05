@@ -1,0 +1,24 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Embed the meme into a Zoom UI: add the top toolbar, participant names beneath each face, and the bottom control icons.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 2 (the Zoom meeting interface). Replace its four empty video panels with the four corresponding panels from image 1 (the 'Brain' comic meme).\nSpecifically, embed the top-left panel of image 1 into the top-left video slot of image 2.\nEmbed the top-right panel of image 1 into the top-right video slot of image 2.\nEmbed the bottom-left panel of image 1 into the bottom-left video slot of image 2.\nEmbed the bottom-right panel of image 1 into the bottom-right video slot of image 2.\nMaintain all existing Zoom UI elements from image 2, including the top toolbar and the bottom control bar.\nAdd a participant name beneath each of the four embedded meme panels, in a style consistent with Zoom's participant name display.",
+  "annotator": "matina",
+  "objects": [
+    "Zoom meeting interface window",
+    "Zoom top toolbar",
+    "Zoom bottom control bar",
+    "Top-left panel from 'Brain' comic (\"THIS IS BRAIN\")",
+    "Top-right panel from 'Brain' comic (\"BRAIN'S JOB IS TO THINK\")",
+    "Bottom-left panel from 'Brain' comic (\"BUT BRAIN IS AMBITIOUS\")",
+    "Bottom-right panel from 'Brain' comic (\"BRAIN OVERTHINKS\")",
+    "Four participant names (text) below the comic panels"
+  ],
+  "human_annotation": true
+}

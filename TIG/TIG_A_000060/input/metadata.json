@@ -1,0 +1,19 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "An artistic food collage featuring a variety of fruits such as apples, bananas, and grapes, intricately arranged to resemble a human face on a white tablecloth.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "An artistic food collage featuring a human face intricately formed from a variety of fruits, such as apples, bananas, and grapes, meticulously arranged on a pristine white tablecloth.",
+  "annotator": "cwhsu",
+  "objects": [
+    "artistic food collage of a human face",
+    "human face formed from fruits",
+    "apples",
+    "bananas",
+    "grapes",
+    "pristine white tablecloth"
+  ],
+  "human_annotation": true
+}

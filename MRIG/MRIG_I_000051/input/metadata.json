@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "I",
+  "subtopic": "Visual instructions and manuals",
+  "prompt": "Create a 3-step visual guide for using a fire extinguisher (pull, aim, squeeze) to put out a fire. Use Image 1 for the extinguisher and Image 2 for the fire.",
+  "cond_images": [
+    "1.png",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "matina",
+  "prompt_refined": "Generate a clear, infographic-style 3-step visual guide demonstrating the P.A.S.S. method (Pull, Aim, Squeeze) for using a fire extinguisher to put out a fire. The guide should consist of three distinct, horizontally arranged panels.\n\nPanel 1 (Left): Illustrate the 'Pull' step. Show a hand pulling the safety pin from the valve assembly of a red fire extinguisher, visually consistent with image 1, specifically highlighting the pull pin and handle area.\n\nPanel 2 (Center): Illustrate the 'Aim' step. Depict the nozzle of a fire extinguisher, designed like image 1, being aimed towards a vibrant fire. The fire should be visually consistent with the dynamic flames in image 2.\n\nPanel 3 (Right): Illustrate the 'Squeeze' step. Show a hand squeezing the release lever and handle of a fire extinguisher, consistent with image 1, while its hose is directed towards a fire, visually consistent with image 2's flames.\n\nEnsure the fire extinguisher's appearance throughout all panels closely matches the details and style of image 1, and the fire's appearance consistently reflects the intensity and color of image 2.",
+  "objects": [
+    "Three distinct, horizontally arranged panels",
+    "Red fire extinguisher (consistent with image 1)",
+    "Hand pulling safety pin (in left panel)",
+    "Safety pin (being pulled)",
+    "Fire extinguisher valve assembly (highlighted in left panel)",
+    "Fire extinguisher nozzle (aiming in center panel)",
+    "Vibrant fire (consistent with image 2, in center and right panels)",
+    "Hand squeezing release lever (in right panel)",
+    "Fire extinguisher release lever (in right panel)",
+    "Fire extinguisher hose (directed towards fire in right panel)"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "a microscopic image of a parasite attached to cell tissue, using the reference mask as structure.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic microscopic image featuring a segmented, worm-like parasite. The parasite must precisely conform to the shape and diagonal orientation of the white mask in Image 1. It is firmly attached to and partially embedded within detailed, organic cell tissue that fills the microscopic field of view.",
+  "annotator": "samin",
+  "objects": [
+    "Photorealistic microscopic image",
+    "Segmented worm-like parasite",
+    "Parasite conforming to the shape of the white mask in Image 1",
+    "Parasite with diagonal orientation as in Image 1",
+    "Detailed organic cell tissue",
+    "Cell tissue filling the microscopic field of view",
+    "Parasite attached to cell tissue",
+    "Parasite partially embedded within cell tissue"
+  ]
+}

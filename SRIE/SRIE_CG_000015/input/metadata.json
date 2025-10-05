@@ -1,0 +1,19 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "Replace in the source image the segmented sheeps in the reference with some statues.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit Image 1. Replace the four sheep in the central-lower part of the image with statues. Utilize the segmentation mask provided in Image 2 to precisely define the areas for replacement.",
+  "annotator": "nimajamali",
+  "objects": [
+    "green grass",
+    "four statues",
+    "four sheep (should not be present)"
+  ],
+  "human_annotation": true
+}

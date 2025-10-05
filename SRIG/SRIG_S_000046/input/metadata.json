@@ -1,0 +1,28 @@
+{
+  "subtopic": "Websites",
+  "prompt": "Generate a realistic screenshot of a Google play store website displayed in a clean modern browser window. The page content should feature a card-based layout showing article headlines and thumbnails. Use the reference image's browser window framing and overall clean UI aesthetic.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://lifehacker.com/imagery/articles/01JEXQF8XJH7464BVZDTZFECZA/hero-image.fill.size_1248x702.v1734017000.jpg",
+  "searchQueryGenerated": "High quality website screenshot browser window",
+  "searchQueryGeneratedTimestamp": 1749438449704,
+  "promptGeneratedTimestamp": 1749438895498,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a realistic screenshot of a Google Play Store website, displayed in a modern browser window. The browser window should replicate the clean framing, dark top bar, and overall user interface aesthetic of image 1. The main content of the Play Store page must feature a card-based grid layout, with each card showcasing an article headline and a corresponding thumbnail image. Ensure the entire page maintains the minimalist design and clear content separation visible in image 1.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Modern browser window",
+    "Browser's dark top bar",
+    "Browser address bar",
+    "Google Play Store website user interface",
+    "Website search bar",
+    "Main content heading (e.g., for categories or collections)",
+    "Card-based grid layout",
+    "Thumbnail images within cards",
+    "Article headlines within cards",
+    "Supporting text or details within cards"
+  ]
+}

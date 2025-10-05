@@ -1,0 +1,26 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "Using the provided reference texture, generate a microscopic image of an insect's compound eye.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic, high-resolution microscopic image of an insect's compound eye. The eye's surface should meticulously replicate the convex, hexagonal tessellation and distinct 3D relief observed in image 1, forming the individual ommatidia. Capture the natural curvature and subtle, light-refracting qualities typical of a real insect's eye under magnification.",
+  "annotator": "samin",
+  "objects": [
+    "insect's compound eye",
+    "microscopic view",
+    "eye's surface",
+    "convex tessellation",
+    "hexagonal tessellation",
+    "distinct 3D relief",
+    "individual ommatidia",
+    "natural curvature of the eye",
+    "light-refracting qualities",
+    "high-resolution detail"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

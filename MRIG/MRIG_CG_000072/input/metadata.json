@@ -1,0 +1,27 @@
+{
+  "subtopic": "Object detection visuals",
+  "prompt": "Generate a computer graphics visual for object detection. Depict the person from image 2 and the icon from image 3 being detected, rendered in the glowing, abstract style of image 1 with visual detection indicators.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748417754465,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a computer graphics visual for an object detection scenario. The image must prominently feature the man from image 2 and the abstract circular icon from image 3. Both the detected man and the icon should be clearly highlighted with visual detection indicators, such as glowing outlines or bounding boxes. Render the entire composition in the distinctive glowing, abstract style of image 1, incorporating its signature luminous purple and pink lines against a dark, minimalist background.",
+  "annotator": "winston",
+  "objects": [
+    "man",
+    "abstract circular icon",
+    "glowing outline or bounding box around the man",
+    "glowing outline or bounding box around the abstract circular icon",
+    "computer graphics visual style",
+    "object detection scenario elements",
+    "luminous purple lines",
+    "luminous pink lines",
+    "dark, minimalist background"
+  ]
+}

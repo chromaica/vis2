@@ -1,0 +1,24 @@
+{
+  "task": "MRIE",
+  "topic": "T",
+  "subtopic": "Subtitle",
+  "prompt": "Change the subtitle to 'Such a failure', and add the clock in the second image to the shelf behind the character in the first image. Align the clock with the shelf. Finally, add a slipper from the third image flying towards the character. Make the flying trijectory from right to left, and adjust the angle to make it look natural.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1.\n\n1.  Replace the existing subtitle \"free video?\" you ask...\" at the bottom of image 1 with the new text: \"Such a failure\".\n2.  Integrate the orange square clock from image 2 onto the golden shelf located behind the character's right shoulder in image 1. Ensure the clock is aligned properly and sits naturally on the shelf surface.\n3.  Add the red slipper from image 3 to the scene, depicting it in mid-air and flying towards the character in image 1. The slipper's trajectory should begin from the right side of the frame and move towards the left, with its angle adjusted to appear natural as if in motion.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Character (man)",
+    "Golden shelves",
+    "Items on shelves",
+    "Room background",
+    "Text: \"free video?\" you ask...\" (should not be present)",
+    "Text: \"Such a failure\"",
+    "Orange square clock on the golden shelf behind the character's right shoulder",
+    "Red slipper in mid-air, flying from the right towards the character"
+  ]
+}

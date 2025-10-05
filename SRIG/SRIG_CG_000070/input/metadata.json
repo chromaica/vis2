@@ -1,0 +1,26 @@
+{
+  "subtopic": "Game assets",
+  "prompt": "Generate a 3D rendered game asset: a vintage arcade machine. Use the reference image's isolated presentation, aging details, and realistic computer graphics style suitable for a game asset.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://img.itch.zone/aW1nLzE2Mzg2NDU5LnBuZw==/315x250%23c/LCw35f.png",
+  "promptGeneratedTimestamp": 1748768944207,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a 3D rendered vintage arcade machine game asset. Present the arcade machine in an isolated view on a grid plane, mimicking a 3D modeling software viewport as depicted in image 1, including a subtle 3D gizmo overlay. Apply the specific aging details observed in image 1, such as the yellowed plastic textures and subtle grime. The overall rendering style should be realistic computer graphics suitable for a game asset, mirroring the fidelity and lighting conditions found in image 1.",
+  "annotator": "ishengfang",
+  "objects": [
+    "3D rendered vintage arcade machine",
+    "Isolated view of the arcade machine",
+    "Grid plane (as background/ground)",
+    "3D modeling software viewport style",
+    "Subtle 3D gizmo overlay",
+    "Yellowed plastic textures on the arcade machine",
+    "Subtle grime on the arcade machine",
+    "Realistic computer graphics style",
+    "Lighting conditions similar to image 1"
+  ],
+  "human_annotation": true
+}

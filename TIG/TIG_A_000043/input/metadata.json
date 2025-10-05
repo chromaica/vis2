@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Stylized art",
+  "prompt": "Bright, stylized art mandala pattern in shades of red, green, and gold, evoking a sense of harmony.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "An ornate, vibrant, and highly detailed symmetrical art mandala pattern. This intricate geometric design features a harmonious blend of rich ruby reds, deep emerald greens, and shimmering gold accents. The centrally placed composition radiates a profound sense of balance and serenity.",
+  "annotator": "cwhsu",
+  "objects": [
+    "mandala pattern",
+    "symmetrical design",
+    "intricate geometric details",
+    "ornate embellishments",
+    "ruby red color",
+    "emerald green color",
+    "gold accents",
+    "centrally placed composition"
+  ]
+}

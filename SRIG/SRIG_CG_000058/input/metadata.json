@@ -1,0 +1,27 @@
+{
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "Generate a computer graphics image of a busy city street scene, guided by the reference image's composition and segmentation style. Show pedestrians, vehicles, and buildings highlighted with distinct colored masks or outlines, visualizing semantic segmentation.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://images.ctfassets.net/3viuren4us1n/10MXL1F4Bvj8XLQyFcWKCH/443f17db22fc77bd0d668599a73bbe81/Image-Segmentation-Banner-Image.jpg",
+  "promptGeneratedTimestamp": 1748768472441,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a computer graphics image of a busy city street scene, emulating the composition and detailed semantic segmentation visualization style seen in image 1. Depict a wide urban street with tall buildings on both sides receding into the distance, and a prominent crosswalk in the foreground. The scene should be populated with various vehicles, including yellow taxis, trucks, and cars, alongside pedestrians walking and standing. All individual elements \u2013 such as buildings, vehicles, pedestrians, and traffic lights \u2013 must be clearly defined by distinct, vibrant colored masks or outlines, visually representing their semantic segmentation.",
+  "annotator": "ishengfang",
+  "objects": [
+    "wide urban street",
+    "tall buildings on both sides",
+    "crosswalk in the foreground",
+    "yellow taxis",
+    "trucks",
+    "cars",
+    "pedestrians walking",
+    "pedestrians standing",
+    "traffic lights"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

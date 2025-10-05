@@ -1,0 +1,25 @@
+{
+  "task": "MRIE",
+  "topic": "P",
+  "subtopic": "Wildlife & Nature Photography",
+  "prompt": "Make the bird from the third image stand on the right side of the bridge's fence in the first image, then add the sheep from the second image behind the bridge looking at the bird.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the provided Image 1. Integrate the bird from Image 3, positioning it to stand on the top surface of the right-hand fence of the bridge. Additionally, incorporate one of the sheep from Image 2 into the scene behind the bridge, ensuring it is looking towards the newly placed bird. Maintain a photorealistic appearance consistent with the snowy environment of Image 1.",
+  "annotator": "boris",
+  "objects": [
+    "Snowy environment",
+    "Bridge",
+    "Path on the bridge",
+    "Right-hand fence of the bridge",
+    "Left-hand fence of the bridge",
+    "Bird from Image 3 standing on the top surface of the right-hand fence of the bridge",
+    "Sheep from Image 2 behind the bridge, looking towards the bird",
+    "Snow-covered trees and bushes"
+  ],
+  "human_annotation": true
+}

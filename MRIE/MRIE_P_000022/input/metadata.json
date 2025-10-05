@@ -1,0 +1,22 @@
+{
+  "task": "MRIE",
+  "topic": "P",
+  "subtopic": "Scenic Nature Parks",
+  "prompt": "Add the dog from the first image to the second image, chasing the bird from the third image down the road of the second image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 2. Integrate the dog from image 1 onto the snowy road, positioning it in the mid-ground, slightly to the right. Place the bird from image 3 further down the road, ahead of the dog and closer to the center of the path. The dog should be depicted in a dynamic running pose, actively chasing the bird along the snow-covered forest road, ensuring both subjects are seamlessly integrated into the existing winter environment of image 2.",
+  "annotator": "boris",
+  "objects": [
+    "Snowy forest road",
+    "Snow-covered trees",
+    "Sunlight",
+    "Dog from image 1, in a running pose, in mid-ground slightly to the right",
+    "Bird from image 3, ahead of the dog, closer to the center of the path",
+    "Dog chasing the bird"
+  ]
+}

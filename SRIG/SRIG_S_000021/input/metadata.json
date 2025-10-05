@@ -1,0 +1,30 @@
+{
+  "subtopic": "Receipts",
+  "prompt": "Generate a screenshot of a digital order confirmation on subscribing \"Cursor IDE AI Service Plan, 20USD/month\". Use the clean, minimal UI style and card layout inspired by the receipt reference image.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://thumbs.dreamstime.com/b/email-receipt-template-online-bill-mock-up-internet-payroll-layout-payment-subscription-notification-paperless-invoice-service-227039936.jpg",
+  "searchQueryGenerated": "Clear digital receipt screenshot example",
+  "searchQueryGeneratedTimestamp": 1749423326495,
+  "promptGeneratedTimestamp": 1749423418072,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a screenshot of a digital order confirmation. The screen should confirm a subscription to the 'Cursor IDE AI Service Plan' for '$20/month'. Adopt the clean, minimalist UI style of image 1, featuring rounded rectangular cards on a light background. Place the primary service details, 'Cursor IDE AI Service Plan' and '$20/month', prominently in a large font within the top card, mirroring the presentation of the total amount in image 1. Within a secondary card, or a section below, include typical order confirmation elements such as an order ID, purchase date, and payment method, presented as clear key-value pairs, consistent with the structured details found in image 1.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Light background",
+    "Rounded rectangular cards (at least two)",
+    "Prominent \"Cursor IDE AI Service Plan\" text in the top card",
+    "Prominent \"$20/month\" text in the top card",
+    "Order ID key-value pair",
+    "Purchase date key-value pair",
+    "Payment method key-value pair",
+    "A digital order confirmation title/header",
+    "Smaller text indicating subscription confirmation (e.g., \"Subscription Confirmed\")",
+    "Structured key-value pair layout in a secondary card/section"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

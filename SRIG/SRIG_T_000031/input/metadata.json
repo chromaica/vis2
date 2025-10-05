@@ -1,0 +1,25 @@
+{
+  "subtopic": "Memes",
+  "prompt": "Generate a Textual Graphics meme, employing the reference image's composition of a character interacting with a screen. Overlay meme text onto the image or the screen content.",
+  "cond_images": [
+    "1.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1750705347339,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "T",
+  "annotator": "winston",
+  "prompt_refined": "Generate a Textual Graphics meme using the composition from image 1. The image features a soldier in a military vehicle, positioned near a monitor on the left. Overlay prominent, bold meme text onto the blank screen of this monitor. Alternatively, place the meme text as a general overlay on the image, ensuring it does not obscure the soldier's face or the monitor.",
+  "objects": [
+    "soldier",
+    "military vehicle interior",
+    "monitor (on the left)",
+    "prominent, bold meme text",
+    "soldier's face (not obscured by text)",
+    "soldier's helmet",
+    "soldier's uniform",
+    "radio/communication device",
+    "control panel/switches"
+  ]
+}

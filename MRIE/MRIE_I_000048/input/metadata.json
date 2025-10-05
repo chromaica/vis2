@@ -1,0 +1,23 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "Edit image 1: Apply the soft, shaded golden style of image 2 to the overall circular icon shape. Then, color the four internal segments of the icon using the distinct quadrant colors (green, blue, red, yellow) from image 3.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, which features a circular icon. Apply the soft, shaded golden style of image 2 to the entire circular icon shape. Then, color the four internal segments of the icon using the distinct quadrant colors from image 3: specifically, the top-left segment should be green, the top-right blue, the bottom-left red, and the bottom-right yellow.",
+  "annotator": "maxku",
+  "objects": [
+    "Circular icon shape from image 1",
+    "Soft, shaded golden style on the icon's outer boundary",
+    "Soft, shaded golden style on the icon's central cross-shaped separator",
+    "Top-left segment of the icon, green",
+    "Top-right segment of the icon, blue",
+    "Bottom-left segment of the icon, red",
+    "Bottom-right segment of the icon, yellow"
+  ]
+}

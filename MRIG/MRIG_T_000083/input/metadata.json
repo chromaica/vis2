@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "Arrange the word 'KICK' in a person-shaped composition like the first image, incorporate water curves and clean space from the second, and use Messi\u2019s (in the third image) jersey color palette for shading.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate an image where the letters of the word 'KICK' are arranged to form a dynamic, human-like figure, drawing inspiration from the textual body composition in image 1. Integrate the smooth, layered wave patterns from image 2 into the design elements of the letters or surrounding space, maintaining a clean, minimalist background aesthetic consistent with image 2. Apply the light blue, white, and dark blue color palette from Messi's jersey in image 3 to color the letters, utilizing these shades for both primary fills and any internal details or depth 'shading'.",
+  "annotator": "parnian",
+  "objects": [
+    "Letters forming the word 'KICK'",
+    "Human-like figure composed of letters",
+    "Dynamic pose",
+    "Light blue color applied to letters",
+    "White color applied to letters",
+    "Dark blue color applied to letters",
+    "Smooth, layered wave patterns (on letters or in surrounding space)",
+    "Clean minimalist background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

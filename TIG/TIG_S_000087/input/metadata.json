@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "A handwritten receipt on graph paper from \"Abuela Rosa's Pupuser\u00eda\" in San Salvador, El Salvador. Items written in pencil: 4 Pupusas de Queso @ $1.25 each, 2 Horchata @ $1.50 each. Total: $8.00 USD. The paper has grease stains and is held down by a small ceramic plate with salsa roja.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate an image depicting a handwritten receipt on graph paper, originating from 'Abuela Rosa's Pupuser\u00eda' in San Salvador, El Salvador. The receipt's details, clearly written in pencil, explicitly show '4 Pupusas de Queso @ $1.25 each', '2 Horchata @ $1.50 each', and a 'Total: $8.00 USD'. The graph paper exhibits visible grease stains. A small ceramic plate containing vibrant salsa roja rests on the lower section of the receipt, serving to hold it in place.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Handwritten receipt",
+    "Graph paper",
+    "\"Abuela Rosa's Pupuser\u00eda\" text on receipt",
+    "\"San Salvador, El Salvador\" text on receipt",
+    "Pencil writing detailing items and total on receipt",
+    "Visible grease stains on graph paper",
+    "Small ceramic plate",
+    "Vibrant salsa roja in the plate",
+    "Small ceramic plate resting on the lower section of the receipt",
+    "Receipt held in place by the plate"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "Swap the barren half with illustrations of wind turbines and solar panels, retitle to \u2018Power the Future\u2019 in bold sans, and change the background to look like outer space.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the barren left half of the globe with illustrations of wind turbines and solar panels. Change the transparent background to a deep outer space scene with stars and nebulae. Add the title \u2018Power the Future\u2019 in a bold sans-serif font, positioned prominently and centered above the globe.",
+  "annotator": "matina",
+  "objects": [
+    "globe",
+    "wind turbines (on the left half of the globe)",
+    "solar panels (on the left half of the globe)",
+    "green and blue half of the globe (right side)",
+    "deep outer space scene (background)",
+    "stars",
+    "nebulae",
+    "text \u2018Power the Future\u2019 (bold sans-serif font, centered above the globe)",
+    "barren left half of the globe (should not be present)",
+    "transparent background (should not be present)"
+  ],
+  "human_annotation": true
+}

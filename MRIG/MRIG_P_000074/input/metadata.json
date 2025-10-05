@@ -1,0 +1,24 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Reimagine a Boeing 737 referenced in the first image as a giant albatross referenced in the second image. The compact, single-aisle fuselage is smooth, with white and gray feather-like composite materials. The wings are long and slender, designed for gliding, each equipped with a single CFM56 turbofan engine mounted under the wing. The cockpit is sleek, resembling an albatross\u2019s head with a curved, beak-like nose. The tail is wide and forked, with a small rear thruster.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic image of a hybrid aircraft, blending features of the Boeing 737 (image 1) with the albatross (image 2). The aircraft's compact, single-aisle fuselage, like that of the Boeing 737 in image 1, should be smooth, with white and gray feather-like composite materials inspired by the albatross in image 2. It possesses long, slender wings designed for gliding, similar to the albatross in image 2, with a single CFM56 turbofan engine mounted under each wing, referencing the Boeing 737 in image 1. The cockpit is sleek, resembling the albatross's head from image 2, featuring a curved, beak-like nose. The tail is wide and forked, with a small rear thruster.",
+  "objects": [
+    "hybrid aircraft",
+    "compact, single-aisle fuselage",
+    "smooth, white and gray feather-like composite materials",
+    "long, slender wings",
+    "single CFM56 turbofan engine under each wing",
+    "sleek cockpit",
+    "curved, beak-like nose",
+    "wide and forked tail",
+    "small rear thruster"
+  ]
+}

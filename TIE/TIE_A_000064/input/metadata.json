@@ -1,0 +1,19 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Statue",
+  "prompt": "Make it holds a big nut. Adjust the hands to hold the nut properly.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, featuring a green ceramic squirrel. Add a large acorn for the squirrel to hold. Position the acorn between its front paws, in front of its mouth, ensuring the paws are adjusted to convincingly grasp it.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "green ceramic squirrel",
+    "large acorn",
+    "squirrel's front paws (adjusted to grasp the acorn)",
+    "plain background",
+    "shadow of the squirrel"
+  ]
+}

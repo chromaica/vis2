@@ -1,0 +1,20 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "Help me add 3 moons to the night sky, on the left the moon is the smallest, with the largest on the right side. All moons are red in color",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Add three red moons to the night sky. The smallest moon should be positioned on the far left, the largest moon on the far right, and the third moon placed in the center, maintaining a clear size progression from left to right.",
+  "annotator": "theblackcat",
+  "objects": [
+    "night sky",
+    "stars",
+    "telescope",
+    "smallest red moon on the far left",
+    "largest red moon on the far right",
+    "red moon in the center"
+  ]
+}

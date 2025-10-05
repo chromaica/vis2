@@ -1,0 +1,26 @@
+{
+  "subtopic": "3D renders",
+  "prompt": "Edit image 1: Transform the 3D wireframe deer by adding wireframe bunny ears from image 2. Place the deer atop a rendered crescent moon object inspired by image 3's composition. Use the pastel colors of image 2 and the beige tone of image 3 for the lighting and environment.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748455558973,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1. Transform the 3D wireframe deer by adding 3D wireframe bunny ears, drawing their style and shape from image 2. Position the modified deer atop a rendered 3D crescent moon object, mirroring the cat's pose and placement on the moon in image 3. Set the overall lighting and environment using the beige tone from image 3, with subtle pastel color accents (blues, pinks) from image 2, ensuring the wireframe deer maintains its luminous quality.",
+  "annotator": "winston",
+  "objects": [
+    "3D wireframe deer with bunny ears",
+    "Rendered 3D crescent moon object",
+    "3D wireframe deer with bunny ears atop the crescent moon",
+    "Beige tone environment",
+    "Subtle pastel blue accents",
+    "Subtle pastel pink accents"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

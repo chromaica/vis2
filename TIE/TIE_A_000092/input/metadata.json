@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Expressionism",
+  "prompt": "Change the style of this painting to realism. Maintain the essence of the original painting.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Convert the abstract painting's style to photorealistic detail while retaining its original composition, vibrant color palette (reds, oranges, purples, whites, and blues), and the interplay of light and shadow.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Visual elements primarily colored vibrant red",
+    "Visual elements primarily colored vibrant orange",
+    "Visual elements primarily colored vibrant purple",
+    "Visual elements primarily colored vibrant white",
+    "Visual elements primarily colored vibrant blue",
+    "Photorealistic textures on all surfaces",
+    "Photorealistic areas of strong illumination",
+    "Photorealistic shadow areas"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

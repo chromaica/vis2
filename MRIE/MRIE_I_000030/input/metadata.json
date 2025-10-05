@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "Edit image 1: Use its decorative '@' symbol as a recurring graphical element. Arrange these elements to create a structure resembling the Borromean rings from image 2, forming a diagram. Apply the color scheme from image 3's green palette to the elements and connections.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Modify image 1 directly: Reconstruct its central decorative '@' symbol into an intricate diagram. This diagram should be composed of multiple, smaller instances of the original decorative '@' symbol (as seen in image 1) arranged to form the distinct interlocking structure of the Borromean rings from image 2. Apply the entire green color palette from image 3 to color these replicated '@' symbols and the visual connections forming the rings, ensuring a cohesive and visually distinct representation.",
+  "annotator": "maxku",
+  "objects": [
+    "light grey background",
+    "original central decorative '@' symbol (should not be present)",
+    "intricate diagram",
+    "Borromean rings structure",
+    "three interlocking ring shapes",
+    "multiple small decorative '@' symbols",
+    "green colored ring structures",
+    "green colored small '@' symbols",
+    "visual connections forming the rings",
+    "varied shades of green"
+  ]
+}

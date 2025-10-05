@@ -1,0 +1,24 @@
+{
+  "subtopic": "3D renders",
+  "prompt": "Generate a detailed 3D render of a modern network control center. Use the reference image's sterile style and layout with multiple workstations and monitors against a dark void. High fidelity computer graphics.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHfo085Lfw25pgFaHNSc3WUzzm4pXSLWE1sA&s",
+  "promptGeneratedTimestamp": 1748768214256,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a high-fidelity 3D render of a modern network control center. Adopt the sterile, clean aesthetic and linear workstation arrangement observed in image 1. The scene should feature a row of multiple white workstations, each equipped with three flat-panel monitors, a keyboard, a mouse, and a telephone. A blue ergonomic office chair should be positioned at each station. The entire setup is presented against a dark, featureless void.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Row of multiple white workstations",
+    "Three flat-panel monitors per workstation",
+    "Keyboards",
+    "Mice",
+    "Telephones",
+    "Blue ergonomic office chairs",
+    "Linear workstation arrangement",
+    "Dark, featureless void background"
+  ]
+}

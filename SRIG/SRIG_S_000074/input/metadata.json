@@ -1,0 +1,24 @@
+{
+  "subtopic": "Games",
+  "prompt": "Render the inventory screen from this RPG game as a physical, top-down photo of a real adventurer's leather pouch with all the items laid out neatly beside it.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://site-assets.gamedevartisan.com/posts/game-design/feature-study/d4-ui-character-stats-buttons.png",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a top-down, realistic photograph of an adventurer's open, distressed leather pouch lying on a rustic wooden surface. Surrounding the pouch, the items from the RPG inventory screen in image 1 are neatly laid out.\nOn the left side of the pouch, a vertical arrangement of armor includes a dark, fur-trimmed helmet, a scaled chest piece, gauntlets, plated leggings, and heavy boots.\nOn the right side of the pouch, an ornate blue amulet, two blue rings, and a red, spiky club weapon are vertically aligned.\nTo the lower-left of the pouch, a green, shield-like off-hand item is placed.\nBelow the pouch, arranged horizontally, are an ornate gold goblet, intricate silver gears, a rolled parchment scroll, and a small human skull.\nIn the bottom-right area, a cluster of six faceted gems is present: white, blue, red, green, purple, and yellow.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "adventurer's open, distressed leather pouch",
+    "rustic wooden surface",
+    "on the left side of the pouch, a dark, fur-trimmed helmet",
+    "on the left side of the pouch, a scaled chest piece",
+    "on the right side of the pouch, an ornate blue amulet",
+    "on the right side of the pouch, a red, spiky club weapon",
+    "to the lower-left of the pouch, a green, shield-like off-hand item",
+    "below the pouch, an ornate gold goblet",
+    "below the pouch, a small human skull",
+    "in the bottom-right area, a cluster of six faceted gems"
+  ]
+}

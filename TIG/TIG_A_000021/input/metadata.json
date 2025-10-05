@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "A digital phoenix rising from pixelated flames, blending hues of orange and blue against a night sky backdrop.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate an artwork depicting a powerful digital phoenix, its form constructed from luminous, glowing pixels, dramatically soaring upwards from vibrant, fragmented flames. The phoenix's body is a seamless blend of fiery orange and cool electric blue hues, set against a vast, deep indigo night sky.",
+  "annotator": "cwhsu",
+  "objects": [
+    "A powerful digital phoenix",
+    "Phoenix form constructed from luminous, glowing pixels",
+    "Phoenix body with fiery orange hues",
+    "Phoenix body with cool electric blue hues",
+    "Phoenix soaring upwards",
+    "Vibrant, fragmented flames",
+    "Vast, deep indigo night sky"
+  ],
+  "human_annotation": true
+}

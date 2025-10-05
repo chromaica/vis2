@@ -1,0 +1,20 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Statue",
+  "prompt": "Change the stone that the statue is sitting on to a toilet. Make the toilet consistent with every angle of the status.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Replace the rough stone pedestal that each statue is sitting on with a white, standard-sized ceramic toilet. The toilet should be consistent in perspective, lighting, and material across all three views of the statue in image 1, appearing as if the statue is naturally seated on it.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "The Thinker statues",
+    "White ceramic toilets",
+    "Rough stone pedestal (should not be present)",
+    "Plain light background",
+    "White surface"
+  ],
+  "human_annotation": true
+}

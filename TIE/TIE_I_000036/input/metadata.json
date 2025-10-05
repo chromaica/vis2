@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Bar chart with vibrant seasonal colors, textured backgrounds, and artistic icons representing each season, enhancing the sales data's visual storytelling.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, a bar chart titled 'Total Sales' that displays monthly sales data grouped by specific seasons and years (2010-2011). The goal is to visually enhance the sales data's storytelling by applying distinct seasonal aesthetics to the chart.\n\nSpecifically:\n- **Summer (Jan-Feb 2010, Nov-Dec 2010, Jan-Feb 2011, Dec 2011):** Recolor the bars with vibrant yellows and warm oranges. Implement a textured background with subtle sun rays or a warm, sandy pattern behind these bars. Add an artistic sun or beach-themed icon near the 'Summer' labels.\n- **Autumn (Mar-Apr 2010, Mar-May 2011):** Recolor the bars with rich reds, deep oranges, and browns. Introduce a textured background depicting fallen leaves or rustic wood grain behind these bars. Place an artistic maple leaf or pumpkin icon near the 'Autumn' labels.\n- **Winter (May-Aug 2010, Jun-Aug 2011):** Recolor the bars with icy blues, silvers, and deep purples. Apply a textured background with delicate snowflake patterns or frosty textures behind these bars. Include an artistic snowflake or snowman icon near the 'Winter' labels.\n- **Spring (Sep-Oct 2010, Sep-Nov 2011):** Recolor the bars with fresh greens, light pinks, and pastels. Incorporate a textured background featuring blooming flowers or fresh greenery behind these bars. Integrate an artistic flower bud or butterfly icon near the 'Spring' labels.\n\nMaintain clear readability of the data, including the sales figures, month and year labels, and axes, while transforming the chart into an artistic, seasonally themed information graphic.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Bar chart bars",
+    "'Total Sales' chart title",
+    "Monthly sales data values and axes",
+    "Month and year labels (e.g., Jan-10, 2010)",
+    "Seasonal grouping labels (Summer, Autumn, Winter, Spring)",
+    "Summer-themed bar sets with vibrant yellows and warm oranges",
+    "Autumn-themed bar sets with rich reds, deep oranges, and browns",
+    "Winter-themed bar sets with icy blues, silvers, and deep purples",
+    "Spring-themed bar sets with fresh greens, light pinks, and pastels",
+    "Textured seasonal backgrounds (e.g., sun rays, fallen leaves, snowflake patterns, blooming flowers) behind the bars, and artistic seasonal icons (e.g., sun, maple leaf, snowflake, flower bud) near the season labels"
+  ]
+}

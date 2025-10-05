@@ -1,0 +1,29 @@
+{
+  "subtopic": "Receipts",
+  "prompt": "Edit image 1: Transform the cafe receipt into a mechanics invoice by changing the main total amount \"$8.56\" to match the \"$154.06\" total value found on the receipt in image 2.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "Clear receipt screenshot",
+  "searchQueryGeneratedTimestamp": 1752235926091,
+  "promptGeneratedTimestamp": 1752235951684,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "annotator": "ishengfang",
+  "prompt_refined": "Edit image 1, the cafe receipt, to transform it into a mechanics invoice. Use image 2 as a reference for the visual style and content of a mechanics invoice.\nChange the business name at the top of image 1 from 'Atomic Cafe - Newburyport (NPT)' to a mechanics-related name, similar to 'EAST MECHANICS, INC.' from image 2.\nUpdate all instances of the total amount '$8.56' (including the prominent central figure and the final 'Total' at the bottom) to '$154.06', matching the 'Receipt Total' in image 2.\nAdjust the itemized list (e.g., 'Sandwiches') and associated subtotal and sales tax details (currently 7%) to reflect mechanics services and to correctly sum to the new $154.06 total, adopting the 6.25% sales tax rate from image 2.",
+  "objects": [
+    "mechanics-related business name (e.g., 'EAST MECHANICS, INC.')",
+    "prominent central total amount: $154.06",
+    "final total amount: $154.06",
+    "itemized list of mechanics services (e.g., Front and rear brake cables, New set of pedal arms, Labor)",
+    "subtotal line item and amount",
+    "sales tax line item with \"6.25%\"",
+    "sales tax calculated amount",
+    "receipt/invoice structure from original image 1",
+    "'Atomic Cafe - Newburyport (NPT)' text (should not be present)",
+    "'$8.56' values (should not be present)"
+  ]
+}

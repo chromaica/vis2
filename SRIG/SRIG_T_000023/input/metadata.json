@@ -1,0 +1,24 @@
+{
+  "task": "SRIG",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "greate a motivational poster inspired by the reference image's design style and visual hierarchy, featuring the slogan 'IDEAS ARE CHEAP. THE IMPORTANT' with similar typography and compositional elements",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a motivational poster featuring a minimalist line art illustration in black on a clean white background, inspired by the overall design style and visual hierarchy of image 1. The composition should include a simplified upper body figure, similar to the one in image 1 with its distinctive decorative elements on the sides. The slogan 'IDEAS ARE CHEAP. THE IMPORTANT' must be prominently displayed, centered within the figure's chest area, mirroring the text placement in image 1. The typography for the slogan should be a handwritten, all-caps, slightly uneven sans-serif style, consistent with the aesthetic of the text in image 1.",
+  "annotator": "theblackcat",
+  "objects": [
+    "clean white background",
+    "black line art",
+    "simplified upper body figure outline",
+    "lips outline (as part of the figure)",
+    "decorative elements (leaf-like) on both sides of the figure",
+    "slogan: 'IDEAS ARE CHEAP. THE IMPORTANT'",
+    "handwritten, all-caps, slightly uneven sans-serif typography for the slogan",
+    "slogan centered within the figure's chest area",
+    "prominent display of the slogan",
+    "overall minimalist composition"
+  ]
+}

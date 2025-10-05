@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "create a time-layered transparent map showing the same location across five different historical periods",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a single, information graphic map that depicts the same geographical location across five distinct historical periods. Each historical period must be represented as a separate, semi-transparent layer, precisely overlaid onto the previous one. The transparency should allow visual elements from all five layers to be simultaneously visible, highlighting the evolution and changes of the location over time within a unified composite image.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Map base of a specific geographical area",
+    "Visual overlay for the first historical period",
+    "Visual overlay for the second historical period (semi-transparent)",
+    "Visual overlay for the third historical period (semi-transparent)",
+    "Visual overlay for the fourth historical period (semi-transparent)",
+    "Visual overlay for the fifth historical period (semi-transparent)",
+    "Composite visual effect showing simultaneous visibility of all layers",
+    "Labels indicating historical periods or dates",
+    "Map title",
+    "Information graphic legend or key"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "subtopic": "3D renders",
+  "prompt": "A 3D render featuring cute characters inspired by the chicken from image 1 and the cat from image 2. The cat holds the pumpkin bucket from image 2, in a simple, bright 3D environment.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748421891563,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a 3D render depicting two cute, minimalistic characters: a chicken designed in the style of image 1, and a cat in the style of image 2. The cat character, maintaining the distinctive rounded body and simple features from image 2, should be holding the orange pumpkin bucket also visible in image 2. Place the chicken character on the left and the cat character on the right. The scene is presented in a bright, clean, minimalist 3D environment.",
+  "annotator": "winston",
+  "objects": [
+    "3D render",
+    "Cute, minimalistic chicken character on the left",
+    "Cute, minimalistic cat character on the right",
+    "Orange pumpkin bucket",
+    "Cat character holding the orange pumpkin bucket",
+    "Chicken character designed in the style of image 1",
+    "Cat character designed in the style of image 2, with a rounded body and simple features",
+    "Bright 3D environment",
+    "Clean 3D environment",
+    "Minimalist 3D environment"
+  ]
+}

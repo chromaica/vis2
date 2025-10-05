@@ -1,0 +1,22 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": "Add a dramatic black-ink splash radiating from the impact point, with blood droplets flying outward.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Add a dramatic black-ink splash, radiating outwards from the impact point where Batman's fist connects with Superman's face, with blood droplets also flying outward from this point.",
+  "annotator": "matina",
+  "objects": [
+    "Superman",
+    "Batman",
+    "Dramatic black-ink splash radiating outwards from impact point",
+    "Blood droplets flying outward from impact point",
+    "Speech bubble with \"WHO?!\"",
+    "Speech bubble with \"WHO?\"",
+    "Speech bubble with \"THERE'S NOTHING YOU CAN DO HERE.\"",
+    "\"KA-TH\" sound effect text"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Design and generate a bubble tea delivery brand identity using the first image\u2019s stylish character and the second image\u2019s bold font layout, titled 'PantherDrop'.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate an image depicting a brand identity for a bubble tea delivery service. The primary visual element should be a stylish, cool character similar to the pink panther in image 1, depicted wearing sunglasses, a gold chain, and drinking bubble tea. Accompanying this, prominently display the brand name 'PantherDrop' using a bold, sans-serif font style and layout, directly inspired by the typography of the logo in image 2. The overall composition should form a cohesive brand logo.",
+  "annotator": "parnian",
+  "objects": [
+    "Stylish, cool pink panther-like character",
+    "Sunglasses on the character",
+    "Gold chain on the character",
+    "Bubble tea held by the character",
+    "Brand name 'PantherDrop'",
+    "Bold, sans-serif font style for 'PantherDrop'",
+    "Typography layout for 'PantherDrop' inspired by the FedEx logo (image 2)"
+  ]
+}

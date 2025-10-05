@@ -1,0 +1,21 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Stylized art",
+  "prompt": "Create a painting of a similar coastal lighthouse during a storm",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a painting in the illustrative style of image 1, depicting a coastal lighthouse similar in structure to those found in image 1. The scene should be set during a severe storm, featuring turbulent waves crashing against the rocky coast and an overcast, dramatic sky.",
+  "annotator": "Johnny",
+  "objects": [
+    "Coastal lighthouse",
+    "Turbulent waves",
+    "Rocky coast",
+    "Overcast sky",
+    "Dramatic sky",
+    "Rain",
+    "Sea spray"
+  ]
+}

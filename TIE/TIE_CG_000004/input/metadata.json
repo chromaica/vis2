@@ -1,0 +1,24 @@
+{
+  "subtopic": "Object detection visuals",
+  "prompt": "Change the color of all detected object bounding boxes and their corresponding labels to a bright red color.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751817184174,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1 by changing the color of all existing object bounding boxes and their corresponding text labels to a bright red color.",
+  "annotator": "edisy",
+  "objects": [
+    "City street environment",
+    "Multiple cars",
+    "Truck",
+    "Person",
+    "Bicycle",
+    "Traffic light",
+    "Bright red object bounding boxes",
+    "Bright red object text labels"
+  ]
+}

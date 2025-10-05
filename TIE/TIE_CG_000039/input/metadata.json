@@ -1,0 +1,24 @@
+{
+  "subtopic": "Depth maps",
+  "prompt": "Invert the grayscale values of the depth map, so that near objects are represented by darker shades and far objects by lighter shades.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751815961388,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1. Invert the grayscale values of the depth map so that near objects are represented by darker shades and far objects by lighter shades.",
+  "annotator": "edisy",
+  "objects": [
+    "Building represented as a depth map",
+    "Central dome",
+    "Two tall minarets",
+    "Arched main entrance",
+    "Steps leading to the entrance",
+    "Multiple smaller arches on the building's facade",
+    "Main body of the building structure",
+    "Black background"
+  ]
+}

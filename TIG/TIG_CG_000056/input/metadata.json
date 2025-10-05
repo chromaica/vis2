@@ -1,0 +1,16 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "CAD models",
+  "prompt": "A CAD model of a BLDC motor, connected to a VESC motor driver.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A highly detailed 3D CAD model render of a BLDC motor, positioned to the left and connected by visible electrical wires to a VESC motor driver on the right. The image should feature a clean, technical presentation with a neutral studio background.",
+  "annotator": "maxku",
+  "objects": [
+    "BLDC motor (positioned to the left)",
+    "VESC motor driver (on the right)",
+    "Visible electrical wires (connecting the BLDC motor and VESC motor driver)",
+    "Neutral studio background"
+  ]
+}

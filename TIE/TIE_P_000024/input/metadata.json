@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Make the photo in the reference image even more abstract",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the photorealistic image of a deconstructed concrete and brick column with wrapped cables, to increase its level of abstraction. Modify the central structure by introducing further disintegration, causing elements like brick sections and concrete fragments to break away and float independently around the main form. Allow for subtle material distortions and a less defined overall shape, while ensuring the scene remains visually coherent and photorealistic.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Deconstructed central column structure",
+    "Concrete sections within the central column",
+    "Brick sections within the central column",
+    "Green wrapped cables",
+    "Black wrapped cables",
+    "Floating concrete fragments",
+    "Floating brick sections",
+    "Pale green background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

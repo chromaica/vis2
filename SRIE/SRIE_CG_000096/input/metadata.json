@@ -1,0 +1,24 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Game assets",
+  "prompt": "Replace the character in the source image with the character from the reference image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the character on the right side of image 1 with the character from image 2, ensuring the new character maintains a similar posture and position walking away on the path.",
+  "annotator": "nimajamali",
+  "objects": [
+    "Character (from image 2) walking away on the path",
+    "Dilapidated house",
+    "Misty forest environment",
+    "Path",
+    "Scattered debris on the path",
+    "Dark atmosphere",
+    "Original character (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": "Replace the 'Capabilities' section with information about recent updates and features.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. In the central area of the screenshot, locate the 'Capabilities' section, positioned as the middle column under the lightning bolt icon. Replace this entire section with content about recent updates and features. Specifically, change the section title from 'Capabilities' to 'Recent Updates' and replace the three existing descriptive text boxes with the following new points: 'Plugin Support and Integrations', 'Voice Input and Output', and 'Enhanced Factual Accuracy'.",
+  "annotator": "cwhsu",
+  "objects": [
+    "ChatGPT title",
+    "Left navigation sidebar",
+    "Examples section (left column)",
+    "Limitations section (right column)",
+    "Lightning bolt icon (positioned centrally)",
+    "'Recent Updates' section title",
+    "Text box: 'Plugin Support and Integrations'",
+    "Text box: 'Voice Input and Output'",
+    "Text box: 'Enhanced Factual Accuracy'",
+    "Input field and send button at the bottom"
+  ]
+}

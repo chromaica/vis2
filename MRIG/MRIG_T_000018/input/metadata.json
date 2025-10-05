@@ -1,0 +1,24 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "Generate a BMW poster using the layout and style of the poster in the first image, featuring the white BMW car from the second image and the BMW logo from the third image  as the watermark in the top left of the poster.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a BMW poster using the visual style and layout of image 1. This includes the dramatic mountain landscape background, a winding road, and the prominent placement of a single car. Feature the white BMW car from image 2, positioned similarly to the car in image 1. Replace the 'PORSCHE' text from image 1 with 'BMW', rendered in a similar bold, red, large, sans-serif font at the bottom of the poster. Place the BMW logo from image 3 as a watermark in the top-left corner of the poster.",
+  "annotator": "parnian",
+  "objects": [
+    "dramatic mountain landscape background",
+    "winding road",
+    "single white BMW car, prominently placed",
+    "'BMW' text, bold, red, large, sans-serif font, at the bottom of the poster",
+    "BMW logo as a watermark in the top-left corner",
+    "'PORSCHE' text (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

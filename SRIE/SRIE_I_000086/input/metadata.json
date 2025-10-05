@@ -1,0 +1,20 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "Rewrite the contour line with dark color.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Change the color of the existing light salmon contour lines to a dark color. Adopt the high-contrast, graphic style and subtle line texture from image 2.",
+  "annotator": "Johnny",
+  "objects": [
+    "Contour lines (with pattern from Image 1)",
+    "Dark-colored lines",
+    "Light-colored background",
+    "High-contrast graphic style",
+    "Subtle line texture"
+  ]
+}

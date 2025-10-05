@@ -1,0 +1,21 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Stylized art",
+  "prompt": "Put this teapot into a cozy cottage interior",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate an image featuring the dark reddish-brown ceramic teapot from image 1, positioned centrally on a warm, rustic wooden table. The background should portray a cozy cottage interior, including soft, ambient lighting, a glowing fireplace, exposed wooden beams, and a window with gentle light filtering through, creating an inviting and intimate atmosphere.",
+  "annotator": "Johnny",
+  "objects": [
+    "dark reddish-brown ceramic teapot (centrally positioned)",
+    "warm, rustic wooden table",
+    "cozy cottage interior background",
+    "soft, ambient lighting",
+    "glowing fireplace",
+    "exposed wooden beams",
+    "window with gentle light filtering through"
+  ]
+}

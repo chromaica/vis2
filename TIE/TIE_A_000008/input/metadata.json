@@ -1,0 +1,18 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Vector arts",
+  "prompt": "Remove the thin black gaps within the pandas.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the image of the robot panda. Remove the thin black lines that define the separate segments of its body, making the different white and black sections appear more continuous and seamless.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "robot panda",
+    "white sections of the robot panda's body",
+    "black sections of the robot panda's body",
+    "thin black lines that define the separate segments of its body (should not be present)"
+  ]
+}

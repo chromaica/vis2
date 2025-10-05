@@ -1,0 +1,17 @@
+{
+  "subtopic": "Memes",
+  "prompt": "Generate a meme picture about crypto price \"to the moon\", which there are candlesticks from the earth to the moon. For the moon, please use the moon in the image provided.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/FullMoon2010.jpg/960px-FullMoon2010.jpg",
+  "task": "SRIG",
+  "topic": "T",
+  "prompt_refined": "Generate a humorous, meme-style visual illustrating the 'crypto to the moon' phenomenon. The full moon from image 1 should be positioned prominently in the upper part of the frame. From the bottom of the image, representing Earth, financial candlesticks must extend vertically upwards, creating a visual path directly towards the moon.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Full moon from image 1, positioned prominently in the upper part of the frame",
+    "Financial candlesticks, extending vertically upwards",
+    "Representation of Earth at the bottom of the image"
+  ]
+}

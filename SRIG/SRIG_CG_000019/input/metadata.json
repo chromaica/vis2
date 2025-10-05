@@ -1,0 +1,27 @@
+{
+  "subtopic": "Facial estimation and analysis",
+  "prompt": "Generate a 3D computer graphics wireframe model of a smiling face, using the reference image for expression and pose, overlaid with facial estimation landmarks and analysis data points.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://freerangestock.com/sample/157166/a-woman-smiling-with-cream-on-her-face.jpg",
+  "promptGeneratedTimestamp": 1748766176544,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a 3D computer graphics wireframe model of a face. The facial expression and head pose of the wireframe model must precisely match the smiling face seen in image 1. Overlay this 3D wireframe model with clear facial estimation landmarks and analysis data points.",
+  "annotator": "ishengfang",
+  "objects": [
+    "3D wireframe model of a face",
+    "Smiling facial expression (matching image 1)",
+    "Head pose (matching image 1)",
+    "Facial estimation landmarks",
+    "Analysis data points",
+    "Natural human skin (should not be present)",
+    "Cream on nose (should not be present)",
+    "Woman's hair (should not be present)",
+    "Woman's clothing (should not be present)",
+    "Original photo background (should not be present)"
+  ],
+  "human_annotation": true
+}

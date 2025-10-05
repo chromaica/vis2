@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": "Edit image 1 by inserting the Facebook icon from image 2 in the top-right corner next to the 'CONTACT' menu item, scaled to align with the font height and spaced evenly. Then, insert the red badge from image 3 in the bottom-right corner of the page, partially overlapping the curved illustration. The badge should appear as a promotional element and must be sized proportionally to the visual hierarchy of the page. Keep all text and layout spacing from the original image unchanged.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the provided screenshot (image 1).\n\nInsert the blue Facebook icon from image 2 into the top-right corner of image 1. Position it directly to the left of the 'CONTACT' menu item, ensuring its height aligns precisely with the font height of 'CONTACT' and maintains consistent horizontal spacing with the other navigation links (PROJECTS, SERVICES, ABOUT).\n\nThen, insert the red promotional badge from image 3 into the bottom-right corner of image 1. This badge should partially overlap the curved blue illustration depicting the woman's lower body. It must appear as a promotional element and be sized proportionally to the overall visual hierarchy of the webpage.\n\nPreserve all original text elements, their content, and the existing layout spacing from image 1.",
+  "annotator": "parnian",
+  "objects": [
+    "Original webpage layout with white background",
+    "\"imperfect\" logo",
+    "Navigation links: PROJECTS, SERVICES, ABOUT, CONTACT",
+    "Large blue illustration of a woman",
+    "Title text: \"Building beautiful imperfections\"",
+    "Description text about imperfection",
+    "\"READ MORE\" button",
+    "Blue Facebook icon, positioned to the left of 'CONTACT'",
+    "Red promotional badge, in the bottom-right, partially overlapping the blue illustration",
+    "Small blue circles/rings (background elements)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

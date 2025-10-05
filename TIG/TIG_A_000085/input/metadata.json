@@ -1,0 +1,17 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Pop art",
+  "prompt": "A still life of a vintage soda bottle surrounded by fruit, rendered in a classic pop art style with dotted shading.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a still life image depicting a vintage glass soda bottle as the central subject, surrounded by an assortment of colorful fruits. The artwork should be rendered in a classic pop art style, featuring bold outlines, vivid, flat color fields, and distinct Ben-Day dot shading throughout.",
+  "annotator": "cwhsu",
+  "objects": [
+    "vintage glass soda bottle as the central subject",
+    "assortment of colorful fruits surrounding the bottle",
+    "bold outlines",
+    "vivid, flat color fields",
+    "distinct Ben-Day dot shading"
+  ]
+}

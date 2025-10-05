@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Medical images",
+  "prompt": "show me a healthy x ray of the lung",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "The image in the cond_images has tuberculosis, healthy lung should be clear and clean",
+  "prompt_refined": "Edit image 1, which displays an X-ray of lungs with significant pathology, by transforming the affected areas to represent a healthy lung X-ray. Remove the widespread diffuse opacities, cavitations, and irregular patterns seen throughout both lung fields, making the lung fields appear clear, uniformly radiolucent, and free of any disease indications, consistent with a normal chest X-ray.",
+  "annotator": "theblackcat",
+  "objects": [
+    "X-ray image of a human chest",
+    "Rib cage",
+    "Clavicles",
+    "Spine",
+    "Heart shadow",
+    "Diaphragm",
+    "Clear lung fields",
+    "Widespread diffuse opacities (should not be present)",
+    "Cavitations (should not be present)",
+    "Irregular patterns in lung fields (should not be present)"
+  ]
+}

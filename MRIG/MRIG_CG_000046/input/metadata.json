@@ -1,0 +1,26 @@
+{
+  "subtopic": "Game assets",
+  "prompt": "Generate a 3D game environment asset. Use the outdoor park setting concept from image 1. Render it with high texture detail and a photorealistic style, drawing inspiration from the tiger's fur and rendering quality in image 2.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748422972147,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a 3D game environment asset depicting an outdoor park setting. Draw visual inspiration from the lush green grass and background trees presented in image 1. Render the asset with high texture detail and a photorealistic style, mirroring the intricate fur texture, individual strands, and overall high-fidelity rendering quality observed in image 2.",
+  "annotator": "winston",
+  "objects": [
+    "Outdoor park setting",
+    "Lush green grass",
+    "Background trees",
+    "High texture detail",
+    "Photorealistic style",
+    "Intricate individual strands (e.g., grass blades, leaves)",
+    "High-fidelity rendering quality"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,18 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Pop art",
+  "prompt": "An expressive image of a cat wearing oversized sunglasses, created with thick outlines and high-contrast colors typical of pop art.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A bold and expressive pop art image of a cat. The cat is wearing oversized, reflective sunglasses that significantly cover its face. The artwork is characterized by thick, comic-book style outlines and a vivid, high-contrast color palette with saturated hues.",
+  "annotator": "cwhsu",
+  "objects": [
+    "cat",
+    "pop art style",
+    "oversized, reflective sunglasses on the cat",
+    "sunglasses covering cat's face",
+    "thick, comic-book style outlines",
+    "vivid, high-contrast, saturated color palette"
+  ]
+}

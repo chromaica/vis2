@@ -1,0 +1,21 @@
+{
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "Use the segmentation mask to replace the green cow shapes with detailed, photorealistic models of different brown cows in a field environment.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751818268100,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1. Replace the green cow shapes with detailed, photorealistic models of different brown cows. The scene should be set in a natural field environment.",
+  "annotator": "edisy",
+  "objects": [
+    "green cow shapes (should not be present)",
+    "detailed, photorealistic brown cows",
+    "natural field environment"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,23 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "Introduce digital glitch artifacts to each letter's edge-RGB channel splits\u2014while keeping readability.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Apply digital glitch artifacts, specifically RGB channel separation and offset, to the edges of the large, black, brushstroke letters. Ensure the letters on the poster remain clearly readable.",
+  "annotator": "matina",
+  "objects": [
+    "poster",
+    "large, black, brushstroke letters",
+    "digital glitch artifacts on the letters",
+    "RGB channel separation on the letters",
+    "RGB channel offset on the letters",
+    "yellow/orange poster background",
+    "smaller textual graphics on the poster",
+    "signature at the top of the poster",
+    "white background/border around the poster"
+  ]
+}

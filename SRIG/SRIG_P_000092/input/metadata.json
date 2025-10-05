@@ -1,0 +1,22 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "a fluorescence microscopy image of the tissue, with cells positioned according to the reference mask.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic fluorescence microscopy image of biological tissue. The exact shapes, positions, and boundaries of the cells must replicate the pattern defined by the mask in image 1.",
+  "annotator": "samin",
+  "objects": [
+    "Photorealistic image quality",
+    "Fluorescence microscopy visual style",
+    "Biological tissue",
+    "Cells with shapes replicating the pattern in image 1",
+    "Cells with positions replicating the pattern in image 1",
+    "Cell boundaries replicating the pattern in image 1",
+    "Dark microscopy background"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,21 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Cubism",
+  "prompt": "Change the train to a steam train. The vector pattern on the train should remain the same as the original image.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 by transforming the modern train into a steam train. The distinct geometric, abstract, and colorful vector pattern that covers the body of the train in image 1 must be meticulously preserved and applied onto the new steam train's structure.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "steam train",
+    "distinct geometric, abstract, and colorful vector pattern (covering the steam train)",
+    "train tracks",
+    "abstract geometric background",
+    "abstract geometric foreground",
+    "modern train (should not be present)"
+  ],
+  "human_annotation": true
+}

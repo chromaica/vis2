@@ -1,0 +1,23 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Pixel Art",
+  "prompt": "A pixel art representation of a bustling space station interior, with colorful aliens and human astronauts mingling.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A vibrant, bustling pixel art interior of a futuristic space station. Colorful aliens of various species and human astronauts are prominently featured, actively mingling throughout the scene. In the foreground, a human astronaut is seen conversing with a tall, multi-limbed alien near a glowing console. To their right, a small group of different alien species and humans are gathered around a holographic display. The midground depicts a dense, active crowd moving along curved walkways and interacting near various stalls. In the background, a large panoramic window on the left offers a view of a distant planet and asteroid field, while on the right, towering futuristic structures define the station's architecture.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Pixel art style",
+    "Futuristic space station interior",
+    "Colorful aliens of various species",
+    "Human astronauts",
+    "Human astronaut conversing with a tall, multi-limbed alien (in foreground)",
+    "Glowing console (in foreground)",
+    "Group of aliens and humans around a holographic display (in foreground, to their right)",
+    "Dense, active crowd on curved walkways and interacting near stalls (in midground)",
+    "Large panoramic window on the left with view of a distant planet and asteroid field (in background)",
+    "Towering futuristic structures on the right (in background)"
+  ],
+  "human_annotation": true
+}

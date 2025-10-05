@@ -1,0 +1,24 @@
+{
+  "subtopic": "VFX and Particles",
+  "prompt": "Edit image 1: Transform the blue car into a detailed, realistic CG render with the lighting and material style of image 2. Add dynamic motion blur and particle trails around the vehicle, incorporating the futuristic VFX style and energy from image 3.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748456127320,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit the blue Volkswagen Beetle in image 1. Convert this flat, cartoon-style depiction into a highly detailed, realistic computer graphics (CG) render, maintaining its original perspective and central position. Apply the sophisticated metallic materials and dramatic, low-key lighting style from image 2 to the car. Integrate dynamic motion blur, particularly around the wheels and along the body, and add vibrant, energetic particle trails flowing from around the vehicle, capturing the futuristic VFX style and powerful aura of image 3.",
+  "annotator": "winston",
+  "objects": [
+    "realistic CG Volkswagen Beetle",
+    "sophisticated metallic materials on the car",
+    "dramatic, low-key lighting",
+    "dynamic motion blur",
+    "vibrant, energetic particle trails",
+    "dark background"
+  ]
+}

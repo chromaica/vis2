@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Exploded Views",
+  "prompt": "Create an exploded view of the earbud, separating each labeled component while keeping the connections visible.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the technical schematic of a 'Dacom' earbud. Transform both the main 'The right ear' view and the inset 'The left ear' view into exploded diagrams. For each earbud, visually separate the primary housing sections (e.g., top and bottom shells) and clearly detach each labeled external component\u2014including 'Volume -', 'Volume +', 'Charging port', 'MIC', 'Indicator Light', 'MFB' (from the right earbud), and the 'NFC' area (from the left earbud)\u2014from its original position on the casing, as if presenting an assembly breakdown. Preserve the existing crisp schematic line-drawing style. Ensure clear visual connections, such as dashed lines or extended existing lines, remain visible to indicate the original spatial relationships and assembly paths of all separated components.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Primary housing sections of the right earbud (separated)",
+    "Primary housing sections of the left earbud (separated)",
+    "Detached Volume - component",
+    "Detached Volume + component",
+    "Detached Charging port component",
+    "Detached MIC component",
+    "Detached Indicator Light component",
+    "Detached MFB component",
+    "Detached NFC area",
+    "Dashed or extended lines showing spatial relationships and assembly paths"
+  ]
+}

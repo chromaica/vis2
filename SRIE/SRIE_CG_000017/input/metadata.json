@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "3D renders",
+  "prompt": "Make the windows glow with a soft yellow light.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Make the windows glow with a soft yellow light. Apply this effect to the four window areas outlined in red in image 2: the single window on the left side of the house, and the three windows on the right side of the house.",
+  "annotator": "nimajamali",
+  "objects": [
+    "House structure",
+    "Window on the left side of the house, glowing with soft yellow light",
+    "Three windows on the right side of the house, glowing with soft yellow light",
+    "Front door",
+    "Trees in the background",
+    "Sky",
+    "Green grass in the foreground",
+    "Yellow flowers in the foreground",
+    "Pink flowers in front of the house",
+    "Pink flowers on the upper level of the house"
+  ]
+}

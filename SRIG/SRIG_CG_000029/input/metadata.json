@@ -1,0 +1,28 @@
+{
+  "subtopic": "3D renders",
+  "prompt": "Using the reference layout, create a modern 3D render of a living room with minimalist furniture on a rug, rendered with smooth shading and ambient lighting in computer graphics style.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://cdn12.picryl.com/photo/2016/12/31/room-design-3d-2d736b-1024.jpg",
+  "promptGeneratedTimestamp": 1748766838026,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate an image. Referencing the layout from image 1, create a modern 3D render of a minimalist living room scene. The arrangement features a central oval rug, upon which a two-seater sofa is positioned on the right side, flanked by two single armchairs on the left (one in the top-left, one in the bottom-left), all facing towards the center. A square coffee table with a small teapot on its surface is centrally located on the rug, between the sofa and armchairs. The furniture should exhibit a clean, modern minimalist design. The entire scene should be rendered with smooth shading and soft, ambient lighting, maintaining a distinct computer graphics aesthetic.",
+  "annotator": "ishengfang",
+  "objects": [
+    "central oval rug",
+    "two-seater sofa on the right side of the rug, facing center",
+    "single armchair in the top-left of the rug, facing center",
+    "single armchair in the bottom-left of the rug, facing center",
+    "square coffee table centrally located on the rug",
+    "small teapot on the coffee table",
+    "furniture with clean, modern minimalist design",
+    "smooth shading",
+    "soft, ambient lighting",
+    "distinct computer graphics aesthetic"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,15 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "Depth maps",
+  "prompt": "A depth map of a dense forest, with close-up trees appearing light and distant foliage blending into darker shades.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a grayscale depth map of a dense forest. Closer elements should appear brighter (closer to white), while more distant foliage should progressively darken (closer to black).",
+  "annotator": "maxku",
+  "objects": [
+    "Dense forest",
+    "Closer elements of the forest (closer to white)",
+    "More distant foliage of the forest (closer to black)"
+  ]
+}

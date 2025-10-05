@@ -1,0 +1,21 @@
+{
+  "subtopic": "Depth maps",
+  "prompt": "Visualize the depth map of the squirrel using a vibrant color gradient, assigning bright red to the nearest parts and deep blue to the farthest parts.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751761540791,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1. Colorize the grayscale depth map of the squirrel using a vibrant gradient: map the nearest parts (lightest gray areas) to bright red and the farthest parts (darkest gray areas) to deep blue. Ensure a smooth color transition based on the depth values.",
+  "annotator": "edisy",
+  "objects": [
+    "squirrel with depth-based colorization",
+    "bright red color on nearest parts of the squirrel",
+    "deep blue color on farthest parts of the squirrel",
+    "smooth color gradient on the squirrel",
+    "black background"
+  ]
+}

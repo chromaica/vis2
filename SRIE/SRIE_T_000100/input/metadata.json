@@ -1,0 +1,24 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "Sharpen the forground and blur the background based on the depth map",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the Joker movie poster, by applying depth-of-field effects. Use image 2 as a depth map guide: sharpen the elements corresponding to the yellow and orange foreground regions (the stairs and the Joker character), and apply a soft blur to the elements corresponding to the purple and blue background regions (the buildings and the sky).",
+  "annotator": "matina",
+  "objects": [
+    "Joker character",
+    "Stairs",
+    "Buildings",
+    "Sky",
+    "Movie title \"Joker\"",
+    "Actor's name \"Joaquin Phoenix\"",
+    "Street lamps",
+    "Production credits text",
+    "Release date \"October 4\""
+  ]
+}

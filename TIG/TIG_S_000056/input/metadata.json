@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": "Design a medieval fantasy guild website with parchment backgrounds, gothic fonts, shield-shaped navigation icons, dragon illustrations, and treasure chest-inspired content containers",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a screenshot of a medieval fantasy guild website. The background features an aged, crinkled parchment texture. All navigational text and headings are rendered in an ornate gothic font. A horizontal navigation bar, positioned at the top of the page, presents links enclosed within stylized, shield-shaped icons. Prominent, intricately detailed dragon illustrations are integrated into the design, such as a large header image or flanking the main content areas. Rectangular content blocks are designed to visually resemble ornate, closed wooden treasure chests, complete with metallic clasps and detailing.",
+  "annotator": "theblackcat",
+  "objects": [
+    "aged, crinkled parchment texture",
+    "ornate gothic font text",
+    "horizontal navigation bar at top of page",
+    "stylized, shield-shaped icons for links",
+    "prominent, intricately detailed dragon illustrations",
+    "rectangular content blocks resembling ornate, closed wooden treasure chests",
+    "metallic clasps and detailing on content blocks"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,29 @@
+{
+  "subtopic": "Receipts",
+  "prompt": "Edit image 1: Reformat the scanned receipt content into a clean, modern digital layout. Apply the visual style and card-like structure from image 2 to present the Aldi receipt information digitally.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1750758131299,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit image 1 (the scanned Aldi receipt). Reformat the content from image 1 into a modern, digital receipt format. Apply the visual style, including typography, layout, and the distinct card-like structure with rounded corners, from image 2. Arrange all key information from image 1\u2014such as the store name, itemized list of purchases, quantities, prices, subtotals, total amount due, and payment details\u2014clearly and cleanly within this new digital layout, similar to how the information is presented in the two stacked cards in image 2.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Two stacked digital receipt cards with rounded corners",
+    "Store name (Aldi)",
+    "Digital display of purchase date and time",
+    "Digital display of total amount due",
+    "Itemized list of purchased items",
+    "Digital display of item quantities",
+    "Digital display of item prices",
+    "Digital display of subtotal amount",
+    "Digital display of payment method details",
+    "Clean, modern typography and layout"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

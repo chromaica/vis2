@@ -1,0 +1,24 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Game assets",
+  "prompt": "Place the foreground players in the reference depth map on WWE ring in the source image.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the WWE wrestling ring, by adding the foreground soccer players identified in image 2. Place these players onto the wrestling ring's surface in image 1, maintaining their relative positions, scale, and depth relationships as suggested by the reference information in image 2.",
+  "annotator": "nimajamali",
+  "objects": [
+    "WWE wrestling ring",
+    "Audience/crowd",
+    "Arena barriers",
+    "Soccer player (kneeling, #8 jersey)",
+    "Soccer player (running, #11 jersey)",
+    "Soccer player (running, #10 jersey)",
+    "Soccer player (running, #4 jersey)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

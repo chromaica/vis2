@@ -1,0 +1,25 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Cultural or Heritage art",
+  "prompt": "Place the musical instrument from the second image into the hands of the king in the first image, and change the pattern of the bolster pillow behind the king to pattern of the third image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Place the long-necked stringed musical instrument from image 2 into the hands of the king in image 1, positioning it naturally in his lap as if he is holding it. Additionally, replace the pattern of the bolster pillow behind the king with the detailed floral and geometric pattern from image 3.",
+  "annotator": "paria",
+  "objects": [
+    "King",
+    "King's crown",
+    "King's red robe and attire",
+    "King's black beard",
+    "Long-necked stringed musical instrument in the king's lap",
+    "Bolster pillow behind the king",
+    "Detailed floral and geometric pattern on the bolster pillow",
+    "Background landscape",
+    "Seating platform"
+  ]
+}

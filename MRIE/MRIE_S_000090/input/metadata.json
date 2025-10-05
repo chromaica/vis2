@@ -1,0 +1,27 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Forms and Authentication",
+  "prompt": "In image 1, replace the circular placeholder image with the cartoon face from image 2, keeping the circular frame and scaled to match the original placeholder size. Also, below the checkbox ('I agree to the Terms'), insert the gray 'Expired' badge from image 3 (last one), centered between the checkbox and the REGISTER button, scaled proportionally to match surrounding UI elements. All input fields and other aspects of the source image should remain unchanged.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, which depicts a mobile login screen.\n\n1.  Replace the grey circular user avatar placeholder at the top of the screen with the smiling cartoon face from image 2. Ensure the cartoon face is precisely centered and scaled to fit perfectly within the existing circular frame, maintaining its original dimensions and the frame itself.\n2.  Insert the 'Expired' badge from image 3 (the gray badge with a clock icon and text) into image 1. This badge should be positioned horizontally centered in the vertical space between the 'I agree to the Terms' checkbox and the 'REGISTER' button. Scale the badge proportionally so its size is consistent with the surrounding UI elements, such as the input fields and the register button.\n\nAll other elements of image 1, including the input fields, menu icon, password eye icon, background, and button styling, must remain unchanged.",
+  "annotator": "parnian",
+  "objects": [
+    "Mobile login screen dark background",
+    "Menu icon",
+    "Circular avatar frame with smiling cartoon face",
+    "UI input fields (First Name, Last Name, User Name, Email Address, Password)",
+    "Password eye icon",
+    "Checkbox 'I agree to the Terms'",
+    "'Expired' badge between the checkbox and REGISTER button",
+    "'REGISTER' button",
+    "Grey circular user avatar placeholder (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

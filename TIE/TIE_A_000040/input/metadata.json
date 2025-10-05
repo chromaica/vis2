@@ -1,0 +1,26 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Fauvism",
+  "prompt": "Change the season to winter. The atmosphere should remain calm and peaceful.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, transforming its vibrant, autumnal landscape into a calm and peaceful winter scene. Replace the yellow and green foliage on the hills and around the houses with bare branches and snow-dusted trees. Cover the red and orange foreground and fields with a blanket of white snow. Adjust the sky and lighting to convey the quiet serenity of a winter day.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Hills",
+    "Houses",
+    "Bare trees",
+    "Snow-dusted trees",
+    "Snow-covered foreground",
+    "Snow-covered fields",
+    "Winter sky",
+    "Winter day lighting",
+    "Calm and peaceful atmosphere",
+    "Path on hill (snow-covered)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

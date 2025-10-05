@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Online Meeting Interfaces",
+  "prompt": "In image 1, replace 'Chris Scotton' (the man bottom right in blue shirt) with the boy from image 2, and swap 'Meg Lang' (the participant on the left highlighted with a yellow border) with the man from image 3. Both replacements should preserve expression, posture, and aspect ratio.",
+  "cond_images": [
+    "1.png",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit Image 1, the Zoom meeting screenshot. Replace the video tile for 'Chris Scotton', which displays a man in a blue shirt in the lower-right section of the grid, with the boy from Image 2. Swap the video tile for 'Meg Lang', which displays a participant highlighted with a yellow border on the left side of the grid, with the man from Image 3. For both edits, ensure the new subject's expression, posture, and the aspect ratio of the video tile are preserved.",
+  "annotator": "parnian",
+  "objects": [
+    "Zoom meeting interface elements (title bar, window controls, taskbar)",
+    "Video tile for 'Meg Lang' (should not be present)",
+    "Video tile for 'Chris Scotton' (should not be present)",
+    "Boy from Image 2, in the lower-right video tile, smiling and making a peace sign",
+    "Man from Image 3, in the video tile on the left side of the grid, with a yellow border",
+    "Video tile for 'Howard Almond'",
+    "Video tile for 'Gillian Trippner'",
+    "Video tile for 'Geoff Gardner'",
+    "Video tile for 'Janet Wardman'",
+    "Remaining participant video tiles from Image 1"
+  ]
+}

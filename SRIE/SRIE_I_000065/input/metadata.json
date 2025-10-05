@@ -1,0 +1,24 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "Replacing the M+ logo to the heritage museum logo in the road map.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 2. Locate the 'M+' logo situated within the icon block for 'MTR Kowloon Station' (labeled '1' in the top-right section of the map). Replace this 'M+' logo with the official logo for the 'Hong Kong Palace Museum' (which corresponds to label '5' in the map's legend). The newly inserted logo should match the existing graphic style and color palette of the information graphic in image 2.",
+  "annotator": "Johnny",
+  "objects": [
+    "Map of an urban park area",
+    "Information graphic legend",
+    "Icon block for 'MTR Kowloon Station'",
+    "Hong Kong Palace Museum logo (within the 'MTR Kowloon Station' icon block)",
+    "'M+' logo (should not be present)",
+    "Cartoon lions",
+    "Numbered labels (1, 2, 3, 4, 5, 6)",
+    "Various information graphic icons (e.g., restroom, food, nursing room)",
+    "Text labels for locations (e.g., 'Art Park', 'Nursery Park')"
+  ]
+}

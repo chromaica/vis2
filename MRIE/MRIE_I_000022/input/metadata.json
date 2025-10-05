@@ -1,0 +1,27 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Visual instructions and manuals",
+  "prompt": "Modify the pasta cooking diagram in image 1 by adding a new step after the original four. In step 5, illustrate the addition of a fried egg using the icon from image 2 and ketchup using the bottle icon from image 3, while maintaining the simple line art style.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, which displays a four-step pasta cooking diagram. Add a new fifth step, labeled '5', positioned horizontally to the right of the existing step 4, maintaining the current layout and visual flow. This new step should illustrate a final serving of pasta: depict a portion of cooked pasta (similar to the outcome of step 4) in a bowl or on a plate. On top of this pasta, integrate the fried egg icon from image 2. Additionally, show the ketchup bottle icon from image 3 positioned above the pasta, with ketchup visibly being dispensed onto the dish. All new graphical elements must strictly adhere to the simple, black line art style and aesthetics of image 1.",
+  "annotator": "maxku",
+  "objects": [
+    "Pasta cooking directions title",
+    "Step 1: Pot with salt being added",
+    "Step 2: Pot with pasta strands",
+    "Step 3: Pot with timer",
+    "Step 4: Pot draining pasta into colander",
+    "Step 5 label",
+    "Bowl or plate with cooked pasta",
+    "Fried egg icon on top of pasta",
+    "Ketchup bottle icon above pasta",
+    "Ketchup being dispensed onto pasta"
+  ],
+  "human_annotation": true
+}

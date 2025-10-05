@@ -1,0 +1,26 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "replace the cooked shrimp into a raw shrimp",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Replace the three cooked, orange-pink shrimp located prominently in the foreground with raw, translucent, greyish shrimp, ensuring they are photorealistic and seamlessly integrated into the sashimi platter.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Three raw, translucent, greyish shrimp in the foreground",
+    "Cooked, orange-pink shrimp (should not be present)",
+    "Tuna sashimi slices",
+    "Salmon sashimi slices",
+    "White fish sashimi slices",
+    "Shredded daikon",
+    "Lime slices",
+    "Cucumber slices",
+    "Radish slices",
+    "Soy sauce dish"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,26 @@
+{
+  "subtopic": "CAD models",
+  "prompt": "Generate a detailed 3D CAD model rendering of a stylized animal sculpture, inspired by the reference's form and intricate surface patterns. Focus on clean lines and technical visualization.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://www.lookandlearn.com/history-images/preview/YCM/YCM0/YCM0061/YCM0061627_Headdress-chi-wara.jpg",
+  "promptGeneratedTimestamp": 1748769221931,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a detailed 3D CAD model rendering of a stylized animal sculpture. The sculpture's form, including its crouching posture, prominent upward-curving ribbed horns, elongated snout with a nose ring, and tightly curled tail, must precisely emulate the reference creature shown in image 1. Integrate the intricate surface patterns seen in image 1, such as the rows of dots, fine striations, and small metallic rings. The final rendering should feature clean lines and a technical visualization aesthetic.",
+  "annotator": "ishengfang",
+  "objects": [
+    "detailed 3D CAD model rendering",
+    "stylized animal sculpture",
+    "crouching posture",
+    "prominent upward-curving ribbed horns",
+    "elongated snout",
+    "nose ring",
+    "tightly curled tail",
+    "rows of dots (surface pattern)",
+    "fine striations (surface pattern)",
+    "small metallic rings (surface pattern)"
+  ]
+}

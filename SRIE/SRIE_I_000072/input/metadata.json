@@ -1,0 +1,21 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "Change the highlighted area to the USA flag.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the entire white silhouette, which represents the map of the United States (including Alaska and Hawaii), with the design of the USA flag. Use image 2 as a precise geographical reference to ensure the flag accurately conforms to the outlines of the United States map.",
+  "annotator": "Johnny",
+  "objects": [
+    "USA map shape (including Alaska and Hawaii)",
+    "Red stripes (USA flag)",
+    "White stripes (USA flag)",
+    "Blue canton (USA flag)",
+    "White stars (USA flag)",
+    "White silhouette (should not be present)"
+  ]
+}

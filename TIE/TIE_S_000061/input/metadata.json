@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": "Modify the website tabs at the top to display multiple web development tools and resources.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Modify the existing browser tabs at the top of the screenshot to display different web development tools and resources, such as tabs for programming languages, frameworks, or developer documentation.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Web browser window",
+    "Browser tabs displaying web development tools and resources",
+    "Browser address bar",
+    "Browser navigation and control buttons",
+    "Facebook user interface elements (e.g., News Feed, stories, post composer)",
+    "Facebook gaming and video section",
+    "Windows taskbar",
+    "Windows Start button",
+    "Taskbar icons",
+    "System tray icons"
+  ]
+}

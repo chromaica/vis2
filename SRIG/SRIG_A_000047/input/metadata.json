@@ -1,0 +1,17 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "Generate a collage style of Mona Lisa Portrait.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a collage-style Mona Lisa portrait, with its overall shape derived from the silhouette in image 1.",
+  "annotator": "Johnny",
+  "objects": [
+    "Mona Lisa's portrait",
+    "Collage fragments",
+    "Human bust silhouette outline"
+  ]
+}

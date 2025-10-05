@@ -1,0 +1,25 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Enhance colors for clarity, add shadow effects, and use modern fonts for a sleek, professional look in the pie charts.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 to update the existing pie charts into a sleek, professional-looking information graphic. Intensify the vibrancy and contrast of the colors for each pie chart segment to enhance clarity and readability. Introduce distinct, realistic shadow effects beneath and around both pie charts to add depth. Replace all current text elements, including the main title 'Sales by Region', the legend labels, the monetary values, and the product labels ('Product Y' and 'Product X'), with a clean, modern sans-serif typeface to achieve a polished aesthetic.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Main title \"Sales by Region\"",
+    "Sales region legend and its labels",
+    "Product Y pie chart",
+    "Product X pie chart",
+    "Vibrant and contrasted segments of Product Y pie chart",
+    "Vibrant and contrasted segments of Product X pie chart",
+    "Distinct, realistic shadow effect beneath and around Product Y pie chart",
+    "Distinct, realistic shadow effect beneath and around Product X pie chart",
+    "Monetary values for both pie charts (e.g., $34,000, $12,000)",
+    "Product labels (\"Product Y\" and \"Product X\")"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,27 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Design the visual branding for a coffee product by combining the illustrated packaging in Image 1, the roasted coffee beans in Image 2, and the clean label style in Image 3.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a new image showcasing visual branding for a coffee product. The central element is a stand-up, brown kraft paper coffee bag featuring the illustrated landscape design (depicting mountains, a lake, lush foliage, and illustrated coffee beans at the bottom) seen on the packaging in Image 1. On the front of this bag, prominently place a clean, minimalist logo derived from Image 3, consisting of the word 'COFFEE' enclosed in a rectangular outline with three small coffee bean icons positioned directly above it. The coffee bag should be presented amidst or resting upon a bed of realistic roasted coffee beans, replicating the rich brown color and textured detail from Image 2.",
+  "annotator": "parnian",
+  "objects": [
+    "stand-up brown kraft paper coffee bag",
+    "illustrated mountains on the coffee bag",
+    "illustrated lake on the coffee bag",
+    "illustrated lush foliage on the coffee bag",
+    "illustrated coffee beans at the bottom of the landscape on the coffee bag",
+    "clean, minimalist logo on the front of the coffee bag",
+    "word 'COFFEE' within the logo",
+    "rectangular outline around 'COFFEE' within the logo",
+    "three small coffee bean icons positioned directly above 'COFFEE' within the logo",
+    "bed of realistic roasted coffee beans"
+  ],
+  "human_annotation": true
+}

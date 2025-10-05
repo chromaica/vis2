@@ -1,0 +1,30 @@
+{
+  "subtopic": "Stylized Rendering or Visual Effects",
+  "prompt": "Edit image 1: Apply a computer graphics overlay highlighting features on the bird and hand, using the vibrant yellow and white colors and soft focus bokeh style from image 2. Frame the resulting scene as if seen through a screen, adopting the dark, low-angle view and boundary presentation style of image 3.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748456427082,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1: Apply a computer graphics overlay to digitally highlight key features on the bird (e.g., its eyes, beak, and feathers) and the contours of the hand. For this overlay, utilize the vibrant yellow and white color palette observed in image 2. The background of the edited image should also adopt the soft focus bokeh effect characteristic of image 2. Present the entire resulting scene as if viewed through a digital screen, replicating the dark ambiance, low-angle perspective, and prominent boundary presentation style seen in image 3.",
+  "annotator": "winston",
+  "objects": [
+    "Bird",
+    "Human hand",
+    "Computer graphics overlay (yellow and white)",
+    "Highlighted bird features (e.g., eyes, beak, feathers)",
+    "Highlighted hand contours",
+    "Soft focus bokeh background",
+    "Digital screen",
+    "Prominent screen boundary",
+    "Dark ambiance",
+    "Low-angle perspective"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

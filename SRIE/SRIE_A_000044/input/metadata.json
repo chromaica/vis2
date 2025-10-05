@@ -1,0 +1,27 @@
+{
+  "subtopic": "Collage",
+  "prompt": "Edit image 1: Add the text 'HELLO.' using the distinct black sans-serif style from image 2. Integrate this text as a layered cutout element within the existing collage composition of image 1.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748496786669,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1 by adding the text 'HELLO.' to its composition. The added text must precisely replicate the black sans-serif font style and boldness of the word 'HELLO.' shown in image 2. Integrate this text as a new, distinct layered cutout element, visually consistent with the existing paper-cut collage aesthetic of image 1. Ensure the 'HELLO.' element is visibly placed within the existing collage layers, appearing as a natural addition to the composition, similar to the integration style of the 'NATURAL' text already present in image 1.",
+  "annotator": "kellycyy",
+  "objects": [
+    "Collage artwork aesthetic",
+    "Upper female face/head with blue/yellow lips and sunglasses-like element",
+    "Lower female eye/face with brown eye",
+    "Floral patterned paper cutouts",
+    "Geometric patterned paper cutouts",
+    "Blue textured paper cutouts",
+    "Text \"N A T U R A L\" composed of white individual cutout letters",
+    "Cityscape/building shapes in the background",
+    "Gold/yellow background pattern",
+    "The word \"HELLO.\" in black sans-serif bold font, integrated as a layered cutout element within the collage"
+  ]
+}

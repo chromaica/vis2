@@ -1,0 +1,23 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "Create a cozy farm simulation game showing a character watering crops in neat garden rows with a wooden farmhouse and red barn in the background. Include chickens pecking around the yard, a pig in a pen, and fruit trees ready for harvest. Sunrise lighting with warm golden tones. UI elements: energy bar, crop growth timers, seasonal calendar, inventory with seeds and tools, daily tasks checklist, and relationship hearts with farm animals. Peaceful, pastoral atmosphere with cartoon art style.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A cozy farm simulation game screenshot, depicting a character watering neat garden rows. A wooden farmhouse and a red barn are positioned in the background. Chickens peck around the foreground yard, a pig is contained within a nearby pen, and fruit trees are laden with ready-for-harvest fruit. The scene is bathed in warm, golden sunrise light, evoking a peaceful, pastoral atmosphere with a cartoon art style. UI elements are present: an energy bar in the top-left corner, crop growth timers near the crops, a seasonal calendar in the top-right corner, an inventory bar displaying seeds and tools along the bottom, a daily tasks checklist on the left side, and relationship hearts floating above the farm animals.",
+  "annotator": "theblackcat",
+  "objects": [
+    "character watering garden rows",
+    "wooden farmhouse in background",
+    "red barn in background",
+    "chickens in foreground yard",
+    "pig in pen",
+    "fruit trees with fruit",
+    "energy bar in top-left corner",
+    "seasonal calendar in top-right corner",
+    "inventory bar along the bottom",
+    "daily tasks checklist on the left side"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,22 @@
+{
+  "subtopic": "Astronomical images",
+  "prompt": "Edit image 1 by applying a subtle glow or enhanced surface texture effect to the spacecraft, guided by the white shape data in image 2. Replace the visible portion of Earth in the background with the detailed full planet view from image 3, maintaining photorealism and perspective.",
+  "cond_images": [
+    "1.jpeg",
+    "2.png",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749222347974,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "P",
+  "prompt_refined": "Edit image 1, which features a spacecraft in orbit. Apply a subtle glow or enhance the surface texture of the spacecraft, precisely guided by the white shape data in image 2. Replace the partial view of Earth currently visible in the background of image 1 with the full, detailed planet view from image 3. Ensure the final image maintains photorealism and the original scene's spatial perspective.",
+  "annotator": "boris",
+  "objects": [
+    "spacecraft",
+    "full, detailed planet Earth",
+    "space background",
+    "partial view of Earth (should not be present)"
+  ]
+}

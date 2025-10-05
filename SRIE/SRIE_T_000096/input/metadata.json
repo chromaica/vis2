@@ -1,0 +1,21 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Restyle \u2018Holidays Cheers\u2019 in that Coca-Cola Spencerian script, matching the red fill, white highlights, and green drop-shadows.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, which features the black text 'cheers to the holidays', by transforming its typography. Restyle the lettering to emulate the Spencerian script style of the 'Coca-Cola' wordmark seen in image 2. Apply a red fill to the letters, add white highlights, and incorporate a green drop-shadow behind the text.",
+  "annotator": "matina",
+  "objects": [
+    "the text \"cheers to the holidays\"",
+    "Spencerian script typography",
+    "red text fill",
+    "white highlights on text",
+    "green drop-shadow behind the text",
+    "white background"
+  ]
+}

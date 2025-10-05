@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Impressionism",
+  "prompt": "Change all the hats in the first picture with a dodgers cap.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Using image 1 as the source, replace all hats worn by the individuals in the artwork with a Los Angeles Dodgers baseball cap.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "individuals in the artwork",
+    "Los Angeles Dodgers baseball caps (worn by individuals)",
+    "table with white tablecloth",
+    "wine bottles",
+    "drinking glasses",
+    "fruit on the table",
+    "small dog",
+    "awning",
+    "railing",
+    "river with boats in the background"
+  ]
+}

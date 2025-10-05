@@ -1,0 +1,27 @@
+{
+  "subtopic": "Depth maps",
+  "prompt": "Generate a computer graphics visualization showing the detailed cat face from image 2 placed before the uneven red brick wall texture of image 1. The image should explicitly depict the scene's resulting depth map, using a visual style common in computer graphics depth map representations.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748422953275,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a computer graphics depth map visualization featuring the detailed grey cat face with bright blue eyes and prominent whiskers from image 2 placed centrally in the foreground. This cat face should be clearly positioned in front of the uneven reddish-brown brick wall with distinct mortar lines from image 1, which forms the background. The resulting image must explicitly depict the scene's depth map, rendered in a standard grayscale computer graphics style where lighter values represent closer objects and darker values represent objects further away.",
+  "annotator": "winston",
+  "objects": [
+    "Computer graphics depth map visualization",
+    "Detailed grey cat face centrally placed in the foreground",
+    "Bright blue eyes (of the cat)",
+    "Prominent whiskers (of the cat)",
+    "Uneven reddish-brown brick wall forming the background",
+    "Distinct mortar lines (on the wall)",
+    "Grayscale depth representation",
+    "Lighter values representing closer objects",
+    "Darker values representing further objects"
+  ],
+  "human_annotation": true
+}

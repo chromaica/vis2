@@ -1,0 +1,26 @@
+{
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Create an information graphic: a radial diagram utilizing the segmented layout of image 2. Incorporate the striking 3D rendering and direct data labels from image 1 for visual impact.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1752288606105,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "I",
+  "annotator": "htwong",
+  "prompt_refined": "Generate an information graphic. The graphic should be a radial diagram with multiple distinct segments radiating from a central point, mirroring the structured layout and division into sectors seen in image 2. Apply a prominent 3D rendering style to each segment, giving them a volumetric and extruded appearance, similar to the slices in image 1. For each segment, include direct data labels positioned clearly on or immediately adjacent to its surface, displaying both a category name and a numerical value, consistent with the labeling method in image 1.",
+  "objects": [
+    "radial diagram",
+    "central point",
+    "multiple distinct segments",
+    "3D rendered segments",
+    "volumetric segments",
+    "extruded segments",
+    "direct data labels",
+    "category names in labels",
+    "numerical values in labels"
+  ]
+}

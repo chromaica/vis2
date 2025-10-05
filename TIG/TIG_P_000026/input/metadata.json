@@ -1,0 +1,19 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "A lunar eclipse casting a vibrant red hue on the moon, surrounded by shimmering stars.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A highly detailed, photorealistic image depicting a total lunar eclipse. The moon glows with a striking, vibrant red hue, positioned prominently against the vast, inky blackness of the night sky. Thousands of shimmering, distinct stars are scattered profusely around the moon, creating a captivating celestial display.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Moon",
+    "Striking, vibrant red hue on the moon",
+    "Vast, inky black night sky",
+    "Thousands of shimmering, distinct stars",
+    "Moon positioned prominently",
+    "Stars scattered profusely around the moon"
+  ],
+  "human_annotation": true
+}

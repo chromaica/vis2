@@ -1,0 +1,21 @@
+{
+  "subtopic": "UI mockups",
+  "prompt": "Based on the smart home control panel UI component toolkit, create a thermostat settings page with temperature slider and mode toggles.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "https://media.istockphoto.com/id/1454818541/vector/control-knobs-used-for-smart-home-climate-regulating.jpg?s=612x612&w=0&k=20&c=AryxPc7WNlX0-uScN-E0gScD8OISJlh9FwjpVshJXuM=",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate a smart home thermostat settings page. The design should adhere to the neumorphism UI style present in image 1. Incorporate a prominent temperature control slider, visually represented by a large circular dial similar to the one found in the center-right of image 1. Below this dial, arrange a set of mode toggles, specifically using the style of the 'Heat', 'Cool', 'Fan', and 'Dry' circular buttons from image 1. Additionally, include a digital temperature display element, akin to the one located in the top-right of image 1, typically positioned above the temperature slider.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Smart home thermostat settings page",
+    "Prominent temperature control circular dial",
+    "Digital temperature display element (positioned above the dial)",
+    "'Heat' mode toggle circular button (below the dial)",
+    "'Cool' mode toggle circular button (below the dial)",
+    "'Fan' mode toggle circular button (below the dial)",
+    "'Dry' mode toggle circular button (below the dial)"
+  ]
+}

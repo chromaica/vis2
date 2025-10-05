@@ -1,0 +1,25 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "Swap the T-Rex skull for a 3D printer nozzle silhouette, change the border to a loop of filament",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the black T-Rex silhouette within the yellow circular background of the Jurassic Park logo with a black silhouette of a 3D printer nozzle. Change the red circular border around the logo into a continuous loop of 3D printer filament.",
+  "annotator": "matina",
+  "objects": [
+    "black background",
+    "yellow circular background",
+    "black silhouette of a 3D printer nozzle",
+    "continuous loop of 3D printer filament",
+    "\"JURASSIC PARK\" text",
+    "small black silhouettes of trees/foliage",
+    "\"SUMMER 1993\" text",
+    "black T-Rex silhouette (should not be present)",
+    "red circular border (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

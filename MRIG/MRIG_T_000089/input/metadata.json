@@ -1,0 +1,22 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "Generate a humorous sports poster with the man (Messi) from the first image and the second image's ogre (Shrek) with the third image as light background that is the focus should be on the man and the ogre. Use the headline 'The Real Champion \u2013 Messi vs. Shrek'.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a humorous sports poster. Position Lionel Messi from image 1 on the left, depicted in his victorious, smiling pose with a raised fist. On the right, place Shrek from image 2, with his arms outstretched and a wide grin, facing Messi. The background should be a lighter-toned version of image 3's dramatic castle and sky, ensuring the foreground subjects are the primary focus. Integrate the bold headline 'The Real Champion \u2013 Messi vs. Shrek' prominently at the top of the poster.",
+  "annotator": "parnian",
+  "objects": [
+    "Lionel Messi on the left, in victorious pose with raised fist",
+    "Shrek on the right, with arms outstretched and wide grin, facing Messi",
+    "Lighter-toned castle background",
+    "Lighter-toned sky background",
+    "Bold headline 'The Real Champion \u2013 Messi vs. Shrek' at the top",
+    "Humorous sports poster composition"
+  ]
+}

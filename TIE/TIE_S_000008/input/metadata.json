@@ -1,0 +1,26 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Transform app icons into whimsical characters, adding vibrant colors and playful accessories for a magical, fantasy-themed interface.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 by transforming all individual app icons into distinct, whimsical fantasy characters or creatures. Each character should feature vibrant colors and playful accessories, creating a magical and fantastical overall interface theme.",
+  "annotator": "cwhsu",
+  "objects": [
+    "whimsical fantasy characters or creatures as app icons",
+    "vibrant colors on app icons",
+    "playful accessories on app icons",
+    "smartphone screen interface",
+    "magical and fantastical background theme",
+    "time display (15:35)",
+    "battery icon",
+    "signal strength icon",
+    "app icon labels/names",
+    "navigation bar symbols"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

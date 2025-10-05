@@ -1,0 +1,26 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Cultural or Heritage art",
+  "prompt": "A western style of a tower in country side.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a new image where the central tower from image 1 is re-rendered in a Western architectural style, maintaining its multi-tiered structure, grand scale, and central prominence. The surrounding countryside, including the mountains on the left and right and the smaller structures flanking the main tower, should also be depicted in a coherent Western aesthetic. Preserve the overall composition, including the foreground with figures and a perimeter wall, to depict a towering Western structure in a vast rural landscape.",
+  "annotator": "Johnny",
+  "objects": [
+    "Towering multi-tiered structure in Western architectural style",
+    "Mountains on the left in Western aesthetic",
+    "Mountains on the right in Western aesthetic",
+    "Smaller structures flanking the main tower in Western aesthetic",
+    "Rural landscape",
+    "Foreground figures",
+    "Perimeter wall",
+    "Trees and foliage",
+    "Open ground surrounding the main tower",
+    "Sky"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

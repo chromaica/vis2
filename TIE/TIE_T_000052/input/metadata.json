@@ -1,0 +1,22 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Transform the triangle in logo into a glossy neon blue squere with a reflective highlight and slight bevel.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 by transforming the white triangle shape within the red YouTube logo, located in the top-left of the image, into a glossy neon blue square with a reflective highlight and a slight bevel.",
+  "annotator": "matina",
+  "objects": [
+    "red YouTube logo",
+    "glossy neon blue square with a reflective highlight and a slight bevel (within the red YouTube logo)",
+    "\"YouTube\" text",
+    "man",
+    "dark background",
+    "white triangle shape (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

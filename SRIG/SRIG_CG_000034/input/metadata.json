@@ -1,0 +1,26 @@
+{
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "Generate a computer graphics illustration of semantic segmentation on a different urban street scene. Show vehicles and pedestrians with distinct colorful segmentation masks and outlines, following the visualization style of the reference image.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://www.labellerr.com/blog/semantic-vs-instance-vs-panoptic-which-image-segmentation-technique-to-choose/",
+  "promptGeneratedTimestamp": 1748767124589,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a computer graphics illustration depicting semantic segmentation on an urban street scene. The scene should prominently feature vehicles and pedestrians. Segment these elements with distinct, solid, colorful masks, each bordered by a bright, contrasting outline. Specifically, use a vibrant magenta mask with a bright magenta outline for pedestrians, a yellow-green mask with a bright yellow outline for vehicles, a cyan mask with a bright cyan outline for the road/ground, and a green mask with a bright green outline for street furniture (e.g., a lamppost positioned on the left, similar to image 1). Ensure background elements like buildings are desaturated or muted to make the segmented objects stand out. The overall visualization style, including color vibrancy, outline thickness, and clarity of segmentation, must precisely match the aesthetic of image 1.",
+  "annotator": "ishengfang",
+  "objects": [
+    "computer graphics illustration",
+    "urban street scene",
+    "vehicles with yellow-green mask and bright yellow outline",
+    "pedestrians with vibrant magenta mask and bright magenta outline",
+    "road/ground with cyan mask and bright cyan outline",
+    "street furniture with green mask and bright green outline",
+    "lamppost positioned on the left",
+    "desaturated or muted background buildings"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

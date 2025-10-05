@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "In the first image, replace the flower plain with the one from the second image, and replace Saturn with the watercolor painting of Earth from the third image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit Image 1. Replace the existing multi-colored flower field covering the entire foreground with the dense field of yellow and red flowers from Image 2. Additionally, replace the planet Saturn, visible through the open doorway on the left side of Image 1, with the watercolor painting of Earth from Image 3.",
+  "annotator": "paria",
+  "objects": [
+    "dense field of yellow and red flowers in the foreground",
+    "watercolor painting of Earth visible through the open doorway on the left",
+    "open doorway",
+    "child pulling back a grey curtain",
+    "grey curtain",
+    "large pink flower",
+    "background landscape visible through the doorway",
+    "butterflies",
+    "mushrooms",
+    "yellow chair"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Design a Very Large Crude Carrier (VLCC) referenced in the first image reimagined as a giant squid referenced in the second image. The ship\u2019s massive, cylindrical hull is covered in reddish-brown, tentacle-like metallic plating that pulses faintly. The deck is low and wide, with cargo holds resembling a squid\u2019s mantle. Propulsion comes from a single enormous slow-speed diesel propeller at the stern, glowing with bioluminescent blue light, paired with tentacle-like thrusters extending from the hull for maneuverability. The bridge is bulbous, with glowing, round windows mimicking a squid\u2019s eyes.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic image of a Very Large Crude Carrier (VLCC) inspired by image 1, reimagined with the characteristics of a giant squid from image 2. The ship\u2019s massive, cylindrical hull should be covered in reddish-brown, tentacle-like metallic plating that pulses faintly. Its low, wide deck should feature cargo holds resembling a squid\u2019s mantle. Propulsion should be a single enormous slow-speed diesel propeller at the stern, glowing with bioluminescent blue light, complemented by tentacle-like thrusters extending from the hull for maneuverability. The bridge should be bulbous, with glowing, round windows mimicking a squid\u2019s eyes.",
+  "objects": [
+    "Photorealistic Very Large Crude Carrier (VLCC)",
+    "Massive, cylindrical hull",
+    "Reddish-brown, tentacle-like metallic plating on hull",
+    "Faintly pulsing hull plating",
+    "Low, wide deck",
+    "Cargo holds resembling a squid\u2019s mantle",
+    "Single enormous slow-speed diesel propeller at the stern",
+    "Propeller glowing with bioluminescent blue light",
+    "Tentacle-like thrusters extending from hull",
+    "Bulbous bridge with glowing, round windows mimicking a squid\u2019s eyes"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Using the reference photo of the bat, generate an image of this bat hanging upside down inside a dimly lit cave",
+  "cond_images": [
+    "1.jpeg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic image of the bat from image 1, hanging upside down from a rocky protrusion or the ceiling within a dimly lit, damp cave. The lighting should be subtle, casting long shadows to convey a deep, natural cave environment.",
+  "annotator": "samin",
+  "objects": [
+    "Bat (from reference image)",
+    "Bat hanging upside down",
+    "Rocky protrusion",
+    "Cave ceiling",
+    "Cave interior",
+    "Dim lighting",
+    "Long shadows",
+    "Damp cave surfaces"
+  ]
+}

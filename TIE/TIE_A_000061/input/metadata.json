@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Impressionism",
+  "prompt": "Place another puddle below the white chicken at the back. Add reflections of the chicken. Reference the use of color and texture of the puddle from the front.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Add a puddle on the path directly beneath the white chicken positioned furthest away from the viewer, closer to the archway. The puddle should accurately reflect this white chicken. Ensure the new puddle's color palette and painterly impasto texture match those of the existing puddle in the foreground of image 1.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Garden path",
+    "Garden archway",
+    "Green foliage",
+    "Colorful flowers",
+    "Chickens",
+    "White chicken furthest from viewer",
+    "Puddle in foreground",
+    "New puddle under the white chicken furthest from viewer",
+    "Reflection of the white chicken in the new puddle",
+    "Sky"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "subtopic": "Mesh Processing",
+  "prompt": "Change the rendering of the 3D dragon mesh to a solid, smoothly shaded metallic silver material on a contrasting dark background.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751801150092,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1 by transforming the red wireframe 3D dragon mesh into a solid, smoothly shaded metallic silver dragon, set against a contrasting dark background.",
+  "annotator": "edisy",
+  "objects": [
+    "a dragon",
+    "metallic silver color/material",
+    "smooth shading",
+    "solid appearance",
+    "dark background",
+    "red wireframe (should not be present)",
+    "white background (should not be present)"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,22 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Embed the glossy black Tesla T-emblem at the hood\u2019s center instead of BMW, matching surrounding reflections.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the existing BMW emblem located at the center of the blue car's hood with a glossy black Tesla T-emblem. Ensure the new emblem seamlessly integrates into the image by accurately matching the surrounding reflections and lighting.",
+  "annotator": "matina",
+  "objects": [
+    "blue car hood",
+    "car grille",
+    "glossy black Tesla T-emblem on the car hood",
+    "blurred background",
+    "reflections on the car hood",
+    "BMW emblem (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

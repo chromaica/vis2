@@ -1,0 +1,21 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Game assets",
+  "prompt": "Add the cartoonish-style of the character in the reference image next to the existing characters on the game screen.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit Image 1 by introducing a new character into the scene. This new character should be positioned to the immediate right of the character wearing the red shirt, appearing seamlessly integrated into the existing game screen environment. The visual style of this newly added character must be a cartoonish interpretation of the character depicted in Image 2, ensuring it aligns with the perspective and lighting of Image 1.",
+  "annotator": "nimajamali",
+  "objects": [
+    "Game screen environment from Image 1",
+    "Character wearing a red shirt and dark vest from Image 1",
+    "Character with a red bandana and long dark hair from Image 1",
+    "Compass-like object held by the character with long dark hair",
+    "A new character: a cartoonish interpretation of the character from Image 2 (Harry Potter)",
+    "The new cartoonish character positioned to the immediate right of the character wearing the red shirt"
+  ]
+}

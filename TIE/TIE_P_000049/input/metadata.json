@@ -1,0 +1,21 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "convert the magnification from 100x to 50x",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 to reduce the visual magnification of the microscopic fibers from 100x to 50x. The fibers should appear smaller in the frame, and a wider area of the sample should become visible, as if zoomed out.",
+  "annotator": "theblackcat",
+  "objects": [
+    "microscopic fibers",
+    "wider area of the sample",
+    "translucent appearance of the fibers",
+    "interwoven fiber structure",
+    "light background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "Edit image 1: Replace the skull marker with the tombstone icon from image 3. Change the level numbers 1 through 12 to letters A through L, adopting the colorful, distinct style of the alphabet chart in image 2.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the skull icon located within the brown plaque on the path (near level 10) with the tombstone icon from image 3. Convert the numeric level markers '1' through '12' along the winding path to their corresponding uppercase letters 'A' through 'L' (i.e., '1' becomes 'A', '2' becomes 'B', and so on, up to '12' becoming 'L'). The style of these new letters should emulate the bold, distinct, and varied color appearance of the alphabet characters shown in image 2.",
+  "annotator": "maxku",
+  "objects": [
+    "winding desert path/terrain",
+    "brown plaque (on the path, near where level 10 was)",
+    "tombstone icon (within the brown plaque)",
+    "skull icon (should not be present)",
+    "uppercase letters 'A' through 'L' styled like image 2 (replacing numbers 1-12)",
+    "numeric level markers '1' through '12' (should not be present)",
+    "desert trees",
+    "cacti",
+    "tents",
+    "wooden crates"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

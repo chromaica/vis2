@@ -1,0 +1,24 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "generate a Sankey diagram tracking global plastic waste flows from production through recycling, landfills, and ocean pollution with proportional stream widths and earthy color gradients from forest green to ocean blue",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a detailed Sankey diagram illustrating the global plastic waste flow. The diagram should originate from a single 'Production' source node on the far left, with streams flowing horizontally to the right. These streams must clearly branch and converge, representing the distribution of waste volume into distinct final destinations: 'Recycling', 'Landfills', and 'Ocean Pollution' on the far right side of the diagram. All stream widths must be proportionally accurate to the volume of waste they represent. Apply an earthy color gradient across all streams, starting with a deep forest green at the 'Production' source and transitioning through various natural earthy tones for the 'Recycling' and 'Landfills' pathways, culminating in a distinct ocean blue specifically for the 'Ocean Pollution' stream.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Sankey diagram structure",
+    "'Production' source node on the far left",
+    "Flowing streams branching and converging",
+    "'Recycling' destination node on the far right",
+    "'Landfills' destination node on the far right",
+    "'Ocean Pollution' destination node on the far right",
+    "Text labels for 'Production', 'Recycling', 'Landfills', 'Ocean Pollution'",
+    "Streams with proportionally accurate widths",
+    "Streams with an earthy color gradient starting with deep forest green",
+    "'Ocean Pollution' stream in distinct ocean blue color"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,26 @@
+{
+  "subtopic": "Facial estimation and analysis",
+  "prompt": "Smooth the skin texture within the large yellow rectangle highlighting the forehead area.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751816313863,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1: Smooth the skin texture on the person's forehead, specifically within the area indicated by the large yellow rectangle positioned at the top of the face.",
+  "annotator": "edisy",
+  "objects": [
+    "older man",
+    "face with smoothed forehead skin texture",
+    "eyes",
+    "nose",
+    "mouth",
+    "moustache",
+    "gray hair",
+    "ears",
+    "shirt collar",
+    "dark background"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "Add a bright floor lamp next to the computer desk.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 by adding a bright floor lamp on the floor, immediately to the right of the computer desk.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Computer desk",
+    "Computer chair",
+    "Wall-mounted TV",
+    "Picture frame with pink rabbit",
+    "Two Sims",
+    "Two armchairs",
+    "Bookshelves with books",
+    "Bed",
+    "Window",
+    "Bright floor lamp on the floor, immediately to the right of the computer desk"
+  ],
+  "human_annotation": true
+}

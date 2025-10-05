@@ -1,0 +1,24 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Edit image 1 (the car diagram). Redesign the car's body shape within the diagram to reflect the angular, futuristic style of image 2. Apply the vibrant purple color and green interior/trim details from image 3 to the modified car in the diagram, retaining the cutaway view and labels.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the red car diagram. Redesign the car's exterior body shape within image 1 to reflect the distinct angular and futuristic style of the vehicle in image 2. Apply the vibrant purple color from image 3 to the redesigned car's body, and integrate the prominent green interior and trim details visible in image 3. Ensure the original cutaway view of the car in image 1 is fully retained, along with all existing labels pointing to internal components.",
+  "annotator": "maxku",
+  "objects": [
+    "Purple, angular, futuristic car body (cutaway view)",
+    "Green car interior details",
+    "Green car trim details",
+    "Exposed internal car components (e.g., engine, frame, battery)",
+    "Text labels pointing to internal components",
+    "Arrows pointing to internal components",
+    "\"General Motors\" text",
+    "\"EV ELECTRIC\" logo"
+  ]
+}

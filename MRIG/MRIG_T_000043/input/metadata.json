@@ -1,0 +1,27 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "Recreate the portrait in image 2 using only the word 'Pearl' repeated in the LEGO font style from image 3, adjusting each letter\u2019s color to match the original painting\u2019s shading.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a new image depicting the 'Girl with a Pearl Earring' portrait from image 2. This portrait should be entirely rendered as a textual graphic, similar in concept to the style shown in image 1. The image must be composed solely by repeating the word 'Pearl', using the distinct bold, blocky font style from the LEGO logo in image 3. Each individual letter should be precisely colored to match the corresponding shading, hues, and visual details of the original painting in image 2, effectively forming the portrait's likeness and characteristics through the color variation of the text.",
+  "annotator": "parnian",
+  "objects": [
+    "Portrait of 'Girl with a Pearl Earring' (composed of text)",
+    "Repeated instances of the word \"Pearl\"",
+    "Bold, blocky font style (similar to LEGO logo)",
+    "Colors reflecting the shading of the original painting",
+    "Colors reflecting the hues of the original painting",
+    "Colors reflecting the visual details of the original painting",
+    "Girl's face (formed by colored text)",
+    "Girl's blue turban/headscarf (formed by colored text)",
+    "Pearl earring (formed by colored text)",
+    "Girl's yellow/brown garment (formed by colored text)"
+  ],
+  "human_annotation": true
+}

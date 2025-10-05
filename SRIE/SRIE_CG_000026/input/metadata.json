@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Game assets",
+  "prompt": "Create a high-resolution terrain tile for a fantasy strategy game based on the reference control map.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 2 (a control map) to transform its distinct color regions into a high-resolution fantasy terrain tile suitable for a strategy game. Specifically, render green areas as dense forests, blue areas as flowing water (e.g., rivers or lakes), grey areas as rugged mountains or hills, and black areas as dark ground features or shadows. The final terrain tile should meticulously adopt the illustrative, hand-drawn art style and detailed appearance of the various terrain types displayed in image 1 (the collection of hexagonal game tiles).",
+  "annotator": "nimajamali",
+  "objects": [
+    "dense forests",
+    "flowing water (rivers and lakes)",
+    "rugged mountains",
+    "hills",
+    "dark ground features",
+    "shadows",
+    "illustrative art style",
+    "hand-drawn appearance",
+    "textured water surfaces",
+    "textured rocky mountain surfaces"
+  ]
+}

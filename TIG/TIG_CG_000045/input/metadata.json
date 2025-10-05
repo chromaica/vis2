@@ -1,0 +1,23 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "Game assets",
+  "prompt": "A 2D sprite sheet of a medieval knight character, side-view, 128x128 pixels per frame, with 8 animation frames (idle, walk, attack), in a hand-painted fantasy style.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a single image that is a 2D sprite sheet of a medieval knight character, depicted from a side-view. The sprite sheet must contain 8 distinct animation frames, arranged horizontally in a single row. Each individual frame within the sheet must be 128x128 pixels and should sequentially depict the knight's idle, walk, and attack animation cycles. The overall art style should be hand-painted fantasy.",
+  "annotator": "maxku",
+  "objects": [
+    "2D sprite sheet",
+    "medieval knight character",
+    "8 individual animation frames",
+    "knight in an idle pose",
+    "knight in walking poses",
+    "knight in attacking poses",
+    "horizontal arrangement of frames",
+    "side-view perspective of the knight",
+    "hand-painted fantasy art style"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

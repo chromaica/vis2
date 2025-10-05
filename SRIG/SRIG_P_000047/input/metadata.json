@@ -1,0 +1,22 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Medical images",
+  "prompt": "Generate a post-braces smile based on the reference with brackets.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic image based on image 1 by digitally removing the orthodontic braces (brackets and wires) from the teeth, revealing a natural, straightened smile. Maintain the original facial expression and close-up perspective of the mouth area.",
+  "annotator": "samin",
+  "objects": [
+    "orthodontic braces (should not be present)",
+    "straightened teeth",
+    "lips",
+    "gums",
+    "lower part of a nose",
+    "skin around the mouth",
+    "partial hair",
+    "blurred background"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Edit image 1 by replacing the Instagram logo with the purple gradient icon from image 2, and replace the clover leaf symbols with the blue butterfly icon from image 3, seamlessly integrating these new elements into the flowchart paths.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the flowchart diagram. Replace the orange Instagram logo, located in the mid-right section of the flowchart, with the purple gradient icon from image 2. Additionally, replace the four green clover leaf symbols, positioned in the far-right section, with the blue butterfly icon from image 3. Ensure both new icons are seamlessly integrated into their respective positions within the flowchart paths, maintaining a consistent scale and style with the overall diagram.",
+  "annotator": "maxku",
+  "objects": [
+    "Flowchart diagram structure",
+    "Text content of the flowchart",
+    "\"Made in loving memory of Vine\" text",
+    "Vine logo",
+    "YouTube logo",
+    "9gag logo",
+    "Orange Instagram logo (should not be present)",
+    "Purple gradient icon, in mid-right section",
+    "Four green clover leaf symbols (should not be present)",
+    "Blue butterfly icon, in far-right section"
+  ]
+}

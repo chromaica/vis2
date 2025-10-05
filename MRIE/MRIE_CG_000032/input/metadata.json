@@ -1,0 +1,27 @@
+{
+  "subtopic": "VFX and Particles",
+  "prompt": "Edit image 1 by transforming the laptop screen to display complex dynamic computer graphics content inspired by the multiple displays in image 2. Add subtle VFX particles flowing outwards from the screens, reflecting the energy and excitement shown towards the screen in image 3.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748455493804,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1. Transform the laptop screen to display complex, dynamic computer graphics, such as dark-themed data visualizations or intricate digital interfaces, drawing inspiration from the content on the multiple monitors in image 2. Furthermore, add subtle, glowing VFX particles emanating and flowing outwards from the laptop screen, capturing the vibrant energy and excitement seen in image 3.",
+  "annotator": "winston",
+  "objects": [
+    "Laptop",
+    "Wooden desk",
+    "iPhone",
+    "Laptop screen",
+    "Complex, dynamic computer graphics on the laptop screen",
+    "Dark-themed data visualizations on the laptop screen",
+    "Intricate digital interfaces on the laptop screen",
+    "Subtle, glowing VFX particles emanating from the laptop screen",
+    "Subtle, glowing VFX particles flowing outwards from the laptop screen"
+  ]
+}

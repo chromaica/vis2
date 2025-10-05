@@ -1,0 +1,17 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "A straightforward meme graphic: the phrase 'It is what it is' in a bold white sans-serif font, featuring a thick black outline, prominently centered on a clean, plain, and slightly muted background.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a simple graphic. The phrase 'It is what it is' is prominently centered, rendered in a bold white sans-serif font with a thick black outline. The background is clean, plain, and slightly muted in color.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "The phrase \"It is what it is\" (prominently centered)",
+    "Bold white sans-serif font (applied to the text)",
+    "Thick black outline (applied to the text)",
+    "Plain background",
+    "Muted color background"
+  ]
+}

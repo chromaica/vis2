@@ -1,0 +1,15 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Design a branding visual: 'Elevate' in iridescent 3D lettering, appearing to float within a minimalist, ethereal space accented by soft light reflections.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate an image of the word 'Elevate' rendered as iridescent 3D lettering, floating within a minimalist, ethereal space. The scene is accented by soft light reflections.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "The word 'Elevate' rendered as iridescent 3D lettering",
+    "Minimalist, ethereal space",
+    "Soft light reflections"
+  ]
+}

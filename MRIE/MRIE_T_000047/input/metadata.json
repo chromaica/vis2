@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "T",
+  "subtopic": "Signs",
+  "prompt": "Apply the sky in the second image to the first image, place it exactly behind the signs and expand the sky to fill the entire background. Then, replace the sign for 'Broadway' to a similar design as the third image, but make it look realistic.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the existing white background with the sky content from image 2, ensuring it is positioned behind all the street signs and expands to fill the entire background area. Additionally, replace the 'BROADWAY' street sign in image 1. The new 'BROADWAY' sign should adopt the illuminated border style and art deco typography seen in image 3, while being rendered realistically and seamlessly integrated into the street environment of image 1.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Street pole",
+    "'ONE WAY' street sign",
+    "'WAY' street sign",
+    "'W 58 ST' street sign",
+    "'BROADWAY' street sign with an illuminated border",
+    "Art deco typography for 'BROADWAY'",
+    "Blue sky background",
+    "White clouds",
+    "Original 'BROADWAY' street sign (should not be present)",
+    "White background (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

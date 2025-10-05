@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Stylized art",
+  "prompt": "Generate a stylized artwork using the graphic composition of two faces from image 1. Apply the vibrant, geometric stained-glass style and color palette from image 2.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a stylized artwork depicting two abstract faces. The left face should be a female profile looking towards the right, and the right face should be a more frontal, mask-like male face, mirroring the graphic composition and close proximity seen in image 1. Apply the vibrant, geometric stained-glass art style from image 2, characterized by distinct colored segments and prominent dark outlines. Incorporate the rich color palette from image 2, including its blues, greens, oranges, and yellows.",
+  "annotator": "samin",
+  "objects": [
+    "left abstract female face (profile, looking right)",
+    "right abstract male face (frontal, mask-like)",
+    "faces in close proximity",
+    "geometric colored segments",
+    "prominent dark outlines",
+    "vibrant blue colors",
+    "vibrant green colors",
+    "vibrant orange colors",
+    "vibrant yellow colors"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,27 @@
+{
+  "subtopic": "Branding and visual identity",
+  "prompt": "Create a textual graphic for visual branding \"SmartFit\". Use bold typography and graphic symbols in a flat, modern style. Incorporate the specific color palette and typographic layout from the reference image.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://media.licdn.com/dms/image/v2/D4E22AQH5-mk_31PFQg/feedshare-shrink_800/B4EZPbHywGGwAk-/0/1734548078475?e=2147483647&v=beta&t=qrynSXmH0hrXBYXxszszKIKPSUU5tjZL5VsPU0KHHa0",
+  "promptGeneratedTimestamp": 1750502895135,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "T",
+  "prompt_refined": "Generate a textual graphic for visual branding the name \"SmartFit\". The design should adopt the flat, modern aesthetic and bold, sans-serif typography found in image 1. Apply the color scheme from image 1, featuring a dark green background with text primarily in light pink, and certain graphic symbols accented in bright pink. Arrange the text \"SmartFit\" using a multi-line, centered typographic layout, similar to image 1, and integrate abstract graphic symbols and stylized punctuation marks within or around the text, following the visual style and emphasis demonstrated in image 1.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Dark green background",
+    "\"SmartFit\" text",
+    "Light pink text color",
+    "Bold, sans-serif typography",
+    "Multi-line, centered text layout",
+    "Abstract graphic symbols",
+    "Stylized punctuation marks",
+    "Bright pink accent color for symbols and certain punctuation",
+    "Flat, modern aesthetic"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

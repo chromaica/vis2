@@ -1,0 +1,24 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "Create a 3D planetary from seismic tomography in the reference image, showing layered structure and velocity anomalies.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic 3D view of Earth's internal structure, utilizing the S-wave velocity anomaly data from image 1. The rendering should display the planet's layered composition with the global distribution and magnitude of velocity anomalies visually represented, mirroring the colors and patterns from image 1. Employ a cutaway or translucent effect to reveal these deep internal features.",
+  "annotator": "samin",
+  "objects": [
+    "Photorealistic 3D model of Earth",
+    "Earth's visible crust",
+    "Earth's visible mantle",
+    "Earth's visible outer core",
+    "Earth's visible inner core",
+    "S-wave velocity anomaly patterns (red/orange hues)",
+    "S-wave velocity anomaly patterns (blue/purple hues)",
+    "S-wave velocity anomaly patterns (yellow/light blue hues)",
+    "Cutaway section revealing Earth's internal features (or translucent outer layers)",
+    "Global distribution of S-wave velocity anomaly patterns"
+  ]
+}

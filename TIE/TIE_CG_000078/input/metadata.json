@@ -1,0 +1,23 @@
+{
+  "subtopic": "Mesh Processing",
+  "prompt": "Change the rendering of the 3D dolphin mesh from flat shading to smooth shading for a smoother appearance.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751801035719,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1, the 3D dolphin mesh. Change its rendering from the current flat shading to smooth shading to achieve a smoother, less faceted surface.",
+  "annotator": "edisy",
+  "objects": [
+    "dolphin",
+    "3D mesh representation",
+    "smoothly rendered surface",
+    "visible polygonal lines",
+    "white background",
+    "flat shading (should not be present)",
+    "faceted surface appearance (should not be present)"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Generate a photorealistic portrait based on the first reference image, subtly incorporating the delicate and translucent qualities of the watercolor painting style from the second reference image. Maintain hyper-realistic facial details, natural skin textures, and realistic lighting. The watercolor effect should appear as soft, fluid color gradients and light brushstroke textures, seamlessly blended into the photorealistic rendering, ensuring the final image looks like a real photograph with a gentle watercolor aesthetic.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic portrait. The subject should capture the likeness, close-up framing, and pose of the person in image 1. Subtly integrate the delicate, translucent qualities of the watercolor painting style observed in image 2. The watercolor effect should appear as soft, fluid color gradients, gentle washes, and light, visible brushstroke textures, seamlessly blended into the photorealistic rendering. Maintain hyper-realistic facial details, natural skin textures, and realistic lighting, ensuring the final image predominantly resembles a real photograph with a gentle watercolor aesthetic.",
+  "objects": [
+    "Portrait of the woman from Image 1",
+    "Likeness of the woman from Image 1",
+    "Close-up framing",
+    "Front-facing pose",
+    "Hyper-realistic facial details",
+    "Natural skin textures",
+    "Realistic lighting",
+    "Soft, fluid color gradients",
+    "Gentle washes",
+    "Light, visible brushstroke textures"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,26 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Swap 'Merchant logo' and 'Continue' bottons with each other.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Relocate the yellow 'Continue' button (including the pointer hand) to the bottom-left of the interface, and relocate the white 'Merchant Logo' button to the bottom-right.",
+  "annotator": "matina",
+  "objects": [
+    "VISA Checkout interface",
+    "\"VISA Checkout\" header",
+    "Close 'x' button",
+    "FDNB VISA credit card",
+    "\"Pay With\" section",
+    "\"Deliver to\" section",
+    "Yellow 'Continue' button with pointer hand at the bottom-left",
+    "White 'Merchant Logo' button at the bottom-right",
+    "\"Terms of Service\" and \"Privacy Policy\" links",
+    "Address details (Avish Yeshurun, Ha-Golan St, Tel-Aviv, NY 10048)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

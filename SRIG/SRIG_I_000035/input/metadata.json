@@ -1,0 +1,21 @@
+{
+  "subtopic": "Icons and symbols",
+  "prompt": "Generate a lock icon with referencing the key icon style.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "https://media.istockphoto.com/id/1291920474/vector/vintage-antique-key-vector-icon-isolated-old-key-flat-colored-illustration-symbol-vector.jpg?s=612x612&w=0&k=20&c=eGnwmn9YXuC503Bc3oHe4M6kO5sVPP5AyGrt8r1rSdY=",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate a minimalist lock icon, presented against a solid light beige background. The icon should adopt the visual style of the key in image 1, featuring a flat, gold-orange color and a thick, uniform stroke weight, consistent with an information graphic.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "lock icon",
+    "minimalist design for the lock icon",
+    "flat rendering for the lock icon",
+    "gold-orange color for the lock icon",
+    "thick, uniform stroke weight for the lock icon",
+    "solid light beige background",
+    "information graphic aesthetic"
+  ]
+}

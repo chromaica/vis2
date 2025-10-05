@@ -1,0 +1,18 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "A mixed-media collage of musical instruments, including a guitar, saxophone, and violin, arranged in a harmonious crescent shape on a dark purple backdrop.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a mixed-media collage featuring a guitar, a saxophone, and a violin. These musical instruments are arranged to form a harmonious crescent shape. The entire composition is set against a deep, dark purple backdrop.",
+  "annotator": "cwhsu",
+  "objects": [
+    "mixed-media collage style",
+    "guitar",
+    "saxophone",
+    "violin",
+    "musical instruments arranged to form a harmonious crescent shape",
+    "deep, dark purple backdrop"
+  ]
+}

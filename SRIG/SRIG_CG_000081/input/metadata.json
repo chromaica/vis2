@@ -1,0 +1,29 @@
+{
+  "subtopic": "Object detection visuals",
+  "prompt": "Generate an aerial photo of a construction site with heavy vehicles, mimicking the reference image layout. Add computer graphics overlays visualizing object detection, such as bounding boxes around machinery and cars.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://global.discourse-cdn.com/nvidia/original/3X/6/f/6f198e7b01deb6bb63a8c0b696fcd6d3757fc8db.jpeg",
+  "promptGeneratedTimestamp": 1748769553204,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate an aerial photograph of a busy construction site, replicating the overall layout, camera perspective, and daytime lighting conditions depicted in image 1. The scene should feature numerous heavy yellow dump trucks and excavators, along with various cars and smaller vehicles, positioned across unpaved dirt roads and excavated areas, mirroring their arrangement and distribution from image 1. Specifically, include a cluster of dump trucks on the left, cars and smaller vehicles on the top-right, and a long, diagonally oriented vehicle in the mid-right. Overlay the entire image with prominent red rectangular bounding boxes precisely outlining each detected vehicle (including dump trucks, excavators, cars, and other machinery), consistent with an object detection visualization.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Aerial photograph perspective",
+    "Busy construction site",
+    "Daytime lighting conditions",
+    "Unpaved dirt roads",
+    "Excavated areas",
+    "Heavy yellow dump trucks (cluster on the left)",
+    "Excavators",
+    "Cars (on the top-right)",
+    "Smaller vehicles (on the top-right)",
+    "Long, diagonally oriented vehicle (in the mid-right)",
+    "Prominent red rectangular bounding boxes (over each detected vehicle)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

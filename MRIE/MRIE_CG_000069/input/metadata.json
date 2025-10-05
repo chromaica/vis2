@@ -1,0 +1,26 @@
+{
+  "subtopic": "VFX and Particles",
+  "prompt": "Edit image 1 by rendering the tire tracks and background as a realistic 3D scene. Introduce the dynamic, futuristic car from image 2 driving along the tracks and apply the bright, realistic outdoor lighting and environment style shown in image 3.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748456179860,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1 by transforming its graphic elements into a photorealistic 3D scene. The black tire tracks should become a textured asphalt or concrete road appearing to recede into the distance, and the yellow background should be replaced by a detailed outdoor environment. Introduce the dark, futuristic sports car from image 2, positioned centrally and appearing to drive along the rendered road, following the diagonal path indicated by the original tire tracks. Apply the bright, clear sky and realistic outdoor lighting conditions, and the overall environment style, as depicted in image 3.",
+  "annotator": "winston",
+  "objects": [
+    "Textured asphalt or concrete road, receding diagonally",
+    "Dark, futuristic sports car, centrally positioned, appearing to drive",
+    "Bright, clear sky",
+    "Ocean",
+    "Beach",
+    "Distant land or buildings"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

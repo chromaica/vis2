@@ -1,0 +1,19 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Animation",
+  "prompt": "Change the dollar sign to a Japanese yen sign. Make the yen sign consistent with every angle of the sprite sheet.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. On the pixel art gold coin sprite sheet, change every dollar sign ($) to a Japanese yen sign (\u00a5). The yen symbol must be rendered in the same pixel art style and accurately reflect the perspective for each coin's rotation and visible face across the sprite sheet.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "pixel art gold coin sprite sheet",
+    "gold coins",
+    "Japanese yen symbols",
+    "pixel art style",
+    "dollar signs (should not be present)"
+  ]
+}

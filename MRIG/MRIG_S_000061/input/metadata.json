@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "Generate a screenshot of a receipt for plant purchases from a bonsai nursery. The receipt should include one unit for each of the bonsai trees shown in the first and second images.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a screenshot of a digital receipt for plant purchases from a bonsai nursery. The receipt should list two purchased items: one unit of 'Chinese Elm' at $99.00 (as depicted in image 1) and one unit of 'Azalea - Pink Blossom' at $59.00 (as depicted in image 2). The receipt should clearly display the quantity, item name, unit price, and a calculated subtotal and total for these specific items.",
+  "annotator": "paria",
+  "objects": [
+    "Digital receipt layout",
+    "Receipt title (e.g., \"Digital Receipt\", \"Order Summary\")",
+    "Bonsai nursery branding (e.g., logo, name)",
+    "Itemized list of purchased items",
+    "Column headers for Quantity, Item Name, and Unit Price",
+    "Line item for 'Chinese Elm' with quantity 1 and unit price $99.00",
+    "Line item for 'Azalea - Pink Blossom' with quantity 1 and unit price $59.00",
+    "Calculated subtotal display",
+    "Calculated total amount display"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

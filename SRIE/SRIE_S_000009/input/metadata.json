@@ -1,0 +1,29 @@
+{
+  "subtopic": "Receipts",
+  "prompt": "Edit image 1: Change the accent color used for successful elements (like the checkmark icon and total amount text) from green to the prominent blue color found in the header and links of image 2.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "Mobile receipt screenshot",
+  "searchQueryGeneratedTimestamp": 1750756995470,
+  "promptGeneratedTimestamp": 1750757018919,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit image 1. Change the color of the large green checkmark icon at the top and the 'Total Amount: 19.00' text from green to the prominent blue color visible in the header and links of image 2 (e.g., the Lowe's logo and 'Print' link).",
+  "annotator": "ishengfang",
+  "objects": [
+    "Smartphone frame (black)",
+    "Blue checkmark icon at the top",
+    "\"Successful transfer\" text",
+    "Account number, date, time, reference number",
+    "Amount (16.50)",
+    "Fee (2.50)",
+    "\"Total Amount: 19.00\" text (blue)",
+    "\"Top Up\" icon and text at the bottom",
+    "\"Save Receipt\" icon and text at the bottom",
+    "\"Share\" icon and text at the bottom"
+  ]
+}

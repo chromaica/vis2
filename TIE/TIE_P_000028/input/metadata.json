@@ -1,0 +1,22 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "generate a color version of this SEM image",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Colorize image 1, a black and white SEM image of a spider's head, into a photorealistic color photograph.",
+  "annotator": "theblackcat",
+  "objects": [
+    "photorealistic spider's head",
+    "spider eyes",
+    "spider pedipalps",
+    "spider chelicerae",
+    "spider leg segments",
+    "body hairs and bristles",
+    "detailed exoskeleton texture",
+    "dark background"
+  ]
+}

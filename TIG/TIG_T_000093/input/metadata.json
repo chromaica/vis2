@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "Dynamic typographic art: the word \"IGNITE\" visualized as if literally rendered in vibrant, burning flame text, set against a dark and atmospheric backdrop.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "The word 'IGNITE' rendered as vibrant, flickering burning flame text, dynamically set against a deep, dark, and atmospheric backdrop. Embers and wisps of smoke rise from the letters, which glow intensely with high-contrast, dramatic lighting.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "The word 'IGNITE'",
+    "Letters rendered as burning flame",
+    "Vibrant, flickering flame texture",
+    "Deep, dark backdrop",
+    "Atmospheric backdrop",
+    "Rising embers",
+    "Rising wisps of smoke",
+    "Intense glow emanating from the text",
+    "High-contrast lighting",
+    "Dramatic lighting"
+  ]
+}

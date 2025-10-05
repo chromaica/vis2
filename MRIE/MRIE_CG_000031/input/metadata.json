@@ -1,0 +1,28 @@
+{
+  "subtopic": "Object detection visuals",
+  "prompt": "Visualize object detection on image 1. Overlay multi-object bounding boxes on each puppy with labels styled like the harmonicas in image 2. Apply a segmentation mask contour to the main puppy using the solid object form concept from image 3. Highlight a puppy's head with a sub-object detection box styled from image 4 components. Render the background as a computer graphic interface grid, inspired by scene elements or displays in image 5.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg",
+    "4.jpeg",
+    "5.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749067371519,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit the provided image of puppies (image 1) to incorporate computer graphics visualizations. Overlay clear multi-object bounding boxes around each visible puppy, including those in the foreground and the partially visible ones in the background. Label these bounding boxes with text styled after the 'GOLDEN BUTTERFLY' branding and rectangular plates found on the harmonicas in image 2, adopting a similar font, metallic accent, and blue/black color scheme. Apply a precise, defined segmentation mask contour to the entire body of the main puppy, the one on the right with its mouth open, drawing inspiration from the solid, distinct, and industrial form of the farm machinery in image 3. Further highlight the head of this specific puppy with a smaller sub-object detection box; style this box to reflect the rugged utility, sharp lines, and grayscale/red color palette, along with metallic or textured elements, inspired by the axe and its sheath in image 4. Finally, transform the entire background of image 1 into a stylized computer graphic interface grid, referencing the structured digital display and surrounding technological environment seen in image 5 to inform its design.",
+  "annotator": "winston",
+  "objects": [
+    "Puppies (foreground and background)",
+    "Multi-object bounding boxes (around each visible puppy)",
+    "Labels for bounding boxes (text styled after 'GOLDEN BUTTERFLY' branding)",
+    "Rectangular label plates (metallic accent, blue/black color scheme)",
+    "Precise segmentation mask contour (around the entire body of the main puppy on the right)",
+    "Smaller sub-object detection box (highlighting the head of the main puppy)",
+    "Grayscale/red color palette, metallic/textured elements (on the sub-object detection box)",
+    "Stylized computer graphic interface grid background"
+  ]
+}

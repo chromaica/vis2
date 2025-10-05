@@ -1,0 +1,29 @@
+{
+  "subtopic": "Websites",
+  "prompt": "Edit image 1: Replace the dark header background and search bar area with the prominent, textured background image and search bar layout from the top section of image 2, above the news feed.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751006199773,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit image 1: Replace the dark header background and the entire search bar/navigation area in the top section of image 1. Use the prominent green and yellow textured background image from the top section of image 2 as the new header background. Additionally, incorporate the layout and design of the 'Search the web' bar, including its microphone, camera, and search icons, as seen in the top section of image 2, into the replaced header area of image 1.",
+  "annotator": "ishengfang",
+  "objects": [
+    "green and yellow textured background (in header)",
+    "\"Search the web\" bar",
+    "microphone icon (in search bar)",
+    "camera icon (in search bar)",
+    "search icon (in search bar)",
+    "\"PoliticsHome\" logo",
+    "\"ALL TODAY'S POLITICS IN ONE PLACE\" tagline",
+    "news articles with images",
+    "\"The House Live\" section",
+    "\"Latest\" news section"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

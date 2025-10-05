@@ -1,0 +1,17 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "create a image of software UI about floating circular waveform that morphs as user speaks, soft glowing particles, dark blurred background, subtle microphone icon",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a modern software user interface (UI) featuring a prominent, centrally floating, dynamic, and organically morphing circular audio waveform. Soft, glowing particles are subtly scattered around the waveform. The background is dark and gently blurred. A subtle, minimalist microphone icon is positioned at the bottom-center of the UI.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Modern software user interface (UI)",
+    "Prominent, centrally floating, dynamic, organically morphing circular audio waveform",
+    "Soft, glowing particles subtly scattered around the waveform",
+    "Dark, gently blurred background",
+    "Subtle, minimalist microphone icon at the bottom-center of the UI"
+  ]
+}

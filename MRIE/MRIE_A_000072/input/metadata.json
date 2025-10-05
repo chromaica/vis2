@@ -1,0 +1,25 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Stylized art",
+  "prompt": "Add the man riding a horse from image 2 and the car from image 3 onto the road in image 1.",
+  "cond_images": [
+    "1.jpg",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Integrate the man riding a horse from image 2 and the red pickup truck from image 3 onto the prominent dirt path. Place the man on the horse slightly behind the existing red-robed figure. Position the red pickup truck further down the path, closer to the distant adobe structures.",
+  "annotator": "paria",
+  "objects": [
+    "prominent dirt path",
+    "red-robed figure",
+    "man riding a horse slightly behind the existing red-robed figure",
+    "red pickup truck further down the path closer to the distant adobe structures",
+    "adobe structures",
+    "dramatic sunset sky",
+    "hills",
+    "green foliage",
+    "fields"
+  ]
+}

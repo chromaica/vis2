@@ -1,0 +1,25 @@
+{
+  "subtopic": "Software interfaces",
+  "prompt": "Edit image 1: Add the recording control overlay from the top of image 2 (showing 'Start', timer, etc.) to the top area of the software interface window in image 1, as if the session is being recorded.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751179534800,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit image 1: Integrate the recording control overlay from image 2 into the top area of the 'RSVP HyperDrive' software window. Specifically, transfer the 'Start' button, the '00:00:00' timer, and the accompanying icons (pause/stop, full screen, settings, close) from image 2. Position these elements centrally at the top of the main application window in image 1, directly below its title bar, to depict an ongoing recording session.",
+  "annotator": "ishengfang",
+  "objects": [
+    "RSVP HyperDrive software window",
+    "Recording control overlay bar, positioned centrally at the top of the RSVP HyperDrive window, below its title bar",
+    "'Start' button",
+    "'00:00:00' timer",
+    "Stop icon",
+    "Full screen icon",
+    "Settings icon",
+    "Close icon (X)"
+  ]
+}

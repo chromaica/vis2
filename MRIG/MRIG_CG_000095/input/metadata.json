@@ -1,0 +1,27 @@
+{
+  "subtopic": "CAD models",
+  "prompt": "Generate a detailed CAD model rendering of the corkscrew from image 1. Render it with the polished, reflective metallic finish and clean studio lighting characteristic of image 2.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748424773257,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a precise CAD model rendering of the corkscrew depicted in image 1. Apply a highly polished, reflective silver metallic finish, mimicking the material quality of the jewelry in image 2. Illuminate the corkscrew with bright, even studio lighting and present it against a clean, neutral background, consistent with the visual style of image 2.",
+  "annotator": "winston",
+  "objects": [
+    "Corkscrew (shape from image 1)",
+    "CAD model rendering style",
+    "Highly polished silver metallic finish",
+    "Reflective metallic surface",
+    "Bright studio lighting",
+    "Even studio lighting",
+    "Clean background",
+    "Neutral background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

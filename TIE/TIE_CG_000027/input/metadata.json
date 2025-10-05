@@ -1,0 +1,22 @@
+{
+  "subtopic": "Facial estimation and analysis",
+  "prompt": "Change the color of the yellow geometric facial analysis overlay, including all lines and keypoints, to a vibrant neon blue.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751816439856,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1. Change the yellow geometric facial analysis overlay, which comprises lines and square keypoints visible on the man's face, to a vibrant neon blue.",
+  "annotator": "edisy",
+  "objects": [
+    "man's face",
+    "man's upper torso",
+    "yellow background",
+    "vibrant neon blue geometric lines on the man's face",
+    "vibrant neon blue square keypoints on the man's face"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,22 @@
+{
+  "subtopic": "Games",
+  "prompt": "Based on the referenced iamge, generate what will happen in the screenshot of the cockpit view after 30 seconds.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://forums.flightsimulator.com/uploads/default/original/4X/1/4/b/14b04ccf580a4c8b0a101699c78f8fe9dc80d1f4.jpeg",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a new image from an airliner cockpit perspective, using image 1 as a reference. The image should depict the scene approximately 30 seconds after the moment captured in image 1, showcasing the aircraft's continued approach towards the runway. The runway, clearly visible in the distance through the windshield in image 1, should now appear significantly closer, larger, and more prominent in the central view, indicating a substantial reduction in altitude and distance to touchdown. The cockpit instruments, particularly the Primary Flight Display (PFD) and its airspeed and altitude readouts, should accurately reflect this progression of descent and approach.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Airliner cockpit view",
+    "Aircraft windshield",
+    "Runway (significantly closer, larger, and more prominent in the central view)",
+    "Airport environment visible through the windshield",
+    "Cockpit instrument panel",
+    "Primary Flight Display (PFD)",
+    "PFD airspeed readout (reflecting progression of descent/approach)",
+    "PFD altitude readout (reflecting progression of descent/approach)"
+  ]
+}

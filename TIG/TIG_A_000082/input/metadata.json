@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "oil paintings",
+  "prompt": "A captivating oil painting of a thunderstorm over a wheat field, with swirling dark clouds and lightning sharply illuminating golden stalks below.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate an oil painting of a dramatic thunderstorm. Ominous, swirling dark clouds gather in the upper sky above a golden wheat field. Jagged lightning bolts intensely illuminate the vast expanse of wheat stalks stretching into the midground and foreground.",
+  "annotator": "cwhsu",
+  "objects": [
+    "ominous, swirling dark clouds",
+    "upper sky",
+    "golden wheat field",
+    "jagged lightning bolts",
+    "vast expanse of wheat stalks",
+    "midground",
+    "foreground"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

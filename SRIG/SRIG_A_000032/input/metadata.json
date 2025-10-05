@@ -1,0 +1,24 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Stylized art",
+  "prompt": "A stylized rubber duck leading a pirate ship on stormy seas",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate an artwork depicting the yellow rubber duck from image 1, rendered in a dramatic, illustrative style and scaled to a colossal size. This monumental duck is positioned prominently in the foreground, leading a classic wooden pirate ship with tattered black sails and skull and crossbones flags, which follows closely behind. Both the duck and the ship are on a vast, tumultuous dark stormy sea with towering, frothing waves. The ominous sky above is filled with dark storm clouds, illuminated by flashes of distant lightning, creating an epic and dramatic atmosphere.",
+  "annotator": "Johnny",
+  "objects": [
+    "colossal yellow rubber duck in foreground",
+    "classic wooden pirate ship following closely behind",
+    "tattered black sails",
+    "skull and crossbones flags",
+    "vast, tumultuous dark stormy sea",
+    "towering, frothing waves",
+    "ominous sky",
+    "dark storm clouds",
+    "flashes of distant lightning"
+  ],
+  "human_annotation": true
+}

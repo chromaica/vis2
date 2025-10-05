@@ -1,0 +1,27 @@
+{
+  "subtopic": "Receipts",
+  "prompt": "Edit image 1: Apply the visual style and layout concepts from image 2. Change the header color scheme to match image 2's orange/yellow. Modify the item details section to include space for a product image and detailed listing structure.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1750835772987,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit image 1 by integrating the modern visual style, color palette, and layout concepts from image 2. Specifically:\n1.  **Header:** Update the top header section of image 1 to match the warm orange color scheme and clean typography of image 2's header.\n2.  **Item Details:** Redesign the 'Description' table in image 1 into a detailed product listing structure, mirroring image 2's \"PRODUCT\" section. This new section should prominently feature:\n    *   Space for a product image positioned on the left.\n    *   Product name and specific attributes (e.g., model, color) textually detailed to the right of the image.\n    *   Below the product details, include separate line items for services, discounts, subtotal, tax, and total amounts, adopting the distinct, spaced-out presentation style of image 2.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Warm orange header section",
+    "\"Company Name\" text in header",
+    "\"Receipt\" text in header",
+    "Detailed product listing structure",
+    "Space for a product image on the left within the product listing",
+    "Product name text to the right of the product image",
+    "Product attributes text (e.g., model, color) to the right of the product image",
+    "Separate line items for services and discounts",
+    "Subtotal amount line item",
+    "Total amount line item"
+  ]
+}

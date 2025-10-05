@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Edit image 1. Replace the 'Model' robot icon with a detailed robotic figure inspired by image 2. Substitute the 'Evaluation' server rack icon with a stylized, isometric server rack illustration similar to image 3.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. In the central-left area, replace the simplified robot icon labeled 'Model' with a highly detailed, complex robotic figure, drawing inspiration from the mechanical design and realistic rendering style of image 2. In the central-right area, substitute the simplified server rack icon located above the 'Evaluation' label with a stylized, isometric illustration of multiple server racks, matching the clean aesthetic and perspective of image 3.",
+  "annotator": "maxku",
+  "objects": [
+    "Highly detailed, complex robotic figure (in central-left area, labeled 'Model')",
+    "Stylized, isometric illustration of multiple server racks (in central-right area, above 'Evaluation' label)",
+    "\"Theorems\" box with content including \"Run Length Encoding\"",
+    "Projector screen displaying graphics (labeled 'Multimodal Elements')",
+    "Person icon with code symbol (part of 'Evaluation')",
+    "\"Metrics\" section with evaluation criteria and values",
+    "Speech bubble: \"I understand this theorem! I will explain it with visuals.\"",
+    "Arrows and labels connecting various elements (e.g., \"Prompting\", \"Output\")",
+    "Simplified robot icon labeled 'Model' (should not be present)",
+    "Simplified server rack icon (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

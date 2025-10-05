@@ -1,0 +1,26 @@
+{
+  "subtopic": "Game assets",
+  "prompt": "Add a subtle layer of magical mist or fog clinging to the ground and around the floating islands, giving the environment a mysterious and enchanted feel.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751762878432,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1. Introduce a subtle, ethereal layer of magical mist or fog. This mist should cling to the base of all ground elements and the underside/surrounding areas of the floating islands and moss-covered logs depicted. The overall effect should imbue the scene with a mysterious and enchanted atmosphere.",
+  "annotator": "edisy",
+  "objects": [
+    "Magical mist or fog",
+    "Floating islands",
+    "Moss-covered logs",
+    "Ground elements",
+    "Mushrooms",
+    "Bushes",
+    "Trees or tree stumps",
+    "Rocks",
+    "Glowing plants",
+    "Flowers"
+  ]
+}

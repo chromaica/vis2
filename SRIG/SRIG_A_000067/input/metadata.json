@@ -1,0 +1,24 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "Generate a surreal collage artwork in the style of vintage cutouts and mixed media textures. keep the textured background and whimsical, playful vibe, but replace the current objects with new nature thematic elements such as leaves, animals, flowers, and natural artifacts.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a surreal collage artwork using image 1 as a reference. Maintain the vintage cutout and mixed media textures, including the textured paper background with torn edges and tape elements visible in image 1. Preserve the overall whimsical and playful vibe. Replace all distinct collage objects from image 1 with new nature-thematic elements, ensuring a similar overall density and distribution of objects across the canvas.\n\nSpecifically:\n- In the top-left area where the roses are, place a cluster of fresh, vibrant flowers or lush green foliage.\n- In the top-middle and top-right areas where the red dice are, incorporate elements like scattered autumn leaves, delicate butterflies, or small, whimsical forest creatures such as a field mouse or a curious squirrel.\n- In the mid-right area where the syringe is located, introduce a flowing botanical element like a winding vine or a bundle of tall grasses.\n- In the center, replacing the red lips, feature a large, prominent blooming flower, such as a vibrant dahlia or an open peony.\n- In the center-left, replacing the parrot, depict an intriguing animal figure, such as a stylized owl, an ornate peacock, or a whimsical forest animal like a fox or deer, rendered in a vintage illustration style.\n- In the upper-mid-right, where the gold necklace is, arrange a collection of natural artifacts like ornate seashells, intricate bird feathers, or polished geological crystals.\n- In the bottom-right, where the green eyeglasses are, place a small arrangement of wildflowers or a detailed illustration of an insect like a bee or a colorful beetle.\n\nEnsure all new elements are rendered in the style of vintage cutouts and seamlessly integrated into the composition, maintaining the overall surreal and playful aesthetic of image 1.",
+  "annotator": "Johnny",
+  "objects": [
+    "Textured paper background with torn edges and tape elements",
+    "Cluster of fresh, vibrant flowers or lush green foliage in the top-left area",
+    "Scattered autumn leaves, delicate butterflies, or small, whimsical forest creatures in the top-middle and top-right areas",
+    "Flowing botanical element in the mid-right area",
+    "Large, prominent blooming flower in the center",
+    "Intriguing animal figure (e.g., stylized owl, ornate peacock, fox, or deer) in the center-left",
+    "Collection of natural artifacts (e.g., ornate seashells, intricate bird feathers, or polished geological crystals) in the upper-mid-right",
+    "Small arrangement of wildflowers or an insect (e.g., bee or colorful beetle) in the bottom-right",
+    "red lips (should not be present)",
+    "parrot (should not be present)"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "A crumpled gas station receipt from \"Shell Station #4821\" on Route 66, Arizona. Items: 12.347 gal Regular Unleaded @ $3.89/gal: $48.03, 1 Red Bull: $3.29, 1 Beef Jerky: $4.99. Total: $56.31. The receipt is sun-bleached and has tire marks from being dropped on asphalt, photographed next to a motorcycle helmet.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate an image of a heavily crumpled, sun-bleached, and dirt-stained gas station receipt lying on rough asphalt. The receipt displays distinct tire marks across its surface. Clearly visible text on the receipt should read: \"Shell Station #4821\", \"Route 66, Arizona\", \"12.347 gal Regular Unleaded @ $3.89/gal: $48.03\", \"1 Red Bull: $3.29\", \"1 Beef Jerky: $4.99\", and \"Total: $56.31\". Position a dark, scuffed motorcycle helmet immediately to the right of the receipt. The scene should be lit by harsh sunlight, casting short shadows.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Heavily crumpled, sun-bleached, dirt-stained gas station receipt",
+    "Distinct tire marks across the receipt",
+    "Text on receipt: \"Shell Station #4821\"",
+    "Text on receipt: \"Route 66, Arizona\"",
+    "Text on receipt: \"12.347 gal Regular Unleaded @ $3.89/gal: $48.03\"",
+    "Text on receipt: \"1 Red Bull: $3.29\"",
+    "Text on receipt: \"1 Beef Jerky: $4.99\"",
+    "Text on receipt: \"Total: $56.31\"",
+    "Dark, scuffed motorcycle helmet immediately to the right of the receipt",
+    "Rough asphalt"
+  ]
+}

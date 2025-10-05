@@ -1,0 +1,25 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Ceramic art",
+  "prompt": "Replace all flower flasks with blue peacocks. The outcome should include three identical peacocks having the same pose. Those peacocks should follow the original art style and color scheme. ",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace each of the three stylized flower vases (the leftmost, central, and rightmost) in the main horizontal band with a blue peacock. Ensure all three peacocks are identical in appearance and pose. The peacocks must be rendered in the distinctive Iznik tile art style, adhering to the existing blue, white, and reddish-brown color scheme of image 1.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "leftmost blue peacock in Iznik tile art style",
+    "central blue peacock in Iznik tile art style",
+    "rightmost blue peacock in Iznik tile art style",
+    "top decorative Iznik border",
+    "bottom decorative Iznik border",
+    "vertical stylized blue plant stalks",
+    "stylized blue floral elements",
+    "stylized reddish-brown floral elements",
+    "white background of the central band"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

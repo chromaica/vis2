@@ -1,0 +1,16 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "3D renders",
+  "prompt": "Realistic 3D render of a stone castle gate with wireframe overlay, Blender-compatible.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A photorealistic 3D render of a stone castle gate with a prominent wireframe overlay, presented in a clean, professional Blender-like rendering style.",
+  "annotator": "maxku",
+  "objects": [
+    "stone castle gate",
+    "prominent wireframe overlay"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

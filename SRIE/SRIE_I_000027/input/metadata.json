@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Apply four color palette in the referenced image to four bars in the bar chart.",
+  "cond_images": [
+    "1.png",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the bar chart, using image 2 as a color palette reference. Update the colors of the four categories of bars as follows:\n- Recolor the 'Graphic Design' bars (currently orange) to match the vibrant orange color of the bottom-left star in image 2.\n- Recolor the 'Web Design' bars (currently pink) to match the vibrant pink/magenta color of the top-left star in image 2.\n- Recolor the 'SEO Analysis' bars (currently purple) to match the vibrant yellow color of the top-right star in image 2.\n- Recolor the 'Developer' bars (currently green) to match the vibrant green color of the bottom-right star in image 2.\nMaintain the bar chart's original structure, data values, and overall layout.",
+  "annotator": "Johnny",
+  "objects": [
+    "Bar chart title (\"BAR CHART TEMPLATE\")",
+    "Bar chart subtitle (\"Sales Revenue\")",
+    "Y-axis with values",
+    "X-axis with years",
+    "Data bars for 'Graphic Design' (recolored to vibrant orange)",
+    "Data bars for 'Web Design' (recolored to vibrant pink/magenta)",
+    "Data bars for 'SEO Analysis' (recolored to vibrant yellow)",
+    "Data bars for 'Developer' (recolored to vibrant green)",
+    "Numeric data labels on top of bars",
+    "Legend with text labels and recolored swatches"
+  ]
+}

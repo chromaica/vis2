@@ -1,0 +1,27 @@
+{
+  "task": "SRIE",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Transfer the lighting tone and warmth from the reference to the source image for a golden-hour effect.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 (the source image). Transform the current cool, overcast lighting into a warm, golden-hour effect by transferring the lighting tone, warmth, and soft, directional sunlight characteristics observed in image 2 (the reference image). Apply this photorealistic golden glow to the entire scene, including the couple, their attire, the rocky landscape, and the sky, ensuring highlights and shadows reflect the warm, rich hues typical of a sunset.",
+  "annotator": "nimajamali",
+  "objects": [
+    "a couple",
+    "wedding dress",
+    "groom's kilt",
+    "groom's jacket",
+    "wedding veil",
+    "rocky landscape",
+    "sky",
+    "golden-hour lighting effect",
+    "warm-hued highlights",
+    "warm-hued shadows"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

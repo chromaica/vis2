@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "Replace the nail color of the girl in the first image with that of the girl in the second image, and also replace her earrings with those from the girl in the third image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the artwork in image 1. Update the nail polish color on the girl's hand to match the bright neon green from image 2. Furthermore, replace her existing gold hoop earrings with the distinct long, gold, face-shaped dangle earrings shown in image 3.",
+  "annotator": "paria",
+  "objects": [
+    "girl's back and head",
+    "long braided hair",
+    "hand",
+    "bright neon green nail polish",
+    "gold rings",
+    "gold bracelets",
+    "long, gold, face-shaped dangle earrings",
+    "gold necklace",
+    "peach/pinkish shirt",
+    "dark teal/green background"
+  ]
+}

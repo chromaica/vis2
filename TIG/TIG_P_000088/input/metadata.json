@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "An empty, ancient cobblestone street in a European village, flanked by quaint old buildings with ivy-covered walls, under a cloudy sky.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic image of a narrow, empty, ancient cobblestone street in a European village. The street is flanked on both sides by quaint, multi-storied old buildings with dense, vibrant ivy covering their stone walls, all under a uniformly overcast sky.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Narrow, ancient cobblestone street",
+    "Empty street",
+    "European village buildings",
+    "Multi-storied old buildings",
+    "Buildings flanking the street on both sides",
+    "Dense, vibrant ivy",
+    "Ivy covering building stone walls",
+    "Uniformly overcast sky"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

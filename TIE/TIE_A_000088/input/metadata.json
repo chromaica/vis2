@@ -1,0 +1,21 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Statue",
+  "prompt": "Make the statue's right hand hold a basketball. The background should be a studio-like setting with soft lighting.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Modify the bronze statue by depicting its anatomical right hand (the hand extended towards the viewer's left) holding a basketball. Replace the existing background with a clean, minimalist studio setting illuminated by soft, diffused lighting.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "bronze statue",
+    "basketball",
+    "anatomical right hand of the statue holding the basketball",
+    "clean studio setting",
+    "soft, diffused lighting",
+    "existing grey background (should not be present)",
+    "stone plinth (should not be present)"
+  ]
+}

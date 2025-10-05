@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "QR Code",
+  "prompt": "Edit image 1 by replacing the black QR code inside the teal box with the Starbucks QR code from image 2, scaled to fit cleanly within the teal frame and aligned exactly where the original QR was. Then, change the entire white background of the flyer to the bright yellow tone from image 3, while keeping the teal QR container, text elements, and floral icons fully intact and readable. Finally, add the FedEx logo from image 4 directly above the 'THANK YOU!' text, centered and scaled to match the width of that text line. All other content should remain unchanged.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg",
+    "4.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the flyer in image 1. Replace the existing black QR code within the central teal rounded square container with the Starbucks QR code from image 2. Ensure the Starbucks QR code is scaled precisely to fit neatly inside the teal container, maintaining its centered alignment as the original QR code. Change the entire white background of the flyer to the bright yellow color seen in image 3. All existing elements, including the teal QR container, the text ('PAYMENT', 'ACCEPTED HERE', 'THANK YOU!', 'Get a special discount of up to 30%, but terms and conditions apply'), and the three yellow floral icons, must remain perfectly intact and clearly visible. Finally, add the FedEx logo from image 4 directly above the 'THANK YOU!' text; the logo should be centered horizontally above the text and scaled so its width exactly matches the width of the 'THANK YOU!' text line. Ensure all other content and elements in image 1 remain untouched.",
+  "annotator": "parnian",
+  "objects": [
+    "bright yellow background",
+    "Starbucks QR code within a teal rounded square container",
+    "teal rounded square QR container",
+    "'PAYMENT' text",
+    "'ACCEPTED HERE' text",
+    "'THANK YOU!' text",
+    "'Get a special discount of up to 30%, but terms and conditions apply' text",
+    "three yellow floral icons",
+    "FedEx logo above 'THANK YOU!' text",
+    "yellow circle behind the teal container"
+  ],
+  "human_annotation": true
+}

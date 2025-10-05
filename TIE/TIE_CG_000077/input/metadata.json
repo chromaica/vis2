@@ -1,0 +1,19 @@
+{
+  "subtopic": "Mesh Processing",
+  "prompt": "Apply a smoothing algorithm to the torus mesh to reduce the visible polygon edges and make the surface appear more rounded and continuous.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751800986813,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1: Smooth the surface of the grey torus to remove the visible polygon edges, making it appear more rounded and continuous.",
+  "annotator": "edisy",
+  "objects": [
+    "grey torus",
+    "black background",
+    "visible polygon edges (should not be present)"
+  ]
+}

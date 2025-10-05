@@ -1,0 +1,23 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "Edit image 1, the Super Mario World map, by replacing the hand-drawn title with the official 'SUPER MARIO WORLD' logo style from image 2. Add the illustrative Mario and Yoshi characters from image 2 onto the map. Incorporate a clean, graphic compass rose from image 3 to enhance the map's navigation feel in bottom right.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the Super Mario World map. Replace the hand-drawn 'SUPER MARIO WORLD Overworld' title currently located in the bottom-left corner of image 1 with the official 'SUPER MARIO WORLD' logo from image 2. Integrate the illustrative flying Mario and Yoshi characters from image 2 into the upper-left quadrant of the map, positioned as if soaring above the terrain. Add the clean, graphic compass rose from image 3 to the bottom-right corner of the map to enhance its navigation feel.",
+  "annotator": "maxku",
+  "objects": [
+    "Super Mario World map terrain and existing elements",
+    "hand-drawn 'SUPER MARIO WORLD Overworld' title (should not be present)",
+    "official 'SUPER MARIO WORLD' logo from image 2, in the bottom-left corner",
+    "illustrative flying Mario and Yoshi characters from image 2, in the upper-left quadrant",
+    "clean, graphic compass rose from image 3, in the bottom-right corner"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

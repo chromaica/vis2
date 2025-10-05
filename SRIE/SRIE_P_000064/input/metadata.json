@@ -1,0 +1,20 @@
+{
+  "task": "SRIE",
+  "topic": "P",
+  "subtopic": "Medical images",
+  "prompt": "Overlay the red annotation from the reference image onto the corresponding region in the dental X-ray (image 1), preserving the underlying X-ray detail and ensuring clear medical highlighting.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Overlay the red annotation from image 2 onto the dental X-ray in image 1, specifically over the wisdom tooth area on the right side. The overlay must be translucent, allowing the underlying X-ray details of the tooth and bone structure to remain clearly visible, serving as a clear medical highlight.",
+  "annotator": "nimajamali",
+  "objects": [
+    "Dental X-ray image",
+    "Translucent red annotation over the wisdom tooth area",
+    "Wisdom tooth (visible through the annotation)",
+    "Bone structure (visible through the annotation)"
+  ],
+  "human_annotation": true
+}

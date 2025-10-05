@@ -1,0 +1,20 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Painting",
+  "prompt": "Add some bees flying around the flowers. Empty space should be left around the bees like the white space around the flowers.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Add several small bees flying within the blue sky area, positioned around the various flowers. Each bee should feature a distinct white border or outline around it, consistent with the unpainted white space defining the edges of the flowers in image 1, maintaining the artwork's simple, drawn style.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Sun",
+    "Blue sky area",
+    "Various flowers",
+    "Green grass",
+    "\"Happy Mother's Day!\" banner",
+    "Several small bees with distinct white borders, flying within the blue sky area and positioned around the various flowers"
+  ]
+}

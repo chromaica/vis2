@@ -1,0 +1,24 @@
+{
+  "subtopic": "Game assets",
+  "prompt": "Generate a collection of new 8-bit pixel art style game assets, similar to the items in the reference image. Include icons like health potions, armor pieces, different weapons, and level-up symbols, rendered with bold outlines and limited color palettes.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://www.dreamstime.com/illustration/retro-computer-game-icons.html",
+  "promptGeneratedTimestamp": 1748766464708,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a collection of new 8-bit pixel art game assets, consistent in style with the items in image 1. The collection should specifically include icons such as health potions, various armor pieces (e.g., helmets, chest plates), different types of weapons (e.g., swords, bows, axes), and distinct level-up symbols (e.g., stars, upward arrows). Each asset must feature bold black outlines and a clear, limited color palette, replicating the crisp, individual icon presentation style observed in image 1.",
+  "annotator": "ishengfang",
+  "objects": [
+    "8-bit pixel art health potions",
+    "8-bit pixel art armor helmets",
+    "8-bit pixel art armor chest plates",
+    "8-bit pixel art swords",
+    "8-bit pixel art bows",
+    "8-bit pixel art axes",
+    "8-bit pixel art level-up stars",
+    "8-bit pixel art level-up upward arrows"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "subtopic": "Medical images",
+  "prompt": "Edit image 1 by changing the appearance of the fractured clavicle to resemble the smooth contour shown in image 2, simulating a healed state. Then, apply a heatmap overlay to image 1, similar in style and colorization to image 3, highlighting the bone or surrounding tissue.",
+  "cond_images": [
+    "1.jpeg",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749228914736,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "P",
+  "prompt_refined": "Edit image 1, which displays a fractured left clavicle, by seamlessly modifying the fractured bone fragments to resemble the smooth, continuous contour of the healed clavicle shown in image 2, simulating a complete recovery. Subsequently, apply a semi-transparent heatmap overlay onto the *edited* image 1. This heatmap should cover the left clavicle and surrounding shoulder region, utilizing the gradient colorization and style from image 3 to highlight the bone and its immediate surrounding tissue with varying intensity.",
+  "annotator": "boris",
+  "objects": [
+    "X-ray image of human upper torso",
+    "Healed left clavicle",
+    "Left scapula",
+    "Left humerus (proximal end)",
+    "Ribs (upper torso portion)",
+    "Spinal column (upper torso portion)",
+    "Right clavicle",
+    "Semi-transparent heatmap overlay on the left clavicle and surrounding shoulder region",
+    "Gradient colorization on the heatmap"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "generate a living map tattooed across someone's back and shoulders, where the ink shifts and moves to show real-time weather patterns, with rain clouds flowing down the spine and sunshine spreading across the shoulder blades",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate an image of a dynamic, animated map tattoo covering a person's entire back and shoulders. The tattoo's ink should fluidly shift and move, depicting real-time weather patterns. Specifically, show dark rain clouds visibly flowing down the central spine, while bright sunshine radiates across the shoulder blades.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Person's back and shoulders",
+    "Map tattoo covering entire back and shoulders",
+    "Fluidly shifting tattoo ink",
+    "Dark rain clouds on the tattoo, flowing down the central spine",
+    "Bright sunshine on the tattoo, radiating across the shoulder blades"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

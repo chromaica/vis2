@@ -1,0 +1,27 @@
+{
+  "subtopic": "Traditional art",
+  "prompt": "Edit image 1: Apply the intricate, patterned filling style characteristic of the animals in image 2 to the boat element, replacing its current flat color fill, while retaining the traditional art aesthetic.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748494458815,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1: Replace the current flat, solid red fill of the boat with the intricate, curvilinear patterned filling style characteristic of the animals in image 2, while retaining the traditional art aesthetic.",
+  "annotator": "kellycyy",
+  "objects": [
+    "Boat with intricate, curvilinear patterned fill and peacock head",
+    "Blue-skinned figure in the boat",
+    "Brown-skinned figure holding an oar in the boat",
+    "Brown-skinned figure standing in the boat",
+    "Umbrella",
+    "Oar",
+    "Water with blue wavy lines",
+    "Tree on the left",
+    "Decorative border",
+    "Traditional Indian art aesthetic"
+  ]
+}

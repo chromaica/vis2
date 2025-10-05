@@ -1,0 +1,27 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": "Generate a comic panel of two people pointing at a glowing sky signal, using the pointing pose from the first image, the sky and spotlight from the second image, and the comic line style from the third image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a comic panel depicting two people looking upwards and pointing towards a glowing signal in the night sky. Adopt the specific composition, including the two figures and the prominent pointing arm and hand gesture, from image 1. For the background, incorporate the dark, starry night sky and the broad, conical spotlight beam illuminating the signal, as seen in image 2. Apply the distinct comic book art style characterized by bold black outlines, vibrant flat colors, and halftone dot patterns, referencing image 3.",
+  "annotator": "parnian",
+  "objects": [
+    "comic panel",
+    "two people looking upwards",
+    "prominent pointing arm and hand gesture",
+    "glowing signal in the night sky",
+    "dark, starry night sky",
+    "broad conical spotlight beam",
+    "bold black outlines",
+    "vibrant flat colors",
+    "halftone dot patterns"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

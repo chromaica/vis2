@@ -1,0 +1,27 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": "Generate a sports shop website that sells products shown in the first image and uses the layout and color scheme from the second image.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a screenshot of a sports shop website. The website must replicate the overall layout and the orange, black, and white color scheme of image 2. This includes the top header with the 'sport-shop' logo, search bar, and user icons, as well as the left-hand navigation sidebar. Populate the main content area, specifically the large feature banners and the product grid below them, with visual elements and products from image 1, such as the varied jackets, snow pants, skis, Hoka running shoes, power bank, Patagonia duffle bag, and bicycle. Integrate a prominent sales promotion, similar to the 'UP TO 50% OFF' banner from image 1, styled to match the aesthetic of image 2.",
+  "annotator": "paria",
+  "objects": [
+    "Sport shop website layout",
+    "Orange, black, and white color scheme",
+    "Top header with 'sport-shop' logo, search bar, and user icons",
+    "Left-hand navigation sidebar",
+    "Large feature banners showing sports-related imagery and products",
+    "Product grid displaying sports products",
+    "Prominent sales promotion banner (e.g., 'UP TO 50% OFF')",
+    "Varied jackets (e.g., winter jackets, outdoor wear)",
+    "Hoka running shoes",
+    "Skis"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

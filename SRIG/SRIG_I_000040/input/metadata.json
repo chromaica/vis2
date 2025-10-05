@@ -1,0 +1,25 @@
+{
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Generate a fantasy board game map laid out on an ancient scroll. The paths, traps, and key locations on the board must follow the logic and decision points of the provided user flow diagram for an e-commerce checkout process.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://www.cloudflight.io/app/uploads/2024/10/ttiwikhnh6j8tgzxgjjqlt2f7v_xtl0lusbdfyaaac6dh62o-saf_kkv_lru8mpjyxfkbcej3ot3nj27g4kitwr3sbv-x6qmgonu6rroftk1zotviisjwlcpobup_6hv8vykgdooz3o6m3y-qdvbrqgb-1.png",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate a fantasy board game map, intricately detailed and laid out on an ancient parchment scroll. The map's layout, paths, and key locations must directly correspond to the linear progression and sequential steps of the e-commerce checkout user flow diagram provided in image 1.\n\nThe board game will feature six distinct, fantasy-themed key locations, arranged sequentially from left to right, mirroring the flow of image 1. Each location should visually represent its corresponding e-commerce step, drawing subtle inspiration from the icons and concepts in image 1 (e.g., a bustling 'Product Page' marketplace, a 'Shopping Cart' caravan, a 'Payment Info' treasury, an 'Order Confirmation' grand hall).\n\nClear, winding paths should connect these six locations, following the exact flow indicated by the arrows in image 1. Interspersed along these paths and within the key locations, include fantastical 'traps' and 'decision points' that abstractly represent common e-commerce challenges or choices (e.g., a 'shipping delay' swamp, a 'payment validation' riddle, a 'review item' labyrinth). The overall aesthetic should be that of a rich, engaging fantasy board game from an ancient setting.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "ancient parchment scroll",
+    "fantasy board game map",
+    "winding paths connecting locations sequentially from left to right",
+    "bustling marketplace (representing Product Page) on the left",
+    "shopping cart caravan (representing Shopping Cart Page)",
+    "distinct fantasy-themed location (representing Review Items)",
+    "distinct fantasy-themed location (representing Shipping & Billing Info)",
+    "treasury (representing Payment Info)",
+    "grand hall (representing Order Confirmation) on the right",
+    "fantastical traps and decision points interspersed along paths and within locations"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,24 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Visual instructions and manuals",
+  "prompt": "A vintage 1950s-style illustrated manual showing how to operate a modern electric car, complete with cross-sectional diagrams and retro typography",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A single page from a vintage 1950s-era illustrated operating manual, detailing the features and operation of a modern electric car. The page features detailed technical illustrations rendered in the classic mid-century style of engineering diagrams, including prominent, intricate cross-sectional views of the electric car's internal components such as the battery, electric motor, and drivetrain. All instructional text and headings utilize distinct retro typography characteristic of 1950s technical publications. The layout is clean, organized, and grid-like, with callouts and numbered steps pointing to specific parts of the illustrations. The color palette is muted and limited, using desaturated tones such as olive green, muted blue, mustard yellow, and off-white backgrounds, typical of period print materials. The overall aesthetic should evoke an authentic, aged manual, as if directly scanned from a vintage book.",
+  "annotator": "theblackcat",
+  "objects": [
+    "A single page from an operating manual",
+    "Modern electric car illustration",
+    "Detailed technical illustrations",
+    "Cross-sectional views of internal components",
+    "Illustrated electric car battery",
+    "Illustrated electric motor",
+    "Illustrated drivetrain",
+    "Instructional text with retro 1950s typography",
+    "Callouts and numbered steps",
+    "Muted color palette (including olive green, muted blue, mustard yellow, off-white background)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

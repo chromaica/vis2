@@ -1,0 +1,30 @@
+{
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Create a modern infographic using the ring charts and pie charts from image 1, styled with the vibrant color palette and structured layout elements of image 2, depicting data visualization.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "Information graphics charts diagrams",
+  "searchQueryGeneratedTimestamp": 1752243188222,
+  "promptGeneratedTimestamp": 1752243293861,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "I",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a modern infographic. Integrate various circular data visualization elements, specifically the ring charts and pie charts, as displayed in image 1. Apply the vibrant and saturated color palette characteristic of image 2. Arrange the content within a clear, organized, and multi-sectional layout, mirroring the structured compositional style exemplified by image 2, to effectively depict data visualization.",
+  "objects": [
+    "Modern infographic design",
+    "Ring charts",
+    "Pie charts",
+    "Vibrant and saturated color palette",
+    "Multi-sectional layout",
+    "Numerical percentage values",
+    "Text labels and descriptions",
+    "Informational graphic icons",
+    "Dividing lines or borders for sections",
+    "Content sections/panels"
+  ],
+  "human_annotation": true
+}

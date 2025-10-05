@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": "Change the background gradient to a light green color.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Change the dominant blue background gradient on the left side of the screenshot to a light green color. Preserve its existing gradient direction, subtle patterns, and all elements overlaid on it, such as the white text and orange/blue buttons. The white tablet displaying content on the right side of the image should remain unchanged.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Light green background gradient on the left side",
+    "Subtle patterns on the left background",
+    "\"EMPIRE - FLIPPERS\" logo",
+    "Top navigation bar with text (Home, Marketplace, About Us, Blog, Podcasts, EF Capital, Got An Account?, Schedule A Call)",
+    "Orange \"Sell Your Site\" button in the top right",
+    "Large white text \"The #1 Curated Online Business Marketplace\"",
+    "Smaller white text \"Join thousands of customers around the globe who've bought and sold over $400+ million worth of online businesses.\"",
+    "Orange \"Get Started for Free\" button",
+    "Blue \"Learn More\" button",
+    "White tablet displaying content on the right side (including its frame, search bar, listings, images, and text content)"
+  ]
+}

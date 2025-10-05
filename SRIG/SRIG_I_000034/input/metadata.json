@@ -1,0 +1,26 @@
+{
+  "subtopic": "Icons and symbols",
+  "prompt": "Generate an image for A/B testing the loading UI interface. Left hand side is a pop up window with a circular loading icon, the right hand side is a pop up window with a horizontal loading icon showing the percentage. Make sure the style is same as the image provided.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://img.freepik.com/premium-vector/loading-spinner-icon-ideal-progress-waiting-indicators_1223784-1770.jpg",
+  "promptGeneratedTimestamp": 1749901548787,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate an image for A/B testing a loading UI interface. On the left side, render a pop-up window containing a circular loading icon in the minimalist, grayscale style of image 1. On the right side, render a separate pop-up window displaying a horizontal loading bar that includes a percentage, also maintaining the minimalist, grayscale style derived from image 1.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "left pop-up window",
+    "circular loading icon (inside left pop-up)",
+    "right pop-up window",
+    "horizontal loading bar (inside right pop-up)",
+    "percentage (with horizontal loading bar)",
+    "minimalist style",
+    "grayscale color scheme",
+    "UI interface background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

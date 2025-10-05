@@ -1,0 +1,20 @@
+{
+  "task": "MRIE",
+  "topic": "P",
+  "subtopic": "Wildlife & Nature Photography",
+  "prompt": "Replace the black cat from the first image with the cub from the second image, ensuring the cub is taking the same pose as the cat. Add flowers from the third image around the cub.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the black cat resting in the grass with the lion cub from image 2, ensuring the cub maintains the exact pose, body orientation, and upward gaze of the black cat. Additionally, integrate the small white daisy-like flowers from image 3 naturally into the surrounding grass, positioned around the newly placed lion cub.",
+  "annotator": "boris",
+  "objects": [
+    "lion cub",
+    "grass",
+    "small white daisy-like flowers",
+    "black cat (should not be present)"
+  ]
+}

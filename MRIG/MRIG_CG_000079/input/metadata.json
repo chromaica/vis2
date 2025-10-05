@@ -1,0 +1,28 @@
+{
+  "subtopic": "CAD models",
+  "prompt": "A precise CAD model rendering of a complex mechanical component inspired by the needle and thread in image 1, with surfaces decorated using the white and gold patterns from the eggs in image 2.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748423678796,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a precise CAD model rendering of a complex mechanical component. Its core structural design and slender elongated elements should be visually inspired by the silver needle and the large, cylindrical red thread spool from image 1. The component's surfaces must be intricately decorated with the distinctive white and gold patterns observed on the eggs in image 2, specifically incorporating details such as the geometric stripes, scattered dots, and solid gold sections.",
+  "annotator": "winston",
+  "objects": [
+    "precise CAD model rendering",
+    "complex mechanical component",
+    "slender elongated elements",
+    "cylindrical core structural design",
+    "intricately decorated surfaces",
+    "white patterned surfaces",
+    "gold patterned surfaces",
+    "geometric stripes pattern",
+    "scattered dots pattern",
+    "solid gold sections"
+  ],
+  "human_annotation": true
+}

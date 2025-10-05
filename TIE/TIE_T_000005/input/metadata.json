@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "Replace the helmet reflection with a beanie.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the poster featuring Matt Damon in an astronaut suit: Replace the reflective astronaut helmet on his head with a beanie.",
+  "annotator": "matina",
+  "objects": [
+    "Matt Damon's face",
+    "Beanie on Matt Damon's head",
+    "Astronaut suit",
+    "Orange circular graphic",
+    "Planet surface background",
+    "Text \"MATT DAMON\"",
+    "Text \"THE MARTIAN\"",
+    "Text \"BRING HIM HOME\"",
+    "Text \"OCTOBER 2\"",
+    "Reflective astronaut helmet (should not be present)"
+  ]
+}

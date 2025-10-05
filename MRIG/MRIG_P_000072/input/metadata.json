@@ -1,0 +1,27 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Reimagine a Boeing 787 Dreamliner referenced in the first image as a majestic eagle referenced in the second image. The aircraft\u2019s sleek, composite fuselage is adorned with silver and white feather-like panels, mimicking an eagle\u2019s plumage. The swept-back wings, inspired by the 787\u2019s design, are broad and curved with intricate feather patterns, each mounting a single massive General Electric GEnx turbofan engine under the wing. The cockpit resembles an eagle\u2019s head with sharp, angular lines and amber eyes. The tail is fanned out like tail feathers, with small auxiliary thrusters.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic image depicting a fusion of the Boeing 787 Dreamliner from image 1 and the majestic eagle from image 2. The aircraft's sleek, composite fuselage, mirroring the structure of the 787 (image 1), should be adorned with silver and white feather-like panels, subtly mimicking the distinct white plumage of the eagle (image 2). Its broad, swept-back wings, drawing inspiration from both the 787's elegant design (image 1) and the eagle's expansive wingspan (image 2), should feature intricate feather patterns. Each wing should mount a single, massive General Electric GEnx turbofan engine visibly positioned underneath, consistent with the scale and placement on the Boeing 787 (image 1). The forward section, where the cockpit of the 787 (image 1) is located, should transform into an eagle's head, clearly referencing the features of the eagle in image 2, characterized by sharp, angular lines and piercing amber eyes. Finally, the tail section should be distinctly fanned out, replicating the spread tail feathers of the eagle (image 2), and incorporate small, integrated auxiliary thrusters.",
+  "objects": [
+    "Photorealistic image",
+    "Fusion aircraft (Boeing 787 Dreamliner and eagle)",
+    "Sleek, composite fuselage adorned with silver and white feather-like panels",
+    "Broad, swept-back wings with intricate feather patterns",
+    "General Electric GEnx turbofan engine (one under each wing)",
+    "Eagle's head at the forward section of the aircraft",
+    "Sharp, angular lines on the eagle's head",
+    "Piercing amber eyes on the eagle's head",
+    "Fanned-out tail section (replicating eagle's spread tail feathers)",
+    "Small, integrated auxiliary thrusters on the tail section"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

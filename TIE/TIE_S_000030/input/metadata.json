@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Delete the current slide and the next one from this Google Slides file.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Remove the currently displayed slide, slide 50, and the immediately following slide, slide 51, from the Google Slides presentation shown. The left-hand panel of slide thumbnails should update to reflect these deletions, and the main content area should display the slide that was originally numbered 52, now renumbered as 50.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Google Slides application interface",
+    "Top menu bar with file name and options",
+    "Toolbar with editing tools",
+    "Left-hand panel of slide thumbnails",
+    "Slide 49 thumbnail in the left panel",
+    "Slide 50 thumbnail (previously slide 52) in the left panel, highlighted",
+    "Main content area displaying the slide \"Why study Transactions in CS145?\"",
+    "Slide number \"50\" in the bottom right corner of the main content area",
+    "Slide 50 thumbnail (original) (should not be present)",
+    "Slide 51 thumbnail (original) (should not be present)"
+  ]
+}

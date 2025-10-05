@@ -1,0 +1,17 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Long exposure",
+  "prompt": "A busy railway station, with elongated motion blur of passing trains and commuters.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A photorealistic image of a bustling railway station platform, captured with a long exposure. Elongated motion blur streaks across the frame from fast-moving trains and numerous moving commuters.",
+  "annotator": "cwhsu",
+  "objects": [
+    "railway station platform",
+    "trains",
+    "commuters",
+    "elongated motion blur streaks"
+  ],
+  "human_annotation": true
+}

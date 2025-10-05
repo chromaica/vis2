@@ -1,0 +1,22 @@
+{
+  "subtopic": "Object detection visuals",
+  "prompt": "For object detection visuals, generate an image showing the camera from image 1 and the camera from image 2 placed clearly side-by-side on a surface similar to the foreground element in image 1.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748422918638,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate an image featuring the black vintage SLR camera from image 1 on the left and the blue vintage box camera from image 2 on the right. Both cameras should be positioned clearly side-by-side on a polished wooden surface, replicating the style and texture of the foreground railing in image 1.",
+  "annotator": "winston",
+  "objects": [
+    "black vintage SLR camera (from image 1) on the left",
+    "blue vintage box camera (from image 2) on the right",
+    "cameras positioned side-by-side",
+    "polished wooden surface",
+    "wooden surface with style and texture of the foreground railing from image 1"
+  ]
+}

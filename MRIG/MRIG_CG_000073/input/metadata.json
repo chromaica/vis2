@@ -1,0 +1,27 @@
+{
+  "subtopic": "Depth maps",
+  "prompt": "Create a visual representation of a depth map. Use the geometric structure from image 3 as the scene environment. Place the sheep character from image 2 within this environment. Represent depth using a grayscale map, augmented with the simple graphical style of image 1 elements for labels.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748417793233,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a grayscale depth map image. The scene environment should utilize the complex three-dimensional geometric structure and tessellation pattern from image 3. Place the distinct, simple cartoon-like sheep character from image 2 within this environment, positioned prominently to demonstrate depth variations. Represent depth using a grayscale gradient where closer objects are brighter (lighter gray/white) and further objects are darker (darker gray/black). Integrate textual labels for depth values or regions, rendered in the unique pixelated, blocky font style observed in image 1.",
+  "annotator": "winston",
+  "objects": [
+    "Grayscale depth map image",
+    "Environment with complex three-dimensional geometric structure",
+    "Tessellation pattern within the environment",
+    "Simple cartoon-like sheep character",
+    "Prominent positioning of the sheep character to demonstrate depth",
+    "Textual labels for depth values or regions",
+    "Pixelated, blocky font style for the textual labels"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "Transform the Tetris blocks into glowing gemstones, adding a sparkling aura around each piece for an enchanting effect.",
+  "cond_images": [
+    "1.jpeg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Transform all visible Tetris blocks, including those within the main playing grid, the 'HOLD' area (top-left), and the 'NEXT' area (top-right), into vibrant, glowing gemstones. Ensure each individual gemstone block is encircled by a distinct, sparkling aura, creating an overall enchanting appearance.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Vibrant, glowing gemstone blocks (in main grid, HOLD, and NEXT areas)",
+    "Sparkling auras around individual gemstone blocks",
+    "Main Tetris playing grid structure",
+    "'HOLD' area display (top-left)",
+    "'NEXT' area display (top-right)",
+    "Blue game interface background",
+    "SCORE display with numbers and text",
+    "LEVEL display with numbers and text",
+    "Time display with numbers",
+    "Blue abstract energy effect (left side)"
+  ]
+}

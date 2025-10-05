@@ -1,0 +1,28 @@
+{
+  "subtopic": "Receipts",
+  "prompt": "Edit image 1: Reformat the digital invoice screenshot to match the structured layout and traditional appearance of the paper receipt template shown in image 2, incorporating elements like lines and organized sections.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1750833373615,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit image 1, the digital invoice screenshot, to reformat its content and visual style to precisely match the structured layout and traditional paper appearance of the receipt template in image 2. Incorporate specific elements from image 2 such as its characteristic ruled lines, clearly defined sections, and bordered fields throughout the document. Transfer the total amount '$29,575.23' from image 1, placing it prominently in a large, bordered section similar to the 'GRAND TOTAL' area in image 2. Position the 'Invoice number: 5C994B9F-0001' and 'Payment date: August 10, 2021' from image 1 into clearly labeled, lined sections towards the bottom of the reformatted document, mirroring the structure for 'Information about the invoice' and 'Information about the payment' in image 2. The overall result should transform the modern digital invoice into a printable, traditional paper receipt format, retaining the data from image 1.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Traditional paper receipt format",
+    "Ruled lines",
+    "Clearly defined sections",
+    "Bordered fields",
+    "Amount '$29,575.23' in a large, bordered total section",
+    "Invoice number '5C994B9F-0001' in a lined section",
+    "Payment date 'August 10, 2021' in a lined section",
+    "'Information about the invoice' section label",
+    "'Information about the payment' section label",
+    "Receipt header (e.g., 'General Receipt')"
+  ],
+  "human_annotation": true
+}

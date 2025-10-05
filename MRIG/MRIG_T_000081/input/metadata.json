@@ -1,0 +1,24 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "Use the first image of the Iran map and the second image of the Persian meal to create a tourism poster with the head title 'Taste of Iran'.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a vibrant and appetizing tourism poster for Iran. The central element should be a stylized map of Iran, visually inspired by the graphic style, red color, and outline details from Image 1. Integrate iconic culinary elements from Image 2, such as the kebabs, saffron rice, and fresh lemon slices, artistically placed within or surrounding the map's contours to represent the nation's cuisine. A prominent, bold head title 'Taste of Iran' must be positioned at the top center of the poster.",
+  "annotator": "parnian",
+  "objects": [
+    "Stylized map of Iran (red, graphic style and outline inspired by Image 1)",
+    "Kebabs (artistically placed within or surrounding the map's contours)",
+    "Saffron rice (artistically placed within or surrounding the map's contours)",
+    "Fresh lemon slices (artistically placed within or surrounding the map's contours)",
+    "Roasted tomatoes (artistically placed within or surrounding the map's contours)",
+    "Roasted green peppers (artistically placed within or surrounding the map's contours)",
+    "Fresh herbs (artistically placed within or surrounding the map's contours)",
+    "Sliced raw onions (artistically placed within or surrounding the map's contours)",
+    "Prominent, bold 'Taste of Iran' title (at the top center of the poster)"
+  ]
+}

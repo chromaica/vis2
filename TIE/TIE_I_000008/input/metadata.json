@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "Add tooltips to icons explaining each feature's functionality, using a light-blue background with white text for clarity.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Add descriptive tooltips to all interactive elements and icons present within the mobile UI wireframes. Position each tooltip adjacent to its respective element. The tooltips should feature a light-blue background with white text, and their content should briefly explain the functionality of the element (e.g., 'Select Item', 'Adjust Setting', 'Navigate to Profile', 'Search Bar').",
+  "annotator": "cwhsu",
+  "objects": [
+    "mobile UI wireframes",
+    "interactive elements (checkboxes, toggle switches, buttons, search bars, circular icons)",
+    "tooltips adjacent to interactive elements",
+    "light-blue tooltip background",
+    "white text on tooltips",
+    "tooltip text: 'Select Item'",
+    "tooltip text: 'Adjust Setting'",
+    "tooltip text: 'Navigate to Profile'",
+    "tooltip text: 'Search Bar'",
+    "orange background"
+  ]
+}

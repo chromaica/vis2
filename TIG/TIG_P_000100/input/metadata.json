@@ -1,0 +1,17 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "A highly detailed image of a butterfly antenna, focusing on its tiny scales and sensory bristles against a soft ambient glow.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Photorealistic macro shot of a butterfly antenna. Extremely detailed individual scales and delicate sensory bristles are in sharp focus. The background is a soft ambient glow with a shallow depth of field.",
+  "annotator": "cwhsu",
+  "objects": [
+    "butterfly antenna",
+    "individual scales",
+    "sensory bristles",
+    "soft ambient glow background",
+    "shallow depth of field effect"
+  ]
+}

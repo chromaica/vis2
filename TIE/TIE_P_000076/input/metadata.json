@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "change the pine forest into a tropical forest",
+  "cond_images": [
+    "1.jpeg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 by transforming the entire scene from a pine forest into a lush, tropical forest. Replace the existing tall, needle-leaf conifer trees with broadleaf tropical trees featuring dense, vibrant green foliage. Update the forest floor from pine needles and sparse moss to rich, abundant tropical undergrowth, while preserving the general layout of the path and the natural lighting conditions.",
+  "annotator": "theblackcat",
+  "objects": [
+    "broadleaf tropical trees",
+    "dense, vibrant green foliage",
+    "rich, abundant tropical undergrowth",
+    "forest path",
+    "natural lighting conditions",
+    "tree trunks",
+    "tall, needle-leaf conifer trees (should not be present)",
+    "pine needles (should not be present)",
+    "sparse moss (should not be present)"
+  ],
+  "human_annotation": true
+}

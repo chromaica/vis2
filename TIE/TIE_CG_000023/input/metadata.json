@@ -1,0 +1,26 @@
+{
+  "subtopic": "Facial estimation and analysis",
+  "prompt": "Change the displayed facial analysis score for the man on the left from 'Anger' to show a high score for 'Happiness'.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751816247935,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1. On the facial analysis score overlay displayed for the man on the left, change the current high score for 'Anger' to a low score, and update 'Happiness' to show a high score with a prominent green bar.",
+  "annotator": "edisy",
+  "objects": [
+    "Man on the left",
+    "Woman on the right",
+    "Facial analysis score overlay for the man on the left",
+    "Facial analysis score overlay for the woman on the right",
+    "'Anger' score (low) on the man's overlay",
+    "'Happiness' score (high, prominent green bar) on the man's overlay",
+    "Disgust score on the man's overlay",
+    "Sadness score on the man's overlay",
+    "Facial tracking lines around faces",
+    "White background"
+  ]
+}

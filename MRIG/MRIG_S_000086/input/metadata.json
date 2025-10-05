@@ -1,0 +1,28 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Generate a screenshot of Instagram where the users with profile photos from the first to fourth images have active stories, and the most recent post on the feed is from the fifth image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg",
+    "4.jpg",
+    "5.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate an Instagram screenshot. At the top of the screen, include the Instagram story bar with active story rings. These story rings should feature profile pictures based on: image 1 (Selena Gomez), image 2 (Will Smith), image 3 (Katy Perry), and image 4 (Jennifer Aniston), arranged horizontally from left to right. Below the story bar, the main feed should prominently display a single, recent post that precisely replicates the visual content, layout, and associated information (username 'pepsi', image of chilaquiles and Pepsi can, likes, and caption) found in image 5.",
+  "annotator": "paria",
+  "objects": [
+    "Instagram screenshot format",
+    "Instagram story bar at the top",
+    "Active story ring with Selena Gomez's profile picture (left-most in story bar)",
+    "Active story ring with Will Smith's profile picture (second from left in story bar)",
+    "Active story ring with Katy Perry's profile picture (third from left in story bar)",
+    "Active story ring with Jennifer Aniston's profile picture (right-most in story bar)",
+    "Main feed Instagram post",
+    "'pepsi' username (on the post)",
+    "Image of chilaquiles and Pepsi can (on the post)",
+    "Likes and caption (on the post)"
+  ]
+}

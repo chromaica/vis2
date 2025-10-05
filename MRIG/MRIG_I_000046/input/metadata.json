@@ -1,0 +1,28 @@
+{
+  "subtopic": "Maps",
+  "prompt": "Generate a map infographic featuring a colored regional map using the visualization style from image 1, integrated into the clean layout and title format of image 2. Include a related data chart inspired by the bar/pie charts in image 1, rendered with the minimalist aesthetic of image 2.",
+  "cond_images": [
+    "1.png",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "Infographic Map Design",
+  "searchQueryGeneratedTimestamp": 1752289531553,
+  "promptGeneratedTimestamp": 1752289620580,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "I",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a map infographic. On the right side of the canvas, feature a prominent regional map. Style this map with the vibrant color scheme, distinct regional separation, and detailed municipality labeling observed in image 1. Position a main title centrally at the top, replicating the prominent, all-caps, bold typography and accompanying descriptive subtitle format from image 2. On the left side of the canvas, include a data chart (either a vertical bar chart or a pie chart) inspired by the examples in image 1. Render this chart with the minimalist aesthetic, clean lines, and professional, subdued color palette seen in image 2. Ensure the overall layout maintains the clean, spacious design and ample whitespace characteristic of image 2.",
+  "objects": [
+    "Prominent regional map on the right side of the canvas",
+    "Distinct regional separations within the map",
+    "Detailed municipality labels on the map",
+    "Main title centrally at the top",
+    "Descriptive subtitle accompanying the main title",
+    "Data chart on the left side of the canvas (either a vertical bar chart or a pie chart)",
+    "Data chart elements (e.g., bars, pie segments, axes, labels)",
+    "Overall clean and spacious layout with ample whitespace"
+  ],
+  "human_annotation": true
+}

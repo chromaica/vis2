@@ -1,0 +1,24 @@
+{
+  "subtopic": "Maps",
+  "prompt": "Generate a detailed 3D model of a historical medieval castle, using the provided 2D blueprint as the architectural layout. The castle should be situated on a cliff overlooking the sea.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://www.exploring-castles.com/image-files/medieval_castle_layout.jpg",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate a highly detailed 3D model of a historical medieval castle, precisely following the architectural layout and structures depicted in the 2D blueprint of image 1. The castle should feature the distinct inner and outer courtyards, the great hall, chambers, bakehouse, kitchens, and both the inner and outer gatehouses, all fortified with multiple towers, barbicans, and its characteristic moats as illustrated in image 1. Position this entire sprawling castle complex atop a formidable cliff, with a vast, open sea stretching out below.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "historical medieval castle complex",
+    "distinct inner courtyards",
+    "distinct outer courtyard",
+    "Great Hall",
+    "inner gatehouse",
+    "outer gatehouse",
+    "multiple towers",
+    "barbicans",
+    "characteristic moats",
+    "formidable cliff (with castle positioned atop, and vast, open sea stretching out below)"
+  ]
+}

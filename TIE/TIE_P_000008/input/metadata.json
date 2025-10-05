@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "convert the wet road in this image to a dry road",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "road must not have reflections",
+  "prompt_refined": "Edit image 1 by transforming the entire wet road surface, including the crosswalk, into a completely dry road. Ensure all visible signs of wetness, such as reflections and puddles, are removed while maintaining a photorealistic appearance.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Dry road surface",
+    "Dry crosswalk",
+    "Reflections on the road (should not be present)",
+    "Puddles (should not be present)",
+    "Buildings",
+    "Trees",
+    "People on the street",
+    "Vehicles on the road",
+    "Traffic lights",
+    "Sky with clouds"
+  ]
+}

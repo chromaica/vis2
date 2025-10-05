@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "generate video conferencing interface with multiple participant windows",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a screenshot of a video conferencing interface. It should feature multiple participant video windows arranged in a grid or gallery view, with each window displaying a different person. Standard interface controls, such as mute, video, and chat buttons, should be present at the bottom of the screen.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Video conferencing interface",
+    "Multiple participant video windows",
+    "Video windows arranged in a grid or gallery view",
+    "Different people shown in each video window",
+    "Mute button at the bottom of the screen",
+    "Video button at the bottom of the screen",
+    "Chat button at the bottom of the screen"
+  ],
+  "human_annotation": true
+}

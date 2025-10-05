@@ -1,0 +1,21 @@
+{
+  "subtopic": "Depth maps",
+  "prompt": "Based on image 1, generate a new depth map. Modify this depth map: Incorporate the radial depth graduation concept from image 2 into the background, and introduce a foreground region with uniform depth values, referencing the flat nature of image 3.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748455842157,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Generate an edited depth map for the scene depicted in image 1, preserving its original composition. This depth map must adhere to the following modifications:\n\n1.  **Foreground Depth:** The main foreground subject (the mouse) should exhibit a consistent and uniform depth value across its entire form, appearing as a single flat plane, conceptually similar to the flat, two-dimensional nature of the marlin in image 3.\n2.  **Background Depth:** The background elements, specifically the grassy field and blurred flowers behind the mouse, should display a radial depth graduation. This means their depth values should progressively change (either increasing or decreasing) as they extend outwards from the central foreground subject, directly referencing the radial depth arrangement observed around the Earth in image 2.",
+  "annotator": "winston",
+  "objects": [
+    "mouse",
+    "grassy field",
+    "flowers"
+  ]
+}

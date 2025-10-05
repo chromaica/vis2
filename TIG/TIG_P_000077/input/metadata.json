@@ -1,0 +1,18 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Medical images",
+  "prompt": "A thermal imaging scan of a human hand demonstrating different heat zones, displaying in a color spectrum from purple to red.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Photorealistic thermal imaging scan of a human hand, clearly showing varying heat zones. The thermal signature should be depicted using a color spectrum that transitions smoothly from deep purple to bright red.",
+  "annotator": "cwhsu",
+  "objects": [
+    "human hand",
+    "thermal imaging scan effect",
+    "varying heat zones on the hand",
+    "color spectrum transitioning from deep purple to bright red",
+    "deep purple (as part of the color spectrum)",
+    "bright red (as part of the color spectrum)"
+  ]
+}

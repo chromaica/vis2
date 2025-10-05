@@ -1,0 +1,28 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "Create a collage inspired by image 1, illustrating a forest scene composed of trees from both image 1 and image 2.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a new image in a torn paper collage style, mirroring the aesthetic and layered composition of image 1. The scene should depict a forest landscape, featuring multiple trees. Populate this landscape with tall, slender palm-like trees, drawing inspiration from the trees present in image 1 (e.g., the two trees on the left). Additionally, integrate vibrant pink flowering trees, similar in appearance and bloom to the cherry blossom tree observed in image 2. Arrange these diverse tree types to form a cohesive, yet visually varied, forest-like environment across the middle ground and foreground of the scene.",
+  "annotator": "samin",
+  "objects": [
+    "torn paper collage style",
+    "forest landscape",
+    "multiple trees",
+    "tall, slender palm-like trees",
+    "vibrant pink flowering trees",
+    "layered composition",
+    "middle ground",
+    "foreground",
+    "sky",
+    "ground/terrain"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

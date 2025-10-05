@@ -1,0 +1,24 @@
+{
+  "subtopic": "CAD models",
+  "prompt": "Generate a shaded CAD model rendering showing the intricate geometric assembly of the kite from image 1, applying the aged bronze texture and solid material representation seen in the statue from image 2.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748423120037,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a shaded CAD model rendering of the multi-faceted kite from image 1, showcasing its intricate geometric assembly. The kite should appear as a solid object, rendered with the aged bronze texture and material characteristics, including its weathered patina, observed in the statue from image 2.",
+  "annotator": "winston",
+  "objects": [
+    "multi-faceted kite",
+    "CAD model rendering style",
+    "shaded appearance",
+    "intricate geometric assembly",
+    "solid object appearance",
+    "aged bronze texture",
+    "weathered patina"
+  ]
+}

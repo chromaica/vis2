@@ -1,0 +1,29 @@
+{
+  "subtopic": "Games",
+  "prompt": "Create an image of Mario walking in the city centre instead, in the 8-bit game screenshot style like the reference.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://hips.hearstapps.com/digitalspyuk.cdnds.net/12/48/gaming-super-mario-bros-3.jpg?resize=980:*",
+  "searchQueryGenerated": "High quality game screenshots visual reference",
+  "searchQueryGeneratedTimestamp": 1749423737843,
+  "promptGeneratedTimestamp": 1749423876586,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a single 8-bit pixel art image in the distinctive style of image 1. The image should depict Mario, consistent with his appearance and walking pose in image 1, positioned in the foreground of a city centre environment. The background should feature pixelated urban structures such as buildings and streets, replacing the natural landscape from image 1, while maintaining the side-scrolling perspective and limited color palette. The overall composition should resemble an 8-bit game screenshot, including UI elements similar to those seen at the top of image 1.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Mario (in foreground, walking pose)",
+    "City centre background",
+    "Pixelated urban buildings",
+    "Pixelated streets",
+    "MARIO score UI element (at top)",
+    "Coin icon and count UI element (at top)",
+    "WORLD level UI element (at top)",
+    "TIME timer UI element (at top)",
+    "Green hills (should not be present)",
+    "Green pipe (should not be present)"
+  ],
+  "human_annotation": true
+}

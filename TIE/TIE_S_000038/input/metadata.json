@@ -1,0 +1,26 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "Transform the scene to a snowy day atmosphere.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Transform the football field into a snow-covered landscape. Add visible light snowfall throughout the scene. Adjust the overall lighting to be cool and bright, characteristic of an overcast snowy day.",
+  "annotator": "cwhsu",
+  "objects": [
+    "snow-covered football field surface",
+    "football players",
+    "football (soccer ball)",
+    "football goalpost and net",
+    "visible light snowfall",
+    "game score display",
+    "team and player avatars",
+    "on-screen game controls (joystick, SHOOT, PASS, SPRINT buttons)",
+    "sideline advertising board",
+    "overall cool and bright lighting"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

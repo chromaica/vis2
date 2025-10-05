@@ -1,0 +1,19 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Design a minimalist logo for a sustainable safari clothing brand using the giraffe silhouette from the first image and the pattern of the second image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a minimalist logo for a sustainable safari clothing brand. The central element of the logo should be the distinct, clean silhouette of the giraffe depicted in image 1. The internal area of this giraffe silhouette should be completely filled with the abstract, multi-tonal camouflage pattern from image 2, clearly showcasing its organic shapes and earthy color palette. The resulting graphic should be simple, crisp, and suitable as a standalone brand mark.",
+  "annotator": "parnian",
+  "objects": [
+    "Giraffe silhouette",
+    "Camouflage pattern (filling the silhouette)",
+    "Organic shapes (within the camouflage pattern)",
+    "Earthy color palette"
+  ]
+}

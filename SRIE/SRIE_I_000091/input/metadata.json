@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "Present the UI mockup elements into three separate slides like the first image.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 2 (the presentation template) by incorporating the three distinct mobile UI screens from image 1. Place the 'Explore' screen (leftmost UI in image 1) into the 'First' section of image 2. Integrate the 'Product' detail screen (middle UI in image 1) into the 'Next' section of image 2. Finally, embed the 'Cart' summary screen (rightmost UI in image 1) into the 'Then' section of image 2. Ensure each UI screen is scaled and positioned clearly within its respective content block of image 2, effectively transforming these sections into distinct informational slides. The 'Last' section of image 2 should remain as an empty content placeholder.",
+  "annotator": "Johnny",
+  "objects": [
+    "Black header bar with \"First, Next, Then, Last\" and \"Recall information according to sequence, like in a story or a recipe.\" text",
+    "Blue background panel",
+    "Illustration of a woman",
+    "Book",
+    "Content block for the 'First' section containing the 'Explore' mobile UI screen",
+    "Content block for the 'Next' section containing the 'Product' detail mobile UI screen",
+    "Content block for the 'Then' section containing the 'Cart' summary mobile UI screen",
+    "Content block for the 'Last' section, including its text \"What is the final step or conclusion?\" and internal placeholder squares",
+    "Arrows connecting content blocks",
+    "Purple floating squares"
+  ]
+}

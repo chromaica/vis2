@@ -1,0 +1,23 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "A collage of vintage postage stamps overlapping, featuring various countries' cultural icons, on a faded, rustic background that blends different time periods.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a detailed image depicting a layered collage of numerous aged, vintage postage stamps. The stamps are presented overlapping each other, each featuring distinct cultural icons and prominent landmarks from diverse countries. This intricate collage rests upon a deeply faded and rustic background, which displays a complex, multi-layered texture subtly incorporating visual elements and patinas that evoke different historical time periods.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Layered collage",
+    "Aged, vintage postage stamps",
+    "Overlapping postage stamps",
+    "Distinct cultural icons on stamps",
+    "Prominent landmarks on stamps",
+    "Deeply faded background",
+    "Rustic background",
+    "Complex, multi-layered texture in background",
+    "Visual elements in background evoking historical time periods",
+    "Patinas in background evoking historical time periods"
+  ],
+  "human_annotation": true
+}

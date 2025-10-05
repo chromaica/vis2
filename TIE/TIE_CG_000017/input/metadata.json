@@ -1,0 +1,24 @@
+{
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "Change the bright purple swimsuit of the woman jumping on the left to a vibrant green color.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751818398609,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1: Change the bright purple swimsuit worn by the woman jumping on the left to a vibrant green color.",
+  "annotator": "edisy",
+  "objects": [
+    "Woman jumping on the left",
+    "Vibrant green swimsuit (worn by the woman jumping on the left)",
+    "Woman on the right",
+    "Volleyball net",
+    "Volleyball net pole",
+    "Volleyball",
+    "Sky",
+    "Beach ground"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "subtopic": "Game assets",
+  "prompt": "Replace the plain green background with a detailed, textured rocky terrain suitable for a fantasy game level environment showcasing the assets.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751762810837,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1: Replace the entire flat green background with a detailed, textured rocky terrain. This new environment should be rendered in an isometric perspective, matching the style of the existing fantasy game assets in image 1. The terrain should naturally flow around and underneath the foreground elements, creating a realistic and varied fantasy game level environment that enhances the assets without obscuring them.",
+  "annotator": "edisy",
+  "objects": [
+    "Detailed, textured rocky terrain",
+    "Flat green background (should not be present)",
+    "Isometric buildings and structures",
+    "Isometric trees",
+    "Isometric rocks and stone elements",
+    "Isometric plants, bushes, and mushrooms",
+    "Isometric wooden crates, barrels, and planks",
+    "Isometric pots, jars, and vials",
+    "Isometric fences and barriers",
+    "Isometric skull"
+  ]
+}

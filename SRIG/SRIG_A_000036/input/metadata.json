@@ -1,0 +1,23 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "Paint a underwater city with marine life.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate an image that integrates diverse marine life into the underwater city depicted in image 1. Populate the scene with schools of colorful fish swimming around the central ruined temple and ancient columns, vibrant coral formations growing on the submerged structures, and various types of seaweed swaying gently from the seafloor. Maintain the illustrative, deep blue and cyan color palette and the prominent light rays filtering down from the water surface, consistent with the style of image 1.",
+  "annotator": "Johnny",
+  "objects": [
+    "Underwater city",
+    "Ruined temple",
+    "Ancient columns",
+    "Light rays filtering down from water surface",
+    "Schools of colorful fish",
+    "Vibrant coral formations on submerged structures",
+    "Various types of seaweed swaying gently from seafloor",
+    "Seafloor"
+  ],
+  "human_annotation": true
+}

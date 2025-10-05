@@ -1,0 +1,28 @@
+{
+  "subtopic": "Shader Programming",
+  "prompt": "Apply a shader to change the main material of the robot's body from rusty red metal to a vibrant metallic blue, preserving the grunge and sticker details.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751812104618,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1. Change the rusty red metallic material of the robot's main barrel-shaped body and its three leg components to a vibrant metallic blue. Ensure that all existing grunge, rust, scratches, and sticker details (such as the skull, 'KISS ME', yellow smiley face, and 'CLEAN THIS' text) are fully preserved and seamlessly integrated into the new blue material.",
+  "annotator": "edisy",
+  "objects": [
+    "Robot's main barrel-shaped body in vibrant metallic blue",
+    "Robot's three leg components in vibrant metallic blue",
+    "Existing grunge, rust, and scratches on the robot's blue body and legs",
+    "Skull sticker on the robot's blue body",
+    "'KISS ME' sticker on the robot's blue body",
+    "Yellow smiley face graffiti on the robot's blue body",
+    "'CLEAN THIS' text graffiti on one of the robot's blue leg components",
+    "Robot's eye",
+    "Robot's non-blue metallic components (e.g., joints, antenna, claw arm)",
+    "Dark, industrial environment"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

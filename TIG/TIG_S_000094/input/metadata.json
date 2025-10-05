@@ -1,0 +1,23 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "A hand-woven fabric receipt from \"Alpaca Dreams Boutique\" in Cusco, Peru, showing traditional textiles and wool products in nuevos soles, with Quechua translations and an actual alpaca fiber sample attached",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A hand-woven fabric receipt from \"Alpaca Dreams Boutique\" in Cusco, Peru. The receipt details traditional textiles and wool products, with prices clearly marked in Peruvian Nuevos Soles (PEN). Product descriptions feature bilingual text, including Quechua translations. A small, fluffy sample of actual alpaca fiber is physically attached to one of the receipt's corners.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Hand-woven fabric receipt",
+    "Text \"Alpaca Dreams Boutique\" on receipt",
+    "Text \"Cusco, Peru\" on receipt",
+    "Details of traditional textiles on receipt",
+    "Details of wool products on receipt",
+    "Prices in Peruvian Nuevos Soles (PEN) on receipt",
+    "Bilingual product descriptions on receipt (including Quechua)",
+    "Small, fluffy alpaca fiber sample",
+    "Alpaca fiber sample attached to one of the receipt's corners"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

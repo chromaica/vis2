@@ -1,0 +1,28 @@
+{
+  "subtopic": "3D renders",
+  "prompt": "Generate a top-down 3D render of a modern office space. Adopt the angular architectural style, glossy surfaces, and clean lines from the reference image, focusing on minimalist design elements and clear spatial layout.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://cdn12.picryl.com/photo/2016/12/31/graphic-rendering-3d-model-architecture-buildings-487eaa-1024.jpg",
+  "promptGeneratedTimestamp": 1748769648130,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a top-down 3D render of a modern office space. Adopt the distinct angular architectural style, glossy surfaces, and crisp, clean lines exemplified in image 1. Ensure the generated office space features minimalist design elements and a clear, well-defined spatial layout, consistent with the aesthetic demonstrated in image 1.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Office desks",
+    "Office chairs",
+    "Computer monitors",
+    "Angular architectural walls/partitions",
+    "Glossy tiled flooring",
+    "Conference table",
+    "Minimalist potted plant",
+    "Sleek overhead lighting fixtures",
+    "Integrated storage units",
+    "Large windows or skylights"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

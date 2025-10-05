@@ -1,0 +1,23 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Turn the venn diagram to a cartoon style.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 (the Venn diagram) to transform it into a vibrant, sharp-edged cartoon style, drawing inspiration from the aesthetic of image 2.",
+  "annotator": "Johnny",
+  "objects": [
+    "Red circle",
+    "Green circle",
+    "Blue circle",
+    "Yellow intersection of red and green circles",
+    "Magenta intersection of red and blue circles",
+    "Cyan intersection of green and blue circles",
+    "White central intersection of all three circles",
+    "Background"
+  ]
+}

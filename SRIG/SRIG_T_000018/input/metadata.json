@@ -1,0 +1,24 @@
+{
+  "task": "SRIG",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "generate a meme using the same character design as the reference image, featuring a character labeled 'SWE' reaching toward something labeled 'Vibe coding', with a 'corporate firewall' character but in the style of wes anderson movie shooting style : meticulous symmetry, vibrant color palettes, and a distinctive vintage aesthetic",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a two-panel meme using the character designs from image 1.\n\n**Top Panel:** The white character from image 1, labeled 'SWE', is positioned on the left side of the panel, eagerly reaching with outstretched arms towards a large yellow sphere on the right, which is labeled 'Vibe coding'.\n\n**Bottom Panel:** The white character from image 1, now displaying a distressed or sweaty expression, is on the right, still reaching towards the 'Vibe coding' sphere. From the left, the pink character from image 1, labeled 'corporate firewall', is firmly holding the 'SWE' character back by its torso.\n\nThe overall image should be rendered in the distinctive style of a Wes Anderson movie, characterized by meticulous symmetry, vibrant color palettes, and a vintage aesthetic.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Two-panel meme layout",
+    "White character (from image 1), positioned on left in top panel, eagerly reaching with outstretched arms",
+    "Large yellow sphere, positioned on right in top panel, labeled 'Vibe coding'",
+    "Label 'SWE' on the white character in the top panel",
+    "White character (from image 1), displaying distressed/sweaty expression, positioned on right in bottom panel, reaching",
+    "Yellow sphere, positioned on right in bottom panel (implied by reaching towards)",
+    "Pink character (from image 1), positioned on left in bottom panel",
+    "Label 'corporate firewall' on the pink character",
+    "Pink character firmly holding the white character back by its torso in the bottom panel",
+    "Overall image rendered in Wes Anderson style (meticulous symmetry, vibrant color palettes, vintage aesthetic)"
+  ]
+}

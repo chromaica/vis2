@@ -1,0 +1,22 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Fauvism",
+  "prompt": "Make the lady wearing a turkey on her head. The turkey should be at the same size and position as the original hat. Keep the art style and color scheme consistent with the original painting.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the large, elaborate hat worn by the woman in image 1 with a turkey. The turkey should precisely occupy the same space and be the same size as the original hat, positioned on top of her head. Ensure the edited image maintains the original Fauvist art style and vibrant color scheme of the painting.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Woman",
+    "Turkey (positioned on top of her head)",
+    "Large, elaborate hat (should not be present)",
+    "Fauvist art style",
+    "Vibrant color scheme",
+    "Abstract background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

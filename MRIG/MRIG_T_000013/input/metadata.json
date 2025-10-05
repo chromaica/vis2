@@ -1,0 +1,24 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "Generate the phrase \u201cTODAY IS YOURS\u201d using the 3D angle of the first image and the rainbow text coloring of the second image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate the phrase 'TODAY IS YOURS'. The text should adopt the bold, 3D extruded block lettering style and perspective from image 1. Apply a distinct, vibrant color to each letter, inspired by the multi-colored design of image 2.",
+  "annotator": "parnian",
+  "objects": [
+    "The phrase \"TODAY IS YOURS\"",
+    "Bold lettering style",
+    "3D extruded block letters",
+    "Perspective similar to Image 1 (angled, appearing to come forward)",
+    "Each letter displaying a distinct vibrant color",
+    "Multi-colored design (across letters)",
+    "Extruded (depth) parts of the letters",
+    "A contrasting color for the letter extrusion (e.g., light blue/cyan)",
+    "A background behind the text"
+  ]
+}

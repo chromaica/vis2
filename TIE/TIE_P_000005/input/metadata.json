@@ -1,0 +1,20 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Medical images",
+  "prompt": "add a plate fixation on the humerus",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "so basically a plate on the sholder bone, no nail or anywhere in the center except to fix the plate",
+  "prompt_refined": "Edit image 1, an X-ray of a fractured human humerus. Add a radiopaque metallic plate fixation, secured with screws, positioned along the lateral aspect of the proximal humerus, spanning and stabilizing the visible fracture.",
+  "annotator": "theblackcat",
+  "objects": [
+    "X-ray image of human anatomy",
+    "Fractured human humerus",
+    "Shoulder joint",
+    "Radiopaque metallic plate fixation along the lateral aspect of the proximal humerus",
+    "Screws securing the metallic plate"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,22 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": "Add a colorful gradient background to the search results area for a modern look.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Apply a vibrant, colorful gradient background to the entire search results display area. This area spans from directly below the 'WEB' / 'IMAGES' / 'VIDEOS' / 'MORE' tabs down to the bottom edge of the visible content, just above the black Android navigation bar, to achieve a modern aesthetic.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Status bar",
+    "Browser address bar",
+    "Google logo",
+    "Search input field",
+    "Navigation tabs (WEB, IMAGES, VIDEOS, MORE)",
+    "Search result items",
+    "Vibrant, colorful gradient background",
+    "Android navigation bar"
+  ]
+}

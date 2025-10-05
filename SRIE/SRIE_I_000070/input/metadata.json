@@ -1,0 +1,27 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Remove the red section in the pie chart.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the colorful pie chart, to remove the red section located in the top-right. The edited image should match the overall continuous pie chart structure shown in image 2.",
+  "annotator": "Johnny",
+  "objects": [
+    "Pie chart",
+    "Green section of pie chart",
+    "Dark blue section of pie chart",
+    "Light blue section of pie chart",
+    "Yellow section of pie chart",
+    "Red section (should not be present)",
+    "Grey background",
+    "White borders around pie chart sections",
+    "Pie chart with continuous sections",
+    "Shadow effect under pie chart"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

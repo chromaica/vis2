@@ -1,0 +1,27 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "Compose a collage by combining the facial outline in image 1 with text cutouts from image 2 to depict fragmented identity.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a collage artwork depicting fragmented identity. The central subject should be the profile facial outline from image 1, entirely composed of a dense, layered mosaic of text cutouts and word fragments. These text elements must emulate the chaotic, overlapping style, varied sizes, and visual texture of the clippings in image 2. Ensure the individual text pieces are clearly visible as they form the features of the face, visually conveying a disjointed sense of self.",
+  "annotator": "samin",
+  "objects": [
+    "Collage artwork style",
+    "Human face profile outline (derived from image 1)",
+    "Text cutouts",
+    "Word fragments",
+    "Dense mosaic composition",
+    "Layered arrangement of text elements",
+    "Chaotic and overlapping style of text elements",
+    "Varied sizes of text elements",
+    "Visual texture resembling paper clippings",
+    "Clearly visible individual text pieces"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

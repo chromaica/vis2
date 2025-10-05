@@ -1,0 +1,25 @@
+{
+  "subtopic": "Software interfaces",
+  "prompt": "Take this modern travel app's city guide screenshot and recreate it in the style of a Japanese Ukiyo-e woodblock print, with traditional color palettes, subjects, and textures.",
+  "cond_images": [
+    "1.jpeg"
+  ],
+  "remarks": "https://us1.discourse-cdn.com/bubble/original/3X/0/7/0770671a664b6be97382af554410eded9d21f808.jpeg",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate an image by recreating the content and layout of image 1, a modern digital map application's street view screenshot, in the distinct aesthetic of a Japanese Ukiyo-e woodblock print. The entire scene, encompassing the suburban street with its road, houses, prominent palm tree on the right, large bushy tree on the left, and sky, along with all user interface elements (e.g., top navigation bar with 'Map' and 'Streetview' tabs, the '37 Ficksburg St' location overlay in the top-left, and white navigation arrows on the road), should be transformed. Employ a traditional Ukiyo-e color palette featuring bold, flat colors such as indigo, vermilion, and earthy tones. Render all subjects, from the architecture and vegetation to the digital UI elements, with the characteristic simplified forms, strong, calligraphic outlines, and decorative patterns of Ukiyo-e. The final image should evoke the textures and layered appearance typical of traditional woodblock prints, maintaining the original screenshot's composition and details.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Suburban street",
+    "Road",
+    "Houses",
+    "Prominent palm tree on the right",
+    "Large bushy tree on the left",
+    "Sky",
+    "Top navigation bar (including 'Map' and 'Streetview' tabs, and other tabs/icons)",
+    "'37 Ficksburg St' location overlay in the top-left",
+    "White navigation arrows on the road",
+    "Zoom and compass UI elements in the bottom right"
+  ],
+  "human_annotation": true
+}

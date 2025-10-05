@@ -1,0 +1,25 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "A collage style of a mountain village with a river.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate an image, inspired by image 1, depicting a detailed, hand-drawn map-like aerial view of a mountain village. The village, characterized by numerous small, brown-roofed houses, sprawls across the mid-ground, nestled amidst rugged mountains in the background. A prominent winding river, widening into a lake, flows through the foreground and lower portion of the village, with some floating structures visible on the water in the lower-left. The artwork should maintain the clean lines, muted earthy color palette, and framed illustrative style of image 1.",
+  "annotator": "Johnny",
+  "objects": [
+    "Detailed, hand-drawn map-like aerial view",
+    "Mountain village in the mid-ground",
+    "Numerous small, brown-roofed houses",
+    "Rugged mountains in the background",
+    "Prominent winding river in the foreground and lower portion of the village",
+    "Lake widening from the river in the foreground and lower portion of the village",
+    "Floating structures on the water in the lower-left",
+    "Clean lines (visual style)",
+    "Muted earthy color palette",
+    "Framed illustrative style"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,27 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "Insert the emoji from the first image into the center of the second image.",
+  "cond_images": [
+    "1.png",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 2 by inserting the crying emoji from image 1 into the exact center of the image.",
+  "annotator": "Johnny",
+  "objects": [
+    "crying emoji in the exact center",
+    "rain",
+    "trees",
+    "bushes",
+    "grass",
+    "puddles",
+    "fence/railing",
+    "body of water",
+    "overcast sky",
+    "lightning strikes"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

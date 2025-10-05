@@ -1,0 +1,21 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Make a meme where the crying face from the first image is on the left with 'When you finally explain your whole trauma' and the girl with exact expression from the second image is on the right with text 'and they say damn that is crazy\u2019.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a two-panel meme image. On the left side, feature the crying Wojak-style character from image 1. Position the text 'When you finally explain your whole trauma' clearly within this left panel. On the right side, display the girl from image 2, accurately replicating her skeptical and slightly confused expression. Position the text 'and they say damn that is crazy\u2019' clearly within this right panel.",
+  "annotator": "parnian",
+  "objects": [
+    "two-panel meme image",
+    "crying Wojak-style character on the left side",
+    "text \"When you finally explain your whole trauma\" in the left panel",
+    "girl from image 2 on the right side",
+    "skeptical and slightly confused expression of the girl",
+    "text \"and they say damn that is crazy\u2019\" in the right panel"
+  ]
+}

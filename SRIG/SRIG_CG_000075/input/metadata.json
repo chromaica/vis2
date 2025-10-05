@@ -1,0 +1,28 @@
+{
+  "subtopic": "Facial estimation and analysis",
+  "prompt": "Generate a high-detail computer graphics render of a face, guided by the reference's close-up composition and lighting. Emphasize skin texture and key features for facial estimation and analysis techniques.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://source.roboflow.com/BieKwCuM3HReYWDck5Fdgl5nxif1/0ZfrbdIXmZoadcZvvene/original.jpg",
+  "promptGeneratedTimestamp": 1748769064639,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a high-detail computer graphics render of a human face. Replicate the close-up, front-facing composition from image 1, which frames the head and upper shoulders, and adopt its direct, even lighting including natural highlights. Emphasize extremely realistic skin texture, showing visible pores, fine lines, and subtle irregularities. Accurately render key facial features such as the eyes, nose, mouth, ears, and any existing facial hair or stubble, ensuring the output is suitable for advanced facial estimation and analysis techniques.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Human face",
+    "Human head",
+    "Upper shoulders",
+    "Eyes",
+    "Nose",
+    "Mouth",
+    "Ears",
+    "Facial hair/stubble",
+    "Hair (on top of head)",
+    "Realistic skin texture (showing pores, fine lines, and subtle irregularities)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

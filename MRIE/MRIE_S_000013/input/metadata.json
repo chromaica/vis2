@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "In image 1, add the blue verification badge from image 2 next to \u201cAngeli Yuson\u201d in both messages. Then, place the Duolingo owl from image 3 inside the message input box in the bottom left corner, without covering the emoji or attachment icons. Leave everything else the same.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Add the blue verification badge from image 2 next to \"Angeli Yuson\" in both message headers. Place the Duolingo owl from image 3 inside the message input box located in the bottom left corner, ensuring it does not cover the emoji or attachment icons. Keep all other elements of image 1 unchanged.",
+  "annotator": "parnian",
+  "objects": [
+    "Slack user interface",
+    "Left sidebar with channel list (e.g., #marketing highlighted)",
+    "Main chat area with messages",
+    "Angeli Yuson's profile image and name (two occurrences)",
+    "Text messages (\"Hey team\", \"Can you please review the tasks...\", etc.)",
+    "Workast App message block",
+    "Message input box at the bottom",
+    "Blue verification badge (next to Angeli Yuson's name in both message headers)",
+    "Duolingo owl (inside the message input box)",
+    "Emoji and attachment icons (visible inside the message input box)"
+  ]
+}

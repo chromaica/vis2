@@ -1,0 +1,25 @@
+{
+  "subtopic": "Cultural or Heritage art",
+  "prompt": "Edit image 1: Apply the distinct vibrant geometric pattern from the fabric in image 2 onto the surface of the mask, integrating the red, white, blue, and black design with the carved texture.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "High quality cultural heritage artworks",
+  "searchQueryGeneratedTimestamp": 1748651713140,
+  "promptGeneratedTimestamp": 1748651906751,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1 (the carved mask): Apply the distinct vibrant geometric pattern from the fabric in image 2. This pattern, featuring red, white, blue, and black colors, should be integrated onto the visible surface of the mask, adhering to its carved texture and contours.",
+  "annotator": "kellycyy",
+  "objects": [
+    "carved mask",
+    "vibrant geometric pattern",
+    "red color",
+    "white color",
+    "blue color",
+    "black color"
+  ]
+}

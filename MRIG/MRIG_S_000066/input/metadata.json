@@ -1,0 +1,27 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": "Generate a homepage for a modern furniture e-commerce website. Use the hero layout from the first image and the navigation bar from the second.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a homepage for a modern furniture e-commerce website.\nThe design should combine elements from both reference images to create a clean, minimalist aesthetic.\n\n**From image 1, adopt the hero section's layout:**\n- Place a prominent, dark text headline (e.g., 'Shop a dream') on the left half of the page, accompanied by a concise descriptive text and a black call-to-action button (e.g., 'View the collection') below it.\n- Include a minimalist logo (e.g., 'CRAFT') in the top-left corner of this hero area.\n- On the right half, feature a tall, partially visible lifestyle image, similar to the one in image 1, with subtle navigation arrows (e.g., for a carousel).\n\n**From image 2, integrate the complete navigation structure:**\n- At the very top, include a slender bar displaying social media icons and language options (e.g., 'PT EN FR') aligned to the far right.\n- Directly below this, create a main navigation bar with a distinctive brand logo (e.g., 'quartosala HOME CULTURE') on the left and primary menu links (e.g., 'ABOUT', 'SHOPS', 'CATALOGUE', 'SERVICES') aligned to the right.\n- Underneath the main navigation, incorporate a wide search bar (e.g., 'Find Products...') positioned on the left, next to a 'Visual Search' button, and additional utility icons (e.g., star, globe, hamburger menu) on the right.",
+  "annotator": "paria",
+  "objects": [
+    "Slender top bar with social media icons and language options on the far right",
+    "Main navigation bar with brand logo (e.g., 'quartosala HOME CULTURE') on the left",
+    "Primary menu links (e.g., 'ABOUT', 'SHOPS', 'CATALOGUE', 'SERVICES') aligned to the right in the main navigation bar",
+    "Wide search bar (e.g., 'Find Products...') positioned on the left",
+    "'Visual Search' button next to the search bar",
+    "Additional utility icons (e.g., star, globe, hamburger menu) on the right",
+    "Minimalist logo (e.g., 'CRAFT') in the top-left corner of the hero area",
+    "Prominent dark text headline (e.g., 'Shop a dream') on the left half of the page",
+    "Black call-to-action button (e.g., 'View the collection') below the hero text",
+    "Tall, partially visible lifestyle image on the right half of the hero section"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

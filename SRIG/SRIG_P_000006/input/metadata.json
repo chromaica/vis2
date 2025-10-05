@@ -1,0 +1,21 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Create a jungle using the tree in the image",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic image of a dense tropical jungle, featuring the tree from image 1 as a central, prominent element. The jungle should be lush with a rich variety of foliage, vines, and other trees, seamlessly integrating the distinctive shape and canopy of the tree from image 1 within the surrounding dense vegetation.",
+  "annotator": "samin",
+  "objects": [
+    "dense tropical jungle",
+    "tree from image 1 as a central, prominent element",
+    "lush foliage",
+    "vines",
+    "other trees"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

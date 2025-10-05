@@ -1,0 +1,19 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "Create a collage style of a little girl",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a collage-style artwork of a little girl, whose head and textured hair conform to the silhouette depicted in image 1.",
+  "annotator": "Johnny",
+  "objects": [
+    "collage-style artwork",
+    "little girl",
+    "head of a little girl (matching the silhouette from image 1)",
+    "textured hair of a little girl (matching the silhouette from image 1)"
+  ],
+  "human_annotation": true
+}

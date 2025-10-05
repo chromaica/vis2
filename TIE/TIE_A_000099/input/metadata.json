@@ -1,0 +1,25 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Pixel art",
+  "prompt": "Add apples to the second tree on the top left. Do not make them obviously visible, they should blend in with the tree's foliage. Add orange to the third tree on the top right. The orange can be slightly visible and appear to be shining under the sunlight.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit `image 1`. Add apples to the foliage of the second tree from the left in the top row, ensuring they are subtly integrated and blend naturally with the existing leaves without being overtly conspicuous. Additionally, add oranges to the foliage of the third tree from the left in the top row. These oranges should be somewhat visible and exhibit a subtle shining or glowing effect, as if illuminated by sunlight.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "deciduous tree (top row, first from left)",
+    "deciduous tree with subtly integrated apples (top row, second from left)",
+    "pine tree with somewhat visible, subtly glowing oranges (top row, third from left)",
+    "deciduous tree (top row, fourth from left)",
+    "bare tree (top row, fifth from left)",
+    "small deciduous tree (bottom row, left)",
+    "medium deciduous tree (bottom row, second from left)",
+    "grass patches",
+    "tree log"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

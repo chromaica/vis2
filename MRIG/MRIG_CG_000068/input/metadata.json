@@ -1,0 +1,27 @@
+{
+  "subtopic": "Depth maps",
+  "prompt": "Generate a grayscale depth map visualization of a scene with multiple elements at varying distances. Use the strong foreground focus concept from image 1, applied to a multi-subject arrangement inspired by image 2, clearly showing near and far areas.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748423451373,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a grayscale depth map visualization depicting multiple distinct human subjects. The composition should exhibit a strong foreground depth effect, similar to the clear subject-background separation and shallow depth of field observed in image 1, but applied to an arrangement of several people, drawing inspiration from the multi-subject layout of image 2. Ensure subjects are positioned at clearly differentiated depths, ranging from immediate foreground to distant background, to distinctly illustrate near and far areas within the scene.",
+  "annotator": "winston",
+  "objects": [
+    "Grayscale depth map",
+    "Multiple distinct human subjects",
+    "Human subject in the immediate foreground",
+    "Human subject at a mid-depth",
+    "Human subject in the distant background",
+    "Visual representation of near depth areas",
+    "Visual representation of far depth areas",
+    "Clear depth separation between subjects and background",
+    "Varying grayscale values representing depth differences",
+    "Background elements with varying depths"
+  ]
+}

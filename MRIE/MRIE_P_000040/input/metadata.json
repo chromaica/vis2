@@ -1,0 +1,29 @@
+{
+  "subtopic": "Scenic Nature Parks",
+  "prompt": "Edit image 1: Fill the garden area with the purple flowers shown in image 3. Add the dog from image 2 running through the garden, capturing the dynamic pose and energy seen in image 4. Place lemons from image 5 on the trees in the background.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg",
+    "4.jpeg",
+    "5.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748571699212,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "P",
+  "prompt_refined": "Edit image 1:\n1.  Fill the grassy garden area to the right of the house in image 1 with the purple flowers from image 3.\n2.  Add the dog from image 2, capturing the dynamic running pose and energy from image 4, into the middle ground of the newly flowered garden.\n3.  Place the yellow lemons from image 5 onto the foliage of the large green trees in the far background of image 1.",
+  "annotator": "boris",
+  "objects": [
+    "house",
+    "purple flowers in the garden area to the right of the house",
+    "dog from image 2, in a dynamic running pose, in the middle ground of the flowered garden",
+    "yellow lemons on the foliage of the large green trees in the far background",
+    "large green trees in the far background",
+    "sky",
+    "stone wall in the foreground"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

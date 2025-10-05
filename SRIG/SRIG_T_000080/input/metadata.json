@@ -1,0 +1,24 @@
+{
+  "subtopic": "Posters",
+  "prompt": "Create a minimalist typographic poster about urban walking. Arrange bold text to form a dynamic pattern of footsteps or a walking figure, mimicking the textual graphic style and simple background of the reference image.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://i.pinimg.com/736x/fd/6f/52/fd6f52984f86da806c54cb79c05bac35.jpg",
+  "promptGeneratedTimestamp": 1750500542025,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "T",
+  "prompt_refined": "Generate a minimalist typographic poster focused on urban walking. The poster should feature a solid, uniform orange background, consistent with image 1. Compose a central, dynamic graphic representing footsteps or a walking figure entirely from black, bold sans-serif text, similar to how the bicycle shape is formed by text in image 1. Vary the text size and orientation (horizontal and vertical) to create the figure's form and details, mimicking the high-contrast, structured typographic style of image 1.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Solid orange background",
+    "Central graphic representing footsteps or a walking figure",
+    "Black, bold sans-serif text",
+    "Text with varied sizes",
+    "Text with varied horizontal orientation",
+    "Text with varied vertical orientation",
+    "High-contrast typographic style",
+    "Structured typographic style"
+  ]
+}

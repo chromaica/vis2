@@ -1,0 +1,23 @@
+{
+  "subtopic": "Software interfaces",
+  "prompt": "Generate a version of this weather app UI that displays the forecast using ancient Egyptian hieroglyphs and symbols on a stone tablet background.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "https://preview.redd.it/not-just-the-temps-are-different-on-my-apple-weather-app-vs-v0-w4nt8s4n3red1.jpg?width=640&crop=smart&auto=webp&s=9cebc30fe1e480ae6296c84b2788401f9e021bfc",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a version of the weather application UI from image 1, reimagined as an ancient Egyptian stone tablet. The entire screen background should be replaced with a textured stone surface, featuring an ancient aesthetic. All numerical values (e.g., temperatures like '82\u00b0', 'H:84\u00b0 L:69\u00b0', times like '5PM', '7:51PM') and textual information (e.g., 'San Diego', 'Sunny', 'Sunset', '10-DAY FORECAST', 'Today', 'Fri', 'Sat', 'Sun', and the descriptive text 'Sunny conditions will continue for the rest of the day. Wind gusts are up to 12 mph.') must be visually represented by ancient Egyptian hieroglyphs and symbols. Replace the weather icons (e.g., sun icons, sunset icon) with appropriate ancient Egyptian symbolic equivalents. The distinct UI sections, such as the current conditions summary, hourly forecast, and 10-day forecast panels, should appear as carved or inscribed areas within the stone tablet, meticulously maintaining their original layout, relative positions, and proportions as seen in image 1. Ensure all other UI elements, including the top status bar (showing time, network, battery icons) and the bottom navigation bar (map icon, dots, list icon), are also visually integrated into this ancient Egyptian stone tablet aesthetic, with their content adapted to a hieroglyphic or symbolic style.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Ancient Egyptian stone tablet background",
+    "UI sections (current conditions summary, hourly forecast, 10-day forecast panels) carved into stone",
+    "Hieroglyphic numerical values",
+    "Hieroglyphic textual information",
+    "Ancient Egyptian symbolic weather icons",
+    "Hieroglyphic top status bar elements",
+    "Ancient Egyptian symbolic bottom navigation bar elements"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

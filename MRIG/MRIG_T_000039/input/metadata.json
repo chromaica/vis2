@@ -1,0 +1,23 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Generate a branding for a children\u2019s snack using the bright, fun type in Image 1 and the packaging template from Image 2 with the color palate in Image 3.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a new image displaying a branded children's snack packaging. Utilize the blank packaging template from Image 2. For the branding elements, adopt a bright, fun, and bold font style similar to the 'Pringles' text in Image 1. Apply the complete color palette from Image 3 to all graphic and textual components of the branding design.",
+  "annotator": "parnian",
+  "objects": [
+    "Children's snack packaging (template from Image 2)",
+    "Branded text on the packaging",
+    "Bright, fun, and bold font style for the branded text (similar to Image 1's Pringles text)",
+    "Graphic components of the branding design on the packaging",
+    "Complete color palette from Image 3 used for all branding elements (text and graphics)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,23 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "A classic internet meme setup: 'My brain cells' in bold white Impact font with a thick black outline, positioned prominently at the top. The image below is a photograph of a single, small candle flame flickering precariously, almost out, against a dark, blurry background, humorously symbolizing a dwindling resource.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate an image depicting a classic internet meme. At the top of the image, display the text \"My brain cells\" in bold white Impact font with a thick black outline. Below this text, occupy the rest of the image with a photograph of a single, small candle flame, flickering precariously and almost out, against a dark, blurry background.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Text \"My brain cells\" at the top of the image",
+    "White text color",
+    "Bold Impact font",
+    "Thick black text outline",
+    "Single candle flame below the text",
+    "Small candle flame",
+    "Flickering candle flame",
+    "Dark background",
+    "Blurry background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

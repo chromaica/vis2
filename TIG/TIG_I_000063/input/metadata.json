@@ -1,0 +1,23 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "generate a network graph of Twitter influence during the 2024 election: nodes sized by follower count, edges weighted by retweet frequency, with political leaning shown through red-blue node gradients and cluster algorithms highlighting echo chambers",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a detailed information graphic of a network graph depicting Twitter influence during the 2024 United States election. Nodes representing Twitter accounts are sized proportionally to their follower count. Edges connecting nodes are weighted by thickness to represent retweet frequency, with thicker lines indicating higher frequency. Each node displays a red-to-blue gradient color, clearly showing political leaning from conservative (red) to liberal (blue). The graph prominently features spatially distinct clusters of nodes, visually highlighting echo chambers as if identified by a clustering algorithm.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Network graph",
+    "Nodes (representing Twitter accounts)",
+    "Edges (connecting nodes)",
+    "Nodes sized proportionally to follower count",
+    "Edges weighted by thickness representing retweet frequency",
+    "Nodes with a red-to-blue gradient color",
+    "Red color (on nodes, indicating conservative political leaning)",
+    "Blue color (on nodes, indicating liberal political leaning)",
+    "Spatially distinct clusters of nodes",
+    "Detailed information graphic style"
+  ],
+  "human_annotation": true
+}

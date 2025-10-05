@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "oil paintings",
+  "prompt": "A tranquil forest scene with towering oak trees bathed in the warm glow of sunrise, painted with thick, expressive brushstrokes in oil.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate an oil painting. Depict a tranquil forest scene with towering oak trees, bathed in the warm glow of sunrise. The artwork should exhibit thick, expressive brushstrokes.",
+  "annotator": "cwhsu",
+  "objects": [
+    "oil painting",
+    "forest scene",
+    "towering oak trees",
+    "sunrise",
+    "warm glow",
+    "thick brushstrokes",
+    "expressive brushstrokes"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

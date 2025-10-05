@@ -1,0 +1,24 @@
+{
+  "subtopic": "Icons and symbols",
+  "prompt": "Generate a set of battery icon with different available percentage (0%, 25%, 50%, 75% and 100%). You should follow the given icon styles in the image.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "https://c8.alamy.com/comp/2FN5MC3/mobile-phone-system-icons-wifi-signal-strength-vector-2FN5MC3.jpg",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate a set of five battery icons, designed to represent charge levels of 0%, 25%, 50%, 75%, and 100% respectively. Each icon should strictly adhere to the minimalistic, monochromatic, and flat graphic style exemplified by the signal strength and Wi-Fi icons in image 1. Ensure the battery fill visually progresses in segments, similar to the increasing number of filled bars or arcs in image 1, with a clean, rounded appearance. Present the set of icons arranged horizontally, ordered from 0% (empty) to 100% (full).",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Set of five battery icons arranged horizontally",
+    "Battery icon for 0% charge (empty)",
+    "Battery icon for 25% charge (partially filled with one segment)",
+    "Battery icon for 50% charge (partially filled with two segments)",
+    "Battery icon for 75% charge (partially filled with three segments)",
+    "Battery icon for 100% charge (fully filled)",
+    "Monochromatic color scheme (black, grey, white)",
+    "Flat graphic style",
+    "Rounded edges/elements",
+    "Visual progression of charge in segments"
+  ]
+}

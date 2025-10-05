@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Create an image of a majestic white unicorn with a golden horn and flowing silver mane, styled in the photorealistic art style of the first reference image (including similar lighting and texture). Place the unicorn naturally within the background of the second reference image, ensuring consistent lighting, realistic shadows, and proper scale to blend seamlessly with the scene.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic image featuring a majestic white unicorn with a golden horn and a flowing silver mane. The unicorn's rendering, including its detailed fur texture, dynamic motion, and overall lighting, should emulate the style and quality of the horse in image 1. Place the unicorn on the wet sand in the foreground of image 2, positioned centrally and running along the shoreline, similar to the horse's pose in image 1. Ensure the unicorn is naturally integrated into the beach scene, accurately lit by the warm, golden light of the sunset from image 2, casting realistic shadows consistent with the sun's position, and maintaining a proper, natural scale within the environment.",
+  "objects": [
+    "Majestic white unicorn",
+    "Golden horn",
+    "Flowing silver mane",
+    "Wet sand in the foreground",
+    "Shoreline",
+    "Ocean waves",
+    "Sunset with warm, golden light",
+    "Clouds illuminated by the sunset",
+    "Realistic shadows cast by the unicorn",
+    "Unicorn in dynamic motion"
+  ]
+}

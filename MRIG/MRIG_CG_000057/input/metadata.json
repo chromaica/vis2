@@ -1,0 +1,24 @@
+{
+  "subtopic": "Object detection visuals",
+  "prompt": "Generate an image for object detection visuals: show the hard hat from image 1, overlaid with visual analysis indicators like bounding boxes and confidence scores, drawing inspiration from the detailed numbers and layout of the document in image 2.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748423143617,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate an image featuring the yellow hard hat from image 1. Overlay the hard hat with a precise object detection bounding box. Display a confidence score (e.g., 'Hard Hat: 0.98' or '98%') associated with this detection. The numerical format and structured appearance of this score, including its precision and any accompanying label, should visually emulate the detailed, tabular data layout seen in the document from image 2, similar to a spreadsheet cell.",
+  "annotator": "winston",
+  "objects": [
+    "yellow hard hat",
+    "\"UNDER CONSTRUCTION\" text on the hard hat",
+    "object detection bounding box",
+    "confidence score text (e.g., 'Hard Hat: 0.98' or '98%')",
+    "spreadsheet cell visual style for the confidence score"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

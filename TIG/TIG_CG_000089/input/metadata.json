@@ -1,0 +1,15 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "Game assets",
+  "prompt": "A cartoonish wooden signpost, with two planks pointing in opposite directions. The sign is placed on a grassy hilltop with a simple, stylized environment.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a cartoonish wooden signpost, its two planks pointing in opposing directions, situated prominently on a grassy hilltop within a simple, stylized landscape.",
+  "annotator": "maxku",
+  "objects": [
+    "cartoonish wooden signpost with two planks pointing in opposing directions",
+    "grassy hilltop",
+    "simple, stylized landscape"
+  ]
+}

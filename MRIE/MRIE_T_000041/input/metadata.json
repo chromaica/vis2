@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "T",
+  "subtopic": "Poster",
+  "prompt": "Change the font of the pink section in the first image to the font of the title in the second image. Finally, replace all the dollar values in the first image with the font and style from the third image, use the font color of the cash part.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. First, modify the font of the large pink text 'NEXT GEN SEASON OPENER 2024' to match the font style of the 'GTA Online' title text displayed within the dark gray box in image 2. Second, replace the font and style of the dollar values '$20' and '$10' (found next to 'Car Registration:' and 'Spectators:' in image 1) with the distinct numerical font and style shown for the dollar values in image 3. Ensure these updated dollar values in image 1 use the specific light green font color from the 'cash' text in image 3.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "pink background with palm trees and gradient",
+    "\"CASH ONLY\" text in yellow box",
+    "large pink 'NJ' logo",
+    "\"NEXT GEN SEASON OPENER 2024\" text (with font style of 'GTA Online' title text)",
+    "white sports car",
+    "\"Sunday May 19th, 2024\" text",
+    "\"Tatawaw Park, Moose Jaw (Drive down 7th Ave SW)\" text with pin icon",
+    "\"Car Registration: $20\" text (with light green, distinct numerical font for '$20')",
+    "\"Spectators: $10 (Kids & Pets: Free)\" text (with light green, distinct numerical font for '$10')",
+    "\"*NEW* mobile dyno\" text and associated event details"
+  ]
+}

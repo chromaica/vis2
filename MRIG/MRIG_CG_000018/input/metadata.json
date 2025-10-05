@@ -1,0 +1,28 @@
+{
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "Generate an image for instance segmentation: depict the watch from image 1 and the glasses from image 2 positioned together on a surface resembling image 2's wood. Overlay instance segmentation masks on both, rendered with the sharp detail and lighting style of image 1.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748421886801,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate an image depicting the metallic chronographic wristwatch from image 1 and the wooden-framed eyeglasses from image 2. Arrange these two objects side-by-side on a dark brown wooden surface, similar in color and texture to the surface shown in image 2. The entire scene should be rendered with the crisp detail, high contrast, and focused, reflective lighting style observed in image 1. Additionally, overlay visible, semi-transparent instance segmentation masks on both the wristwatch and the eyeglasses.",
+  "annotator": "winston",
+  "objects": [
+    "metallic chronographic wristwatch (from image 1)",
+    "wooden-framed eyeglasses (from image 2)",
+    "dark brown wooden surface",
+    "wristwatch and eyeglasses arranged side-by-side",
+    "crisp detail",
+    "high contrast",
+    "focused, reflective lighting",
+    "semi-transparent instance segmentation mask on the wristwatch",
+    "semi-transparent instance segmentation mask on the eyeglasses"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

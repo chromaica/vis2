@@ -1,0 +1,22 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": "Add vibrant, colorful patterns to the clothing and enhance the electronics with a futuristic, sleek design.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. In the 'Apparel & Garments' section (top row): Add vibrant, colorful patterns to the man's plaid shirt in the left image, the woman's saree in the middle image, and the woman's dark flowing dress in the right image. In the 'Electronics & Electricals' section (bottom row): Enhance the ceiling fan in the left image, the kitchen appliances (refrigerator, oven, washing machine) in the middle image, and the smartphones in the right image with a futuristic, sleek design.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Man's plaid shirt with vibrant, colorful patterns",
+    "Woman's saree with vibrant, colorful patterns",
+    "Woman's dark flowing dress with vibrant, colorful patterns",
+    "Ceiling fan with futuristic, sleek design",
+    "Refrigerator with futuristic, sleek design",
+    "Oven with futuristic, sleek design",
+    "Washing machine with futuristic, sleek design",
+    "Smartphones with futuristic, sleek design"
+  ]
+}

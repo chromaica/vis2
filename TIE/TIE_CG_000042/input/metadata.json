@@ -1,0 +1,25 @@
+{
+  "subtopic": "3D renders",
+  "prompt": "Change the material of the white vase to a highly polished gold, ensuring a strong, clear reflection of the scene elements like the flower and spheres.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751814391897,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1. Change the material of the central white vase to a highly polished gold. Ensure the new gold surface strongly and clearly reflects the red flower contained within the vase and the various lime green spheres scattered on the ground around it.",
+  "annotator": "edisy",
+  "objects": [
+    "highly polished gold vase",
+    "red flower",
+    "green stem",
+    "yellow flower center",
+    "lime green spheres on the ground",
+    "reflections of the red flower on the gold vase",
+    "reflections of the lime green spheres on the gold vase",
+    "light yellow-green background",
+    "shadows from objects"
+  ]
+}

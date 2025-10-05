@@ -1,0 +1,21 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Medical images",
+  "prompt": "Generate a CT scan of the brain using the reference mask as the anatomical shape.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic CT scan of the brain, precisely following the anatomical shape defined by image 1.",
+  "annotator": "samin",
+  "objects": [
+    "Brain",
+    "Photorealistic CT scan appearance",
+    "Anatomical shape of the brain matching image 1",
+    "Internal brain structures",
+    "Skull",
+    "Medical imaging background"
+  ],
+  "human_annotation": true
+}

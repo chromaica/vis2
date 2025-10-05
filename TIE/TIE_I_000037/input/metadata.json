@@ -1,0 +1,26 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Apply a vintage map theme with aged parchment texture and old-world font for a historical travel data look.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, a bar and line chart displaying travel data. Apply a comprehensive vintage map theme to the entire graphic. Specifically, change the background of the chart to an aged parchment texture. Update all textual elements, including the chart title (\"Travel Over Time\"), the left Y-axis label (\"Distance Travelled (miles)\"), the right Y-axis label (\"Time Taken (Hours)\"), all numerical scale labels, year labels (e.g., 1995, 2000), and the legend text (\"Time Taken\", \"Distance\"), to an old-world style font. Furthermore, recolor and re-texture the chart's data elements (the vertical bars and the line with diamonds) to complement this historical aesthetic, utilizing muted tones such as sepia, faded browns, or subdued blues, to achieve a historical travel data appearance.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Aged parchment textured chart background",
+    "Chart title \"Travel Over Time\" (old-world style font)",
+    "Left Y-axis label \"Distance Travelled (miles)\" (old-world style font)",
+    "Right Y-axis label \"Time Taken (Hours)\" (old-world style font)",
+    "Numerical scale labels (old-world style font)",
+    "Year labels (old-world style font)",
+    "Vertical bars (recolored/re-textured in muted, historical tones)",
+    "Line with diamonds (recolored/re-textured in muted, historical tones)",
+    "Legend text (\"Time Taken\", \"Distance\") (old-world style font)",
+    "Chart axes and grid lines (vintage map theme)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

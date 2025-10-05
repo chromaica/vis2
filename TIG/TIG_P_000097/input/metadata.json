@@ -1,0 +1,23 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "A finely detailed image of snow crystals, each flake unique in design, against a soft, gradient gray background, highlighting their sharp, icy geometry.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic, highly detailed macro photograph of several unique snow crystals. Each crystal exhibits sharp, intricate, icy geometric patterns. The snow crystals are sharply in focus against a soft, smooth, gradient gray background.",
+  "annotator": "cwhsu",
+  "objects": [
+    "several unique snow crystals",
+    "sharp detail on snow crystals",
+    "intricate patterns on snow crystals",
+    "icy appearance of snow crystals",
+    "geometric patterns on snow crystals",
+    "soft background",
+    "smooth background",
+    "gradient background",
+    "gray background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

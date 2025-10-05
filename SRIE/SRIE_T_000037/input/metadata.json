@@ -1,0 +1,27 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": "Snap all architectural lines to this grid for perfect perspective.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Adjust the architectural lines of the room, including the walls, floor, ceiling, bed, and dresser, to precisely align with the three-point perspective and grid of image 2. Ensure all structural elements in image 1 conform to the perfect perspective established by image 2's grid, using it as the reference for vanishing points and orthogonality.",
+  "annotator": "matina",
+  "objects": [
+    "walls of the room",
+    "floor of the room",
+    "ceiling of the room",
+    "bed",
+    "dresser",
+    "fox character",
+    "nightstand",
+    "blanket",
+    "alarm clock",
+    "speech bubble"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

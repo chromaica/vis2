@@ -1,0 +1,28 @@
+{
+  "task": "MRIG",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "Generate a UI mockup of an assignment submission portal. Use Image 1 for the upload area, Image 2 for deadline displays, and Image 3 for assignment status labels.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "annotator": "matina",
+  "prompt_refined": "Generate a UI mockup for an online assignment submission portal. Include a prominent file upload section, centrally located, styled like the drag-and-drop interface shown in Image 1, complete with its 'select your file or drag and drop' text and 'browse' button. On the right-hand side, integrate a calendar view similar to Image 2 to display assignment deadlines and schedules, featuring visually distinct entries for assignments reflecting the colored labels seen in Image 2. For assignment status indicators, leverage the visual style of the 'SUBMITTED' button from Image 3 to represent various states (e.g., 'Submitted', 'Due', 'Graded') alongside each assignment entry.",
+  "objects": [
+    "UI mockup for an online assignment submission portal",
+    "Central file upload section",
+    "\"select your file or drag and drop\" text",
+    "\"browse\" button",
+    "Drag-and-drop cloud icon and dashed border",
+    "Right-hand side calendar view",
+    "Assignment deadlines and schedules",
+    "Visually distinct assignment entries with colored labels",
+    "Assignment status indicators (e.g., 'Submitted', 'Due', 'Graded')",
+    "Button-like status indicator style with checkmark"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

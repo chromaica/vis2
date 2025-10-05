@@ -1,0 +1,18 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Visual instructions and manuals",
+  "prompt": "A safety instruction poster for using a jetpack, designed in the bold graphic style of 1940s WPA work safety campaigns",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A safety instruction poster for using a jetpack. The poster should be designed in the bold graphic style of 1940s WPA work safety campaigns, featuring strong, simplified lines, flat colors, and a limited color palette. Include a stylized illustration of a person engaged in jetpack use or safety procedures, accompanied by clear, concise instructional text.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Safety instruction poster",
+    "Stylized illustration of a person",
+    "Jetpack (worn by person)",
+    "Clear, concise instructional text",
+    "Simplified background elements",
+    "Graphic representation of jetpack safety procedures"
+  ]
+}

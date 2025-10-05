@@ -1,0 +1,26 @@
+{
+  "subtopic": "Collage",
+  "prompt": "Edit image 1: Replace the eyes of the owl in image 1 with eyes in image 2, resembling the dried leaves and natural materials used to create the owl collage in image 2, maintaining the original owl's shape.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748669499906,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1, depicting a colorful paper collage owl. Replace the large, circular eyes of the owl in image 1 with new eyes. These new eyes should emulate the style and material composition of the owl in image 2, appearing as if crafted from dried leaves and natural, earthy materials, consistent with the overall texture and warm, natural color palette of the artwork in image 2. Maintain the original shape and body structure of the owl in image 1, applying the material transformation exclusively to its eyes.",
+  "annotator": "kellycyy",
+  "objects": [
+    "owl's body (paper collage, as in image 1)",
+    "owl's wings (paper collage, as in image 1)",
+    "owl's head/ears (paper collage, as in image 1)",
+    "owl's beak (paper collage, as in image 1)",
+    "owl's feet (paper collage, as in image 1)",
+    "owl's eyes (crafted from dried leaves and natural, earthy materials, consistent with image 2)",
+    "green tree foliage background",
+    "brown tree branch",
+    "original large, circular paper collage eyes (should not be present)"
+  ]
+}

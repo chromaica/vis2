@@ -1,0 +1,25 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "Show what would the current game interface be if the player clicks the chat bubble icon on the bottom left.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 to display the game interface as it would appear immediately after the player clicks the chat bubble icon. This icon is located in the bottom-left corner of the screen in image 1, next to the player 'Josh (20)'. The edit should integrate a visible chat window or chat interface overlay onto the existing game screen, showing an active conversation area suitable for a mobile game, with space for text input and displayed messages.",
+  "annotator": "cwhsu",
+  "objects": [
+    "game table background",
+    "scoreboard at top",
+    "player avatar and status for 'You & June'",
+    "player avatar and status for 'Simone'",
+    "player avatar and status for 'Storm'",
+    "player avatar and status for 'Josh (20)'",
+    "player's hand of cards",
+    "chat window overlay",
+    "active chat conversation area",
+    "chat text input field"
+  ],
+  "human_annotation": true
+}

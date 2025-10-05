@@ -1,0 +1,25 @@
+{
+  "subtopic": "Microscopic imagery",
+  "prompt": "Edit image 1: Render the bacteria with the stark, high-contrast silhouette style seen in image 2, and apply the vibrant greenish-blue color scheme and detailed texture from image 3 to the resulting microscopic scene.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749307010618,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "P",
+  "prompt_refined": "Edit image 1: Transform the bacteria into the stark, high-contrast, white-on-black silhouette style of image 2. Then, apply the vibrant greenish-blue color scheme and the intricate, porous texture from image 3 to these silhouetted bacteria and the surrounding microscopic scene.",
+  "annotator": "boris",
+  "objects": [
+    "Bacteria",
+    "Microscopic background",
+    "Vibrant greenish-blue color scheme",
+    "Intricate porous texture",
+    "Stark, high-contrast appearance"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

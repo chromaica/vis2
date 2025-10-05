@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "Replace the clothes of the woman in the first image with those from the woman in the second image, and change her hairstyle to match the one from the woman in the third image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the artwork of the woman in image 1. Replace her light blue patterned midi dress and brown fuzzy footwear with the red strapless crop top, grey shorts, and black thigh-high socks worn by the woman in image 2. Additionally, change her current voluminous afro hairstyle to the sleek, pulled-back low bun hairstyle seen on the woman in image 3.",
+  "annotator": "paria",
+  "objects": [
+    "Woman",
+    "Red strapless crop top",
+    "Grey shorts",
+    "Black thigh-high socks",
+    "Sleek, pulled-back low bun hairstyle",
+    "Light blue patterned midi dress (should not be present)",
+    "Brown fuzzy footwear (should not be present)",
+    "Voluminous afro hairstyle (should not be present)",
+    "Necklace",
+    "Bracelet"
+  ]
+}

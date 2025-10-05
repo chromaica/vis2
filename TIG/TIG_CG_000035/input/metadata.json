@@ -1,0 +1,19 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "A ground-truth mask for a mountain landscape, segmenting areas into mountain peaks, snow, trees, water bodies, and sky.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A ground-truth segmentation mask for a mountain landscape. The image should feature distinct, solid-colored regions representing: mountain peaks, snow, trees, water bodies, and sky. The sky should occupy the upper portion, water bodies the lower foreground, and mountains, snow, and trees the midground, accurately segmenting the landscape elements.",
+  "annotator": "maxku",
+  "objects": [
+    "ground-truth segmentation mask representation",
+    "distinct, solid-colored regions",
+    "mountain peaks (in the midground)",
+    "snow (in the midground)",
+    "trees (in the midground)",
+    "water bodies (in the lower foreground)",
+    "sky (in the upper portion)"
+  ]
+}

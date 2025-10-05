@@ -1,0 +1,25 @@
+{
+  "subtopic": "Stylized art",
+  "prompt": "Merge the image 2 into image 1 to make it as the woman in image 1 holding the wine (like image 2)",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748713524579,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1. Integrate the wine object from image 2 into image 1, so the woman in image 1 is depicted holding this wine. The style of the wine and the way it is held should match that seen in image 2.",
+  "annotator": "kellycyy",
+  "objects": [
+    "Woman",
+    "Wine object",
+    "Woman's hands holding the wine",
+    "Original background/setting of image 1",
+    "Visual style of the wine object, matching reference image 2",
+    "Pose/grip of the woman's hands on the wine, matching reference image 2"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

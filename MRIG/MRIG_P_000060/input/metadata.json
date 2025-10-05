@@ -1,0 +1,23 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "Create a surreal microscopic image inspired by the neurons from the first reference image, but replace the neuronal structures with the green electrical wires from from the second reference image. Arrange the wires to mimic the branching dendrites and axons, with some wires fraying at the ends to resemble synaptic connections. Use a dark purple background with faint glowing particles to enhance the microscopic feel. Vary the wire thickness and add subtle sparks or light flares to suggest neural activity, ensuring a futuristic yet organic aesthetic.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic, surreal microscopic image. The composition should clearly mimic the complex, interconnected branching patterns and individual cellular structures of the neurons from image 1. These neural structures must be formed entirely using the vibrant green electrical wire from image 2. Ensure the wires vary in thickness, accurately reflecting the differing widths of dendrites and axons seen in image 1. Some wire ends should appear frayed or slightly splayed to represent synaptic connections. The background should be a deep, dark purple, subtly illuminated by faint, glowing ethereal particles to enhance the microscopic and otherworldly atmosphere. Integrate subtle, sporadic sparks or delicate light flares along the wires to suggest neural activity, maintaining an overall futuristic yet organic aesthetic.",
+  "objects": [
+    "Neural structures mimicking complex, interconnected branching patterns and individual cellular structures",
+    "Vibrant green electrical wire",
+    "Wires with varying thickness",
+    "Frayed or splayed wire ends",
+    "Deep, dark purple background",
+    "Faint, glowing ethereal particles",
+    "Sporadic sparks along the wires",
+    "Delicate light flares along the wires"
+  ]
+}

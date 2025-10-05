@@ -1,0 +1,27 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": "Design a screenshot of an educational platform, showing course categories from the first image and dashboard layout from the second image.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a screenshot for an educational platform's dashboard. The design should primarily adopt the overall layout and visual style of the dashboard shown in image 2, including its left-hand navigation sidebar, top search bar, and the arrangement of data visualization widgets (e.g., revenue charts, course statistics, and sales reports). Additionally, prominently integrate a section within this dashboard that displays the 'Explore categories' list from image 1. This section must specifically feature the categories: Business, Data Science, Information Technology, Computer Science, Life Sciences, Physical Science and Engineering, Personal Development, Social Sciences, Language Learning, and Arts and Humanities, presented clearly and legibly within the dashboard context.",
+  "annotator": "paria",
+  "objects": [
+    "Educational platform dashboard",
+    "Left-hand navigation sidebar",
+    "Top search bar",
+    "Revenue chart widget",
+    "Course statistics widget",
+    "Sales reports widget",
+    "'Explore categories' section",
+    "Business category listing",
+    "Data Science category listing",
+    "Information Technology category listing"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

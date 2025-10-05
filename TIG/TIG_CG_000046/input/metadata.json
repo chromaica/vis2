@@ -1,0 +1,19 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "CAD models",
+  "prompt": "A CAD model of a M12 nut, side view, showing the hexagon and the threads.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A precise CAD render of an M12 nut, shown in a direct side view. The hexagonal shape and the internal screw threads must be clearly visible. The image should have a clean, technical aesthetic, typical of engineering software, against a neutral background.",
+  "annotator": "maxku",
+  "objects": [
+    "M12 nut",
+    "Internal screw threads",
+    "Hexagonal shape",
+    "Direct side view perspective",
+    "Neutral background",
+    "CAD render aesthetic",
+    "Clean, technical aesthetic"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "subtopic": "Websites",
+  "prompt": "Edit image 1: Apply the distinctive blue and orange color scheme and button style from the flight booking section in image 2 to the four colored section boxes below the hero image in image 1.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1750759012827,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit image 1: Redesign the four colored section boxes located below the hero image. Adopt the distinct dark blue background and orange button style from the flight booking section in image 2. Specifically, transform the background of all four boxes to the dark blue color found in image 2, and replace the current arrow buttons within each box with orange, rectangular buttons similar to the 'Book now' or 'Search' buttons in image 2, featuring white text.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Website header (Newfutures logo, navigation, contact/donate buttons)",
+    "Hero image section (people with flags, text overlay, TAKE ACTION button)",
+    "Four section boxes below the hero image",
+    "Dark blue background for each of the four section boxes",
+    "\"Educating Communities\" text and description in the first box",
+    "\"Civic Empowerment\" text and description in the second box",
+    "\"Building Partnerships\" text and description in the third box",
+    "\"Advancing Public Policy\" text and description in the fourth box",
+    "Orange, rectangular buttons in each of the four boxes",
+    "White text on the orange buttons"
+  ]
+}

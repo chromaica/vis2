@@ -1,0 +1,23 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": "An energetic comic-style visual: the word 'BOOM!' explodes in orange and yellow, crafted in an action font with explosive outlines, set against a vibrant starburst background complete with speed lines.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a vibrant, energetic comic book-style visual. The word 'BOOM!', rendered in a bold, action font with dynamic, explosive outlines, is centrally placed. The text itself bursts with bright orange and vivid yellow colors. Behind and radiating outwards from the word is a vibrant starburst background, complete with multiple speed lines extending towards the edges of the frame.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "The word 'BOOM!'",
+    "Bold, action font for the word 'BOOM!'",
+    "Dynamic, explosive outlines around the word 'BOOM!'",
+    "Bright orange color on the word 'BOOM!'",
+    "Vivid yellow color on the word 'BOOM!'",
+    "Centrally placed word 'BOOM!'",
+    "Vibrant starburst background behind and radiating outwards from 'BOOM!'",
+    "Multiple speed lines extending from the starburst background towards the edges of the frame",
+    "Comic book-style visual aesthetic"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

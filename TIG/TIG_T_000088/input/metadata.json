@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "A striking meme interpretation: 'This is Fine' rendered in a simple, slightly skewed black sans-serif font with a subtle rough edge texture. The background is a swirling, abstract inferno of oranges, reds, and blacks, suggesting intense chaos. The overall image creates a stark, ironic contrast between the mundane text and the dramatic backdrop, capturing the meme's core humor.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate an image featuring the text \"'This is Fine'\" prominently displayed and centered. The text should be rendered in a simple, slightly skewed black sans-serif font with a subtle rough edge texture. The background behind the text is a swirling, abstract inferno, vividly colored with dominant oranges, reds, and blacks, creating an intensely chaotic atmosphere.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Text: \"'This is Fine'\"",
+    "Centered text",
+    "Prominently displayed text",
+    "Black sans-serif font",
+    "Slightly skewed text",
+    "Subtle rough edge texture on text",
+    "Swirling abstract inferno background",
+    "Orange colors in background",
+    "Red colors in background",
+    "Black colors in background"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "Apply the UI mockup elements on the second image with grid layout in the first image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the placeholder content within the 2x2 grid layout in the middle mockup of image 1. Generate new detailed UI elements for each of the four grid cells, adopting the visual style, information graphic design, and content themes (e.g., weather data, small charts, icons, text labels) found across the user interface designs in image 2. Ensure the resulting elements seamlessly integrate into the grid structure while maintaining the wireframe's overall framing.",
+  "annotator": "Johnny",
+  "objects": [
+    "Wireframe border of the middle mockup",
+    "Top header bar of the middle mockup (including back arrow icon, \"Creative\" text, \"00.00\" text)",
+    "Navigation tabs (\"HOME\", \"BLOG\", \"SERVICE\" text and their outlines)",
+    "\"WHAT'S NEW\" title",
+    "Grid layout of four cells",
+    "Top-left grid cell with weather summary UI (e.g., current temperature, weather icon, location name)",
+    "Top-right grid cell with small chart UI (e.g., simplified hourly forecast graph or data trend)",
+    "Bottom-left grid cell with specific metric UI (e.g., humidity or UV index with icon and value)",
+    "Bottom-right grid cell with additional data point UI (e.g., wind speed or sunrise/sunset time with icon and value)",
+    "Monochrome line-art icons and clean text labels (for the new UI elements)"
+  ],
+  "human_annotation": true
+}

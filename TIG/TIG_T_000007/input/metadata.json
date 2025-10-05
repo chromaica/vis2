@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Calligraphy",
+  "prompt": "Experience the art of lettering: 'Graceful Flow' inscribed with an elegant, fluid brush pen in rich indigo ink. This centered composition on cream, textured parchment is subtly adorned with artistic ink splatters.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A centered, close-up shot of the phrase 'Graceful Flow' elegantly lettered with a fluid brush pen in rich indigo ink. The text is displayed on cream-colored, textured parchment, subtly enhanced with artistic indigo ink splatters.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "The phrase 'Graceful Flow'",
+    "Elegant lettering style",
+    "Fluid brush pen style",
+    "Rich indigo ink",
+    "Cream-colored parchment",
+    "Textured parchment",
+    "Artistic ink splatters"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

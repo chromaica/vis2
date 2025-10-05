@@ -1,0 +1,20 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Medical images",
+  "prompt": "Generate an MRI image of a brain with a visible tumor, using the heatmap as reference for tumor location.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic MRI image of a human brain, featuring a clearly visible brain tumor. The tumor's precise location and general shape should be guided by the prominent red and orange heatmap region in the upper-left quadrant of image 1. The final output should present a detailed axial view of the brain with the integrated tumor, consistent with a diagnostic medical MRI scan, without any heatmap or text overlays.",
+  "annotator": "samin",
+  "objects": [
+    "Axial view of a human brain",
+    "Brain tumor in the upper-left quadrant",
+    "Detailed internal brain structures (e.g., grey matter, white matter, ventricles)",
+    "Diagnostic medical MRI scan visual style",
+    "Heatmap (should not be present)",
+    "Text overlays (should not be present)"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "Edit image 1 by segmenting the highland cow's fur and changing its texture and color to resemble the golden retriever's fur from image 2. Segment the cow's eyes and replace them with the large, stylized eyes from image 3.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748455685120,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1, which features a close-up portrait of a highland cow. First, segment the cow's distinctive long, reddish-brown fur and transform its texture and color to precisely replicate the appearance of the short, golden fur of the golden retriever shown in image 2. Second, segment the cow's existing eyes and replace them with the large, stylized black eyes from the cartoon face depicted in image 3, ensuring they are appropriately scaled and positioned within the cow's eye sockets.",
+  "annotator": "winston",
+  "objects": [
+    "Highland cow's head (close-up portrait)",
+    "Cow's short, golden fur",
+    "Cow's large, stylized black eyes",
+    "Cow's nose",
+    "Cow's horns",
+    "Cow's ear tags",
+    "Dark, foggy background"
+  ],
+  "human_annotation": true
+}

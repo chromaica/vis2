@@ -1,0 +1,22 @@
+{
+  "subtopic": "Receipts",
+  "prompt": "Edit image 1: Redesign the header of the car sale receipt using the whimsical, cartoon style and wavy edge design from the receipt in image 2. Incorporate a cartoon car illustration similar to the hot dog stand element within the new header design.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751013888219,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit image 1: Redesign the entire header section of the car sale receipt in image 1. Transform its appearance to adopt the whimsical, cartoon style and the distinctive wavy top edge design from the receipt in image 2. Integrate a prominent cartoon car illustration into this new header, mirroring the style and visual hierarchy of the hot dog stand element in image 2, ensuring the header clearly identifies the document as a car sale receipt.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Redesigned header section of the receipt",
+    "Wavy top edge on the header",
+    "Prominent cartoon car illustration in the header",
+    "Text clearly identifying the document as a \"Car Sale Receipt\" in the header",
+    "Remaining sections of the car sale receipt document"
+  ]
+}

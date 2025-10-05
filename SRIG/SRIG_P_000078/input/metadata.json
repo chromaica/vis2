@@ -1,0 +1,22 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "a microscopic image of the area with the scratch, showing the skin structure and any visible cellular damage.",
+  "cond_images": [
+    "1.jpeg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic, high-magnification microscopic image of the scratched and scabbed wound area shown in image 1. The image should precisely detail the intricate skin structure, including visible epidermal and dermal layers, and clearly illustrate cellular damage such as ruptured cells, inflammatory cells, and tissue debris within the injury.",
+  "annotator": "samin",
+  "objects": [
+    "High-magnification microscopic view",
+    "Scratched and scabbed wound",
+    "Epidermal layer",
+    "Dermal layer",
+    "Cellular damage",
+    "Ruptured cells",
+    "Inflammatory cells",
+    "Tissue debris"
+  ]
+}

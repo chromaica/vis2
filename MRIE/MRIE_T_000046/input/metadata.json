@@ -1,0 +1,27 @@
+{
+  "task": "MRIE",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "Replace all the outlined car icons with the icon in the second image. Match the orientation and style of the original icons. Then, change the text '6th Street' to 'Argyle Street' in the map, and keep the font style consistent. Next, replace the tWh icon in the map with the icon in the third image. Finally, add a white section under the map and write the description of the way to enter the place, like the legend in the fourth image. Use the font and style from the fourth image.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png",
+    "4.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 (the provided map graphic) as follows:\n\n1.  Replace the two outlined car icons in image 1 (one positioned near 'ALLEY' at the top, and the other near '4TH AVENUE' at the bottom-left) with the motorcycle icon from image 2. Ensure the replaced icons maintain the original line art style and their respective orientations (e.g., the top icon should face right, and the bottom-left icon should face left).\n2.  Change the vertical text '6th Street' on the left side of the map in image 1 to 'Argyle Street', maintaining the exact font style, size, and color of the original text.\n3.  Replace the 'tWh' logo located within the large gold rectangular area of image 1 with the 'SYN' logo from image 3. Scale the 'SYN' logo appropriately to fit the space occupied by the original 'tWh' logo.\n4.  Add a new, solid white rectangular text block directly below the bottom edge of the map in image 1. Inside this block, write a concise description of how to enter the place, detailing the parking and main entrance information derived from the map (e.g., 'Indigo Parking', 'Ramp down to underground parking', 'Front Entrance'). Format this description with the font style, size, and multi-column paragraph layout similar to the main 'figure legend' text section found at the bottom of image 4.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Map graphic with roads, alley, parking lot, and building layout",
+    "Car icon near 'ALLEY' (should not be present)",
+    "Car icon near '4TH AVENUE' (should not be present)",
+    "Motorcycle icon near 'ALLEY' (facing right)",
+    "Motorcycle icon near '4TH AVENUE' (facing left)",
+    "Vertical text '6th Street' (should not be present)",
+    "Vertical text 'Argyle Street' on the left side of the map",
+    "'tWh' logo (should not be present)",
+    "'SYN' logo within the large gold rectangular area",
+    "Solid white rectangular text block below the map with parking/entrance description"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Replace the top code cell in image 1 (the one with x = 1 + 1) with the image uploader UI from image 3, keeping the cell frame and indentation unchanged. Then, insert the 'Sunny' weather card from image 2 in the bottom-right corner of the screen. Keep all other elements the same.",
+  "cond_images": [
+    "1.png",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 (the Jupyter notebook screenshot).\n\n1.  Replace the content of the top code cell (the one containing \"x = 1 + 1\" and \"print x\") with the image uploader UI from image 3. Ensure the original cell's frame, size, and indentation are preserved, integrating the new UI within these boundaries.\n2.  Insert the \"Sunny\" weather card, specifically the one displaying \"37\u00b0 Sunny\" from image 2, into the bottom-right corner of the overall Jupyter interface.\n\nAll other elements in image 1 should remain unchanged.",
+  "annotator": "parnian",
+  "objects": [
+    "Jupyter Notebook browser window",
+    "Jupyter Notebook menu bar",
+    "Jupyter Notebook toolbar",
+    "Bottom code cell (containing \"y = 2 * x\" and \"print y\")",
+    "Image uploader UI (from Image 3, replacing content of top code cell)",
+    "Text \"Drop your image here, or browse\"",
+    "Text \"Support: JPG, PDF, PPT, Word, Excel\"",
+    "Image placeholder icon (within uploader UI)",
+    "\"37\u00b0 Sunny\" weather card (in bottom-right corner of Jupyter interface)",
+    "\"x = 1 + 1\" and \"print x\" code (should not be present)"
+  ]
+}

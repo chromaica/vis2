@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Mobile software interfaces",
+  "prompt": "Replace the heart icon with a star icon for likes.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Convert the heart icon for 'likes', positioned below the main image post, into a star icon.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Mobile phone screen with Instagram app UI",
+    "Gradient background",
+    "Status bar (top of screen)",
+    "Instagram logo (top of app)",
+    "Top right app icons (heart and message)",
+    "Stories carousel (user profile circles)",
+    "Main image post of two people",
+    "Star icon (for likes, below the post)",
+    "Other post interaction icons (comment, share, save)",
+    "Bottom navigation bar"
+  ]
+}

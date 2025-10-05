@@ -1,0 +1,25 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "Predict the scene one second ahead in the game, as the player presses the only available move.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Advance the soccer game scene by one second, showing the immediate outcome of the 'POWER SHOOT' being executed by the player in the green jersey (#7, resembling Cristiano Ronaldo) who just headed the ball. The soccer ball should now be transformed into a blazing, high-speed projectile, visually depicted with a fiery trail and motion blur, rapidly approaching or having just entered the goal on the left. The goalie in the blue and white jersey (#1), positioned by the goal, should be captured in a dynamic, reactive pose, such as a diving save attempt or having just failed to block the shot. Player #7 should be in a follow-through or triumphant pose, looking towards the goal. Other players on the field should also be reacting to the intense shot.",
+  "annotator": "cwhsu",
+  "objects": [
+    "blazing, high-speed soccer ball",
+    "fiery trail from the ball",
+    "motion blur on the ball",
+    "goal on the left",
+    "goalie (#1, blue and white jersey) in a dynamic, reactive pose",
+    "player #7 (green jersey, resembling Cristiano Ronaldo) in a follow-through or triumphant pose",
+    "other players on the field reacting to the shot",
+    "soccer field",
+    "stadium background",
+    "crowd in the stands"
+  ],
+  "human_annotation": true
+}

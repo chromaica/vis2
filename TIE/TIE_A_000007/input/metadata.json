@@ -1,0 +1,22 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Oil Painting",
+  "prompt": "Add a chandelier to the ceiling of the room. Match the style and color scheme of the original painting.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 by adding a chandelier to the upper-middle section, appearing to hang from the ceiling. The chandelier should be rendered in the same abstract, impressionistic painting style as image 1, harmonizing with its existing color palette and soft, luminous brushwork.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "abstract figures",
+    "abstract interior setting",
+    "ceiling",
+    "floor",
+    "luminous vertical forms",
+    "a chandelier in the upper-middle section, appearing to hang from the ceiling"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

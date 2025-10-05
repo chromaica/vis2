@@ -1,0 +1,22 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Facial estimation and analysis",
+  "prompt": "Apply smoothing only on the masked skin regions while preserving details on eyes and lips.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Using image 2 as a mask guide, apply a smoothing effect to the skin regions that are covered by the black areas in image 2. Ensure that all fine details on the eyes and lips in image 1 are fully preserved, preventing any smoothing in these specific facial features.",
+  "annotator": "nimajamali",
+  "objects": [
+    "Man's face",
+    "Man's grey hair",
+    "Man's eyes (with preserved fine details)",
+    "Man's lips (with preserved fine details)",
+    "Smoothed skin regions (on forehead, cheeks, and nose)",
+    "Man's suit jacket",
+    "Yellowish background"
+  ]
+}

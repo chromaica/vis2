@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "Convert the font of top-right corner title of the poster (first image). English words should be in the font of the second image, and Chinese words should be in the font of the third image.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "1.png source: hkhouse; 2.png source: forbes; 3.png source: Google Fonts",
+  "prompt_refined": "Edit image 1. Modify the textual graphics in the top-right corner title block, which contains 'Vancouver Hong Kong Fair' and '\u9999\u6e2f\u4eba\u5e02\u96c6'. For the English words 'Vancouver Hong Kong Fair', adopt the font style demonstrated in image 2. For the Chinese words '\u9999\u6e2f\u4eba\u5e02\u96c6', apply the font style from image 3.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "dark teal background",
+    "\"Purchase your tickets online now\" text",
+    "top-right title block",
+    "\"Vancouver Hong Kong Fair\" text with font style from Image 2",
+    "\"\u9999\u6e2f\u4eba\u5e02\u96c6\" text with font style from Image 3",
+    "\"HK HOUSE\" logo",
+    "\"\u9999\u6e2f\u5e02\u96c6\" logo",
+    "\"www.vancouverhkfair.com\" text",
+    "\"WELCOME PARLOUR Ice Cream\" logo",
+    "\"JENG DAU ONE CAFE\" logo"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

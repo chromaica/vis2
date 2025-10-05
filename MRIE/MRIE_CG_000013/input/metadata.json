@@ -1,0 +1,30 @@
+{
+  "subtopic": "3D renders",
+  "prompt": "Edit image 1 to transform the scene into a detailed 3D render. Replace the desktop computers with sleek laptops in image 2. Add a figure seated at a desk, focused on a laptop, using the person in image 3.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748455048047,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1. Transform the entire scene into a highly detailed 3D render. Replace all existing desktop computers (like the iMacs visible in image 1) with sleek, modern laptops, referencing the design and style of the laptop shown in image 2. On the empty desk located in the foreground, towards the left side of the image, integrate a figure seated and intently focused on a laptop, adopting the appearance and posture of the person in image 3.",
+  "annotator": "winston",
+  "objects": [
+    "Highly detailed 3D rendered scene (based on image 1's room structure)",
+    "Desktop computers/iMacs (should not be present)",
+    "Sleek, modern laptops (multiple, replacing the existing desktop computers)",
+    "Empty desk in the foreground, towards the left side of the image",
+    "Seated figure (on the empty desk in the foreground, left), adopting the appearance and posture of the person in image 3",
+    "Laptop (with the seated figure, on the empty desk in the foreground, left)",
+    "Tables/desks (other than the foreground one)",
+    "Windows with blinds",
+    "Overhead projector",
+    "Overhead lighting fixtures"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

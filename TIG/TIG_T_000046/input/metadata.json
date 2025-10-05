@@ -1,0 +1,24 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Illuminated Manuscripts",
+  "prompt": "Illustrate a phrase in illuminated manuscript style: 'Lux Mundi'. Feature an ornate gold leaf 'L' initial with complex interlace patterns. The remaining text should be elegant black gothic script with red and blue flourishes on aged parchment, surrounded by a vibrant border of foliage and animal motifs.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "An illuminated manuscript page depicting the phrase 'Lux Mundi'. The text is centrally placed on aged parchment. The initial 'L' of 'Lux' is a highly ornate, gold leaf capital letter with complex interlace patterns. The subsequent text, 'ux Mundi', is rendered in elegant black gothic script, adorned with red and blue flourishes. A vibrant, richly detailed border of lush foliage and diverse animal motifs surrounds the entire text block.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "illuminated manuscript page",
+    "aged parchment",
+    "the phrase 'Lux Mundi'",
+    "highly ornate, gold leaf capital letter 'L'",
+    "complex interlace patterns on the initial 'L'",
+    "elegant black gothic script for 'ux Mundi'",
+    "red flourishes",
+    "blue flourishes",
+    "vibrant, richly detailed border of lush foliage",
+    "diverse animal motifs in the border"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

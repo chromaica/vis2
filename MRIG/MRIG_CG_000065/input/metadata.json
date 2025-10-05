@@ -1,0 +1,26 @@
+{
+  "subtopic": "Object detection visuals",
+  "prompt": "Create a computer graphic visualization for object detection, rendering the blue hoodie from image 1 using the intricate texture and atmospheric lighting style seen in image 2, suitable for dataset imagery.",
+  "cond_images": [
+    "1.png",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748423400658,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a computer graphics visualization suitable for object detection dataset imagery. The central subject should be the blue hoodie from image 1, re-rendered with the intricate, highly detailed surface texture and atmospheric warm glow lighting observed in image 2. Position the hoodie prominently against a dark, subtle background to emphasize the lighting and texture details.",
+  "annotator": "winston",
+  "objects": [
+    "blue hoodie (prominently positioned)",
+    "intricate, highly detailed surface texture (on the hoodie)",
+    "atmospheric warm glow lighting (on the hoodie)",
+    "dark background",
+    "subtle background",
+    "computer graphics visualization aesthetic",
+    "object detection dataset imagery aesthetic"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

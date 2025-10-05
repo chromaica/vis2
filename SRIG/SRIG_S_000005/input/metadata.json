@@ -1,0 +1,26 @@
+{
+  "subtopic": "Receipts",
+  "prompt": "Generate a screenshot of a digital receipt displaying various purchased goods. Use the clean, minimalist layout and high-contrast blue and white color palette from the reference image for this digital screen display.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://www.zoho.com/invoice/inv-gen/receipt-template.png",
+  "promptGeneratedTimestamp": 1749413094291,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a screenshot of a digital receipt displaying various purchased goods or services. Emulate the clean, minimalist layout and high-contrast black and white/grayscale color palette from image 1. The receipt should feature a company logo (similar to the 'Z' in a circle in image 1) and company address in the top-left. The title 'RECEIPT' and a receipt number (e.g., 'Receipt/#12') should be positioned in the top-right. Include a 'Bill To' section with a customer's name and address below the company information. Display an itemized table containing at least three distinct items or services, with columns titled '#', 'Item & Description', 'Qty', 'Rate', 'Tax', and 'Amount'. Below the itemized table, include summary lines for 'Sub Total', 'Tax' (e.g., 'Tax (12%)'), and 'Total', where the 'Total' line is visually distinct on a light background. Conclude the receipt with separate sections for 'Notes' and 'Terms & Conditions' positioned at the bottom.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Company logo (in top-left)",
+    "Company address (in top-left)",
+    "'RECEIPT' title (in top-right)",
+    "Receipt number (in top-right)",
+    "'Bill To' section with customer name and address",
+    "Itemized table with column titles ('#', 'Item & Description', 'Qty', 'Rate', 'Tax', 'Amount')",
+    "At least three distinct items or services within the table",
+    "'Sub Total' line",
+    "'Tax' line (e.g., 'Tax (12%)')",
+    "'Total' line (visually distinct on a light background)"
+  ]
+}

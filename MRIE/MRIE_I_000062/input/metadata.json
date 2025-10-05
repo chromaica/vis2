@@ -1,0 +1,27 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "Edit image 1, the illustrated world map, by adding new whimsical animal icons inspired by the reference images. Introduce an anime-style cat icon with a crescent moon motif similar to image 2 near Europe. Place a stylized dog icon featuring the distinct expression and lines from image 3 in North America. Add a cute, heart-themed cartoon fox icon in the style and colors of image 4 to Asia.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png",
+    "4.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the illustrated world map, by adding three new whimsical animal icons inspired by the provided reference images.\n\n1.  Integrate an anime-style black cat icon with a prominent crescent moon motif on its forehead, directly inspired by the appearance and details of reference image 2. Position this cat icon near the continent of Europe.\n2.  Introduce a stylized white dog icon, meticulously replicating the distinct closed-eye expression and characteristic line work visible in reference image 3. Place this dog icon within the landmass of North America.\n3.  Add a cute, heart-themed cartoon fox icon, adopting the specific style, color palette (red/cream/pink), and overall charming aesthetic of reference image 4. Position this fox icon on the continent of Asia.",
+  "annotator": "maxku",
+  "objects": [
+    "Illustrated world map",
+    "\"WORLD MAP\" title text",
+    "Anime-style black cat icon with crescent moon, positioned near Europe",
+    "Stylized white dog icon with closed-eye expression, positioned within North America",
+    "Cute, heart-themed cartoon fox icon with red/cream/pink colors, positioned on Asia",
+    "Continent of Europe",
+    "Continent of North America",
+    "Continent of Asia",
+    "Various existing whimsical animal illustrations (from original map)",
+    "Oceans (Pacific, Atlantic, Indian, Arctic)"
+  ]
+}

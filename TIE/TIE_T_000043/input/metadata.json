@@ -1,0 +1,19 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "Change the cup into a plate using the same layout and texts.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Transform the central typographic illustration, which is currently shaped as a cup and composed of various white texts, into a flat, round, or oval plate. Rearrange the text content that forms the cup to precisely fit the new plate silhouette. Ensure all other elements in the image, including the \"WELCOME TO SUMMER PARTY\" banner at the top, the white wavy line on the right, and the \"GET READY FOR A DRINK\" speech bubble at the bottom right, remain unchanged in their original positions and appearance.",
+  "annotator": "matina",
+  "objects": [
+    "A central flat, round, or oval plate composed of white text",
+    "\"WELCOME TO SUMMER PARTY\" banner at the top",
+    "White wavy line on the right",
+    "\"GET READY FOR A DRINK\" speech bubble at the bottom right",
+    "Dark background"
+  ]
+}

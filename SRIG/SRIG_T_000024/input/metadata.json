@@ -1,0 +1,26 @@
+{
+  "task": "SRIG",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "make a lists of AI pioneers (Ilya Sutskever, Demis Hassabis, Sam Altman, Ben Goertzel, Shane Legg, J\u00fcrgen Schmidhuber, and Mira Murati) in the style if each boxes found in the image, make sure the photo angle stays the same",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a new image by transforming the visual content of image 1. Redesign the labels of all visible vintage cigarette packs in image 1. For a selection of these packs, integrate the names of the following AI pioneers into their designs: Ilya Sutskever, Demis Hassabis, Sam Altman, Ben Goertzel, Shane Legg, J\u00fcrgen Schmidhuber, and Mira Murati. Each redesigned label must meticulously replicate the diverse graphic styles of the original vintage packaging seen in image 1, including their distinct typography, illustrative elements (e.g., sunbursts, spirals, heraldic designs), specific color palettes, and aged, distressed textures. Maintain the exact overhead perspective, lighting, and precise arrangement of all packs as depicted in image 1.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Vintage cigarette packs (all visible in image 1)",
+    "Redesigned labels on the cigarette packs",
+    "Names of AI pioneers (Ilya Sutskever, Demis Hassabis, Sam Altman, Ben Goertzel, Shane Legg, J\u00fcrgen Schmidhuber, Mira Murati) integrated into pack label designs",
+    "Diverse graphic styles on pack labels, replicating original typography",
+    "Illustrative elements (e.g., sunbursts, spirals, heraldic designs) on pack labels, replicating original styles",
+    "Specific color palettes on pack labels, replicating original styles",
+    "Aged, distressed textures on pack labels, replicating original styles",
+    "Overhead perspective (as depicted in image 1)",
+    "Lighting (as depicted in image 1)",
+    "Precise arrangement of all packs (as depicted in image 1)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

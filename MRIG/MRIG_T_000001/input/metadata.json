@@ -1,0 +1,23 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Create a two-panel meme. Panel 1 shows a happy group working together in the first image with the caption 'Group project in theory'. Panel 2 shows a tired student sleeping on books in the second image with the caption 'Group project in reality'. Use bold white meme text.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a two-panel meme.\nThe left panel should depict a diverse group of people happily collaborating around a table, drawing visual inspiration from conditioning image 1. At the bottom of this panel, display the bold white meme text: 'Group project in theory'.\nThe right panel should show a student, visibly exhausted, sleeping face down on a stack of books at a desk, drawing visual inspiration from conditioning image 2. At the bottom of this panel, display the bold white meme text: 'Group project in reality'.",
+  "annotator": "parnian",
+  "objects": [
+    "Two-panel meme format",
+    "Left panel depicting a diverse group of people",
+    "People happily collaborating around a table in the left panel",
+    "Bold white meme text: 'Group project in theory' at the bottom of the left panel",
+    "Right panel depicting an exhausted student",
+    "Student sleeping face down on a stack of books in the right panel",
+    "Desk in the right panel",
+    "Bold white meme text: 'Group project in reality' at the bottom of the right panel"
+  ]
+}

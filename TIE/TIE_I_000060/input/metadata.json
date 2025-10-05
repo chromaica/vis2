@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Integrate a sample algorithm into this flowchart, maintaining its structure, by inserting algorithm components appropriately.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, a 3D rendered flowchart, to integrate a sample algorithm. Seamlessly insert new flowchart components, such as additional process steps (rounded rectangles) and decision points (diamond shapes), along with their connecting arrows. Maintain the existing visual style, color palette, and the overall logical structure of the flowchart. New components should extend or branch from the current flow, for example, by adding steps after the red diamond or expanding one of the existing blue output paths.",
+  "annotator": "cwhsu",
+  "objects": [
+    "3D rendered light blue rounded rectangle",
+    "3D rendered light green rounded rectangle",
+    "3D rendered yellow rounded rectangle",
+    "3D rendered red diamond",
+    "3D rendered dark blue rounded rectangles",
+    "Black connecting arrows",
+    "Additional 3D rendered rounded rectangles",
+    "Additional 3D rendered diamond shapes",
+    "Additional black connecting arrows",
+    "White background"
+  ]
+}

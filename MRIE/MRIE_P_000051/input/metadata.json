@@ -1,0 +1,26 @@
+{
+  "subtopic": "Urban & Street Photography",
+  "prompt": "Edit image 1: Apply the specific color grading, depth of field, and overall street photography mood from image 3 to the scene. Realistically incorporate a car similar to the vehicle in image 2 into the foreground or parked area.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748657309887,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "P",
+  "prompt_refined": "Edit image 1. Apply the specific color grading, depth of field characteristics, and the overall street photography mood from image 3 to the scene. Realistically incorporate an older model sedan, similar in style and condition to the blue vehicle in image 2, into the foreground of image 1. Position the car either parked within the open square area or appearing as if in motion.",
+  "annotator": "boris",
+  "objects": [
+    "Older model sedan (similar in style and condition to blue vehicle in image 2), in the foreground",
+    "Traditional Chinese-style stage building",
+    "Open square area",
+    "Person on a bicycle",
+    "Surrounding buildings and structures",
+    "Sky"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

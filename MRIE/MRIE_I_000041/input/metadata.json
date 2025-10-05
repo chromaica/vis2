@@ -1,0 +1,21 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "Edit image 1: Replace the dog icon with a simple line art icon of a cat, drawing inspiration for the cat's appearance and charm from image 2. Change the text 'MY DOGY' to 'MY KITTY', applying the whimsical, handwritten typeface style demonstrated in image 3.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the source image (image 1) as follows:\n1.  Replace the existing minimalist line art dog icon, which is centrally positioned above the text, with a new minimalist line art icon of a sitting cat. This new cat icon should embody the charming and appealing characteristics of the cat depicted in image 2.\n2.  Change the text 'MY DOGY', currently centered below the icon, to 'MY KITTY'. The typography for 'MY KITTY' must replicate the whimsical, handwritten style demonstrated by the font examples in image 3.",
+  "annotator": "maxku",
+  "objects": [
+    "minimalist line art icon of a sitting cat, centrally positioned above the text",
+    "text 'MY KITTY', centered below the icon, in whimsical, handwritten style",
+    "white background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

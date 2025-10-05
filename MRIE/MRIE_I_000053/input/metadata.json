@@ -1,0 +1,27 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Edit image 1 (the Venn diagram) by replacing the current heart icon in the Kinaesthetic section with a soft, gradient heart inspired by image 2, and update the musical note icon in the Auditory section to the bold, comic-style musical notes from image 3.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the '3 TYPES OF LEARNER' Venn diagram. In the 'Kinaesthetic' section (the pink circle in the bottom-right), replace the current blue heart icon with a soft, gradient heart inspired by image 2. In the 'Auditory' section (the blue circle in the top-left), replace the current musical note icon with the bold, comic-style musical notes from image 3.",
+  "annotator": "maxku",
+  "objects": [
+    "\"3 TYPES OF LEARNER\" title",
+    "Venn diagram structure",
+    "Blue \"Auditory\" circle",
+    "Yellow \"Visual\" circle",
+    "Pink \"Kinaesthetic\" circle",
+    "Soft, gradient heart icon (in Kinaesthetic section)",
+    "Bold, comic-style musical notes (in Auditory section)",
+    "Blue heart icon (originally in Kinaesthetic section) (should not be present)",
+    "Musical note icon (originally in Auditory section) (should not be present)",
+    "\"Which one are you?\" text"
+  ],
+  "human_annotation": true
+}

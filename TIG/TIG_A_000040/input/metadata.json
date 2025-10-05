@@ -1,0 +1,18 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Stylized art",
+  "prompt": "A stylized art portrait of a mysterious woman with cosmic patterns on her face, in vibrant acrylic.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A stylized portrait artwork depicting a mysterious woman, her face intricately adorned with cosmic patterns, rendered in vibrant acrylic paints.",
+  "annotator": "cwhsu",
+  "objects": [
+    "stylized portrait",
+    "mysterious woman",
+    "woman's face",
+    "cosmic patterns (on the face)",
+    "vibrant colors",
+    "acrylic paint texture"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Traditional art",
+  "prompt": "Generate an oil painting of a cat lying down, using image 1 for pose, image 2 for fur texture, and image 3 for background.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate an oil painting of a cat. The cat should precisely replicate the lying pose of the tabby cat from image 1, with its front paws extended. Apply the dark grey-blue, long, and shaggy fur texture and appearance as depicted in image 2. The background should be the simple, light brown-grey studio backdrop seen in image 3, rendered cleanly without any additional studio equipment.",
+  "annotator": "samin",
+  "objects": [
+    "Cat",
+    "Cat in a lying pose with extended front paws",
+    "Dark grey-blue fur on the cat",
+    "Long fur on the cat",
+    "Shaggy fur texture on the cat",
+    "Simple studio backdrop",
+    "Light brown-grey background",
+    "Studio equipment (should not be present)"
+  ]
+}

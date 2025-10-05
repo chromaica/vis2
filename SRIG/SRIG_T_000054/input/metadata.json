@@ -1,0 +1,25 @@
+{
+  "task": "SRIG",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": "Create a comic book cover featuring this character in space.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a dynamic comic book cover featuring the character from image 1: a cartoon-style superhero in a lime green and dark green suit, wearing a white VR headset with blue screens, and holding white VR controllers. Position this character prominently in the foreground, in an action pose as if navigating a virtual world within the vastness of outer space. The background should depict a vibrant cosmic scene with swirling nebulae, distant stars, and planets. Include a bold, stylized comic book title at the top, and a publisher logo space at the bottom right. The overall aesthetic should be that of a classic comic book illustration.",
+  "annotator": "Johnny",
+  "objects": [
+    "Cartoon-style superhero",
+    "White VR headset with blue screens",
+    "White VR controllers",
+    "Vibrant cosmic scene background",
+    "Swirling nebulae",
+    "Distant stars",
+    "Planets",
+    "Bold, stylized comic book title at the top",
+    "Publisher logo space at the bottom right"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

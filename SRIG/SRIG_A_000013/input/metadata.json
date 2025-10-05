@@ -1,0 +1,19 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "Create a collage style of butterfly flying over a forest",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a collage-style artwork featuring a butterfly, with its form and approximate placement on the right side of the frame inspired by image 1, flying above a dense forest. The overall composition should embody a distinct collage aesthetic.",
+  "annotator": "Johnny",
+  "objects": [
+    "butterfly on the right side of the frame",
+    "dense forest",
+    "collage aesthetic"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

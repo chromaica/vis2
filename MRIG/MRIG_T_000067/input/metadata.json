@@ -1,0 +1,21 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Design a luxury minimalist fashion accessory logo using the flower exactly outline in the first image and the black-and-white floral alphabet from the second, with the pink color in the third image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a luxury minimalist fashion accessory logo. The design must incorporate the exact single-line flower illustration from image 1. Any textual elements within the logo should be styled using the black-and-white floral alphabet seen in image 2. The primary color used in the logo should be the distinct pink hue from image 3.",
+  "annotator": "parnian",
+  "objects": [
+    "Luxury minimalist fashion accessory logo",
+    "Single-line flower illustration (from Image 1)",
+    "Textual elements (within the logo)",
+    "Black-and-white floral alphabet styling (for textual elements, from Image 2)",
+    "Distinct pink hue (from Image 3) as the primary color of the logo"
+  ]
+}

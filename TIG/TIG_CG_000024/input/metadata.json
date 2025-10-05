@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "Texture Map",
+  "prompt": "A diffuse map of a weathered red brick wall, with moss growing in the cracks and chipped mortar.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a diffuse texture map of a weathered red brick wall. The wall should feature green moss growing distinctly within its cracks and clearly show chipped, eroded mortar lines.",
+  "annotator": "maxku",
+  "objects": [
+    "red brick wall",
+    "weathered appearance on the wall",
+    "green moss",
+    "cracks in the wall",
+    "mortar lines",
+    "chipped mortar lines",
+    "eroded mortar lines",
+    "green moss growing distinctly within cracks"
+  ]
+}

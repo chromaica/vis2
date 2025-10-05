@@ -1,0 +1,25 @@
+{
+  "subtopic": "Medical images",
+  "prompt": "Edit image 1 by adding the ring from image 2 to a finger. Change the hand pose to match image 3's slightly closed grip and include the wrist area. Apply the black and white, high-contrast look of image 3.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749225173751,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "P",
+  "prompt_refined": "Edit the provided X-ray image (image 1). Adjust the hand's pose to a slightly closed grip and extend the view to include the wrist and lower forearm, matching the composition and articulation seen in image 3. Add the X-ray of the ring from image 2 onto the ring finger of the edited hand. Finally, apply the high-contrast, monochrome aesthetic of image 3 to the entire result.",
+  "annotator": "boris",
+  "objects": [
+    "X-ray of a hand with a slightly closed grip",
+    "Wrist",
+    "Lower forearm",
+    "X-ray of a ring on the ring finger",
+    "High-contrast aesthetic",
+    "Monochrome aesthetic"
+  ],
+  "human_annotation": true
+}

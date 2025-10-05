@@ -1,0 +1,31 @@
+{
+  "subtopic": "Maps",
+  "prompt": "Generate an illustrated route map similar in layout and style to image 1, depicting a journey with marked points. Use the various map symbols and icons shown in image 2 to represent different locations and features along the route.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "Infographic map design example",
+  "searchQueryGeneratedTimestamp": 1750601796466,
+  "promptGeneratedTimestamp": 1750601861771,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "I",
+  "annotator": "htwong",
+  "prompt_refined": "Generate an illustrated route map for a journey, styled as an information graphic. The map should prominently feature a clear, marked path with numbered points, strongly resembling the geographical layout and visual aesthetic of image 1.\n\nInclude a prominent title at the top and a supplementary information panel (e.g., a table) on the left side, mirroring the structural elements found in image 1. Along the depicted route, incorporate various map symbols and icons from image 2 to denote specific locations and features, such as transport hubs (e.g., Train Station, Airport), landmarks (e.g., University, Museum), and amenities (e.g., Food and Drinks, Restrooms).\n\nUtilize road lines and railway lines from image 2 to connect the points, varying their styles (e.g., standard, thick, dotted) as appropriate for different segments. Embed small, illustrative images of key locations or landmarks along the journey, similar to those present in image 1. The map should clearly define a start point, intermediate stops, and an end point for the journey.",
+  "objects": [
+    "Illustrated route map graphic",
+    "Prominent title at the top",
+    "Supplementary information panel (table) on the left side",
+    "Geographical map outline (resembling Image 1)",
+    "Clear, marked journey path",
+    "Numbered points along the journey path",
+    "Road lines and railway lines (from Image 2, with varying styles)",
+    "Map symbols and icons (from Image 2, e.g., Train Station, Airport, University, Food and Drinks, Restrooms)",
+    "Small, illustrative images of key locations/landmarks",
+    "Clearly defined start point, intermediate stops, and end point markers"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

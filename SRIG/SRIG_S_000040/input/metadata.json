@@ -1,0 +1,30 @@
+{
+  "subtopic": "Software interfaces",
+  "prompt": "Generate a crypto wallet web app with using the clean aesthetic and layout from the reference image, displaying various charts, data widgets, and interactive elements in a similar visual style.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://cdn.prod.website-files.com/65c1ae21fb2191466dd6ce72/66027bec69487388cc306f8d_653b4df51ffbde0619959cac_13_shipfaster_2_5_sample.jpeg",
+  "searchQueryGenerated": "clean modern software interface screenshot high resolution",
+  "searchQueryGeneratedTimestamp": 1749435637752,
+  "promptGeneratedTimestamp": 1749435664443,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a web application interface for a crypto wallet, adhering to the clean aesthetic, modern layout, and light color palette (predominantly blues and purples) observed in image 1. The main dashboard should feature prominent data widgets displaying the wallet's overall balance and key asset values, utilizing the clear numerical display and percentage change indicators from image 1's data cards. Include visual representations of portfolio allocation using donut charts, similar in style to those in image 1. Below these, integrate a section for recent transaction history, presented in a structured data table format. Incorporate interactive elements such as a set of primary action buttons (e.g., 'Send', 'Receive', 'Swap') arranged with the consistent design and icon usage seen in image 1's button elements, potentially positioned on the right side of the main content area. Additionally, include smaller data widgets or progress bars to show ongoing processes or specific asset performance, drawing inspiration from the various data and progress bar widgets within image 1. The layout should be modular, using a card-based system to organize information clearly, reflecting image 1's overall design system.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "web application interface",
+    "crypto wallet dashboard",
+    "prominent data widgets displaying wallet balance and asset values",
+    "numerical display on data widgets",
+    "percentage change indicators on data widgets",
+    "donut charts for portfolio allocation",
+    "structured data table for recent transaction history",
+    "primary action buttons (e.g., 'Send', 'Receive', 'Swap') on the right side",
+    "smaller data widgets",
+    "progress bars"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

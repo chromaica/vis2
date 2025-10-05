@@ -1,0 +1,23 @@
+{
+  "subtopic": "Game assets",
+  "prompt": "Generate a 3D game asset render featuring the laptop from image 1 and the mouse from image 2, designed for a simulation game. Utilize the detailed texture and material style from image 2 for both computer peripherals.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748423366962,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a 3D game asset render showcasing the open, silver laptop from image 1 alongside the dark grey ergonomic mouse from image 2. Both peripherals must adopt the detailed, subtly textured matte plastic material and finish observed in image 2. The entire render should be optimized for integration into a simulation game.",
+  "annotator": "winston",
+  "objects": [
+    "Open silver laptop",
+    "Dark grey ergonomic mouse",
+    "Detailed, subtly textured matte plastic finish",
+    "3D game asset render appearance",
+    "Visual characteristics optimized for a simulation game"
+  ],
+  "human_annotation": true
+}

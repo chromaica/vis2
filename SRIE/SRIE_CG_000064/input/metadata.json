@@ -1,0 +1,27 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Object detection visuals",
+  "prompt": "Detect all people within the masked region and blur their faces, while drawing blue boundaries around all other detected individuals.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 2. Using image 1 as a visual reference, identify all individuals who are located in the area currently obscured by the black mask on the right side of image 2. For each of these identified individuals, apply a strong blur to their face. Furthermore, for all other individuals who are clearly visible in the unmasked portion on the left side of image 2, draw a distinct blue rectangular outline around each person.",
+  "annotator": "nimajamali",
+  "objects": [
+    "People running on a sidewalk",
+    "Trees",
+    "Streetlights",
+    "People on the left side of the image with blue rectangular outlines",
+    "People on the right side of the image with blurred faces",
+    "Blue rectangular outlines",
+    "Blurred faces",
+    "Sidewalk pavement",
+    "Buildings in the background",
+    "Black mask (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

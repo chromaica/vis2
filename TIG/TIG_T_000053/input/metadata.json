@@ -1,0 +1,19 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "ASCII Art",
+  "prompt": "Construct the word 'CODE' using ASCII art. The letters should be thick and blocky, formed from small cyan ASCII characters, displayed on a dark computer terminal screen featuring subtle scanlines.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate an image featuring the word 'CODE' rendered as thick, blocky ASCII art. Each letter is composed of small, cyan ASCII characters. This ASCII graphic is displayed centered on a dark computer terminal screen that exhibits subtle horizontal scanlines.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "The word 'CODE'",
+    "Thick, blocky ASCII art style",
+    "Small ASCII characters",
+    "Cyan color",
+    "Dark computer terminal screen",
+    "Subtle horizontal scanlines",
+    "The 'CODE' graphic centered on the screen"
+  ]
+}

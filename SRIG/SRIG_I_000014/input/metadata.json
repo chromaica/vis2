@@ -1,0 +1,23 @@
+{
+  "subtopic": "Maps",
+  "prompt": "Create a detailed cross-section diagram of Earth's layers (crust, mantle, outer core, inner core) with accurate proportions and scientific labels, using the provided reference diagram as a guide.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "https://img.freepik.com/premium-vector/lithosphere-earth-layers-structure-planet-geology-school-scheme-geography-infographics-with-cross-section-diagram-earth-inside-model-internal-mantle-level-education-science-use_93083-2982.jpg",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate a detailed cross-section diagram of Earth's layers, specifically depicting the crust, mantle, outer core, and inner core. The diagram must illustrate these layers with scientifically accurate proportions and include clear scientific labels for each layer. The visual style and composition should be guided by the spherical cross-section diagram shown on the left side of image 1, featuring concentric, gradient-colored layers. The inner core should be depicted at the center, surrounded sequentially by the outer core, then the mantle, and finally the outermost crust. The complete diagram should be centrally placed in the generated image.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Earth's spherical cross-section diagram",
+    "Inner core (at the center)",
+    "Outer core (surrounding inner core)",
+    "Mantle (surrounding outer core)",
+    "Crust (outermost layer)",
+    "Concentric layer arrangement",
+    "Gradient coloring within layers",
+    "Scientific labels for Earth's layers (crust, mantle, outer core, inner core)",
+    "The diagram centrally placed in the image"
+  ]
+}

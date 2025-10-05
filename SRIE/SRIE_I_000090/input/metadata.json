@@ -1,0 +1,27 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "Apply a dark blue color to the coastal areas highlighted in binary mask on the map.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 2, the map of Kennedy Town, by recoloring the currently green-highlighted coastal area in its upper-right section, labeled 'Belcher Bay Promenade', to a dark blue. The exact shape and boundaries of this area are precisely defined by the white mask in image 1.",
+  "annotator": "Johnny",
+  "objects": [
+    "Map of Kennedy Town",
+    "Cityscape/Buildings on map",
+    "Roads/Streets on map",
+    "Coastal area/Water on map",
+    "Dark blue highlighted Belcher Bay Promenade area",
+    "\"Belcher Bay Promenade\" text label",
+    "Arrow pointing to the Belcher Bay Promenade area",
+    "MTR line on map",
+    "\"Kennedy Town MTR Station\" text label",
+    "MTR station icon"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,27 @@
+{
+  "subtopic": "Posters",
+  "prompt": "Create a striking 'Textual Graphics' poster about finding your path. Incorporate the metallic compass from the reference image as a central graphic element guiding the design.",
+  "cond_images": [
+    "1.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1750705602965,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "T",
+  "annotator": "winston",
+  "prompt_refined": "Generate a striking 'Textual Graphics' poster that visually explores the theme of 'finding your path'. Integrate the metallic compass depicted in image 1 as the central and prominent graphic element, positioned in the absolute center of the poster. The compass's details, including its shiny silver casing, black face, green markings, and red needle, should be clearly rendered. The surrounding textual graphics should creatively utilize typography and layout to suggest movement, direction, or a journey, dynamically flowing outwards from the compass to reinforce the concept of guidance and exploration.",
+  "objects": [
+    "metallic compass, central and prominent",
+    "shiny silver casing of the compass",
+    "black face of the compass",
+    "green markings on the compass face",
+    "red needle of the compass",
+    "textual graphics",
+    "typography creatively utilized within the textual graphics",
+    "layout of textual graphics suggesting movement, direction, or a journey",
+    "textual graphics dynamically flowing outwards from the compass"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

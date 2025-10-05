@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": "Mock up a retro 80s video rental store website with VHS tape navigation, neon pink and blue color scheme, scanline effects, pixel art movie posters, and a membership card signup form",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a screenshot of a retro 80s video rental store website. The website features a predominant neon pink and electric blue color scheme with prominent scanline effects across the entire screen, mimicking a CRT display. A horizontal navigation bar, composed of pixelated VHS tapes serving as buttons, is positioned at the top of the page. The central content area showcases a grid of pixel art movie posters. A distinct membership card signup form, styled with an 80s retro user interface, is clearly visible in the bottom-right corner of the screen.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Retro 80s video rental store website",
+    "Predominant neon pink and electric blue color scheme",
+    "Prominent scanline effects across the entire screen",
+    "Horizontal navigation bar at the top of the page",
+    "Pixelated VHS tapes serving as navigation buttons",
+    "Central content area",
+    "Grid of pixel art movie posters",
+    "Membership card signup form in the bottom-right corner",
+    "80s retro user interface styling"
+  ],
+  "human_annotation": true
+}

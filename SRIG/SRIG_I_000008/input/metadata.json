@@ -1,0 +1,26 @@
+{
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Visualize the provided organizational chart of a company as a medieval kingdom's royal court. The CEO is the monarch on a throne, and department heads are nobles, with the hierarchy clearly depicted through their positions and attire.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://venngage-wordpress.s3.amazonaws.com/uploads/2020/10/Muted-Organizational-Chart-Examples.png",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate an image depicting a medieval royal court, transforming the organizational structure shown in image 1. The 'CEO' from image 1 should be the central monarch, seated on a prominent, elevated throne. The three 'department' boxes ('department 1', 'department 2', 'department 3') from image 1 should be represented as three high-ranking nobles, positioned around the monarch, close to the throne, wearing rich, distinct medieval attire. The six 'job' boxes ('job 1' through 'job 6') from image 1 should be depicted as lower-ranking court members, positioned further back in the scene and at a lower elevation than the nobles, dressed in simpler, less ornate clothing. The entire composition must clearly convey the hierarchy from image 1 through character placement, elevation, and distinct period costumes within a grand throne room setting.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "A central monarch, seated on an elevated throne",
+    "A prominent, elevated throne",
+    "Three high-ranking nobles positioned around the monarch, close to the throne",
+    "Rich, distinct medieval attire on the high-ranking nobles",
+    "Six lower-ranking court members positioned further back in the scene",
+    "Lower elevation for the lower-ranking court members compared to the nobles",
+    "Simpler, less ornate clothing on the lower-ranking court members",
+    "A grand throne room setting",
+    "Character placement clearly conveying hierarchy",
+    "Character elevation clearly conveying hierarchy"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,18 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Word Clouds",
+  "prompt": "Craft a typographic piece where 'INSPIRATION' is the dominant word, visually supported by a cloud of smaller, related terms. Employ a bright, airy color scheme and a soft bokeh effect for the background.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A typographic design image featuring the word 'INSPIRATION' as the dominant, large, and centrally placed element. A cloud of smaller, related terms should be arranged around 'INSPIRATION', creating a swirling visual support. The overall color scheme is bright and airy, utilizing light pastels, whites, and soft gradients. The background displays a subtle, out-of-focus bokeh effect.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "The word 'INSPIRATION' (large, dominant, centrally placed typographic element)",
+    "Cloud of smaller, related terms (swirling around 'INSPIRATION')",
+    "Background with subtle, out-of-focus bokeh effect",
+    "Light pastel color scheme",
+    "White color scheme",
+    "Soft gradients"
+  ]
+}

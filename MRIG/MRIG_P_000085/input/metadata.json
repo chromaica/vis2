@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "A cheerful Chikorita referenced in the first image prancing in a sunny meadow, its broad, flat head leaf replaced by a crispy spring roll referenced in the second image. The spring roll matches the leaf\u2019s elongated, cylindrical shape, with a golden, flaky exterior and visible veggie filling at the edges, steaming faintly. The roll sways like a leaf, rooted to Chikorita\u2019s head.",
+  "cond_images": [
+    "1.png",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic image of a cheerful Chikorita, visually inspired by image 1, prancing in a vibrant, sunny meadow. Chikorita's characteristic large head leaf, as depicted in image 1, is replaced by a crispy spring roll, visually inspired by image 2. This spring roll should accurately mimic the elongated, somewhat cylindrical shape of Chikorita's original leaf. It features the golden, flaky exterior visible in image 2, with visible green and purple veggie filling at its cut ends, faintly steaming. The spring roll is firmly rooted at the top of Chikorita's head and appears to sway gently, mimicking the natural movement of a leaf.",
+  "objects": [
+    "Cheerful Chikorita",
+    "Vibrant meadow",
+    "Sunny environment",
+    "Chikorita's characteristic large head leaf (should not be present)",
+    "Crispy spring roll as Chikorita's head leaf",
+    "Golden, flaky spring roll exterior",
+    "Green and purple veggie filling visible in spring roll",
+    "Steaming spring roll",
+    "Spring roll swaying gently"
+  ],
+  "human_annotation": true
+}

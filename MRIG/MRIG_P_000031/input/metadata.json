@@ -1,0 +1,20 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Generate an image of a griffin where the eagle-like upper body (head, wings, and talons) matches the visual style, colors, and texture (e.g., feather patterns) of the eagle in the first reference image, and the lion-like lower body matches the visual style, fur, and build of the lion in the second reference image. Ensure a seamless transition at the midsection, with consistent lighting and perspective. Place the griffin perched on a rocky mountain peak under a stormy sky, rendered in a realistic art style.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic image of a griffin. The griffin's eagle-like upper body (head, wings, and talons) must precisely match the visual style, specific feather patterns, and dark brown and white coloring of the bald eagle in image 1. The lion-like lower body should replicate the robust build, golden-brown fur texture, and overall visual style of the male lion in image 2. Ensure a completely seamless anatomical transition at the midsection, maintaining consistent lighting and unified perspective throughout the creature. The griffin should be prominently perched on a rugged rocky mountain peak, set against a dramatic, stormy sky.",
+  "objects": [
+    "A photorealistic griffin",
+    "Griffin's eagle-like upper body (head, wings, talons)",
+    "Griffin's lion-like lower body",
+    "Rugged rocky mountain peak",
+    "Dramatic, stormy sky"
+  ]
+}

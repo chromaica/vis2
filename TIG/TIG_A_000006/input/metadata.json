@@ -1,0 +1,18 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Traditional art",
+  "prompt": "An elegant Renaissance-style portrait of a regal woman in a flowing gown, set against a lush garden backdrop.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A classical Renaissance oil painting portrait of a regal woman with a serene and dignified expression, adorned in a voluminous, richly textured flowing gown. The woman is positioned centrally, set against a verdant and expansive garden backdrop, featuring blooming flowers and subtle classical architecture in the distance.",
+  "annotator": "cwhsu",
+  "objects": [
+    "regal woman (positioned centrally)",
+    "voluminous, richly textured flowing gown",
+    "verdant and expansive garden backdrop",
+    "blooming flowers",
+    "subtle classical architecture in the distance"
+  ],
+  "human_annotation": true
+}

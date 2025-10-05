@@ -1,0 +1,24 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "Create a monster-catching game interface that uses creature designs from the first image and battle screen layout from the second image.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a screenshot of a monster-catching game's battle interface. The battling creatures should feature the distinct, cartoonish monster designs and vibrant color palette characteristic of image 1, while the overall scene, including the user interface (UI) elements and background, should adopt the pixel art style and layout of image 2. Specifically, place a player's monster in the lower-left and an opponent's monster in the upper-right, consistent with image 2. Implement the UI components from image 2: a health bar and info panel for the player's monster in the bottom-left corner, a similar panel for the opponent's monster in the top-right corner, and the command menu (Battle, Bag, Party, Run) in the bottom-right quadrant. The background should be a pixel art natural environment, mirroring image 2's forest setting.",
+  "annotator": "paria",
+  "objects": [
+    "Player's monster in the lower-left with cartoonish design and vibrant colors",
+    "Opponent's monster in the upper-right with cartoonish design and vibrant colors",
+    "Player's monster health bar and info panel in the bottom-left corner",
+    "Opponent's monster health bar and info panel in the top-right corner",
+    "Command menu (Battle, Bag, Party, Run) in the bottom-right quadrant",
+    "Pixel art natural environment background (forest setting)",
+    "Game battle interface layout",
+    "Overall pixel art style"
+  ],
+  "human_annotation": true
+}

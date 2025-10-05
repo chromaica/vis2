@@ -1,0 +1,18 @@
+{
+  "task": "SRIG",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Convert the meme template found in the reference image with the human in the photo turn into anime girl with pink hair",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate an image based on image 1. Transform the man in image 1 into an anime girl with pink hair. The anime girl should be depicted in the same pose, holding the white rectangular sign in front of her as seen in image 1. Maintain the overall composition, lighting, and blue curtain background from image 1.",
+  "annotator": "theblackcat",
+  "objects": [
+    "anime girl with pink hair",
+    "white rectangular sign held by the anime girl",
+    "blue curtain background",
+    "man from Image 1 (should not be present)"
+  ]
+}

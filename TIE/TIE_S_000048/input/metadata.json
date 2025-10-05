@@ -1,0 +1,26 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Mobile software interfaces",
+  "prompt": "Transform the top navigation bar into a serene oceanic blue, adding subtle wave patterns for a calming, immersive chat experience.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Transform the green top navigation bar in image 1 into a serene oceanic blue, incorporating subtle, faint wave patterns across its surface to achieve a calming and immersive appearance.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Top navigation bar (serene oceanic blue with subtle, faint wave patterns)",
+    "\"WhatsApp Web To Go\" text",
+    "Menu icon (hamburger icon)",
+    "Search icon",
+    "More options icon",
+    "Status bar (with time, battery, signal indicators)",
+    "WhatsApp chat list interface",
+    "WhatsApp settings menu interface",
+    "WhatsApp chat conversation interface",
+    "System navigation bar at the bottom"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

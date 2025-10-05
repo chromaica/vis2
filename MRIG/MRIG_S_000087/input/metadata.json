@@ -1,0 +1,27 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": "Design a screenshot of a car selling website that features cars from the first image on its homepage, styled with the layout and color theme from the second image.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a screenshot of a car selling website homepage. The website should adopt the dark color theme and layout structure from image 2. This includes a prominent black header with navigation links (e.g., Home, Inventory), a large hero section, and a dark search inventory bar positioned directly below it. The hero section should prominently feature one of the Acura ILX cars from image 1 (e.g., the blue 2016 Acura ILX 4dr Sdn), replacing the Mercedes-Benz. Display the car title and pricing information in white text with yellow/orange accents, consistent with image 2's style. Below the hero section and search bar, include a grid of multiple car listings, similar to the format in image 1, showcasing the remaining Acura ILX models from image 1. This grid section should also adhere to the dark background, white text, and yellow/orange highlight styling characteristic of image 2.",
+  "annotator": "paria",
+  "objects": [
+    "Dark color theme for the website",
+    "Black header with navigation links",
+    "Large hero section",
+    "Dark search inventory bar (positioned below hero)",
+    "Blue 2016 Acura ILX 4dr Sdn car (prominently featured in hero)",
+    "Car title and pricing information in white text with yellow/orange accents (in hero section)",
+    "Grid of multiple car listings",
+    "Remaining Acura ILX models (showcased in the grid)",
+    "Dark background, white text, and yellow/orange highlights for grid section",
+    "Mercedes-Benz car (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

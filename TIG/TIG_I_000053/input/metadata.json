@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "Design a meditation app icon featuring a zen stone balanced on water ripples, monochrome charcoal with single gold accent dot",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a minimalist meditation app icon. The design features a perfectly balanced stack of smooth zen stones, centrally placed, with their base subtly emerging from calm, concentric water ripples. The entire composition should be rendered in a monochrome charcoal palette, emphasizing dark gray tones and textures. A single, small, gold accent dot is subtly positioned on the topmost zen stone, acting as a focal point.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Perfectly balanced stack of smooth zen stones (centrally placed)",
+    "Calm, concentric water ripples (base of stones emerging from)",
+    "Single, small, gold accent dot (on topmost zen stone)",
+    "Monochrome charcoal palette",
+    "Dark gray tones",
+    "Emphasized textures"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

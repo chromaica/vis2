@@ -1,0 +1,27 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "Edit image 1 by digitally rendering the hand-drawn UI mockups, applying the light purple color from image 2 as the screen background fill, and using the bright purple color from image 3 for highlights and key interactive elements.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Transform the three hand-drawn mobile UI mockups into polished digital designs. For each screen, apply the light purple color from image 2 as the main screen background fill. Utilize the bright purple color from image 3 for all key interactive elements, including buttons, icons, and highlighted text.",
+  "annotator": "maxku",
+  "objects": [
+    "Three polished digital mobile UI screens",
+    "Light purple screen backgrounds",
+    "Bright purple interactive buttons",
+    "Bright purple icons",
+    "Text labels (e.g., \"Fluttertop\", headings, item names, prices)",
+    "Search bars",
+    "Restaurant/item listing cards",
+    "Placeholder image areas",
+    "Rating display",
+    "Category labels"
+  ],
+  "human_annotation": true
+}

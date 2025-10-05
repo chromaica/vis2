@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Game assets",
+  "prompt": "Make the character perform the same pose as the reference skeleton.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 so the character performs the same pose as the reference skeleton in image 2.",
+  "annotator": "nimajamali",
+  "objects": [
+    "Female character (Lara Croft)",
+    "Character performing the pose depicted by the reference skeleton",
+    "Bow",
+    "Quiver with arrows",
+    "Ancient Japanese-style temple in the background",
+    "Mountains in the background",
+    "Bridge in the background",
+    "Sunset or hazy sky",
+    "Birds in the sky",
+    "Character's worn clothing and dirty appearance"
+  ]
+}

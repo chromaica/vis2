@@ -1,0 +1,30 @@
+{
+  "subtopic": "Game assets",
+  "prompt": "Edit image 1, transforming the data display into a game asset interface like a character stats or crafting screen. Adopt the clean UI style and desk context suggested by image 2 for the overall layout. Integrate elements inspired by image 3, such as a 'quest log' section styled like the notebook or tool icons.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748455376901,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit the screen content of image 1. Transform the current data display into a functional game user interface (UI), such as a character statistics or crafting screen. For the overall layout and visual style of this game UI, adopt the clean, organized aesthetic and the realistic desk context suggested by image 2. Integrate specific UI elements inspired by image 3: include a 'quest log' section designed to visually mimic the physical notebook, and incorporate tool icons that resemble simple, everyday objects found on a desk.",
+  "annotator": "winston",
+  "objects": [
+    "Laptop",
+    "Laptop screen displaying a game UI",
+    "Game user interface (UI) for character statistics or crafting",
+    "'Quest log' section within the UI",
+    "Tool icons within the UI",
+    "'Quest log' section visually mimicking a physical notebook",
+    "Tool icons resembling simple, everyday desk objects",
+    "Clean and organized game UI layout",
+    "Realistic desk context",
+    "Physical keyboard of the laptop"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

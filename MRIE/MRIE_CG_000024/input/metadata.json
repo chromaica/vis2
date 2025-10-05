@@ -1,0 +1,29 @@
+{
+  "subtopic": "VFX and Particles",
+  "prompt": "Edit image 1 with VFX: Introduce glowing energy trails from the laptop, styled by the bright ambient light of image 2. Have these trails flow towards the desk area, forming a vibrant particle swarm surrounding the digital devices and objects seen in image 3.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748455320766,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1: Introduce luminous, glowing energy trails emanating specifically from the laptop present in image 1. Style these glowing trails to emulate the bright, soft ambient light quality observed in image 2. Direct these trails to flow downwards and spread across the desk area in image 1, coalescing into a vibrant particle swarm. This particle swarm should visually encompass and surround the digital devices and desk objects, similar to the phone, notebook, pen, and mug prominently displayed in image 3.",
+  "annotator": "winston",
+  "objects": [
+    "woman",
+    "laptop",
+    "luminous, glowing energy trails emanating from the laptop",
+    "vibrant particle swarm spreading across the desk",
+    "desk area",
+    "phone",
+    "notebook",
+    "pen",
+    "mug",
+    "plant"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,26 @@
+{
+  "subtopic": "Object detection visuals",
+  "prompt": "A computer graphics visualization for object detection. Feature the jacket from image 2 placed within a scene capturing the background environment of image 1. Clearly display object detection bounding boxes and labels around the jacket, rendered with accurate detection lines.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748422197867,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a new image featuring the blue jacket from image 2, positioned centrally. The background environment should replicate the light blue wall with playful cartoon elements seen in image 1. Overlay the jacket with a clear object detection bounding box and a 'Jacket' label. Ensure these visual elements are rendered in a precise, computer graphics style, resembling accurate machine learning detection visualizations. The overall image should serve as a computer graphics visualization for object detection.",
+  "annotator": "winston",
+  "objects": [
+    "Blue jacket, centrally positioned",
+    "Light blue wall background",
+    "Playful cartoon elements on background",
+    "Object detection bounding box",
+    "'Jacket' label",
+    "Computer graphics style",
+    "Machine learning detection visualization elements"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,23 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Stylized art",
+  "prompt": "A stylized and futuristic cityscape with this vintage camera as a hovering drone.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a full image depicting a stylized and futuristic cityscape. In the mid-ground, feature the vintage camera from image 1, reimagined as a hovering drone. The drone should clearly retain the distinct shape and aesthetic of the camera from image 1, while incorporating subtle elements that suggest flight and drone functionality, such as small integrated thrusters or glow. Position the camera-drone flying high above the city's towering, illuminated structures, capturing the futuristic atmosphere.",
+  "annotator": "Johnny",
+  "objects": [
+    "stylized cityscape",
+    "futuristic cityscape",
+    "hovering drone (reimagined vintage camera from image 1) in the mid-ground",
+    "distinct shape and aesthetic of the vintage camera (from image 1)",
+    "subtle integrated thrusters on the drone",
+    "glow on the drone",
+    "towering structures in the city",
+    "illuminated structures in the city",
+    "camera-drone flying high above the city"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Add a data annotation that explains the significance of the peak in network performance at 11:35 AM.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Add a data annotation to the 'Network Performance' graph, positioned above the 11:35 AM timestamp. This annotation should clearly state that the visible peak, or sharp increase in the graph at 11:35 AM, indicates the surge in network load and traffic directly caused by the start of the DDoS attack.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Network Performance graph (pink area)",
+    "Timestamp labels (e.g., 11:30 AM, 11:35 AM, 11:40 AM, 11:45 AM, August 19, 2021)",
+    "Vertical line at 11:35 AM",
+    "\"DDoS attack begins\" label",
+    "\"Network Performance\" graph label",
+    "IP address labels (e.g., 192.168.1.6, 10.128.189.197)",
+    "Network activity dots and arrows (red and blue)",
+    "Horizontal grid lines",
+    "Data annotation positioned above the 11:35 AM timestamp, stating: \"visible peak, or sharp increase in the graph at 11:35 AM, indicates the surge in network load and traffic directly caused by the start of the DDoS attack.\""
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

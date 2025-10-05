@@ -1,0 +1,17 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "Texture Map",
+  "prompt": "A diffuse map of lush green grass, scattered with tiny yellow and white flowers.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A seamless diffuse texture map of vibrant, lush green grass. Tiny, delicate yellow and white wildflowers are randomly scattered throughout the entire surface.",
+  "annotator": "maxku",
+  "objects": [
+    "vibrant, lush green grass",
+    "tiny, delicate yellow wildflowers",
+    "tiny, delicate white wildflowers"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

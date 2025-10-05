@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "Generate an electronics store receipt listing a laptop, mouse, and HDMI cable. Use the barcode formatting from the first image and the logo from the second.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a detailed electronics store receipt on white paper. The receipt should prominently display the 'ELECTRONIQUE' logo from image 2 at its very top as the store's branding. Below the logo, include itemized listings for a laptop, a computer mouse, and an HDMI cable, each with a price. Integrate a 1D barcode below the itemized list, precisely replicating the visual style and numerical formatting (e.g., #00000XX#) of the 1D barcode found in image 1. The receipt should also feature a timestamp (date and time), a transaction ID, and a subtotal/total amount. Include a QR code and a fictional website address at the bottom of the receipt, positioned similarly to those in image 1.",
+  "annotator": "paria",
+  "objects": [
+    "White paper receipt",
+    "'ELECTRONIQUE' logo at the very top",
+    "Itemized listings for a laptop, a computer mouse, and an HDMI cable, each with a price",
+    "1D barcode below the itemized list, replicating the style and numerical formatting of image 1",
+    "Timestamp (date and time)",
+    "Transaction ID",
+    "Subtotal amount",
+    "Total amount",
+    "QR code at the bottom of the receipt, positioned similarly to image 1",
+    "Fictional website address at the bottom of the receipt, positioned similarly to image 1"
+  ],
+  "human_annotation": true
+}

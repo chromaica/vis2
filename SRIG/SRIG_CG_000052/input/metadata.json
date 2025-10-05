@@ -1,0 +1,25 @@
+{
+  "subtopic": "Depth maps",
+  "prompt": "Using the reference image's layered grayscale style, generate a computer graphics representation visualizing depth for a different organic form, like a 3D depth map rendering.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://i.pinimg.com/474x/5c/f2/17/5cf2173bae7fe581b61cd6c9e02ec691.jpg",
+  "promptGeneratedTimestamp": 1748768195416,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate an image in the distinct layered grayscale rendering style of image 1. The image should depict a new, complex organic form (e.g., a twisted root system, a coral structure, or an abstract anatomical shape), not a human figure. Utilize varying shades of gray to effectively visualize depth, with lighter tones representing elements closer to the viewer and darker tones receding into the background. Each depth layer must be represented by a distinct, uniform shade of gray, creating clear contour-like steps rather than smooth gradients. The subject should be set against a solid black background.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Complex organic form",
+    "Solid black background",
+    "Human figure (should not be present)",
+    "Layered grayscale rendering",
+    "Varying shades of gray visualizing depth",
+    "Lighter tones representing elements closer to the viewer",
+    "Darker tones representing elements receding into the background",
+    "Distinct, uniform shade of gray for each depth layer",
+    "Clear contour-like steps"
+  ]
+}

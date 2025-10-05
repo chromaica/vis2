@@ -1,0 +1,26 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": "Overlay Ben-Day dots and flat primary color blocks like the reference.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Transform its visual style to match image 2, by applying an overlay of prominent Ben-Day dots across the entire image and rendering all colors as flat, distinct primary color blocks.",
+  "annotator": "matina",
+  "objects": [
+    "comic panel frame",
+    "\"THE NEXT NIGHT...\" text",
+    "two speech bubbles",
+    "dialogue text within speech bubbles",
+    "blonde woman character",
+    "dark-haired woman character",
+    "red background",
+    "blue vertical bars on sides",
+    "prominent Ben-Day dot pattern"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

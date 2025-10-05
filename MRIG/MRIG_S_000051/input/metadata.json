@@ -1,0 +1,27 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "Create a screenshot of a game leaderboard, displaying player rankings from the first image and using the overall layout and theme from the second image.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a game leaderboard screenshot. Incorporate the dark blue, futuristic, and glowing tech-inspired background theme, along with the central rounded rectangular panel and 'LEADERBOARD' title from image 2. Populate the leaderboard entries with the player names, their corresponding scores, and their unique circular avatars as presented in image 1. The ranking indicators should match image 1, using gold, silver, and bronze medals for the top three players and numbers for players 4 and 5, positioned on the left side of each entry as depicted in image 2. Each player entry should also include the star rating visual element as seen in image 2, positioned before the score.",
+  "annotator": "paria",
+  "objects": [
+    "Dark blue, futuristic, glowing tech-inspired background theme",
+    "Central rounded rectangular panel",
+    "\"LEADERBOARD\" title",
+    "Five leaderboard player entries",
+    "Unique circular player avatars (from Image 1)",
+    "Player names (from Image 1)",
+    "Player scores (from Image 1)",
+    "Gold, silver, and bronze medal ranking indicators (left side of entry)",
+    "Numerical ranking indicators 4 and 5 (left side of entry)",
+    "Star rating visual element for each entry (positioned before score)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

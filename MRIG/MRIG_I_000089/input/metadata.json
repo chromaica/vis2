@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Generate a decision tree that helps users pick a vacation type. Use Image 1 for winter/adventure getaways, Image 2 for beach/relaxation, and Image 3 for culture/history trips. Design the decision points around climate preference, activity level, and scenery.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpeg",
+    "3.png"
+  ],
+  "remarks": "",
+  "annotator": "matina",
+  "prompt_refined": "Generate a decision tree graphic designed to help users pick a vacation type.\n\nThe tree should start with a top-level node for the initial decision. The first major decision point, prominently positioned, should be 'Climate Preference?'.\n*   A branch for 'Cold Climate' should lead directly to the 'Winter/Adventure Getaways' outcome. This outcome section should visually integrate elements inspired by Image 1 (e.g., snowy mountain landscapes, skiers, winter sports).\n*   A branch for 'Warm/Moderate Climate' should lead to a subsequent decision point, visually positioned below the 'Climate Preference' node.\n\nThis second decision point, branching from 'Warm/Moderate Climate', should be 'Activity Level & Scenery Preference?'.\n*   One path from this node, for users preferring 'Relaxed Activity & Natural Beauty', should lead to the 'Beach/Relaxation' outcome. This outcome section should visually integrate elements inspired by Image 2 (e.g., sandy beaches, palm trees, ocean views).\n*   The other path, for users desiring 'Engaging Activity & Historic Sites', should lead to the 'Culture/History Trips' outcome. This outcome section should visually integrate elements inspired by Image 3 (e.g., ancient architecture, historical ruins).\n\nEnsure the decision tree has clear, legible text for all decision points and outcomes, with a logical flow indicated by lines or arrows. The visual elements drawn from the conditioning images should be seamlessly incorporated to enhance the representation of each vacation type.",
+  "objects": [
+    "Decision tree graphic structure (nodes, lines/arrows)",
+    "\"Climate Preference?\" text node",
+    "\"Winter/Adventure Getaways\" text outcome",
+    "Snowy mountain landscape",
+    "Skiers or winter sports elements",
+    "\"Activity Level & Scenery Preference?\" text node",
+    "\"Beach/Relaxation\" text outcome",
+    "Sandy beach with palm trees and ocean",
+    "\"Culture/History Trips\" text outcome",
+    "Ancient architecture or historical ruins"
+  ]
+}

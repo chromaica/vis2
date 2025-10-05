@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "Edit image 1 by replacing the existing black-and-white QR code on the Amazon return summary card the green Starbucks QR code from image 2, ensuring the size and position remain the same. Then, recolor the top header of the Amazon card to the same blue used in the JustPark pass from image 3. Do not change any other cart items or background elements.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, which displays an Amazon Return Summary Card. Replace the black-and-white QR code, centrally located on the card, with the green Starbucks QR code from image 2, maintaining the precise size and position of the original QR code. Furthermore, recolor the upper white section of the Amazon card (the area above the 'Send By' and 'Return Ship Method' grey bar, which includes the 'amazon' logo and 'Return Summary Card' title) to the exact blue hue present in the JustPark pass from image 3. Preserve all other elements within the Amazon card (like the item descriptions and RMA ID) and the surrounding background unchanged.",
+  "annotator": "parnian",
+  "objects": [
+    "Surrounding background",
+    "Amazon Return Summary Card",
+    "Upper blue section of the Amazon card",
+    "'amazon' logo",
+    "'Return Summary Card' title",
+    "Grey bar with 'Send By' and 'Return Ship Method' details",
+    "Item description block",
+    "Green Starbucks QR code",
+    "RMA ID '21429593409'",
+    "Black-and-white QR code (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

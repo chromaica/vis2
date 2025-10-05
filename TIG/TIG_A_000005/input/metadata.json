@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Traditional art",
+  "prompt": "A vibrant impressionistic painting of a bustling Parisian caf\u00e9, filled with patrons and artists, under soft streetlights.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A vibrant impressionistic painting of a bustling Parisian caf\u00e9. The caf\u00e9 building stands in the background, with its outdoor seating area extending into the midground, occupied by numerous patrons and artists seated at small tables. Soft streetlights positioned above cast a warm glow across the entire scene, emphasizing the lively atmosphere.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Parisian caf\u00e9 building (in background)",
+    "Outdoor seating area (extending into midground)",
+    "Patrons",
+    "Artists",
+    "Small tables",
+    "Soft streetlights (positioned above)",
+    "Warm glow (across the scene)"
+  ],
+  "human_annotation": true
+}

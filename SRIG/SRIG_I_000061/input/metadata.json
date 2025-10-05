@@ -1,0 +1,25 @@
+{
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Design a sports tournament bracket graphic using the structure shown in the supplied bracket template.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "https://edit.org/img/blog/pw4-tournament-bracket-generator-online-editor-templates-free-printable.jpg",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate a sports tournament bracket graphic. The graphic should adopt the exact structural layout, including the number and arrangement of entry and progression boxes, as well as the connecting lines, from image 1. The header text from image 1 should be replaced with a specific sports-related tournament title, such as 'Basketball Championship Playoffs' or 'Annual Soccer Cup'. The blank rounded rectangles on the left, middle, and right should be filled with placeholder text representing team names and round winners, consistent with a sports tournament theme. Maintain the clean, infographic style and the two-tone green color scheme shown in image 1.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Dark green background",
+    "Light green central panel",
+    "Sports tournament title text (e.g., 'Basketball Championship Playoffs')",
+    "Horizontal line below the title text",
+    "Subtitle text: \"Find more editable templates to print at the online graphic editor EDIT.org\"",
+    "Four rounded rectangles on the left, filled with placeholder text",
+    "Two rounded rectangles in the middle, filled with placeholder text",
+    "One rounded rectangle on the right, filled with placeholder text",
+    "Connecting lines forming the bracket structure",
+    "Clean infographic style"
+  ],
+  "human_annotation": true
+}

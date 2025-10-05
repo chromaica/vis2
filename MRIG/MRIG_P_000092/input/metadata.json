@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Generate a photorealistic cityscape based on the provided base photo referenced in the first image, incorporating the dotted, stippled technique and vibrant color separation of the Pointillist painting style from the second reference image. Retain hyper-realistic details in buildings, streets, and atmospheric perspective, with accurate lighting and shadows. The Pointillist effect should appear as subtle, pixel-like color dots and delicate tonal blending, seamlessly integrated to preserve the photorealistic essence of the urban scene.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a new photorealistic cityscape image. The composition, perspective, urban environment, and architectural style of the buildings should be based on image 1, including the general street layout and atmospheric perspective. Incorporate the distinctive dotted, stippled technique and the concept of colors being formed by separated, vibrant dots, as exemplified by the Pointillist painting style in image 2. The Pointillist effect should be applied subtly, appearing as fine, pixel-like color dots and delicate tonal blending across all elements of the urban scene \u2013 buildings, streets, and sky. Crucially, the integration must be seamless, maintaining hyper-realistic details, accurate lighting, and realistic shadows to preserve the photorealistic essence of the cityscape.",
+  "objects": [
+    "Photorealistic cityscape",
+    "Tall city buildings (with architectural style reflecting image 1)",
+    "City street (with layout and perspective reflecting image 1)",
+    "Vehicles",
+    "Pedestrians",
+    "Urban elements (e.g., streetlights, flags, sidewalks, road markings)",
+    "Sky",
+    "Subtle dotted/stippled texture across all elements",
+    "Colors formed by separated, vibrant dots",
+    "Realistic lighting and shadows"
+  ]
+}

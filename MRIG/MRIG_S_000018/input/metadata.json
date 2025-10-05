@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Generate a minimalist mail application interface using the sidebar folder structure from the first image and the typography and color scheme from the second image.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a minimalist mail application interface. On the left side of the screen, present a detailed sidebar mirroring the exact folder structure, icons, and item hierarchy (including 'Favorites', 'Folders', 'Inbox', 'Sent Items', 'Drafts', 'Deleted Items', 'Junk Email', 'Notes', 'Archive', 'Conversation History', 'Search Folders', and 'Go to Groups') as depicted in image 1. Ensure numeric unread indicators are visible next to relevant folders, consistent with image 1. Apply a clean, modern sans-serif typography, similar to the text samples ('Color Theory', 'Palettes') shown in image 2. Utilize the 'Primary Purple' (#6200EE) and 'Secondary Orange' (#F4511E) from image 2 as accent colors for interactive elements, selected states, and iconography, set against a predominantly white or light-grey minimalist background for the overall interface.",
+  "annotator": "paria",
+  "objects": [
+    "minimalist mail application interface",
+    "detailed sidebar on the left side of the screen",
+    "folder structure and hierarchy from Image 1 (including 'Favorites', 'Folders', 'Inbox', 'Sent Items', 'Drafts', 'Deleted Items', 'Junk Email', 'Notes', 'Archive', 'Conversation History', 'Search Folders', 'Go to Groups')",
+    "icons for each folder/item from Image 1",
+    "numeric unread indicators next to relevant folders",
+    "clean, modern sans-serif typography",
+    "'Primary Purple' (#6200EE) accent color",
+    "'Secondary Orange' (#F4511E) accent color",
+    "predominantly white or light-grey minimalist background"
+  ],
+  "human_annotation": true
+}

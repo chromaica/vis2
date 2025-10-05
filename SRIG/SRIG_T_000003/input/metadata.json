@@ -1,0 +1,20 @@
+{
+  "task": "SRIG",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Render a meme like the facial expression found in the reference image but with persian cat",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a Persian cat displaying the exaggerated, wide-open 'laughing wolf' facial expression from the wolf on the left in image 1.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Persian cat",
+    "Wide-open mouth",
+    "Visible teeth",
+    "Visible tongue"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

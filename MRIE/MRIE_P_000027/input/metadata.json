@@ -1,0 +1,24 @@
+{
+  "task": "MRIE",
+  "topic": "P",
+  "subtopic": "Scenic Nature Parks",
+  "prompt": "Remove the rhinos from the first image. Then add the bulldog from the second image and the dog from the third image to the scene. Make sure the dog from the third image is trying to catch up with the bulldog in front.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit Image 1: Remove the adult rhino and the baby rhino from the muddy dirt road. In their place, on the same muddy dirt road, add the running bulldog from Image 2. Position this bulldog further down the path, moving away from the viewer. Behind the bulldog, also on the muddy road, add the running dog from Image 3, ensuring it appears to be actively chasing and trying to catch up with the bulldog.",
+  "annotator": "boris",
+  "objects": [
+    "muddy dirt road",
+    "green foliage",
+    "adult rhino (should not be present)",
+    "baby rhino (should not be present)",
+    "running bulldog from Image 2, further down the path, moving away from viewer",
+    "running dog from Image 3, behind the bulldog, actively chasing the bulldog"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

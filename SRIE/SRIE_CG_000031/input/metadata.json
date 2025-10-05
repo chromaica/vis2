@@ -1,0 +1,24 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "CAD models",
+  "prompt": "Make the handle thicker and add a textured grip.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the computer-rendered silver-grey mug shown in image 1. Make the handle, located on the right side, noticeably thicker. Additionally, apply a prominent textured grip to the surface of this handle. Image 2, a close-up of the handle, serves as a visual reference for its initial appearance.",
+  "annotator": "nimajamali",
+  "objects": [
+    "computer-rendered mug",
+    "silver-grey mug",
+    "mug handle on the right side",
+    "thicker mug handle",
+    "prominent textured grip on the handle",
+    "reflection of the mug",
+    "grid surface"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

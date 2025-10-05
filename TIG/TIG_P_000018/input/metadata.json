@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "Zoomed-in colorful crystal structure, showing geometric patterns and reflections.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Photorealistic extreme close-up of a vibrant, multicolored crystal structure. Its multifaceted surfaces intricately display sharp geometric patterns and numerous brilliant reflections, highlighting its polished, translucent quality.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Crystal structure",
+    "Vibrant colors",
+    "Multicolored appearance",
+    "Multifaceted surfaces",
+    "Sharp geometric patterns",
+    "Brilliant reflections",
+    "Polished quality",
+    "Translucent quality",
+    "Extreme close-up perspective"
+  ],
+  "human_annotation": true
+}

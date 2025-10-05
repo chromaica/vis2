@@ -1,0 +1,23 @@
+{
+  "task": "SRIG",
+  "topic": "T",
+  "subtopic": "Newspaper",
+  "prompt": "Create a newspaper front page that features the car crash incident during the 2025 GT Championship. The newspaper is published by 'The Daily Times'. The image should be placed at the right side of the headline, where the left side is the news content.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "annotator": "donaldtsang",
+  "prompt_refined": "Generate a newspaper front page. The masthead at the top of the page must clearly read 'The Daily Times'. The primary headline, positioned centrally across the top, should announce a significant car crash incident from the 2025 GT Championship. Below this main headline, image 1, depicting a severely damaged white, red, and black Nissan race car (number 23) overturned at a track with fire department personnel present, should be prominently displayed on the right side of the page. On the left side, adjacent to image 1 and also beneath the main headline, include blocks of news content formatted as newspaper text columns describing the incident.",
+  "objects": [
+    "Newspaper front page layout",
+    "'The Daily Times' masthead at the top",
+    "Primary headline announcing a significant car crash incident from the 2025 GT Championship, positioned centrally across the top",
+    "Image depicting a severely damaged white, red, and black Nissan race car (number 23) overturned",
+    "Fire department personnel in the image",
+    "Race track background in the image",
+    "The image prominently displayed on the right side of the page",
+    "Blocks of news content formatted as newspaper text columns on the left side of the page",
+    "News content describing the car crash incident within the text columns"
+  ]
+}

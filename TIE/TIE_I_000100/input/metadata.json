@@ -1,0 +1,25 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Add a circular arrow around the Venn diagram to indicate continuous improvement in all areas.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, which displays a four-circle Venn diagram. Add a single, continuous circular arrow around the perimeter of the entire Venn diagram, positioned outside the existing circles. The arrow should clearly indicate a cyclical flow, symbolizing continuous improvement across all elements of the diagram.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Four-circle Venn diagram",
+    "Red circle with \"Business model\" label",
+    "Yellow circle with \"Interface design\" label",
+    "Blue circle with \"Technology\" label",
+    "Green circle with \"Service design\" label",
+    "Overlapping regions of the Venn diagram",
+    "\"UX\" text",
+    "Single, continuous circular arrow",
+    "Arrow positioned around the perimeter of the Venn diagram, outside the existing circles"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

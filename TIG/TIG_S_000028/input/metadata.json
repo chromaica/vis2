@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": "Create a mockup for a veterinary clinic website with soft, pet-friendly colors, paw print navigation elements, before/after photo galleries, and an emergency contact banner",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a web design mockup for a veterinary clinic homepage with a clean, modern aesthetic. The color palette should feature soft, pet-friendly pastels, such as muted greens, creams, and light blues. A top-level navigation bar should be visible at the header, with subtle paw print motifs integrated into the design of the navigation links or buttons. A prominent section in the main content area should be dedicated to a 'Before & After' photo gallery, showcasing pet transformations. Include a highly visible emergency contact banner, potentially positioned as a sticky header or footer, displaying essential contact information.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Web design layout for a veterinary clinic homepage",
+    "Top-level navigation bar (at header)",
+    "Paw print motifs (on navigation links/buttons)",
+    "'Before & After' photo gallery section",
+    "Pet transformation photos (within gallery)",
+    "Emergency contact banner (sticky header/footer)",
+    "Essential contact information (on banner)",
+    "Muted green color elements",
+    "Cream color elements",
+    "Light blue color elements"
+  ]
+}

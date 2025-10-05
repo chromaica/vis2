@@ -1,0 +1,23 @@
+{
+  "task": "MRIE",
+  "topic": "P",
+  "subtopic": "Scenic Nature Parks",
+  "prompt": "Make the bird in the second image stand on the nose of the dog from the first image, additionally adding the bubbles in the third image to the background.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 (the dog). Place the bird from image 2, standing stably on the tip of the dog's nose. In the background of image 1, integrate the floating bubbles from image 3, ensuring they appear naturally dispersed behind the dog.",
+  "annotator": "boris",
+  "objects": [
+    "Dog",
+    "Bird from image 2, standing stably on the tip of the dog's nose",
+    "Green grass in the foreground/midground (from image 1)",
+    "Blurred green background (from image 1)",
+    "Floating bubbles from image 3, naturally dispersed behind the dog"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

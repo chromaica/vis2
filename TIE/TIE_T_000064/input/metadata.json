@@ -1,0 +1,21 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "Change the pointing figure to a developer avatar, and add a keyboard in his hand.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Transform the central figure, Uncle Sam, into a modern developer avatar. The developer avatar should maintain the original direct gaze towards the viewer. Replace the currently pointing right hand of the figure with a standard computer keyboard, held naturally in his hand.",
+  "annotator": "matina",
+  "objects": [
+    "modern developer avatar",
+    "standard computer keyboard",
+    "\"I WANT YOU FOR ROCKET\" text",
+    "\"58th ARTILLERY COMMAND\" text",
+    "poster background",
+    "red and blue border"
+  ],
+  "human_annotation": true
+}

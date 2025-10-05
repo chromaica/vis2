@@ -1,0 +1,22 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Image Transformation",
+  "prompt": "Blur all non-edge areas and keep edges sharp.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Apply a blur to all areas not defined by the edges in image 2. Ensure that the edges defined in image 2 remain sharp.",
+  "annotator": "nimajamali",
+  "objects": [
+    "yellow bicycle",
+    "green grass",
+    "tree",
+    "fence",
+    "fallen leaves"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

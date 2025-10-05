@@ -1,0 +1,28 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Tables",
+  "prompt": "Add a new row above \"Physical Body\" titled \"Technology\" with subcategories of \"Innovation\" and \"Progress\".",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, a synoptic table. Insert a new row directly above the 'Physical Body' row. For this new row:\n- In the 'Principle' column, add 'Technology' as the title, accompanied by a suitable icon.\n- In the 'Ideal' column, add 'Innovation' and 'Progress' as distinct subcategories, each on a separate line.\nEnsure the new row's design, including font, layout, and background, matches the existing table rows seamlessly.",
+  "annotator": "cwhsu",
+  "objects": [
+    "The original synoptic table header: Principle, Ideal, Nourishment, Price, Activity.",
+    "The original \"SYNOPTIC TABLE\" text label on the left.",
+    "The 'Spirit' row with its content and icon.",
+    "The 'Soul' row with its content and icon.",
+    "The 'Intellect' row with its content and icon.",
+    "The 'Heart' row with its content and icon.",
+    "The 'Will' row with its content and icon.",
+    "A new table row inserted directly above the 'Physical Body' row.",
+    "'Technology' text in the 'Principle' column of the new row.",
+    "A suitable icon accompanying 'Technology' in the 'Principle' column of the new row.",
+    "'Innovation' text in the 'Ideal' column of the new row.",
+    "'Progress' text on a separate line below 'Innovation' in the 'Ideal' column of the new row.",
+    "The 'Physical Body' row, now positioned below the new row, with its original content and icon."
+  ],
+  "human_annotation": true
+}

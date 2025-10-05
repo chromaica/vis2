@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Reimagine a Boeing 747 referenced in the first image as a mythical griffin referenced in the second image. The iconic, hump-backed fuselage is robust, covered in golden-brown feather-like plating with lion-like textures on the rear. The 747\u2019s massive wings are eagle-like with intricate feather patterns, each mounting two Pratt & Whitney JT9D engines (four total) under the wings. The cockpit is regal, with a sharp, beak-like nose and piercing yellow eyes. The tail is long and lion-like, with a rear thruster for agility.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic image of a creature that fuses the Boeing 747 from image 1 with the mythical griffin from image 2. The creature's robust, hump-backed fuselage, inspired by image 1, is covered in golden-brown feather-like plating with lion-like textures at the rear, drawing from image 2. Its massive wings, similar to the 747's (image 1), are eagle-like with intricate feather patterns from the griffin (image 2), each supporting two Pratt & Whitney JT9D engines (four total) beneath them. The cockpit area forms a regal head with a sharp, beak-like nose and piercing yellow eyes, characteristic of the griffin (image 2). A long, lion-like tail, as depicted in image 2, extends from the rear, featuring a thruster for agility.",
+  "objects": [
+    "Photorealistic creature (fused Boeing 747 and griffin)",
+    "Robust, hump-backed fuselage with golden-brown feather-like plating",
+    "Lion-like textures at the rear of the fuselage",
+    "Massive eagle-like wings with intricate feather patterns",
+    "Four Pratt & Whitney JT9D engines (two beneath each wing)",
+    "Regal head formed from cockpit area",
+    "Sharp, beak-like nose",
+    "Piercing yellow eyes",
+    "Long, lion-like tail",
+    "Thruster on the tail"
+  ],
+  "human_annotation": true
+}

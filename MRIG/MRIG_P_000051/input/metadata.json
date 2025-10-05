@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Generate a toaster with panther style based on the first reference image: a sleek stainless steel toaster. Shape and style it using the second reference image: a panther with glossy black fur and piercing green eyes. The toaster should have a panther\u2019s sleek curves, with glowing eye-like buttons and claw-inspired slots, set in a modern minimalist kitchen.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic image of a custom toaster, designed with a distinct 'panther style'. The toaster's core structure and form, including its sleek, rectangular body, control lever, and button layout, should be derived from image 1 (a sleek stainless steel toaster). Integrate visual elements from image 2 (a black panther) by giving the toaster a glossy black finish, mimicking the panther's sleek, muscular curves. The toaster should prominently feature two glowing, piercing green eye-like buttons and two vertical slots designed to resemble sharp claws. This custom toaster should be positioned on a clean countertop within a bright, modern, and minimalist kitchen environment.",
+  "objects": [
+    "Photorealistic custom toaster",
+    "Sleek, rectangular toaster body",
+    "Toaster control lever",
+    "Toaster button layout",
+    "Glossy black finish on toaster",
+    "Toaster with sleek, muscular curves",
+    "Two glowing, piercing green eye-like buttons on toaster",
+    "Two vertical slots on toaster resembling sharp claws",
+    "Clean countertop",
+    "Bright, modern, and minimalist kitchen environment"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Medical images",
+  "prompt": "An ECG printout displaying a regular heart rhythm with clear peaks and valleys, highlighted on a green glowing graph paper background.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A photorealistic image of an ECG printout, clearly displaying a regular heart rhythm with distinct peaks and valleys. The printout is set against a vibrant, luminous emerald green graph paper background.",
+  "annotator": "cwhsu",
+  "objects": [
+    "ECG printout",
+    "Regular heart rhythm waveform",
+    "Distinct peaks and valleys (on the waveform)",
+    "Vibrant, luminous emerald green graph paper background"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "Generate the phrase 'BRIGHT & SWEET' in three segments: use the font from image 3 for 'BRIGHT', fill each letter with a different rainbow stripe from image 1, and wrap 'SWEET' in a candy-shell effect inspired by the striped candy in image 2.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate the phrase 'BRIGHT & SWEET' as a textual graphic.\n\nFor 'BRIGHT', use the bold, rounded, sans-serif font from image 3. Each letter of 'BRIGHT' should be filled with a distinct, sequential color from the rainbow in image 1 (e.g., 'B' with red, 'R' with orange, 'I' with yellow, and so on). The '&' symbol should adopt the same font style as 'BRIGHT' and be filled with the next sequential rainbow color.\n\nFor 'SWEET', apply a candy-shell effect: each letter should resemble a round, hard candy with the blue and yellow diagonal stripes from image 2. The entire word 'SWEET' should be depicted as if wrapped in the translucent blue candy wrapper, including its ruffled ends, as seen in image 2.",
+  "annotator": "parnian",
+  "objects": [
+    "The phrase \"BRIGHT & SWEET\" as a textual graphic",
+    "The word 'BRIGHT' rendered in bold, rounded, sans-serif font",
+    "Letters of 'BRIGHT' filled with distinct, sequential rainbow colors (red, orange, yellow, green, blue, purple)",
+    "Ampersand symbol '&' rendered in bold, rounded, sans-serif font",
+    "Ampersand symbol '&' filled with the next sequential rainbow color",
+    "The word 'SWEET' with a candy-shell effect",
+    "Letters of 'SWEET' resembling round, hard candies",
+    "Blue and yellow diagonal stripes on the 'SWEET' letters",
+    "Translucent blue candy wrapper around the entire word 'SWEET'",
+    "Ruffled ends on the candy wrapper"
+  ],
+  "human_annotation": true
+}

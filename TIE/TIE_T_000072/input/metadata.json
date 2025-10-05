@@ -1,0 +1,20 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "Transform the chalk lettering into a woodcut-style relief",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Transform the white chalk-style text and lettering that forms the human face and signature into a woodcut-style relief.",
+  "annotator": "matina",
+  "objects": [
+    "human face formed by text",
+    "text and lettering",
+    "woodcut-style relief",
+    "signature \"BY DIKS J 2009\"",
+    "dark background"
+  ],
+  "human_annotation": true
+}

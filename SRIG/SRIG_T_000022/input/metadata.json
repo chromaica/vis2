@@ -1,0 +1,23 @@
+{
+  "task": "SRIG",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "generate an image with the word 'silicovolcanoconiosis' in the style of the given image",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate an image featuring the word 'silicovolcanoconiosis' spelled out using individual wooden Scrabble tiles. The tiles should have dark, blocky sans-serif letters and small subscript numerical values, matching the typographic style and material characteristics observed in image 1. Arrange the tiles centrally on a clean, plain, off-white background, with soft, even lighting that casts subtle shadows, giving the tiles a tangible, three-dimensional appearance consistent with the overall presentation in image 1.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Individual wooden Scrabble tiles",
+    "The word 'silicovolcanoconiosis' spelled out on tiles",
+    "Dark, blocky sans-serif letters on tiles",
+    "Small subscript numerical values on tiles",
+    "Clean, plain, off-white background",
+    "Tiles arranged centrally",
+    "Soft, even lighting",
+    "Subtle shadows"
+  ],
+  "human_annotation": true
+}

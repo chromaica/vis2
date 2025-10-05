@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "Generate a UI mockup of an online math quiz screen. Use Image 1 for the question section, Image 2 for answer choices, and Image 3 for the timer placement.",
+  "cond_images": [
+    "1.jpg",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "annotator": "matina",
+  "prompt_refined": "Generate a UI mockup for an online math quiz screen. The main question display area, resembling Image 1, should be positioned centrally at the top. Below this, include multiple answer choices, each with a selectable element styled after the rounded square in Image 2. A circular countdown timer, like the one in Image 3, should be placed prominently in the top-right corner of the screen.",
+  "objects": [
+    "online math quiz UI mockup screen",
+    "main question display area centrally at the top",
+    "question text",
+    "multiple answer choice elements",
+    "selectable rounded square elements for answer choices",
+    "answer choice text",
+    "circular countdown timer in the top-right corner",
+    "countdown timer numerical display",
+    "countdown timer progress bar"
+  ]
+}

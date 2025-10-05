@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": "Generate a screenshot of a PDF compressor website using the upload interface from the first image and the color theme from the color palette shown in the second image.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a screenshot of a modern PDF compressor website interface. The central part of the screen must prominently display the exact upload interface layout from image 1, including the large 'Choose files' button, the text '... or drop files here' below it, and the 'By using this function, you accept our terms of service' disclaimer. Position the '4.9 (8,193 votes)' with a star icon in the top-left corner, and the 'Download Desktop App' link in the top-right corner. In the bottom-left corner, include 'File protection is active' with its green checkmark, and in the bottom-right, add the navigation arrows and a plus icon. The entire interface design must adopt the color theme from image 2: use the lightest blue (#8ecae6) for the main background of the content area. The 'Choose files' button should be the orange color (#fb8500). All text and accent elements (such as the 'Download Desktop App' link, 'terms of service' disclaimer, and rating text) should utilize the dark blue (#023047) or medium blue (#219ebc) from the palette for clear readability. The dashed border from image 1 should be rendered in a medium blue (#219ebc).",
+  "annotator": "paria",
+  "objects": [
+    "Screenshot of a modern PDF compressor website interface",
+    "Main content area background in lightest blue (#8ecae6)",
+    "Dashed border in medium blue (#219ebc)",
+    "Large 'Choose files' button (orange, #fb8500)",
+    "Text '... or drop files here'",
+    "'By using this function, you accept our terms of service' disclaimer",
+    "'4.9 (8,193 votes)' with a star icon in the top-left corner",
+    "'Download Desktop App' link in the top-right corner",
+    "'File protection is active' with its green checkmark in the bottom-left corner",
+    "Navigation arrows and a plus icon in the bottom-right corner"
+  ],
+  "human_annotation": true
+}

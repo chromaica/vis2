@@ -1,0 +1,20 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "A mystical forest with glowing plants and ancient ruins",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Create a new image by drawing on the visual characteristics of image 1 and adding the following elements: The scene should depict a mystical forest path, framed by tall, dark trees, where the blue ground cover now emits a soft, ethereal glow. Ancient, weathered ruins, subtly overgrown with glowing flora, should be integrated deeper within the forest, partially veiled by the pervasive mist, all while maintaining the enigmatic and otherworldly ambiance.",
+  "annotator": "Johnny",
+  "objects": [
+    "Mystical forest path",
+    "Tall, dark trees framing the path",
+    "Blue ground cover emitting a soft, ethereal glow",
+    "Ancient, weathered ruins deeper within the forest",
+    "Glowing flora on the ruins",
+    "Pervasive mist partially veiling the ruins"
+  ]
+}

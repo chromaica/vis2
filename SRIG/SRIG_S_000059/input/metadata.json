@@ -1,0 +1,21 @@
+{
+  "subtopic": "Software interfaces",
+  "prompt": "Redesign the provided file explorer screenshot to look like it belongs on a retro 1980s computer terminal with a monochrome green-on-black display.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "https://www.bleepstatic.com/images/news/Microsoft/windows-11/l/leak/file-explorer-settings/file-explorer.jpg",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate an image that re-renders the content of image 1 \u2013 including the Windows File Explorer window, desktop icons, and background \u2013 to appear as if displayed on a retro 1980s computer terminal. The entire display should be monochrome green-on-black, featuring pixelated character-based text and graphics, and visible CRT scanlines.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Windows File Explorer window",
+    "Desktop icons (Andiun Xue folder, This PC, Network, Recycle Bin)",
+    "Desktop background",
+    "File Explorer navigation pane",
+    "File Explorer content area (displaying folders and drives)",
+    "Context menu (overlaying Local Disk D:)",
+    "Taskbar"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "create a cosmic shrimp alert icon that looks like triangular caution sign, borderless neon-orange glyph of a shrimp-shaped alien with antennae, retro arcade vector vibe.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a cosmic shrimp alert icon. The icon should be shaped like a triangular caution sign. Inside this sign, depict a borderless, neon-orange glyph of an alien creature that is distinctly shrimp-shaped and features antennae. The overall image should have a retro arcade vector art style.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Triangular caution sign",
+    "Alien creature",
+    "Shrimp-shaped body (of the alien creature)",
+    "Antennae (on the alien creature)",
+    "Neon-orange color (for the alien creature)",
+    "Borderless glyph style (for the alien creature)"
+  ]
+}

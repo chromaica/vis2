@@ -1,0 +1,23 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Translate to Spanish: \u2018Por qu\u00e9 sigue fallando?\u2019 in matching font style.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the entire block of English text located at the top of the image with the Spanish phrase 'Por qu\u00e9 sigue fallando?'. The new text should precisely replicate the font style, size, white color, and bolding of the original English text present in image 1 (also visible in image 2 for reference). Position the new phrase centrally within the same horizontal area previously occupied by the original text block.",
+  "annotator": "matina",
+  "objects": [
+    "Black bar at the top",
+    "White, bold text \"Por qu\u00e9 sigue fallando?\" centrally positioned on the top black bar",
+    "Man in a tuxedo",
+    "Drink glass held by the man",
+    "Celebratory background with bokeh lights",
+    "Confetti",
+    "imgflip.com watermark",
+    "English text block (should not be present)"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "Reimagine the flower icon as a vibrant infographic, highlighting five stages of plant growth with vivid colors and labels.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 to transform the simple flower icon into a vibrant infographic. The infographic should visually represent five distinct stages of plant growth, starting from a seed and culminating in the blooming flower from image 1. Utilize vivid colors and clearly legible labels for each of the five stages.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Visual representation of a seed",
+    "Visual representation of a seedling",
+    "Visual representation of a young plant",
+    "Visual representation of a plant with a bud",
+    "Visual representation of a blooming flower (as seen in image 1)",
+    "Text label for the seed stage",
+    "Text label for the seedling stage",
+    "Text label for the young plant stage",
+    "Text label for the budding stage",
+    "Text label for the blooming flower stage"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

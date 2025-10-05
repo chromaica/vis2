@@ -1,0 +1,28 @@
+{
+  "subtopic": "Maps",
+  "prompt": "Generate an 2D map of a new-designed mega airport. Use the clean illustration style, clear layout from the reference image to depict terminal buildings, boarding gates, roads, and runways.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://illustrarch.com/wp-content/uploads/2021/10/9-b2purve-min-scaled.jpg",
+  "promptGeneratedTimestamp": 1749909721138,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate a 2D map of a newly designed mega airport. Render the map in the clean, monochromatic, top-down architectural plan style observed in image 1, featuring crisp black line art on a white background with subtle grey shading for elements like roads and open areas. Ensure a clear, organized layout, akin to a detailed blueprint, that distinctly depicts multiple terminal buildings, an intricate network of boarding gates within or adjacent to terminals, a comprehensive system of access roads, and prominent runways. Include legible text labels for all key airport components, consistent with the labeling style in image 1.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Multiple terminal buildings",
+    "Boarding gates",
+    "Comprehensive system of access roads",
+    "Prominent runways",
+    "Crisp black line art outlines",
+    "White background",
+    "Subtle grey shaded areas",
+    "Legible text labels for airport components",
+    "Directional arrows and symbols",
+    "Compass or orientation indicator"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

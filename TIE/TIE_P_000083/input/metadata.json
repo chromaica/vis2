@@ -1,0 +1,21 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "make this photo like its taken during midnight",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Transform the photorealistic scene of snow-covered mountains to appear as if captured at midnight. Change the warm, gradient sky to a dark, deep blue or black. Adjust the illumination on the vast snowy landscape and mountain peaks, making them significantly darker with pronounced shadows, and infuse the snow with deep cool blue and purple hues.",
+  "annotator": "theblackcat",
+  "objects": [
+    "snow-covered mountains",
+    "mountain peaks",
+    "vast snowy landscape",
+    "dark sky (deep blue or black)",
+    "pronounced shadows",
+    "snow with deep cool blue and purple hues"
+  ],
+  "human_annotation": true
+}

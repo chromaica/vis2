@@ -1,0 +1,18 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "CAD models",
+  "prompt": "A 3D CAD model of an office chair.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A detailed 3D CAD model of a modern office chair, presented in an isometric view on a clean white background.",
+  "annotator": "maxku",
+  "objects": [
+    "modern office chair",
+    "3D CAD rendering style",
+    "isometric perspective",
+    "clean white background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

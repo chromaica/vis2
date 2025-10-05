@@ -1,0 +1,23 @@
+{
+  "task": "SRIG",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "greate a meme following the visual format and humor style of the reference image, incorporating the text 'LLMs with PhD level' in an appropriate position within the composition",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a reaction meme image by following the visual format and humor style of image 1 (Surprised Pikachu). Recreate the composition of image 1, featuring a character with a wide-eyed, surprised expression positioned at the bottom half of the image, beneath a large, empty white space in the top half. Clearly insert the text \"LLMs with PhD level\" within this top white space, consistent with typical meme text placement.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Surprised Pikachu character",
+    "Wide-eyed, surprised expression on the character",
+    "Character positioned in the bottom half of the image",
+    "Large, empty white space in the top half of the image",
+    "Text \"LLMs with PhD level\"",
+    "Text placed within the top white space",
+    "Blurry green background elements behind the character",
+    "Blurry reddish-brown background elements behind the character"
+  ],
+  "human_annotation": true
+}

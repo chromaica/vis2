@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "Apply the dark mode from the second image to the UI mockup.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the UI mockups, to convert them from a light theme to a dark mode. The dark mode's color scheme and element style should mirror the dark grey backgrounds and light foreground elements seen in the mobile UI screens of image 2.",
+  "annotator": "Johnny",
+  "objects": [
+    "Dark mode desktop UI mockup",
+    "Two dark mode mobile UI mockups",
+    "Dark mode website header with \"yoga studio\" logo, navigation links, and search bar",
+    "Dark mode hero image section with overlaid text",
+    "Dark mode section with three circular icon cards and descriptive text",
+    "Dark mode \"Latest From Blog\" section with article previews",
+    "Dark mode quote block",
+    "Dark mode \"Get In Touch\" contact form with input fields and button",
+    "Dark mode website footer with navigation links and copyright",
+    "Light-colored UI text and icons against dark grey backgrounds"
+  ]
+}

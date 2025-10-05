@@ -1,0 +1,23 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "A galactic formation event with swirling dynamics, as seen in the image of the coffee.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "A photorealistic image of a galactic formation event, showcasing an active, swirling spiral galaxy with nascent stars and bright nebulae forming its arms. The central vortex and overall dynamic, milky white and subtle pink swirling patterns should directly reflect the cream in image 1, set against a vast, dark cosmic backdrop.",
+  "annotator": "samin",
+  "objects": [
+    "Photorealistic galactic formation event",
+    "Active, swirling spiral galaxy",
+    "Nascent stars",
+    "Bright nebulae",
+    "Central galactic vortex",
+    "Dynamic milky white swirling patterns",
+    "Subtle pink swirling patterns",
+    "Vast, dark cosmic backdrop"
+  ],
+  "human_annotation": true
+}

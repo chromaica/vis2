@@ -1,0 +1,25 @@
+{
+  "subtopic": "Object detection visuals",
+  "prompt": "Edit image 1 for object detection visualization. Overlay a bounding box on a side view red car based on image 2 near the sketch. Add a front view red car segmentation mask inspired by image 3 elsewhere, showing multi-perspective detection data.",
+  "cond_images": [
+    "1.jpeg",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748456279290,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1, the car sketch, to demonstrate object detection visualization. Overlay a bounding box around a side view red car, rendered in a flat, cartoon-like style similar to image 2, positioned to the left of the central car sketch in image 1. Additionally, add a pixel-level segmentation mask for a front view red car, also rendered in a flat, cartoon-like style consistent with image 3, placed in the top-right corner of image 1. This setup should illustrate multi-perspective detection data.",
+  "annotator": "winston",
+  "objects": [
+    "Car sketch (from image 1)",
+    "Crumpled paper background",
+    "Side view red car, flat, cartoon-like style (positioned to the left of the central car sketch)",
+    "Bounding box (around the side view red car)",
+    "Front view red car, flat, cartoon-like style (placed in the top-right corner)",
+    "Pixel-level segmentation mask (for the front view red car)"
+  ],
+  "human_annotation": true
+}

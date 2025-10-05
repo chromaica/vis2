@@ -1,0 +1,23 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "A brutalist concrete-textured terminal interface for underground bunker systems with monospace amber text, heavy geometric buttons, and radiation monitoring displays",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A brutalist concrete-textured terminal interface integrated into a raw bunker wall. A central, prominent screen displays glowing monospace amber text detailing system status. Below the screen, an array of heavy, geometric, tactile control buttons are flush-mounted. To the right, a dedicated panel features multiple radiation monitoring displays with dynamic numerical readings and warning indicators. The scene is stark, utilitarian, and dimly lit, capturing the essence of an underground bunker system.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Brutalist terminal interface",
+    "Raw bunker wall",
+    "Central, prominent screen",
+    "Glowing monospace amber text on screen",
+    "Array of heavy, geometric, tactile control buttons below the screen",
+    "Dedicated panel to the right of the screen",
+    "Multiple radiation monitoring displays on the right panel",
+    "Dynamic numerical readings on radiation displays",
+    "Warning indicators on radiation displays",
+    "Dimly lit environment"
+  ],
+  "human_annotation": true
+}

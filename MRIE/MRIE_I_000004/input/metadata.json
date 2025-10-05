@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Visual instructions and manuals",
+  "prompt": "In image 1, a visual instruction guide, modify step 2 by having the left hand wear the Infinity Gauntlet from image 2 while holding the hammer from image 3, ensuring the instructional arrows remain intact.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, a visual instruction guide. In 'step 2', replace the existing left hand and forearm with a new left hand wearing the Infinity Gauntlet from image 2. This gauntlet-clad hand must be depicted holding the hammer from image 3. Ensure both the Infinity Gauntlet and the hammer are rendered in the same black-and-white line drawing style as the original instructional graphic in image 1. Preserve all instructional arrows in 'step 2' without alteration.",
+  "annotator": "maxku",
+  "objects": [
+    "Title: \"APPLYING THE CUFF ON THE LEFT ARM\"",
+    "Step 1 instructional text",
+    "Blood pressure cuff graphic in black-and-white line drawing style",
+    "Main unit graphic (blood pressure monitor) in black-and-white line drawing style",
+    "Step 2 instructional text",
+    "Upper left arm/shoulder graphic (from original step 2)",
+    "Instructional arrow in step 2",
+    "Existing left hand and forearm (should not be present)",
+    "Infinity Gauntlet (rendered in black-and-white line drawing style, on a left hand)",
+    "Hammer (rendered in black-and-white line drawing style, held by the gauntlet-clad hand)"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "replace all five hot air baloons with alien ship",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "make sure the impartial one is replaced as well",
+  "prompt_refined": "Edit image 1. Replace all five hot air balloons with photorealistic alien spaceships, maintaining their original positions and relative sizes in the sky.",
+  "annotator": "theblackcat",
+  "objects": [
+    "ancient pyramid",
+    "distant city",
+    "mountains",
+    "sky",
+    "photorealistic alien spaceship (at top right)",
+    "photorealistic alien spaceship (at mid-right)",
+    "photorealistic alien spaceship (at mid-left)",
+    "photorealistic alien spaceship (near pyramid)",
+    "photorealistic alien spaceship (partially visible on far left)",
+    "hot air balloons (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

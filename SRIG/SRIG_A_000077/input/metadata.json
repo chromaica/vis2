@@ -1,0 +1,24 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Stylized art",
+  "prompt": "Generate a stylized portrait of a boy with background of the reference image.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a stylized portrait of a boy. The boy should be centrally positioned in the foreground. The background must replicate the sunlit coastal landscape from image 1, including the calm water and distant landmass.",
+  "annotator": "Johnny",
+  "objects": [
+    "Stylized boy",
+    "Boy centrally positioned in the foreground",
+    "Sunlit sky",
+    "Clouds",
+    "Calm coastal water",
+    "Distant landmass with hills",
+    "Distant buildings on landmass",
+    "Foreground rocks/shoreline"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

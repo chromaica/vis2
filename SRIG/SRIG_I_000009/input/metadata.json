@@ -1,0 +1,26 @@
+{
+  "subtopic": "Maps",
+  "prompt": "Create a 3D version of floor plan based on the provided 2D floor plan draft. Render it in a photorealistic quality.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://i.pinimg.com/736x/2b/68/7e/2b687e70dbcc8c3422f2f8fb61556295.jpg",
+  "promptGeneratedTimestamp": 1749482052748,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate a photorealistic 3D architectural visualization of the house floor plan shown in image 1. The rendering should depict all rooms and features from a top-down, elevated perspective, accurately translating the 2D layout into a three-dimensional space. Include the Master Bedroom on the left, the Bedroom on the right, both Bathrooms, all Closets, the central Living/Kitchen Area with its specified furniture, and the Front Porch at the bottom, maintaining their relative positions and dimensions as seen in image 1.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "3D architectural house structure",
+    "Master Bedroom (on the left)",
+    "Bedroom (on the right)",
+    "Two Bathrooms (with fixtures)",
+    "Four Closets",
+    "Central Living/Kitchen Area",
+    "Front Porch (at the bottom)",
+    "Beds (one in each bedroom)",
+    "Kitchen appliances and fixtures (island with sink, stove/oven)",
+    "Living Area furniture (couch, armchair)"
+  ]
+}

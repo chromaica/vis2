@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Medical images",
+  "prompt": "A digital rendering of a human eye showcasing the cornea, iris, lens, and retina in detail, set against a neutral background.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a hyperrealistic, close-up photograph of a human eye. The image must clearly and meticulously detail the translucent cornea, the intricate patterns of the iris, the clear crystalline lens, and the discernible retina. The eye should be prominently displayed against a plain, neutral-toned background.",
+  "annotator": "cwhsu",
+  "objects": [
+    "human eye",
+    "translucent cornea",
+    "intricate patterns of the iris",
+    "clear crystalline lens",
+    "discernible retina",
+    "plain, neutral-toned background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,24 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "An ancient Egyptian hieroglyph-themed archaeological database interface with papyrus textures, gold accents, and artifact categorization using symbolic icons",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A detailed user interface for an archaeological database, rendered in an ancient Egyptian hieroglyph theme. The primary background and large information panels are textured like aged papyrus. Prominent gold accents are integrated into all interface elements, including borders, buttons, and highlight indicators. On the left side of the interface, a clear navigation column displays artifact categorization, with each category represented by a unique, stylized ancient Egyptian symbolic icon. The main central display area presents data using a hieroglyphic font style for labels and titles, maintaining the cohesive ancient Egyptian aesthetic throughout the entire digital interface.",
+  "annotator": "theblackcat",
+  "objects": [
+    "User interface (detailed)",
+    "Aged papyrus textured background",
+    "Large information panels (textured like aged papyrus)",
+    "Gold borders (on interface elements)",
+    "Gold buttons (on interface elements)",
+    "Gold highlight indicators (on interface elements)",
+    "Navigation column (on the left side)",
+    "Unique stylized ancient Egyptian symbolic icons (in navigation column)",
+    "Main central display area",
+    "Hieroglyphic font style labels and titles (in central display area)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

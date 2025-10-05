@@ -1,0 +1,24 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Generate a screenshot of a tree traversal algorithm simulator interface. Use the visual style and layout of the tree (including nodes, edges, and their arrangement) from the first image, and incorporate the traversal options drop-down menu from the second image.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a screenshot of a tree traversal algorithm simulator interface. The interface should display a binary tree with the exact visual style, node/edge coloring (light blue nodes with white letters, light blue edges), and hierarchical layout observed in image 1, against a clean white background. Include the left and right navigation arrow buttons seen in image 1. Positioned clearly within the interface, such as in the top-right section, integrate the 'Select Traversal' drop-down menu from image 2, ensuring it retains its dark background and includes all the options listed: 'Postorder Traversal', 'Preorder Traversal', 'Inorder Traversal', and 'Levelorder Traversal'.",
+  "annotator": "paria",
+  "objects": [
+    "Tree traversal algorithm simulator interface",
+    "Binary tree with light blue nodes, white letters, and light blue edges (Image 1 style)",
+    "Hierarchical layout of the binary tree (Image 1 style)",
+    "Clean white background",
+    "Left navigation arrow button",
+    "Right navigation arrow button",
+    "'Select Traversal' drop-down menu in the top-right section",
+    "Dark background for the 'Select Traversal' menu",
+    "Menu options: 'Postorder Traversal', 'Preorder Traversal', 'Inorder Traversal', 'Levelorder Traversal'"
+  ]
+}

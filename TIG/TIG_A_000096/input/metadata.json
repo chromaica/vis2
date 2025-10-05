@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Stylized art",
+  "prompt": "A portrait of a woman with peacock feathers for hair, set against a backdrop of swirling ocean waves blending into a sunset sky.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Head and shoulders portrait of a woman, her hair intricately formed from vibrant, iridescent peacock feathers. The background features dynamic, swirling ocean waves in the mid-ground, transitioning smoothly upwards into a radiant sunset sky painted with fiery orange, deep purple, and molten gold.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Woman (head and shoulders portrait)",
+    "Hair formed from vibrant, iridescent peacock feathers",
+    "Dynamic, swirling ocean waves (in mid-ground)",
+    "Radiant sunset sky",
+    "Fiery orange color",
+    "Deep purple color",
+    "Molten gold color"
+  ],
+  "human_annotation": true
+}

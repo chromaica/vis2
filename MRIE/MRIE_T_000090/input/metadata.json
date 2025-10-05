@@ -1,0 +1,30 @@
+{
+  "subtopic": "Posters",
+  "prompt": "Edit image 1 poster: Integrate the dense, multi-font textual collage style and color palette from image 2 into the background areas. Add small object icons within the color blocks, inspired by the color associations shown in image 3 and image 5. Apply a subtle textured, hand-drawn finish resembling the style of image 4 to the overall design.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg",
+    "4.jpeg",
+    "5.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749712054627,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "T",
+  "prompt_refined": "Edit the poster in image 1.\n\nTransform the distinct orange, green, and magenta background blocks of image 1. Fill these areas with a dense, multi-font textual collage that fully adopts the color palette and stylistic arrangement of image 2. This means the primary background color within these transformed blocks will become blue, while the collage text will utilize colors such as orange, yellow, pink, and white, as seen in image 2. Ensure the large black text elements (e.g., 'Figure 1.A', 'Endless Forms', 'Enchanted Evolution') from image 1 remain prominently in the foreground.\n\nIntegrate small, illustrative object icons subtly within these transformed background areas. The selection of these icons should be based on the original color association of each block in image 1, drawing inspiration from the examples shown in image 3 and image 5 (e.g., include orange-associated objects in the area that was originally orange, green-associated objects in the area that was originally green, and pink/purple-associated objects in the area that was originally magenta).\n\nApply a subtle, textured, hand-drawn finish to the entire edited poster, mimicking the chalk-like appearance and line quality of image 4.",
+  "annotator": "winston",
+  "objects": [
+    "'Figure 1.A' text (in prominent foreground)",
+    "'Endless Forms' text (in prominent foreground)",
+    "'Enchanted Evolution' text (in prominent foreground)",
+    "Dense, multi-font textual collage (as background content)",
+    "Blue background color (for transformed blocks)",
+    "Collage text in orange, yellow, pink, and white colors",
+    "Small, illustrative orange-associated objects (integrated subtly in background)",
+    "Small, illustrative green-associated objects (integrated subtly in background)",
+    "Small, illustrative pink/purple-associated objects (integrated subtly in background)",
+    "Subtle, textured, hand-drawn finish (chalk-like appearance and line quality)"
+  ]
+}

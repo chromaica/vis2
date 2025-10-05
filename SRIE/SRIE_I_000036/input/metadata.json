@@ -1,0 +1,22 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "Use the charcoal sketch style from the reference to portrait a little girl.",
+  "cond_images": [
+    "1.png",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the provided source image, image 1 (the female pictogram), by transforming the central figure into a portrait of a little girl. Render the little girl in a charcoal sketch style, deriving inspiration from the monochrome tonality, strong contrasts, and textural elements present in image 2.",
+  "annotator": "Johnny",
+  "objects": [
+    "little girl portrait",
+    "charcoal sketch style",
+    "monochrome tonality",
+    "strong contrasts",
+    "textural elements",
+    "dark background"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,19 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Digital art",
+  "prompt": "Change the color scheme of the picture into green and gold colors.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, an artwork of a classic car emitting smoke, by changing its entire color scheme to green and gold. Ensure all elements, including the car, the smoke, and the background, adopt the new green and gold palette.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "classic car",
+    "smoke clouds",
+    "background",
+    "road surface",
+    "motion streaks"
+  ]
+}

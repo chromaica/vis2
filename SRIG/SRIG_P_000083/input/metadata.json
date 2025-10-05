@@ -1,0 +1,21 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Medical images",
+  "prompt": "a realistic ultrasound image of a fetus based on the reference mask, showing typical fetal features and grayscale texture.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic ultrasound image of a fetus. Using image 1 as a reference mask, fill the white fan-shaped area with a realistic depiction of a fetus, including typical anatomical features and a detailed grayscale texture. Preserve the black background, vertical scale on the left, and vertical bar on the top right from image 1 to create an authentic diagnostic ultrasound display.",
+  "annotator": "samin",
+  "objects": [
+    "Fetus with typical anatomical features",
+    "Detailed grayscale texture within the fan-shaped area",
+    "Fan-shaped ultrasound scan display area",
+    "Black background",
+    "Vertical scale on the left",
+    "Vertical bar on the top right"
+  ],
+  "human_annotation": true
+}

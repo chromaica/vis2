@@ -1,0 +1,25 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Change the profile photo of the lead designer to an icon representing a digital avatar.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. In the top-right corner, replace the profile photo next to 'Daria, Lead designer' with a digital avatar icon.",
+  "annotator": "cwhsu",
+  "objects": [
+    "User interface / Dashboard screen",
+    "Left navigation sidebar",
+    "Welcome banner",
+    "Abstract hand illustrations",
+    "Project time tracking statistics",
+    "Recent projects section",
+    "Daily tasks list",
+    "Daria, Lead designer (text)",
+    "Profile photo (should not be present)",
+    "Digital avatar icon (in top-right corner)"
+  ],
+  "human_annotation": true
+}

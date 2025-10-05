@@ -1,0 +1,21 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Project the pie chart to a 3D pie chart applying the same color to the slices.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 by converting the 2D pie chart represented in image 2 into a 3D pie chart. Place this 3D pie chart centrally within the white circular area of image 1. Ensure that each slice of the 3D pie chart accurately replicates the proportions and exact colors of the corresponding slices in image 2.",
+  "annotator": "Johnny",
+  "objects": [
+    "black background",
+    "white circular area",
+    "3D pie chart centrally placed within the white circular area",
+    "dark blue-grey slice of the 3D pie chart",
+    "light blue-grey slice of the 3D pie chart",
+    "another light blue-grey slice of the 3D pie chart"
+  ]
+}

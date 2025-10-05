@@ -1,0 +1,25 @@
+{
+  "subtopic": "Receipts",
+  "prompt": "Generate a version of this digital receipt as if it were a high-fashion print advertisement, using elegant typography, dramatic spacing, and a minimalist color palette.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "https://i.insider.com/5de58e87fd9db221e4201a64?width=600&format=jpeg&auto=webp",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a high-fashion print advertisement transforming the Uber digital receipt shown in image 1. The design should emphasize elegant, refined typography with ample dramatic spacing and negative space, creating a luxurious and minimalist aesthetic. Employ a highly restrained color palette, primarily monochromatic (black and white or shades of grey), allowing for only a single, subtle accent color if desired, such as transforming the yellow car icon from image 1 into a muted, sophisticated tone. Clearly present the core elements from image 1, such as the 'Uber' logo, 'Thanks for riding, Steven', and 'Total $43.83', as prominent and artfully arranged features within the advertisement layout, akin to a luxury brand campaign.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Uber logo",
+    "\"Thanks for riding, Steven\" text",
+    "\"Total $43.83\" text",
+    "Car icon in a muted, sophisticated tone",
+    "Monochromatic color palette (black, white, shades of grey)",
+    "Single subtle accent color",
+    "Elegant typography",
+    "Dramatic spacing",
+    "Ample negative space"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

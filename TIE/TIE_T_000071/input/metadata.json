@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": "Translate all dialogue into Japanese, remake speech bubbles in vertical text layout.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Translate all existing English text in the speech bubbles and caption boxes into Japanese. For each translated Japanese text, render it in a vertical writing layout (top-to-bottom, right-to-left) within its respective bubble/box. Adjust the size and shape of the original speech bubbles and caption boxes to accommodate the vertical text, ensuring they retain their original positions and connections to the speakers.",
+  "annotator": "matina",
+  "objects": [
+    "Three distinct comic panels",
+    "Man in blue suit and hat",
+    "Man in green suit and orange coat",
+    "Man lying on the ground",
+    "Speech bubbles containing vertical Japanese text",
+    "Caption boxes containing vertical Japanese text",
+    "Interior setting with doorway (in the left panel)",
+    "Interior setting (in the middle panel)",
+    "Red background (in the right panel)"
+  ],
+  "human_annotation": true
+}

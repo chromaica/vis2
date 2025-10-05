@@ -1,0 +1,27 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Game assets",
+  "prompt": "Apply fire damage effects to the houses in the mask.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 by applying severe fire damage effects to the segmented areas in image 2 that correspond to the houses: the large thatched-roof house on the left and the smaller wooden structure on the right. Include charring, smoke, and burnt debris, while maintaining the original computer graphics style of image 1.",
+  "annotator": "nimajamali",
+  "objects": [
+    "Large thatched-roof house on the left with severe fire damage",
+    "Smaller wooden structure on the right with severe fire damage",
+    "Charring",
+    "Smoke",
+    "Burnt debris",
+    "Wooden fence",
+    "Grassy ground and path",
+    "Trees and foliage",
+    "Sky with clouds",
+    "Wooden trough"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

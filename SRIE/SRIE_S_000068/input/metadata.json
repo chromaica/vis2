@@ -1,0 +1,29 @@
+{
+  "subtopic": "Software interfaces",
+  "prompt": "Edit image 1: Apply the older, lighter UI theme and visual styling seen in image 2 to the software interface screenshot, changing colors and panel appearance.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1752236909861,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "annotator": "ishengfang",
+  "prompt_refined": "Edit image 1: Apply the older, lighter UI theme and visual styling from image 2 to the software interface screenshot. Specifically, update the dark background, top menu bar, left sidebar panel, and right properties panel in image 1 to match the lighter grey and white color scheme and distinct panel appearance, including button styles and element organization, as seen in image 2.",
+  "objects": [
+    "software interface (Blender)",
+    "lighter grey and white UI theme",
+    "lighter 3D viewport background",
+    "top menu bar (lighter style)",
+    "left sidebar panel (lighter style)",
+    "right properties panel (lighter style)",
+    "3D cube object",
+    "grid and axes in 3D viewport",
+    "bottom timeline/playback bar (lighter style)",
+    "updated button styles and element organization (lighter style)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

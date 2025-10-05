@@ -1,0 +1,20 @@
+{
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "Generate an image of a crowd in a park, using the segmentation mask from the reference image to guide the composition and placement of people against the landscape background, illustrating semantic segmentation.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://miro.medium.com/v2/resize:fit:1308/1*Hj0ZPv1_9I-k5fc0RP6HOw.png",
+  "promptGeneratedTimestamp": 1748767639598,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate an image of a crowd in a park. Utilize the semantic segmentation mask in image 1 to define the precise composition and placement of scene elements. Render the red segmented regions as a crowd of people positioned on a light green grassy park ground (corresponding to the light green region). The background should consist of dark green trees and foliage (corresponding to the dark green region) under a blue sky (corresponding to the blue region), all following the exact shapes and spatial layout provided in image 1.",
+  "annotator": "ishengfang",
+  "objects": [
+    "a crowd of people",
+    "light green grassy park ground",
+    "dark green trees and foliage",
+    "blue sky"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "An alien planet landscape with this vintage camera",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate an image of a surreal alien planet landscape, with the vintage Kodak Instamatic 400 camera from image 1 positioned prominently in the foreground.",
+  "annotator": "Johnny",
+  "objects": [
+    "surreal alien planet landscape",
+    "vintage Kodak Instamatic 400 camera positioned prominently in the foreground"
+  ]
+}

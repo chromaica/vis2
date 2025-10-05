@@ -1,0 +1,26 @@
+{
+  "subtopic": "Receipts",
+  "prompt": "Transform this order confirmation into a futuristic holographic interface, with glowing blue text and semi-transparent panels floating in a dark space.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://chriscoyier.net/wp-content/uploads/2022/05/CleanShot-2022-05-12-at-06.56.56@2x.png",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a futuristic holographic interface by transforming the Amazon order confirmation email shown in image 1. All text elements from image 1, including the Amazon logo, \"Order Confirmation\" title, user name, order details, button text (\"View or manage order\"), and the IMDb TV section, should be rendered as vibrant, glowing blue holographic text. The distinct content blocks and background areas from image 1 should be reinterpreted as semi-transparent, layered holographic panels. This entire holographic interface, composed of glowing text and translucent panels, should appear to float centrally within a dark, expansive space.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "glowing blue holographic Amazon logo",
+    "glowing blue holographic \"Order Confirmation\" title",
+    "glowing blue holographic \"Hello Christopher,\" text",
+    "glowing blue holographic \"Thank you for shopping with us. We'll send a confirmation when your item ships.\" text",
+    "glowing blue holographic order details (including \"Details\", order number, arrival date, \"Ship to:\" text and associated details)",
+    "glowing blue holographic \"View or manage order\" button text",
+    "glowing blue holographic IMDb TV section (including IMDb TV logo and associated text)",
+    "glowing blue holographic \"We hope to see you again soon.\" text",
+    "semi-transparent, layered holographic panels",
+    "dark, expansive space"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

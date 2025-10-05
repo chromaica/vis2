@@ -1,0 +1,27 @@
+{
+  "subtopic": "3D renders",
+  "prompt": "Generate a realistic 3D render of the brown leather boot from image 1, featuring the detailed texture and placed within an outdoor environment with realistic lighting, similar to the overall style of image 2.",
+  "cond_images": [
+    "1.png",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748422248156,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a high-fidelity 3D render of the single brown leather work boot from image 1, accurately depicting its distressed texture, visible stitching, and rugged laces. Position the boot in an expansive outdoor environment, resembling a paved landscape or open road near water with a distant horizon, consistent with the scenic composition of image 2. The scene should feature realistic, soft, and naturally diffused ambient lighting, emulating the photorealistic rendering quality and atmospheric mood found in image 2.",
+  "annotator": "winston",
+  "objects": [
+    "Single brown leather work boot",
+    "Distressed texture on boot",
+    "Visible stitching on boot",
+    "Rugged laces on boot",
+    "Expansive outdoor environment",
+    "Paved landscape or open road",
+    "Water",
+    "Distant horizon",
+    "Photorealistic rendering quality",
+    "Soft, naturally diffused ambient lighting"
+  ]
+}

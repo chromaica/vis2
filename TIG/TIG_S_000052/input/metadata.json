@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "A sun-bleached receipt from \"Outback Pete's Last Stop\" in the Australian desert, showing fuel, meat pies, and VB beer in AUD, corners curled from heat with red dust embedded in the paper fibers",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "An old, sun-bleached, and faded paper receipt with 'Outback Pete's Last Stop' clearly printed at the top. The receipt displays line items for 'Fuel', 'Meat Pies', and 'VB Beer', with prices clearly denominated in AUD. Its edges and corners are visibly curled and crinkled from extreme heat. Fine, reddish-brown desert dust is deeply embedded within the paper fibers and surface of the receipt.",
+  "annotator": "theblackcat",
+  "objects": [
+    "paper receipt",
+    "\"Outback Pete's Last Stop\" text on the receipt",
+    "\"Fuel\" line item on the receipt",
+    "\"Meat Pies\" line item on the receipt",
+    "\"VB Beer\" line item on the receipt",
+    "AUD prices on the receipt",
+    "curled edges of the receipt",
+    "crinkled corners of the receipt",
+    "reddish-brown desert dust embedded in the receipt",
+    "faded and sun-bleached appearance of the receipt"
+  ]
+}

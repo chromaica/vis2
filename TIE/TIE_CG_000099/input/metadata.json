@@ -1,0 +1,25 @@
+{
+  "subtopic": "Skeletal Animation and Rigging",
+  "prompt": "Modify the position of the skeletal rig bones and controls to pose the bird as if it is flapping its wings mid-flight.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751813496280,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1, which shows a 3D bird model with a visible skeletal rig and control points. Modify the position of the skeletal rig bones and controls to re-pose the bird as if it is actively flapping its wings mid-flight. Ensure the wings are dynamically angled, suggesting an ongoing flapping motion (e.g., one wing up, the other down, or both at an intermediate point of a stroke). The overall pose of the bird, including its body and limbs, should convey it is airborne, while still retaining the visibility of the skeletal rig and controls.",
+  "annotator": "edisy",
+  "objects": [
+    "3D bird model",
+    "Visible skeletal rig",
+    "Visible control points",
+    "Bird's wings dynamically angled in a flapping motion",
+    "Bird's body in an airborne pose",
+    "Bird's legs in an airborne pose",
+    "Grey 3D modeling environment background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

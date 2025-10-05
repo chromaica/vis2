@@ -1,0 +1,18 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Medical images",
+  "prompt": "A medical diagram illustrating human muscles with distinctive fibers and tendons labeled on a semi-transparent body.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A photorealistic medical diagram illustrating the human muscular system. Clearly depict and precisely label distinctive muscle fibers and prominent tendons, rendered within a semi-transparent human body.",
+  "annotator": "cwhsu",
+  "objects": [
+    "human muscular system",
+    "distinctive muscle fibers",
+    "prominent tendons",
+    "labels for muscle fibers",
+    "labels for prominent tendons",
+    "semi-transparent human body"
+  ]
+}

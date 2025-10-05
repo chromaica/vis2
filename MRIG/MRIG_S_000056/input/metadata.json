@@ -1,0 +1,23 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Design a screenshot of an English learning app quiz, using the quiz layout from the first image and the vocabulary image test from the second image.",
+  "cond_images": [
+    "1.png",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a screenshot of an English learning app quiz. Use the overall mobile app UI layout and design elements from image 1. Replace the large image of strawberries in image 1 with the image of bananas from image 2. In the multiple-choice section below the image, include 'banana' as the correct option, displayed in the same green, selected style as 'strawberry' in image 1. For the other options, include plausible fruit-related vocabulary, mimicking the style of the radio buttons and text from image 1. Ensure the top status bar, the header ('Image Test - Fruit I'), and the bottom navigation buttons ('Wrong (1)', 'Next Word (3/13)', 'Correct (2)') are maintained as presented in image 1.",
+  "annotator": "paria",
+  "objects": [
+    "Mobile app UI layout",
+    "Top status bar",
+    "Header 'Image Test - Fruit I' with back arrow",
+    "Image of bananas",
+    "Multiple-choice option 'banana' (green, selected style)",
+    "Multiple-choice options with other fruit vocabulary (unselected style)",
+    "Bottom navigation buttons ('Wrong (1)', 'Next Word (3/13)', 'Correct (2)')",
+    "Image of strawberries (should not be present)"
+  ]
+}

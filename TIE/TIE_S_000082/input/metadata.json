@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Replace the optical diagram with a 3D digital cityscape model.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the optical diagram displayed within the large central window titled '2: NSC Shaded Model X' with a 3D digital cityscape model.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Zemax OpticStudio application window frame",
+    "Zemax OpticStudio main menu bar",
+    "Zemax OpticStudio top toolbar",
+    "System Explorer panel",
+    "Non-Sequential Component Editor panel",
+    "Detector Viewer: Homog. Plane 2 panel",
+    "Window titled \"2: NSC Shaded Model X\" (including its frame, title bar, and internal controls)",
+    "Optical diagram (should not be present)",
+    "3D digital cityscape model (within the \"2: NSC Shaded Model X\" window)",
+    "macOS desktop background and dock"
+  ]
+}

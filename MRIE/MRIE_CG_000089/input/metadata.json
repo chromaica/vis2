@@ -1,0 +1,28 @@
+{
+  "subtopic": "Object detection visuals",
+  "prompt": "Edit image 1 to display object detection visuals on studio equipment. Use the color palette from image 2 for bounding boxes and labels. Overlay detection confidence scores with a soft bokeh glow effect like the lights in image 3.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748456470524,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1 (the photo studio interior) to incorporate computer vision object detection elements. Apply distinct bounding boxes and corresponding descriptive text labels around the various studio equipment present, including the overhead lights, stand-mounted softboxes, tripods, and the white backdrop. For these bounding boxes and labels, extract and utilize a color palette inspired by image 2 (the desert landscape), specifically its predominant warm sandy tones and clear blue sky hues. Additionally, overlay a numerical detection confidence score clearly visible for each labeled object, positioned either directly above or within the top-right corner of its respective bounding box. These confidence scores should exhibit a soft, luminous, out-of-focus bokeh glow effect, akin to the blurred golden lights depicted in image 3.",
+  "annotator": "winston",
+  "objects": [
+    "Photo studio interior",
+    "Overhead lights",
+    "Stand-mounted softboxes",
+    "Tripods",
+    "White backdrop",
+    "Bounding boxes around studio equipment",
+    "Descriptive text labels for studio equipment",
+    "Numerical detection confidence scores for studio equipment",
+    "Bounding boxes and labels with warm sandy and clear blue hues",
+    "Numerical detection confidence scores with a soft, luminous, out-of-focus bokeh glow effect"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "create a page for Cat-themed 404 page: cute ASCII-art feline knocking over a coffee mug, pastel background, big 'Oops!' headline in handwritten font",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a full 404 error web page with a whimsical cat theme. At the top of the page, display a large 'Oops!' headline in a charming handwritten font. Below the headline and centered on the page, feature a cute ASCII-art feline character depicted mid-action, humorously knocking over a coffee mug. The entire background of the web page should be rendered in soft, pastel colors.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Full 404 error web page",
+    "Large 'Oops!' headline at the top",
+    "Charming handwritten font on headline",
+    "Cute ASCII-art feline character centered on the page",
+    "Coffee mug being humorously knocked over",
+    "Soft pastel background colors"
+  ],
+  "human_annotation": true
+}

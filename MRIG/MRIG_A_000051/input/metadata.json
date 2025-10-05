@@ -1,0 +1,23 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "Create a digital artwork featuring the figure from reference image 1 in the dynamic pose shown in reference image 2.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a new digital artwork. The artwork should feature the female character from reference image 1, identifiable by her dark hair and orange hooded jacket. This character should be depicted in the dynamic, arms-uplifted pose presented by the skeleton model in reference image 2, with her torso slightly turned.",
+  "annotator": "samin",
+  "objects": [
+    "female character",
+    "dark hair",
+    "orange hooded jacket",
+    "arms-uplifted pose",
+    "dynamic pose",
+    "torso slightly turned"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

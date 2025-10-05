@@ -1,0 +1,24 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Cultural or Heritage art",
+  "prompt": "Generate a cultural heritage artwork piece using the ancient Greek pottery painting style and color scheme from image 1. Depict a scene with flying animal silhouettes arranged like the bats in image 2.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Create an image that depicts a cultural heritage artwork. The artwork should be rendered in the ancient Greek black-figure pottery style, adopting the characteristic red-orange and black color scheme observed in image 1. Within this artwork, feature a dynamic scene of flying animal silhouettes. These silhouettes must be depicted in solid black, sharply defined, and arranged in a naturalistic, descending cluster similar to the composition of bats illustrated in image 2.",
+  "annotator": "samin",
+  "objects": [
+    "Ancient Greek black-figure pottery",
+    "Red-orange pottery color",
+    "Black figures and details on pottery",
+    "Flying animal silhouettes",
+    "Solid black animal silhouettes",
+    "Sharply defined animal silhouettes",
+    "Descending cluster of animal silhouettes",
+    "Naturalistic arrangement of animal silhouettes",
+    "Decorative bands on pottery"
+  ]
+}

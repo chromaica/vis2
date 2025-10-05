@@ -1,0 +1,29 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": "Edit image 1 by inserting the telephone icon from image 2 to the far right of the top navigation bar, next to the \u201cJoin Discord\u201d button, scaled to match the button height and aligned horizontally. Below the \u201cNew episodes released every three weeks on Wednesday\u201d text, add the red calendar icon from image 3, centered and resized to approximately half the width of the podcast platform buttons. All other aspects of the source image should remain unchanged.",
+  "cond_images": [
+    "1.png",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the provided webpage screenshot, by inserting the blue telephone icon from image 2 into the top navigation bar. Position this icon to the immediate right of the green 'Join Discord' button, at the far right of the navigation bar, ensuring it is scaled to match the 'Join Discord' button's height and horizontally aligned with the other navigation links. Additionally, below the text 'New episodes released every three weeks on Wednesday', add the red calendar icon from image 3. Center this calendar icon horizontally beneath the text and resize its width to be approximately half the width of the podcast platform buttons, such as 'Watch on YouTube' or 'Listen on Spotify', found further down the page. All other elements of image 1 must remain entirely unchanged.",
+  "annotator": "parnian",
+  "objects": [
+    "dark purple webpage background",
+    "\"Women in AI Research\" logo and text",
+    "top navigation bar with text links (Home, Episodes, Announcements, About Us, Guests)",
+    "green \"Join Discord\" button in the navigation bar",
+    "blue telephone icon in the top navigation bar (to the right of the \"Join Discord\" button)",
+    "\"Welcome to Women in AI Research\" heading",
+    "\"New episodes released every three weeks on Wednesday\" text",
+    "red calendar icon (centered below \"New episodes released...\" text)",
+    "\"Watch on YouTube\" button",
+    "\"Listen on Spotify\" button",
+    "\"Listen on Apple Podcasts\" button",
+    "main body text content"
+  ],
+  "human_annotation": true
+}

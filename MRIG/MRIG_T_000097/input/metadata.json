@@ -1,0 +1,23 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "Generate 'BRIGHT DAYS' with each letter of 'BRIGHT' reflected in each lens of the sunglasses in the first image in subtle rainbow tones of the second image, and 'DAYS' below in clean sans serif.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate an image featuring the black sunglasses silhouette from image 1 as the central element. The letters of the word 'BRIGHT' should be individually reflected within the lenses: 'B', 'R', 'I' in the left lens and 'G', 'H', 'T' in the right lens. These reflections should be subtle and diffused, displaying a distinct, multi-colored palette and watercolor-like texture inspired by the 'SUMMER' text in image 2. Position the word 'DAYS' directly below the sunglasses, rendered in a clean, sans-serif font.",
+  "annotator": "parnian",
+  "objects": [
+    "black sunglasses silhouette (central element)",
+    "letter 'B' reflected subtly and diffused in the left lens with a multi-colored, watercolor-like texture",
+    "letter 'R' reflected subtly and diffused in the left lens with a multi-colored, watercolor-like texture",
+    "letter 'I' reflected subtly and diffused in the left lens with a multi-colored, watercolor-like texture",
+    "letter 'G' reflected subtly and diffused in the right lens with a multi-colored, watercolor-like texture",
+    "letter 'H' reflected subtly and diffused in the right lens with a multi-colored, watercolor-like texture",
+    "letter 'T' reflected subtly and diffused in the right lens with a multi-colored, watercolor-like texture",
+    "word 'DAYS' in a clean, sans-serif font directly below the sunglasses"
+  ]
+}

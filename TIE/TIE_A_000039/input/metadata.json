@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Neoclassicism",
+  "prompt": "Replace the army from the right side with a more modern military force, with motorcycles and modern weapons. The left side should remain unchanged, depicting the original army. Replace the god from the top right corner with an attacking helicopter.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. On the right side of the image, replace the ancient military force, including the soldiers, horses, and chariots, with a modern military force featuring motorcycles and modern weapons. In the top-right corner, replace the floating god figure with an attacking helicopter. The left side of image 1, depicting the original ancient army engaged in battle, must remain entirely unchanged.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "ancient soldiers on the left side",
+    "ancient battle scene on the left side",
+    "spears on the left side",
+    "shields on the left side",
+    "modern military force on the right side",
+    "motorcycles on the right side",
+    "modern weapons on the right side",
+    "attacking helicopter in the top-right corner",
+    "ancient military force on the right side (should not be present)",
+    "floating god figure in the top-right corner (should not be present)"
+  ]
+}

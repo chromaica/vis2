@@ -1,0 +1,22 @@
+{
+  "task": "SRIG",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Create a meme template like the movement found in the image but the face is the dog face of dodge meme",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a meme template featuring a white dog. The dog should have the upright, human-like gesturing and shrugging body pose from image 1. Its head and face must be replaced with the iconic Shiba Inu face from the 'Doge' meme, maintaining its characteristic expression. The overall image should be a clear visual suitable for a reaction meme.",
+  "annotator": "theblackcat",
+  "objects": [
+    "white dog's body",
+    "upright posture",
+    "human-like gesturing paw",
+    "shrugging pose",
+    "Shiba Inu head",
+    "Doge meme expression",
+    "head and face of the white dog from image 1 (should not be present)"
+  ],
+  "human_annotation": true
+}

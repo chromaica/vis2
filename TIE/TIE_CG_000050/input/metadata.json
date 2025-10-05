@@ -1,0 +1,28 @@
+{
+  "subtopic": "3D renders",
+  "prompt": "Modify the 3D scene's lighting to simulate the warm, golden hour glow, adding more realistic shadows and a sense of depth to the islands.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751815587126,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1 by adjusting the lighting to simulate a warm, golden hour. The sun, located in the top-left of image 1, should cast long, realistic shadows from all elements, including the clouds, the main island's hut, palm trees, turtle, the ship on its island, and the dolphin on its island. Enhance the perception of depth and dimension across all floating islands and objects through the soft, directional golden hour illumination and well-defined shadows.",
+  "annotator": "edisy",
+  "objects": [
+    "sun in the top-left",
+    "clouds",
+    "main floating island",
+    "hut on the main island",
+    "palm trees",
+    "turtle",
+    "ship",
+    "floating island with the ship",
+    "dolphin",
+    "floating island with the dolphin"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

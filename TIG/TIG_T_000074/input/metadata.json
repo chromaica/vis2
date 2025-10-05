@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Construct a classic two-panel internet meme. The top text reads 'Expectation:' and the bottom text 'Reality:', both in bold white Impact font with thick black outlines. The central image is a photograph capturing the humorous frustration of a hopelessly tangled mess of brightly colored Christmas lights spread across a floor.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a photographic image designed as a classic internet meme. The image should feature a humorous scene depicting a hopelessly tangled mess of brightly colored Christmas lights spread across a floor. Overlayed on the top of the image, the text 'Expectation:' should appear. Overlayed on the bottom of the image, the text 'Reality:' should appear. Both text elements must be in bold white Impact font with thick black outlines.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "photographic image style",
+    "a floor",
+    "brightly colored Christmas lights",
+    "a hopelessly tangled mess of Christmas lights",
+    "text \"Expectation:\" positioned at the top of the image",
+    "text \"Reality:\" positioned at the bottom of the image",
+    "bold white Impact font for text",
+    "thick black outlines for text"
+  ],
+  "human_annotation": true
+}

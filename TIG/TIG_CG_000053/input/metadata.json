@@ -1,0 +1,19 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "3D renders",
+  "prompt": "A 3D render of an indoor living room scene with objects like sofa, brown coffee table, TV on wall, lamp, and plants.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A photorealistic 3D render of a modern indoor living room scene. A comfortable grey fabric sofa sits against the far wall, with a rectangular brown wooden coffee table centered in front of it. A large flat-screen TV is mounted on the wall opposite the sofa. A tall floor lamp is positioned beside the sofa, and several green potted plants are arranged around the room.",
+  "annotator": "maxku",
+  "objects": [
+    "modern indoor living room scene",
+    "comfortable grey fabric sofa against the far wall",
+    "rectangular brown wooden coffee table centered in front of the sofa",
+    "large flat-screen TV mounted on the wall opposite the sofa",
+    "tall floor lamp beside the sofa",
+    "several green potted plants arranged around the room"
+  ],
+  "human_annotation": true
+}

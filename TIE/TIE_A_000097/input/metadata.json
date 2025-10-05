@@ -1,0 +1,20 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Traditional art",
+  "prompt": "Make the paint even more rough and textured, Especially the background.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Increase the rough and textured quality of the paint throughout the artwork. Apply more prominent brushstrokes and a visibly tactile surface, making the paint appear less smooth and more substantial. Focus especially on enhancing this effect in the background regions, specifically the large grey-brown wall behind the figures and the green-brown ground plane at the bottom, rendering them significantly rougher.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Six figures",
+    "Six framed structures",
+    "Large grey-brown background wall",
+    "Green-brown ground plane",
+    "Rough and textured paint surface",
+    "Prominent brushstrokes"
+  ]
+}

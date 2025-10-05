@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Visual instructions and manuals",
+  "prompt": "Technical cutaway diagram of a smartphone repair process rendered in the detailed blueprint style of NASA engineering schematics",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A highly detailed technical cutaway diagram illustrating a smartphone repair process. The image is rendered in the precise style of vintage NASA engineering blueprints, complete with intricate lines, comprehensive annotations, dimensioned measurements, and a subtle background grid, on a light, aged paper texture.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Technical cutaway diagram of a smartphone",
+    "Exposed internal components of the smartphone",
+    "Visual representations of repair steps (e.g., disassembly/assembly sequence)",
+    "Intricate blueprint-style line work",
+    "Comprehensive text annotations (labels, notes)",
+    "Dimensioned measurements (numerical values with leader lines)",
+    "Subtle background grid",
+    "Light, aged paper texture background"
+  ]
+}

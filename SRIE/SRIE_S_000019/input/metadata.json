@@ -1,0 +1,28 @@
+{
+  "subtopic": "Games",
+  "prompt": "Edit image 1: Replace the background figures and potential enemies with the fantastical creatures depicted in the landscape of image 2. Maintain the original Cyberpunk setting and style.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1750758243734,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit image 1. Replace the human figures positioned in the mid-ground and background (specifically, the lone figure on the far left and the two figures near the cars) with fantastical creatures. Use image 2 as a reference for the appearance and types of these creatures, such as the goblins, orcs, and reptilian beings depicted. Crucially, maintain the original Cyberpunk setting, style, and architecture of image 1, ensuring the integrated creatures are consistent with this futuristic urban environment.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Cyberpunk protagonist with blue mohawk and sword",
+    "First-person weapon/arm in foreground",
+    "Cyberpunk urban environment/architecture",
+    "Red car",
+    "Green car",
+    "Fantastical creature on the far left",
+    "Fantastical creature near the red car",
+    "Fantastical creature near the green car",
+    "Human figure on the far left (should not be present)",
+    "Human figures near the cars (should not be present)"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,27 @@
+{
+  "subtopic": "Websites",
+  "prompt": "Edit image 1: Replace the website's header background image showing vehicles with the scenic island landscape background from image 2, maintaining the layout and text overlays.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751012927073,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit image 1. In the top website header, replace the current dark background image, which depicts vehicles (a motorcycle on the left and a car on the right), with the scenic island landscape background from image 2. Crucially, preserve all existing foreground elements of image 1's header, including the 'B+G BLOWN for GOOD' logo, all navigation links, the social media icons in the top-right corner, and the transparent red overlay bar, ensuring their precise layout and appearance remain unchanged.",
+  "annotator": "ishengfang",
+  "objects": [
+    "scenic island landscape background",
+    "'B+G BLOWN for GOOD' logo",
+    "website navigation links (Home, Books & Merch, Audio & Video, Resources, Contact Us)",
+    "social media icons (Facebook, Twitter, Instagram, YouTube) in top-right corner",
+    "transparent red overlay bar",
+    "motorcycle (should not be present)",
+    "car (should not be present)",
+    "text: \"Exposing the abuses of Scientology through our stories and experiences.\"",
+    "Marc Headley's profile photo",
+    "\"BLOWN for GOOD\" book cover image"
+  ]
+}

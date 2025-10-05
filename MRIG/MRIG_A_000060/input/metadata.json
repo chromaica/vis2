@@ -1,0 +1,20 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "Design a surreal travel-themed collage using an airplane image from image 1 and pastel cloudscape from image 2.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a surreal travel-themed collage artwork. Prominently feature the vintage brown silhouette airplane from image 1, flying through a whimsical sky. This sky should be composed of the soft, painted pastel clouds (blues, whites, greys) and the warm golden-tan background texture derived from image 2. The final image should embody a dreamlike, collaged aesthetic, blending the distinct visual styles of both references.",
+  "annotator": "samin",
+  "objects": [
+    "vintage brown silhouette airplane",
+    "whimsical sky",
+    "soft, painted pastel clouds (blues, whites, greys)",
+    "warm golden-tan background texture",
+    "collaged aesthetic"
+  ]
+}

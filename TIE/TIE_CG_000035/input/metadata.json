@@ -1,0 +1,22 @@
+{
+  "subtopic": "Depth maps",
+  "prompt": "Apply a colorful gradient visualization to this depth map, mapping the closest objects (white) to bright blue and the furthest objects (black) to deep red.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751815844132,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1, a grayscale depth map of tulips, by applying a colorful gradient visualization. Map the white regions, representing the closest objects like the foreground tulips, to bright blue. Map the black regions, representing the furthest objects like the distant background, to deep red. Apply a smooth gradient for all intermediate depth values.",
+  "annotator": "edisy",
+  "objects": [
+    "bright blue foreground tulips",
+    "deep red distant background",
+    "tulips with intermediate gradient colors",
+    "smooth color gradient visualization"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

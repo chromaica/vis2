@@ -1,0 +1,26 @@
+{
+  "subtopic": "Visual instructions and manuals",
+  "prompt": "Using the gardening calendar chart, produce a month-by-month planting guide infographic for common vegetables.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://external-preview.redd.it/DONYgeQ9jX9JtbVpBc1JxBpAdjW4eigW7kfCtfv5EVw.jpg?width=640&crop=smart&auto=webp&s=4a408106607aaa3f1ac68fdb185028666189fae2",
+  "promptGeneratedTimestamp": 1749931984106,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate a comprehensive infographic that serves as a month-by-month planting, transplanting, and harvesting guide for common vegetables. Accurately extract and represent all vegetable names and their corresponding activity timelines for 'Start Seeds Indoors', 'Plant Seed/Transplant', and 'Harvest' directly from the data presented in image 1. The infographic should clearly and concisely visualize this information in a user-friendly format suitable for a gardening resource.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Infographic title (e.g., \"Vegetable Planting and Harvesting Guide\")",
+    "Horizontal timeline with month labels (JAN, FEB, MAR, ..., DEC)",
+    "Column header: \"Start Seeds Indoors\"",
+    "Column header: \"Plant Seed/Transplant\"",
+    "Column header: \"Harvest\"",
+    "Vertical list of vegetable names (e.g., Beans, Beets, Broccoli, Brussel Sprouts, Cabbage, Carrots, Cauliflower, Corn, Cucumber, Kale, Lettuce, Onions, Peas, Peppers, Spinach, Squash, Tomato)",
+    "Horizontal colored bars indicating activity periods for each vegetable",
+    "Green-to-orange/red color gradient applied to activity bars",
+    "Vertical grid lines separating months",
+    "Horizontal grid lines separating vegetable rows"
+  ]
+}

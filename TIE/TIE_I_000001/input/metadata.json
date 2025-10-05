@@ -1,0 +1,25 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "Change the ratio of each category from left to right to 30:30:40.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Modify the information graphic to update the percentage distribution for the three categories from left to right.\nThe leftmost category, represented by the monitor icon and gray stacked bar, should be changed to 30%.\nThe middle category, represented by the tablet icon and green stacked bar, should remain at 30%.\nThe rightmost category, represented by the smartphone icon and blue stacked bar, should be changed to 40%.\nEnsure the percentage labels and the visual height of the corresponding stacked bars accurately reflect these new ratios.",
+  "annotator": "cwhsu",
+  "objects": [
+    "monitor icon",
+    "tablet icon",
+    "smartphone icon",
+    "leftmost gray stacked bar representing 30%",
+    "middle green stacked bar representing 30%",
+    "rightmost blue stacked bar representing 40%",
+    "percentage label \"30%\" for the leftmost category",
+    "percentage label \"30%\" for the middle category",
+    "percentage label \"40%\" for the rightmost category",
+    "\"ILLUSTRATED BY SEGUE TECHNOLOGIES\" text"
+  ],
+  "human_annotation": true
+}

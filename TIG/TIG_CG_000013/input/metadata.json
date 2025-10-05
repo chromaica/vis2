@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "Facial estimation and analysis",
+  "prompt": "Mona lisa portrait. Highlight the facial landmarks including eyes, mouth, and nose with green color.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a portrait of the Mona Lisa. Her eyes, mouth, and nose should be clearly highlighted with a vibrant green color.",
+  "annotator": "maxku",
+  "objects": [
+    "portrait of the Mona Lisa",
+    "Mona Lisa's eyes",
+    "Mona Lisa's mouth",
+    "Mona Lisa's nose",
+    "vibrant green color on eyes",
+    "vibrant green color on mouth",
+    "vibrant green color on nose"
+  ],
+  "human_annotation": true
+}

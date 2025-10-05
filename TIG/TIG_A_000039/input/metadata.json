@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Cultural/heritage art",
+  "prompt": "Medieval European castle interior with knights preparing armor, long tapestries",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A grand hall within a medieval European castle interior, illuminated by torchlight. Several knights are gathered, actively preparing their armor; some are donning polished plate armor, while others meticulously clean helmets and gauntlets. Long, richly detailed tapestries depicting historical or mythological scenes adorn the rough stone walls.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Medieval European castle grand hall interior",
+    "Torchlight illumination",
+    "Knights",
+    "Polished plate armor (being donned by knights)",
+    "Helmets (being cleaned by knights)",
+    "Gauntlets (being cleaned by knights)",
+    "Long, richly detailed tapestries",
+    "Historical or mythological scenes on tapestries",
+    "Rough stone walls"
+  ],
+  "human_annotation": true
+}

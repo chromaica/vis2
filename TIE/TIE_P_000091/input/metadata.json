@@ -1,0 +1,22 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "change the view in the window into a view on mars",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the existing orbital view of Earth and the visible International Space Station components within the spacecraft windows with a photorealistic, orbital view of the planet Mars. The view should clearly depict Mars's distinctive reddish-orange surface, craters, and thin atmosphere, maintaining the original lighting and perspective. Ensure the interior spacecraft elements and the window frames remain unchanged.",
+  "annotator": "theblackcat",
+  "objects": [
+    "photorealistic orbital view of Mars",
+    "Mars's reddish-orange surface",
+    "craters on Mars",
+    "thin atmosphere of Mars",
+    "spacecraft window frames",
+    "interior spacecraft elements",
+    "orbital view of Earth (should not be present)",
+    "International Space Station components (should not be present)"
+  ]
+}

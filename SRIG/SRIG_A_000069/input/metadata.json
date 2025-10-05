@@ -1,0 +1,25 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Traditional art",
+  "prompt": "A Persian miniature painting of a royal court scene",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a detailed Persian miniature painting of a royal court scene, using image 1 as a compositional reference. Depict a central noble figure seated within an ornate, wooden pavilion, surrounded by multiple children and attendants. In the detailed background, a moon gate on the left reveals a snowy bamboo garden, while a large, gnarled tree with snow-dusted branches frames the right side. The overall scene should reflect the intricate detail and vibrant color palette characteristic of Persian miniatures, while maintaining the layout and elements of image 1.",
+  "annotator": "Johnny",
+  "objects": [
+    "central noble figure",
+    "ornate, wooden pavilion",
+    "multiple children",
+    "attendants",
+    "moon gate on the left",
+    "snowy bamboo garden",
+    "large, gnarled tree with snow-dusted branches on the right side",
+    "snow on ground and structures",
+    "background wall",
+    "ground-level rock formations"
+  ],
+  "human_annotation": true
+}

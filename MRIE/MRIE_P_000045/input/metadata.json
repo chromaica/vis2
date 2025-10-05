@@ -1,0 +1,27 @@
+{
+  "subtopic": "Wildlife & Nature Photography",
+  "prompt": "Edit image 1 by realistically placing the vulture onto a vast, photorealistic snowy mountain landscape inspired by the environment and perspective in image 3. Introduce a natural, rocky foreground element similar to the perch seen in image 2. Apply the dramatic, warm golden hour lighting style and atmosphere from image 2 across the entire scene, illuminating the vulture and the snowy peaks convincingly.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748572043489,
+  "promptLengthUsed": "long",
+  "task": "MRIE",
+  "topic": "P",
+  "prompt_refined": "Edit image 1. Realistically composite the vulture from image 1 (maintaining its current pose) onto a vast, photorealistic snowy mountain landscape. This new environment should adopt the expansive, high-altitude perspective and majestic scale seen in image 3. Introduce a natural, rugged rocky foreground element, reminiscent of the perch in image 2, positioned for the vulture to be realistically perched upon. Apply the dramatic, warm golden hour lighting and atmospheric quality from image 2 across the entire modified scene, ensuring the vulture, the foreground rocks, and the distant snowy peaks are convincingly illuminated by this warm glow.",
+  "annotator": "boris",
+  "objects": [
+    "Vulture (from image 1, maintaining current pose)",
+    "Vast snowy mountain landscape",
+    "Natural, rugged rocky foreground element",
+    "Warm golden hour lighting",
+    "Warm atmospheric quality",
+    "High-altitude perspective",
+    "Majestic scale",
+    "Distant snowy peaks"
+  ],
+  "human_annotation": true
+}

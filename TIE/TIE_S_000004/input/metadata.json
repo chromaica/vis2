@@ -1,0 +1,25 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "Add a rainbow trail behind the ball, making it colorful and magical as it flies through the air.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 to add a vibrant, magical rainbow trail directly behind the soccer ball, extending along its flight path as it moves through the air in the upper-center of the image.",
+  "annotator": "cwhsu",
+  "objects": [
+    "soccer ball",
+    "vibrant, magical rainbow trail behind the soccer ball",
+    "soccer players",
+    "soccer goal",
+    "football pitch",
+    "stadium lights",
+    "spectators/crowd",
+    "city skyline",
+    "user interface elements"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

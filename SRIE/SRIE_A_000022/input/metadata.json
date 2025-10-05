@@ -1,0 +1,30 @@
+{
+  "subtopic": "Digital arts",
+  "prompt": "Edit Image 1: Transform the detailed forest landscape within the bear outline by replacing it with the misty, serene, watercolor-like style and elements from Image 2, incorporating soft mountains and ethereal mist.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "High quality digital art",
+  "searchQueryGeneratedTimestamp": 1748489926772,
+  "promptGeneratedTimestamp": 1748489969717,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit Image 1: Replace the entire internal detailed forest landscape within the bear's silhouette, including the trees, deer, and glowing purple elements. The new scene should adopt the misty, serene, watercolor-like style and landscape elements from Image 2, specifically incorporating soft, rounded mountains emerging from ethereal mist and calm reflective water surfaces.",
+  "annotator": "kellycyy",
+  "objects": [
+    "Bear silhouette (outer shape)",
+    "Stork on bear's nose",
+    "Sun/Moon in background",
+    "Pink/purple sky background",
+    "Soft, rounded mountains (within bear silhouette)",
+    "Misty landscape / ethereal mist (within bear silhouette)",
+    "Calm reflective water surfaces (within bear silhouette)",
+    "Trees (within bear silhouette) (should not be present)",
+    "Deer (within bear silhouette) (should not be present)",
+    "Glowing purple elements (within bear silhouette) (should not be present)"
+  ],
+  "human_annotation": true
+}

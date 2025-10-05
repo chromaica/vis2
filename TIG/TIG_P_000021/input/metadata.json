@@ -1,0 +1,23 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "A swirling celestial nebula in vibrant purples and blues, with bursts of stardust and distant glowing stars.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A vast, spiraling celestial nebula, with vibrant purples and electric blues swirling and blending throughout its expansive form. Bright, shimmering bursts of stardust streak dynamically through the swirling gas clouds. Countless small, glowing stars are scattered across the deep, dark cosmic background, appearing as distant pinpricks of light.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Vast celestial nebula",
+    "Spiraling nebula shape",
+    "Vibrant purple colors",
+    "Electric blue colors",
+    "Swirling gas clouds within the nebula",
+    "Bright bursts of stardust",
+    "Streaking stardust",
+    "Small, glowing stars",
+    "Deep, dark cosmic background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

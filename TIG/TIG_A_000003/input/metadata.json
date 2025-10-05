@@ -1,0 +1,19 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Traditional art",
+  "prompt": "A rustic countryside scene with azure skies and a quaint cobblestone path lined by blooming sunflowers.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A rustic countryside scene under clear azure skies, featuring a quaint cobblestone path that meanders through the landscape, lined on both sides by vibrant blooming sunflowers.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Rustic countryside scene",
+    "Clear azure skies",
+    "Quaint, meandering cobblestone path",
+    "Vibrant blooming sunflowers",
+    "Sunflowers lining both sides of the path"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

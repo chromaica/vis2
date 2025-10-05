@@ -1,0 +1,24 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Cultural or Heritage art",
+  "prompt": "An ancient Japanese Shoya House with a man drinking with a referenced japanese-style teacup.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate an image depicting a man seated and drinking tea within an ancient Japanese Shoya House interior. The man is holding a Japanese-style teacup that visually references the distinct traditional pottery and intricate artwork from image 1, including stylized landscapes, tree branches, and subtle bird motifs on its surface.",
+  "annotator": "Johnny",
+  "objects": [
+    "Man",
+    "Man seated",
+    "Man drinking tea",
+    "Ancient Japanese Shoya House interior",
+    "Japanese-style teacup",
+    "Teacup with traditional pottery design",
+    "Teacup with intricate artwork",
+    "Teacup artwork: stylized landscapes",
+    "Teacup artwork: tree branches",
+    "Teacup artwork: subtle bird motifs"
+  ]
+}

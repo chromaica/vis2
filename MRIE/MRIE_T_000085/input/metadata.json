@@ -1,0 +1,30 @@
+{
+  "subtopic": "Memes",
+  "prompt": "Edit image 1 by applying the yellow/orange background gradient and blue text box style from image 5 to the panels. Use the font style from image 2 for the main text overlay. Add the gold balloon 'MEMES' text from image 4 above the top panel. Place a miniature top hat from image 3 onto Captain America's head in the bottom panel.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg",
+    "4.jpeg",
+    "5.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749711518106,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "T",
+  "prompt_refined": "Edit image 1. Apply the yellow/orange background gradient and the solid blue rectangular text box style from image 5 to both the top and bottom panels. Change the font of all existing text overlays in image 1 (\"ME: NEEDS 20 MORE WORDS FOR A PAPER\", \"I'M\", \"I AM\") to match the bold, white, sans-serif style with a dark outline seen in the main text of image 2. Place the gold balloon letters spelling \"MEMES\" from image 4, horizontally centered, directly above the top panel. Finally, add a miniature version of the brown top hat from image 3 onto Captain America's head in the bottom panel.",
+  "annotator": "winston",
+  "objects": [
+    "Captain America (Chris Evans) in top panel",
+    "Captain America (Chris Evans) in bottom panel",
+    "Yellow/orange background gradient within panels",
+    "Solid blue rectangular text boxes",
+    "Text overlays (\"ME: NEEDS 20 MORE WORDS FOR A PAPER\", \"I'M\", \"I AM\") with bold, white, sans-serif, dark outline font",
+    "Gold balloon letters spelling \"MEMES\" (horizontally centered above top panel)",
+    "Miniature brown top hat (on Captain America's head in bottom panel)",
+    "Dark blue background surrounding panels",
+    "BOOK BIRD logo"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,21 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Make the girl holding the tower like a spear",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Reposition the girl's arms and hands to make it appear as if she is firmly holding the tall, illuminated tower in the background, treating the entire tower as a large spear or staff. The tower should extend vertically upwards from her grip.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Girl seen from behind",
+    "Girl's arms and hands (positioned as if holding)",
+    "Tall, illuminated tower",
+    "Tower appearing as a large spear or staff",
+    "Tower extending vertically upwards from the girl's grip",
+    "City skyline in the background",
+    "Cloudy sky"
+  ]
+}

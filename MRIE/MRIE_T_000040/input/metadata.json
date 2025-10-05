@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "Edit the connecting lines in the first image with the design from the second image. Then, all pictures in the first image should have a rounded corner of 20px. Next, add the image from the third image to represent Earnest. Finally, change the font of the text to the font in the fourth image, expect for legend and footer text. The purple text should also be replaced with the font color from the fourth image.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png",
+    "4.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the family tree diagram, as follows:\n\n1.  **Connecting Lines:** Modify all connecting lines in the family tree, including the black and the distinct purple \"Succession line\", to adopt the rounded, thicker design style of the lines visible in image 2. The purple \"Succession line\" should retain its original purple color, while other connecting lines remain black, but all should be updated to the new rounded, thicker style.\n2.  **Portrait Images:** Apply a 20px rounded corner radius to all individual portrait images (e.g., King Charles III, Diana, Princess of Wales, Queen Camilla, etc.) within the diagram.\n3.  **Earnest's Portrait:** Locate the empty portrait placeholder labeled \"Earnest\" in the bottom-right section of the diagram, and insert the baby's image from image 3 into it, ensuring it is appropriately scaled and positioned within the circular frame.\n4.  **Text Font Style:** Change the font style of all names and titles displayed within the family tree (e.g., \"King Charles III\", \"William, Prince of Wales\", \"Peter Phillips\", \"Princess Beatrice\", \"Sienna\", \"August\", \"Earnest\", etc.) to match the gothic font style demonstrated in image 4. This font style change should **not** be applied to the legend text at the top of the diagram (\"Succession line\", \"Also in line\", \"Divorced\") or the footer text at the bottom (\"Image credit: Getty, PA Media, Reuters\", \"BBC\").\n5.  **Text Font Color:** Change the color of the existing purple text within the family tree (specifically \"King Charles III\", \"William, Prince of Wales\", \"Prince George\", \"Princess Charlotte\", \"Prince Louis of Wales\") to the golden color of the font in image 4. The purple text in the legend should retain its original color.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Family tree diagram structure",
+    "Purple \"Succession line\" with rounded, thicker design",
+    "Black connecting lines with rounded, thicker design",
+    "Individual portrait images (e.g., King Charles III, Diana, Princess of Wales, Queen Camilla) with 20px rounded corners",
+    "Baby's portrait (from image 3) in the \"Earnest\" position",
+    "Names and titles (e.g., \"William, Prince of Wales\", \"Peter Phillips\", \"Sienna\", \"August\") in gothic font style",
+    "Golden-colored names (King Charles III, William, Prince George, Princess Charlotte, Prince Louis of Wales)",
+    "Legend text (e.g., \"Succession line\", \"Also in line\", \"Divorced\") in original font style and color",
+    "Footer text (e.g., \"Image credit: Getty, PA Media, Reuters\", \"BBC\") in original font style",
+    "Empty portrait placeholder labeled \"Earnest\" (should not be present)"
+  ],
+  "human_annotation": true
+}

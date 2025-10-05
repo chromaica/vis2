@@ -1,0 +1,31 @@
+{
+  "subtopic": "Maps",
+  "prompt": "Generate an information graphic map using the illustrative art style and diverse icons from image 1, integrating the choropleth data visualization technique with a legend from image 2 to color map areas based on data.",
+  "cond_images": [
+    "1.jpeg",
+    "2.png"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "Information Graphics Maps",
+  "searchQueryGeneratedTimestamp": 1751989815076,
+  "promptGeneratedTimestamp": 1751989919543,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "I",
+  "annotator": "htwong",
+  "prompt_refined": "Generate an information graphic map that combines the whimsical, illustrative art style and diverse iconography from image 1 (e.g., stylized trees, buildings, recreational elements) with a choropleth data visualization technique. The map should feature distinct, color-fillable regions that are colored based on data. Include a data legend in the bottom-left corner, styled like the 'Legend' section from image 2, using a purple color gradient to represent numerical data ranges for the choropleth coloring.",
+  "objects": [
+    "Information graphic map",
+    "Distinct, color-fillable regions",
+    "Whimsical, illustrative art style",
+    "Stylized trees",
+    "Stylized buildings",
+    "Stylized river and water bodies",
+    "Stylized benches",
+    "Stylized coffee cups",
+    "Data legend in bottom-left corner",
+    "Purple color gradient with numerical data ranges"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

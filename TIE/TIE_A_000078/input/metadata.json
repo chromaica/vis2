@@ -1,0 +1,26 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Cultural or Heritage art",
+  "prompt": "Enchance the depth by making the background and foreground more distinct.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, a marble relief artwork. Enhance the visual depth by increasing the distinctness between the sculpted foreground figures and the flat background plane. Deepen the shadows in the recessed areas behind and around the foreground elements (figures, animals, foliage) and subtly brighten the highlights on the prominent features of these foreground sculptures.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "marble relief artwork",
+    "central female figure",
+    "two infants",
+    "female figure with swan on left",
+    "swan",
+    "female figure with sea creature on right",
+    "sea creature",
+    "bull",
+    "sheep",
+    "foliage"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

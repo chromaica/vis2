@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "oil paintings",
+  "prompt": "A dramatic oil landscape of a desert at twilight, featuring sand dunes with intricate shadows and a sky ablaze with purples and pinks.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a dramatic oil painting of a desert landscape at twilight. The scene features prominent sand dunes casting intricate, long shadows, set against a sky vividly ablaze with purples and pinks.",
+  "annotator": "cwhsu",
+  "objects": [
+    "oil painting style",
+    "desert landscape",
+    "twilight lighting",
+    "prominent sand dunes",
+    "intricate, long shadows",
+    "sky",
+    "purple sky",
+    "pink sky"
+  ],
+  "human_annotation": true
+}

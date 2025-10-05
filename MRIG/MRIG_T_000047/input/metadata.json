@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "Design a coffee cup typography with sleepy-themed words like 'cozy', 'relax', and 'dream', arranged like steam and cup in image 1, using a tilted sleepy style from image 2 and coloring with the cheerful palette of image 3.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a textual graphic depicting a coffee cup with rising steam. The entire coffee cup shape, including its handle on the right, and the steam rising above it, should be composed solely of the sleepy-themed words 'cozy', 'relax', and 'dream'. Arrange these words to form the precise silhouette and composition shown in image 1, with the words forming the cup in a dense arrangement and the words for steam curving upwards. Apply a subtle, sleepy tilt to all letters, mirroring the slanted style of the word in image 2. Color the typographic elements using the cheerful, vibrant rainbow palette from image 3, including shades of red, orange, yellow, green, blue, and violet. The graphic should be centered on a plain dark background.",
+  "annotator": "parnian",
+  "objects": [
+    "Coffee cup silhouette formed by text",
+    "Coffee cup handle on the right, formed by text",
+    "Steam above the coffee cup, formed by text",
+    "The word \"cozy\"",
+    "The word \"relax\"",
+    "The word \"dream\"",
+    "Text elements with a subtle, sleepy tilt",
+    "Rainbow color scheme on textual elements (red, orange, yellow, green, blue, violet)",
+    "Plain dark background"
+  ],
+  "human_annotation": true
+}

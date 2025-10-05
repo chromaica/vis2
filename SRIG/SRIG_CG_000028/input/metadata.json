@@ -1,0 +1,23 @@
+{
+  "subtopic": "Depth maps",
+  "prompt": "Using this depth map as a structural guide, render a photorealistic image of a person wearing a cap, with a slight smile, against a neutral background.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://static.clipdrop.co/web/apis/portrait-depth-estimation/depth-output.png",
+  "promptGeneratedTimestamp": 1748766780003,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a photorealistic image of a person from the upper body up, wearing a baseball cap, and displaying a slight smile. Use image 1 (depth map) as a precise structural guide for the person's pose and composition, placing them in the right half of the frame against a plain, neutral background.",
+  "annotator": "ishengfang",
+  "objects": [
+    "photorealistic image",
+    "person (upper body up)",
+    "baseball cap",
+    "slight smile",
+    "person in the right half of the frame",
+    "plain, neutral background"
+  ],
+  "human_annotation": true
+}

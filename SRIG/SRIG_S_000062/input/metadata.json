@@ -1,0 +1,24 @@
+{
+  "subtopic": "Software interfaces",
+  "prompt": "Reimagine this modern calendar app screenshot as if it were designed with the Windows 95 UI aesthetic, complete with beveled edges, blocky icons, and the classic gray color scheme.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "https://www.notion.com/_next/image?url=%2Ffront-static%2Fpages%2Fcalendar%2Fnotion-calendar-desktop-v2.png&w=2048&q=75",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Redesign the modern calendar application screenshot from image 1 to fully adopt the Windows 95 UI aesthetic. Apply prominent beveled edges to all UI elements, including buttons (e.g., \"Today\", \"Share availability\"), frames, and the overall application window. Implement the classic Windows 95 gray color scheme for all backgrounds and interactive components. Transform all icons (such as the search icon, user avatar, navigation arrows, and calendar type icons on the left sidebar) into a blocky, pixelated, 16-color style. Ensure colorful calendar event blocks (e.g., \"Q4 results share\", \"Lunch with Rob\", \"Flight: LA603\") retain their distinct colors but are rendered with a visual style consistent with Windows 95, such as a subtle gradient or textured fill. All text should use a font reminiscent of the Windows 95 era.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Overall calendar application window with Windows 95 UI aesthetic",
+    "Calendar grid displaying January 2024 dates and times",
+    "Colorful calendar event blocks (e.g., \"Q4 results share\", \"Lunch with Rob\", \"Flight: LA603\")",
+    "\"Today\" button with prominent beveled edges",
+    "\"Share availability\" button with prominent beveled edges",
+    "Search icon in pixelated, 16-color style",
+    "User avatar in pixelated, 16-color style",
+    "Navigation arrows (left/right) in pixelated, 16-color style",
+    "Left sidebar with calendar type labels (e.g., \"Work\", \"Data Science Team\") and pixelated 16-color icons",
+    "All text content (e.g., \"January 2024\", event titles, times) using a Windows 95 era font"
+  ]
+}

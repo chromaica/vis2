@@ -1,0 +1,25 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "QR Code",
+  "prompt": "Edit image 1 by replacing its black-and-white QR code with the blue Telegram QR from image 2, scaled to match the original size and centered in the same position. Then, change the beige background of the entire card to the blue-to-cyan gradient from image 3, ensuring the text and layout remain readable. Keep all text (including the URL and vaccine note) unchanged.",
+  "cond_images": [
+    "1.png",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the existing black-and-white QR code with the blue Telegram QR code from image 2, ensuring it is scaled to match the original size and remains centered in the same position. Change the beige background of the entire card in image 1 to the blue-to-cyan gradient from image 3. All text elements (including \"Access Your Vaccine Records\", \"https://myvaxrecords.mass.gov/\", and the descriptive paragraph) must remain unchanged and readable against the new background.",
+  "annotator": "parnian",
+  "objects": [
+    "Blue-to-cyan gradient background",
+    "\"Access Your Vaccine Records\" title text",
+    "Blue Telegram QR code",
+    "Small QR code icon with hand",
+    "\"https://myvaxrecords.mass.gov/\" URL text",
+    "White rounded rectangle (background for URL)",
+    "Descriptive paragraph text",
+    "Dark blue rectangular area (background for paragraph)",
+    "Black-and-white QR code (should not be present)"
+  ]
+}

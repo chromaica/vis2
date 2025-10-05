@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Group the data by small, medium, and large rewards, placing Reward Group on the horizontal axis.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the bar chart in image 1. Restructure the chart to display 'Reward Group' as the primary variable on the horizontal axis, replacing the current 'Age Group'. Relabel the horizontal axis as 'Reward Group', featuring the categories: 'Small Reward', 'Medium Reward', and 'Large Reward'. Within each 'Reward Group' category on the horizontal axis, regroup the existing bars to represent the 'Framing Score' for all combinations of 'Age Group' (Adolescent, Young Adult) and 'Risk' (Low Risk, High Risk). Ensure a clear visual distinction (e.g., a new legend) is provided for these sub-groups, while maintaining the accuracy of all data points.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Bar chart",
+    "Y-axis labeled \"Framing Score\"",
+    "Y-axis numerical scale (e.g., 0, 0.1, 0.2, 0.3, 0.4)",
+    "X-axis labeled \"Reward Group\"",
+    "X-axis major categories: 'Small Reward', 'Medium Reward', 'Large Reward'",
+    "Grouped bars under each 'Reward Group' category",
+    "Individual bars representing combinations of 'Age Group' and 'Risk'",
+    "Error bars on each individual bar",
+    "New legend differentiating combinations of 'Age Group' and 'Risk' (e.g., Adolescent Low Risk, Young Adult High Risk)",
+    "Original legend (Small Reward, Medium Reward, Large Reward) (should not be present)"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "P",
+  "subtopic": "Medical images",
+  "prompt": "Enhance the chest X-ray (image 1) by blending it with the attention heatmap from image 2, emphasizing diagnostically relevant regions while preserving anatomical detail",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 (the chest X-ray) by overlaying the attention heatmap derived from image 2 onto it. The output image must visually emphasize the diagnostically relevant regions indicated by the red and yellow areas of the heatmap in image 2. Crucially, the detailed anatomical structures of the original chest X-ray (image 1) must be fully preserved and remain clearly discernible beneath the heatmap overlay.",
+  "annotator": "nimajamali",
+  "objects": [
+    "Chest X-ray image",
+    "Ribs (discernible beneath overlay)",
+    "Lungs (discernible beneath overlay)",
+    "Clavicles (discernible beneath overlay)",
+    "Shoulder bones (discernible beneath overlay)",
+    "Attention heatmap overlay",
+    "Red heatmap areas",
+    "Yellow heatmap areas",
+    "Blue heatmap areas",
+    "Green heatmap areas"
+  ]
+}

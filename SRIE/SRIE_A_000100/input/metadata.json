@@ -1,0 +1,26 @@
+{
+  "subtopic": "Stylized art",
+  "prompt": "Add the image 2 on top of the image 1, so the image 1 looks like a background with slightly lower transparency.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748715566304,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1 by overlaying image 2, centered, on top of it. Adjust image 1 to serve as a background layer, subtly reducing its opacity so it has a low level of transparency, allowing image 2 to remain clearly visible.",
+  "annotator": "kellycyy",
+  "objects": [
+    "Stylized head (centered)",
+    "Reddish-pink stylized face",
+    "Teal stylized hair",
+    "Purple stylized scarf/collar",
+    "Black outlines (for head features)",
+    "Small pink lines (on cheeks)",
+    "Abstract organic shapes (as translucent background layer)",
+    "Various shades of brown/beige/tan (in background shapes)",
+    "Light beige background"
+  ]
+}

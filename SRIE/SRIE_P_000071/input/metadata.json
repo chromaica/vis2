@@ -1,0 +1,27 @@
+{
+  "task": "SRIE",
+  "topic": "P",
+  "subtopic": "Medical images",
+  "prompt": "Use the reference image of a healthy clavicle (image 2) to repair the fractured clavicle in the source X-ray (image 1). Seamlessly reconstruct the broken bone segment by aligning the anatomy and preserving the radiographic texture.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the source X-ray (image 1) by repairing the fractured left clavicle. Use the healthy left clavicle shown in the reference X-ray (image 2) as a guide for anatomical reconstruction. Seamlessly reconstruct the broken bone segments to appear as a single, intact clavicle, preserving the original radiographic texture and bone density.",
+  "annotator": "nimajamali",
+  "objects": [
+    "X-ray image",
+    "Upper human torso",
+    "Ribs",
+    "Spine/vertebrae",
+    "Left shoulder joint",
+    "Single, intact left clavicle",
+    "Radiographic texture",
+    "Bone density appearance",
+    "'L' marker",
+    "Fractured left clavicle (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,23 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Generate an architecture design app interface that uses the tool palette and drawing canvas layout from the first image, and the 3D building preview style from the second image.",
+  "cond_images": [
+    "1.png",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a screenshot of an architecture design application interface. The overall desktop application layout, including the top menu bar, the vertical tool palette on the left, the main central drawing canvas, and a narrow vertical panel on the right (e.g., for layers or properties), should reflect the structure and arrangement seen in image 1. The 3D building displayed within the main canvas should be rendered in a realistic style, featuring detailed textures, realistic lighting, and soft shadows, similar to the visual fidelity of the building preview in image 2. The building should also be set within an outdoor environment with a green ground plane, consistent with image 2.",
+  "annotator": "paria",
+  "objects": [
+    "Architecture design application interface",
+    "Top menu bar",
+    "Vertical tool palette on the left",
+    "Main central drawing canvas",
+    "Narrow vertical panel on the right",
+    "3D building (within the main canvas)",
+    "Outdoor environment (surrounding the building)",
+    "Green ground plane"
+  ]
+}

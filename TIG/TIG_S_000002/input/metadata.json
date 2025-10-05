@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "the scene where mario game where mario encounter the mushroom. Mario just jumped from the pipe",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A 2D pixel art screenshot from a classic Super Mario Bros. game. Mario, in his iconic red cap and blue overalls, is depicted mid-jump, having just emerged from a green warp pipe located in the bottom-left of the scene. He is looking towards and about to encounter a red and white Super Mushroom, which rests on a brown question mark block positioned slightly to his right. The background features a clear blue sky, fluffy white clouds, and a classic grassy Mario landscape.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Mario in red cap and blue overalls, mid-jump",
+    "Green warp pipe in the bottom-left",
+    "Red and white Super Mushroom",
+    "Brown question mark block to Mario's right",
+    "Clear blue sky",
+    "Fluffy white clouds",
+    "Classic grassy Mario landscape",
+    "2D pixel art graphics"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

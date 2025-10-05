@@ -1,0 +1,22 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Vector art",
+  "prompt": "Enhance the depth of the picture by making the shadows darker and the highlights brighter.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 to enhance its depth. Make the shadows darker and the highlights brighter. Apply this effect to the layered waves, the undersides of the clouds, the base of the island, and the contours of the foreground and background foliage to create a more pronounced three-dimensional appearance.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "sun",
+    "clouds",
+    "sky",
+    "island",
+    "palm trees",
+    "layered waves",
+    "foreground foliage",
+    "background foliage"
+  ]
+}

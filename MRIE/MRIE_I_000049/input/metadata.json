@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "Edit image 1, the fantasy map: Add the green blob creature from image 2 as a friendly marker on the waterfall island, and add the dark geometric creature from image 3 as a challenging marker on the volcano island.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the fantasy map: Prominently place the green blob creature from image 2 as a friendly marker on the large island in the top-right corner, which features a prominent waterfall and lake. Additionally, prominently place the dark geometric creature from image 3 as a challenging marker on the large central island, which has an active volcano.",
+  "annotator": "maxku",
+  "objects": [
+    "green blob creature on the large island in the top-right",
+    "dark geometric creature on the large central island",
+    "fantasy map",
+    "large island in the top-right with waterfall and lake",
+    "large central island with active volcano",
+    "ocean",
+    "dashed path lines connecting islands",
+    "ship",
+    "island with a red 'X' pyramid",
+    "island with an igloo and penguins"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

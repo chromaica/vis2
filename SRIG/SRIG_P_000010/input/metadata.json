@@ -1,0 +1,22 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "Generate a close-up image of the virus (the shape of the virus should match the shape in the image) attacking a cell tissue, with clear interactions between the virus and the surrounding cells.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a close-up, photorealistic image depicting a virus, specifically one with the distinctive polyhedral head, helical tail, and leg-like fibers resembling the bacteriophage in image 1, actively attacking a cell tissue. Ensure clear visual evidence of the virus's direct interaction with the cells within the tissue.",
+  "annotator": "samin",
+  "objects": [
+    "photorealistic virus",
+    "polyhedral virus head",
+    "helical virus tail",
+    "leg-like virus fibers",
+    "cell tissue",
+    "virus directly interacting with cell tissue"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

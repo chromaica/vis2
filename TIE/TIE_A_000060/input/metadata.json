@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Renaissance",
+  "prompt": "Change the time of the day to 8am of the day.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Modify the artwork to depict the scene at approximately 8 AM. The sky should feature soft, pale yellow and orange hues near the horizon transitioning to bright, clear blues overhead, with appropriately lit clouds. The overall scene, including the ships, lighthouse, buildings, and figures, should be illuminated by the early morning sun, casting long, distinct shadows and giving the harbor a fresh, crisp, and awakening appearance, distinctly different from the current warm, late-day light.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Early morning sky with soft yellow, orange, and clear blue hues and lit clouds",
+    "Harbor water",
+    "Large sailing ships",
+    "Lighthouse",
+    "Coastal buildings and town",
+    "Human figures on shore and in boats",
+    "Shoreline and rocky foreground",
+    "Small boats",
+    "Long, distinct shadows",
+    "Distant mountains/hills"
+  ]
+}

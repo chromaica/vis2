@@ -1,0 +1,17 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "ASCII Art",
+  "prompt": "An ASCII art creation: the word 'ASCII' rendered in glowing blue monospace characters, appearing on a dark computer monitor display complete with scanlines.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate an image depicting the word 'ASCII' as glowing blue monospace ASCII art. The text is displayed prominently on a dark computer monitor screen, which exhibits clear horizontal scanlines.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "The word \"ASCII\" as text",
+    "Text rendered in monospace ASCII art style",
+    "Glowing blue text",
+    "Dark computer monitor screen",
+    "Horizontal scanlines on the monitor screen"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Pixel Art",
+  "prompt": "An underwater pixel art world, teeming with colorful fish, mysterious shipwrecks, and luminous coral formations.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A vibrant pixel art underwater world. It is teeming with numerous colorful fish swimming actively. On the ocean floor, several mysterious shipwrecks lie, partially obscured, and are encircled by an abundance of brightly luminous coral formations.",
+  "annotator": "cwhsu",
+  "objects": [
+    "A vibrant pixel art underwater world",
+    "Numerous colorful fish swimming actively",
+    "Ocean floor",
+    "Several mysterious shipwrecks, partially obscured, on the ocean floor",
+    "Abundant, brightly luminous coral formations, encircling the shipwrecks"
+  ]
+}

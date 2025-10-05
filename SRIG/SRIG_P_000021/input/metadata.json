@@ -1,0 +1,22 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Using the reference sketch as guidance, generate a realistic photograph of a white flower in a garden. The flower should be in sharp focus, with the background and surroundings softly blurred.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic image of multiple white gladiolus-like flowers on a single stalk, adhering to the compositional arrangement and structural details depicted in image 1. These flowers should be positioned centrally or slightly to the right within a vibrant garden setting. Ensure the flowers are in sharp focus, while the garden background and surroundings are rendered with a soft, natural bokeh blur.",
+  "annotator": "samin",
+  "objects": [
+    "photorealistic image",
+    "multiple white gladiolus-like flowers (adhering to compositional arrangement and structural details of image 1)",
+    "single stalk (adhering to structural details of image 1)",
+    "leaves (adhering to structural details of image 1)",
+    "flowers positioned centrally or slightly to the right",
+    "vibrant garden setting",
+    "flowers in sharp focus",
+    "garden background with soft, natural bokeh blur"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "Transform the map in image 1 into a Nether map. Represent the terrain using the reddish blocky style and cavernous shapes from image 3. Integrate architectural structures and glowing lava features inspired by image 2 onto the map layout, maintaining the overall blocky aesthetic.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 to transform its Overworld map into a detailed Nether map. Convert all water bodies (blue areas) into glowing lava oceans and rivers, referencing the prominent lava features in image 2. Represent all landmasses (green, brown, and white areas) as reddish, blocky Nether terrain, incorporating the cavernous shapes and varied elevations seen in image 3. Integrate architectural structures, such as bridges and fortress components, and additional glowing lava elements from image 2 onto the transformed map layout. The final output must maintain the pixelated, top-down map aesthetic of image 1.",
+  "annotator": "maxku",
+  "objects": [
+    "Glowing lava oceans",
+    "Glowing lava rivers",
+    "Reddish Nether terrain",
+    "Cavernous terrain formations",
+    "Varied terrain elevations",
+    "Architectural bridges",
+    "Fortress components",
+    "Additional glowing lava elements"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,21 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Extrude the flat text into a 3D block form, matching the depth/shadows from this model.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Transform the 'PANIC' text on the red button into a raised 3D block form. The extruded text should exhibit pronounced depth and realistic shadows, mirroring the substantial three-dimensional relief and detailed shadow characteristics evident in image 2.",
+  "annotator": "matina",
+  "objects": [
+    "red button",
+    "surrounding keyboard keys",
+    "raised, 3D block-form 'PANIC' text",
+    "realistic shadows cast by the 3D text"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

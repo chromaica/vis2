@@ -1,0 +1,27 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "Design a receipt for a car wash service, featuring the car from the first image and service details from the second image.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a digital receipt for a car wash service. The black Mercedes-Benz G-Class SUV from image 1 should be featured as a prominent, yet subtle, background watermark or a stylized graphic within the receipt's header. Clearly display the details for the 'Super Platinum Package' from image 2, including its price and a comprehensive itemized list of the services included in that package, as detailed in image 2. Ensure the receipt includes a business name (e.g., 'Elite Auto Spa'), a transaction date, and a total amount, presented in a clean, legible format typical of a digital receipt.",
+  "annotator": "paria",
+  "objects": [
+    "Digital receipt layout",
+    "Black Mercedes-Benz G-Class SUV (as prominent yet subtle watermark or header graphic)",
+    "Business name (e.g., 'Elite Auto Spa')",
+    "Transaction date",
+    "\"Super Platinum Package\" title",
+    "Price for \"Super Platinum Package\" ($109.99 for full-sized vehicles)",
+    "Comprehensive itemized list of services for \"Super Platinum Package\"",
+    "Total amount",
+    "Receipt header",
+    "Legible text"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

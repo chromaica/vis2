@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "QR Code",
+  "prompt": "Edit image 1 by replacing its current black-and-white QR code with the QR code from image 2 that has the heart embedded in the center, ensuring it is scaled to fit within the original white box without touching the borders. Then, replace the 'YOUR LOGO' box with the black Apple logo from image 3, scaled to match the width of the 'YOUR LOGO' label and centered below the new QR code. Keep the yellow background, black heading text, and overall poster layout unchanged.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 (the yellow poster) by performing the following modifications:\nFirst, replace the current black-and-white QR code with the QR code from image 2, which features a green heart embedded in its center. Scale this new QR code to fit precisely within the existing white square frame on image 1, ensuring it does not touch the inner edges of the frame.\nSecond, replace the 'YOUR LOGO' text and its surrounding white box at the bottom of image 1 with the black Apple logo from image 3. Position the Apple logo directly below the newly placed QR code, centered horizontally where the 'YOUR LOGO' box originally was. Scale the Apple logo to match the width of the original 'YOUR LOGO' text label.\nEnsure the yellow background, the black 'SCAN THIS CODE QR TO SEE THE MENU' heading, the 'More comfortable, faster and environmentally friendly.' sub-text, and the overall poster layout and other existing design elements of image 1 remain unchanged.",
+  "annotator": "parnian",
+  "objects": [
+    "Yellow background",
+    "Black 'SCAN THIS CODE QR TO SEE THE MENU' heading",
+    "'More comfortable, faster and environmentally friendly.' sub-text",
+    "Spoon and fork/menu icon at the top",
+    "QR code with a green heart in its center",
+    "White square frame for QR code",
+    "Black Apple logo",
+    "Black-and-white QR code (should not be present)",
+    "'YOUR LOGO' text (should not be present)",
+    "White box around 'YOUR LOGO' (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

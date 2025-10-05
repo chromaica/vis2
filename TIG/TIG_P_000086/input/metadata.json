@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "A black-and-white portrait of a jazz musician playing saxophone on a dimly lit stage, creating a nostalgic, timeless feel.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a black-and-white, medium close-up portrait of a male jazz musician, actively playing a tenor saxophone. The musician should be centrally framed on a dimly lit stage, illuminated by a single, focused overhead spotlight, casting the immediate background into deep shadow. The image should convey a classic, timeless aesthetic with a subtle film grain texture, evoking a strong sense of nostalgia.",
+  "annotator": "cwhsu",
+  "objects": [
+    "black-and-white image",
+    "male jazz musician",
+    "tenor saxophone",
+    "musician centrally framed",
+    "dimly lit stage",
+    "single, focused overhead spotlight",
+    "immediate background in deep shadow",
+    "subtle film grain texture"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

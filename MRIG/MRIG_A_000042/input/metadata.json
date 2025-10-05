@@ -1,0 +1,23 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "A digital artwork combining the silhouette of the man and his dog from image 1 with the atmospheric night street environment and stylized digital painting technique of image 2.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a new digital artwork featuring the silhouette of the man and his dog from image 1. Depict them within an atmospheric night street environment, specifically reflecting the narrow urban alleyway, glowing neon signs, and overall ambiance of image 2. The artwork should entirely adopt the unique stylized digital painting technique and vibrant, high-contrast color palette characteristic of image 2.",
+  "annotator": "samin",
+  "objects": [
+    "silhouette of a man",
+    "silhouette of a dog",
+    "narrow urban alleyway",
+    "glowing neon signs",
+    "night street environment",
+    "urban buildings",
+    "streetlights"
+  ],
+  "human_annotation": true
+}

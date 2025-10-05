@@ -1,0 +1,23 @@
+{
+  "subtopic": "Game assets",
+  "prompt": "Generate a seamless game asset texture material. Combine the blue denim color and weave from image 1 with the red brick pattern and worn texture style from image 2 to create a unique hybrid surface.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748423659203,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a seamless and tileable game texture. Create a hybrid surface by applying the blue denim color and intricate weave pattern from image 1 onto the distinct rectangular brick layout, mortar lines, and the worn, weathered surface style observed in image 2. The final texture should appear as a distressed brick wall constructed from denim fabric.",
+  "annotator": "winston",
+  "objects": [
+    "Blue denim brick wall",
+    "Rectangular brick layout",
+    "Mortar lines",
+    "Denim fabric texture",
+    "Distressed surface"
+  ],
+  "human_annotation": true
+}

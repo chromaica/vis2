@@ -1,0 +1,27 @@
+{
+  "subtopic": "Software interfaces",
+  "prompt": "Edit image 1: Integrate a filter bar component above the traffic log table. Style this filter bar based on the appearance of the 'API Filter' element located near the top of image 2, enabling filtering of the data.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1750832830293,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit image 1. Integrate a new filter bar component horizontally into the 'HTTP Monitor' window. Position this filter bar immediately above the existing row of dropdown filters (Request Host, Target Host, Interface, Operation), which are currently situated directly above the 'Traffic Log' table. Model the visual appearance and design of this new filter bar precisely after the 'API Filter' search input field located in the top-left section of image 2, ensuring it includes its distinctive integrated search icon, text input area, and clear 'X' button. This component should provide interactive functionality for filtering the data displayed within the 'Traffic Log' table.",
+  "annotator": "ishengfang",
+  "objects": [
+    "HTTP Monitor window",
+    "New horizontal filter bar component (styled like 'API Filter' from Image 2)",
+    "Integrated search icon (within the new filter bar)",
+    "Text input area (within the new filter bar)",
+    "Clear 'X' button (within the new filter bar)",
+    "Row of dropdown filters (Request Host, Target Host, Interface, Operation)",
+    "Traffic Log table",
+    "Panes displaying request/response details (e.g., Overview, Message Content)",
+    "Bottom log tabs (e.g., soapUI log, http log)"
+  ],
+  "human_annotation": true
+}

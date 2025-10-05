@@ -1,0 +1,25 @@
+{
+  "task": "SRIG",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Create a meme depicting deadline stress in a modern office environment. The meme should feature the same dog shown in the background of the provided image.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a meme-style image set in a modern office environment, illustrating intense deadline stress. The central figure of the meme should be the unique brown cartoon dog character from image 1, depicted with its characteristic calm and resigned expression amidst the surrounding office chaos.",
+  "annotator": "Johnny",
+  "objects": [
+    "Brown cartoon dog character with characteristic calm and resigned expression",
+    "Modern office environment",
+    "Office desk",
+    "Office chair",
+    "Computer monitor(s)",
+    "Speech bubble with \"THIS IS FINE\" text",
+    "Coffee cup",
+    "Scattered papers and documents",
+    "Stressed office workers"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

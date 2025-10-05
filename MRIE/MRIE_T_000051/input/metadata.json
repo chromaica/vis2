@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "T",
+  "subtopic": "Poster",
+  "prompt": "Enlarge the logo above the title by referencing to the logo in the second image. Then, place it at the center based on the title. Finally, change the bottom left image to the third image. Crop the third image to fit the bottom left section, but ensure it still captures the subjects of the image.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the provided source image (image 1) as follows:\n\n1.  Replace the existing small maple leaf logo located above the English title text \"Parks Canada is currently recruiting new park wardens.\" with the beaver logo from image 2. Enlarge this newly placed beaver logo and horizontally center it above the English title text block.\n2.  Replace the image currently in the bottom-left section of image 1 with content extracted from image 3. Crop the content from image 3 to precisely fit the dimensions of the bottom-left section, while ensuring the Parks Canada vehicles, which are the main subjects, remain clearly visible within the cropped area.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Smiling female park warden (main subject)",
+    "\"PARK WARDEN GARDI DE PARC\" text on vest",
+    "Enlarged, centered beaver logo",
+    "English Parks Canada recruitment text block",
+    "French Parks Canada recruitment text block",
+    "Parks Canada vehicles (in bottom-left section)",
+    "Park warden with dog (in bottom-middle section)",
+    "Park warden saluting (in bottom-right section)",
+    "Small maple leaf logo (should not be present)",
+    "Original image in bottom-left (should not be present)"
+  ]
+}

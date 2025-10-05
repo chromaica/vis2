@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "A collage of abstract paint splashes in primary colors\u2014red, blue, and yellow\u2014highlighting dynamic movement and creativity on a stark white canvas.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "An abstract art piece depicting a dynamic collage of distinct paint splashes. The splashes, in vivid primary colors (red, blue, yellow), feature fluid, expressive forms conveying strong movement and energy, artfully arranged on a pristine, stark white canvas.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Distinct paint splashes",
+    "Red paint splashes",
+    "Blue paint splashes",
+    "Yellow paint splashes",
+    "Dynamic collage arrangement of paint splashes",
+    "Fluid forms of paint",
+    "Expressive forms of paint",
+    "Visual depiction of strong movement in the paint forms",
+    "Visual depiction of energy in the paint forms",
+    "Pristine, stark white canvas"
+  ]
+}

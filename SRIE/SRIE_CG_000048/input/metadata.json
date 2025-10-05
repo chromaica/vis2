@@ -1,0 +1,26 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "Replace the segmented stop lights in the reference with a stop sign.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the main vertical traffic light assembly, specifically the object defined by the segmentation mask in image 2, with a standard red octagonal stop sign. Position the stop sign where the traffic light pole is currently located, ensuring it matches the perspective, scale, and lighting of image 1.",
+  "annotator": "nimajamali",
+  "objects": [
+    "red octagonal stop sign",
+    "Main vertical traffic light assembly (should not be present)",
+    "traffic light pole",
+    "smaller horizontal traffic light",
+    "blue and white pedestrian crossing sign",
+    "buildings",
+    "street",
+    "blue sky",
+    "clouds"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

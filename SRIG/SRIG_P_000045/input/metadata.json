@@ -1,0 +1,21 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Medical images",
+  "prompt": "a realistic full-body X-ray of a standing person using the reference image to match the pose and proportions.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic full-body X-ray image of a standing person. The X-ray should accurately depict the skeletal structure and internal organs, replicating the precise pose and proportions of the male in image 1, who is standing with arms crossed at the chest.",
+  "annotator": "samin",
+  "objects": [
+    "Photorealistic X-ray image style",
+    "Full-body view of a person",
+    "Human skeletal structure",
+    "Human internal organs",
+    "Male body proportions",
+    "Standing posture",
+    "Arms crossed at the chest"
+  ]
+}

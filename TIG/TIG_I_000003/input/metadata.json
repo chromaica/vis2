@@ -1,0 +1,17 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "Create a new medical app icon thats has pearl blue background, in material design with a UHC text in the middle. The icon looks modern and stylist",
+  "cond_images": [],
+  "remarks": "Must have UHC text in the center",
+  "prompt_refined": "A modern and stylish medical app icon, designed in material design, with a pearl blue background. The letters 'UHC' are centrally placed within the icon.",
+  "annotator": "theblackcat",
+  "objects": [
+    "App icon",
+    "Pearl blue background",
+    "Letters 'UHC', centrally placed"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,29 @@
+{
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Generate an infographic combining the timeline layout from image 1 with the line chart style from image 2, using simple topic icons from image 1 along the timeline points.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "Information graphics diagrams charts",
+  "searchQueryGeneratedTimestamp": 1752070307888,
+  "promptGeneratedTimestamp": 1752070442923,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "I",
+  "annotator": "htwong",
+  "prompt_refined": "Generate an infographic. The primary layout should feature a prominent horizontal timeline, mirroring the structure and visual flow of the 'SHORT HISTORY' section in image 1. Along this timeline, include simple, illustrative topic icons at each point, consistent with the style of icons such as the lightbulb, PSD, and cloud seen in image 1. Additionally, integrate a multi-line chart into the infographic, adopting the precise visual style\u2014including line presentation, data point labeling, and axis design\u2014from the 'Sales Performance' line chart located in the bottom-left of image 2.",
+  "objects": [
+    "Prominent horizontal timeline",
+    "Timeline points/nodes",
+    "Simple, illustrative topic icons at timeline points",
+    "Textual labels and descriptions associated with timeline points",
+    "Multi-line chart",
+    "Chart lines (with presentation style from Image 2's 'Sales Performance' chart)",
+    "Data points on chart lines (with labeling style from Image 2's 'Sales Performance' chart)",
+    "Chart axes (with design from Image 2's 'Sales Performance' chart)",
+    "Chart grid lines",
+    "Infographic title/heading"
+  ]
+}

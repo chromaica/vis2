@@ -1,0 +1,27 @@
+{
+  "subtopic": "Maps",
+  "prompt": "Generate a clear diagram illustrating airport map with runways, terminals and other building facilities. Adopt the simple, top-down information graphic style and terminal structure design from the reference image, depicted on a white background. Label the buildings with text.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://www.tutorialspoint.com/aviation_management/images/terminal_configuration.jpg",
+  "searchQueryGenerated": "Detailed visual instructions manual diagram.",
+  "searchQueryGeneratedTimestamp": 1749926566175,
+  "promptGeneratedTimestamp": 1749928964660,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate a clear, top-down information graphic of an airport map. The map should prominently feature a main terminal structure whose design and arrangement, including the positioning of airplanes, strictly follow the minimalistic and illustrative styles exemplified in image 1 (e.g., a Standard Linear, Pier, Concourse, Curvilinear, Satellite, or Star Pier type). Additionally, include essential airport elements such as multiple runways, taxiways, and other key facilities like a control tower or hangars, all rendered in the same simplified, top-down graphic style. The entire diagram must be presented on a plain white background. All significant buildings and facilities, including the terminal(s), should be clearly labeled with concise text.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Airport map",
+    "Main terminal structure",
+    "Airplanes",
+    "Runways",
+    "Taxiways",
+    "Control tower",
+    "Hangars",
+    "Text labels",
+    "Plain white background"
+  ]
+}

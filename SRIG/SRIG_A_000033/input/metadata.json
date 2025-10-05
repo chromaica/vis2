@@ -1,0 +1,22 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Stylized art",
+  "prompt": "A stylized mystical underwater kingdom wearing a pocket watch",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate an artwork of a stylized, mystical underwater kingdom. The golden pocket watch from image 1 is a central and significant element, appearing as if the kingdom itself is 'wearing' it. The watch, shown open with its white face and etched inner lid as seen in image 1, should be prominently integrated into the kingdom's structure, perhaps as a large, iconic architectural feature or a magical, floating centerpiece.",
+  "annotator": "Johnny",
+  "objects": [
+    "Stylized artwork aesthetic",
+    "Mystical underwater kingdom",
+    "Golden pocket watch",
+    "Open pocket watch with white face",
+    "Etched inner lid of the pocket watch",
+    "Pocket watch integrated as a large, iconic architectural feature",
+    "Central and significant placement of the watch within the kingdom"
+  ],
+  "human_annotation": true
+}

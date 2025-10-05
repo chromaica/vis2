@@ -1,0 +1,29 @@
+{
+  "subtopic": "Object detection visuals",
+  "prompt": "Edit image 1 by applying object detection visuals to the laptop screen. Display complex content similar to the game in image 2 on the screen, overlaid with bounding boxes and labels. Style these detection overlays (boxes, labels) using the vibrant, cartoony aesthetic of image 3.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748455501538,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit the laptop screen in image 1. Display an object detection interface on the screen. The content within this interface should be a complex, top-down perspective game scene, matching the visual style and detail of the game shown in image 2. Overlaid on this game scene, include prominent bounding boxes and text labels. These bounding boxes and labels must be styled with the vibrant, cartoony aesthetic, strong outlines, and bold colors exemplified by image 3.",
+  "annotator": "winston",
+  "objects": [
+    "Laptop screen displaying an object detection interface",
+    "Complex, top-down perspective game scene",
+    "Game characters or units (within the game scene)",
+    "Game environment/terrain (within the game scene)",
+    "Prominent bounding boxes (overlaid on the game scene)",
+    "Text labels (overlaid on the game scene)",
+    "Bounding boxes with a vibrant, cartoony aesthetic",
+    "Text labels with a vibrant, cartoony aesthetic",
+    "Strong outlines on bounding boxes",
+    "Bold colors on text labels"
+  ],
+  "human_annotation": true
+}

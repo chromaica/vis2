@@ -1,0 +1,20 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "a microscopic image of the region inside the rectangle in the reference image, as if it's being viewed under a microscope.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic, highly magnified microscopic view of the specific region on the dragonfly's upper right wing, precisely as indicated by the red rectangle in image 1. The image should clearly display the intricate venation and cellular-level textures of both the dark brown pigmented section and the adjacent translucent wing membrane, simulating a view through a high-power microscope lens.",
+  "annotator": "samin",
+  "objects": [
+    "Section of dragonfly's upper right wing (corresponding to the red rectangle)",
+    "Dark brown pigmented area on the wing section",
+    "Translucent wing membrane adjacent to the pigmented area",
+    "Intricate wing venation",
+    "Cellular-level textures"
+  ],
+  "human_annotation": true
+}

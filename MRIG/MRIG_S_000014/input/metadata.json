@@ -1,0 +1,24 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": "Generate a virtual museum exhibition page featuring the artwork from the first image and structure from the second image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a virtual museum exhibition page that combines elements from two references. Adopt the overall user interface and gallery room structure from image 2, including the white walls, grey floor, 'Leave Room' button in the top-left, navigation arrows on the sides, the wooden bench below the artwork, and the detailed information panel on the right (with its buttons, text fields, and bottom logos/navigation). The abstract painting centrally displayed on the wall in image 2 should be replaced with the classical marble statue from image 1, depicted as a framed artwork within the same gallery setting.",
+  "annotator": "paria",
+  "objects": [
+    "Virtual museum exhibition page interface",
+    "White gallery walls",
+    "Grey gallery floor",
+    "'Leave Room' button in the top-left",
+    "Navigation arrows (left and right)",
+    "Wooden bench below the artwork",
+    "Detailed information panel on the right, including its buttons, text, and bottom logos/navigation",
+    "Classical marble statue (from image 1), depicted as a framed artwork, centrally displayed on the wall",
+    "Abstract painting (should not be present)"
+  ]
+}

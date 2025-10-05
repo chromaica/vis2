@@ -1,0 +1,24 @@
+{
+  "subtopic": "VFX and Particles",
+  "prompt": "A computer graphics render inspired by the reference image, depicting a figure in rapid motion leaving luminous particle trails and dynamic VFX, conveying speed through vibrant computer-generated effects.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://cdn.stocksnap.io/img-thumbs/960w/cyclist-bike_52B7B6A0D4.jpg",
+  "promptGeneratedTimestamp": 1748766573151,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a computer graphics render, drawing inspiration from image 1, depicting a male cyclist in rapid motion. The cyclist, moving from left to right, should be accompanied by vibrant, luminous particle trails and dynamic computer-generated visual effects (VFX) that powerfully convey a sense of high speed.",
+  "annotator": "ishengfang",
+  "objects": [
+    "male cyclist",
+    "bicycle",
+    "cyclist moving from left to right",
+    "vibrant, luminous particle trails",
+    "dynamic computer-generated visual effects (VFX)",
+    "road",
+    "green field",
+    "sky with clouds"
+  ]
+}

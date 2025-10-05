@@ -1,0 +1,26 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "Transform flowchart to use blue theme",
+  "cond_images": [
+    "1.png",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 2, the flowchart titled 'How to make a flowchart', to incorporate a blue theme. Utilize the exact shade of blue from image 1 as the primary color for all flowchart elements, including the lines, shapes, and text.",
+  "annotator": "Johnny",
+  "objects": [
+    "Flowchart title \"How to make a flowchart\" in blue",
+    "Oval flowchart shape labeled \"Start\" in blue",
+    "Rectangle flowchart shape labeled \"Descriptive name for process\" in blue",
+    "Rectangle flowchart shape labeled \"Determine inputs\" in blue",
+    "Rectangle flowchart shape labeled \"Determine sequential steps\" in blue",
+    "Rectangle flowchart shape labeled \"Find missing steps\" in blue",
+    "Diamond flowchart shape labeled \"All steps\" in blue",
+    "Oval flowchart shape labeled \"Start\" (second one) in blue",
+    "Connecting lines and arrows in blue",
+    "All text within flowchart shapes in blue"
+  ],
+  "human_annotation": true
+}

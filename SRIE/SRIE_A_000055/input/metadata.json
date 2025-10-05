@@ -1,0 +1,26 @@
+{
+  "subtopic": "Collage",
+  "prompt": "Make the triangles on the top of the head in image 1 as sandwiches in image 2.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748498588650,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "In image 1, replace the three triangular elements located directly above the head with sandwiches that mirror the shape and illustrative style of the sandwich depicted in image 2.",
+  "annotator": "kellycyy",
+  "objects": [
+    "Woman's face",
+    "Floral crown",
+    "Headdress elements",
+    "Three triangular elements directly above the head (should not be present)",
+    "Three triangular sandwiches (illustrative style)",
+    "Patterned background",
+    "Textured triangles"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

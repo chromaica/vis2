@@ -1,0 +1,24 @@
+{
+  "subtopic": "Icons and symbols",
+  "prompt": "Create a icon demonstrating step 7 for washing hands, using the clean style and circular layout of the reference image for the presentation.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://cbx-prod.b-cdn.net/COLOURBOX67090683.jpg?width=800&height=800&quality=70",
+  "searchQueryGenerated": "Infographic icons and symbols clean flat",
+  "searchQueryGeneratedTimestamp": 1749926157543,
+  "promptGeneratedTimestamp": 1749926252257,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate an infographic icon depicting 'Step 7: Rinsing Hands' for a handwashing guide. The icon should show two peach-colored hands positioned under flowing water, with water droplets clearly visible and no soap foam present. Ensure the illustration strictly adheres to the clean, flat graphic style, simple shapes, and bright color palette (teal circular background, peach hands, white/light blue water) consistent with the examples provided in image 1. The entire scene must be contained within a teal circular background, matching the circular layout and proportions seen in image 1. Include a small red numeral '7' in a tag shape, positioned at the top-left of the circle, mirroring the numbering convention and style found in image 1.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Teal circular background",
+    "Two peach-colored hands positioned under flowing water",
+    "Flowing water (white/light blue)",
+    "Water droplets (white/light blue)",
+    "Small red numeral '7' in a tag shape (at the top-left of the circle)",
+    "Soap foam (should not be present)"
+  ]
+}

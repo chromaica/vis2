@@ -1,0 +1,24 @@
+{
+  "subtopic": "Traditional art",
+  "prompt": "Replace the weapons taken by the two men in image 1 with the fishing rod in image 1 using the artistic style of image 1.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1. Replace the axe held by the left guardian figure and the staff held by the right guardian figure with a fishing rod. The fishing rod's design should be based on the fishing rod visible in image 2, but rendered in the artistic style of image 1.",
+  "annotator": "kellycyy",
+  "objects": [
+    "left guardian figure",
+    "right guardian figure",
+    "fishing rod (held by left guardian figure, in style of image 1, based on image 2 design)",
+    "fishing rod (held by right guardian figure, in style of image 1, based on image 2 design)",
+    "decorative door background",
+    "axe (should not be present)",
+    "staff (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Oil painting",
+  "prompt": "Replace the butterfly in the top right of the first image with the butterfly from the second image, and use the third image as the new background.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the orange butterfly located in the top-right of image 1 with the pink watercolor butterfly from image 2. Replace the background of image 1 with the starry night river scene from image 3, maintaining the foreground elements of image 1.",
+  "annotator": "paria",
+  "objects": [
+    "Cat (foreground)",
+    "Pink watercolor butterfly (in top-right)",
+    "Starry night sky (as background)",
+    "River (as background)",
+    "Reflected lights on water (as background)",
+    "Buildings along river bank (as background)",
+    "Boats on river (as background)",
+    "Figures on river bank (as background)",
+    "Orange butterfly (should not be present)",
+    "Original green and blue abstract background (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

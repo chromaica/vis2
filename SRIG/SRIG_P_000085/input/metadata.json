@@ -1,0 +1,18 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "A realistic scene of groups of birds flying in the sky, matching the shapes and positions in the provided mask image.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic scene depicting a large group of bats flying in a clear sky, accurately replicating the precise shapes and individual positions of the silhouettes shown in image 1.",
+  "annotator": "samin",
+  "objects": [
+    "Photorealistic bats",
+    "Clear sky",
+    "Bats with shapes precisely matching those in image 1",
+    "Bats with individual positions precisely matching those in image 1"
+  ]
+}

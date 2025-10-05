@@ -1,0 +1,24 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Cultural/heritage art",
+  "prompt": "Traditional Japanese tea ceremony in a serene garden, with kimonos and cherry blossoms surrounding a tranquil pavilion.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A traditional Japanese tea ceremony in a serene Zen garden. A tranquil, open-sided wooden pavilion is centrally positioned, with participants in elegant kimonos seated on tatami mats inside. Lush cherry blossom trees in full bloom frame the pavilion, their delicate pink petals scattering onto the raked gravel path leading to the entrance on the left. A traditional stone lantern is visible among mossy rocks on the right.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Traditional Japanese tea ceremony",
+    "Serene Zen garden",
+    "Tranquil, open-sided wooden pavilion (centrally positioned)",
+    "Participants in elegant kimonos",
+    "Tatami mats",
+    "Lush cherry blossom trees in full bloom (framing the pavilion)",
+    "Delicate pink petals (scattering)",
+    "Raked gravel path (leading to the entrance on the left)",
+    "Traditional stone lantern (on the right)",
+    "Mossy rocks (on the right)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

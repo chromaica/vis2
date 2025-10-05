@@ -1,0 +1,22 @@
+{
+  "subtopic": "Games",
+  "prompt": "Take the character selection screen from the reference image and redesign it in the style of a stained glass window from a medieval church.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "https://i.ytimg.com/vi/jL-fy24gJTA/maxresdefault.jpg",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a new image based on the content and layout of image 1. Transform the entire character selection screen, including the central character Kiriko, the background, and all user interface elements, into the intricate, vibrant, and multi-paneled style of a medieval church stained glass window. Ensure the main title text 'CUSTOM GAME' and 'SELECT A HERO' at the top left, the character name '+ KIRIKO' at the top right, the row of hero portraits along the bottom, and the 'CONTINUE' button in the bottom center are all depicted as distinct, colorful panes of stained glass. The background and Kiriko herself should be rendered with a mosaic-like effect, featuring prominent lead outlines that define shapes and colors, characteristic of traditional medieval stained glass, while maintaining the original screen's overall composition.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Central character Kiriko",
+    "Background",
+    "'CUSTOM GAME' title text at the top left",
+    "'SELECT A HERO' subtitle text at the top left",
+    "'+ KIRIKO' character name text at the top right",
+    "Row of hero portraits along the bottom",
+    "'CONTINUE' button in the bottom center"
+  ],
+  "human_annotation": true
+}

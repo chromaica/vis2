@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Generate and design the visual identity for a women-led AI podcast using the soft pastel colors from Image 1 and the professional persona in Image 2.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a visual identity design for a women-led AI podcast. The design should reflect the professional, sophisticated, and approachable persona conveyed by the individual in Image 2. Utilize the distinct color palette from Image 1, specifically incorporating the dark green, hunter green, khaki, raw umber, and caf\u00e9 noir tones for all graphic and textual elements. The overall aesthetic should be modern, clean, and appropriate for a digital podcast brand.",
+  "annotator": "parnian",
+  "objects": [
+    "Podcast logo",
+    "Podcast name text",
+    "Supporting textual elements",
+    "Graphic design elements",
+    "Dark green color",
+    "Hunter green color",
+    "Khaki color",
+    "Raw umber color",
+    "Caf\u00e9 noir color",
+    "Modern, clean font style"
+  ],
+  "human_annotation": true
+}

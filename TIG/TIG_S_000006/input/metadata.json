@@ -1,0 +1,17 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "generate a photorealistic receipt from target showing various office supplies totalling $420.69. The receipt should look a little crumbled and on top of a desk. It should look exactly like a real receipt",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A photorealistic image of a crumpled 'Target' store receipt, totaling $420.69 for various office supplies. The receipt lies on a wooden desk.",
+  "annotator": "theblackcat",
+  "objects": [
+    "crumpled store receipt",
+    "'Target' logo on receipt",
+    "\"$420.69\" total on receipt",
+    "text indicating \"office supplies\" on receipt",
+    "wooden desk"
+  ]
+}

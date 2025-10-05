@@ -1,0 +1,29 @@
+{
+  "subtopic": "Software interfaces",
+  "prompt": "Edit Image 1: Modernize the software interface by applying the dark theme color scheme and rounded corner styling from the windows shown in Image 2 to all elements and windows in Image 1.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751006978915,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit Image 1: Apply the modern Windows 11-style dark mode, including its distinct dark theme color scheme and sleek rounded corner design from the windows and interface elements shown in Image 2, to all windows, toolbars, buttons, and other UI components within Image 1.",
+  "annotator": "ishengfang",
+  "objects": [
+    "SnapDraw Free 3.20 application window with Windows 11 dark mode styling and rounded corners",
+    "Application menu bar (File, Capture Now, etc.) in Windows 11 dark mode",
+    "Application toolbar with icons and controls, updated to Windows 11 dark mode aesthetics",
+    "Tab controls (Image Composition, Final Output Image) in Windows 11 dark mode",
+    "\"Lines\" panel (left sidebar) with Windows 11 dark mode styling and rounded corners",
+    "Arrow icons within the \"Lines\" panel",
+    "Main canvas area with a dark background and placeholder text",
+    "Small UI icons (Capture Window, Add Image, etc.) styled for Windows 11 dark mode",
+    "Vertical scrollbar with Windows 11 dark mode appearance",
+    "Window minimize, maximize, and close buttons in Windows 11 dark mode style"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

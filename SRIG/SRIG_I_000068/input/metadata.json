@@ -1,0 +1,24 @@
+{
+  "subtopic": "UI mockups",
+  "prompt": "Using the ride-hailing app sample UI, design a subscription plan page listing monthly and yearly options for premium service.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "https://xdfile.com/wp-content/uploads/2020/05/Free-Ride-Sharing-Mobile-App-XD-Template.jpg",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate a new mobile UI screen for a ride-hailing application, adopting the clean, minimalist design, rounded corners, and pink/white color scheme observed in image 1. This new screen should represent a 'Premium Subscription' page. Feature distinct UI cards or sections, one for a 'Monthly Premium' plan and another for a 'Yearly Premium' plan, prominently displaying their respective prices and key benefits. Position these plan options centrally and vertically, with a clear call-to-action button (e.g., 'Subscribe Now') at the bottom of the screen, styled consistently with the 'Book Now' button in image 1.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Mobile UI screen",
+    "\"Premium Subscription\" page title",
+    "UI card for \"Monthly Premium\" plan, centrally positioned",
+    "Price display within \"Monthly Premium\" card",
+    "Key benefits list within \"Monthly Premium\" card",
+    "UI card for \"Yearly Premium\" plan, centrally positioned",
+    "Price display within \"Yearly Premium\" card",
+    "Key benefits list within \"Yearly Premium\" card",
+    "\"Subscribe Now\" call-to-action button at the bottom",
+    "Rounded corners on UI elements"
+  ]
+}

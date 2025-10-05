@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Pixel art",
+  "prompt": "Make it snowing in the scene. The snow should should depth of the camera by having snowflakes in the foreground, midground, and background.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 to introduce falling snow throughout the scene. The snowflakes should be distributed across the foreground, midground, and background to create a strong sense of depth.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "falling snow distributed across foreground, midground, and background",
+    "person sitting on a bench",
+    "bus stop shelter",
+    "utility pole with wires",
+    "information board",
+    "snow-covered bare tree",
+    "snow-covered ground",
+    "railing",
+    "distant mountains",
+    "winter sky"
+  ]
+}

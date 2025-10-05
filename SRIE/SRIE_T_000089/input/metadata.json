@@ -1,0 +1,24 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "Compose the body of the guitar from famous guitar riffs, arranged in a script font that radiates outward along the curves.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, specifically the body of the guitar as defined by the white area in image 2. Replace the existing wooden texture of the guitar's body with famous guitar riffs. Arrange these riffs in a flowing script font so that the text radiates outwards, following and emphasizing the natural curves of the guitar's body.",
+  "annotator": "matina",
+  "objects": [
+    "Guitar body",
+    "Famous guitar riffs",
+    "Flowing script font text radiating outwards and following the curves of the guitar body",
+    "Guitar headstock",
+    "Guitar neck",
+    "Guitar strings",
+    "Guitar bridge",
+    "Guitar soundhole",
+    "Original wooden texture of the guitar's body (should not be present)"
+  ]
+}

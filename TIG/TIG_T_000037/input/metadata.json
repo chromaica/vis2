@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Textual Tattoos",
+  "prompt": "A photo-realistic tattoo design: the word 'Flow' executed in detailed black geometric dotwork, presented on a clean, uncluttered background.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a photo-realistic image of a tattoo design featuring the word 'Flow'. The word should be intricately rendered in black geometric dotwork style and presented against a clean, plain, and uncluttered background.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Tattoo design",
+    "The word 'Flow'",
+    "Intricate black geometric dotwork style for the word 'Flow'",
+    "Clean background",
+    "Plain background",
+    "Uncluttered background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

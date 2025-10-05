@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "Imaginary landscape of floating islands under a twilight sky, with digital brush strokes painting swirling clouds.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A fantastical landscape image of multiple, large floating islands suspended under a twilight sky. The sky displays a gradient from deep purples at the zenith to warm oranges near the horizon. Prominent, swirling clouds, rendered with distinct, visible digital brush strokes, weave through the sky and around the islands.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Multiple, large floating islands",
+    "Twilight sky",
+    "Sky with deep purple gradient at zenith",
+    "Sky with warm orange gradient near horizon",
+    "Prominent, swirling clouds",
+    "Clouds with distinct, visible digital brush strokes"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

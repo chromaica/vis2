@@ -1,0 +1,23 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Medical images",
+  "prompt": "Generate a full-body X-ray of a person based on the provided pose.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic full-body X-ray image of a person. The person's pose must precisely match the 3D skeletal structure provided in image 1. The individual should be depicted in a dynamic, mid-stride posture, with their left leg extended forward and their right leg bent and lifted behind them. Their left arm should be extended forward and slightly downward, while their right arm is bent at the elbow and drawn back towards their torso. The X-ray image should clearly showcase the internal skeletal anatomy of the person in this specific configuration.",
+  "annotator": "samin",
+  "objects": [
+    "Photorealistic X-ray visualization",
+    "Full-body human skeleton",
+    "Skeleton in a dynamic mid-stride posture",
+    "Left leg extended forward (of the skeleton)",
+    "Right leg bent and lifted behind (of the skeleton)",
+    "Left arm extended forward and slightly downward (of the skeleton)",
+    "Right arm bent at the elbow and drawn back towards the torso (of the skeleton)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

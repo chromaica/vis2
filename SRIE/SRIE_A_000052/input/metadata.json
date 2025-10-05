@@ -1,0 +1,27 @@
+{
+  "subtopic": "Digital arts",
+  "prompt": "Edit image 1: Replace the background clouds and sky with the stylized cityscape and sunset sky from image 2. Integrate the characters flying above the city, adopting the distinctive digital art style and warm lighting of image 2.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748498181557,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1: Replace the existing background, which features stylized pink and orange clouds with a light blue sky and sun rays, with the entire scene from image 2. The new background should display the stylized cityscape, including its tall buildings, distant mountain range, body of water in the foreground, and the vibrant sunset sky. Integrate the two flying characters from image 1, maintaining their current pose and aerial position, ensuring they appear high above the newly incorporated city. Adapt the characters' visual appearance to seamlessly match the distinctive digital art style and the rich, warm sunset lighting characteristic of image 2.",
+  "annotator": "kellycyy",
+  "objects": [
+    "Two flying characters",
+    "Stylized pink and orange clouds (should not be present)",
+    "Light blue sky (should not be present)",
+    "Sun rays (should not be present)",
+    "Stylized cityscape",
+    "Tall buildings",
+    "Distant mountain range",
+    "Body of water in foreground",
+    "Vibrant sunset sky",
+    "Characters high above the city"
+  ]
+}

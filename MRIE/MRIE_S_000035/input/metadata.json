@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Chat and Social Messaging",
+  "prompt": "Change the Telegram chat background in image 1 from blue to the pastel color from image 2 and add the typing bubble from image 3 directly underneath the final white message bubble from the other speaker and on top of the 'write message' white box, as if Eva is replying next.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the Telegram screenshot in `image 1`. Replace the existing blue chat background with the pastel gradient pattern from `image 2`. Insert the typing indicator bubble from `image 3` into the chat area. Position this bubble on the left side, directly below Alex Cassio's last white message bubble (which ends '...is now.'), and immediately above the 'Write a message...' input bar, indicating Eva Summer is typing a reply.",
+  "annotator": "parnian",
+  "objects": [
+    "Telegram application window/interface",
+    "Pastel gradient chat background",
+    "Existing message bubbles",
+    "Alex Cassio's last white message bubble (ending '...is now.')",
+    "Typing indicator bubble (from `image 3`), on the left side, below Alex Cassio's last message bubble",
+    "'Write a message...' input bar",
+    "Contact list pane (on the left)",
+    "Chat header (showing Eva Summer, online)",
+    "Search bar (top left)",
+    "Blue chat background (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

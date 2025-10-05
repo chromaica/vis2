@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "In image 1, place the pink and yellow crewmates from image 2 (pink crewmates in the center and yellow one in the bottom right) standing on the doorway next to each other, and replace the top-left crate with the yellow warning sign from image 3. Ensure visual consistency and correct scaling.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the top-left crate with the yellow warning sign from image 3. Place the pink crewmate (from the center of image 2) and the yellow crewmate (from the bottom right of image 2) standing side-by-side on the central doorway in image 1. Ensure all new elements are integrated with correct perspective, lighting, and scale.",
+  "annotator": "parnian",
+  "objects": [
+    "Top-left crate (should not be present)",
+    "Yellow warning sign",
+    "Pink crewmate on central doorway",
+    "Yellow crewmate on central doorway",
+    "Central doorway",
+    "Crate with laptop",
+    "Bottom-right crate",
+    "Seating along the back wall",
+    "Room walls",
+    "Room floor"
+  ]
+}

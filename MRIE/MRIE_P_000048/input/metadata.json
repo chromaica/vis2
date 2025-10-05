@@ -1,0 +1,27 @@
+{
+  "subtopic": "Wildlife & Nature Photography",
+  "prompt": "Edit image 1 (penguins) to transform it into a photorealistic winter scene. Replace the muddy ground with the deep, soft snow texture and mounds similar to those in image 2. Apply the bright, crisp, low-angle sunlight and frosty atmosphere from image 3, illuminating the snow and penguins and adding frosty details to their feathers, referencing the frost on trees in image 3.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748572221453,
+  "promptLengthUsed": "long",
+  "task": "MRIE",
+  "topic": "P",
+  "prompt_refined": "Edit image 1, which features a colony of penguins on muddy ground, to transform it into a photorealistic, pristine winter scene. Replace the entire muddy ground with a deep, soft, and undisturbed snow texture, forming gentle mounds and undulations consistent with the snowy landscape in image 2. Introduce the bright, crisp, low-angle sunlight and the frosty, cold atmosphere observed in image 3. Ensure this sunlight illuminates the snow and the penguins, casting long, soft shadows. Additionally, add subtle, photorealistic frosty details to the penguins' feathers, particularly on their backs and heads, drawing inspiration from the frosted trees in image 3.",
+  "annotator": "boris",
+  "objects": [
+    "colony of penguins",
+    "muddy ground (should not be present)",
+    "deep, soft, and undisturbed snow texture",
+    "gentle snow mounds and undulations",
+    "bright, crisp, low-angle sunlight",
+    "frosty, cold atmosphere",
+    "long, soft shadows",
+    "penguins with subtle frosty details on feathers"
+  ],
+  "human_annotation": true
+}

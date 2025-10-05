@@ -1,0 +1,17 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Traditional art",
+  "prompt": "A rustic, impressionistic landscape featuring a quaint village with cobblestone streets and a glowing sunset in the distance.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A rustic, impressionistic landscape prominently featuring a quaint village in the midground, with cobblestone streets, and a glowing sunset visible on the distant horizon.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Rustic landscape",
+    "Quaint village in the midground",
+    "Cobblestone streets",
+    "Glowing sunset",
+    "Distant horizon"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Traditional art",
+  "prompt": "A timeless oil painting of a rustic farmhouse overlooking a lush, sunlit vineyard nestled within gentle rolling hills.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A timeless oil painting depicting a rustic farmhouse positioned prominently on a gentle rise, overlooking a vast, sunlit vineyard. The lush green rows of the vineyard stretch across the middle ground, nestled comfortably within the soft, undulating contours of gentle rolling hills that recede into the background.",
+  "annotator": "cwhsu",
+  "objects": [
+    "rustic farmhouse",
+    "gentle rise (with the farmhouse on it)",
+    "vast vineyard",
+    "lush green rows of the vineyard",
+    "middle ground (with the vineyard)",
+    "gentle rolling hills",
+    "soft, undulating contours (of the hills)",
+    "background (with the hills)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

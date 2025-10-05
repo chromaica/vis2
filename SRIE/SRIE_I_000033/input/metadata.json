@@ -1,0 +1,24 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Convert pie chart to dark mode",
+  "cond_images": [
+    "1.png",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the 'Employee Count by Department' pie chart, to convert it into a dark mode theme. Change the current white background to a deep black or dark charcoal gray, consistent with the dominant dark tone of image 2. Update all text elements, including the main title 'Employee Count by Department', department names, percentage labels, and legend text, to a light, highly legible color (e.g., white or light gray) that contrasts well with the new dark background. Adjust the colors of the pie chart slices and their corresponding legend entries to remain visually distinct and clearly associated with their departments while appearing optimized for a dark background.",
+  "annotator": "Johnny",
+  "objects": [
+    "Deep black or dark charcoal gray background",
+    "Pie chart",
+    "Pie chart slices (Marketing, Sales, Finance, Human Resources, IT, Operations)",
+    "Light-colored main title \"Employee Count by Department\"",
+    "Light-colored department names next to slices",
+    "Light-colored percentage labels",
+    "Legend box",
+    "Light-colored legend title \"Departments\"",
+    "Light-colored legend entries with color swatches optimized for dark background"
+  ]
+}

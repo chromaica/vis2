@@ -1,0 +1,24 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Oil painting",
+  "prompt": "Replace the pineapple in the first image with the crowned pineapple from the second image, and then repaint the updated image using the impasto technique shown in the third image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the green pineapple on the left side of image 1 with the crowned, ripe pineapple from image 2. Subsequently, repaint the entire updated image using the thick, textured impasto painting technique demonstrated in image 3.",
+  "annotator": "paria",
+  "objects": [
+    "green pineapple (should not be present)",
+    "crowned, ripe pineapple on the left side",
+    "red apple",
+    "bunch of bananas",
+    "table surface",
+    "background",
+    "signature \"Samuel Earp\"",
+    "painting in impasto style"
+  ]
+}

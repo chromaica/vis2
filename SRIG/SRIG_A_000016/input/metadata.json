@@ -1,0 +1,26 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Traditional art",
+  "prompt": "Produce a fresco-style mural of an ancient Greek marketplace.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "https://stockcake.com/i/ancient-market-scene_945826_764812",
+  "prompt_refined": "Generate a fresco-style mural depicting a vibrant, bustling ancient Greek marketplace, drawing visual cues from image 1. The scene should feature numerous figures dressed in flowing ancient Greek tunics and cloaks, engaging in commerce and conversation amidst market stalls overflowing with fresh produce, pottery, and woven goods arranged along a paved pathway. On the left side, classical stone columns frame the market view, while the majestic Parthenon and other structures of the Acropolis rise prominently on a rocky hill in the mid-ground and background, all under a clear blue sky.",
+  "annotator": "Johnny",
+  "objects": [
+    "Vibrant, bustling ancient Greek marketplace",
+    "Numerous figures dressed in flowing ancient Greek tunics and cloaks",
+    "Market stalls",
+    "Fresh produce",
+    "Pottery",
+    "Woven goods",
+    "Paved pathway",
+    "Classical stone columns on the left side",
+    "Parthenon and other structures of the Acropolis on a rocky hill in the mid-ground and background",
+    "Clear blue sky"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

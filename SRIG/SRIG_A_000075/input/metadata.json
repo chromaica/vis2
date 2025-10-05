@@ -1,0 +1,24 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "A collage style of a beach sunset with palm trees.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a new image depicting a vivid beach sunset in a stylized graphic art or digital illustration style, inspired by the aesthetic of image 1. Feature a large, bright yellow sun centrally placed above the horizon, casting a strong reflection across the ocean to the left. The sandy beach extends into the right foreground, leading towards a cluster of silhouetted palm trees on the far right. Ensure the image incorporates prominent outlines and the distinctive cracked, fragmented textures seen in image 1 to convey the 'collage' effect.",
+  "annotator": "Johnny",
+  "objects": [
+    "Vivid sunset sky",
+    "Beach",
+    "Large, bright yellow sun centrally placed above the horizon",
+    "Strong sun reflection across the ocean to the left",
+    "Ocean",
+    "Sandy beach extending into the right foreground",
+    "Cluster of silhouetted palm trees on the far right",
+    "Prominent outlines",
+    "Cracked, fragmented textures",
+    "'Collage' effect"
+  ]
+}

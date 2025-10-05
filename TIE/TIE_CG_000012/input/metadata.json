@@ -1,0 +1,25 @@
+{
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "Change the color of all segmented umbrella objects in the image to a bright, vibrant red.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751817782505,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1 by changing the color of all umbrellas to a bright, vibrant red.",
+  "annotator": "edisy",
+  "objects": [
+    "bright, vibrant red umbrellas",
+    "people",
+    "sky",
+    "road",
+    "grass",
+    "trees",
+    "car",
+    "pavement",
+    "speed limit sign"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "subtopic": "Facial estimation and analysis",
+  "prompt": "Generate a computer graphic visualization: a view through a smartphone display screen (similar to image 1), showing facial analysis markers on a face rendered in the vibrant watercolor style of image 2, highlighting key feature points and estimations.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748421752411,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a computer graphic visualization. The primary view should be through a smartphone display screen, held vertically by a human hand in the foreground, mirroring the perspective and composition of image 1. On the prominent smartphone screen, render a human face with precise facial analysis markers. This face, along with its markers, should be depicted in the vibrant, multi-colored watercolor style seen in image 2, featuring expressive brushstrokes and dynamic paint splatters. The markers should clearly highlight key facial feature points and estimations, such as eye and mouth contours, nose, and chin.",
+  "annotator": "winston",
+  "objects": [
+    "smartphone display screen (primary view)",
+    "human hand (in foreground, holding smartphone)",
+    "human face (on smartphone screen)",
+    "precise facial analysis markers (on human face)",
+    "vibrant, multi-colored watercolor style (for face and markers)",
+    "expressive brushstrokes",
+    "dynamic paint splatters",
+    "vertical smartphone orientation",
+    "markers highlighting eye contours",
+    "markers highlighting mouth contours"
+  ]
+}

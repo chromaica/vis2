@@ -1,0 +1,28 @@
+{
+  "subtopic": "Collage",
+  "prompt": "Edit image 1: Incorporate the diverse emojis and icons from image 2 by replacing individual mosaic tiles in image 1 to form a new expressive emoji collage portrait.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748495629125,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1, the mosaic portrait, by replacing its individual mosaic tiles with the diverse collection of emojis and icons from image 2. Ensure the new arrangement of emojis forms an expressive collage portrait, maintaining the overall shape and composition of the original portrait in image 1.",
+  "annotator": "kellycyy",
+  "objects": [
+    "Portrait of a person",
+    "Mosaic art style",
+    "Diverse collection of emojis",
+    "Yellow smiley face emojis",
+    "Cat face emojis",
+    "Purple devil face emojis",
+    "Hand gesture emojis",
+    "Brown poop emojis",
+    "Grey alien emojis",
+    "Skull emojis"
+  ],
+  "human_annotation": true
+}

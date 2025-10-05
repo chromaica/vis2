@@ -1,0 +1,21 @@
+{
+  "task": "SRIE",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "Insert the reference galaxy into the lower-left quadrant of the source image with appropriate scaling and brightness falloff.",
+  "cond_images": [
+    "1.png",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 (the cosmic background). Insert the spiral galaxy from image 2 into the lower-left quadrant of image 1. Scale the inserted galaxy to appear photorealistically proportional to the cosmic scene, fitting naturally within the lower-left quadrant. Apply a photorealistic brightness falloff to the galaxy, ensuring its luminosity seamlessly blends into the surrounding cosmic darkness of image 1.",
+  "annotator": "nimajamali",
+  "objects": [
+    "cosmic background",
+    "stars in cosmic background",
+    "nebulous clouds in cosmic background",
+    "spiral galaxy",
+    "spiral galaxy in the lower-left quadrant",
+    "photorealistic style"
+  ]
+}

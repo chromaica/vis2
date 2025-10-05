@@ -1,0 +1,19 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Digital art",
+  "prompt": "Adjust the color to make it more Japanese-vibed.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 by adjusting its color palette to evoke a Japanese anime aesthetic. Apply softer, more harmonious hues, such as muted blues, gentle pinks, and serene greens, while preserving the existing warm glow of the background lighting.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "boy with glasses",
+    "girl with short hair",
+    "bookshelves",
+    "books",
+    "warm background lighting"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "subtopic": "Branding and visual identity",
+  "prompt": "Edit image 1 by blending in logos from the restaurant (image 2), shoe (image 3), and sportswear (image 4) categories. Recompose the layout using the dense, overlapping style from image 5. Emphasize textual branding elements, adding typography variety inspired by image 3.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg",
+    "4.jpeg",
+    "5.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749712333989,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "T",
+  "prompt_refined": "Edit image 1 by transforming its existing textual content, speech bubbles, and title into a dense, overlapping collage of brand logos. Prominently integrate logos sourced from restaurant categories (referencing image 2), shoe brands (referencing image 3), and sportswear companies (referencing image 4). Arrange these integrated logos in a tightly packed, overlapping composition, mirroring the layout style exemplified in image 5. Emphasize textual branding elements within these new additions, ensuring a diverse range of typography inspired by the styles found in image 3. The original comic panel structure and character visuals of image 1 must be preserved during this transformation.",
+  "annotator": "winston",
+  "objects": [
+    "Original comic panel structure",
+    "Original character visuals",
+    "Tables",
+    "Dense, overlapping collage of restaurant brand logos",
+    "Dense, overlapping collage of shoe brand logos",
+    "Dense, overlapping collage of sportswear company logos",
+    "Textual branding elements within logos",
+    "Diverse typography within logos",
+    "Original textual content (should not be present)",
+    "Original speech bubbles (should not be present)"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "subtopic": "Games",
+  "prompt": "Generate a adventurous 3D game scene screenshot with including all the 3D assets from the reference image.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://www.shutterstock.com/image-illustration/set-3d-objects-symbols-game-260nw-2096450002.jpg",
+  "promptGeneratedTimestamp": 1749425530127,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate an adventurous 3D game scene screenshot. The scene should depict a fantasy environment (e.g., a dungeon chamber, an explorer's camp, or a treasure hoard) and must incorporate every distinct 3D asset shown in image 1. Integrate these items\u2014specifically the cauldron, telescope, crown, shield, horn, sword, two dice, compass, barrel, skull-bound book, cheese, and skull bomb\u2014naturally within the scene as if they are discoverable loot, props, or environmental details.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "cauldron",
+    "telescope",
+    "crown",
+    "shield",
+    "horn",
+    "sword",
+    "two dice",
+    "compass",
+    "barrel",
+    "skull-bound book"
+  ]
+}

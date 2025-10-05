@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Online Meeting Interfaces",
+  "prompt": "Replace the four green placeholder video tiles in image 1 as follows: use image 2 (the woman in white) for the top-left tile, image 3 (the woman in a black blazer) for the top-right, image 4 (the man in a checkered suit) for the bottom-left, and image 5 (the man in a coffee shop) for the bottom-right. All other elements in the interface should remain unchanged.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg",
+    "4.jpg",
+    "5.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace its four green placeholder video tiles as follows: place image 2 (the woman in white) into the top-left tile; image 3 (the woman in a black blazer) into the top-right; image 4 (the man in a checkered suit) into the bottom-left; and image 5 (the man in a coffee shop) into the bottom-right. All other interface elements of image 1 must remain unchanged.",
+  "annotator": "parnian",
+  "objects": [
+    "Zoom meeting window frame",
+    "Top bar with \"Zoom Meeting\" title, traffic lights, and \"Speaker View\" button",
+    "Bottom control bar with buttons (Mute, Stop Video, Participants, Chat, Share Screen, Record, Reactions, Leave)",
+    "Green placeholder video tiles (should not be present)",
+    "Woman in white (in top-left video tile)",
+    "Woman in black blazer (in top-right video tile)",
+    "Man in checkered suit (in bottom-left video tile)",
+    "Man in a coffee shop (in bottom-right video tile)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

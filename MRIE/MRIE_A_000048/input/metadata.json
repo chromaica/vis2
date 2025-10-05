@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Oil painting",
+  "prompt": "In the first image, replace the dancing man and woman with the dancer couple from the second image, and replace the background with the third image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the provided source image (Image 1). Replace the dancing couple on the right side of Image 1, who are positioned under an umbrella, with the male and female dancer figures from Image 2. The replacement couple should emulate the dynamic pose of the dancers in Image 2, featuring the male in a hat and suspenders, and the female in a red dress with arms outstretched. Simultaneously, replace the entire background of Image 1, currently depicting a beach and cloudy sky, with the detailed urban landscape from Image 3. The new background should incorporate the architectural elements, such as the prominent cathedral-like building, surrounding streets, and autumnal trees, as depicted in the impressionistic style of Image 3.",
+  "annotator": "paria",
+  "objects": [
+    "Female figure playing violin",
+    "Male figure playing violin",
+    "Male dancer in a hat and suspenders",
+    "Female dancer in a red dress with arms outstretched",
+    "Urban landscape background",
+    "Prominent cathedral-like building",
+    "Surrounding streets",
+    "Autumnal trees",
+    "Dancing couple under an umbrella (should not be present)",
+    "Beach and cloudy sky background (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

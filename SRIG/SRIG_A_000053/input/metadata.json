@@ -1,0 +1,21 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Stylized art",
+  "prompt": "Produce a similar old library with towering bookshelves with a boy reading.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate an image in the style of the grayscale sketch in image 1. The image should depict a grand, old library featuring towering, curved bookshelves densely packed with books. A young boy is seated on the floor in the foreground, quietly reading a book.",
+  "annotator": "Johnny",
+  "objects": [
+    "Grand, old library interior",
+    "Towering, curved bookshelves",
+    "Densely packed books on shelves",
+    "Young boy",
+    "Boy seated on the floor in the foreground",
+    "Book being read by the boy",
+    "Grayscale sketch style"
+  ]
+}

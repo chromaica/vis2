@@ -1,0 +1,19 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Illuminated Manuscripts",
+  "prompt": "Design an illuminated manuscript element for 'Ars Magna'. The initial 'A' should be ornate and golden, followed by gothic script with red flourishes, all set on a textured parchment.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate an illuminated manuscript element. It features a prominent, ornate, golden initial letter 'A' positioned on the left. To its right, a section of elegant gothic script unfurls, adorned with intricate red flourishes throughout its lettering and margins. The entire design rests on a detailed, textured parchment background.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "prominent, ornate, golden initial letter 'A' (on the left)",
+    "elegant gothic script section (to the right of the letter 'A')",
+    "intricate red flourishes (throughout gothic script lettering and margins)",
+    "detailed, textured parchment background",
+    "illuminated manuscript element (overall style/context)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

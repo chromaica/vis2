@@ -1,0 +1,22 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Use the elevation map as a height-map to emboss the letters, with high points raised and low points recessed.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit Image 1 (the 'PUMA' text) by applying an embossed effect to the letters. Use Image 2 (the grayscale elevation map) as a height-map: ensure that the lighter areas of Image 2 correspond to raised, higher points on the letters, and the darker areas correspond to recessed, lower points.",
+  "annotator": "matina",
+  "objects": [
+    "\"PUMA\" text",
+    "embossed effect on the letters",
+    "letters with a 3D appearance",
+    "raised areas on the letters corresponding to lighter parts of the grayscale map",
+    "recessed areas on the letters corresponding to darker parts of the grayscale map",
+    "surface texture on the letters reflecting the contours of the grayscale elevation map",
+    "white background"
+  ]
+}

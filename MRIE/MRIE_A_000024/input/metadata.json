@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Portraits",
+  "prompt": "Replace the painting on the wall in the first image with the second image, and replace the analog clock on the table next to the child in the first image with a painted version of the digital clock from the photo in the third image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit Image 1 (the painting depicting a child seated at a table). First, replace the content of the rectangular framed painting hanging on the wall in the background with the still life of pears in a bowl as depicted in Image 2. Ensure this new artwork is rendered in a painted style consistent with Image 1. Second, replace the small analog alarm clock positioned on the table to the right of the child. This new object should be a painted representation of the digital clock from Image 3, displaying the time 09:30, and should visually integrate seamlessly into the painted style of Image 1.",
+  "annotator": "paria",
+  "objects": [
+    "child seated at a table",
+    "table with cloth",
+    "wall background",
+    "rectangular framed painting on the wall",
+    "still life of pears in a bowl (inside the framed painting)",
+    "shadow of a standing figure on the wall",
+    "floor",
+    "rug on the floor",
+    "digital clock displaying 09:30 on the table to the right of the child",
+    "small analog alarm clock (should not be present)"
+  ]
+}

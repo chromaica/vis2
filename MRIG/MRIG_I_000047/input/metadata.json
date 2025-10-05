@@ -1,0 +1,29 @@
+{
+  "subtopic": "UI mockups",
+  "prompt": "Create a UI dashboard mockup combining the clean layout and data components (charts, panels) from image 1, rendered in the hand-drawn, sketch-like style of image 2, including conceptual annotations.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "Information graphics UI template",
+  "searchQueryGeneratedTimestamp": 1752289681218,
+  "promptGeneratedTimestamp": 1752289984374,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "I",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a UI dashboard mockup. The mockup should feature a structured, modular layout with diverse data components, including various charts (pie, bar, line) and numerical statistics panels, all inspired by the clean, modern design of image 1. The entire dashboard must be rendered in the distinct hand-drawn, informal, sketch-like style exemplified by image 2, complete with handwritten conceptual annotations, labels, and arrows explaining or highlighting UI elements.",
+  "objects": [
+    "UI dashboard mockup",
+    "Structured, modular layout",
+    "Diverse data components",
+    "Pie charts",
+    "Bar charts",
+    "Line charts",
+    "Numerical statistics panels",
+    "Hand-drawn, informal, sketch-like style for all UI elements",
+    "Handwritten conceptual annotations and labels",
+    "Hand-drawn arrows explaining or highlighting UI elements"
+  ]
+}

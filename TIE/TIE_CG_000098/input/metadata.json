@@ -1,0 +1,24 @@
+{
+  "subtopic": "Skeletal Animation and Rigging",
+  "prompt": "Modify the skeletal structure to change the pose of the figure. Place the figure in a walking stance with one leg extended forward.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751813413950,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1. Repose the skeletal figure to depict a walking stance, with one leg extended forward in a natural stride.",
+  "annotator": "edisy",
+  "objects": [
+    "skeletal figure in a walking stance with one leg extended forward",
+    "green geometric rigging components",
+    "yellow geometric rigging components",
+    "grey geometric rigging components",
+    "spherical joint markers",
+    "dark background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

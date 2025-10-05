@@ -1,0 +1,26 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Image Transformation",
+  "prompt": "Locate the same statue in the source and crop the scene around it.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the source image. Crop the scene to closely frame the Statue of Liberty, using image 2 as a reference for the desired composition. The edited image should focus predominantly on the statue and its immediate pedestal, largely excluding the distant background, the water, and the crowd of people at the bottom of image 1.",
+  "annotator": "nimajamali",
+  "objects": [
+    "Statue of Liberty figure",
+    "Torch of the Statue of Liberty",
+    "Crown of the Statue of Liberty",
+    "Tablet of the Statue of Liberty",
+    "Immediate pedestal of the Statue of Liberty",
+    "Blue sky",
+    "Distant background (should not be present)",
+    "Water (should not be present)",
+    "Crowd of people (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

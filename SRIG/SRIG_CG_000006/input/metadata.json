@@ -1,0 +1,25 @@
+{
+  "subtopic": "Game assets",
+  "prompt": "Generate a realistic 3D render of a different historical artillery game asset, similar in detailed texture style and isolated composition on a dark background as shown in the reference image.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fkavya1com.wordpress.com%2Fgame-assets%2F&psig=AOvVaw17yUJrBV-Ppg-Oh1Q1NbXQ&ust=1748771522096000&source=images&cd=vfe&opi=89978449&ved=0CBcQjhxqFwoTCJDhw923zY0DFQAAAAAdAAAAABAW",
+  "promptGeneratedTimestamp": 1748685292053,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a realistic 3D render of a distinct historical artillery asset suitable for a game, similar in style to the object in image 1. The asset should exhibit a detailed texture style consistent with image 1, featuring weathered dark wood, aged dark metal, and subtle tarnished metal accents. Position the asset centrally and in isolation against a solid black background, replicating the clear, unobstructed full-view composition seen in image 1.",
+  "annotator": "ishengfang",
+  "objects": [
+    "A distinct historical cannon asset",
+    "Cannon barrel with aged dark metal texture",
+    "Cannon carriage with weathered dark wood texture",
+    "Cannon wheels with weathered dark wood and aged dark metal parts",
+    "Subtle tarnished metal accents on the cannon",
+    "Solid black background",
+    "Cannon positioned centrally",
+    "Cannon in isolation",
+    "Clear, unobstructed full-view composition"
+  ]
+}

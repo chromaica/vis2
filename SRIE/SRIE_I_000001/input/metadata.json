@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "Apply the hand-drawn style to the map.",
+  "cond_images": [
+    "1.png",
+    "2.jpg"
+  ],
+  "remarks": "https://pixabay.com/vectors/map-germany-federal-states-606538/",
+  "prompt_refined": "Edit image 1, the map of Germany, to adopt the hand-drawn line art style shown in image 2. The new style should be applied to all map elements, including the country borders, internal state boundaries, state names, and the distinct colored regions, making them appear as if sketched with a pen.",
+  "annotator": "Johnny",
+  "objects": [
+    "Map of Germany outline",
+    "Internal state boundaries",
+    "West/South German states region",
+    "East German states region",
+    "Schleswig-Holstein state name",
+    "Mecklenburg-Vorpommern state name",
+    "Nordrhein-Westfalen state name",
+    "Bayern state name",
+    "Brandenburg state name",
+    "Th\u00fcringen state name"
+  ]
+}

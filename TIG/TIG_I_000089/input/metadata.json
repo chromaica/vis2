@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "ancient forest, medieval village, industrial town, modern city, and post-apocalyptic ruins",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "An information graphic depicting five distinct environmental stages in a horizontal progression. From left to right: An ancient, primeval forest; a quaint medieval village; a bustling industrial town; a sprawling modern city; and desolate post-apocalyptic ruins. Each section is clearly defined, visually transitioning into the next, rendered in a clean, illustrative infographic style.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Horizontal progression layout",
+    "Clearly defined sections",
+    "Visual transitions between sections",
+    "Ancient, primeval forest (leftmost section)",
+    "Quaint medieval village (second section)",
+    "Bustling industrial town (third section)",
+    "Sprawling modern city (fourth section)",
+    "Desolate post-apocalyptic ruins (rightmost section)",
+    "Clean, illustrative infographic style elements"
+  ],
+  "human_annotation": true
+}

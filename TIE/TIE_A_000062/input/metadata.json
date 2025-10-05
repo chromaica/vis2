@@ -1,0 +1,19 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Impressionism",
+  "prompt": "Add a tractor at the right side of the field. Follow the texture of the original painting.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 by adding a tractor on the right side of the field. Ensure the added tractor matches the impasto oil painting texture and style of the original artwork.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "field",
+    "sky",
+    "tractor on the right side of the field"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

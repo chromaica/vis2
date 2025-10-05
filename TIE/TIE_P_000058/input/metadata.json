@@ -1,0 +1,25 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "replace the iced bear into a melted versions",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Modify the frosted bear-shaped ice cube in the glass to appear partially melted, with its features softening and liquid visibly dripping into the beverage below.",
+  "annotator": "theblackcat",
+  "objects": [
+    "partially melted bear-shaped ice cube",
+    "glass",
+    "beverage",
+    "liquid visibly dripping into beverage",
+    "straw",
+    "wooden table",
+    "plate with food",
+    "fork",
+    "woven basket",
+    "blurred background"
+  ],
+  "human_annotation": true
+}

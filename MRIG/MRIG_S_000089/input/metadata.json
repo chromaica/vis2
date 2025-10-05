@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "Design a screenshot of a first-person mystery puzzle game featuring a mansion interior from the first image, with hidden objects from the second image that are to be discovered within the mansion.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a first-person perspective screenshot for a mystery puzzle game. The scene must feature the grand, dilapidated interior of the mansion from image 1. Subtly embed the specific hidden objects identified by the silhouettes in image 2 (a padlock, a circular disc, two elongated shapes, and a dog figure) as discoverable 3D elements naturally integrated within the mansion's environment.",
+  "annotator": "paria",
+  "objects": [
+    "First-person perspective",
+    "Grand mansion interior",
+    "Dilapidated environment",
+    "Padlock (integrated 3D element)",
+    "Circular disc (integrated 3D element)",
+    "Elongated shape 1 (integrated 3D element)",
+    "Elongated shape 2 (integrated 3D element)",
+    "Dog figure (integrated 3D element)",
+    "Grand staircase",
+    "Chandelier"
+  ]
+}

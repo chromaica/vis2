@@ -1,0 +1,23 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Traditional arts",
+  "prompt": "Make the painting more modern by replacing the boat with a yacht and can vaguely see a man standing on the deck. Follow the original art style and color scheme.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the traditional boat located in the lower-left of the painting with a modern yacht. A man should be subtly visible standing on the yacht's deck. Maintain the original Chinese ink wash art style and the existing muted color scheme of image 1.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Traditional boat (should not be present)",
+    "Modern yacht (in the lower-left)",
+    "Man (subtly visible on the yacht's deck)",
+    "Mountains",
+    "Water",
+    "Fog/Mist",
+    "Reflections on water",
+    "Small structures on the right bank",
+    "Artistic signature and seal (upper-right)"
+  ]
+}

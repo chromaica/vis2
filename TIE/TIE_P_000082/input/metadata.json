@@ -1,0 +1,19 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "add some microscopic fiber to this image",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 to add several thin, elongated microscopic fibers. The fibers should be realistically rendered as if viewed under a scanning electron microscope (SEM), appearing among and around the existing particulate matter in the central region of the image.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Particulate matter",
+    "Several thin, elongated microscopic fibers",
+    "Fibers among and around the particulate matter",
+    "Gray background",
+    "Scanning electron microscope (SEM) visual style"
+  ]
+}

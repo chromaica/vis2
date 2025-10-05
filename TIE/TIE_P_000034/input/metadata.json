@@ -1,0 +1,19 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Medical images",
+  "prompt": "add tooth braces to the xray image",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 by adding metallic dental braces to the visible teeth. Ensure the braces, including brackets and archwires, appear radiopaque and consistent with an X-ray image.",
+  "annotator": "theblackcat",
+  "objects": [
+    "X-ray image of teeth",
+    "X-ray image of jawbone",
+    "metallic dental braces on visible teeth",
+    "radiopaque brackets on teeth",
+    "radiopaque archwires on teeth"
+  ]
+}

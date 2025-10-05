@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Medical images",
+  "prompt": "A 3D ultrasound image of a developing fetus in the womb, showing distinct features with a blurred pink and gray ambiance.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A highly detailed, photorealistic 3D ultrasound image of a developing fetus in the womb, showcasing distinct and clearly visible anatomical features. The background environment features a soft, blurred ambiance with prominent pink and gray tones.",
+  "annotator": "cwhsu",
+  "objects": [
+    "developing fetus",
+    "womb (encompassing the fetus)",
+    "distinct and clearly visible anatomical features (of the fetus)",
+    "soft background ambiance",
+    "blurred background",
+    "prominent pink tones (in background)",
+    "prominent gray tones (in background)",
+    "3D ultrasound visual style",
+    "photorealistic rendering",
+    "high level of detail (overall image)"
+  ]
+}

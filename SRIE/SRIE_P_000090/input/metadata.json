@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Apply a vignette to the source image based on the reference control map.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the photorealistic image of pasta, by applying a radial vignette. The vignette should gradually darken the outer edges of the image, making the central region brighter. Use image 2, the radial gradient control map, to guide the intensity and shape of this darkening: the darkest areas of the vignette should correspond to the black areas of image 2, and the brightest areas should correspond to the white center of image 2, with a smooth radial fade in between.",
+  "annotator": "nimajamali",
+  "objects": [
+    "Photorealistic image",
+    "Bowl of pasta with chickpeas, greens, and grated cheese",
+    "Slice of bread",
+    "Spoon in the bowl",
+    "Glass of wine",
+    "Table surface",
+    "Darkened outer edges due to radial vignette",
+    "Brightened central region due to radial vignette",
+    "Partially visible second bowl of pasta in the background",
+    "Partially visible second glass in the background"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": "Design an online learning platform with bright educational colors, animated progress indicators, floating graduation caps, interactive course modules, and gamified achievement badges",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A screenshot of an online learning platform user interface, designed with a vibrant, educational color palette featuring bright blues, greens, and yellows. The main content area displays clearly defined interactive course modules, presented as clickable cards arranged in a grid, each with a title, thumbnail image, and a brief description. Prominently visible animated progress bars and circular indicators are integrated, showing user advancement. Whimsical floating graduation caps are subtly incorporated as decorative background elements throughout the interface. A dedicated section, possibly a sidebar or top-right corner, showcases visually striking gamified achievement badges, depicted as vibrant, embossed, or metallic icons.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Online learning platform user interface",
+    "Interactive course modules as clickable cards",
+    "Titles on course module cards",
+    "Thumbnail images on course module cards",
+    "Brief descriptions on course module cards",
+    "Animated progress bars",
+    "Circular indicators",
+    "Whimsical floating graduation caps (as background elements)",
+    "Gamified achievement badges (in a dedicated section, e.g., sidebar or top-right corner)"
+  ],
+  "human_annotation": true
+}

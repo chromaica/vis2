@@ -1,0 +1,28 @@
+{
+  "subtopic": "Typography",
+  "prompt": "Edit image 1: Apply the vibrant color palette from image 2 to the typography and illustrations. Integrate abstract organic shapes and layering effects from image 4 into the composition. Incorporate the dynamic text-forming shapes concept from image 3 onto significant text blocks. Add abstract stylized letterform elements from image 5 as decorative motifs.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg",
+    "4.jpeg",
+    "5.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749711881351,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "T",
+  "prompt_refined": "Modify image 1. Apply the vibrant, abstract color palette from image 2, featuring its shades of fuchsia, purple, teal, and soft yellow, to all existing typography and line illustrations within image 1. The color application should emulate the energetic, almost glowing quality seen in image 2. Incorporate abstract organic shapes and their layering effects, similar to those found in image 4, into the background and interstitial spaces of image 1. These shapes should exhibit a gradient fill, mimicking the warm orange, red, and dark brown tones and the sense of depth created by overlapping elements in image 4; they should subtly intertwine with the existing text and illustrations. Apply the dynamic text-forming shapes concept, as exemplified in image 3, to prominent text blocks within image 1. For these significant text areas, let the letters and words fluidly contour and merge, forming implied shapes or figures, similar to how text outlines the human form in image 3; emphasize a sense of motion and organic flow within these text compositions. Introduce abstract stylized letterform elements, reminiscent of the unique glyphs in image 5, as decorative motifs. These elements, characterized by their bold, simplified, and sometimes cut-out or rounded forms, should be strategically placed as accents or subtle flourishes among the existing textual landscape in image 1, maintaining their distinct, graphic quality.",
+  "annotator": "winston",
+  "objects": [
+    "Typography from image 1 (displaying vibrant, abstract fuchsia, purple, teal, and soft yellow color palette with an energetic, glowing quality).",
+    "Line illustrations from image 1 (displaying vibrant, abstract fuchsia, purple, teal, and soft yellow color palette with an energetic, glowing quality).",
+    "Abstract organic shapes in the background and interstitial spaces.",
+    "Layered and overlapping abstract organic shapes with warm orange, red, and dark brown gradient fills.",
+    "Prominent text blocks forming dynamic, fluidly contoured, and merged implied shapes or figures with a sense of motion and organic flow.",
+    "Abstract stylized letterform elements as decorative motifs (bold, simplified, sometimes cut-out or rounded forms)."
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

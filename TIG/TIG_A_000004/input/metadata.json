@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Traditional art",
+  "prompt": "A Renaissance-inspired portrait of a noblewoman with intricate jewelry, in a velvet gown, gazing thoughtfully.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A highly detailed Renaissance-style oil painting portrait of an elegant noblewoman, wearing a rich, deep crimson velvet gown and adorned with intricate gold and pearl jewelry. She gazes thoughtfully with a serene, contemplative expression. The portrait is illuminated by soft, diffused light, highlighting her features against a subtly detailed classical interior background.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Renaissance-style oil painting",
+    "Portrait",
+    "Elegant noblewoman",
+    "Deep crimson velvet gown",
+    "Intricate gold jewelry",
+    "Pearl jewelry",
+    "Serene, contemplative expression",
+    "Soft, diffused light",
+    "Subtly detailed classical interior background"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "Create a visualization for semantic segmentation using computer graphics. Show the mannequin from image 1 and the person from image 2 on the beach (from image 2), with distinct segmentation masks highlighting each instance.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748422207172,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a computer graphics visualization for semantic segmentation. Create a scene where the full-body fabric mannequin from image 1 stands alongside the full-body young man from image 2, positioned on the sandy beach with ocean waves from image 2. Both the mannequin and the young man must have distinct, vibrant segmentation masks highlighting each instance.",
+  "annotator": "winston",
+  "objects": [
+    "computer graphics visualization",
+    "semantic segmentation representation",
+    "full-body fabric mannequin",
+    "full-body young man",
+    "sandy beach",
+    "ocean waves",
+    "distinct, vibrant segmentation mask on mannequin",
+    "distinct, vibrant segmentation mask on young man"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

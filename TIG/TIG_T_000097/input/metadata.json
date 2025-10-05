@@ -1,0 +1,23 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": "Classic comic impact: 'POW!' rendered in bold, jagged yellow typography, outlined in vivid red. This iconic onomatopoeia is dramatically set against an explosive starburst background.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate an image featuring the text \"POW!\". The typography for \"POW!\" should be bold, jagged, and filled with a vibrant yellow color, distinctly outlined in vivid red. This onomatopoeia should be centrally positioned against an explosive, dynamic starburst background, in a classic comic book style.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Text \"POW!\"",
+    "Bold typography for \"POW!\"",
+    "Jagged typography for \"POW!\"",
+    "Vibrant yellow fill color for the \"POW!\" text",
+    "Vivid red outline for the \"POW!\" text",
+    "Centrally positioned \"POW!\" text",
+    "Starburst background",
+    "Explosive visual effect for the background",
+    "Dynamic visual effect for the background",
+    "Classic comic book style visual aesthetic"
+  ],
+  "human_annotation": true
+}

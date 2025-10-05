@@ -1,0 +1,24 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "A mountain cliff at dawn time.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a new digital painting of a vast mountain canyon at dawn, drawing inspiration from the composition and artistic style of image 1. The scene depicts towering, rugged reddish-brown cliffs with green vegetation clinging to their surfaces and ledges. Soft, warm sunlight illuminates the upper portions of the cliffs from the rising sun, casting deep shadows into the gorge below. Two white birds are visible soaring between the cliffs in the distant sky.",
+  "annotator": "Johnny",
+  "objects": [
+    "vast mountain canyon",
+    "dawn (time of day)",
+    "towering, rugged reddish-brown cliffs",
+    "green vegetation clinging to cliff surfaces",
+    "green vegetation on cliff ledges",
+    "soft, warm sunlight illuminating upper cliffs",
+    "rising sun (source of light)",
+    "deep shadows in the gorge",
+    "two white birds",
+    "distant sky"
+  ]
+}

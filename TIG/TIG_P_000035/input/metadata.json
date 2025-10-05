@@ -1,0 +1,19 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Retro Futurism",
+  "prompt": "A classic red convertible surrounded by towering skyscrapers featuring large, spinning neon advertisements.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A photorealistic image of a classic red convertible, parked on a wet city street at night. The vehicle is completely encircled by towering, modern skyscrapers that are heavily adorned with immense, dynamically spinning neon advertisements, casting vibrant, colorful reflections across the urban scene.",
+  "annotator": "cwhsu",
+  "objects": [
+    "classic red convertible",
+    "wet city street",
+    "night lighting",
+    "towering modern skyscrapers",
+    "immense neon advertisements",
+    "spinning neon advertisements",
+    "vibrant colorful reflections"
+  ]
+}

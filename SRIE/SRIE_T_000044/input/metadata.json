@@ -1,0 +1,19 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Fill the \u2018Tube\u2019 portion with that exact YouTube red, leaving \u2018You\u2019 black.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Color the characters forming 'Tube' with the exact shade of red from image 2. Ensure the characters forming 'You' remain black.",
+  "annotator": "matina",
+  "objects": [
+    "The word \"YouTube\"",
+    "Black characters \"You\"",
+    "Red characters \"Tube\"",
+    "White background"
+  ]
+}

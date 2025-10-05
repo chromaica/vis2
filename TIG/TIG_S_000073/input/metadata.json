@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "Third-person adventure exploration game showing an archaeologist character discovering a hidden Mayan temple entrance covered in overgrown vines and ancient carvings. Include climbing gear UI, artifact scanner, journal entries, stamina bar, weather system, and photograph mode. Jungle environment with dappled sunlight and exotic wildlife sounds",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A screenshot from a third-person adventure exploration video game. An archaeologist character, viewed from behind, stands poised before a hidden Mayan temple entrance, which is heavily obscured by overgrown, vibrant green vines and intricate ancient stone carvings. The scene is set in a dense, tropical jungle environment, with bright, dappled sunlight filtering through the tree canopy, casting distinct light rays and shadows. Large, exotic plants and visible wildlife (e.g., colorful birds, insects) populate the foreground and background.\n\nProminently displayed UI elements include:\n- A stamina bar and climbing gear icons positioned in the bottom-left corner.\n- A transparent, pop-up window for 'Journal Entries' in the top-left corner.\n- A 'Weather System' icon (e.g., sun/clouds) and a 'Photograph Mode' prompt (e.g., 'Press [button] for Photo Mode') in the top-right corner.\n- A subtle, holographic 'Artifact Scanner' interface projecting from the character's hand or wrist.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Archaeologist character (viewed from behind)",
+    "Hidden Mayan temple entrance",
+    "Overgrown, vibrant green vines (on temple entrance)",
+    "Intricate ancient stone carvings (on temple entrance)",
+    "Dense, tropical jungle environment",
+    "Bright, dappled sunlight with distinct light rays and shadows",
+    "Visible wildlife (e.g., colorful birds, insects)",
+    "Stamina bar and climbing gear icons (in bottom-left corner)",
+    "Transparent pop-up window for 'Journal Entries' (in top-left corner)",
+    "Weather System icon and Photograph Mode prompt (in top-right corner)"
+  ]
+}

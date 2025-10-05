@@ -1,0 +1,18 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "3D renders",
+  "prompt": "A 3D render of a kitchen layout featuring a centrally placed stove, a sink positioned on the right, and a refrigerator on the left.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a 3D render of a kitchen layout. The stove should be centrally placed, the sink on the right, and the refrigerator on the left.",
+  "annotator": "maxku",
+  "objects": [
+    "Kitchen layout",
+    "Stove, centrally placed",
+    "Sink, on the right",
+    "Refrigerator, on the left",
+    "Countertops",
+    "Kitchen cabinets"
+  ]
+}

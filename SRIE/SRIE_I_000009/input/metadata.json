@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Integrate this Venn diagram to the whiteboard.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 (the whiteboard) by integrating the Venn diagram from image 2 onto its surface. Replicate the visual style of the Venn diagram from image 2, including its specific red, green, and blue colors, three-circle configuration, and semi-transparent overlapping regions. Place the diagram centrally on the whiteboard, ensuring it is clearly visible and appropriately sized.",
+  "annotator": "Johnny",
+  "objects": [
+    "whiteboard",
+    "marker tray on whiteboard",
+    "markers on marker tray",
+    "Venn diagram centrally placed on the whiteboard",
+    "red circle (part of Venn diagram)",
+    "green circle (part of Venn diagram)",
+    "blue circle (part of Venn diagram)",
+    "semi-transparent overlapping regions (of Venn diagram)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

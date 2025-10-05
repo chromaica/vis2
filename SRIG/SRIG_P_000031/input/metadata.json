@@ -1,0 +1,20 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Place this dog in the image sitting on a hiking trail in a dense forest during autumn.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic image featuring the German Shepherd dog from image 1. The dog should be sitting upright, facing forward, on a winding dirt hiking trail. The trail is set within a dense forest, with vibrant autumn foliage (red, orange, yellow leaves) on the surrounding trees and scattered across the ground.",
+  "annotator": "samin",
+  "objects": [
+    "German Shepherd dog (sitting upright, facing forward)",
+    "Winding dirt hiking trail",
+    "Dense forest",
+    "Trees with vibrant autumn foliage (red, orange, yellow leaves)",
+    "Autumn leaves scattered across the ground"
+  ],
+  "human_annotation": true
+}

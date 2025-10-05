@@ -1,0 +1,23 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Create a soft and minimalist skincare brand identity by blending the clean packaging in Image 1 with the floral watercolor style of Image 2. ",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate an image for a soft and minimalist skincare brand identity. The central product packaging should be a clean, matte white or translucent squeeze tube, reflecting the simple form and aesthetic of Image 1. Integrate a delicate, artistic floral watercolor design, inspired by the pink orchids and translucent style of Image 2, subtly onto the tube's surface. The overall composition should be brightly lit, featuring the product centrally against a plain, light background, mirroring the presentation in Image 1.",
+  "annotator": "parnian",
+  "objects": [
+    "Squeeze tube (matte white or translucent)",
+    "Delicate floral watercolor design",
+    "Pink orchid motif",
+    "Floral design subtly applied to the tube's surface",
+    "Product centrally positioned",
+    "Plain light background",
+    "Bright lighting",
+    "Light-colored surface/pedestal"
+  ]
+}

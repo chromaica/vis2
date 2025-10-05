@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Cultural/heritage art",
+  "prompt": "Native American artist crafting a detailed dreamcatcher using feathers, beads, and leather in a rustic cabin.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A Native American artist meticulously crafts a highly detailed dreamcatcher, intricately adorned with vibrant feathers, shimmering beads, and supple leather elements. The artist's skilled hands are prominent in the foreground, diligently working on the dreamcatcher, which is positioned on a worn wooden table inside a rustic, warmly lit cabin.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Native American artist",
+    "highly detailed dreamcatcher",
+    "vibrant feathers (on dreamcatcher)",
+    "shimmering beads (on dreamcatcher)",
+    "supple leather elements (on dreamcatcher)",
+    "artist's hands (prominent, in foreground)",
+    "worn wooden table",
+    "rustic cabin interior",
+    "warm lighting"
+  ]
+}

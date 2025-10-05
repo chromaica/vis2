@@ -1,0 +1,25 @@
+{
+  "subtopic": "Skeletal Animation and Rigging",
+  "prompt": "Modify the pose of the gray 3D cat model by manipulating its skeletal rig to show the cat in a crouching position, ready to pounce.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751813682548,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1 by reposing the gray 3D cat model, manipulating its visible skeletal rig. Position the cat in a low, crouching stance with its hind legs coiled under its body and its front paws lowered, conveying readiness to pounce.",
+  "annotator": "edisy",
+  "objects": [
+    "gray 3D cat model",
+    "visible skeletal rig",
+    "cat in a low, crouching stance",
+    "cat's hind legs coiled under its body",
+    "cat's front paws lowered",
+    "dark grey grid plane",
+    "dark grey background",
+    "coordinate axis gizmo"
+  ],
+  "human_annotation": true
+}

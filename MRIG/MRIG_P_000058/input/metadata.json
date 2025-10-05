@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Design a home appliance inspired by the first reference image (a ceiling fan) and styled after the second reference image (a dragon). Create a ceiling fan with blades shaped like dragon wings, a central hub textured with green dragon scales, and subtle red eye-like LED lights integrated into the hub. Install this fan in a medieval-themed dining room with stone walls, wooden beams, and candlelit chandeliers, ensuring the fan blends harmoniously with the setting while maintaining functionality.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic image of a ceiling fan. This fan should derive its fundamental structure and functionality from the fan presented in image 1. Its aesthetic design must be heavily influenced by the dragon depicted in image 2. Specifically, the fan's blades should be shaped like the prominent, reddish-orange wings of the dragon from image 2. The central hub of the fan, where the blades connect, must be textured with distinct green dragon scales. Integrate subtle, glowing red LED lights into the fan's hub, resembling the dragon's eyes from image 2. Install this uniquely designed fan centrally on the ceiling of a medieval-themed dining room. The room should feature rugged stone walls, sturdy dark wooden ceiling beams, and multiple glowing candlelit chandeliers hanging from above. Ensure the fan appears fully functional and is seamlessly integrated into the historical setting, maintaining a consistent photorealistic quality.",
+  "objects": [
+    "Photorealistic ceiling fan",
+    "Fan blades shaped like reddish-orange dragon wings",
+    "Fan central hub textured with green dragon scales",
+    "Subtle, glowing red LED lights in the fan hub",
+    "Medieval-themed dining room",
+    "Rugged stone walls",
+    "Sturdy dark wooden ceiling beams",
+    "Multiple glowing candlelit chandeliers",
+    "Ceiling with centrally installed fan"
+  ],
+  "human_annotation": true
+}

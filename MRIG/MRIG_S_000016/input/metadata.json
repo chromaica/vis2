@@ -1,0 +1,23 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "Design a horror survival game atmosphere using the foggy forest visuals from the first image and the dilapidated house from the second image.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a horror survival game scene. The image should feature the dark, dense foggy forest environment with bare trees and a winding path as depicted in image 1. Within this atmospheric setting, prominently position the dilapidated, stone mansion overgrown with vines and with glowing windows, as seen in image 2, making it a central focal point.",
+  "annotator": "paria",
+  "objects": [
+    "dark forest environment",
+    "dense fog",
+    "bare trees",
+    "winding path",
+    "dilapidated stone mansion",
+    "vines overgrown on the mansion",
+    "glowing windows of the mansion",
+    "mansion as a central focal point"
+  ]
+}

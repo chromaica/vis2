@@ -1,0 +1,19 @@
+{
+  "subtopic": "Icons and symbols",
+  "prompt": "Design a new mobile app icon for a 'SmartRead' app. The design should use the 'bookmark' icon in the image for reference, adapting it into a polished and modern app icon format.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "https://static.vecteezy.com/system/resources/previews/021/190/160/non_2x/bookmark-add-outline-icon-in-transparent-background-basic-app-and-web-ui-bold-line-icon-eps10-free-vector.jpg",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate a new mobile app icon for a 'SmartRead' application. The icon should visually adapt the black bookmark outline with the integrated plus sign from image 1 into a polished, modern app icon format. The bookmark element, including its unique top-right plus sign, should be the central and primary feature of the icon. Design the icon with clean, crisp vector graphics, suitable for a contemporary mobile operating system interface, ideally presented within a rounded square shape.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Mobile app icon",
+    "Bookmark outline (from image 1)",
+    "Plus sign (integrated into the top-right of the bookmark outline, from image 1)",
+    "Rounded square shape"
+  ],
+  "human_annotation": true
+}

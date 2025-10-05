@@ -1,0 +1,20 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "make the cat sitting upstraight posture rather than four feets on the floor",
+  "cond_images": [
+    "1.jpeg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Change the posture of the tabby cat in the lower-left from walking on all four paws to sitting upright on its hind legs.",
+  "annotator": "theblackcat",
+  "objects": [
+    "tabby cat sitting upright on its hind legs in the lower-left",
+    "stone wall",
+    "green ivy",
+    "stone stairs",
+    "paved ground",
+    "drain pipe"
+  ]
+}

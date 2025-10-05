@@ -1,0 +1,25 @@
+{
+  "subtopic": "VFX and Particles",
+  "prompt": "Generate a close-up view of the watch from image 1, enveloped in dynamic, soft pink and white particle effects inspired by the color palette and gentle aesthetic of image 2. Place it against a dark, reflective surface similar to image 1, emphasizing the luminous particles in a VFX style.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748424781395,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a high-fidelity image in a VFX style. The central focus is a detailed close-up of the silver chronograph watch from image 1. The watch is enveloped by dynamic, luminous particle effects, primarily soft pink and white, drawing inspiration from the gentle aesthetic and color palette of image 2. It rests on a dark, highly reflective surface, mirroring the appearance and reflectivity of the surface in image 1. The glowing particles should be prominently emphasized.",
+  "annotator": "winston",
+  "objects": [
+    "Detailed close-up of a silver chronograph watch",
+    "Dynamic, luminous particle effects",
+    "Soft pink particle effects",
+    "White particle effects",
+    "Dark surface",
+    "Highly reflective surface",
+    "Reflection of the watch on the surface",
+    "VFX style visual aesthetic"
+  ]
+}

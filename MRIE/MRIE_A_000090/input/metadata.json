@@ -1,0 +1,24 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Oil painting",
+  "prompt": "In image 1, replace the roses with the flowers from image 2, and replace the brown bag the woman is holding with the pink bag from image 3. Maintain the oil-painting style when making these changes.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the red roses held in the man's hand with the bouquet of white Calla Lilies depicted in image 2. Additionally, substitute the woman's red-brown cross-body bag with the pink quilted bag featuring a gold chain from image 3. All modifications should seamlessly maintain the original oil-painting style of image 1.",
+  "annotator": "paria",
+  "objects": [
+    "Man in a brown coat",
+    "Woman in a light-colored coat/dress and red shoes",
+    "Bouquet of white Calla Lilies held in the man's hand",
+    "Pink quilted bag with a gold chain on the woman",
+    "Red car",
+    "Red roses (should not be present)",
+    "Red-brown cross-body bag (should not be present)"
+  ],
+  "human_annotation": true
+}

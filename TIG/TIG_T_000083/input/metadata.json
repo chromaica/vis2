@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "A vibrant poster design showcasing the bold word 'EXPLORE' in a clean, modern sans-serif font, with a color gradient from teal to purple. The background is an abstract, textured cosmic landscape, inviting adventure.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A vibrant digital poster. The central focal point is the bold word 'EXPLORE', rendered in a clean, modern sans-serif font. The text features a smooth gradient from vibrant teal on the left to deep purple on the right. The background is an abstract, richly textured cosmic landscape, depicting nebulae and stars, creating an inviting and adventurous atmosphere.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "bold word 'EXPLORE' (central focal point)",
+    "clean, modern sans-serif font",
+    "smooth gradient on the word 'EXPLORE'",
+    "vibrant teal color on the left side of 'EXPLORE'",
+    "deep purple color on the right side of 'EXPLORE'",
+    "abstract cosmic landscape (background)",
+    "richly textured background",
+    "nebulae (in background)",
+    "stars (in background)"
+  ],
+  "human_annotation": true
+}

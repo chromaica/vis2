@@ -1,0 +1,29 @@
+{
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Generate a line chart infographic combining the multi-line data visualization structure and legend placement from image 2. Adopt the bold line style, vibrant point markers, and clean background aesthetic found in image 1, including a clear title.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "Diagrams Charts Graphs Examples",
+  "searchQueryGeneratedTimestamp": 1752070882138,
+  "promptGeneratedTimestamp": 1752070988187,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "I",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a new line chart infographic that incorporates the multi-line data visualization structure and vertical legend placement found in image 2. Adopt the bold line style, vibrant, solid circular point markers, and a clean, light background aesthetic with minimal grid lines, all characteristic of image 1. Ensure a clear, prominent title is centered above the chart, similar to image 1.",
+  "objects": [
+    "Line chart infographic",
+    "Multiple data lines",
+    "Vertical legend (positioned to the right of the chart)",
+    "Bold line style",
+    "Vibrant, solid circular point markers",
+    "Clean, light background",
+    "Minimal horizontal grid lines",
+    "Prominent title (centered above the chart)",
+    "X-axis with labels",
+    "Y-axis with labels"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": "Apply charcoal smudges and chalk highlights from the reference.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit Image 1 (the Atom Man comic cover) by applying the distinct visual style of charcoal smudges and chalk highlights, as exemplified in Image 2 (the reference drawing).",
+  "annotator": "matina",
+  "objects": [
+    "ATOMAN title",
+    "Atom Man superhero",
+    "Atom Man's cape",
+    "Explosion/smoke cloud",
+    "Comic publication details text (Feb. 1946, No. 1, pdc, TEN CENTS)",
+    "List of other features text (Plus KID CRUSADERS WILD BILL HICKOK MARVIN THE GREAT AND OTHER FEATURES)",
+    "Jerry Robinson signature",
+    "Visual appearance of charcoal smudges",
+    "Visual appearance of chalk highlights"
+  ]
+}

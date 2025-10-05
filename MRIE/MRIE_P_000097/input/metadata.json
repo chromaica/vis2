@@ -1,0 +1,22 @@
+{
+  "subtopic": "Microscopic imagery",
+  "prompt": "Edit image 1: Preserve the spore structures. Change background to image 3's bright, particle-filled clarity. Apply image 2's detailed green cellular pattern and color to the textured base below the spores.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749307386496,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "P",
+  "prompt_refined": "Edit the provided source image (image 1). Preserve the two distinct, rounded spore structures and their translucent stalks, maintaining their current position and form. Transform the clear background area of image 1 to adopt the bright, scattered particle appearance and overall clarity observed in image 3. Apply the detailed green cellular pattern and vibrant green color from image 2 to the dark, textured, granular base visible beneath the spore structures in image 1.",
+  "annotator": "boris",
+  "objects": [
+    "Two distinct, rounded spore structures",
+    "Translucent stalks",
+    "Background with bright, scattered particles and overall clarity",
+    "Base with detailed green cellular pattern and vibrant green color"
+  ]
+}

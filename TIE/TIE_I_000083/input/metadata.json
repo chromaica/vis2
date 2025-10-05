@@ -1,0 +1,20 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Floor Plan",
+  "prompt": "Add color to differentiate each type of furniture, using distinct hues for chairs, tables, and plants.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Introduce color to the line-drawn furniture elements to visually differentiate their types. Assign a distinct color to all chairs, a different distinct color to all tables, and another distinct color to all plant elements present in the image.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Chairs with a distinct uniform color",
+    "Tables with a distinct uniform color",
+    "Plant elements with a distinct uniform color",
+    "Sofas filled with color",
+    "Rugs filled with color",
+    "Gray background"
+  ]
+}

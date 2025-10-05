@@ -1,0 +1,24 @@
+{
+  "subtopic": "VFX and Particles",
+  "prompt": "Use the reference image's dynamic, muddy scene to generate a sports action image focusing on VFX. Show intense particle effects of splashing mud, dirt, and sweat, highlighting the visceral impact and chaotic energy of the moment with detailed particles.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://cdn12.picryl.com/photo/2016/12/31/rugby-football-sport-sports-76d660-1024.jpg",
+  "promptGeneratedTimestamp": 1748769532931,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a sports action image, drawing visual cues from the dynamic, muddy rugby scene in image 1. The image should heavily feature visual effects (VFX) focused on particle simulation. Create intense, detailed particle effects of mud and dirt splashing explosively from the ground around the players' feet and legs, and also show fine particles of sweat spraying off their bodies. These VFX should accentuate the visceral impact and chaotic energy of the moment.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Rugby players",
+    "Muddy ground",
+    "Explosive mud and dirt splashes around players' feet and legs",
+    "Fine sweat particles spraying off players' bodies",
+    "Dynamic sports action",
+    "Mud-covered player uniforms",
+    "Rugby headgear"
+  ],
+  "human_annotation": true
+}

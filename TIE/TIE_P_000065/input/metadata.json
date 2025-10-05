@@ -1,0 +1,22 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "remove the statue in the middle of the photo",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 to remove the fox statue in the middle of the photo.",
+  "annotator": "theblackcat",
+  "objects": [
+    "fox statue (should not be present)",
+    "stone pedestal (should not be present)",
+    "orange torii gates",
+    "Japanese text on torii gates",
+    "black sections of torii gates",
+    "green foliage in background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,24 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "With the style of the first image, create a 'Have You Seen This Wizard?' notice featuring the witch from the second image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a vintage-style wanted poster graphic based on image 1. The poster should feature the large, distressed serif text 'HAVE YOU SEEN THIS WITCH?' prominently at the top. Below this title, centrally place a portrait of the woman from image 2 within a thick black rectangular border, replicating the empty frame in image 1. Underneath the portrait, include the warning text 'APPROACH WITH EXTREME CAUTION! DO NOT ATTEMPT TO USE MAGIC AGAINST THIS WOMAN!', flanked by two five-pointed star symbols as seen in image 1. At the very bottom, add the smaller lines: 'Any information leading to the arrest of this woman shall be duly rewarded' and 'Notify immediately by owl the Ministry of Magic - WitchWatchers Dept.'. The overall aesthetic, including the aged paper texture, off-white background, and specific typography, must accurately match the style of image 1.",
+  "annotator": "parnian",
+  "objects": [
+    "Aged, off-white paper background texture",
+    "Distressed serif text \"HAVE YOU SEEN THIS WITCH?\" at the top",
+    "Portrait of the woman from image 2 centrally placed",
+    "Thick black rectangular border around the portrait",
+    "Warning text \"APPROACH WITH EXTREME CAUTION! DO NOT ATTEMPT TO USE MAGIC AGAINST THIS WOMAN!\" below the portrait",
+    "Two five-pointed star symbols flanking the warning text",
+    "Text line: \"Any information leading to the arrest of this woman shall be duly rewarded\" at the bottom",
+    "Text line: \"Notify immediately by owl the Ministry of Magic - WitchWatchers Dept.\" at the very bottom",
+    "Vintage-style typography matching image 1's fonts"
+  ]
+}

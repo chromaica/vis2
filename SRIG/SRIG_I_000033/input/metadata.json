@@ -1,0 +1,25 @@
+{
+  "subtopic": "Icons and symbols",
+  "prompt": "Create multiple icons with a security shield containing a cross, a question mark and an exclamation mark respectively. You must follow the flat icon style provided in the image.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://static-00.iconduck.com/assets.00/shield-ok-icon-1755x2048-zjnzgjm5.png",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate three distinct information graphics icons, presented in a row. Each icon must be a security shield rendered in the flat design style of image 1, featuring a light grey outer border and a vibrant green inner fill.\n\n- The first icon, positioned on the left, shall have a white cross symbol centered within its green shield.\n- The second icon, in the center, shall have a white question mark symbol centered within its green shield.\n- The third icon, on the right, shall have a white exclamation mark symbol centered within its green shield.\n\nAll inner symbols should be clean, simple, and in the same white, flat style as the checkmark shown in image 1.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "security shield icon on the left",
+    "white cross symbol centered within the left shield",
+    "security shield icon in the center",
+    "white question mark symbol centered within the center shield",
+    "security shield icon on the right",
+    "white exclamation mark symbol centered within the right shield",
+    "light grey outer border for each shield",
+    "vibrant green inner fill for each shield",
+    "flat design style for all icons and symbols"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

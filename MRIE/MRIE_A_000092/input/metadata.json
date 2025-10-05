@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "Make the girl in image 1 wear the bandana from image 3, and place image 3 on her canvas as if she is drawing it.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the provided source image, image 1. Modify the girl in image 1 to wear the red bandana visible on the head of the girl in image 3. Additionally, replace the current artwork on the canvas in image 1 with an artistic depiction of the subject from image 3 (the girl with paint cans), as if the girl in image 1 is actively painting it.",
+  "annotator": "paria",
+  "objects": [
+    "Girl (from image 1)",
+    "Red bandana (on the girl's head)",
+    "Easel",
+    "Canvas",
+    "Artwork on canvas (depicting the girl from image 3 and paint cans)",
+    "Paint palette",
+    "Paintbrush",
+    "Large green plants",
+    "Macrame wall hanging",
+    "Shelf with potted plant and paintbrushes"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

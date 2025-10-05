@@ -1,0 +1,24 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "Transfer the scene layout from the mask to the source image, using the same class positioning and relative scale.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 (the city street scene) to incorporate the scene layout from image 2 (the segmentation mask). Transfer the spatial arrangement of the elements, specifically the human figures represented by the light blue regions, ensuring their relative positioning and scale are maintained as depicted in image 2. Integrate these elements naturally into the street environment of image 1.",
+  "annotator": "nimajamali",
+  "objects": [
+    "City street",
+    "Skyscrapers",
+    "Traffic lights",
+    "Crosswalks",
+    "Two human figures (with relative positioning and scale from image 2)",
+    "Street lights",
+    "Sky",
+    "Reflections on buildings"
+  ],
+  "human_annotation": true
+}

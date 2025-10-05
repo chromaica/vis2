@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "Generate a coffee shop receipt screenshot using the itemized list layout from the first image and the logo from the second image.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a screenshot of a coffee shop receipt. Adopt the full itemized list layout from image 1, including its centered header section for date and time, the right-aligned item prices, the tax and total sections, and the 'Thank you for visiting!' footer message. Integrate the 'CoffeeShop' logo from image 2 at the top center of the receipt, replacing the 'Joe's Diner' text. Ensure the itemized list displays typical coffee shop products (e.g., coffee, pastries, sandwiches) rather than diner food.",
+  "annotator": "paria",
+  "objects": [
+    "coffee shop receipt",
+    "'CoffeeShop' logo at the top center",
+    "centered header section for date and time",
+    "itemized list",
+    "coffee shop products (e.g., coffee, pastries, sandwiches)",
+    "right-aligned item prices",
+    "tax section",
+    "total section",
+    "'Thank you for visiting!' footer message",
+    "'Joe's Diner' text (should not be present)"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "create a landing page for a PR agency with black background and deep blue as UI color",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a web landing page hero section. The design is for a Public Relations agency. The primary background color is black, with all user interface elements (buttons, navigation links, highlighted text, accents) rendered in a deep blue. Include a clear, professional headline, a brief sub-headline, and a prominent call-to-action button, all centrally positioned on the page. The overall aesthetic should be sleek and corporate.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Black page background",
+    "Professional headline text, centrally positioned",
+    "Brief sub-headline text, centrally positioned",
+    "Prominent call-to-action button, deep blue, centrally positioned",
+    "Navigation links, deep blue",
+    "Highlighted text elements, deep blue",
+    "User interface accents, deep blue"
+  ]
+}

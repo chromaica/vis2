@@ -1,0 +1,19 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "change the hue of orion nebula color from purple into bright yellow hue",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Change the dominant purple and magenta coloration of the Orion Nebula to a bright yellow hue, while maintaining its photorealistic appearance.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Orion Nebula's characteristic shape",
+    "Bright core of the Orion Nebula",
+    "Diffuse gas and dust clouds of the Orion Nebula",
+    "Scattered individual stars",
+    "Dark space background"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "A galaxy scene captured by a telescope, following the structure of the reference image.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic image of a vibrant spiral galaxy, captured by a telescope. The galaxy's overall structure, including its distinct spiral arms and central core, must precisely replicate the composition and orientation depicted in image 1. Populate the scene with luminous stars, colorful nebulae, and cosmic dust lanes to convey immense cosmic scale and depth. Include subtle, distant celestial objects around the main galaxy, mirroring the scattered elements shown in image 1.",
+  "annotator": "samin",
+  "objects": [
+    "vibrant spiral galaxy with composition and orientation replicating image 1",
+    "galaxy's distinct spiral arms",
+    "galaxy's central core",
+    "luminous stars",
+    "colorful nebulae",
+    "cosmic dust lanes",
+    "subtle, distant celestial objects around the main galaxy mirroring scattered elements in image 1"
+  ]
+}

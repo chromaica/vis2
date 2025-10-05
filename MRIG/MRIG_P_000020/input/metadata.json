@@ -1,0 +1,27 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "A robotic rhinoceros reimagined as a heavy-duty enforcer, drawing from the massive, rugged structure of a Komatsu D475A bulldozer referenced in the second image. The first reference image define the shape of a rhinoceros.Its armored body is built from reinforced titanium plates with glowing amber hydraulic joints. Its horn is a plasma-charged battering ram, and its eyes are thermal imaging scanners.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic image of a robotic rhinoceros, reimagined as a heavy-duty enforcer. The overall quadrupedal shape and sturdy posture of the robotic rhinoceros should be based on the rhinoceros depicted in image 1. Its massive, rugged structure and industrial design, including its prominent yellow and dark gray color scheme, reinforced plating, and track-like mobility elements, must draw inspiration from the Komatsu D475A bulldozer shown in image 2. The robotic rhinoceros features an armored body constructed from reinforced titanium plates, with glowing amber hydraulic joints. Its formidable horn is a plasma-charged battering ram, and its eyes function as advanced thermal imaging scanners.",
+  "objects": [
+    "Photorealistic robotic rhinoceros",
+    "Quadrupedal shape (based on rhinoceros)",
+    "Sturdy posture (based on rhinoceros)",
+    "Massive, rugged industrial design",
+    "Yellow and dark gray color scheme",
+    "Reinforced plating",
+    "Track-like mobility elements",
+    "Glowing amber hydraulic joints",
+    "Plasma-charged battering ram horn",
+    "Advanced thermal imaging scanner eyes"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

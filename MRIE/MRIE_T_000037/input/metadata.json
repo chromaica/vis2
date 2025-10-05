@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "T",
+  "subtopic": "Sign",
+  "prompt": "Translate the Japanese text in the first image to English. Follow the font and style of the original text. Then, add the icon from the second image to an empty space around the text. Match the icon to the hand-drawn style in the first image. Finally, place the sign from the third image to the top left corner of the whiteboard. Stick the sign there and it should be a bit tilted and not perfectly aligned in order to look natural and real.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the image of the whiteboard (image 1).\n\n1.  **Translate Japanese Text:** Translate all Japanese text on the whiteboard into English. Ensure the translated text preserves the hand-drawn, chalk-like font and style of the original text. For instance, '\uff5e\u307e\u3064\u6bdb\u30a8\u30af\u30b9\u30c6\u5c02\u9580\u5e97\uff5e' should become '~Eyelash Extension Specialty Store~', and services like '\u30df\u30f3\u30af\u30a8\u30af\u30b9\u30c6\u4ed8\u3051\u653e\u984c' should be translated to 'Unlimited Mink Eyelash Extensions'. Specifically, translate '\u3053\u306e\u30d3\u30eb\u306e\u5343\u968e!!' to '1000th floor of this building!!'. All numerical values, including prices and the phone number, must remain unchanged.\n2.  **Add Icon:** Integrate the two clinking beer mugs icon from image 2 into an empty space in the upper-right section of the whiteboard. The icon's appearance must match the hand-drawn, chalk aesthetic of the existing text.\n3.  **Place Sign:** Position the red 'Come in we're OPEN' sign from image 3 onto the top-left corner of the whiteboard. The sign should appear physically attached to the whiteboard surface and be slightly tilted, not perfectly straight, to achieve a natural and realistic look.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Whiteboard with wooden frame",
+    "Chalk text \"TEARS LASH\"",
+    "Chalk eye icons",
+    "Translated chalk text \"~Eyelash Extension Specialty Store~\"",
+    "Translated chalk text for eyelash extension services (e.g., \"Unlimited Mink Eyelash Extensions\", \"Unlimited Sable Eyelash Extensions\", \"Unlimited Premium Sable Eyelash Extensions\")",
+    "Chalk prices (\u00a53350, \u00a54350, \u00a56500)",
+    "Translated chalk text \"1000th floor of this building!!\"",
+    "Chalk phone number \"03-6908-6152\"",
+    "Two clinking beer mugs icon in chalk style (in upper-right section)",
+    "Red 'Come in we're OPEN' sign (in top-left corner, slightly tilted, physically attached)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

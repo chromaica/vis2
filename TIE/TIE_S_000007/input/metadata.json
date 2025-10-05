@@ -1,0 +1,26 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "Transform the battlefield into a mystical forest arena with enchanted creatures and magical effects surrounding the towers.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Transform the current grey stone battlefield into a mystical forest arena. The ground should become lush, mossy earth, with towering, ancient trees forming a dense, enchanting canopy overhead. Reinterpret the red and blue lanes as winding, natural forest paths, and the two central bridges as sturdy, magically overgrown wooden or root bridges. Introduce a few small, luminous enchanted creatures, such as glowing sprites or ethereal fireflies, interspersed throughout the forest foliage and along the paths. Surround all six existing towers (the three at the top and the three at the bottom) with prominent magical effects, including soft, shimmering lights, swirling arcane energy, and a gentle, mystical mist, seamlessly integrating them into the enchanted forest setting.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Mystical forest arena",
+    "Lush, mossy earth",
+    "Towering, ancient trees",
+    "Dense, enchanting canopy",
+    "Winding, natural forest paths",
+    "Sturdy, magically overgrown wooden or root bridges",
+    "Six existing towers",
+    "Soft, shimmering lights around towers",
+    "Swirling arcane energy around towers",
+    "Luminous enchanted creatures"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

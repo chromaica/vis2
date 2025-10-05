@@ -1,0 +1,31 @@
+{
+  "subtopic": "Memes",
+  "prompt": "Edit Image 1 by transforming it into a meme: replace existing comic dialogue with top/bottom text overlays using the classic style from Image 3. Incorporate the theme of phone incompatibility from Image 2. Add a distinct question element inspired by Image 4. Frame the final edited comic within a social media post format, referencing the style of Image 5.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg",
+    "4.jpeg",
+    "5.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749711506098,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "T",
+  "prompt_refined": "Edit image 1, the four-panel comic strip, to transform it into a meme. Replace the existing comic dialogue bubbles and their content with new top and bottom text overlays. These overlays should use a bold, white, uppercase Impact-like font with a black outline, consistent with the classic meme style demonstrated in image 3. Position the top text prominently above the comic panels, and the bottom text prominently below them.\n\nThe content of the new meme text should convey the theme of phone incompatibility, drawing inspiration from the social dynamics and challenges highlighted in image 2 (e.g., Android vs. iPhone user issues related to features like FaceTime). The top text should establish a scenario or setup for the meme, while the bottom text should incorporate a distinct question element, directly inspired by the straightforward question style seen in image 4 (e.g., \"Who is this?\" or a similar rhetorical query related to the phone incompatibility theme).\n\nFinally, frame the entire edited comic (image 1 with the new meme text overlays) within a social media post interface. This framing should emulate the visual design, dark mode, layout, and UI elements of the Twitter/X post shown in image 5. Ensure elements such as a user profile (e.g., avatar, username), timestamp, and interaction counts (e.g., likes, views) are positioned appropriately above and below the meme, mirroring the structure of image 5 to complete the social media aesthetic.",
+  "annotator": "winston",
+  "objects": [
+    "Four-panel comic strip image",
+    "Original comic dialogue bubbles and content (should not be present)",
+    "Top text overlay with bold, white, uppercase Impact-like font and black outline",
+    "Bottom text overlay with bold, white, uppercase Impact-like font and black outline",
+    "Social media post interface in dark mode, emulating Twitter/X design",
+    "Social media user profile avatar within the post interface",
+    "Social media username within the post interface",
+    "Social media timestamp within the post interface",
+    "Social media interaction counts (e.g., likes, views) within the post interface",
+    "Twitter/X-style UI elements (icons, layout lines)"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,30 @@
+{
+  "subtopic": "Object detection visuals",
+  "prompt": "Generate a computer graphics image showing a scene. Use the wooden texture from image 1 as the background wall. Place simple 3D objects textured with the brick pattern from image 2 in front of the wall. Overlay object detection bounding boxes and labels around the brick objects.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "Object detection visuals",
+  "searchQueryGeneratedTimestamp": 1748420040556,
+  "promptGeneratedTimestamp": 1748420045665,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a synthetic computer graphics image. The background should be a wall rendered with the distinct vertical brown wooden plank texture from image 1, creating a realistic wooden paneling effect. In the foreground, arrange multiple simple 3D geometric objects (e.g., cubes, spheres, cylinders, pyramids) positioned centrally in front of the wooden wall. Each of these objects must be textured entirely with the red brick pattern, including visible mortar lines, from image 2. Overlay clear, brightly colored, axis-aligned object detection bounding boxes around each of the brick-textured 3D objects, with corresponding textual labels (e.g., 'object', '3D_shape', 'brick_block', 'brick_sphere') displayed directly above each box.",
+  "annotator": "winston",
+  "objects": [
+    "synthetic computer graphics image",
+    "wall background",
+    "vertical brown wooden plank texture (from image 1)",
+    "multiple simple 3D geometric objects (positioned centrally in front of the wall)",
+    "red brick pattern texture (from image 2, with visible mortar lines, applied to 3D objects)",
+    "cubes (as a type of 3D object)",
+    "spheres (as a type of 3D object)",
+    "cylinders (as a type of 3D object)",
+    "brightly colored, axis-aligned object detection bounding boxes (around 3D objects)",
+    "textual labels (e.g., 'object', '3D_shape', 'brick_block', 'brick_sphere') (above bounding boxes)"
+  ],
+  "human_annotation": true
+}

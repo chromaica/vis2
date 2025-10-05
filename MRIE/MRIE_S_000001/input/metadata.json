@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "In image 1, replace the green call button with the red end call button from image 2, keeping size and position consistent. Also, update the battery icon in the top-right corner to use the red low-charge icon from image 3 (bottom).",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the green call button at the bottom-center of the keypad with the red end call button from image 2 (top-left), ensuring its size and position remain consistent. Also, update the battery icon in the top-right corner to use the red low-charge battery icon from image 3 (bottommost).",
+  "annotator": "parnian",
+  "objects": [
+    "Phone keypad (digits, symbols, letters)",
+    "Red end call button at bottom-center",
+    "Red low-charge battery icon in top-right",
+    "Carrier name \"Airtel\"",
+    "Wifi signal icon",
+    "\"10:35 PM\" clock",
+    "\"47%\" battery percentage",
+    "Bottom navigation bar with icons and text",
+    "Green call button (should not be present)",
+    "Original battery icon (should not be present)"
+  ]
+}

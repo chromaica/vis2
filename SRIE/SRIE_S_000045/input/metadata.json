@@ -1,0 +1,28 @@
+{
+  "subtopic": "Receipts",
+  "prompt": "Edit image 1: Apply the vibrant orange background color from image 2 to image 1. Incorporate the 'HappyFox Inc' logo from the top of image 2 into the header section of image 1.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751006150017,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit image 1: Change the background color of image 1 to the vibrant orange color from image 2. Integrate the 'HappyFox Inc' logo and text, as seen at the top center of image 2, into the header section of image 1, positioning it at the very top center.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Vibrant orange background",
+    "White main receipt content area",
+    "HappyFox Inc logo (orange fox head) at the top center",
+    "HappyFox Inc text at the top center",
+    "\"My Receipt\" title",
+    "\"Calgary Roughnecks vs. San Diego Seals\" event information",
+    "\"CAD $81.37\" total amount",
+    "\"Billing Information\" section",
+    "Terms and Privacy footer text",
+    "Shadow/outline of the white receipt box"
+  ],
+  "human_annotation": true
+}

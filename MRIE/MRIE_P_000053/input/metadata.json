@@ -1,0 +1,27 @@
+{
+  "subtopic": "Urban & Street Photography",
+  "prompt": "Transform image 1: place the truck from image 3, scatter elements from image 2, use image 3's black and white photography style.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748657402653,
+  "promptLengthUsed": "short",
+  "task": "MRIE",
+  "topic": "P",
+  "prompt_refined": "Edit image 1. Integrate the vintage pickup truck from image 3 onto the right side of the paved plaza, positioning it as if parked and facing left. Scatter the mannequin heads and other debris from image 2 across the foreground plaza. Render the entire scene in the black and white photography style, emulating the specific tones and grain visible in image 3.",
+  "annotator": "boris",
+  "objects": [
+    "Paved plaza",
+    "Modern building",
+    "Trees",
+    "Vintage pickup truck (on the right side of the paved plaza, parked and facing left)",
+    "Mannequin heads (scattered across the foreground plaza)",
+    "Debris (scattered across the foreground plaza)",
+    "Black and white photography style (emulating the tones and grain from image 3)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

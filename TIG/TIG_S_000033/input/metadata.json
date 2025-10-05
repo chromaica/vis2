@@ -1,0 +1,19 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "generate a mock up of a playful chat interface where speech bubbles morph into tiny origami cranes when a new phrase is mastered, pastel gradient background, progress bar shaped like a winding river",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a detailed mockup of a playful chat interface. Within the interface, some speech bubbles are in the process of transforming into tiny, intricate origami cranes, while others have fully transitioned, symbolizing the mastery of new phrases. The background is a soft, multi-color pastel gradient. A distinct progress bar is integrated into the design, appearing as a winding river across the screen, visually tracking user progress.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Detailed mockup of a playful chat interface",
+    "Speech bubbles in the process of transforming into tiny, intricate origami cranes",
+    "Tiny, intricate origami cranes (fully transitioned from speech bubbles)",
+    "Soft, multi-color pastel gradient background",
+    "Distinct progress bar",
+    "Progress bar appearing as a winding river across the screen"
+  ],
+  "human_annotation": true
+}

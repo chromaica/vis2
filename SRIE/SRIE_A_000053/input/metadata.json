@@ -1,0 +1,26 @@
+{
+  "subtopic": "Stylized art",
+  "prompt": "Edit image 1: Apply the soft, airy watercolor illustration style of image 2 to the elephants and background, incorporating the delicate textures and pastel color palette from the reference image.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748498338545,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1: Transform the three elephants and their entire background into a soft, airy watercolor illustration, applying the delicate, washed textures and pastel color palette, including light pinks, teals, and yellows, observed in image 2.",
+  "annotator": "kellycyy",
+  "objects": [
+    "three elephants",
+    "background (transformed)",
+    "soft, airy watercolor illustration style",
+    "delicate textures",
+    "washed textures",
+    "light pink colors",
+    "teal colors",
+    "yellow colors"
+  ],
+  "human_annotation": true
+}

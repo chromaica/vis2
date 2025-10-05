@@ -1,0 +1,23 @@
+{
+  "subtopic": "Astronomical images",
+  "prompt": "Edit image 1: Place the satellite into a photorealistic deep space environment. Use the spiral galaxy structure from image 2 to shape the background, incorporating the vibrant glowing colors and dense star field from image 3 around the satellite.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749223035060,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "P",
+  "prompt_refined": "Edit image 1. Integrate the satellite from image 1 into a photorealistic deep space environment. The primary background should be defined by the prominent spiral galaxy structure seen in image 2. Around the central satellite, densely populate the immediate space with the vibrant glowing colors and numerous stars observed in image 3, ensuring all elements appear photorealistic.",
+  "annotator": "boris",
+  "objects": [
+    "photorealistic satellite",
+    "photorealistic deep space environment",
+    "prominent spiral galaxy structure in the background",
+    "vibrant glowing nebulosity around the satellite",
+    "numerous stars around the satellite"
+  ]
+}

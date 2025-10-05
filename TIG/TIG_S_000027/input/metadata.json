@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "create a neon-soaked mixing-board interface, chunky sliders glowing magenta and teal, vector grid horizon in the background, cassette-style VU meters bouncing to an 80s beat",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a retrowave-style image of a futuristic, neon-soaked mixing-board interface. The foreground prominently features chunky control sliders, illuminated with a vibrant glow of magenta and teal. In the background, a sharp, receding vector grid horizon defines the scene. Integrated into the interface are retro cassette-style VU meters, visually indicating dynamic activity as if pulsating to an 80s synth beat.",
+  "annotator": "theblackcat",
+  "objects": [
+    "futuristic mixing-board interface",
+    "neon-soaked interface",
+    "chunky control sliders (in the foreground)",
+    "magenta glow (on sliders)",
+    "teal glow (on sliders)",
+    "sharp, receding vector grid horizon (in the background)",
+    "retro cassette-style VU meters (integrated into the interface)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

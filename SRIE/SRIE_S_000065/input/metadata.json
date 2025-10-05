@@ -1,0 +1,29 @@
+{
+  "subtopic": "Receipts",
+  "prompt": "Edit Image 1: Replace the transaction summary details of the first receipt entry with the itemized list of purchased items (sandwiches, subtotal, tax) and their prices from the detailed receipt in Image 2.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751007160872,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit Image 1. Replace the 'Total \u00a5 3,680' summary in the first receipt entry (dated Mon, May 13) with the itemized purchase details from Image 2. The new content must include 'Sandwiches (The Farm) $8.00', 'Subtotal $8.00', 'Sales Tax (7%) $0.56', and 'Total $8.56', adopting the exact visual style and layout of these elements as seen in Image 2. The receipt entry in Image 1 should expand vertically to fit the new details.",
+  "annotator": "ishengfang",
+  "objects": [
+    "\"History/Receipt\" header with back arrow icon",
+    "\"Ended\" and \"Canceled\" tabs",
+    "The second receipt entry (dated Thu, Apr 18, including \"Total \u00a5 7,980\" and \"Download Receipt\" button)",
+    "The date and flight details for the first receipt entry (Mon, May 13 (JST), HND(Share), from/to times and locations)",
+    "\"Total \u00a5 3,680\" (should not be present)",
+    "\"Download Receipt\" button (for the first receipt entry)",
+    "\"Sandwiches (The Farm) $8.00\" (with visual style and layout from Image 2)",
+    "\"Subtotal $8.00\" (with visual style and layout from Image 2)",
+    "\"Sales Tax (7%) $0.56\" (with visual style and layout from Image 2)",
+    "\"Total $8.56\" (with visual style and layout from Image 2, as an itemized line)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

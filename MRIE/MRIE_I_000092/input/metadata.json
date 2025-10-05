@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "Edit image 1: Transform the Yin Yang symbol into an organic form like the fish in image 3, incorporating the segmented color scheme and geometric structure from image 2, while retaining the balance concept.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Transform the central Yin Yang symbol into a stylized, organic fish, adopting the overall bipartite form and general shape observed in image 3. While retaining the fundamental balance of the Yin Yang, replace its smooth dividing curve with the sharp, linear, and quadrant-like geometric segmentation found in image 2. The two primary halves of the transformed Yin Yang should adopt the red and black color scheme from image 2, with the contrasting dots integrated into this new geometric design. Additionally, encircle the transformed symbol with a distinct yellow ring, mirroring the outer ring of image 2.",
+  "annotator": "maxku",
+  "objects": [
+    "Stylized, organic fish",
+    "Fish with bipartite form",
+    "Sharp, linear, geometric segmentation dividing the fish",
+    "One half of the fish in red color",
+    "The other half of the fish in black color",
+    "Contrasting dots integrated into the fish design",
+    "Distinct yellow ring encircling the fish",
+    "Original smooth dividing curve (should not be present)",
+    "Original Yin Yang symbol (should not be present)"
+  ],
+  "human_annotation": true
+}

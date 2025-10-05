@@ -1,0 +1,27 @@
+{
+  "subtopic": "Traditional art",
+  "prompt": "Edit image 1: Apply the traditional Japanese art style from image 2 to the landscape painting, incorporating its delicate ink wash textures and muted color palette for a harmonious blend.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "High quality traditional art",
+  "searchQueryGeneratedTimestamp": 1748488245798,
+  "promptGeneratedTimestamp": 1748488293588,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1, the landscape painting, to adopt the traditional Japanese art style from image 2. Transform its current vibrant colors and details into the delicate ink wash textures and the subdued, muted color palette characteristic of image 2, creating a harmonious and unified artwork.",
+  "annotator": "kellycyy",
+  "objects": [
+    "River",
+    "Hills",
+    "Distant mountains",
+    "Cypress trees",
+    "Green foliage",
+    "Cherry blossom trees",
+    "Sky",
+    "Clouds"
+  ]
+}

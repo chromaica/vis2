@@ -1,0 +1,28 @@
+{
+  "subtopic": "Icons and symbols",
+  "prompt": "Generate a sankey diagram icon. Use the exact color palette and graphic style from the reference image of infographic icons.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://elements-resized.envatousercontent.com/elements-cover-images/58a44396-a850-4a52-b8f9-55895132599b?w=433&cf_fit=scale-down&q=85&format=auto&s=35a03e127ba12e88804cfcc4f5f18d4a190f9f19d39eb29a22be75b064d93e46",
+  "searchQueryGenerated": "Modern infographic icons vector set",
+  "searchQueryGeneratedTimestamp": 1749926313353,
+  "promptGeneratedTimestamp": 1749926334642,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate a sankey diagram icon. The icon must use the exact color palette and graphic style of the infographic icons in image 1, characterized by a flat design, thick dark outlines, and subtle drop shadows.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Sankey diagram icon structure",
+    "Vertical bars on the left side",
+    "Vertical bars on the right side",
+    "Flowing bands connecting the left and right bars",
+    "Thick dark outlines on all elements",
+    "Subtle drop shadows on all elements",
+    "Flat design style",
+    "Light pink/red color fill",
+    "Light green/lime color fill",
+    "Light blue color fill"
+  ]
+}

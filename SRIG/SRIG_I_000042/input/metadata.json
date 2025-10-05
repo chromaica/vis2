@@ -1,0 +1,23 @@
+{
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Generate a clear diagram illustrating a customer service process, using the minimalist icon style and bright color palette of the reference image on a simple white background.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://cms.boardmix.com/images/articles/small-group-network-topology.png",
+  "promptGeneratedTimestamp": 1749907407796,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate a clear, two-dimensional diagram illustrating a customer service process. The diagram should feature minimalist icons and a bright, distinct color palette, consistent with the style seen in image 1 (e.g., prominent use of blues, purples, and reds). Use clean, straight lines to connect the different process steps. All elements should be presented on a simple white background. Each step or component of the customer service process must be represented by a clear, appropriately labeled icon.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Minimalist icons representing customer service process steps",
+    "Text labels for customer service process steps",
+    "Straight connecting lines",
+    "Simple white background",
+    "Blue colored elements",
+    "Purple colored elements",
+    "Red colored elements"
+  ]
+}

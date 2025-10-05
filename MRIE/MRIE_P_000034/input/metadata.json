@@ -1,0 +1,25 @@
+{
+  "subtopic": "Scenic Nature Parks",
+  "prompt": "Edit image 1: Add the vintage green Ford Bronco from image 2 parked off the forest path. Integrate the running dog from image 3 into the foreground, applying the dynamic depth of field and motion blur style from image 3 for a photorealistic result.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748571295030,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "P",
+  "prompt_refined": "Edit image 1: Integrate the vintage green Ford Bronco from image 2, positioned in the midground, parked just off the right edge of the forest path, partially obscured by the foliage. Add the running dog from image 3 into the immediate foreground, positioned centrally on the path, ensuring its dynamic depth of field and motion blur effects from image 3 are accurately replicated for a photorealistic result.",
+  "annotator": "boris",
+  "objects": [
+    "forest path",
+    "trees/foliage",
+    "sunlight/haze",
+    "vintage green Ford Bronco in the midground, off the right edge of the path, partially obscured by foliage",
+    "running dog in the immediate foreground, centrally on the path, with dynamic depth of field and motion blur"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

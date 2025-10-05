@@ -1,0 +1,26 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Fill the blank document with a sample business proposal, including headers like \"Executive Summary,\" \"Scope of Work,\" and structured bullet points under each section.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Populate the blank document area within the Microsoft Word interface with a sample business proposal. The proposal content should include distinct headers like 'Executive Summary' and 'Scope of Work,' with each header followed by structured bullet points containing relevant text. Ensure the document appears professionally formatted and filled.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Microsoft Word application window",
+    "Word ribbon menu",
+    "Document area populated with text",
+    "Business proposal content",
+    "'Executive Summary' header",
+    "'Scope of Work' header",
+    "Bullet points within the document",
+    "Professionally formatted text",
+    "Horizontal and vertical rulers",
+    "Word status bar"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

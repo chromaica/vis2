@@ -1,0 +1,27 @@
+{
+  "task": "MRIG",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Generate a pie chart showing market share of two shampoo brands: Dove (65%) and Head & Shoulders (35%). Use Image 1 and Image 2 as references and style each slice using the product\u2019s packaging colors.",
+  "cond_images": [
+    "1.png",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "matina",
+  "prompt_refined": "Generate a pie chart displaying the market share of two shampoo brands: Dove (65%) and Head & Shoulders (35%). The 65% slice representing Dove should incorporate the white, gold, and bronze colors from the packaging shown in Image 1. The 35% slice representing Head & Shoulders should utilize the distinct blue and white colors from the packaging shown in Image 2.",
+  "objects": [
+    "Pie chart",
+    "65% slice (representing Dove)",
+    "35% slice (representing Head & Shoulders)",
+    "\"Dove\" text/label",
+    "\"Head & Shoulders\" text/label",
+    "\"65%\" percentage display",
+    "\"35%\" percentage display",
+    "White, gold, and bronze colors on the 65% slice",
+    "Blue and white colors on the 35% slice",
+    "Market share information (title or legend)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

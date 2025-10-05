@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "A portrait of a smiling elderly woman with laughter lines, holding a small book, in a cozy room with soft lighting.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A photorealistic portrait of an elderly woman, approximately 70-80 years old, with a warm, genuine smile that highlights her expressive laughter lines around her eyes and mouth. She is gently holding a small, worn hardcover book resting comfortably in her lap. She is seated in a plush armchair positioned within a cozy living room, illuminated by soft, diffused warm light from a nearby table lamp on her left, casting an intimate and inviting glow across the scene. Visible details in the background include a knitted throw blanket draped over the armchair and subtle wooden textures.",
+  "annotator": "cwhsu",
+  "objects": [
+    "elderly woman (70-80 years old)",
+    "small, worn hardcover book (in her lap)",
+    "plush armchair",
+    "cozy living room",
+    "table lamp (on her left)",
+    "knitted throw blanket (draped over the armchair)",
+    "wooden textures (in the background)"
+  ],
+  "human_annotation": true
+}

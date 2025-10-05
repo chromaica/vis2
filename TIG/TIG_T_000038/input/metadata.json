@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Graffiti (Text-based)",
+  "prompt": "The word 'POWER' tagged in grungy, bold black spray paint across a dirty concrete wall surface.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "The word 'POWER' prominently spray-painted in bold, black, grungy graffiti style across a dirty, weathered concrete wall. The paint features visible drips and a distressed texture, complementing the grime, cracks, and imperfections of the raw concrete surface.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "The word 'POWER'",
+    "Black spray paint",
+    "Grungy graffiti style",
+    "Visible paint drips",
+    "Distressed paint texture",
+    "Concrete wall",
+    "Dirty wall surface",
+    "Weathered wall surface",
+    "Cracks in wall",
+    "Grime on wall"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "subtopic": "Websites",
+  "prompt": "Create an 'eco-friendly' themed version of the provided website screenshot, using earthy tones, leaf motifs, and recycled paper textures.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "https://www.datocms-assets.com/48294/1603714782-2-stripe.jpg?auto=format",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a new version of the website screenshot from image 1, completely transforming it into an 'eco-friendly' theme. Replace the existing vibrant color scheme with an earthy palette, including shades of moss green, terracotta brown, and warm beige. Apply a subtle recycled paper texture to the large background area on the left, as well as to the payment form and analytics dashboard on the right, giving them a natural, matte appearance. Integrate delicate leaf motifs throughout the design; these can appear as subtle background patterns, decorative elements near text, or within UI components. Ensure all text, buttons, and navigation elements on the page, including the prominent 'Payments infrastructure for the internet' heading and the 'Start now' and 'Contact sales' buttons at the bottom-left, adopt this natural aesthetic while remaining clear and legible.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Large background area on the left",
+    "Payment form UI on the right",
+    "Analytics dashboard UI on the right",
+    "\"Payments infrastructure for the internet\" heading",
+    "Website navigation bar (top)",
+    "Descriptive text block below the main heading",
+    "\"Start now\" button at the bottom-left",
+    "\"Contact sales\" button at the bottom-left",
+    "Delicate leaf motifs",
+    "Other UI text elements"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

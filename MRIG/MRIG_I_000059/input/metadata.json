@@ -1,0 +1,21 @@
+{
+  "task": "MRIG",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "generate a map with a green tree icon on masked area in ref1, a red cross symbol on masked part of ref2, and a blue book icon on masked part of ref3.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "annotator": "matina",
+  "prompt_refined": "Generate a map. Place a green tree icon on the masked area in image 1 (bottom-left), a red cross symbol on the masked area in image 2 (top-left), and a blue book icon on the masked area in image 3 (top-right).",
+  "objects": [
+    "map",
+    "green tree icon on the bottom-left",
+    "red cross symbol on the top-left",
+    "blue book icon on the top-right"
+  ],
+  "human_annotation": true
+}

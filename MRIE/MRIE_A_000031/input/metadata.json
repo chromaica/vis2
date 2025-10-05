@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Pop art",
+  "prompt": "Remove the Mona Lisa painting from the first image and replace it with the painting from the second image. Also, replace the repeated dollars in the background with the repeated currency from the third image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Remove the Mona Lisa painting located on the right side of the image and replace it with the artwork depicted in image 2, ensuring it is proportionally scaled and seamlessly integrated into the existing scene. Furthermore, replace the repeated US dollar bills forming the background of image 1 with the repeated currency design from image 3, maintaining the original tiling pattern across the entire background.",
+  "annotator": "paria",
+  "objects": [
+    "Bart Simpson character",
+    "artwork of Madonna and Child on the right",
+    "repeated currency design from image 3 background",
+    "\"KING OF POP!\" graffiti text",
+    "\"MEOW\" graffiti text",
+    "\"EL BARTO\" graffiti text",
+    "pink graffiti splatters",
+    "orange graffiti splatters",
+    "Mona Lisa painting (should not be present)",
+    "US dollar bills (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

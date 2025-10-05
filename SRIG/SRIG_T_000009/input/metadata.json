@@ -1,0 +1,26 @@
+{
+  "task": "SRIG",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "generate a color palette examples image using the layout and design style of the reference image, but create new brand logos and color schemes for a modern tech startup",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a visual representation of color palette examples, precisely replicating the grid layout, minimalist design style, and textual elements of image 1. Replace the Airbnb and FedEx logos in the top section with two distinct, original logos for modern tech startups, maintaining their respective horizontal positions from image 1. Below each new tech startup logo, create and display a unique color scheme, including dominant, secondary, and neutral colors, using square swatches of similar size and arrangement as seen in image 1. Ensure the labels 'Dominant Color(s)', 'Used in logo', 'Secondary Colors', 'Used on websites & marketing materials', 'Neutral Colors', and their corresponding descriptions are present on the left side of the image, accurately positioned as in image 1. Retain the main title 'Color Palette Examples' and the header 'THE BRANDING JOURNAL' in the top-right quadrant, matching their typeface and placement from image 1.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Minimalist design style",
+    "Grid layout",
+    "'THE BRANDING JOURNAL' header in top-right",
+    "'Color Palette Examples' title in top-right",
+    "First distinct, original logo for a modern tech startup",
+    "Second distinct, original logo for a modern tech startup",
+    "First unique color scheme displayed as square swatches (dominant, secondary, neutral colors)",
+    "Second unique color scheme displayed as square swatches (dominant, secondary, neutral colors)",
+    "Left-side descriptive text labels: 'Dominant Color(s)', 'Used in logo', 'Secondary Colors', 'Used on websites & marketing materials', 'Neutral Colors'",
+    "Airbnb logo (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

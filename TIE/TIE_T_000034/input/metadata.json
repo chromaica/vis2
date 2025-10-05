@@ -1,0 +1,25 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Swap the puppet\u2019s eyes shift toward the bottom right corner.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Modify the eyes of both monkey puppets so that their gaze shifts towards the bottom right corner.",
+  "annotator": "matina",
+  "objects": [
+    "Text: \"When someone asks 'What's that smell?'\"",
+    "Left monkey puppet",
+    "Right monkey puppet",
+    "Eyes of the left monkey puppet looking towards the bottom right",
+    "Eyes of the right monkey puppet looking towards the bottom right",
+    "Brown fur of the monkey puppets",
+    "Green clothing of the monkey puppets",
+    "Blue straps/overalls of the monkey puppets",
+    "Blurry background field",
+    "Blurry background sky"
+  ],
+  "human_annotation": true
+}

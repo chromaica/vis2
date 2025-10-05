@@ -1,0 +1,30 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "Convert the wireframe design from image 1 into a dynamic YouTube graphic. Use image 2 for the largest video frame thumbnail, image 3 for the medium-sized frame in the Ads box thumbnail, and images 4 and 5 for the video frame thumbnails under the playlist.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png",
+    "4.png",
+    "5.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the wireframe design, to transform it into a fully rendered, dynamic YouTube graphic. Populate the largest video player frame on the left with the visual content and style of image 2. For the medium-sized frame located within the 'Ads' box on the upper right, integrate the visual content and style from image 3. In the 'Playlist' section on the lower right, replace the top video frame with the visual content and style of image 4, and the bottom video frame with the visual content and style of image 5. All other wireframe elements, including text, icons, and layout, should be rendered as a cohesive and realistic YouTube interface.",
+  "annotator": "maxku",
+  "objects": [
+    "Main YouTube video player displaying content from Image 2 (Mr. Beast and friend)",
+    "YouTube interface header with search bar",
+    "YouTube video playback controls (play/pause, progress bar, volume, settings, fullscreen)",
+    "Ad banner in the upper right, displaying content from Image 3 (woman and \"GROW YOUR YOUTUBE CHANNEL\" text)",
+    "Top playlist video thumbnail in the lower right, displaying content from Image 4 (woman in glasses and \"EYE CATCHING YOUTUBE THUMBNAIL DESIGN\" text)",
+    "Bottom playlist video thumbnail in the lower right, displaying content from Image 5 (woman with surprised expression and \"EYE CATCHING YOUTUBE THUMBNAIL\" text)",
+    "\"Playlist\" section rendered as a realistic YouTube UI",
+    "\"Ads\" section rendered as a realistic YouTube UI",
+    "Realistic YouTube navigation links (Home, Videos, Channels)",
+    "Realistic YouTube scroll bar"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

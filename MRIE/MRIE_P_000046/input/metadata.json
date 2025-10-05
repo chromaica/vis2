@@ -1,0 +1,25 @@
+{
+  "subtopic": "Scenic Nature Parks",
+  "prompt": "Edit image 1: add the Shiba Inu from image 2 near the gate and the robin from image 3 on the gate.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748572103690,
+  "promptLengthUsed": "short",
+  "task": "MRIE",
+  "topic": "P",
+  "prompt_refined": "Edit image 1 (the forest scene with a torii gate). Add the Shiba Inu from image 2 onto the gravel path directly in front of the torii gate. Additionally, place the robin from image 3 perched on the top horizontal beam of the torii gate.",
+  "annotator": "boris",
+  "objects": [
+    "forest",
+    "torii gate",
+    "gravel path",
+    "Shiba Inu on the gravel path directly in front of the torii gate",
+    "robin perched on the top horizontal beam of the torii gate"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

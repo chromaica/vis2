@@ -1,0 +1,21 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Pixel art",
+  "prompt": "Make the character having more friendly eyes, keep the rest of the character unchanged. Change the background to a palace.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Based on image 1, edit the pixel art character to have friendly eyes. Keep the character's pose, attire, and sword precisely as they are in image 1. Replace the current plain grey background with a grand palace setting.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "pixel art character",
+    "friendly eyes",
+    "character's original pose",
+    "character's original attire",
+    "character's sword",
+    "grand palace setting",
+    "plain grey background (should not be present)"
+  ]
+}

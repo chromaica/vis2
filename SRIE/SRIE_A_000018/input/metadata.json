@@ -1,0 +1,26 @@
+{
+  "subtopic": "Stylized art",
+  "prompt": "Edit image 1: Add the stylized blue tear streaks and the dramatic eyebrow shape from image 2 to the face in image 1, blending the art styles.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748489434610,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1. On the face in image 1, add the stylized, deep blue tear streaks from image 2, positioning them to flow downwards from beneath the eyes onto the cheeks. Also, integrate the distinctive, highly arched eyebrow shape from image 2 above the eyes. Ensure these new elements are seamlessly blended into the existing painterly style, vibrant colors, and textured brushwork of image 1, while preserving the unique design of the tear streaks and eyebrows from image 2.",
+  "annotator": "kellycyy",
+  "objects": [
+    "Face from image 1",
+    "Hands pulling cheeks (as seen in image 1)",
+    "Stylized, deep blue tear streaks flowing downwards from beneath the eyes onto the cheeks",
+    "Highly arched eyebrows above the eyes",
+    "Painterly style",
+    "Vibrant colors",
+    "Textured brushwork",
+    "Unique design of tear streaks (from image 2)",
+    "Unique design of eyebrows (from image 2)"
+  ]
+}

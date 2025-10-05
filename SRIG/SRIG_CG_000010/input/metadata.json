@@ -1,0 +1,26 @@
+{
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "Generate a realistic image of an animal in nature showing semantic segmentation, with a colored overlay mask covering the segmented instance, guided by the reference image style and composition.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://viso.ai/deep-learning/semantic-segmentation-instance-segmentation/",
+  "promptGeneratedTimestamp": 1748765786267,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a realistic image of a tiger lying down in a natural, forested environment. The image must feature a semi-transparent blue overlay mask applied precisely over the entire segmented instance of the tiger. Maintain the realistic style, perspective, and overall composition, including the tiger's pose and its placement on a rocky ground with a lush green background, as depicted in image 1.",
+  "annotator": "ishengfang",
+  "objects": [
+    "realistic tiger",
+    "tiger in a lying down pose",
+    "semi-transparent blue overlay mask covering the tiger",
+    "rocky ground",
+    "foreground grass and soil on the rocky ground",
+    "lush green foliage in the background",
+    "tree trunks and branches in the background",
+    "natural forested environment"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

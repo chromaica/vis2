@@ -1,0 +1,23 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "Generate the word 'CHERRYLICIOUS' in a font that wraps around the shape of the two cherries in the first image, with the text color matching the cherry red and placed on the green background in the second image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a new image featuring the word 'CHERRYLICIOUS'. The text should be rendered in a custom typographic style, with its letters collectively forming the distinct silhouette of the two cherry fruits as depicted in image 1, excluding the stem and leaf. The color of the 'CHERRYLICIOUS' text must precisely match the deep red color of the cherries in image 1. Position this textual graphic prominently and centrally on the light green, watercolor-textured background provided in image 2.",
+  "annotator": "parnian",
+  "objects": [
+    "The word 'CHERRYLICIOUS'",
+    "Text forming the silhouette of two cherry fruits",
+    "Deep red colored text",
+    "Custom typographic style",
+    "Light green background",
+    "Watercolor texture on background",
+    "Stem (should not be present)",
+    "Leaf (should not be present)"
+  ]
+}

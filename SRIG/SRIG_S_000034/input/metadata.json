@@ -1,0 +1,28 @@
+{
+  "subtopic": "Websites",
+  "prompt": "Generate a clean digital UI screenshot for a pizza ordering website. Use the rounded layout and the purple/white color scheme from the reference image. Include an input field for quantity and a prominent \"Add to Cart\" button similar in style to the reference button.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://images.wondershare.com/democreator/article/take-screenshots-of-entire-webpages-on-mac-16.jpg",
+  "searchQueryGenerated": "website screenshot on screen high resolution",
+  "searchQueryGeneratedTimestamp": 1749426964884,
+  "promptGeneratedTimestamp": 1749427069210,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a clean, modern digital UI screenshot for a pizza ordering website. The user interface should adopt the rounded layout and prominent purple and white color scheme from image 1. Include an input field for specifying quantity, styled similarly to the text input field in image 1, featuring rounded corners and a white background. Below this, prominently display an 'Add to Cart' button, matching the bold purple background, white text, and rounded rectangular shape of the 'Capture' button found in image 1.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Digital UI screenshot of a pizza ordering website",
+    "Overall UI with rounded layout",
+    "Overall UI with prominent purple color scheme",
+    "Overall UI with prominent white color scheme",
+    "Input field for specifying quantity",
+    "Input field with rounded corners",
+    "Input field with white background",
+    "'Add to Cart' button",
+    "'Add to Cart' button with bold purple background",
+    "'Add to Cart' button with white text"
+  ]
+}

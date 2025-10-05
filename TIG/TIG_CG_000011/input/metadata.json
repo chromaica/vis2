@@ -1,0 +1,16 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "3D renders",
+  "prompt": "Blender render of a sci-fi drone model with glowing blue propellers, hard-surface design, clean topology.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A high-fidelity Blender render of a sci-fi drone model. It features a hard-surface design with glowing blue propellers, exhibiting impeccably clean topology and precise, smooth surfacing.",
+  "annotator": "maxku",
+  "objects": [
+    "Sci-fi drone model",
+    "Hard-surface design (as a visual style applied to the drone)",
+    "Propellers (as part of the drone)",
+    "Blue glow (emanating from the propellers)"
+  ]
+}

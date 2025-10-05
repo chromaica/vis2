@@ -1,0 +1,25 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Apply a chalkboard effect with contrasting white outlines for each step diagram, enhancing clarity and visual interest.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 by transforming the entire graphic into a chalkboard aesthetic. Ensure the background becomes a dark chalkboard surface. For each of the five numbered step diagrams (the colored chevron/arrow shapes), render them with a distinct, contrasting white chalk outline. All text and numbers within these step diagrams, the central \"5 STEPS\" circle, its icon, and the connecting lines and dots should also appear drawn with white chalk on the chalkboard background.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Dark chalkboard background",
+    "Five chevron/arrow shapes with white chalk outlines",
+    "White chalk numbers (1-5) on the chevron shapes",
+    "White chalk descriptive text on the chevron shapes",
+    "Central circle drawn with white chalk",
+    "White chalk \"5 STEPS\" text within the central circle",
+    "White chalk bar chart icon within the central circle",
+    "White chalk \"To Create a Strategic Marketing Campaign\" text",
+    "Connecting lines and dots drawn with white chalk"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

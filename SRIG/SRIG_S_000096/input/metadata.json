@@ -1,0 +1,23 @@
+{
+  "subtopic": "Software interfaces",
+  "prompt": "Create a new screenshot with the terminal window at the bottom in the VSCode interface, which shows the output of this program.",
+  "cond_images": [
+    "1.jpeg"
+  ],
+  "remarks": "https://us1.discourse-cdn.com/flex020/uploads/codewithmosh/optimized/1X/9533126b900cb5403731f8d7339a79d84e760c9c_2_690x388.jpeg",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a new screenshot of the VSCode interface, maintaining the current code and visual style from image 1. Add a terminal window at the bottom of the interface, displaying the output of the JavaScript program from image 1, which is `{ id: 1, name: 'a' }`.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "VSCode interface",
+    "Code editor area displaying JavaScript code",
+    "Dark theme of the VSCode interface",
+    "Left sidebar with activity bar icons",
+    "Bottom status bar of VSCode",
+    "`index.js` file tab",
+    "Terminal window at the bottom of the interface",
+    "Terminal output showing `{ id: 1, name: 'a' }`",
+    "\"MOSH\" label/button"
+  ]
+}

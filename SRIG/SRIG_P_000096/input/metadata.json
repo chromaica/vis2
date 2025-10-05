@@ -1,0 +1,25 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "a realistic microscopy image of a lab plate with bacterial colonies matching the nine shapes from the reference sketch.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic microscopy image of a laboratory Petri dish. The dish should contain bacterial colonies that precisely match the nine distinct microbial shapes presented in image 1. Ensure each of the nine shapes from image 1 is represented as a separate, visible colony distributed across the plate surface.",
+  "annotator": "samin",
+  "objects": [
+    "laboratory Petri dish",
+    "bacterial colony matching rod shape (from image 1)",
+    "bacterial colony matching bacterium with single flagellum shape (from image 1)",
+    "bacterial colony matching spherical spiky shape (from image 1, top right)",
+    "bacterial colony matching irregular amoeba-like shape (from image 1)",
+    "bacterial colony matching bacterium with multiple flagella shape (from image 1)",
+    "bacterial colony matching spiky elongated shape with internal rings (from image 1)",
+    "bacterial colony matching chain of rod shape (from image 1)",
+    "bacterial colony matching irregular spiky shape with granules (from image 1)",
+    "bacterial colony matching spherical spiky shape with internal squiggles (from image 1, middle left)"
+  ],
+  "human_annotation": true
+}

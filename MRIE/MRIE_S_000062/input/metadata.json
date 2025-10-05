@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": " Replace the central Google logo in image 3 with the Gmail logo from image 1, keeping its scale and alignment centered. Replace the original Google search bar with the third search bar from image 2 (the one with a rounded \u201cSearch\u201d button on the right). Ensure button size and placement match the original layout, and all surrounding elements remain unchanged.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit Image 1 (the Google search page screenshot). Replace the central 'Google' logo with the 'Gmail' logo from Image 3, ensuring it maintains the exact scale and centered alignment of the original logo. Subsequently, replace the current search bar in Image 1 with the third search bar from Image 2, which is characterized by a rounded 'Search' button on its right side. Precisely match the size and placement of this new search bar, including its button, to seamlessly integrate it into Image 1's existing layout. All other surrounding elements in Image 1 must remain untouched.",
+  "annotator": "parnian",
+  "objects": [
+    "Gmail logo",
+    "Search bar with rounded 'Search' button",
+    "Google logo (should not be present)",
+    "Original search bar (should not be present)",
+    "'Google Search' button",
+    "'I'm Feeling Lucky' button",
+    "'Gmail' link (top right)",
+    "'Images' link (top right)",
+    "Grid icon (top right)",
+    "Profile picture (top right)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

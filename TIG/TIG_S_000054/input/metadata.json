@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": "Create a sustainable fashion brand homepage with earth tone gradients, animated growing trees, recycling icons, fabric texture backgrounds, and environmental impact counters",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a high-fidelity screenshot of a sustainable fashion brand homepage. The visual design features a background with subtle, organic fabric textures (e.g., linen, hemp) that transition through soft earth tone gradients (muted greens, warm beiges, terracotta, earthy browns). Include a prominent, stylized visual element of a growing tree animation, positioned centrally or within the hero section. Integrate multiple clear recycling icons throughout the layout, possibly near product descriptions or in the footer area. Display distinct environmental impact counters (e.g., 'Water Saved: X Liters', 'CO2 Offset: Y Tons') in a dedicated, easy-to-read section. The overall aesthetic should be clean, modern, and convey environmental responsibility, presented as a professional website user interface.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Sustainable fashion brand homepage user interface",
+    "Background with subtle, organic fabric textures",
+    "Background with soft earth tone gradients",
+    "Prominent, stylized growing tree animation (positioned centrally or within the hero section)",
+    "Multiple clear recycling icons (throughout the layout, possibly near product descriptions or in the footer area)",
+    "Distinct environmental impact counters (e.g., Water Saved, CO2 Offset, in a dedicated, easy-to-read section)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

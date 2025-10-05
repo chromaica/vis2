@@ -1,0 +1,19 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Graffiti (Text-based)",
+  "prompt": "Showcase bold graffiti art: 'REBEL SOUL' rendered in thick bubble letters using vibrant purple and electric green spray paint, complete with heavy drips, against a weathered concrete wall.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A bold graffiti artwork featuring the words 'REBEL SOUL', rendered in a thick bubble letter style. The letters are painted with vibrant purple and electric green spray paint, complete with heavy drips. The graffiti is prominently displayed on a weathered concrete wall.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Graffiti artwork",
+    "The words 'REBEL SOUL'",
+    "Bubble letter style",
+    "Vibrant purple spray paint",
+    "Electric green spray paint",
+    "Heavy paint drips",
+    "Weathered concrete wall"
+  ]
+}

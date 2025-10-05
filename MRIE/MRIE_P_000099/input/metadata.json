@@ -1,0 +1,25 @@
+{
+  "subtopic": "Microscopic imagery",
+  "prompt": "Edit image 1, a microscopic wood section. Shift the overall color palette to the pink and purple tones seen in image 3. Modify the appearance of the individual cells throughout image 1, making them appear more rounded with visible dark nuclei, reflecting the style of the cells in image 2.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749307570138,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "P",
+  "prompt_refined": "Edit image 1, a microscopic wood section. Transform its entire color palette to adopt the distinct pink and purple tones observed in image 3. Concurrently, reshape the individual cells throughout image 1 to match the style of cells in image 2, making them appear more rounded and ensuring each cell clearly features a visible, dark, circular nucleus.",
+  "annotator": "boris",
+  "objects": [
+    "Microscopic wood section",
+    "Pink color palette",
+    "Purple color palette",
+    "Individual cells",
+    "Rounded cells",
+    "Dark nuclei within cells",
+    "Circular nuclei within cells"
+  ]
+}

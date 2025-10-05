@@ -1,0 +1,27 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "Adding the oak tree icon to the map.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 2, the map, by adding the oak tree icon from image 1. The icon should appear as a black silhouette, consistent with the style of image 1. Place the oak tree icon within the prominent green forested area located to the east of 'Old Saint Joe Road' and 'Old Entrance Road' on the map.",
+  "annotator": "Johnny",
+  "objects": [
+    "Map background (green forested areas, blue water bodies)",
+    "Oak tree icon (black silhouette)",
+    "Oak tree icon positioned within the prominent green forested area to the east of 'Old Saint Joe Road' and 'Old Entrance Road'",
+    "'Old Saint Joe Road'",
+    "'Old Entrance Road'",
+    "'I-94' highway",
+    "Ski and hiking trails (e.g., 'Pine Knob Loop', 'Trinity Loop')",
+    "Informational text on the map (e.g., 'Enjoy the Ski!', trail names)",
+    "Trail legend",
+    "Parking 'P' icon"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

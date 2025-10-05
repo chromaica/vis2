@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "P",
+  "subtopic": "Wildlife & Nature Photography",
+  "prompt": "Replace the background of the first image with the mountain from the second image. Add some sunflowers from the third image to the area where the woman from the first image is heading towards.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the existing background of image 1, including the sandy dunes, distant ocean, and sky, with the mountain range and sky scene from image 2. The mountain from image 2 should appear photorealistically in the distant horizon behind the woman. Additionally, add a cluster of photorealistic sunflowers, styled similarly to the sunflower in image 3, into the mid-ground of image 1. Position these sunflowers naturally along the sandy path and among the sparse vegetation in the area ahead of the woman, specifically where the path curves slightly to the right and leads into the distance.",
+  "annotator": "boris",
+  "objects": [
+    "Woman",
+    "Sandy path leading into the distance",
+    "Sparse vegetation",
+    "Mountain range in the distant horizon behind the woman",
+    "Sky (from image 2)",
+    "Cluster of sunflowers in the mid-ground along the sandy path",
+    "Distant sandy dunes (should not be present)",
+    "Distant ocean (should not be present)",
+    "Original sky of image 1 (should not be present)"
+  ],
+  "human_annotation": true
+}

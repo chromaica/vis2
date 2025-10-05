@@ -1,0 +1,22 @@
+{
+  "subtopic": "Cultural or Heritage art",
+  "prompt": "Applying the star in image 2 onto all the eyes in image 1. So all eyes shown in image 1 will be star-eye.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748651966819,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1. Replace the pupil and iris of every visible eye on the artwork figures with the star from image 2. Scale and position the star appropriately within each eye to transform all eyes into \"star-eyes.\"",
+  "annotator": "kellycyy",
+  "objects": [
+    "Artwork figures",
+    "Eyes of artwork figures",
+    "Orange stars within the eyes of artwork figures"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

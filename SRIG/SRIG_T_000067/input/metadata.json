@@ -1,0 +1,24 @@
+{
+  "task": "SRIG",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "Create a poster promoting healthy eating habits with reference to the cartoon style of the provided image.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a vertical poster promoting healthy eating habits. The poster must emulate the distinctive retro cartoon graphic style of image 1, characterized by bold outlines, flat colors, and a cheerful, anthropomorphic character design.\n\n**Specific Elements:**\n*   **Central Figure:** A friendly, anthropomorphic healthy food character (e.g., a smiling fruit or vegetable) actively positioned in the lower-middle, resembling the running Earth character from image 1.\n*   **Main Title:** A prominent, bold text banner at the top of the poster, similar to the 'EARTH DAY' section in image 1, displaying a relevant healthy eating slogan.\n*   **Supporting Text Areas:** Include additional text sections below the main title, mirroring the layout and font style of the 'SAFE OUR PLANET' and '22ND APRIL' sections in image 1, conveying messages about nutrition. A placeholder text block should be present below this, similar to the 'Lorem Ipsum' area.\n*   **Background & Borders:** A simple, stylized natural background (e.g., green ground, blue sky with stylized clouds and stars) and decorative top, bottom, and side borders that replicate the checkerboard and diagonal stripe patterns from image 1.",
+  "annotator": "Johnny",
+  "objects": [
+    "Friendly, anthropomorphic healthy food character in the lower-middle, actively positioned",
+    "Prominent, bold text banner at the top of the poster displaying a healthy eating slogan",
+    "Supporting text section below the main title, conveying messages about nutrition",
+    "Second supporting text section, mirroring the layout and font style of the '22ND APRIL' section from the reference image, conveying messages about nutrition",
+    "Placeholder text block below the second supporting text area",
+    "Simple, stylized green ground",
+    "Simple, stylized blue sky with stylized clouds and stars",
+    "Decorative top border replicating the checkerboard and diagonal stripe patterns from the reference image",
+    "Decorative bottom border replicating the checkerboard and diagonal stripe patterns from the reference image",
+    "Decorative side borders replicating the diagonal stripe patterns from the reference image"
+  ]
+}

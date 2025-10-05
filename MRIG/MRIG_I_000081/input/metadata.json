@@ -1,0 +1,23 @@
+{
+  "task": "MRIG",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Generate a horizontal bar chart showing consumer preference ratings for two packaging styles. Use Image 1 and Image 2 to label each bar and color the bars based on the dominant design theme in each image.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "annotator": "matina",
+  "prompt_refined": "Generate a horizontal bar chart displaying consumer preference ratings for two packaging styles.\n- The first bar, representing the minimalist design, should be labeled on its left with a small thumbnail of Image 1. This bar should be colored in a clean, neutral tone, such as light gray or off-white, reflecting the dominant design theme of Image 1.\n- The second bar, representing the vibrant artistic design, should be labeled on its left with a small thumbnail of Image 2. This bar should be colored with a bold, multi-hued palette incorporating bright reds, oranges, and blues, reflecting the dynamic design theme of Image 2.\nThe relative length of the bars should visually indicate different preference ratings, with a longer bar signifying higher preference.",
+  "objects": [
+    "Horizontal bar chart",
+    "First horizontal bar",
+    "Second horizontal bar",
+    "Small thumbnail of Image 1 to the left of the first bar",
+    "Small thumbnail of Image 2 to the left of the second bar",
+    "First bar colored in a clean, neutral tone (light gray or off-white)",
+    "Second bar colored with a bold, multi-hued palette (bright reds, oranges, and blues)",
+    "Bars of different lengths indicating preference"
+  ]
+}

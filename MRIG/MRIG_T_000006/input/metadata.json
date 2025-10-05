@@ -1,0 +1,24 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "Create a magical symphony concert poster set inside the castle from the second image, using the dramatic layout and lighting style of the first image, and include elegant poster text 'Hogwarts Symphony' with a date '25 June 2025' and location 'Vahdat Hall, Tehran, Iran'.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a vertical concert poster featuring a symphony orchestra performing on a grand stage. The performance should be set within a majestic, ancient castle interior, designed to reflect the architectural style and atmosphere of the castle shown in image 2. Adopt the dramatic, top-down spotlighting and the overall composition, including the sweeping view of the audience from image 1. Display elegant poster text: \"Hogwarts Symphony\" as the prominent main title, centrally located, similar to the main titles in image 1. Below this main title, include the date \"25 June 2025\" and the location \"Vahdat Hall, Tehran, Iran\".",
+  "annotator": "parnian",
+  "objects": [
+    "vertical concert poster format",
+    "symphony orchestra performing",
+    "grand stage",
+    "majestic, ancient castle interior (reflecting Image 2's architectural style and atmosphere)",
+    "dramatic, top-down spotlighting",
+    "sweeping view of the audience",
+    "elegant poster text: \"Hogwarts Symphony\" (prominent, centrally located)",
+    "elegant poster text: \"25 June 2025\" (below main title)",
+    "elegant poster text: \"Vahdat Hall, Tehran, Iran\" (below main title)"
+  ]
+}

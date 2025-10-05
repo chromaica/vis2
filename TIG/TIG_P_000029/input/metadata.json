@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Minimalist Designs",
+  "prompt": "An elegant, minimalist clock with no numbers, only bold hour and minute hands against a white background.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A photorealistic, elegant, minimalist clock. The clock features a pristine, pure white face, entirely devoid of numbers, hour markers, or any extraneous details. Only prominent, bold, and sharply defined hour and minute hands are visible, centered on the face. The background is a seamless, bright white. Clean, crisp studio lighting, high-resolution, minimalist aesthetic.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Elegant minimalist clock",
+    "Pristine pure white clock face",
+    "Prominent bold hour hand",
+    "Prominent bold minute hand",
+    "Seamless bright white background",
+    "Numbers (should not be present)",
+    "Hour markers (should not be present)",
+    "Extraneous details on clock face (should not be present)"
+  ]
+}

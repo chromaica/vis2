@@ -1,0 +1,24 @@
+{
+  "subtopic": "UI mockups",
+  "prompt": "Using the healthcare portal UI login page provided in the image, design an appointment scheduling page with calendar picker and doctor list.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "https://elements-resized.envatousercontent.com/elements-cover-images/10bae5af-8d38-4b9e-9124-979955ca7009?w=433&cf_fit=scale-down&q=85&format=auto&s=71c466a7ad2880b5506077608f8338c3ec267a958adcf301484b6c32e1adacdc",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate a new mobile UI screen for a healthcare portal's appointment scheduling feature. This screen should visually align with the design language, color scheme (blue, green, and white), and overall aesthetic of the login/signup pages presented in image 1.\n\nThe screen must include:\n1.  A prominent, interactive calendar picker positioned towards the top of the main content area, allowing users to select an appointment date.\n2.  Below the calendar picker, a scrollable list of available doctors. Each entry in the doctor list should display the doctor's name, specialization, and a small profile picture or avatar. Include a clear call-to-action button (e.g., 'Book' or 'Select') for each doctor.\n\nThe page header should be consistent with the style seen in image 1's 'Sign Up' page, featuring a title such as 'Schedule Appointment' and a back navigation arrow on the left.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "mobile UI screen",
+    "page header with 'Schedule Appointment' title",
+    "back navigation arrow on the left",
+    "interactive calendar picker",
+    "scrollable list of available doctors",
+    "doctor list entry",
+    "doctor's name",
+    "doctor's specialization",
+    "small doctor profile picture or avatar",
+    "call-to-action button for booking (e.g., 'Book' or 'Select')"
+  ]
+}

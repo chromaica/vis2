@@ -1,0 +1,18 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Visual instructions and manuals",
+  "prompt": "A Japanese-style minimalist instruction manual for meditation techniques, featuring clean line drawings, zen calligraphy, and plenty of white space",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "An image of a minimalist Japanese instruction manual page detailing meditation techniques. The design features clean, precise line drawings illustrating the postures and steps, combined with elegant Zen calligraphy. The layout prioritizes an abundance of white space, creating a calm, uncluttered, and serene aesthetic.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Instruction manual page layout",
+    "Clean line drawings",
+    "Illustrations of meditation postures",
+    "Illustrations of meditation steps",
+    "Elegant Zen calligraphy",
+    "Abundant white space"
+  ]
+}

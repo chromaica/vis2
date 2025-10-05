@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "Generate a digital receipt for purchasing an art piece, using the artwork preview and price details from the first image and the minimalist design elements from the second image.",
+  "cond_images": [
+    "1.png",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a digital receipt for an art purchase. Prominently display the 'Mona Lisa' artwork from image 1 at the top of the receipt. Include the artist 'Leonardo da Vinci' and the price '\u20ac440.00' directly below the artwork, as presented in image 1. The receipt's design should adopt the minimalist aesthetic and earthy color palette (including beige, terracotta, mustard, grey, and light pink) from image 2. Integrate abstract shapes and line art elements from image 2 as subtle decorative accents, dividers, or background patterns throughout the digital receipt.",
+  "annotator": "paria",
+  "objects": [
+    "Digital receipt",
+    "Mona Lisa artwork (at the top of the receipt)",
+    "Text: \"Leonardo da Vinci\" (below the artwork)",
+    "Text: \"\u20ac440.00\" (below the artwork)",
+    "Minimalist design aesthetic",
+    "Earthy color palette (including beige, terracotta, mustard, grey, and light pink)",
+    "Abstract shapes from image 2 (as decorative accents, dividers, or background patterns)",
+    "Line art elements from image 2 (as decorative accents, dividers, or background patterns)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

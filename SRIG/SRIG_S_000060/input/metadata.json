@@ -1,0 +1,24 @@
+{
+  "subtopic": "Games",
+  "prompt": "Generate a watercolor painting of the provided video game scene, capturing its composition and mood in an artistic, non-photorealistic style.",
+  "cond_images": [
+    "1.jpeg"
+  ],
+  "remarks": "https://i.redd.it/iyiug45hoccc1.jpeg",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a watercolor painting based on image 1. The scene features a samurai warrior, viewed from behind, positioned on a ridge in the left foreground, looking out over an expansive landscape. This landscape is composed of rolling hills with a mix of green and bright yellow autumnal trees, rocky outcrops, and a valley featuring patches of purple flowers. The upper portion of the image is dominated by a clear blue sky, with a dark, jagged peak or structure visible on the distant horizon in the upper right. The painting should faithfully capture the original composition and contemplative mood in an artistic, non-photorealistic watercolor style, emphasizing soft washes and characteristic brushstrokes.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "samurai warrior (viewed from behind, in left foreground)",
+    "ridge (in left foreground)",
+    "expansive landscape",
+    "rolling hills",
+    "green trees",
+    "bright yellow autumnal trees",
+    "rocky outcrops",
+    "valley with patches of purple flowers",
+    "clear blue sky",
+    "dark, jagged peak or structure (on distant horizon, in upper right)"
+  ]
+}

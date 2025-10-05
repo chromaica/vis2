@@ -1,0 +1,23 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "A typographic meme graphic displaying 'This is Fine' in a wobbly, hand-drawn lettering style. The text is pastel orange with a distressed appearance, set against a background of stylized, warm-toned chaos that suggests flames and pervasive uncertainty.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A typographic meme graphic. Centrally displayed, the phrase 'This is Fine' is rendered in a prominent, wobbly, hand-drawn lettering style. The text is pastel orange with a distressed, worn appearance. The background behind the text features stylized, warm-toned chaotic elements, visually suggesting abstract flames and an atmosphere of pervasive uncertainty.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "The phrase 'This is Fine'",
+    "Centrally displayed text",
+    "Prominent lettering",
+    "Wobbly lettering style",
+    "Hand-drawn lettering style",
+    "Pastel orange text color",
+    "Distressed text appearance",
+    "Worn text appearance",
+    "Background",
+    "Stylized, warm-toned chaotic elements in the background, visually suggesting abstract flames"
+  ],
+  "human_annotation": true
+}

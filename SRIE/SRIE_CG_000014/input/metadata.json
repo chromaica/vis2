@@ -1,0 +1,26 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Object detection visuals",
+  "prompt": "Add the reference bicycle near the lamp post in the source image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit Image 1 by adding the bicycle from Image 2. Position the bicycle on the wet ground at the base of the prominent street lamp located in the mid-ground of Image 1, ensuring its appearance is consistent with the alley's low light and reflective surfaces.",
+  "annotator": "nimajamali",
+  "objects": [
+    "alleyway",
+    "buildings lining the alley",
+    "wet ground",
+    "prominent street lamp in the mid-ground",
+    "bicycle",
+    "bicycle positioned on the wet ground",
+    "bicycle positioned at the base of the prominent street lamp",
+    "low light conditions",
+    "reflective surfaces on the ground"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

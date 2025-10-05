@@ -1,0 +1,24 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Using the reference image for body pose, generate a person dancing in a lively party scene",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic image of a person energetically dancing in a dynamic, vibrant party environment. The individual's body pose must precisely match the skeletal structure shown in image 1. The scene should feature colorful, dynamic lighting and a blurred background suggesting movement and other party attendees, with the main subject prominently centered.",
+  "annotator": "samin",
+  "objects": [
+    "A person",
+    "Body pose matching image 1",
+    "Energetic dancing",
+    "Party environment",
+    "Colorful, dynamic lighting",
+    "Blurred background",
+    "Other party attendees (blurred in background)",
+    "Main subject (person) prominently centered"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

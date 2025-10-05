@@ -1,0 +1,23 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "Transform this topographic map into a neon-lit style.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 2, the topographic map, by transforming its existing lines and features into a vibrant neon-lit style. Reference the aesthetic of image 1, specifically its glowing pink and blue linear lights and dark, atmospheric background. The contour lines and other map elements should appear to glow like neon tubes, with the map's background adopting a dark tone to emphasize the luminescence.",
+  "annotator": "Johnny",
+  "objects": [
+    "topographic map",
+    "contour lines",
+    "other map lines (e.g., roads, rivers)",
+    "small square map markers",
+    "glowing neon tubes (applied to map elements)",
+    "pink neon luminescence",
+    "blue neon luminescence",
+    "dark map background"
+  ]
+}

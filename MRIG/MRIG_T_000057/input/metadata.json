@@ -1,0 +1,24 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Typography-not-english",
+  "prompt": "Generate the word \u201c\u0628\u0645\u0627\u0646\u201d in Persian from the first image using a bold block style with heavy blue shadows similar to the second image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate the Persian word \u201c\u0628\u0645\u0627\u0646\u201d using the specific calligraphic character forms and strokes as depicted in image 1. Render this word in a 3D, extruded bold block letter style, consistent with the visual characteristics of the word 'TODAY' in image 2. The letter faces should be cream or off-white with a distinct dark outline, and the prominent 3D depth should appear as a heavy, light blue shadow, replicating the effect seen in image 2.",
+  "annotator": "parnian",
+  "objects": [
+    "The Persian word \u201c\u0628\u0645\u0627\u0646\u201d",
+    "Calligraphic character forms and strokes consistent with image 1",
+    "3D, extruded bold block letter style",
+    "Cream or off-white letter faces",
+    "Distinct dark outline on letter faces",
+    "Prominent 3D depth",
+    "Heavy, light blue shadow effect for the 3D depth, replicating the effect in image 2"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

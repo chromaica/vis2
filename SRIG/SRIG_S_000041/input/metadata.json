@@ -1,0 +1,26 @@
+{
+  "subtopic": "Receipts",
+  "prompt": "Generate a screenshot of a Google Cloud digital receipt, with the reference image logo. Include a billing item \"Vertex AI API 300 USD\" in the receipt.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://s3.amazonaws.com/appforest_uf/f1595342252538x376713853119531500/google-cloud-2038785-1721675.png",
+  "searchQueryGenerated": "High resolution screenshot of digital payment receipt",
+  "searchQueryGeneratedTimestamp": 1749435740379,
+  "promptGeneratedTimestamp": 1749436071681,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a screenshot of a Google Cloud digital receipt. The receipt must prominently display the Google Cloud logo (image 1) in the header section, ideally positioned in the top-left corner. Include a specific billing line item stating 'Vertex AI API 300 USD' within the itemized charges section of the receipt. The screenshot should resemble a typical web-based or digital receipt, featuring elements like a date, customer information, and a total amount.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Google Cloud logo (in the header, top-left corner)",
+    "Header section (of a receipt)",
+    "Web-based/digital receipt format",
+    "Date (on the receipt)",
+    "Customer information (on the receipt)",
+    "Itemized charges section",
+    "Billing line item \"Vertex AI API 300 USD\"",
+    "Total amount (on the receipt)"
+  ]
+}

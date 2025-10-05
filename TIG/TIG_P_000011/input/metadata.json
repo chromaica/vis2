@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "Cluster of microscopic snowflakes, each unique in intricate detail, shining under a soft light.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A highly detailed macro photograph of a dense cluster of unique, microscopic snowflakes. Each snowflake displays incredibly intricate, fractal crystalline patterns. Soft, diffused light illuminates them from the top, creating subtle glints and highlighting their delicate icy structures against a subtly blurred, dark background.",
+  "annotator": "cwhsu",
+  "objects": [
+    "dense cluster of unique, microscopic snowflakes",
+    "intricate fractal crystalline patterns on snowflakes",
+    "subtle glints on snowflakes",
+    "delicate icy structures of snowflakes",
+    "snowflakes illuminated by soft, diffused light",
+    "snowflakes illuminated from the top",
+    "subtly blurred background",
+    "dark background"
+  ]
+}

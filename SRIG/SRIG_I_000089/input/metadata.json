@@ -1,0 +1,24 @@
+{
+  "subtopic": "Visual instructions and manuals",
+  "prompt": "Generate a step-by-step guide on how to code a simple recursive function with Python. Use the IDE windows style in the provided image to show the code with comments.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "https://media.istockphoto.com/id/1067437182/vector/code-on-screen-vector-illustration-flat-cartoon-coding-or-programming-script-text-on-monitor.jpg?s=612x612&w=0&k=20&c=khxN837Ja7UT8M8sOVmcGztZY1MI1I_9k1cRDKNaVio=",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate a multi-panel, step-by-step visual guide demonstrating how to code a simple recursive function in Python. Each panel should represent a distinct stage in the coding process and display Python code within an IDE window. The visual style for the code and IDE environment must precisely mimic the abstract representation found in image 1, featuring a dark background, prominent line number indicators on the far left, and abstract syntax highlighting using varied length horizontal lines in colors such as red, magenta, blue, yellow, green, purple, and grey/brown. Ensure the visual representation includes distinct elements for both code lines and comments, consistent with the patterns observed in image 1.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Multi-panel layout",
+    "IDE window representation",
+    "Abstract Python code",
+    "Dark background within IDE window",
+    "Prominent line number indicators on the far left",
+    "Varied length horizontal lines representing code",
+    "Red, magenta, blue, yellow, green, purple colored horizontal lines for syntax highlighting",
+    "Varied length grey/brown horizontal lines representing comments"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

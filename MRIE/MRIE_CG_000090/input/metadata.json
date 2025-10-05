@@ -1,0 +1,23 @@
+{
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "Edit image 1 by first segmenting the camera lens. Apply a transparent overlay texture to the segmented lens, drawing inspiration from the delicate spider web structure in image 3. Then, precisely position the dewdrop element from image 2 onto the front surface of the segmented lens.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748456477809,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1 by first segmenting the prominent camera lens. Apply a transparent overlay texture onto this segmented lens, drawing inspiration from the intricate and delicate spider web structure visible in image 3. Then, precisely position the distinct dewdrop element from image 2 onto the outermost front surface of the segmented camera lens.",
+  "annotator": "winston",
+  "objects": [
+    "hands holding a camera",
+    "camera body",
+    "camera lens with transparent spider web texture",
+    "dewdrop on the outermost front surface of the camera lens",
+    "blurred background"
+  ]
+}

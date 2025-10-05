@@ -1,0 +1,23 @@
+{
+  "subtopic": "3D renders",
+  "prompt": "Generate a 3D render depicting a serene ancient bathhouse. Use the reference image's composition, featuring massive columns and a central water basin viewed from above in a similar architectural space.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://cdn12.picryl.com/photo/2016/12/31/rendering-3d-model-bad-55fccc-1024.jpg",
+  "promptGeneratedTimestamp": 1748768588586,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a 3D render of a serene ancient bathhouse. Mimic the high-angle, slightly overhead composition of image 1, looking down into a grand, stone architectural space. Feature massive, textured, and weathered columns prominently on the left side of the frame, leading towards an elevated, ornate water basin with bright, splashing water in the mid-left. A large, shallow pool with clear water and distinct square tiles occupies the lower foreground, extending towards the right. The overall scene should convey a tranquil atmosphere within a classical, aged structure.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Serene ancient bathhouse",
+    "Grand, classical, aged stone architectural space",
+    "Massive, textured, weathered columns prominently on the left side of the frame",
+    "Elevated, ornate water basin in the mid-left",
+    "Bright, splashing water",
+    "Large, shallow pool with clear water in the lower foreground, extending towards the right",
+    "Distinct square tiles in the large, shallow pool"
+  ]
+}

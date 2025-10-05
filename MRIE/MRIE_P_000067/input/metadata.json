@@ -1,0 +1,28 @@
+{
+  "subtopic": "Astronomical images",
+  "prompt": "Edit image 1, intensifying the star formation regions within the galaxy arms with the vibrant nebulosity detail found in image 2. Enhance the surrounding deep space background with the diffuse cloud texture and blue-purple hues from image 3.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749222590048,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "P",
+  "prompt_refined": "Edit image 1. Within the spiral arms of the galaxy, intensify the existing reddish/pinkish star formation regions, infusing them with the vibrant, detailed nebulosity, complex gas, and glowing dust structures, and vivid color palette (including reds, oranges, and blues) characteristic of the Pillars of Creation in image 2. Simultaneously, enhance the surrounding deep space background of image 1 by integrating the diffuse, wispy cloud texture and the prominent blue and purple hues found in image 3, adding subtle background stars consistent with image 3's style.",
+  "annotator": "boris",
+  "objects": [
+    "spiral galaxy structure",
+    "intensified reddish/pinkish star formation regions",
+    "vibrant, detailed nebulosity within star formation regions",
+    "complex gas structures within star formation regions",
+    "glowing dust structures within star formation regions",
+    "vivid reds, oranges, and blues within star formation regions",
+    "enhanced deep space background",
+    "diffuse, wispy cloud texture in background",
+    "prominent blue and purple hues in background",
+    "subtle background stars"
+  ]
+}

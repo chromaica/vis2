@@ -1,0 +1,24 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Stylized art",
+  "prompt": "A teacup with a tiny garden and fairies having a picnic.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate an artwork where the white teacup from image 1 serves as the setting for a vibrant miniature garden. Within this garden, tiny fairies are depicted having a whimsical picnic. The garden should sprout from the inside of the cup, featuring miniature plants, colorful flowers, and perhaps a small, glistening pond. The fairies, with delicate, translucent wings, are positioned around miniature picnic blankets and an assortment of tiny food items, all gracefully contained within or subtly extending from the teacup's form.",
+  "annotator": "Johnny",
+  "objects": [
+    "White teacup",
+    "Saucer",
+    "Miniature garden (inside the teacup)",
+    "Tiny fairies",
+    "Miniature plants",
+    "Colorful flowers",
+    "Small, glistening pond",
+    "Delicate, translucent fairy wings",
+    "Miniature picnic blankets",
+    "Tiny food items"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Generate a infographics with sea graphics to illustrate the sea level movement across different years. Sample some data point in the provided line chart to provide the figures of the sea level in different years.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://www.climate.gov/sites/default/files/2022-07/ClimateDashboard-global-sea-levels-graph-20220718-1400px.jpg",
+  "promptGeneratedTimestamp": 1749911802100,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate a visually engaging infographic illustrating the global sea level movement from 1880 to 2020. The infographic should prominently feature sea-themed graphics, such as rising water levels against a coastline, melting glaciers, or ocean life, to convey the impact of sea level change. Integrate specific numerical data points for various years, like 1900, 1950, 2000, and 2020, clearly labeled with their respective sea level change values (in mm) as derived from the line chart presented in image 1. Position these data points clearly within the infographic, perhaps as callouts near relevant visual markers or on a timeline.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Infographic title (e.g., \"Global Sea Level Movement\")",
+    "Visual representation of rising water levels",
+    "Coastline",
+    "Melting glaciers",
+    "Ocean life",
+    "Numerical data point for 1900: approx. -160 mm",
+    "Numerical data point for 1950: approx. -50 mm",
+    "Numerical data point for 2000: approx. 20 mm",
+    "Numerical data point for 2020: approx. 65 mm",
+    "Timeline or chronological visual markers for 1880-2020"
+  ],
+  "human_annotation": true
+}

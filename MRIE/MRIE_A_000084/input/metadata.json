@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Traditional art",
+  "prompt": "In image 1, replace the woman's shoes with the shoes from image 2, and change the background to image 3.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the woman's current brown shoes with the ornate, high-heeled, light teal, lace-detailed footwear from image 2. Update the background behind the woman from its existing brick archway to the lush, flower-filled garden and distant landscape depicted in image 3.",
+  "annotator": "paria",
+  "objects": [
+    "Woman",
+    "Basket with flowers",
+    "Ornate, high-heeled, light teal, lace-detailed footwear",
+    "Lush, flower-filled garden background",
+    "Distant landscape background",
+    "Archway framing the garden",
+    "Pink flowers",
+    "Blue flowers",
+    "Brown shoes (should not be present)",
+    "Brick archway (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

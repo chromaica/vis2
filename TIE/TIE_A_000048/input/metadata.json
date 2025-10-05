@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "Expand the centered octagon collage to emphasize the central image. Adjust the image within it accordingly.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Greatly expand the central octagonal frame, which currently contains a couple walking on a beach and two red hearts. The goal is to make this central image the dominant focal point of the entire collage. Adjust the content within this enlarged octagon, ensuring the couple and hearts are scaled and composed effectively to fill the new space, maintaining their clarity and an aesthetically pleasing arrangement. The surrounding collage images should proportionally recede or adapt to accommodate this significant expansion of the central element.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "enlarged central octagonal frame",
+    "couple walking on a beach (within the central frame)",
+    "beach environment (within the central frame)",
+    "two red hearts (within the central frame)",
+    "collage image of a mother and child",
+    "collage image of a woman with a hat",
+    "collage image of a man winking",
+    "collage image of a woman with sunglasses",
+    "collage image of a couple with flowers",
+    "collage image of a group of friends"
+  ]
+}

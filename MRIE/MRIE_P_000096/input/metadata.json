@@ -1,0 +1,25 @@
+{
+  "subtopic": "Microscopic imagery",
+  "prompt": "Edit image 1's organic green structure by applying the vibrant red/orange background color gradient from image 2. Modify the surface texture of the green structure in image 1 to incorporate the porous, irregular cellular appearance shown in image 3, adopting its high-contrast lighting and the bluish-green color tint onto the textured surfaces.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749307330042,
+  "promptLengthUsed": "long",
+  "task": "MRIE",
+  "topic": "P",
+  "prompt_refined": "Edit image 1. Replace the existing background with the vibrant red to orange color gradient observed in image 2. Transform the entire organic green fractal structure in the foreground of image 1. Modify its surface texture to mimic the porous, irregular cellular appearance present in image 3. Ensure the newly textured surfaces adopt the high-contrast lighting and the distinctive bluish-green color tint as depicted in image 3.",
+  "annotator": "boris",
+  "objects": [
+    "vibrant red to orange color gradient background",
+    "organic fractal structure",
+    "porous, irregular cellular texture",
+    "high-contrast lighting",
+    "bluish-green color tint"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

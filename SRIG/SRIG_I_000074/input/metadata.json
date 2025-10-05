@@ -1,0 +1,26 @@
+{
+  "subtopic": "Icons and symbols",
+  "prompt": "Generate a simple flat design famous tall buildings for an information graphic, featuring Taipei 101, Burj Khalifa and Shanghai Tower. Render this scene using the minimalist geometric shapes and limited cool blue/green palette seen in the reference image buildings and trees.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://media.istockphoto.com/id/1157329360/vector/vector-set-of-illustration-in-simple-minimal-geometric-flat-style-city-landscape-elements.jpg?s=612x612&w=0&k=20&c=TUNvflAqssgcfk6sVFtr0AS4I5K9CIwqkI9QObVwx3s=",
+  "searchQueryGenerated": "Modern flat design information graphics icon set",
+  "searchQueryGeneratedTimestamp": 1749925915559,
+  "promptGeneratedTimestamp": 1749925961741,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate an information graphic featuring simple, flat design representations of three famous tall buildings: Taipei 101, Burj Khalifa, and Shanghai Tower. Depict these buildings side-by-side, applying the minimalist geometric shapes and limited cool blue/green color palette observed in the buildings and trees of image 1.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Taipei 101",
+    "Burj Khalifa",
+    "Shanghai Tower",
+    "Three buildings depicted side-by-side",
+    "Buildings in minimalist geometric shapes",
+    "Buildings in flat design representation",
+    "Limited cool blue color palette",
+    "Limited green color palette"
+  ]
+}

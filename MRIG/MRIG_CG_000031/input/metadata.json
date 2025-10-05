@@ -1,0 +1,21 @@
+{
+  "subtopic": "CAD models",
+  "prompt": "A detailed CAD model render of the vintage car from image 2, precisely textured with the bold black and white stripe pattern from the zebra in image 1. Studio lighting.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748422560433,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a highly detailed CAD model render of the vintage convertible car from image 2. The car should be precisely textured with the bold black and white stripe pattern sourced from the zebra in image 1. Rendered with professional studio lighting.",
+  "annotator": "winston",
+  "objects": [
+    "Vintage convertible car",
+    "CAD model rendering style",
+    "Black and white stripe pattern",
+    "Professional studio lighting"
+  ]
+}

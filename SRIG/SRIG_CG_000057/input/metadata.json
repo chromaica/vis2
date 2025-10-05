@@ -1,0 +1,26 @@
+{
+  "subtopic": "Object detection visuals",
+  "prompt": "Generate an image showing a bird perched on a branch with computer vision object detection overlays. Include a bounding box, class label, and heatmap highlighting the AI's focus area, mimicking the visual style from the reference image.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://user-images.githubusercontent.com/17425982/220298462-b0631f27-2366-4864-915a-a4ee21acd4b9.png",
+  "promptGeneratedTimestamp": 1748768460112,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate an image of a bird perched on a branch, featuring computer vision object detection overlays. These overlays should include a thin yellow bounding box tightly encompassing the bird, a white class label \"bird: XX.X\" displayed at the top-left corner of the bounding box, and a heatmap with a vibrant gradient from red (most intense) to blue (least intense) highlighting a specific region of the bird's body. The entire image, including the overlays, should precisely mimic the visual style, color palette, and rendering quality observed in image 1.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Bird",
+    "Branch",
+    "Thin yellow bounding box around the bird",
+    "White class label \"bird: XX.X\" at the top-left corner of the bounding box",
+    "Heatmap with a vibrant gradient from red to blue highlighting a region of the bird's body",
+    "Realistic visual style",
+    "Muted color palette",
+    "Shaded or dark background environment"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

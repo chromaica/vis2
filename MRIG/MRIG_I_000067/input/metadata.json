@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "I",
+  "subtopic": "Visual instructions and manuals",
+  "prompt": "Generate a CPR instruction guide. Use Image 1 to show correct hand placement and Image 2 to show overall body posture.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "matina",
+  "prompt_refined": "Generate a CPR instruction graphic. The image should illustrate a person performing chest compressions, clearly demonstrating the correct hand placement on the sternum, as depicted in Image 1, with hands interlaced. Simultaneously, the graphic should show the rescuer's overall body posture, adopting the stance from Image 2, including the rescuer positioned directly above the patient with straight arms and body weight leveraged.",
+  "objects": [
+    "CPR instruction graphic style",
+    "Rescuer performing chest compressions",
+    "Patient lying on their back",
+    "Rescuer's hands interlaced on patient's sternum",
+    "Patient's sternum and ribs (illustrated)",
+    "Rescuer positioned directly above the patient",
+    "Rescuer with straight arms",
+    "Rescuer leveraging body weight for compressions",
+    "Arrows indicating compression movement",
+    "Clear demonstration of correct hand placement"
+  ]
+}

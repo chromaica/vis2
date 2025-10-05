@@ -1,0 +1,25 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "QR Code",
+  "prompt": "Edit image 1 by replacing the existing WhatsApp QR code with the shirt-shaped QR code from image 2, keeping the position, size, and alignment unchanged. Then, insert the Mickey Mouse silhouette from image 3 to the left of the group name #cool.people.only\u2714, scaled to match the height of the text and aligned horizontally. All other interface elements must remain unaltered.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, which displays a WhatsApp group screen.\n\nFirst, replace the existing square WhatsApp QR code located below the \"WhatsApp group\" text in image 1 with the pixelated, shirt-shaped QR code from image 2. Ensure the replacement maintains the exact original position, size, and alignment of the QR code in image 1.\n\nSecond, insert the black Mickey Mouse silhouette from image 3. Position it directly to the left of the group name text \"#cool.people.only\u2714\" in image 1. Scale the silhouette so its height precisely matches the height of the \"#cool.people.only\u2714\" text, and align it horizontally with this text.\n\nNo other elements or text within the WhatsApp interface in image 1 should be modified.",
+  "annotator": "parnian",
+  "objects": [
+    "WhatsApp group screen interface",
+    "Dark background",
+    "Round group profile picture",
+    "Black Mickey Mouse silhouette to the left of the group name text",
+    "Text: \"#cool.people.only\u2714\"",
+    "Text: \"WhatsApp group\"",
+    "Pixelated, shirt-shaped QR code",
+    "Text: \"This group QR code is private. If it is shared with someone, they can scan it with their WhatsApp camera to join this group.\"",
+    "Square WhatsApp QR code (should not be present)"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Place the earbud above \u2018Sound,\u2019 center-aligned, at 50% text height with a soft drop shadow.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Incorporate a single white earbud, drawing its style and appearance from image 2. Position this earbud directly above the word 'Sound' within image 1. The earbud should be horizontally center-aligned with 'Sound' and its height should be approximately 50% of the height of the text 'Sound'. Apply a soft drop shadow beneath the earbud.",
+  "annotator": "matina",
+  "objects": [
+    "Black text \"Experience UltraSound\"",
+    "A single white earbud",
+    "Earbud styled after the earbuds in image 2",
+    "Earbud positioned directly above the word \"Sound\"",
+    "Earbud horizontally center-aligned with the word \"Sound\"",
+    "Earbud with height approximately 50% of the height of the text \"Sound\"",
+    "Soft drop shadow beneath the earbud"
+  ],
+  "human_annotation": true
+}

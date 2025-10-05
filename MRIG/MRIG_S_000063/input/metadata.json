@@ -1,0 +1,24 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "Create a retro 8-bit RPG UI with pixel art character stats, item menu, and turn-based battle layout. Use character sprite format from the first image and dialogue box style from the second.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a screenshot of a retro 8-bit pixel art RPG turn-based battle user interface. The UI should display a central battle area, alongside distinct sections for character stats and an item menu. All character sprites rendered in the scene, including player characters and enemies, must adopt the small, front-facing 8-bit pixel art style exemplified by image 1. Furthermore, incorporate a dialogue box whose border design replicates the hand-drawn, slightly irregular outline seen in image 2.",
+  "annotator": "paria",
+  "objects": [
+    "Retro 8-bit pixel art style",
+    "Turn-based battle user interface",
+    "Central battle area",
+    "Character stats section",
+    "Item menu section",
+    "Player characters (small, front-facing, 8-bit pixel art style)",
+    "Enemy characters (small, front-facing, 8-bit pixel art style)",
+    "Dialogue box",
+    "Dialogue box border (hand-drawn, slightly irregular outline)"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Place the bubble above the charactor with text \u2018I demand rest!\u2019 in hand-lettered font.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, which features a green character, to incorporate a speech bubble. Position the speech bubble, matching the shape and outline style of image 2, directly above the character's head. Inside this speech bubble, insert the text \u2018I demand rest!\u2019, rendered in a clear, hand-lettered font.",
+  "annotator": "matina",
+  "objects": [
+    "green character",
+    "speech bubble (matching shape and outline style of image 2)",
+    "speech bubble positioned directly above the character's head",
+    "text \"I demand rest!\"",
+    "hand-lettered font for the text"
+  ]
+}

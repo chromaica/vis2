@@ -1,0 +1,19 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "Edit image 1: Modify the cat icon by adding the hat from image 2 onto its head and placing the sunglasses from image 3 over its eyes, maintaining the simple icon style.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Modify the simple cat icon by adding the hat from image 2 onto its head and placing the sunglasses from image 3 over its eyes, ensuring the entire composition maintains the minimalist, outline icon style of image 1.",
+  "annotator": "maxku",
+  "objects": [
+    "simple cat icon",
+    "hat on cat's head",
+    "sunglasses over cat's eyes"
+  ]
+}

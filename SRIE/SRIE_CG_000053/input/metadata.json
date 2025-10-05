@@ -1,0 +1,20 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Depth maps",
+  "prompt": "Replace all around the mask with a deep forest scene and apply a depth-aware blur to emphasize the subject.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, using image 2 as a mask. The black area in image 2 precisely defines the region of the subject (the woman) to be preserved from image 1, maintaining her original style and appearance. Replace the surrounding background (the park scene visible in image 2) with a lush, deep forest scene. After the replacement, apply a strong depth-aware blur to the new forest background to clearly emphasize the sharp, in-focus subject.",
+  "annotator": "nimajamali",
+  "objects": [
+    "Woman (original style and appearance)",
+    "Lush, deep forest (as background)",
+    "Blurred forest background",
+    "Sharp, in-focus woman",
+    "Park scene (should not be present)"
+  ]
+}

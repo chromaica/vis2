@@ -1,0 +1,19 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Medical images",
+  "prompt": "add a kuntscher nail on the left leg",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "basically a long rod in the center of the left leg bone in the middle",
+  "prompt_refined": "Edit image 1: Add a radiopaque Kuntscher nail to the patient's left femur, matching the existing X-ray style.",
+  "annotator": "theblackcat",
+  "objects": [
+    "patient's pelvis",
+    "patient's right femur",
+    "patient's left femur",
+    "radiopaque Kuntscher nail in the patient's left femur"
+  ],
+  "human_annotation": true
+}

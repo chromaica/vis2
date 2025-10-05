@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": "Fill the bubble with: \u201cCareful!\u201d in bold",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 2. In the dark rectangular area located at the bottom-center of the image, replace the current content with the text \"Careful!\". The text \"Careful!\" must be rendered in a bold font. The new text should be enclosed within a speech bubble that precisely matches the shape, color, and overall style of the speech bubble present in image 1, maintaining its approximate position.",
+  "annotator": "theblackcat",
+  "objects": [
+    "white dragon",
+    "character (Hiccup)",
+    "dark background",
+    "speech bubble (bottom-center)",
+    "white speech bubble",
+    "speech bubble with black border",
+    "speech bubble with a tail",
+    "text \"Careful!\"",
+    "bold text \"Careful!\""
+  ],
+  "human_annotation": true
+}

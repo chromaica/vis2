@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Edit image 1, the UML diagram, applying the vibrant color palette and thick outlines of diagram elements from image 2. Use text font, shapes and connectors resembling those in image 3 to replace the original elements, giving it a playful, flat style.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the UML sequence diagram. Apply the vibrant color palette and the thick, prominent outlines of diagram elements from image 2, including adopting a similarly bright background color. Replace the original text font, the geometric shapes (such as lifelines, activation bars, and message/reference boxes), and the connecting lines (like synchronous, asynchronous, and return messages, and lifelines) in image 1 with styles resembling those in image 3. The resulting diagram should have a cohesive playful, flat aesthetic.",
+  "annotator": "maxku",
+  "objects": [
+    "UML sequence diagram frame",
+    "UML participants (e.g., :window, :DWRServlet, :Proxy)",
+    "Lifelines",
+    "Activation bars",
+    "Synchronous messages",
+    "Asynchronous messages",
+    "Return messages",
+    "Interaction use box (e.g., \"Handle Errors\")",
+    "Text labels (for all diagram elements)",
+    "Bright background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

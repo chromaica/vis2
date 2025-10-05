@@ -1,0 +1,22 @@
+{
+  "subtopic": "Object detection visuals",
+  "prompt": "Generate a realistic photo overlaid with computer vision graphics. Show a bright bounding box and confidence score incorrectly labeling a common object, inspired by the reference image depicting object detection errors.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://reinventingsquares.wordpress.com/wp-content/uploads/2020/04/squirrel-mscoco-3.png",
+  "promptGeneratedTimestamp": 1748769005548,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a realistic photo of a common object, similar to image 1. Overlay the image with computer vision graphics: a prominent, bright light-green bounding box should enclose the main object. Above the top-left corner of this bounding box, display the text \"teddy bear: 53%\". The object within the box must clearly not be a teddy bear, illustrating an object detection error consistent with image 1 where a squirrel is mislabeled.",
+  "annotator": "ishengfang",
+  "objects": [
+    "A realistic photo of a common animal (e.g., a squirrel, raccoon, or similar wild animal, clearly not a teddy bear)",
+    "A prominent, bright light-green bounding box enclosing the animal",
+    "The text \"teddy bear: 53%\"",
+    "The text displayed above the top-left corner of the bounding box",
+    "A blurred natural outdoor background (e.g., green and yellow foliage)",
+    "An object for the animal to sit on (e.g., a tree stump or branch)"
+  ]
+}

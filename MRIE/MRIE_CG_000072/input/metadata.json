@@ -1,0 +1,27 @@
+{
+  "subtopic": "VFX and Particles",
+  "prompt": "Edit image 1 by applying a dynamic VFX simulation to the blueprint car, causing it to transform with particle effects. Use the chaotic particle burst and distortion concept from image 3 for the effect's generation, infused with the bold, energetic visual style of image 2.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748456271061,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1, the blueprint car, by applying a dynamic VFX simulation. The simulation should depict the car transforming, bursting into chaotic particle effects that feature the explosive fragmentation and distortion patterns from image 3. Infuse this transformation with the bold, high-contrast, and energetic graphic style of image 2, incorporating vibrant reds and blues. The particle effects should emerge from and surround the car, appearing to break it apart dynamically.",
+  "annotator": "winston",
+  "objects": [
+    "Car (in a state of transformation/breaking apart)",
+    "Chaotic particle effects",
+    "Explosive fragmentation patterns",
+    "Distortion patterns",
+    "Vibrant red elements",
+    "Vibrant blue elements",
+    "High-contrast visual elements",
+    "Energetic visual elements",
+    "Dynamic visual movement/flow"
+  ]
+}

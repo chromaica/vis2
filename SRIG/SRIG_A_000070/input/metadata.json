@@ -1,0 +1,24 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Traditional art",
+  "prompt": "A detailed Chinese ink painting of a bamboo forest in mist",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "https://magnifissance.com/print-edition/issue-105/chinese-ink-painting/",
+  "prompt_refined": "Generate a new image depicting a detailed bamboo forest, shrouded in a soft, ethereal mist. The artwork should be rendered in the traditional Chinese landscape painting style, featuring an ink wash aesthetic with subtle, harmonious colors (like the greens, blues, and ochres in image 1). Draw significant inspiration from image 1 for the overall atmospheric depth, delicate brushwork, and the realistic depiction of mist interacting with natural forms. Focus on the intricate details of bamboo stalks and leaves partially veiled by the mist, creating a tranquil and immersive scene.",
+  "annotator": "Johnny",
+  "objects": [
+    "bamboo forest",
+    "detailed bamboo stalks",
+    "detailed bamboo leaves",
+    "soft mist",
+    "ethereal mist",
+    "traditional Chinese landscape painting style",
+    "ink wash aesthetic",
+    "subtle green colors",
+    "subtle blue colors",
+    "subtle ochre colors"
+  ]
+}

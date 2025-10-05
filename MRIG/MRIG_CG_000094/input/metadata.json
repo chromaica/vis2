@@ -1,0 +1,26 @@
+{
+  "subtopic": "Game assets",
+  "prompt": "Create a 3D game asset for a fantasy RPG: a rugged, metallic wristband artifact. Use the glowing runic enchantment concept from image 1 and the heavy-duty weathered metal and leather aesthetic from the watch in image 2.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748424767726,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a 3D render of a rugged, metallic wristband artifact, suitable as a game asset for a fantasy RPG. The wristband should incorporate a glowing, golden runic enchantment, similar in style to the glowing Elvish script on the ring in image 1. The metallic body of the wristband should have a heavy-duty, weathered bronze or brass appearance, and it should feature a dark, worn brown leather strap, drawing inspiration from the watch in image 2.",
+  "annotator": "winston",
+  "objects": [
+    "3D render style",
+    "Wristband artifact",
+    "Rugged, heavy-duty metallic wristband body",
+    "Weathered bronze or brass appearance",
+    "Glowing golden runic enchantment",
+    "Elvish script style runes",
+    "Dark, worn brown leather strap"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

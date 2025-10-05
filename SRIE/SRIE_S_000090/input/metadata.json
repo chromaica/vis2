@@ -1,0 +1,27 @@
+{
+  "subtopic": "Websites",
+  "prompt": "Edit image 1: Apply the dark, high-tech gaming website theme and aesthetic from image 2, including the style of the main header image area and headline text, to transform the layout and feel.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751013819373,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit `image 1`. Apply the dark, high-tech gaming website theme and aesthetic from `image 2`. Transform the entire top section of `image 1`, from its existing navigation bar down to and including the 'Leadership' title, into a prominent hero banner. This new hero banner should adopt the immersive visual style, dark background elements, and overall layout of `image 2`'s main header image area. Redesign the 'Leadership' title in `image 1` to match the bold, stylized, and prominent typography of the headline text from `image 2` (e.g., 'LEVEL UP YOUR GAMING EXPERIENCE!'). Ensure the overall design and feel of `image 1`'s webpage reflect the sleek, futuristic, and dark aesthetic of `image 2`.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Dark webpage background",
+    "Sleek, futuristic design elements",
+    "Prominent hero banner",
+    "Immersive, dark-toned graphical background within the hero banner",
+    "Large, stylized \"Leadership\" title text (within the hero banner)",
+    "Website navigation links (styled to match dark, high-tech theme)",
+    "Profile images of individuals (e.g., CEO, VPs)",
+    "Associated text for profile images (names, titles)",
+    "Call-to-action buttons (within hero banner)"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,26 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "Add this vintage lamp beside the armchair.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 by adding a lamp. The lamp should closely resemble the design and appearance of the lamp shown in image 2. Place this new lamp on the desk, to the left of the white desk chair.",
+  "annotator": "Johnny",
+  "objects": [
+    "desk",
+    "white desk chair",
+    "bookshelves with books",
+    "laptop",
+    "lamp (on the desk, to the right side)",
+    "lamp (on the desk, to the left of the white desk chair, resembling the design in image 2)",
+    "wall",
+    "rug",
+    "large plant in white pot"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

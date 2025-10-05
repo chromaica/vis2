@@ -1,0 +1,27 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "Create a digital artwork depicting a fairy character like the silhouette in image 1, placed within the dramatic, surreal cloud environment and lit with the dreamy style of image 2.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a digital artwork featuring a full-body fairy character, adopting the distinctive silhouette and multi-winged form from image 1. This fairy should be centrally placed within a vast, dramatic, and surreal sky environment, characterized by the swirling, deep blue and purple clouds seen in image 2. The entire composition should be illuminated with the ethereal, high-contrast, and dreamy lighting style found in image 2, including its prominent glowing light source.",
+  "annotator": "samin",
+  "objects": [
+    "full-body fairy character",
+    "fairy with silhouette from image 1",
+    "fairy with multi-winged form from image 1",
+    "centrally placed fairy",
+    "vast, dramatic, surreal sky environment",
+    "swirling, deep blue and purple clouds (from image 2)",
+    "ethereal lighting style (from image 2)",
+    "high-contrast lighting style (from image 2)",
+    "dreamy lighting style (from image 2)",
+    "prominent glowing light source (from image 2)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

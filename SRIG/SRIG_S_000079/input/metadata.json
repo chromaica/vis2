@@ -1,0 +1,26 @@
+{
+  "subtopic": "Websites",
+  "prompt": "Transform the visual style of this website to match the clean, minimalist, and typography-focused design language of a high-end Swiss design agency.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://cxl.com/wp-content/uploads/2019/07/Screenshot-2019-10-09-21.40.54-1024x993.png",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a new image of the website shown in image 1, completely redesigning its visual style. The new design should embody the principles of a high-end Swiss design agency: clean, minimalist, and heavily typography-focused. Ensure the existing layout, content blocks, and information hierarchy from image 1 are maintained. Specifically, transform the appearance of the top header and navigation, the main green and blue navigation sections, the hero banner (with its text content on the left and the image of people on the right), the calendar widget on the bottom left, and the 'Upcoming Events' list on the bottom right. The redesigned elements should feature precise, grid-aligned typography, extensive use of negative space, and a sophisticated, restrained color palette, typically monochromatic with potential subtle accent colors, moving away from the current vibrant greens and blues.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Website header with navigation links",
+    "Website logo/branding",
+    "Main navigation menu items (e.g., Start or Grow your Business, Dublin City)",
+    "Hero banner text content on the left",
+    "Image of people in the hero banner on the right",
+    "\"Book Your Mentoring Appointment\" button",
+    "Calendar widget on the bottom left",
+    "Upcoming Events list on the bottom right",
+    "Social media icons",
+    "Search bar"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

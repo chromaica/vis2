@@ -1,0 +1,22 @@
+{
+  "subtopic": "Game assets",
+  "prompt": "Generate a collection of detailed 2D pixel art fantasy game assets like the reference, featuring items such as magical potions, ancient scrolls, and quest keys. Mimic the distinct pixelated style and organized layout of the reference image.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://img.itch.zone/aW1nLzk0MDc2MDcucG5n/315x250%23c/83J2Tq.png",
+  "promptGeneratedTimestamp": 1748767238155,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a collection of new 2D pixel art fantasy game assets. The assets should include various types of magical potions, ancient scrolls, and quest keys. Mimic the distinct pixelated style, resolution, and level of detail observed in image 1. Arrange all generated assets clearly separated on a solid black background, emulating the organized, grid-like layout with distinct spacing between items as shown in image 1. Ensure the assets are presented in a similar scale to those in image 1, suitable for game inventory or asset packs.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Magical potions",
+    "Ancient scrolls",
+    "Quest keys",
+    "Solid black background",
+    "Grid-like layout of assets",
+    "Distinct spacing between assets"
+  ]
+}

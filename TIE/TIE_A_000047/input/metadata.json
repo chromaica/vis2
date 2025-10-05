@@ -1,0 +1,26 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Surrealism",
+  "prompt": "Add a storybook-star-shape star crashing into the ground at the cliff in the background. The star should be dramatic and surreal. The crash should bring up dust and debris, creating a sense of motion and impact.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Add a dramatic, surreal, storybook-star-shape star crashing into the ground at the base of the cliff on the right side of the background, near the water. The impact should kick up dust and debris, conveying a strong sense of motion and collision.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Dramatic, surreal, storybook-star-shape star crashing into the ground at the base of the cliff",
+    "Dust and debris kicked up by the star's impact",
+    "Cliff on the right background",
+    "Water in the background",
+    "Sky (dawn/sunset colors)",
+    "Melting clock hanging from a tree branch",
+    "Melting clock on a table",
+    "Melting clock draped over a soft biological form",
+    "Red pocket watch covered in ants",
+    "Dead tree branch"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

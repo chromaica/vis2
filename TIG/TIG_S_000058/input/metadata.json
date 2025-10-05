@@ -1,0 +1,23 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "Create a first-person survival horror game interface showing the player holding a flickering flashlight in a dark abandoned hospital corridor. Include a sanity meter slowly decreasing, limited battery indicator, inventory slots with medical supplies, heartbeat audio visualizer, and interaction prompts for examining bloodstained doors. Realistic graphics with heavy shadows, fog effects, and eerie green emergency lighting flickering overhead",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a first-person screenshot of a survival horror game interface. The player's hand holds a flickering flashlight, illuminating a dark, abandoned hospital corridor. The user interface prominently displays a sanity meter slowly decreasing in the top-left corner, and a limited battery indicator in the top-right corner. Several inventory slots containing medical supplies (e.g., bandages, syringes, pills) are arranged along the bottom of the screen. A pulsating heartbeat audio visualizer is visible near the bottom-left. Contextual interaction prompts, such as 'Examine Bloodstained Door', appear in the center of the screen when looking at a bloodstained door. The scene features realistic graphics with heavy shadows, dense fog effects, and eerie green emergency lighting flickering overhead.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Player's hand holding a flickering flashlight",
+    "Dark, abandoned hospital corridor",
+    "Sanity meter in the top-left corner",
+    "Limited battery indicator in the top-right corner",
+    "Inventory slots with medical supplies (bandages, syringes, pills) along the bottom of the screen",
+    "Pulsating heartbeat audio visualizer near the bottom-left",
+    "Contextual interaction prompt 'Examine Bloodstained Door' in the center of the screen",
+    "Bloodstained door",
+    "Heavy shadows and dense fog effects",
+    "Eerie green emergency lighting flickering overhead"
+  ],
+  "human_annotation": true
+}

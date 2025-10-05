@@ -1,0 +1,23 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": "Insert a new silent panel between panels 2 and 3 showing a close-up of two man in panel two hands touching and saying 'Hello'.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Insert a new comic panel between the existing second panel (the one with the woman and two green figures) and the third panel (the one with Captain Warwick), causing image 1 to expand horizontally. The new panel should be a close-up depicting the hands of the two green-skinned male figures from the existing second panel, shown in the act of touching. This new panel should be visually silent (i.e., contain no narrative captions or thought bubbles), but include a speech bubble or text overlay containing the word 'Hello', emanating from one of the hands.",
+  "annotator": "matina",
+  "objects": [
+    "First original comic panel (with woman and man talking)",
+    "Second original comic panel (with woman and two green-skinned male figures)",
+    "Third original comic panel (with Captain Warwick and messenger)",
+    "New comic panel, inserted horizontally between the second and third original panels",
+    "Close-up of two green-skinned male hands (in the new panel)",
+    "Hands in the act of touching (in the new panel)",
+    "Speech bubble (in the new panel), emanating from one of the hands",
+    "The word 'Hello' (inside the speech bubble)",
+    "Existing text captions and speech bubbles from the original comic panels"
+  ]
+}

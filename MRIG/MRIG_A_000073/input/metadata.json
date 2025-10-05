@@ -1,0 +1,24 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "Create a digital artwork combining elements from both images. Use the silhouette landscape composition from image 1, but fill the shapes with the vibrant colors and iridescent feather patterns from image 2, rendered in a modern digital illustration style.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a digital artwork. Adopt the entire compositional structure from image 1, which features a silhouetted landscape of rolling hills, a dense forest of various conifer trees, and a lone hiker ascending a path on the right. Rather than a solid black fill, infuse all these silhouette forms with the vibrant, iridescent blue and green color palette and intricate 'eye' patterns directly inspired by the fanned peacock feathers in image 2. The artwork should be rendered in a clean, modern digital illustration style.",
+  "annotator": "samin",
+  "objects": [
+    "Silhouetted rolling hills",
+    "Silhouetted dense forest",
+    "Silhouetted conifer trees",
+    "Silhouetted lone hiker on the right",
+    "Ascending path on the right",
+    "Vibrant, iridescent blue and green coloration on forms",
+    "Intricate 'eye' patterns on forms",
+    "Compositional structure from image 1",
+    "Solid black fill (should not be present)"
+  ]
+}

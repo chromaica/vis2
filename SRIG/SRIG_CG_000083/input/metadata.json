@@ -1,0 +1,27 @@
+{
+  "subtopic": "Facial estimation and analysis",
+  "prompt": "Computer graphics render of a 3D face model displaying real-time facial landmark estimation with glowing green points and connection lines, inspired by the reference image's overlay style.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://source.roboflow.com/P08NmGlpTesvU1ccT7Fn/3pAdoo8mSRS2mEnWsfZy/original.jpg",
+  "promptGeneratedTimestamp": 1748769591914,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a computer graphics render of a 3D human face model, presented in a frontal view and centered in the frame. The model should feature a real-time facial landmark estimation overlay. This overlay must consist of numerous small, glowing green points forming a dense mesh across the entire face, precisely defining contours for the eyes, nose, and mouth. A prominent, continuous glowing green line should outline the perimeter of the face. Additionally, subtle glowing green lines should connect specific landmark points to create delicate wireframe elements for facial features. The overall visual style, bright green color, density, and accurate placement of this overlay should directly emulate the green tracking overlay observed in image 1.",
+  "annotator": "ishengfang",
+  "objects": [
+    "3D human face model (rendered in computer graphics style)",
+    "Real-time facial landmark estimation overlay",
+    "Numerous small, glowing green points (as part of the overlay)",
+    "Dense mesh of glowing green points across the entire face",
+    "Glowing green point contours for eyes",
+    "Glowing green point contours for nose",
+    "Glowing green point contours for mouth",
+    "Prominent, continuous glowing green line outlining the perimeter of the face",
+    "Subtle glowing green wireframe elements for facial features"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

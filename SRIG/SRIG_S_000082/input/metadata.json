@@ -1,0 +1,26 @@
+{
+  "subtopic": "Software interfaces",
+  "prompt": "Take this project management tool's interface and redesign it for a coven of witches, with task lists written as potion ingredients and deadlines marked by moon phases.",
+  "cond_images": [
+    "1.jpeg"
+  ],
+  "remarks": "https://us1.discourse-cdn.com/asana/original/3X/6/5/65eeffe900da8fd79ac2533ce589ceb08726954d.jpeg",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a redesigned project management dashboard using image 1 as a structural reference. Transform the entire interface into one suitable for a coven of witches, adopting a dark, mystical, and arcane aesthetic. Incorporate textures such as aged parchment, dark wood, or polished obsidian, accented with subtle glowing magical effects and gothic or runic fonts throughout the UI.\n\nIn the top section:\n- Rename the 'Website Launch' project title (top-left) to a witchy project name (e.g., 'Grand Ritual Preparation' or 'Elixir of Immortality Brew').\n- Re-theme the navigation tabs (List, Board, Timeline, Calendar, Dashboard, Progress, More...) with mystical icons and a consistent witchy style.\n- Replace the user avatars (top-right) with stylized witch silhouettes or magical symbols, and re-skin the search bar, '+' button, and '?' icon with arcane designs (e.g., a cauldron for '+', a crystal ball for search).\n\nThe four task summary cards across the top row (currently displaying '26 Completed tasks', '17 Incomplete tasks', '5 Overdue tasks', and '43 Total tasks') must be re-labeled to reflect potion-making terminology. For example, 'Completed tasks' should become 'Brewed Potions', 'Incomplete tasks' become 'Uncollected Ingredients', and 'Overdue tasks' become 'Spoiled Concoctions'. The numerical values should remain clearly visible.\n\nFor the three charts in the middle row:\n1.  The 'Incomplete tasks by section' bar chart (middle-left) needs its section labels (Backlog, In Progress, In Review, Blocked, Testing) renamed to stages of potion creation (e.g., 'Gathering', 'Chopping', 'Boiling', 'Straining', 'Bottling').\n2.  The 'All tasks by completion status' donut chart (middle-center) should re-label 'Complete' as 'Potions Brewed' and 'Incomplete' as 'Ingredients Remaining'.\n3.  The 'Incomplete tasks by assignee' bar chart (middle-right) should replace the assignee avatars below the bars with witchy figures or symbols.\n\nIn the bottom section:\n1.  The 'Task completion over time' area chart (bottom-left) must visually incorporate moon phases (e.g., crescent, half, full moon icons) on its timeline or as distinct markers to represent progress and deadlines. Its 'Complete' and 'Incomplete' labels should also be rephrased in potion-making terms.\n2.  The 'Sum of estimated budget' and 'Sum of actual budget' section (bottom-right) should display magical currency or resource units (e.g., 'Crystals', 'Essence', 'Grimoire Pages') instead of dollars, with labels such as 'Anticipated Costs' and 'Expended Resources'.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Dark, mystical, and arcane dashboard interface with aged parchment, dark wood, or polished obsidian textures and glowing magical effects",
+    "Witchy project title (e.g., 'Grand Ritual Preparation') in the top-left",
+    "Navigation tabs with mystical icons and consistent witchy style",
+    "Top-right UI elements: arcane search bar, cauldron '+' button, arcane '?' icon, and stylized witch user symbols",
+    "Four potion-making task summary cards (e.g., 'Brewed Potions', 'Uncollected Ingredients', 'Spoiled Concoctions')",
+    "Bar chart showing potion creation stages (e.g., 'Gathering', 'Chopping', 'Boiling')",
+    "Donut chart showing 'Potions Brewed' and 'Ingredients Remaining'",
+    "Bar chart with witchy figures or symbols for assignees",
+    "Area chart incorporating moon phases on its timeline",
+    "Budget section displaying magical currency (e.g., 'Crystals', 'Essence') with 'Anticipated Costs' and 'Expended Resources' labels"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

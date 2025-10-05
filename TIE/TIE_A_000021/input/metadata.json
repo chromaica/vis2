@@ -1,0 +1,25 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Renaissance",
+  "prompt": "Change the object the man is holding to a modern vector heart shape, with vibrant deep red and pink colors. Create a constrast with the style and texture, while keeping the overall composition and background intact.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the circular object held by the man in the lower center with a modern vector heart shape. The heart should be vibrant deep red and pink, with a flat, digitally rendered style that starkly contrasts the traditional painting texture of image 1. Ensure the man's hands naturally hold the new heart, preserving the overall composition and background.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Man",
+    "Man's hands naturally holding the heart",
+    "Vibrant deep red and pink modern vector heart shape (flat, digitally rendered style)",
+    "Circular object (should not be present)",
+    "Landscape background",
+    "Sky with clouds",
+    "Red hat",
+    "Green cloak",
+    "Traditional painting texture (for man, hands, background, sky)",
+    "Red ring on man's finger"
+  ],
+  "human_annotation": true
+}

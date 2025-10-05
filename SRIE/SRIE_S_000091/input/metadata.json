@@ -1,0 +1,27 @@
+{
+  "subtopic": "Software interfaces",
+  "prompt": "Edit image 1: In the list view, replace the medical scan thumbnail previews (like X-rays) with the small car image previews from the 'Media' list shown in image 2, integrating them seamlessly into the UI layout.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1750835831162,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit image 1: In the central 'Study List' view, replace the medical scan thumbnail previews (like X-rays) found on the right side of each list item with the small car image previews from the 'Media' list shown in image 2. For each row, fill the existing thumbnail slots with a corresponding number of distinct car images from image 2. Ensure these car images are seamlessly integrated into the UI layout of image 1, maintaining the original size, aspect ratio, and alignment of the thumbnail frames by scaling the car images to fit precisely within them.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Study List application user interface",
+    "Distinct car image thumbnails",
+    "Patient name list entries",
+    "Medical scan thumbnail previews (should not be present)",
+    "\"Study List\" top header",
+    "Bottom action buttons (e.g., \"Finish study\", \"Create CD\")",
+    "Date and filter buttons (e.g., \"Today Feb 21, 2012\", \"All\")",
+    "Vertical scroll bar",
+    "Warning and information icons (yellow triangle, red 'i')",
+    "Search bar / patient ID input field"
+  ]
+}

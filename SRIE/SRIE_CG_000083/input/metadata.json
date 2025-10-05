@@ -1,0 +1,24 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Facial estimation and analysis",
+  "prompt": "Thin out the eyebrows in the masked area.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Thin out the subject's eyebrows, focusing the modification on the area indicated by the mask in image 2.",
+  "annotator": "nimajamali",
+  "objects": [
+    "man's face",
+    "man's hair",
+    "man's eyes",
+    "man's nose",
+    "man's mouth",
+    "man's thinned eyebrows",
+    "man's beard",
+    "white t-shirt",
+    "plain background"
+  ]
+}

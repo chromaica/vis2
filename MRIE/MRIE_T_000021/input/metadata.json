@@ -1,0 +1,24 @@
+{
+  "task": "MRIE",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "At the white space, add caption 'First time trying Church's Chicken'. Place the logo from the second image on Andy's face. Then, place the logo of the third image on Woody. Finally, replace Woody's face with the face from the fourth image, make sure the face is aligned with Woody's body and blend it seamlessly.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.jpg",
+    "4.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 (the Toy Story screenshot). At the top of image 1, in the white blank space above the characters, add the text caption 'First time trying Church's Chicken'. Overlay the Church's Chicken logo from image 2 onto Andy's face in image 1, scaling it appropriately to cover his entire face. Then, place the KFC text logo from image 3 onto Woody's face in image 1, scaling it to fit and completely obscuring his original face. Finally, replace Woody's face in image 1 with the Colonel Sanders face logo from image 4, ensuring the new face is correctly aligned with Woody's body and seamlessly blended to maintain a natural appearance.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Woody's body",
+    "Andy's body",
+    "\"I don't want to play with you anymore\" text",
+    "Room background (with wall, stars, window, posters)",
+    "\"First time trying Church's Chicken\" text caption at the top",
+    "Church's Chicken logo covering Andy's face",
+    "Colonel Sanders face logo replacing Woody's face"
+  ]
+}

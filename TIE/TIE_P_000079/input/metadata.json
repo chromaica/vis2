@@ -1,0 +1,25 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "replace the raw salmon on top into maguro",
+  "cond_images": [
+    "1.jpeg"
+  ],
+  "remarks": "yellow orange to red",
+  "prompt_refined": "Edit image 1: Replace all the raw salmon slices covering the sushi rolls with photorealistic maguro (tuna).",
+  "annotator": "theblackcat",
+  "objects": [
+    "photorealistic maguro (tuna) slices",
+    "sushi rolls",
+    "cucumber (inside sushi rolls)",
+    "cream cheese (inside sushi rolls)",
+    "sushi rice",
+    "black serving plate",
+    "wooden surface",
+    "dark green background",
+    "raw salmon slices (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

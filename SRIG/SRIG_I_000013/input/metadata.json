@@ -1,0 +1,21 @@
+{
+  "subtopic": "Maps",
+  "prompt": "Create a detailed illustration of a futuristic city's transport network, with flying vehicles and high-speed trains, using the layout and intersections from the provided map of the Roman road system.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://upload.wikimedia.org/wikipedia/commons/4/42/Roman_roads_around_Rome.png",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate a detailed information graphic illustrating a futuristic city's advanced transport network. The visual structure and all major intersections of this network must precisely follow the radial layout of the Roman road system depicted in image 1. Populate this futuristic network with sleek, high-speed trains traversing the primary routes and futuristic flying vehicles dynamically navigating the skies, especially congregating around the central hub and major intersection points. The overall visual style should be clean, high-tech, and reminiscent of a modern transit map.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Futuristic transport network lines with a radial layout",
+    "Futuristic central transport hub",
+    "Major futuristic network intersection points",
+    "Sleek, high-speed trains traversing primary routes",
+    "Futuristic flying vehicles, especially congregating around the central hub",
+    "Futuristic flying vehicles, especially congregating around major intersection points",
+    "Sky/atmospheric background for flying vehicles"
+  ]
+}

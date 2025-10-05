@@ -1,0 +1,27 @@
+{
+  "subtopic": "Stylized art",
+  "prompt": "Modify image 1's stylized cat artwork by applying the color palette from image 2. Recolor the geometric shapes of the cat face using the earthy tones from image 2, preserving the original artistic style.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748652941521,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1, the stylized cat artwork, by applying the earthy color palette from image 2. Specifically, recolor the fragmented geometric shapes that form the cat's fur and facial features (excluding the prominent blue eyes) using the browns, greens, and creams from image 2, while maintaining the original artistic style and texture.",
+  "annotator": "kellycyy",
+  "objects": [
+    "Stylized cat artwork",
+    "Fragmented geometric shapes",
+    "Cat's fur",
+    "Cat's facial features (excluding eyes)",
+    "Prominent blue cat eyes",
+    "Brown color palette",
+    "Green color palette",
+    "Cream color palette",
+    "Original artistic style",
+    "Original texture"
+  ]
+}

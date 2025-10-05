@@ -1,0 +1,28 @@
+{
+  "subtopic": "Object detection visuals",
+  "prompt": "Generate a realistic street scene image overlaid with computer graphics demonstrating object detection. The image should feature bounding boxes and text labels highlighting vehicles and traffic infrastructure, mimicking the style of a real-time detection system output on a busy road.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://miro.medium.com/v2/resize:fit:1400/1*pfUPHeWE2u6xEi9n1z5TlQ.jpeg",
+  "promptGeneratedTimestamp": 1748766078240,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a new image based on image 1, depicting a realistic daytime street scene at a busy intersection under a clear blue sky. Overlay the scene with computer graphics that perfectly mimic a real-time object detection system's output. The overlay should feature:\n- Green bounding boxes with white text labels reading 'truck' around the trucks, specifically the large truck on the middle-right and the smaller truck in the middle-left lanes.\n- Yellow bounding boxes with white text labels reading 'car' around the white car on the far left and the silver station wagon on the far right.\n- Blue text labels reading 'traffic light' in the upper-left corner and near the center-right traffic pole.\nEnsure the bounding boxes and text labels appear as a distinct, digitally rendered overlay on the realistic street scene, consistent with a live computer vision display.",
+  "annotator": "ishengfang",
+  "objects": [
+    "realistic daytime street scene at a busy intersection",
+    "clear blue sky",
+    "large truck on the middle-right",
+    "smaller truck in the middle-left lanes",
+    "white car on the far left",
+    "silver station wagon on the far right",
+    "green bounding boxes with white text labels 'truck'",
+    "yellow bounding boxes with white text labels 'car'",
+    "blue text label 'traffic light' in the upper-left corner",
+    "blue text label 'traffic light' near the center-right traffic pole"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

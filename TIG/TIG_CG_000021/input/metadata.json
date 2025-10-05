@@ -1,0 +1,16 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "3D renders",
+  "prompt": "A low-poly stylized well-modeled wooden treasure chest, FBX-ready, game-ready topology.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A low-poly, stylized wooden treasure chest, meticulously modeled with clean, optimized geometry suitable for a video game. Rendered as a high-quality 3D asset.",
+  "annotator": "maxku",
+  "objects": [
+    "treasure chest",
+    "low-poly style",
+    "stylized design",
+    "wooden texture"
+  ]
+}

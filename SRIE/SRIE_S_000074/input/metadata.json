@@ -1,0 +1,28 @@
+{
+  "subtopic": "Websites",
+  "prompt": "Edit image 1: Replace the grid of artist photos with colorful, illustrative circular icons. Apply the vibrant, varied style and arrangement of icons from image 2, adapting the themes to music and performance contexts for image 1.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1750834457828,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit image 1: Replace the grid of rectangular artist photos in the 'Nos artistes' section on the right side of the page with colorful, illustrative circular icons. Apply the vibrant aesthetic, illustrative style, and varied, overlapping arrangement of icons from image 2. The content within these new icons should depict themes related to music and performance, such as instruments, stage elements, or performers.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Dark webpage layout",
+    "Tribu logo (top left)",
+    "\"Espace Diffuseurs\" section on the left",
+    "\"Nos artistes\" heading on the right",
+    "Colorful, illustrative circular icons in the \"Nos artistes\" section",
+    "Icons depicting music and performance themes (e.g., instruments, stage elements)",
+    "Varied, overlapping arrangement of icons",
+    "\"Contact\" section",
+    "Grid of rectangular artist photos (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

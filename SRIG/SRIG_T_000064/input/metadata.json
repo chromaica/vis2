@@ -1,0 +1,25 @@
+{
+  "task": "SRIG",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "Adopt the typography style layout to Design an elegant wedding invitation.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate an elegant wedding invitation design. The design must adopt the bold, deconstructed, and geometric typography style layout found in image 1, utilizing its prominent color palette of red, dark grey/black, and off-white. Feature large, abstract typographic elements from image 1 as key visual motifs. Integrate placeholder text for wedding details (e.g., 'Bride & Groom Names', 'Date', 'Venue') using a clean, modern sans-serif font. Ensure a sophisticated and balanced composition with strong lines, overlapping geometric shapes, and graphic layering characteristic of image 1, creating a distinctive and modern invitation.",
+  "annotator": "Johnny",
+  "objects": [
+    "Elegant wedding invitation design",
+    "Red, dark grey/black, and off-white color palette",
+    "Large, abstract typographic elements",
+    "Deconstructed geometric typography style layout",
+    "Strong lines",
+    "Overlapping geometric shapes",
+    "Graphic layering",
+    "Placeholder text for wedding details (e.g., 'Bride & Groom Names', 'Date', 'Venue')",
+    "Clean, modern sans-serif font for placeholder text",
+    "Balanced composition"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "\u201cLeft button to \u2018Write unit tests\u2019, right button to \u2018Push untested code\u2019.\u201d",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit source image 1. On the blank white label located above the left red button, add the textual graphic 'Write unit tests'. On the blank white label located above the right red button, add the textual graphic 'Push untested code'. Use image 2 as a precise spatial reference to guide the placement and ensure the text content appears accurately within the designated white areas. The added text should maintain a clear, simple, and legible font style consistent with typical meme captions.",
+  "annotator": "matina",
+  "objects": [
+    "control panel",
+    "left white label",
+    "right white label",
+    "left red button",
+    "right red button",
+    "hand pointing at the right red button",
+    "sweating man",
+    "white cloth/tissue",
+    "text 'Write unit tests' on the left white label",
+    "text 'Push untested code' on the right white label"
+  ]
+}

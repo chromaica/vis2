@@ -1,0 +1,27 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "Recognize the river in the map and fill the color of the river with green color.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 2, the map of Kennedy Town, by identifying the body of water corresponding to Belcher Bay, located along the left and top-left edge of the map. Change the color of this entire water body to a uniform green. Use image 1 as a reference to apply a flat and consistent color fill to the water area.",
+  "annotator": "Johnny",
+  "objects": [
+    "Map of Kennedy Town (excluding Belcher Bay)",
+    "Belcher Bay (water body) colored uniform green",
+    "Kennedy Town MTR Station text",
+    "\u5805\u5c3c\u5730\u57ce\u6e2f\u9435\u7ad9 (Kennedy Town MTR Station Chinese text)",
+    "MTR line (purple dashed)",
+    "MTR station entrance icon (green 'C')",
+    "Buildings",
+    "Roads",
+    "Belcher Bay Promenade, Kennedy Town text",
+    "Arrow pointing to Belcher Bay Promenade"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

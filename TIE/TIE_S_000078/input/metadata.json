@@ -1,0 +1,23 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "Replace the product images with characters from a popular video game.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the product image of the black motorcycle jacket in the left card with a character from a popular video game. Similarly, replace the product image of the woman in the white faux fur coat in the right card with a different character from a popular video game. Ensure the new character images fit within the existing product image frames.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Screenshot of a web design application",
+    "Left product card",
+    "Right product card",
+    "A video game character in the left product card's image frame",
+    "A different video game character in the right product card's image frame",
+    "Purple background with a grid pattern",
+    "Pink and purple abstract shape",
+    "Text content of the left product card",
+    "Text content of the right product card"
+  ]
+}

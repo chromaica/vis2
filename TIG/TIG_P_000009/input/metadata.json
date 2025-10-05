@@ -1,0 +1,19 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "An abandoned amusement park, rusted rides and overgrown",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A photorealistic image of a desolate, abandoned amusement park. Heavily rusted roller coaster tracks and a derelict Ferris wheel stand amidst overgrown, wild vegetation, with thick vines and tall grass reclaiming walkways and structures throughout the park.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Heavily rusted roller coaster tracks",
+    "Derelict Ferris wheel",
+    "Overgrown wild vegetation",
+    "Thick vines",
+    "Tall grass",
+    "Reclaimed walkways",
+    "Reclaimed amusement park structures"
+  ]
+}

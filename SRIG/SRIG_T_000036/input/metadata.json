@@ -1,0 +1,27 @@
+{
+  "subtopic": "Typography",
+  "prompt": "Create a Textual Graphics typography design featuring a large letter or word within the outline shape from the reference image, using the red and white stripes as a dynamic background element.",
+  "cond_images": [
+    "1.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1750705334071,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "T",
+  "annotator": "winston",
+  "prompt_refined": "Generate a textual graphics typography design. The primary visual element is a background composed of vertical red and white stripes, consistent with the hand-painted, slightly uneven style seen in image 1. Centrally superimposed on this striped background, include a wobbly, hand-drawn speech bubble outline, mirroring the shape and placement of the black outline from image 1. Within this speech bubble outline, prominently feature a large, bold single letter or a short word, rendered in a high-contrast color such as black, filling the interior space of the bubble in place of the heart shown in image 1.",
+  "objects": [
+    "Background",
+    "Vertical red and white stripes on the background",
+    "Hand-painted, slightly uneven stripe style",
+    "Wobbly, hand-drawn speech bubble outline",
+    "Black speech bubble outline",
+    "Speech bubble outline centrally superimposed",
+    "Large, bold single letter or short word",
+    "High-contrast color for the letter/word",
+    "Black heart (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

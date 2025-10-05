@@ -1,0 +1,20 @@
+{
+  "subtopic": "CAD models",
+  "prompt": "Using the composition of the reference image, generate an image featuring a hand holding a device outdoors. Display a detailed computer graphics rendering of a complex 3D CAD model on the screen of the device.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1m9ZQckotV91oS1fvNlobCzraJfmiBN60xQ&s",
+  "promptGeneratedTimestamp": 1748766939364,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Create an image that emulates the composition and perspective of image 1. It should feature a human hand holding a white smartphone outdoors against a natural green foliage background. On the screen of the smartphone, display a highly detailed, realistic computer graphics rendering of a complex 3D CAD model, such as an intricate mechanical assembly or an architectural structure.",
+  "annotator": "ishengfang",
+  "objects": [
+    "human hand",
+    "white smartphone",
+    "natural green foliage background",
+    "highly detailed, realistic computer graphics rendering of a complex 3D CAD model (e.g., intricate mechanical assembly or architectural structure) on the smartphone screen"
+  ]
+}

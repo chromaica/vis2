@@ -1,0 +1,23 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": "Transform the featured news images into artistic Renaissance paintings.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Transform the six distinct news image thumbnails displayed on the page (the three in the top row, and the three in the row directly below them) into artistic Renaissance paintings, while preserving the surrounding web browser interface and layout.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Web browser interface and overall webpage layout",
+    "First news image thumbnail containing an artistic Renaissance painting",
+    "Second news image thumbnail containing an artistic Renaissance painting",
+    "Third news image thumbnail containing an artistic Renaissance painting",
+    "Fourth news image thumbnail containing an artistic Renaissance painting",
+    "Fifth news image thumbnail containing an artistic Renaissance painting",
+    "Sixth news image thumbnail containing an artistic Renaissance painting"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

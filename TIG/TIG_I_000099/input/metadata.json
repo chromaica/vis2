@@ -1,0 +1,24 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Visual instructions and manuals",
+  "prompt": "Step-by-step visual guide for performing brain surgery illustrated as a cheerful children's cookbook with cartoon characters and bright colors",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a step-by-step visual guide, formatted as a cheerful children's cookbook page titled 'Brain Surgery'. The guide should feature multi-panel illustrations, with each step clearly numbered and accompanied by simplified, child-friendly depictions of surgical actions. Friendly, anthropomorphic cartoon characters, such as animals or imaginative creatures, are depicted performing these procedures with playful expressions. The entire artwork must utilize a vibrant and highly saturated color palette, dominated by bright primary and secondary colors, evoking a whimsical and fun atmosphere.",
+  "annotator": "theblackcat",
+  "objects": [
+    "children's cookbook page format",
+    "title: 'Brain Surgery'",
+    "multi-panel illustrations",
+    "numbered steps",
+    "simplified, child-friendly depictions of surgical actions",
+    "friendly, anthropomorphic cartoon characters",
+    "anthropomorphic animals or imaginative creatures",
+    "cartoon characters with playful expressions",
+    "vibrant and highly saturated color palette",
+    "dominant bright primary and secondary colors"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

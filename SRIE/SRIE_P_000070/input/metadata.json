@@ -1,0 +1,21 @@
+{
+  "task": "SRIE",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Remove the detected people and inpaint the background sand and sea.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Perform a photorealistic image edit on image 1. Remove all six individuals currently present in the midground, from the leftmost person to the rightmost person. Use the bounding box detections in image 2 to precisely identify the 'detected people' for removal. After removal, seamlessly inpaint the vacated areas with the existing sand and sea background, ensuring the newly inpainted regions match the surrounding environment's photorealistic quality, lighting, and textures.",
+  "annotator": "nimajamali",
+  "objects": [
+    "sandy beach",
+    "clear blue-green sea",
+    "blue sky",
+    "distant boats",
+    "six individuals (should not be present)"
+  ],
+  "human_annotation": true
+}

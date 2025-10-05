@@ -1,0 +1,23 @@
+{
+  "subtopic": "Depth maps",
+  "prompt": "Edit image 1: Generate a depth-aware render using lighting. Apply a black and white filter referencing image 2, adjusting depth-based lighting. Enhance perceived depth and add dramatic shadows like image 3, separating the bird and branch from the background.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748456567323,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1: Rerender the scene of the canary on the branch into a depth-aware monochromatic image, adopting the black and white aesthetic of image 2. Employ depth-based lighting to create strong perceived depth and introduce dramatic, high-contrast shadows similar to those observed in image 3, ensuring the bird and the branch are sharply separated from the background cage.",
+  "annotator": "winston",
+  "objects": [
+    "canary",
+    "branch",
+    "cage background",
+    "high-contrast shadows",
+    "black and white tones"
+  ]
+}

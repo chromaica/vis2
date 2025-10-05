@@ -1,0 +1,23 @@
+{
+  "task": "SRIG",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "generate a poster with the same visual style and layout as the reference image, featuring the message 'Buying human labeling' and incorporating similar design elements but with a fresh color scheme",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a poster that mimics the graphic style and compositional layout of image 1. The poster should feature a velociraptor head with a paw under its chin, embodying a contemplative pose, similar to image 1. The background must retain its distinctive two-tone vertical split. The central message 'Buying human labeling' should be prominently displayed, positioned either above the velociraptor, below it, or both, consistent with meme-style text placement. Apply an entirely fresh and distinct color scheme to the entire poster, deviating from the green tones of image 1. The velociraptor should be rendered with a new primary fill color and contrasting outline/detail color, and the two background sections should utilize two new, complementary colors.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Velociraptor head",
+    "Velociraptor paw under chin",
+    "Contemplative pose (for the velociraptor)",
+    "Two-tone background",
+    "Vertical split in background",
+    "Text: \"Buying human labeling\"",
+    "Text positioned above velociraptor (consistent with meme-style text placement)",
+    "Text positioned below velociraptor (consistent with meme-style text placement)"
+  ],
+  "human_annotation": true
+}

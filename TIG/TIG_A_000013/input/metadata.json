@@ -1,0 +1,23 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "Vibrant abstract cityscape with neon lights reflecting off rainy streets, evoking a futuristic atmosphere.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A vibrant, abstract cityscape with towering, futuristic structures illuminated by an intricate network of glowing neon lights in electric blues, radiant purples, and luminous greens. The wet streets in the foreground prominently display elongated, shimmering reflections of these vibrant neon lights on their slick surface and in puddles. The overall composition conveys a dynamic and distinctly futuristic atmosphere.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Abstract cityscape",
+    "Towering futuristic structures",
+    "Glowing neon lights",
+    "Electric blue neon lights",
+    "Radiant purple neon lights",
+    "Luminous green neon lights",
+    "Wet streets in the foreground",
+    "Elongated reflections of neon lights on streets",
+    "Puddles with reflections"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

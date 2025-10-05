@@ -1,0 +1,29 @@
+{
+  "subtopic": "Object detection visuals",
+  "prompt": "Edit image 1: Place the birds from image 2, image 3, image 4, and image 5 onto the train car surface. Generate simulated object detection bounding boxes and class labels around each added bird and the existing graffiti.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg",
+    "4.jpeg",
+    "5.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749067228822,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1 (the train car) by placing the birds from image 2 (yellow finch), image 3 (red finch), image 4 (grey junco), and image 5 (blue indigo bunting) onto various locations across its side surface. Additionally, for each of the newly placed birds and for the existing graffiti on image 1, generate a simulated object detection bounding box with a corresponding class label (e.g., 'bird', 'graffiti').",
+  "annotator": "winston",
+  "objects": [
+    "train car",
+    "existing graffiti on train car",
+    "yellow finch on train car",
+    "red finch on train car",
+    "grey junco on train car",
+    "blue indigo bunting on train car",
+    "object detection bounding boxes and 'bird' labels for the finches, junco, and bunting",
+    "object detection bounding box and 'graffiti' label for the existing graffiti"
+  ],
+  "human_annotation": true
+}

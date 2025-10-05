@@ -1,0 +1,26 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Recolor all primary buttons, links, and icons to use pink palette.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Recolor all primary interactive UI elements to use a pink palette. This includes the 'Header A' button at the top, the 'Call to action' button in the center, and within the lower white text box, recolor the 'Standard Button', 'Transparent Button', 'Success Button', the flag icon, and the 'Link' text.",
+  "annotator": "matina",
+  "objects": [
+    "'Header A' button (pink palette)",
+    "'Call to action' button (pink palette)",
+    "'Standard Button' (pink palette)",
+    "'Transparent Button' (pink palette)",
+    "'Success Button' (pink palette)",
+    "Flag icon (pink palette)",
+    "'Link' text (pink palette)",
+    "'bubble' logo",
+    "\"Welcome to your Bubble app!\" title text",
+    "Mountains, lake, and sky background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

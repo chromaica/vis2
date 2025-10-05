@@ -1,0 +1,24 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "In image 1, make the woman wear the headphones from image 2, and replace the background with the sea background from image 3.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Make the woman wear the blue wireless over-ear headphones from image 2, positioning them over her ears. Replace the current background of image 1 entirely with the sunny beach and calm sea scene from image 3, including the sky and seagulls.",
+  "annotator": "paria",
+  "objects": [
+    "Woman",
+    "Blue wireless over-ear headphones (positioned over her ears)",
+    "Sunny beach",
+    "Calm sea",
+    "Sky",
+    "Seagulls",
+    "Woman's glasses",
+    "Original background of image 1 (should not be present)"
+  ]
+}

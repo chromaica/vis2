@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "A receips about buying 3 yakitori each cost about 2 USD with 18 percent tips. The receipts has a coffee stain on the bottom right part.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a detailed receipt for the purchase of 3 yakitori, with each yakitori costing 2 USD and an additional 18 percent tip applied. A distinct coffee stain should be visible on the bottom right portion of the receipt.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Detailed receipt",
+    "Itemized list for 3 yakitori",
+    "Price information for yakitori (2 USD each)",
+    "Subtotal amount on receipt",
+    "Tip calculation (18 percent) on receipt",
+    "Total amount on receipt",
+    "Coffee stain",
+    "Coffee stain on the bottom right of the receipt"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

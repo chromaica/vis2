@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Chat and Social Messaging",
+  "prompt": "In first image image, add the love eyes emoji from second image to the existing tapback bar between the red heart and the laughing emoji with the same size of other emojis, and place the blue mail icon with the '4' red badge from the third image in the top-left corner of the phone screen as a mock push notification.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Insert the love eyes emoji from image 2 into the existing tapback bar, positioning it between the red heart emoji and the laughing emoji. Ensure its size matches the other emojis present on the bar. Additionally, place the blue mail icon with the '4' red badge from image 3 in the top-left corner of the phone screen, simulating a push notification.",
+  "annotator": "parnian",
+  "objects": [
+    "Phone screen/interface",
+    "Status bar (top of screen)",
+    "Text message bubble (\"How could my day will be good without you \ud83d\ude2d\")",
+    "Tapback bar",
+    "Thumbs up emoji (on tapback bar)",
+    "Red heart emoji (on tapback bar)",
+    "Love eyes emoji (on tapback bar, between the red heart and laughing emoji)",
+    "Laughing emoji (on tapback bar)",
+    "Remaining tapback emojis (surprised, sad, praying hands, person raising hand, plus sign)",
+    "Blue mail icon with '4' red badge (in the top-left corner of the phone screen)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

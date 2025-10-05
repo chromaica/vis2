@@ -1,0 +1,26 @@
+{
+  "subtopic": "Shader Programming",
+  "prompt": "Apply a procedural rust shader effect to the vehicle's metal parts, making them appear significantly corroded and weathered.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751812396957,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1. Apply a severe, realistic rust and weathering effect to all metal components of the vehicle, including the body panels, chassis, roof rack, and antenna. The vehicle should appear significantly corroded and heavily weathered.",
+  "annotator": "edisy",
+  "objects": [
+    "Modified Volkswagen van",
+    "Vehicle body panels",
+    "Vehicle chassis",
+    "Roof rack",
+    "Antenna",
+    "Wheels",
+    "Headlights",
+    "Protective window mesh",
+    "Side-mounted tools",
+    "Dark, smoky background"
+  ]
+}

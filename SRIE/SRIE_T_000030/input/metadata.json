@@ -1,0 +1,22 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "Remap all poster colors via this LUT, giving the text and background that cinematic teal-orange look",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 (the vintage movie poster) by remapping its entire color palette. Apply the color transformation indicated by image 2 (the visual LUT reference) to give the poster's text, background, and all other elements a cinematic teal and orange look.",
+  "annotator": "matina",
+  "objects": [
+    "vintage movie poster",
+    "text on the poster",
+    "male figure",
+    "female figure",
+    "stars",
+    "background",
+    "white border of the poster"
+  ]
+}

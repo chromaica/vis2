@@ -1,0 +1,20 @@
+{
+  "subtopic": "Mesh Processing",
+  "prompt": "Apply a detailed marble texture to the surface of the 3D bunny mesh.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751762446492,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1, which displays a gray, triangulated 3D bunny mesh, by applying a detailed marble texture to its entire surface.",
+  "annotator": "edisy",
+  "objects": [
+    "3D bunny model",
+    "Detailed marble texture",
+    "Triangulated surface",
+    "Black background"
+  ]
+}

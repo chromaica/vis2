@@ -1,0 +1,25 @@
+{
+  "subtopic": "Software interfaces",
+  "prompt": "Edit image 1: Transform the software interface to adopt the modern, futuristic dark theme and glowing neon pink/blue accent colors seen in image 2, applying the sleek aesthetic to the existing layout and components.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751005790187,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Transform the software interface displayed in image 1. Redesign all its elements, including the window frame, title bar, menu, toolbar icons, the tree view on the left, input fields, buttons, and data tables ('Cations' and 'Anions'), to adopt a modern, futuristic dark theme. Incorporate the sleek aesthetic and prominent glowing neon pink and blue/cyan accent colors, drawing heavily from the visual style and luminescence observed in the reference image 2.",
+  "annotator": "ishengfang",
+  "objects": [
+    "window frame",
+    "title bar",
+    "menu",
+    "toolbar icons",
+    "tree view on the left",
+    "input fields",
+    "buttons",
+    "data tables"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "subtopic": "Object detection visuals",
+  "prompt": "Create an object detection visual showing the grumpy cat character from image 1 and a simplified human face inspired by image 2, rendered in the illustration style of image 1, with bounding boxes and labels indicating the detected objects.",
+  "cond_images": [
+    "1.png",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748423000002,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate an object detection visual. The image should feature the grumpy cat character from image 1, positioned prominently on the left. On the right, include a simplified human face inspired by the facial features of image 2. Both the grumpy cat and the human face must be rendered in the distinctive illustration style of image 1, characterized by its clean lines, flat colors, and bold outlines. Overlay the scene with clear bounding boxes around both the grumpy cat and the human face, each accompanied by a text label indicating the detected object (e.g., 'Grumpy Cat' and 'Human Face').",
+  "annotator": "winston",
+  "objects": [
+    "Grumpy Cat character (prominently on the left)",
+    "Simplified human face (on the right)",
+    "Bounding box around the Grumpy Cat",
+    "Text label 'Grumpy Cat'",
+    "Bounding box around the human face",
+    "Text label 'Human Face'"
+  ]
+}

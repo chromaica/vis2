@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "Generate a screenshot of a game set in a post-apocalyptic cityscape environment with ruined buildings from the first image and featuring survival tools from the second image.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a game screenshot depicting a desolate post-apocalyptic cityscape. The environment should feature towering, ruined concrete buildings heavily overgrown with dense, wild vegetation and littered with debris, strongly reflecting the architectural decay and atmospheric mood seen in image 1. Additionally, the scene must prominently display a collection of diverse, makeshift survival tools and weapons, similar in style and type to the items shown in image 2, including a shotgun, a spiked baseball bat, an axe, and a scythe, all clearly visible within the game's setting.",
+  "annotator": "paria",
+  "objects": [
+    "desolate post-apocalyptic cityscape",
+    "towering, ruined concrete buildings",
+    "dense, wild vegetation overgrowing buildings",
+    "debris littered on the ground",
+    "makeshift survival tools and weapons",
+    "a shotgun",
+    "a spiked baseball bat",
+    "an axe",
+    "a scythe"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

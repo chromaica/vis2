@@ -1,0 +1,22 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Image Transformation",
+  "prompt": "Crop the source image to have similar framing as the reference.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 by cropping it to achieve a similar close-up, portrait-style framing as seen in image 2. The crop should tightly frame the woman's face, with her head occupying most of the vertical space, mirroring the composition of the man's face in image 2.",
+  "annotator": "nimajamali",
+  "objects": [
+    "woman's face",
+    "woman's head",
+    "woman's brown hair",
+    "woman's neck",
+    "woman's upper shoulder",
+    "mustard-colored striped sweater (upper part)",
+    "earring"
+  ]
+}

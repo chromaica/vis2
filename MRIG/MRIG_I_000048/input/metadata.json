@@ -1,0 +1,31 @@
+{
+  "subtopic": "Icons and symbols",
+  "prompt": "Create a set of information graphic icons focusing on finance and business themes, drawing subject matter inspiration from the elements depicted in image 1 (e.g., wallet, currency, stock chart, lock). Render these icons using the distinct outline style with a two-color fill, specifically adopting the teal and yellow color palette found in image 2. Arrange this collection of icons cleanly on a neutral background.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "Information Graphics Icon Set",
+  "searchQueryGeneratedTimestamp": 1752290028963,
+  "promptGeneratedTimestamp": 1752290133031,
+  "promptLengthUsed": "long",
+  "task": "MRIG",
+  "topic": "I",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a collection of 16 financial and business-themed information graphic icons. Each icon should draw subject matter inspiration from the elements depicted in image 1, such as credit cards, various currency symbols (dollar, euro, pound, yen), wallets, locks, bar charts, and scales. Render these icons in a distinct outline style with a two-color fill, specifically adopting the teal and yellow color palette found in image 2. Arrange these 16 icons neatly in a 4x4 grid on a light, neutral background.",
+  "objects": [
+    "16 financial and business-themed information graphic icons",
+    "Credit card icon",
+    "Currency symbol icons (dollar, euro, pound, yen)",
+    "Wallet icon",
+    "Lock icon",
+    "Bar chart icon",
+    "Scale icon",
+    "Teal color",
+    "Yellow color",
+    "Icons arranged in a 4x4 grid"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

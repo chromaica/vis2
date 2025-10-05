@@ -1,0 +1,20 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Replace the character avatars with corresponding mythological creature icons, keeping the relationships intact.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Identify each of the eight distinct character avatars arranged circularly around the central white area of the relationship chart. For each avatar, replace it with a unique mythological creature icon. Ensure the new mythological creature icon maintains the exact position and scale of the original character avatar. All existing colored lines and arrows connecting the avatars, the legend on the right showing relationship types, and the title text 'Arcane Odyssey OC Relationship Chart' at the bottom must remain completely unchanged, preserving the original chart's structure and relationships.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Eight unique mythological creature icons arranged circularly",
+    "Colored lines and arrows connecting the icons",
+    "Legend on the right with relationship types and color squares (Crush, Best Friends, Friends, Admires, Acquaintance, Dislikes, Hates, It's Complicated\u2122)",
+    "Title text \"Arcane Odyssey OC Relationship Chart\" at the bottom",
+    "Central white circular area",
+    "Grey background"
+  ]
+}

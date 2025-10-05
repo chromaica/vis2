@@ -1,0 +1,23 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "Replace the atom with a 3-layer neural net diagram, and draw signal-flow arrows between nodes.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the central atom diagram with a 3-layer neural network diagram. The neural network should clearly depict three distinct layers of nodes, and include signal-flow arrows indicating connections between nodes in adjacent layers.",
+  "annotator": "matina",
+  "objects": [
+    "ATOM title",
+    "3-layer neural network diagram",
+    "Neural network nodes",
+    "Signal-flow arrows",
+    "Central atom diagram (should not be present)",
+    "PROTON label (should not be present)",
+    "NEUTRON label (should not be present)",
+    "NUCLEUS label (should not be present)",
+    "ELEKTRON label (should not be present)"
+  ]
+}

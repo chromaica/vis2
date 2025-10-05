@@ -1,0 +1,24 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Traditional art",
+  "prompt": "An Indian crafting henna design with intricate floral patterns",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate an image of an Indian person crafting a henna design with intricate floral and traditional patterns on a hand, referencing the detailed styles and compositions seen in image 1.",
+  "annotator": "Johnny",
+  "objects": [
+    "Indian person",
+    "Hand being decorated with henna",
+    "Intricate floral henna patterns",
+    "Traditional henna patterns",
+    "Henna cone",
+    "Hand of the person applying henna",
+    "Fingers decorated with henna",
+    "Ring(s) on hand"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

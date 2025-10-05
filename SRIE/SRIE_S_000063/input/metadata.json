@@ -1,0 +1,27 @@
+{
+  "subtopic": "Games",
+  "prompt": "Modify the UI in image 1 by incorporating the detailed RPG-style health and skill bar layout from image 2, blending it with the existing FPS interface elements.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1750833715685,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit image 1. Replace the current health display (green bar and '400') in the bottom-left corner with the detailed RPG-style health bar, XP bar, and level indicator (e.g., 'Level 11', '1,147') from the top-left of image 2. Additionally, integrate the complete RPG-style skill bar, including all ability icons and the central red and blue orb, from the bottom-center of image 2 into the bottom-center area of image 1. Position this skill bar above the existing ammo counter ('25/100') while ensuring it blends seamlessly with the surrounding FPS interface elements in image 1.",
+  "annotator": "ishengfang",
+  "objects": [
+    "RPG-style health bar, XP bar, and level indicator in the bottom-left corner",
+    "RPG-style skill bar with ability icons and central red and blue orb in the bottom-center",
+    "Ammo counter ('25/100') below the skill bar",
+    "Character's arm and weapon (scoped rifle)",
+    "Beach environment with barbed wire and sandbags",
+    "Planes in the sky",
+    "Ocean",
+    "Top-right interface elements (e.g., team scores, map icon)",
+    "Right-side interface elements (e.g., grenade, hammer icons)",
+    "Green health bar and '400' in the bottom-left corner (should not be present)"
+  ]
+}

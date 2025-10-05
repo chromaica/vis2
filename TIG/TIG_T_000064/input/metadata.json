@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Design a graphic for 'Authentic Voice'. The text should have a distressed vintage letterpress appearance, using deep black ink with subtle bleed and a noticeable debossed texture on the paper. This is set on a high-quality, thick cream paper with visible fiber texture and a soft vignette, emphasizing a classic, handcrafted branding feel.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate an image featuring the phrase \"Authentic Voice.\" The text should be rendered in a distressed vintage letterpress style with deep black ink, showing subtle bleed and a distinct debossed texture. It should be centered on a thick, high-quality cream paper, exhibiting visible fiber texture and framed by a soft vignette. The overall image should evoke a classic, handcrafted branding feel.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Phrase \"Authentic Voice\"",
+    "Distressed vintage letterpress text style",
+    "Deep black ink on text",
+    "Subtle ink bleed on text",
+    "Debossed texture on text",
+    "Thick cream paper",
+    "Visible paper fiber texture on paper",
+    "Soft vignette",
+    "Centered text on paper"
+  ],
+  "human_annotation": true
+}

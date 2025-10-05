@@ -1,0 +1,24 @@
+{
+  "subtopic": "Maps",
+  "prompt": "Design a futuristic, high-tech military command center with a central holographic map table. The map displayed should show troop movements and strategic points, laid out according to the provided historical battle map of Gettysburg.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://th-thumbnailer.cdn-si-edu.com/4le7UedlfkZebR7TXHDOGzQefX0=/1072x720/filters:no_upscale()/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/22/43/2243a018-5b45-4785-b549-f1349f296f70/screen_shot_2014-01-22_at_55409_pm.png",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate an image of a futuristic, high-tech military command center. In the center of the room, there should be a prominent, large holographic map table. The holographic map displayed on this table must vividly replicate the exact layout, terrain features (like forests, rivers, roads, and buildings), strategic points, and especially the red and blue troop movements and formations as depicted in image 1 (the historical battle map of Gettysburg). All elements on the holographic map should be rendered as dynamic, translucent, and glowing projections, conveying a sense of advanced information display.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "futuristic, high-tech military command center",
+    "prominent, large holographic map table in the center",
+    "holographic map display on the table",
+    "holographic replication of Gettysburg map layout",
+    "holographic forests (as depicted in image 1)",
+    "holographic rivers (as depicted in image 1)",
+    "holographic roads (as depicted in image 1)",
+    "holographic buildings (as depicted in image 1)",
+    "holographic red troop movements and formations (as depicted in image 1)",
+    "holographic blue troop movements and formations (as depicted in image 1)"
+  ]
+}

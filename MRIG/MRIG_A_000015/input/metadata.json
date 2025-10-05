@@ -1,0 +1,28 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Stylized art",
+  "prompt": "Create a stylized artwork of a tree, using the geometric painting style and background from image 3. Incorporate the tree structure from image 1 and the vibrant autumn color palette of image 2, adding a sense of watercolor looseness.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a stylized artwork of a tree. The background should adopt the geometric painting style and polygonal patterns from image 3, featuring its distinct shades of green, yellow, and blue. The tree's trunk and branching structure should be directly inspired by image 1. The foliage of the tree should utilize the vibrant autumn color palette observed in image 2, characterized by prominent reds, oranges, and yellows. The entire artwork should be rendered with a loose watercolor aesthetic, exhibiting soft edges and fluid washes.",
+  "annotator": "samin",
+  "objects": [
+    "A stylized tree",
+    "Tree trunk inspired by image 1",
+    "Tree branching structure inspired by image 1",
+    "Tree foliage with red, orange, and yellow autumn colors",
+    "Background with geometric painting style",
+    "Polygonal patterns in the background",
+    "Green shades in the background",
+    "Yellow shades in the background",
+    "Blue shades in the background",
+    "Loose watercolor aesthetic"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

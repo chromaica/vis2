@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "ASCII Art",
+  "prompt": "Generate ASCII art where 'BINARY' is visually constructed using an intricate pattern of small, glowing green '0' and '1' characters, simulating a monospace font. The setting is a dark terminal screen with subtle scanlines.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a digital ASCII art illustration of the word 'BINARY'. The word is prominently displayed and horizontally centered on a deep black, retro-futuristic terminal screen. Each letter of 'BINARY' is intricately constructed from a dense mosaic of numerous tiny, vibrant glowing green '0' and '1' characters, meticulously arranged to simulate a classic monospace font. The terminal screen background features subtle horizontal scanlines.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Deep black, retro-futuristic terminal screen",
+    "The word 'BINARY'",
+    "The word 'BINARY' horizontally centered on the screen",
+    "Letters of 'BINARY' constructed from '0' and '1' characters",
+    "Tiny, vibrant glowing green '0' and '1' characters forming the letters",
+    "Dense mosaic pattern on the letters",
+    "Letters simulating a classic monospace font",
+    "Subtle horizontal scanlines on the terminal screen background"
+  ]
+}

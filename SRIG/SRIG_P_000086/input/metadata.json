@@ -1,0 +1,19 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "an asteroid with the color pattern of the cat in the reference image, floating in a Milky Way galaxy scene.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic image of an asteroid, featuring the distinctive ginger tabby fur colors and striped pattern of the cat shown in image 1. This asteroid should be prominently floating in the vast expanse of a vibrant, detailed Milky Way galaxy, showcasing colorful nebulae, swirling cosmic dust, and countless distant stars.",
+  "annotator": "samin",
+  "objects": [
+    "Prominently floating asteroid with ginger tabby fur colors and striped pattern",
+    "Vibrant Milky Way galaxy",
+    "Colorful nebulae",
+    "Swirling cosmic dust",
+    "Countless distant stars"
+  ]
+}

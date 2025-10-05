@@ -1,0 +1,23 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "Edit image 1 by integrating the eye icon from image 2 into the curve of the swoosh. Render this combination with a subtle isometric 3D perspective, similar to image 3. Finally, place the text from image 4 beneath the combined icon.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png",
+    "4.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Perform an in-place edit on image 1 (the black Nike swoosh logo). Integrate the black eye icon from image 2 by embedding it seamlessly along the main curve of the swoosh. Render this newly formed combined graphic with a subtle isometric 3D perspective, deriving its style and dimensionality from image 3. Finally, place the stylized 'monsters' text from image 4 centrally beneath the 3D combined graphic.",
+  "annotator": "maxku",
+  "objects": [
+    "Combined black Nike swoosh and eye graphic",
+    "Subtle isometric 3D perspective",
+    "Stylized 'monsters' text",
+    "'monsters' text centrally beneath the 3D combined graphic"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

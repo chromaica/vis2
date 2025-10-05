@@ -1,0 +1,17 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "A small bird perched on a frosty branch, its feathers slightly ruffled against the morning chill.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic close-up image of a small bird perched on a frost-covered branch. The bird's feathers are slightly ruffled, indicative of the crisp morning chill. Soft, cold morning light illuminates the scene, highlighting intricate ice crystals on the branch.",
+  "annotator": "cwhsu",
+  "objects": [
+    "small bird",
+    "frost-covered branch",
+    "soft, cold morning light",
+    "intricate ice crystals"
+  ],
+  "human_annotation": true
+}

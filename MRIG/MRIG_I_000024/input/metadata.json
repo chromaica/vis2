@@ -1,0 +1,30 @@
+{
+  "subtopic": "Icons and symbols",
+  "prompt": "Generate an information graphic icon using the structural layout from image 2. Populate the structure with individual technology symbols similar to those in image 1, rendered in image 1's clean black outline style.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "Vector Information Graphics Icons",
+  "searchQueryGeneratedTimestamp": 1751990392331,
+  "promptGeneratedTimestamp": 1751990496448,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "I",
+  "annotator": "htwong",
+  "prompt_refined": "Generate an information graphic icon featuring the hierarchical diagram structure from image 2. Populate the individual rectangular nodes of this structure with distinct abstract technology symbols, drawing inspiration from the computing, networking, and innovation concepts found in image 1. All elements, including the symbols and the structural lines, should be rendered in a clean, black outline, minimalist icon style as seen in image 1.",
+  "objects": [
+    "Hierarchical diagram structure (as seen in image 2)",
+    "Multiple rectangular nodes",
+    "Connecting lines",
+    "Abstract computing symbol (e.g., CPU, monitor, code) inside a node",
+    "Abstract networking symbol (e.g., connected nodes, network grid) inside a node",
+    "Abstract innovation symbol (e.g., lightbulb, gear, open door) inside a node",
+    "Other distinct abstract technology symbols inside remaining nodes",
+    "Clean black outline style for all elements",
+    "Minimalist icon style for all elements",
+    "\"TECHNOLOGY SOLUTIONS\" text (should not be present)"
+  ],
+  "human_annotation": true
+}

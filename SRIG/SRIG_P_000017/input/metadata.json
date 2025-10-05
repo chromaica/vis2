@@ -1,0 +1,18 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "Given the reference image, create an astronomical scene in a galaxy where the black areas showcase a planet or asteroids",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic astronomical scene. Using image 1 as a reference, transform the black shapes into a combination of photorealistic planets and asteroids, maintaining their relative sizes and scattered positions. Fill the white background areas with a detailed, vibrant galaxy scene.",
+  "annotator": "samin",
+  "objects": [
+    "photorealistic planets",
+    "photorealistic asteroids",
+    "detailed galaxy scene"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,22 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Turn her finger into a laser pointer glowing on random lines of red code errors, and have mini-bug icons pop up around.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Transform the subject's extended right index finger into a glowing red laser pointer. Project a visible red laser beam from her finger onto the large blue screen in the background. On this screen, generate multiple lines of glowing red code errors where the laser points. Additionally, have several small, stylized bug icons appear scattered around these red code errors on the screen.",
+  "annotator": "matina",
+  "objects": [
+    "subject (Oprah)",
+    "glowing red laser pointer (on subject's right index finger)",
+    "visible red laser beam projecting from the laser pointer",
+    "large blue screen in the background",
+    "multiple lines of glowing red code errors on the blue screen",
+    "small, stylized bug icons scattered on the blue screen",
+    "microphone (held by subject)"
+  ],
+  "human_annotation": true
+}

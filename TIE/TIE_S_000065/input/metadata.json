@@ -1,0 +1,23 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Add watercolor brush strokes for an artistic overlay on the software interface.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, a screenshot of the Adobe Premiere Pro interface. Apply a transparent artistic overlay composed of watercolor brush strokes across the entire software UI. Ensure all interface elements, such as the menus, panels, and the central video preview showing a woman's face, remain clearly visible underneath the brush strokes.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Adobe Premiere Pro interface",
+    "Adobe Premiere Pro menus",
+    "Adobe Premiere Pro panels",
+    "Central video preview",
+    "Woman's face in the video preview",
+    "Transparent artistic overlay",
+    "Watercolor brush strokes"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

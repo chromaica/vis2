@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Place a semi-transparent check icon next to the fist at 60% opacity to emphasize victory.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit Image 1. Place a checkmark icon to the immediate right of the baby's clenched fist. This icon should be green, identical in shape to Image 2, and rendered with an opacity of 60%.",
+  "annotator": "matina",
+  "objects": [
+    "Baby",
+    "Baby's clenched fist",
+    "Beach background",
+    "Ocean",
+    "Sky",
+    "\"YESSS...\" text",
+    "Green checkmark icon",
+    "Checkmark icon with a shape identical to Image 2",
+    "Checkmark icon with 60% opacity",
+    "Checkmark icon placed to the immediate right of the baby's clenched fist"
+  ]
+}

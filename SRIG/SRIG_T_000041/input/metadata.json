@@ -1,0 +1,22 @@
+{
+  "subtopic": "Posters",
+  "prompt": "Create a 'Textual Graphics' poster inspired by the reference limo's elongated shape and window layout, featuring blocks of bold typography and abstract graphic patterns arranged horizontally like the vehicle.",
+  "cond_images": [
+    "1.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1750705602481,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "T",
+  "annotator": "winston",
+  "prompt_refined": "Generate a poster in a 'Textual Graphics' style, emphasizing bold typography and abstract graphic patterns as primary visual elements. The overall composition should adopt a strong horizontal orientation, drawing inspiration from the elongated form of the limousine in image 1. Specifically, arrange the typography and graphic patterns within distinct, rectangular segments that echo the multiple window layout along the vehicle's side, creating a linear, extended design across the poster.",
+  "objects": [
+    "Bold typography",
+    "Abstract graphic patterns",
+    "Distinct rectangular segments",
+    "Linear, extended arrangement of segments",
+    "Strong horizontal poster orientation",
+    "Textual Graphics style"
+  ]
+}

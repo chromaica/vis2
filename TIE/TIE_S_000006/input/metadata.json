@@ -1,0 +1,26 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "Capture the victorious crescendo of the game as players soar on diamond wings amidst a celestial stadium bathed in kaleidoscopic stardust and electric auroras.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Transform the entire League of Legends battleground shown in image 1 into a magnificent celestial stadium. Replace the stone ground and grassy areas with a cosmic, starlit surface, while the existing structures like turrets and the nexus base glow with ethereal, crystalline energy. Bathe this celestial environment in swirling patterns of kaleidoscopic stardust and vibrant, shimmering electric auroras, especially intensifying the purple hues already present. Depict all champion and minion characters within image 1, such as Ashe, the bear champion, Sivir bot, Minotaur bot, and Soraka bot, as if they are soaring or levitating, each adorned with large, radiant, and multi-faceted diamond wings. The overall scene should capture the climactic, victorious crescendo of the game.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Magnificent celestial stadium",
+    "Cosmic, starlit surface",
+    "Turrets glowing with ethereal, crystalline energy",
+    "Nexus base glowing with ethereal, crystalline energy",
+    "Swirling patterns of kaleidoscopic stardust",
+    "Vibrant, shimmering electric auroras with intensified purple hues",
+    "Ashe soaring with large, radiant, multi-faceted diamond wings",
+    "The bear champion soaring with large, radiant, multi-faceted diamond wings",
+    "Sivir bot, Minotaur bot, and Soraka bot soaring with large, radiant, multi-faceted diamond wings",
+    "Minion characters soaring with large, radiant, multi-faceted diamond wings"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

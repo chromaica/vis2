@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "In image 1, replace the sun-shaped melting clock with the sun from image 2. Also, remove the eyeballs above the people\u2019s heads at the bottom, and replace them with flowers that match the silhouette from image 3 but retain the same color as the eye pupils that were removed.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the glowing, starburst-shaped melting clock located in the upper-left sky with the personified moon illustration from image 2. Additionally, remove the five large eyeballs positioned directly above the heads of the people at the bottom of image 1. Replace each removed eyeball with a flower that matches the five-petal silhouette from image 3, ensuring its color precisely matches the pupil color of the corresponding removed eyeball.",
+  "annotator": "paria",
+  "objects": [
+    "Snowy mountains",
+    "Forest",
+    "Lake",
+    "People at the bottom",
+    "UFO/flying saucer",
+    "Personified moon illustration in upper-left sky",
+    "Five five-petal flowers above the heads of the people, colored like corresponding original pupils",
+    "ENCO sign",
+    "Glowing, starburst-shaped melting clock (should not be present)",
+    "Five large eyeballs (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

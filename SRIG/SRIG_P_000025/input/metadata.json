@@ -1,0 +1,26 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "According to the layout in the reference image, generate a realistic photograph of a modern workplace.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic image of a modern workplace, strictly adhering to the spatial layout provided by image 1, which serves as a detailed segmentation map. Render the large red region at the top as the background wall or ceiling, and the expansive dark blue region as the main floor and open workspace. Populate the scene with modern office elements corresponding to the remaining colored segments: specifically, interpret the dark blue rectangular shapes as desks or workstations, green shapes as large plants or office dividers, light blue/cyan organic shapes (especially at the bottom) as modern ergonomic chairs or lounge seating, small upright purple shapes as people, and other smaller colored segments as office equipment (e.g., computers, monitors) and desk accessories. Ensure realistic textures and lighting for a contemporary office environment.",
+  "annotator": "samin",
+  "objects": [
+    "background wall or ceiling",
+    "main floor",
+    "open workspace",
+    "modern office desks",
+    "workstations",
+    "large office plants",
+    "office dividers",
+    "modern ergonomic chairs",
+    "lounge seating",
+    "people",
+    "office equipment",
+    "desk accessories"
+  ]
+}

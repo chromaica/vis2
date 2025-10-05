@@ -1,0 +1,28 @@
+{
+  "subtopic": "Depth maps",
+  "prompt": "Visualize the depth map for image 1. Use the sharp focus of image 2 to guide depth separation around the hands and keyboard. Render the resulting depth visualization using the smooth, distinct depth layering style from image 3's CG scene.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748454532580,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1 to create its depth map representation. Ensure precise and clear depth separation for the hands and keyboard region in image 1 by referencing the sharp focus and distinct object boundaries seen in image 2. The resulting depth visualization should adopt the smooth, distinct depth layering and clean, stylized aesthetic characteristic of image 3's CG scene.",
+  "annotator": "winston",
+  "objects": [
+    "Hands",
+    "Laptop keyboard",
+    "Laptop screen",
+    "Wooden table surface",
+    "Mobile phone",
+    "Notebook",
+    "Background tablet",
+    "General background elements"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,24 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "Generate a collage combining the image of a broken clock (image 1), a childhood drawing (image 2), and old map fragments (image 3).",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a mixed-media collage artwork by combining the distinct visual elements from the provided images. The composition should prominently feature the fragmented antique pocket watch from image 1, displaying its shattered glass and rusted details. Interweave and layer the scattered, irregularly shaped vintage map fragments from image 3 throughout the background or as bordering elements, creating a textured foundation. Integrate the artistic colored pencil drawing of a young woman with vibrant, multi-colored hair from image 2, perhaps as a focal point, subtly emerging from, or overlaid upon the other components. The overall piece should cohesively blend these different styles into an evocative, surreal artwork exploring themes of time, memory, and exploration.",
+  "annotator": "samin",
+  "objects": [
+    "prominently featured fragmented antique pocket watch",
+    "shattered glass on the pocket watch",
+    "rusted details on the pocket watch",
+    "scattered, irregularly shaped vintage map fragments",
+    "layered vintage map fragments",
+    "artistic colored pencil drawing of a young woman (as a focal point)",
+    "young woman with vibrant, multi-colored hair"
+  ],
+  "human_annotation": true
+}

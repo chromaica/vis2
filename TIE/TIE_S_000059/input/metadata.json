@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Modify the \"Trending\" section to display global weather patterns using static icons.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. In the \"San Francisco trends\" section on the right side of the Twitter interface, replace the existing list of trending topics with a display of global weather patterns. Each item in this section should feature a city or region name, its current temperature, and a corresponding static weather icon (e.g., sun, cloud, rain, or snow) representing the local conditions.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Twitter browser interface",
+    "Left Twitter navigation bar",
+    "Twitter main feed content",
+    "Right side panel of Twitter interface",
+    "\"San Francisco trends\" section header",
+    "List of global weather pattern entries",
+    "City or region names in the weather list",
+    "Current temperatures in the weather list",
+    "Static weather icons (e.g., sun, cloud, rain, snow) in the weather list",
+    "Existing list of trending topics (should not be present)"
+  ]
+}

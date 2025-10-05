@@ -1,0 +1,23 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "design a recipe cooking app with kitchen-themed skeuomorphic elements, wooden cutting board backgrounds, ingredient cards that look like handwritten recipe notes, timer interfaces shaped like vintage kitchen clocks",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a high-fidelity screenshot of a recipe cooking application user interface. The entire app background features a rich, textured wooden cutting board. All UI elements exhibit a strong kitchen-themed skeuomorphic design, showcasing realistic depth and material textures. In the central area of the screen, several ingredient cards are displayed, each meticulously designed to resemble torn, slightly yellowed handwritten recipe notes with authentic script detailing ingredients and quantities. A distinctive timer interface, styled precisely like a vintage kitchen wall clock (with a clear round face, classic numerals, and antique-style hands), is prominently placed in the top-right corner of the app screen, seamlessly integrated into the skeuomorphic design.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Recipe cooking application user interface",
+    "Rich, textured wooden cutting board background",
+    "Kitchen-themed skeuomorphic UI elements",
+    "Several ingredient cards in the central area",
+    "Ingredient cards resembling torn, slightly yellowed handwritten recipe notes",
+    "Authentic script detailing ingredients and quantities on cards",
+    "Timer interface in the top-right corner",
+    "Timer styled like a vintage kitchen wall clock",
+    "Timer with a clear round face",
+    "Timer with classic numerals and antique-style hands"
+  ],
+  "human_annotation": true
+}

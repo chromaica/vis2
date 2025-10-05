@@ -1,0 +1,21 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Use the pixel art style from the reference to plot the sword.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the pixel art portrait. Add a sword to the composition, using image 2 as the visual reference for the sword's shape and design. The added sword must be fully rendered in the distinct pixel art style of image 1, consistent with the existing artwork.",
+  "annotator": "Johnny",
+  "objects": [
+    "pixel art portrait of a person",
+    "plain background",
+    "sword",
+    "sword blade",
+    "sword hilt",
+    "sword guard"
+  ]
+}

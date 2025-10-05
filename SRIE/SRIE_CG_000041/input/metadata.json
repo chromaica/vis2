@@ -1,0 +1,26 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "Add objects in the source image to match the depth layering or contours in the control signal image.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the source image (image 1), the street scene, by adding human figures. These added figures should precisely match the depth layering and contours indicated by the reference depth map (image 2). Ensure that figures represented by brighter areas in image 2 appear in the foreground of image 1, while figures from darker areas in image 2 appear in the background, maintaining their relative sizes and positions as depicted in image 2.",
+  "annotator": "nimajamali",
+  "objects": [
+    "Street",
+    "Buildings",
+    "Human figures",
+    "Traffic lights",
+    "Street signs",
+    "Trees",
+    "Crosswalk markings",
+    "Sidewalks",
+    "Construction barriers/cones"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

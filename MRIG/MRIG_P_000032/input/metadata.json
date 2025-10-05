@@ -1,0 +1,23 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Create a chimera where the lion\u2019s head and front legs match the style, mane, and expression of the lion in the first reference image, and the snake-like tail matches the scales and colors of the snake in the second reference image. Blend the parts smoothly, with the lion\u2019s fur transitioning into scales.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic image of a chimera. The chimera's head and front legs should meticulously replicate the style, expressive gaze, and dense mane of the male lion in image 1. The body should seamlessly transition from the lion's fur into a long, serpentine tail. This tail must perfectly match the distinctive yellow and dark brown scale patterns and coloration of the snake in image 2.",
+  "objects": [
+    "Photorealistic chimera",
+    "Male lion's head (replicating style and expressive gaze from image 1)",
+    "Male lion's front legs (replicating style from image 1)",
+    "Dense lion's mane (replicating style from image 1)",
+    "Lion's fur on the body",
+    "Long serpentine tail",
+    "Yellow scale patterns on the tail (matching image 2)",
+    "Dark brown scale patterns on the tail (matching image 2)"
+  ]
+}

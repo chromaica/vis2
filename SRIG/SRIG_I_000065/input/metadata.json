@@ -1,0 +1,25 @@
+{
+  "subtopic": "UI mockups",
+  "prompt": "Using the mobile banking app sample page provided, design a funds-transfer confirmation screen with transaction summary and success animation placeholder.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "https://static.vecteezy.com/system/resources/previews/027/619/432/non_2x/setting-up-banking-application-guide-onboarding-mobile-app-screen-walkthrough-4-steps-editable-graphic-instructions-with-linear-concepts-ui-ux-gui-template-vector.jpg",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate a mobile banking application screen for a funds-transfer confirmation. The design should strictly adhere to the clean, line-art infographic style, light color palette (blues, light yellows, dark blues), and overall UI aesthetic established in image 1. At the top-center of the screen, include a large, prominent success animation placeholder, visually represented by a stylized checkmark icon or a simple success graphic consistent with the visual language of image 1. Directly below this, present a clear transaction summary section. This summary should include placeholder text for key details such as the transfer amount, recipient's name, and transaction date, arranged in a legible, structured format. Ensure the screen's overall layout is minimal and professional, mirroring the example screens in image 1.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Mobile banking application screen UI",
+    "Large, prominent success animation placeholder at top-center",
+    "Stylized checkmark icon within success placeholder",
+    "Transaction summary section directly below success graphic",
+    "Placeholder text for transfer amount",
+    "Placeholder text for recipient's name",
+    "Placeholder text for transaction date",
+    "All elements rendered in a clean, line-art infographic style",
+    "All elements using a light color palette (blues, light yellows, dark blues)",
+    "Minimal and professional screen layout"
+  ],
+  "human_annotation": true
+}

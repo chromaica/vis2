@@ -1,0 +1,23 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "Create an image that integrates the Apple logo, as shown in the first reference image, into the colorful nebula from the second reference image. Transform the Apple logo into a glowing, ethereal structure that appears as a radiant formation seamlessly embedded within the nebula\u2019s wispy, vibrant clouds. The logo should emit a soft, silver-white glow that harmonizes with the nebula\u2019s vivid colors.",
+  "cond_images": [
+    "1.png",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic image that seamlessly integrates the Apple logo from image 1 into the vibrant, cosmic expanse of the nebula from image 2. Transform the Apple logo into a grand, ethereal formation, appearing as a radiant structure composed of glowing, wispy energy. It should be centrally embedded within the nebula's core, blending naturally with its luminous, colorful gas clouds and stellar dust. The Apple logo should emit a soft, silver-white glow, harmonizing subtly with the nebula's vivid blues, purples, golds, and reds, maintaining a sense of cosmic realism.",
+  "objects": [
+    "transformed Apple logo (as an ethereal, radiant formation)",
+    "glowing, wispy energy (composing the Apple logo)",
+    "vibrant cosmic nebula",
+    "luminous gas clouds",
+    "stellar dust",
+    "stars",
+    "soft, silver-white glow (from the Apple logo)",
+    "nebula's core"
+  ]
+}

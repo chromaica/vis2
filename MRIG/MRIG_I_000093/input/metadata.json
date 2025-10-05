@@ -1,0 +1,24 @@
+{
+  "task": "MRIG",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Generate a line graph showing the weekly test scores of three students. Use Image 1\u20133 as icons in the legend for each line, and match each line\u2019s color to the students' shirt colors.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.png"
+  ],
+  "remarks": "",
+  "annotator": "matina",
+  "prompt_refined": "Generate a line graph visualizing the weekly test scores of three students. The graph should display three distinct data lines. Include a legend, preferably positioned on the right side of the graph, with each line clearly identified by an icon. Specifically:\n- The first line's icon should be derived from the student in Image 1, and its color must precisely match the blue of the student's sweater.\n- The second line's icon should be derived from the student in Image 2, and its color must precisely match the red of the student's t-shirt.\n- The third line's icon should be derived from the student in Image 3, and its color must precisely match the green of the student's t-shirt.",
+  "objects": [
+    "Line graph",
+    "Three distinct data lines",
+    "Legend positioned on the right side",
+    "Blue data line with icon derived from student in Image 1",
+    "Red data line with icon derived from student in Image 2",
+    "Green data line with icon derived from student in Image 3",
+    "X-axis",
+    "Y-axis"
+  ]
+}

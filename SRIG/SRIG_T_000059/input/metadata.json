@@ -1,0 +1,22 @@
+{
+  "task": "SRIG",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Create a meme about choosing between Netflix shows using 'distracted boyfriend' meme template.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate an image based on image 1, creating a 'distracted boyfriend' meme about choosing between Netflix shows. Insert the text 'New Netflix Series' into the white text box positioned on the woman in red on the left side of the image. Insert the text 'Me' into the white text box on the man's back in the center of the image. Insert the text 'My Unfinished Series' into the white text box located in the top-right portion of the image, above the man and near the woman in blue.",
+  "annotator": "Johnny",
+  "objects": [
+    "Woman in red on the left, blurred",
+    "Man in the center, looking back",
+    "Woman in blue on the right",
+    "Street background",
+    "White text box with \"New Netflix Series\" on the woman in red on the left",
+    "White text box with \"Me\" on the man's back in the center",
+    "White text box with \"My Unfinished Series\" in the top-right, above the man and near the woman in blue"
+  ],
+  "human_annotation": true
+}

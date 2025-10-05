@@ -1,0 +1,25 @@
+{
+  "subtopic": "Visual instructions and manuals",
+  "prompt": "Using the CPR procedure chart, design a wall poster illustrating adult CPR steps in sequence with big visual cues.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "https://imgv2-2-f.scribdassets.com/img/document/402029908/original/4fcce3186c/1?v=1",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate a vertical wall poster illustrating the sequential steps of adult Cardiopulmonary Resuscitation (CPR). The design should clearly and concisely present the information and flow from image 1, using prominent visual cues for each step.\n\n**Poster Design Requirements:**\n1.  **Title:** A clear, prominent title such as \"Adult CPR Steps\" at the top of the poster.\n2.  **Layout:** Organize the CPR steps (DRSABC) vertically from top to bottom, with clear demarcation between each major stage. Use arrows or clear numbering to indicate the progression and decision points.\n3.  **Visual Cues:** For each primary step (Danger, Response, Shout/Send, Airway, Breathing, Compressions), include a large, easily interpretable illustration or icon that visually represents the action. These visuals should be central to each section, accompanied by concise textual instructions.\n4.  **Content (based on image 1):**\n    *   **D (Danger):** Visual cue depicting scene safety check. Text: \"Check for DANGER: 'I'm safe, casualty is safe, scene is safe.'\"\n    *   **R (Response):** Visual cue showing tapping shoulder and verbal check. Text: \"Check for casualty's RESPONSE by tapping shoulder and shouting: 'Hello! Hello! Are you ok? Open your eye!'\"\n    *   **S (Shout/Send):** Visual cue for shouting for help and calling emergency services. Text: \"If NO response, SHOUT for help. Call 999 (or equivalent local emergency number) for ambulance, ask for AED.\"\n    *   **A (Airway):** Visual cue illustrating head-tilt & chin-lift. Text: \"Open the AIRWAY by head-tilt & chin-lift.\"\n    *   **B (Breathing):** Visual cue showing looking for breathing/chest rise. Text: \"LOOK for NORMAL BREATHING/VISIBLE CHEST RISE and Signs of Life for not more than 10 seconds.\"\n    *   **Decision Point (from B):** If \"NO Normal Breath / Signs of Life\", lead to Compressions (C).\n    *   **C (Compressions):** Visual cue illustrating chest compressions and rescue breaths. Text for compressions: \"Start COMPRESSION: Apply compression at center of chest (lower half of sternum). Perform 30 compressions : 2 blows. Push hard & fast (100-120/min), depth 5-6 cm, ensure full chest recoil, minimize interruptions. Perform at least 2 minutes (1 cycle) of CPR before applying AED.\"\n    *   **Re-check Point (after C):** \"Check for Normal BREATHING and Signs of Life by LOOK for not more than 10 seconds.\"\n    *   **Branching Paths (after re-check):**\n        *   **If \"NO NORMAL BREATH X\":** Continue CPR until responsiveness, ambulance arrives, or rescuer is too tired to continue.\n        *   **If \"NORMAL BREATH \u2714\":** Transition to recovery position. Include a visual cue of a person in the recovery position. Text: \"Recovery position & monitor vital signs every 2 minutes until ambulance arrives.\"\n5.  **Aesthetic:** The poster should have a clean, clear, and highly visible design, suitable for quick comprehension in an emergency.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Poster title \"Adult CPR Steps\" at the top",
+    "Red warning triangle icon",
+    "Illustration of a person tapping another's shoulder",
+    "Illustration of a person shouting or calling for help",
+    "Illustration of a person performing head-tilt & chin-lift",
+    "Illustration of a person checking for breathing/chest rise",
+    "Illustration of a person performing chest compressions and rescue breaths",
+    "Illustration of a person in the recovery position",
+    "Vertical layout with clear step demarcation and directional arrows",
+    "Concise textual instructions within clearly defined boxes/sections"
+  ],
+  "human_annotation": true
+}

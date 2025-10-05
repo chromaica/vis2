@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "P",
+  "subtopic": "Medical images",
+  "prompt": "Restore the masked nasal region in the source image using natural skin texture and shape continuity, guided by the surrounding facial features. Ensure the reconstructed nose appears smooth and symmetrical, as if after aesthetic nasal hump correction.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 2 by inpainting and restoring the black masked nasal region. Reconstruct the nose with natural skin texture and ensure smooth shape continuity with the surrounding facial features visible in image 2. The new nose should appear symmetrical and smooth, resembling the outcome of an aesthetic nasal hump correction. Maintain the photorealistic quality and overall skin characteristics consistent with image 1.",
+  "annotator": "nimajamali",
+  "objects": [
+    "Human face",
+    "Reconstructed nose",
+    "Nose with natural skin texture",
+    "Smooth nose shape",
+    "Symmetrical nose",
+    "Forehead",
+    "Eye region (with the noisy white box as seen in Image 2)",
+    "Cheek",
+    "Lips",
+    "Black masked nasal region (should not be present)"
+  ]
+}

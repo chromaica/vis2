@@ -1,0 +1,22 @@
+{
+  "subtopic": "VFX and Particles",
+  "prompt": "Make the central particle sphere explode outwards with a powerful force, scattering glowing pink and blue particles across the dark space background in a dynamic burst.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751814089739,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1: Make the central particle sphere explode outwards with a powerful force, scattering its glowing pink and blue particles across the dark space background in a dynamic burst.",
+  "annotator": "edisy",
+  "objects": [
+    "Dark space background",
+    "Stars",
+    "Central explosion core",
+    "Scattered glowing pink particles",
+    "Scattered glowing blue particles",
+    "Outward radiating particle trails"
+  ]
+}

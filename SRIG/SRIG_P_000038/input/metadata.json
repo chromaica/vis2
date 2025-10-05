@@ -1,0 +1,21 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "Generate a realistic scene with the astronomer on the moon, in the position from the reference image, standing near their spaceship with a starry sky and Earth in the background.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic scene depicting an astronomer in a space suit, floating above the desolate lunar surface. The astronomer's body is positioned precisely as depicted in image 1, with their helmeted head oriented towards the upper-right side of the frame and their body extending diagonally downwards towards the lower-left. They are situated in close proximity to their spaceship. In the deep background, a vast, star-filled sky is visible, with the Earth prominently displayed.",
+  "annotator": "samin",
+  "objects": [
+    "astronomer in a space suit, floating",
+    "astronomer's body positioned diagonally downwards towards the lower-left",
+    "astronomer's helmeted head oriented towards the upper-right side of the frame",
+    "desolate lunar surface",
+    "spaceship in close proximity to the astronomer",
+    "vast, star-filled sky in the deep background",
+    "Earth prominently displayed in the deep background"
+  ]
+}

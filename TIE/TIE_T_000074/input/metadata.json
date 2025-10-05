@@ -1,0 +1,21 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Replace his facepalm hand with a giant mouse, as if he\u2019s smacked it.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the man's right hand, which is covering his face in a facepalm gesture, with a giant computer mouse. The mouse should appear in the exact location of his hand, conveying that he has just smacked it in a frustrated manner.",
+  "annotator": "matina",
+  "objects": [
+    "Man (head, body, left arm)",
+    "Chair",
+    "Background elements",
+    "Text overlay: \"THEY BLOCKED IMGFLIP ON MY SCHOOL COMPUTER\"",
+    "Man's right hand (should not be present)",
+    "Giant computer mouse (in place of the man's right hand, appearing smacked)"
+  ],
+  "human_annotation": true
+}

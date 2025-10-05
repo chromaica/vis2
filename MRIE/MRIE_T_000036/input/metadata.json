@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "T",
+  "subtopic": "Sign",
+  "prompt": "Add the text 'CANADA' to both visible sides of the foundation of the tombstone in the first image. Then, add the logo from the second image on the vertical pillar next to the word 'Alberta' in the first image and logo from the third image on the vertical pillar next to the word 'British Columbia' in the first image. Those logos should be craved into the wooden pillar instead of just sticking the logo on it. ",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. On the concrete foundation of the stone monument in the foreground, engrave the text 'CANADA' onto both its visible front face and its visible right side. Additionally, on the leftmost wooden pillar of the large sign structure (adjacent to the 'Banff National Park' and 'Alberta' signs), carve the logo from image 2 into the wood. Similarly, on the rightmost wooden pillar of the large sign structure (adjacent to the 'Yoho National Park' and 'British Columbia' signs), carve the logo from image 3 into the wood. Ensure both logos appear as if deeply carved or etched into the wooden surface, rather than simply overlaid.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "stone monument with concrete foundation",
+    "text 'CANADA' engraved on the front face of the concrete foundation",
+    "text 'CANADA' engraved on the right side of the concrete foundation",
+    "large sign structure",
+    "leftmost wooden pillar of the large sign structure",
+    "logo from image 2 (pink flowers) carved on the leftmost wooden pillar",
+    "rightmost wooden pillar of the large sign structure",
+    "logo from image 3 (British Columbia stamp) carved on the rightmost wooden pillar",
+    "trees",
+    "ground"
+  ]
+}

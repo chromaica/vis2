@@ -1,0 +1,23 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "A steampunk workshop scene with this pocket watch as the centerpiece.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a detailed steampunk workshop scene featuring the ornate gold pocket watch from image 1 as the prominent centerpiece. The pocket watch, open and displaying its white face with black hands and Roman numerals, is positioned centrally in the foreground on a worn wooden workbench. The background depicts a cluttered workshop with an array of intricate brass gears, steam pipes, clockwork mechanisms, and various tools, all rendered with a warm, ambient light characteristic of a Victorian-era inventor's space.",
+  "annotator": "Johnny",
+  "objects": [
+    "Ornate gold pocket watch, open, displaying its white face with black hands and Roman numerals, positioned centrally in the foreground",
+    "Worn wooden workbench in the foreground",
+    "Cluttered workshop background",
+    "Intricate brass gears",
+    "Steam pipes",
+    "Clockwork mechanisms",
+    "Various tools",
+    "Warm, ambient light"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "In image 1, replace the left booster icon with the striped candy from image 2, and the right booster icon with the candy from image 3. Keep sizes and shadows consistent with the original booster icons. All other elements in the source image should stay the same.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the leftmost booster icon, which currently displays a brown chocolate candy, with the red and white striped jelly bean from image 2. Replace the rightmost booster icon, which currently displays blue and green fish-shaped candies, with the pink and white swirl candy from image 3. Ensure the newly inserted candies are rendered to match the exact size, perspective, lighting, and shadow characteristics of the original booster icon contents, fitting perfectly within their respective circular frames. All other visual elements in image 1 must remain completely unchanged.",
+  "annotator": "parnian",
+  "objects": [
+    "Pink framed popup dialog box",
+    "\"Level 10000\" text",
+    "\"Clear all the jelly!\" text",
+    "\"Select boosters:\" text",
+    "red and white striped jelly bean (in leftmost booster icon)",
+    "Middle booster icon with blue and white striped candy and plus sign",
+    "pink and white swirl candy (in rightmost booster icon)",
+    "\"5\" count labels (under booster icons)",
+    "\"Play!\" button",
+    "Game interface background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

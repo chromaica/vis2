@@ -1,0 +1,22 @@
+{
+  "subtopic": "Depth maps",
+  "prompt": "Render a detailed image of a fluffy cat on sofa using the grayscale reference as a depth map, highlighting the volume and texture derived from the depth information against a dark background in a realistic computer graphics style.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "self-generated",
+  "promptGeneratedTimestamp": 1748684545839,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a realistic computer graphics (CGI) image of a fluffy cat, prominently seated on a sofa. Use image 1 as a depth map to accurately define the cat's three-dimensional volume and the intricate contours of its fur. The rendering should emphasize the soft texture and fluffy appearance derived from the depth information, set against a dark background.",
+  "annotator": "ishengfang",
+  "objects": [
+    "fluffy cat",
+    "sofa",
+    "dark background",
+    "realistic computer graphics (CGI) style"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

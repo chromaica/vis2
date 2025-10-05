@@ -1,0 +1,27 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Traditional art",
+  "prompt": "Generate a traditional oil painting of a still lake, using the water reflections from image 1 and the sky colors from image 2.",
+  "cond_images": [
+    "1.png",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a traditional oil painting of a still lake. Use the crisp mountain reflections and clear blue-teal water characteristics from image 1, and the vibrant sunset sky colors (yellow, orange, red, magenta) from image 2.",
+  "annotator": "samin",
+  "objects": [
+    "traditional oil painting style",
+    "still lake",
+    "crisp mountain reflections",
+    "mountains",
+    "clear blue-teal water",
+    "vibrant sunset sky",
+    "yellow sky colors",
+    "orange sky colors",
+    "red sky colors",
+    "magenta sky colors"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

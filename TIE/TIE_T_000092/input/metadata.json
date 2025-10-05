@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Turn each message in \u2018Slack\u2019 into a little chat-bubble.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. In the main chat conversation area, convert each individual message block into a chat bubble. For every message, including those marked 'This message is hidden', create a rounded rectangular bubble. This bubble should enclose the message content, have a distinct background color to visually separate it from the chat background, and include a small triangular tail on its left side pointing towards the sender's avatar. Ensure all original text, emojis, and associated elements within each message remain clearly visible inside their new bubble forms.",
+  "annotator": "matina",
+  "objects": [
+    "Chat application header bar",
+    "Chat application left sidebar",
+    "Message input area",
+    "Multiple rounded rectangular chat bubbles",
+    "Distinctly colored background for chat bubbles",
+    "Small triangular tails on the left side of chat bubbles",
+    "Sender profile avatars",
+    "Original message text content",
+    "Timestamps and emojis within messages",
+    "Reply counts and \"This message is hidden\" text and links"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "A steampunk airship soaring above cloud-covered mountains",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate an artwork depicting a steampunk airship, matching the design and aesthetic of the airship shown in image 1. This airship should be prominently featured, soaring high and centrally in the sky. Below the airship, a vast landscape of rugged mountains is partially obscured by dense, rolling clouds. The scene should convey a sense of adventure and atmospheric depth.",
+  "annotator": "Johnny",
+  "objects": [
+    "Steampunk airship (design matching image 1)",
+    "Sky",
+    "Rugged mountains",
+    "Dense, rolling clouds",
+    "Airship prominently featured",
+    "Airship soaring high",
+    "Airship centrally in the sky",
+    "Mountains below the airship",
+    "Clouds partially obscuring mountains"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Online Meeting Interfaces",
+  "prompt": "Replace 'Molly Dempsey' (most left) with 'Jen' cartoon image from image 2 and update the style and colors of  all icons in the toolbar (in the image 1) using the first row from image 3. Everything else in the source image (image 1) should be intact.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the source image, image 1. Replace the video panel featuring 'Molly Dempsey' (located in the top-left of image 1) with the cartoon character 'Jen' from image 2 (specifically, the content from the bottom-left video panel of image 2). Additionally, update the style and colors of the six communication icons in the toolbar at the bottom-center of image 1 (microphone, video camera, people, chat bubble, speaker, and red call end button) to match the black circular background with white outline design as presented in the first row of icons in image 3. Ensure all other elements within image 1 remain unchanged.",
+  "annotator": "parnian",
+  "objects": [
+    "'Jen' cartoon character video panel (in top-left position)",
+    "'Amit Melamed' video panel",
+    "'Krystal McKinney' video panel",
+    "'Matthew Townes' video panel",
+    "Microphone icon (black circular background, white outline)",
+    "Video camera icon (black circular background, white outline)",
+    "People icon (black circular background, white outline)",
+    "Chat bubble icon (black circular background, white outline)",
+    "Speaker icon (black circular background, white outline)",
+    "Red call end button (black circular background, white outline style)"
+  ],
+  "human_annotation": true
+}

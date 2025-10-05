@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Stylized art",
+  "prompt": "Generate a portrait of the subject from image 1. Incorporate the exaggerated surprised expression and the vibrant, splatter painting style observed in image 2.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a portrait of the male subject from image 1. The subject should display an exaggerated surprised expression, specifically with wide, bulging eyes and a large open mouth, similar to the expression in image 2. The portrait should be rendered in the vibrant, multi-colored splatter painting style characterized by bold brushstrokes and dynamic paint splatters, as observed in image 2.",
+  "annotator": "samin",
+  "objects": [
+    "Male subject (portrait)",
+    "Exaggerated surprised expression",
+    "Wide, bulging eyes",
+    "Large open mouth",
+    "Vibrant, multi-colored palette",
+    "Splatter painting style",
+    "Bold brushstrokes",
+    "Dynamic paint splatters"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

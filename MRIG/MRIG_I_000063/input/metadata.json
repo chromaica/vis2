@@ -1,0 +1,23 @@
+{
+  "task": "MRIG",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "Generate an airplane screen where the starting location is marked with an X icon in Australia, the destination is indicated with a pin in Canada, and an airplane icon is shown on a line connecting the source and destination.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png",
+    "4.png"
+  ],
+  "remarks": "",
+  "annotator": "matina",
+  "prompt_refined": "Generate an airplane screen graphic featuring a world map, similar to image 1. An 'X' icon, as depicted in image 3, should mark the starting location over Australia. A red map pin icon, as depicted in image 2, should indicate the destination over Canada. A prominent line should connect these two locations, representing a flight path. An airplane icon, as depicted in image 4, must be accurately positioned along this connecting line.",
+  "objects": [
+    "airplane screen graphic",
+    "world map (similar to image 1)",
+    "'X' icon (similar to image 3) over Australia",
+    "red map pin icon (similar to image 2) over Canada",
+    "prominent line connecting Australia and Canada",
+    "airplane icon (similar to image 4) on the connecting line"
+  ]
+}

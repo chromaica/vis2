@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "Generate the phrase 'Burn Bright' using vertical brush-style script like the second image, arranged inside a flame shape like the first.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate an image of the phrase 'Burn Bright'. The text should be presented in a white, vertical, brush-style script, closely mimicking the calligraphic style and orientation of the text in image 2. This 'Burn Bright' text should be centrally arranged within a vibrant orange-red flame shape, similar in form and texture to the flame depicted in image 1. Ensure the flame includes a matchstick base, also inspired by image 1. The overall composition should feature this graphic element prominently against a dark background, evoking the aesthetic of image 1.",
+  "annotator": "parnian",
+  "objects": [
+    "\"Burn Bright\" text",
+    "White text color",
+    "Vertical text orientation",
+    "Brush-style script text",
+    "Vibrant orange-red flame shape",
+    "Flame texture (similar to image 1)",
+    "Matchstick base",
+    "Dark background",
+    "Text centrally arranged within flame"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

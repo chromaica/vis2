@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "T",
+  "subtopic": "Newspapers",
+  "prompt": "Place the news in the first image into the highlight section within the newspaper (middle section) in the second image. Finally, replace the image of the police with the person in the right side of the third image. The police who is being inserted is called Officer Smith, replace all mentions accordingly. Colorize the newspaper.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 2, the 'The New York Times' newspaper, by performing the following modifications:\n1. Replace the large central image of the crowd in image 2 with the entire news article content from image 1, specifically the article titled 'S.T.A.R.S. Cop Jill Valentine Disgraced'. Ensure all text and graphics from image 1 are clearly integrated and legible within this new central section.\n2. Within the newly integrated article content, replace the photo of Jill Valentine with the person on the right side of image 3 (Will Smith).\n3. Update all textual references within the integrated article: change 'Jill Valentine' to 'Officer Smith' and 'Jill' to 'Smith'.\n4. Colorize the entire newspaper in image 2, applying appropriate full-color tones to all text, images, and background elements.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "The New York Times newspaper structure",
+    "\"The New York Times\" masthead",
+    "\"S.T.A.R.S. Cop Jill Valentine Disgraced\" news article content",
+    "Photo of Will Smith (within the news article)",
+    "Newspaper headlines from Image 2 (e.g., \"PRICES CLIMB 0.4%\", \"Millions Join Earth Day Observances Across the Nation\", \"CAMBODIAN CRISIS\")",
+    "\"All the News That's Fit to Print\" motto",
+    "Newspaper date (\"NEW YORK, THURSDAY, APRIL 23, 1970\")",
+    "Newspaper price (\"10 CENTS\")",
+    "Textual references to \"Officer Smith\" and \"Smith\" (within the news article)",
+    "Full-color tones applied to all text, images, and background elements"
+  ]
+}

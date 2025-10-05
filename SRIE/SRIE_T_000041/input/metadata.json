@@ -1,0 +1,20 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Recolor the original photo using the hot-to-cold palette from this thermal scan.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 (the meme image of the cat) by recoloring it entirely, applying the distinct hot-to-cold color palette found in image 2 (the thermal scan). Use the vibrant reds, oranges, yellows, greens, and blues from image 2 to re-render the colors of image 1, while preserving its original composition and textual content.",
+  "annotator": "matina",
+  "objects": [
+    "cat",
+    "wall",
+    "floor",
+    "text: 'Food gives you energy'",
+    "text: Me, after eating:"
+  ]
+}

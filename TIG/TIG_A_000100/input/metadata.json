@@ -1,0 +1,19 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "A fantasy scene illustrating a library where books float in mid-air, their pages projecting holographic stories into a surrounding aurora-like atmosphere.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a magnificent, fantastical library interior. Numerous ancient books levitate freely throughout the vast, high-ceilinged chamber. From their open, glowing pages, vibrant holographic narratives are projected, blending seamlessly into a luminous, swirling aurora borealis-like atmosphere that engulfs the entire space.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Fantastical library interior",
+    "Numerous ancient books",
+    "Levitating books",
+    "Open book pages",
+    "Glowing book pages",
+    "Vibrant holographic narratives",
+    "Luminous, swirling aurora borealis-like atmosphere"
+  ]
+}

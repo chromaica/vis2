@@ -1,0 +1,29 @@
+{
+  "subtopic": "Games",
+  "prompt": "Generate a 3D cartoon style screenshot for a fantasy RPG battle inspired by the battle screen UI and art style of the reference image. At the same time turn into a much stronger enemy with Level 99.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://archive.org/download/epic-battle-fantasy-5-v1.5.4./EBF5_Battle_Water_Slime_v1.5.4.png",
+  "searchQueryGenerated": "Epic fantasy game screenshot high resolution",
+  "searchQueryGeneratedTimestamp": 1749436633798,
+  "promptGeneratedTimestamp": 1749436699396,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a 3D cartoon style fantasy RPG battle screenshot. The scene's overall layout, battle screen UI elements, and art style should be directly inspired by image 1. Recreate the UI panels from image 1, including the top-left system icons, the player's status bar and portrait on the bottom-left, the action menu (Attack, Tactics, Skill, Summon, Equip, Item) in the bottom-center, and the enemy information panel in the bottom-right. The foreground wooden pier and underwater background from image 1 should also be present, all rendered in a cohesive 3D cartoon aesthetic. Crucially, replace the two small slime enemies on the right side of image 1 with a single, imposing 'Level 99' fantasy creature that appears significantly stronger and larger, fitting the 3D cartoon style.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Top-left system UI icons",
+    "Player's status bar and portrait (bottom-left)",
+    "Action menu (Attack, Tactics, Skill, Summon, Equip, Item) (bottom-center)",
+    "Enemy information panel (bottom-right)",
+    "Foreground wooden pier",
+    "Underwater background",
+    "Player character (pirate-like, on the left)",
+    "Two small slime enemies (should not be present)",
+    "Single, imposing 'Level 99' fantasy creature (on the right side)",
+    "\"KUPOGAMES.com\" logo (top-right)"
+  ],
+  "human_annotation": true
+}

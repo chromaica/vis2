@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Craft a modern typographic brand element: the phrase 'Innovate & Inspire' in a sleek, professional sans-serif font, rendered in metallic silver with a subtle gradient. This should be set against a clean white background that features minimal, abstract design accents for a sophisticated identity.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a modern, minimalist typographic brand logo. The phrase 'Innovate & Inspire' is the central element, rendered in a sleek, professional sans-serif font. The text features a metallic silver finish with a subtle gradient. This logo is set against a pristine white background that includes very subtle, abstract geometric design accents. The overall image should convey a sophisticated and clean aesthetic.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "typographic brand logo",
+    "phrase 'Innovate & Inspire'",
+    "sleek, professional sans-serif font (applied to text)",
+    "metallic silver finish (on text)",
+    "subtle gradient (on text)",
+    "pristine white background",
+    "subtle, abstract geometric design accents (on background)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

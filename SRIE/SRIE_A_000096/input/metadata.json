@@ -1,0 +1,26 @@
+{
+  "subtopic": "Traditional art",
+  "prompt": "Edit image 1: Replace the painted design on the red umbrella with the intricate geometric and floral pattern found in image 2, seamlessly adapting it to the umbrella's surface.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748714789787,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1. Replace the existing painted design (a bird and floral motif) on the red umbrella with the intricate, multicolored geometric and floral pattern from image 2. The new pattern should seamlessly adapt to the umbrella's curved surface, maintaining its radial symmetry.",
+  "annotator": "kellycyy",
+  "objects": [
+    "red umbrella",
+    "intricate, multicolored geometric and floral pattern on the red umbrella",
+    "radial symmetry of the pattern on the umbrella",
+    "curved surface of the umbrella",
+    "wooden ceiling/roof structure",
+    "hanging light fixtures",
+    "wooden pillar",
+    "menu boards in background",
+    "bird and floral motif (should not be present)"
+  ]
+}

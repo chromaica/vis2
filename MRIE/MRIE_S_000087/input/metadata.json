@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "QR Code",
+  "prompt": "Edit image 1 by replacing the 'PRIORITY MAIL EXPRESS' text with 'PAYPAL PRIORITY' in the same bold black font. Then, Swap the top QR code with the QR from image 2 and add the PayPal logo from image 3 to the middle of the screen in the free white space. All other interface elements must remain unaltered.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Using image 1 as the source for editing:\n1. Replace the prominent header text \"PRIORITY MAIL EXPRESS\" located in the upper-middle section of image 1 with \"PAYPAL PRIORITY\". Ensure the new text matches the original's bold, black font style.\n2. Replace the QR code in the top-right corner of image 1 with the QR code extracted from image 2.\n3. Insert the PayPal logo from image 3 into the large, central white space of image 1, ensuring it is centered and appropriately scaled within that area.\nAll other elements and text on image 1 must remain unaltered.",
+  "annotator": "parnian",
+  "objects": [
+    "\"PAYPAL PRIORITY\" text (upper-middle header)",
+    "QR code (top-right, from image 2)",
+    "PayPal logo (centered in large white space)",
+    "Large 'E' (top-left)",
+    "Barcode (bottom section)",
+    "\"PRIORITY MAIL EXPRESS\" text (bottom section)",
+    "\"SENT FROM\" text (top section)",
+    "\"COMPANY NAME\" text (top section)",
+    "\"C463 0876\" numbers",
+    "\"POSTAL USE ONLY\" text"
+  ]
+}

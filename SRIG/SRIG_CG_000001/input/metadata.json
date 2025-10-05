@@ -1,0 +1,24 @@
+{
+  "subtopic": "Object detection visuals",
+  "prompt": "Create a computer graphics image depicting a busy city square at daytime Tokyo. Overlay the scene with visual object detection bounding boxes and labels for pedestrians and street furniture, using the reference's style as inspiration for the UI elements.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://medium.com/codable/sahi-a-vision-library-for-performing-sliced-inference-on-large-images-small-objects-c8b086af3b80",
+  "promptGeneratedTimestamp": 1748684429291,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a computer graphics image depicting a bustling city square in Tokyo during daytime. Overlay this scene with visual object detection bounding boxes and corresponding labels. For the design of these UI elements, draw inspiration from image 1, specifically adopting the green color for bounding boxes and yellow background labels with black text, similar to those shown around vehicles in image 1. The bounding boxes should identify pedestrians and street furniture.",
+  "annotator": "ishengfang",
+  "objects": [
+    "computer graphics image",
+    "bustling city square in Tokyo",
+    "daytime scene",
+    "pedestrians with bounding boxes",
+    "street furniture with bounding boxes",
+    "green bounding boxes",
+    "yellow background labels",
+    "black text on labels"
+  ]
+}

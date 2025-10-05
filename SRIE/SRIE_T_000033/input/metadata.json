@@ -1,0 +1,18 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "Attach one ornament to each bottom corner of the names block, mirrored on the right.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, which displays a circular black graphic of the text \"LOST IN DREAM SPACE\". Using image 2 as a style and content reference for the ornament, attach one instance of the ornament to the bottom-left corner of the circular text graphic. Attach a second instance of the ornament, horizontally mirrored from the first, to the bottom-right corner of the circular text graphic.",
+  "annotator": "matina",
+  "objects": [
+    "circular black graphic with \"LOST IN DREAM SPACE\" text",
+    "ornament from image 2 attached to the bottom-left corner of the circular text graphic",
+    "horizontally mirrored ornament from image 2 attached to the bottom-right corner of the circular text graphic"
+  ]
+}

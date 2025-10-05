@@ -1,0 +1,24 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "Render a space telescope view of a galaxy using the image for structural guidance, with realistic color and stellar detail.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic deep space image, using image 1 for the overall composition and spatial arrangement of celestial bodies. Render the large spiral shape from the upper-left of image 1 as a prominent, detailed spiral galaxy, and the smaller spiral shape from the bottom-right as a distinct, smaller galaxy. Accurately depict all scattered star-like elements and speckles from image 1 as realistic individual stars and distant stellar clusters. The final image should present a space telescope's view with realistic cosmic colors, intricate stellar detail, and subtle nebulae.",
+  "annotator": "samin",
+  "objects": [
+    "Large spiral galaxy in the upper-left",
+    "Smaller galaxy in the bottom-right",
+    "Realistic individual stars",
+    "Distant stellar clusters",
+    "Subtle nebulae",
+    "Deep space background",
+    "Space telescope's view",
+    "Realistic cosmic colors"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

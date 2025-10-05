@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": "Transform the header logo into a sleek, futuristic design with metallic accents, and add a soft, ambient glow for modern sophistication.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 by transforming the 'CNN.com' logo in the top-left header section into a sleek, futuristic design with metallic accents, and add a soft, ambient glow around it for modern sophistication.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Microsoft Internet Explorer browser interface",
+    "Sleek, futuristic CNN.com logo with metallic accents and a soft, ambient glow in the top-left header",
+    "Webpage header section (excluding the logo)",
+    "Dell advertisement banner",
+    "Webpage search bar",
+    "Left navigation menu",
+    "Main news article section",
+    "Image of a man with glasses in the news content",
+    "\"MORE NEWS\" section with news links",
+    "Webpage footer/status bar"
+  ]
+}

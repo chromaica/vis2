@@ -1,0 +1,28 @@
+{
+  "subtopic": "Object detection visuals",
+  "prompt": "Edit image 1 to demonstrate object detection: place a bounding box around the woman styled like the vehicles in image 2; apply a mask to her apron using a shape inspired by the pose in image 3; segment the kitchen background elements with a texture derived from the basket in image 4; insert the hairdryer from image 5 onto the counter with a precise segmentation mask.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg",
+    "4.jpeg",
+    "5.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749067402662,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1 as follows:\n1.  Draw a thick, military-style bounding box around the woman standing on the left side of the kitchen. The box's color and line style should resemble the sturdy, utilitarian aesthetic of the vehicles in image 2.\n2.  Apply a non-rectangular, dynamic mask onto the woman's red apron. The shape of this mask should abstractly reflect the angular and powerful silhouette of the figure's pose in image 3, particularly the raised arm and bent body.\n3.  Segment the entire kitchen background, including the light green walls, white cabinets, and grey countertops. Apply a woven, natural wicker texture to these segmented areas, deriving the visual style and pattern from the basket shown in image 4.\n4.  Insert the black hairdryer from image 5, including its two detachable nozzles, onto the grey countertop in the middle-right area of image 1. Ensure the hairdryer is placed realistically on the surface with a precise segmentation mask.",
+  "annotator": "winston",
+  "objects": [
+    "Woman standing on the left side of the kitchen",
+    "Thick, military-style bounding box around the woman",
+    "Woman's red apron with a non-rectangular, dynamic mask",
+    "Kitchen background with woven, natural wicker texture (including walls, cabinets, and countertops)",
+    "Black hairdryer on the countertop",
+    "Two detachable hairdryer nozzles"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

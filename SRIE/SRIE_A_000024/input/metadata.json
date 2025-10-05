@@ -1,0 +1,26 @@
+{
+  "subtopic": "Collage",
+  "prompt": "Modify image 1 by applying the fragmented, textured, and layered collage style of image 2. Make image 1 appear constructed from torn paper, paint, and mixed media elements in a chaotic arrangement.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "Contemporary collage artwork",
+  "searchQueryGeneratedTimestamp": 1748490352264,
+  "promptGeneratedTimestamp": 1748490362415,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1. Transform image 1 into a collage artwork by applying the fragmented, textured, and layered art style of image 2. Make all elements of image 1\u2014the person, the objects on their head (like Yoda, flowers, and books), and the circular background with musical notes\u2014appear constructed from a chaotic arrangement of torn paper pieces, distinct paint strokes, and various mixed media, emulating the raw, deconstructed aesthetic evident in image 2.",
+  "annotator": "kellycyy",
+  "objects": [
+    "Person (central figure)",
+    "Grogu (Baby Yoda figure on head)",
+    "Purple flowers (on head)",
+    "Books (on head)",
+    "Circular background",
+    "Musical notes (on circular background)"
+  ],
+  "human_annotation": true
+}

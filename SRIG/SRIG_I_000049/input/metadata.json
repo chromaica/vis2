@@ -1,0 +1,24 @@
+{
+  "subtopic": "Maps",
+  "prompt": "Based on the provided topographical survey map with contour lines, follow the style and generate a topographical survey map with contour lines for Hong Kong.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://cdn.shopify.com/s/files/1/0384/0233/files/topographic-map-example.png",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate a topographical survey map of Hong Kong, replicating the distinct visual style observed in image 1. The map should feature detailed brown contour lines with brown elevation labels, light blue water bodies with a speckled texture, and light green areas representing vegetation. Crucially, include the subtle shaded relief that creates a realistic 3D impression of the terrain, consistent with the rendering in image 1.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Topographical survey map of Hong Kong",
+    "Detailed brown contour lines",
+    "Brown elevation labels",
+    "Light blue water bodies",
+    "Speckled texture on water bodies",
+    "Light green vegetation areas",
+    "Subtle shaded relief",
+    "Realistic 3D impression of terrain"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

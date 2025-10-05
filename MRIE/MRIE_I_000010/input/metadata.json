@@ -1,0 +1,27 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "Edit the GUI interface in image 1. Replace the 'HOME' icon with the minimalist house icon from image 2, the 'START' button with the modern glowing button from image 3, and the 'STOP' button with the simple red sign icon from image 4.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png",
+    "4.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the GUI interface in image 1. Replace the 'HOME' icon, located in the top-left, with the minimalist house icon from image 2. Replace the 'START' button, located mid-left below the 'HOME' icon, with the modern glowing button from image 3. Replace the 'STOP' button, located bottom-left below the 'START' button, with the simple red sign icon from image 4.",
+  "annotator": "maxku",
+  "objects": [
+    "GUI interface (grey window, title bar, general layout)",
+    "\"DeRisi Lab Extract Maker\" title",
+    "Minimalist house icon (from image 2) in top-left",
+    "Modern glowing 'START' button (from image 3) in mid-left",
+    "Simple red 'STOP' sign icon (from image 4) in bottom-left",
+    "Volume Control section (including sliders, text, buttons)",
+    "Cycles Control section (including sliders, text, buttons)",
+    "Current Cycle display",
+    "Time Elapsed and Time Remaining displays",
+    "Text box with \"Please remove all syringes...\" message"
+  ]
+}

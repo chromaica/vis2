@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "A segmentation map showing a cat holding up a bird on a wall. Side view so it shows both the cat and the bird. The wall is on the left side of the cat.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A segmentation map depicting a cat holding a bird while standing on a wall. The scene is rendered from a side view, ensuring both the cat and the bird are clearly visible. The wall is positioned to the left of the cat. Each distinct object (cat, bird, wall, background) should be represented by a unique, flat color.",
+  "annotator": "maxku",
+  "objects": [
+    "cat",
+    "bird",
+    "wall",
+    "background",
+    "cat holding bird",
+    "cat standing on wall",
+    "wall positioned to the left of cat"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

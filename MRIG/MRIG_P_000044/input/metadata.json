@@ -1,0 +1,27 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Generate a snow-covered cityscape where nature has reclaimed an abandoned metropolis in a frozen, wintery environment. Use the first image as a reference for the cityscape's shape, structure, and layout, including the design and arrangement of skyscrapers and streets. Use the second image as a reference for the overgrown aesthetic, adapted to a cold climate with hardy evergreens, moss, and frost-tolerant plants. Depict towering skyscrapers with cracked, ice-encrusted facades draped in sparse vines and covered in snow, and streets blanketed in deep snow with patches of resilient wildflowers and coniferous shrubs, blending urban decay with a stark, wintry overgrowth.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic image of a snow-covered cityscape where nature has reclaimed an abandoned metropolis in a frozen, wintery environment.\nUse image 1 as a reference for the cityscape's overall shape, dense structural layout, and prominent waterfront, including the varied heights and arrangement of skyscrapers and the implied street grid.\nIncorporate the harsh, frozen environment of image 2, including elements of expansive ice and desolation, to define the scene's bleak, wintery atmosphere.\nDepict towering skyscrapers with cracked, heavily ice-encrusted facades, draped with sparse, frost-tolerant vines and substantial snow accumulation on ledges and roofs. Streets are entirely blanketed in deep snow, featuring isolated patches of resilient wildflowers and small coniferous shrubs breaking through. The image should blend profound urban decay with stark, wintry overgrowth.",
+  "objects": [
+    "Snow-covered cityscape",
+    "Towering skyscrapers",
+    "Frozen waterfront",
+    "Expansive ice on water",
+    "Deep snow on streets",
+    "Heavy snow accumulation on skyscraper ledges and roofs",
+    "Cracked, ice-encrusted skyscraper facades",
+    "Sparse, frost-tolerant vines on skyscraper facades",
+    "Isolated patches of resilient wildflowers in snow",
+    "Small coniferous shrubs in snow"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

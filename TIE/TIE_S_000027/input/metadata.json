@@ -1,0 +1,25 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Switch the UI from dark mode to light mode.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 to switch the UI from dark mode to light mode. Convert the dark background to light and the light text to dark. All UI elements, such as buttons, input fields, and section headers, should be updated to their light mode visual style, preserving their original layout and content.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Main content text",
+    "\"Thought Process\" section headers",
+    "File status indicators (e.g., \"Analyzed script.js\")",
+    "Document/file icons",
+    "Numerical indicators (e.g., +393 -561 365)",
+    "\"Open diff\" buttons",
+    "\"Auto-fix on\" dropdown",
+    "Lint error warning",
+    "Bottom input field/command bar",
+    "Scrollbar"
+  ],
+  "human_annotation": true
+}

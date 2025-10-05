@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "A poster featuring 'EXPLORE' as its main textual element, using a bold 3D sans-serif font with vibrant gradient colors, set against a clean, minimalist background.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A minimalist poster featuring the word 'EXPLORE' as the prominent, central textual element. The 'EXPLORE' text is rendered in a bold, three-dimensional sans-serif font, filled with vibrant gradient colors. The background is clean and minimalist.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "The word 'EXPLORE' as the prominent, central textual element",
+    "'EXPLORE' text rendered in a bold font",
+    "'EXPLORE' text rendered in a three-dimensional style",
+    "'EXPLORE' text rendered in a sans-serif font",
+    "'EXPLORE' text filled with vibrant gradient colors",
+    "Clean background",
+    "Minimalist background"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,25 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Cultural or Heritage art",
+  "prompt": "Generate a painting of the bellary heritage site.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a painting of the Bellary heritage site, referencing image 1. The image should depict a prominent open-air structure composed of light-colored stone pillars with decorative carvings and horizontal beams. In the immediate foreground, a wide, dark paved area leads to a raised stone platform with green grass and a rectangular stone seating area on the left. Lush green trees and bushes, along with patches of flowering plants, are visible in the background, behind and to the left of the stone structure, all under a clear sky.",
+  "annotator": "Johnny",
+  "objects": [
+    "Prominent open-air stone structure",
+    "Light-colored stone pillars with decorative carvings",
+    "Horizontal stone beams",
+    "Wide, dark paved area in immediate foreground",
+    "Raised stone platform",
+    "Green grass on raised stone platform",
+    "Rectangular stone seating area on the left",
+    "Lush green trees in the background",
+    "Bushes and patches of flowering plants in the background",
+    "Clear sky"
+  ],
+  "human_annotation": true
+}

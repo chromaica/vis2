@@ -1,0 +1,31 @@
+{
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "Remove the segmentation masks and bounding boxes from the image.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751818631191,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1. Remove all overlaid computer vision annotations, including the colored segmentation masks with white outlines, the green bounding boxes, and the text labels (e.g., 'person 1.00', 'bicycle 0.97'), to restore the image to its original unannotated appearance.",
+  "annotator": "edisy",
+  "objects": [
+    "people",
+    "bicycles",
+    "road",
+    "trees",
+    "sky",
+    "white flags",
+    "backpacks",
+    "helmets",
+    "water bottles",
+    "cell phone",
+    "colored segmentation masks (should not be present)",
+    "white outlines (should not be present)",
+    "green bounding boxes (should not be present)",
+    "text labels (should not be present)"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,22 @@
+{
+  "subtopic": "Astronomical images",
+  "prompt": "Change the galaxy shape to match the mask of image 2. Apply the rich, vibrant colors, glowing gaseous structures, and star field style from image 3 to the entire scene, enhancing the photorealistic detail and cosmic beauty.",
+  "cond_images": [
+    "1.jpeg",
+    "2.png",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749223387594,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "P",
+  "prompt_refined": "Edit the provided galaxy image (Image 1). Reshape the main galaxy in Image 1 to precisely conform to the elliptical ring contour of the white mask presented in Image 2. Infuse the entire cosmic scene of Image 1 with the rich, vibrant color palette, luminous gaseous structures, and sparkling star field style, including multi-colored stars with prominent diffraction spikes, characteristic of Image 3.",
+  "annotator": "boris",
+  "objects": [
+    "Elliptical ring-shaped main galaxy",
+    "Cosmic background",
+    "Luminous gaseous structures",
+    "Sparkling star field with multi-colored stars and prominent diffraction spikes"
+  ]
+}

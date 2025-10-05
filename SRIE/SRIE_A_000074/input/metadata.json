@@ -1,0 +1,20 @@
+{
+  "subtopic": "Collage",
+  "prompt": "Change the pattern of shofar in image 1 with  the vibrant ribbed rainbow-gradient pattern and texture from image 2, seamlessly integrating it into the collage artwork.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748653907336,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1: Replace the current pattern and texture of the shofar with the vibrant, ribbed, rainbow-gradient pattern and texture from image 2. Seamlessly integrate this new appearance into the existing collage artwork, preserving the shofar's original shape and scale within the composition.",
+  "annotator": "kellycyy",
+  "objects": [
+    "shofar with vibrant, ribbed, rainbow-gradient pattern and texture",
+    "collage artwork background with blue tones and abstract shapes",
+    "\"SHOFAR\" text composed of cut-out letters"
+  ]
+}

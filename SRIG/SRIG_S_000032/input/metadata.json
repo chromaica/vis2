@@ -1,0 +1,29 @@
+{
+  "subtopic": "Software interfaces",
+  "prompt": "Generate a screenshot of a modern finance management mobile app interface. Replicate the clean, flat design aesthetic, rounded card layout structure, light background gradient, vibrant accent color palette, and 3D avatar style from the reference image.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://designshack.net/wp-content/uploads/taskly--task-management-app-ui-template-290-1.jpg",
+  "searchQueryGenerated": "Modern application user interface clean design screenshot",
+  "searchQueryGeneratedTimestamp": 1749426788122,
+  "promptGeneratedTimestamp": 1749426814602,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a screenshot of a modern finance management mobile app interface. The interface must replicate the visual style and UI patterns observed in image 1, specifically:\n- A clean, minimalist, and flat design aesthetic with crisp lines, clear typography, and subtle shadows.\n- A dominant layout composed of large, rounded-corner card components, similar to the 'Brand Design' and 'New Leads' sections shown in image 1, used for organizing various content blocks.\n- A subtle, light background gradient across the screen, transitioning from a soft warm hue at the top to a cool, light grey at the bottom, matching the overall screen background in image 1.\n- A vibrant accent color palette used for progress indicators (e.g., green, red, yellow bars), selected states (e.g., the bright green 'Daily Task' card, red calendar dates), and small badges.\n- Distinctive 3D rendered, stylized, cartoon-like avatars in circular placeholders, reflecting the diverse character styles, expressions, and colorful appearances seen throughout image 1.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Mobile app interface screenshot",
+    "Large, rounded-corner card components",
+    "Subtle light background gradient (warm hue top, cool grey bottom)",
+    "Circular placeholders with 3D rendered, stylized, cartoon-like avatars",
+    "Vibrant accent colored progress indicator bars (e.g., green, red, yellow)",
+    "Vibrant accent colored cards (e.g., bright green 'Daily Task' card)",
+    "Red-highlighted calendar dates",
+    "Small colored badges",
+    "Clear typography for app titles, section headers, and content",
+    "Mobile status bar (time, network, battery indicators)"
+  ],
+  "human_annotation": true
+}

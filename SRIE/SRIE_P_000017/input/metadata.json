@@ -1,0 +1,27 @@
+{
+  "task": "SRIE",
+  "topic": "P",
+  "subtopic": "Medical images",
+  "prompt": "Remove the masked nodule from the source image and inpaint the affected region to match the surrounding tissue.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 2, the CT scan displaying a black elliptical mask located in the mid-right region of the lung parenchyma (from the viewer's perspective). Remove this black mask and inpaint the area it covers. The inpainted region must seamlessly integrate with the surrounding healthy lung tissue, replicating its photorealistic appearance, texture, and density. Use image 1 as a reference to guide the generation of the accurate lung tissue in the removed masked area.",
+  "annotator": "nimajamali",
+  "objects": [
+    "CT scan image",
+    "Lungs",
+    "Healthy lung tissue",
+    "Heart",
+    "Trachea",
+    "Bronchi",
+    "Rib cage",
+    "Photorealistic lung tissue appearance",
+    "Photorealistic lung tissue texture",
+    "black elliptical mask (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

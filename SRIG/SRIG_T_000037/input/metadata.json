@@ -1,0 +1,25 @@
+{
+  "subtopic": "Typography",
+  "prompt": "Generate two abstract font characters for 'Textual Graphics' and 'Typography', inspired by the form, color palette, and relative scale of the piggy banks in the reference image, on a clean white background.",
+  "cond_images": [
+    "1.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1750705336321,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "T",
+  "annotator": "winston",
+  "prompt_refined": "Generate two abstract font characters, inspired by the form, color palette, and relative scale of the piggy banks in image 1.\n\nThe character for 'Textual Graphics' should be larger, drawing its rounded, organic form and multi-colored palette (purple, light blue, sandy beige, green, orange accents) from the prominent piggy bank on the left in image 1.\n\nThe character for 'Typography' should be smaller, adopting the smoother, simpler rounded form and light blue, pink, and black color scheme of the piggy bank with heart-shaped sunglasses on the right in image 1.\n\nPosition the larger 'Textual Graphics' character on the left in the foreground, and the smaller 'Typography' character on the right in the background, maintaining the spatial relationship seen in image 1. Present both characters as distinct graphic elements on a clean white background.",
+  "objects": [
+    "Larger abstract font character for 'Textual Graphics'",
+    "Rounded, organic form for 'Textual Graphics' character",
+    "Purple, light blue, sandy beige, green, orange accents on 'Textual Graphics' character",
+    "'Textual Graphics' character positioned on the left in the foreground",
+    "Smaller abstract font character for 'Typography'",
+    "Smoother, simpler rounded form for 'Typography' character",
+    "Light blue, pink, and black color scheme on 'Typography' character",
+    "'Typography' character positioned on the right in the background",
+    "Clean white background"
+  ]
+}

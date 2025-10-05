@@ -1,0 +1,21 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Portraits",
+  "prompt": "Add the silhouette-shaped beard from image 3 to the man's face in image 1, and overlay the steamed glass layer from image 2 in front of him so that it appears he is standing behind the wet glass.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Modify image 1, the painted portrait of the man. Integrate the black silhouette beard from image 3 onto the lower part of his face, specifically over his chin and mouth area. Subsequently, overlay the distinct wet, water-streaked glass effect and water droplets from image 2 across the entire foreground of the image, making the man appear as if he is positioned behind this steamed and wet glass surface.",
+  "annotator": "paria",
+  "objects": [
+    "painted portrait of a man",
+    "black silhouette beard on the man's chin and mouth area",
+    "wet glass surface in the foreground",
+    "water streaks on the glass",
+    "water droplets on the glass"
+  ]
+}

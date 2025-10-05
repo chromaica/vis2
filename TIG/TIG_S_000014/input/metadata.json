@@ -1,0 +1,24 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "create a handwritten receipt from a Moroccan spice market, listing saffron, cardamom, and mint tea in Arabic script, with colorful spice powders dusting the weathered paper",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a detailed image of an old, weathered receipt. The paper has a warm, aged parchment color and shows subtle creases. Handwritten on the receipt, in elegant Arabic script, are distinct line items for 'saffron', 'cardamom', and 'mint tea'. Vibrant, fine spice powders in shades of red, orange, and yellow are lightly dusted and scattered across the surface of the receipt, giving it the appearance of having come directly from a bustling Moroccan spice market.",
+  "annotator": "theblackcat",
+  "objects": [
+    "old, weathered receipt",
+    "warm, aged parchment colored paper",
+    "subtle creases on the receipt",
+    "elegant Arabic script on the receipt",
+    "line item for 'saffron'",
+    "line item for 'cardamom'",
+    "line item for 'mint tea'",
+    "red spice powder scattered on the receipt",
+    "orange spice powder scattered on the receipt",
+    "yellow spice powder scattered on the receipt"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

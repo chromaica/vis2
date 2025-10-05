@@ -1,0 +1,24 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Object detection visuals",
+  "prompt": "Insert similar animals in the source image based on species from the reference.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 (the snowy landscape) by inserting multiple deer into the foreground and midground of the scene. The inserted deer should accurately reflect the species, size variations (adults and fawns), and visual characteristics, such as coat pattern and color, observed in the deer within image 2 (the reference image).",
+  "annotator": "nimajamali",
+  "objects": [
+    "Snowy ground",
+    "Snow-covered evergreen trees",
+    "Sky",
+    "Multiple deer in the foreground",
+    "Multiple deer in the midground",
+    "Adult deer",
+    "Deer fawns",
+    "Spotted coat pattern on deer",
+    "Light brown deer coat color"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Floor Plan",
+  "prompt": "Integrate a modern kitchenette in the top-left corner of the floor plan, complete with a fridge and a coffee maker.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, which is a floor plan, by integrating a modern kitchenette into its top-left corner. The kitchenette must clearly include a fridge and a coffee maker.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Floor plan layout (walls, rooms, doorways)",
+    "Kitchenette counter/cabinetry in the top-left corner",
+    "Fridge in the top-left kitchenette",
+    "Coffee maker in the top-left kitchenette",
+    "Office desks",
+    "Office chairs",
+    "Oval conference table",
+    "Conference chairs",
+    "Living room sofa",
+    "Sink and existing countertops"
+  ]
+}

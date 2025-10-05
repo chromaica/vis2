@@ -1,0 +1,23 @@
+{
+  "subtopic": "Collage",
+  "prompt": "Edit image 1: Add the colorful circular collage elements from image 2 to the branches of the tree, creating a blooming tree composition. Maintain the collage texture and style from both images.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748653073099,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1: Add the colorful, circular, collage-style 'flower' elements from image 2 to the bare branches of the tree in image 1. Distribute these elements to create a blooming tree composition, maintaining the distinct paper collage texture and artistic style seen in both image 1 and image 2.",
+  "annotator": "kellycyy",
+  "objects": [
+    "Tree trunk",
+    "Tree branches",
+    "Colorful circular collage flowers distributed on branches",
+    "Paper collage texture",
+    "Torn paper ground element",
+    "White paper background"
+  ]
+}

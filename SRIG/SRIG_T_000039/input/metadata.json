@@ -1,0 +1,26 @@
+{
+  "subtopic": "Typography",
+  "prompt": "A typographic illustration for 'Textual Graphics', showcasing various fonts arranged in the seated pose and composition layout of the reference image. Focus on Typography elements forming the figure.",
+  "cond_images": [
+    "1.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1750705330844,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "T",
+  "annotator": "winston",
+  "prompt_refined": "Generate a typographic illustration for 'Textual Graphics'. The illustration should feature a figure composed entirely of various fonts and text elements. This typographic figure must precisely replicate the seated pose and full-body composition of the woman in image 1, specifically her posture on the floor with one leg bent and the other extended. Every anatomical contour and feature of the figure, from head to limbs, must be exclusively formed by the strategic arrangement of typography.",
+  "objects": [
+    "Typographic figure",
+    "Figure in a seated pose",
+    "Figure with one leg bent (replicating image 1)",
+    "Figure with one leg extended (replicating image 1)",
+    "Full-body composition of the figure",
+    "Head of the figure composed of typography",
+    "Limbs of the figure composed of typography",
+    "Anatomical contours of the figure formed by typography",
+    "Various fonts and text elements (forming the figure)",
+    "The phrase \"Textual Graphics\""
+  ]
+}

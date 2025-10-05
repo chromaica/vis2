@@ -1,0 +1,24 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": " Create a air purifier with the style of a eagle. The first reference image: a modern air purifier. Style it based on the second reference image: an eagle with sharp wings and brown feathers. The air purifier should have wing-like vents, feather-textured panels, and talon-inspired feet, placed in a sleek open-plan living space.",
+  "cond_images": [
+    "1.png",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic image of a unique air purifier. This air purifier should adopt the sleek, cylindrical form factor seen in image 1. Integrate distinctive design elements inspired by the eagle in image 2, specifically: it should feature prominent wing-like vents, panels textured to resemble the eagle's dark brown/black feathers, and a base with robust, talon-inspired feet. Place the air purifier in a brightly lit, minimalist open-plan living space.",
+  "objects": [
+    "Unique air purifier",
+    "Sleek, cylindrical form factor",
+    "Prominent wing-like vents",
+    "Panels textured like dark brown/black feathers",
+    "Base with robust, talon-inspired feet",
+    "Brightly lit living space",
+    "Minimalist living space",
+    "Open-plan living space"
+  ],
+  "human_annotation": true
+}

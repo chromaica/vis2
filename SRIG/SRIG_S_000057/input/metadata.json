@@ -1,0 +1,26 @@
+{
+  "subtopic": "Software interfaces",
+  "prompt": "Recreate the software interface screenshot with a 'glassmorphism' effect, using blurred, translucent backgrounds for all windows and panels.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://cdn.cleanmymac.com/blog_articles/June2024/see%20all%20open%20windows%20on%20Mac1.png",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate an image by applying a 'glassmorphism' effect to the software interface elements depicted in image 1. Specifically, render the backgrounds of all open application windows (Apple Music, Zoom Workplace, All Boards, MacPaw, YouTube) and their internal panels (e.g., sidebars, content areas) with a blurred, translucent appearance. Additionally, apply the same blurred, translucent effect to the desktop dock at the bottom. The underlying vibrant green and red gradient wallpaper should be visible through these elements.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Vibrant green and red gradient wallpaper",
+    "Apple Music application window",
+    "Zoom Workplace application window",
+    "All Boards application window",
+    "MacPaw application window",
+    "YouTube application window",
+    "Desktop dock",
+    "Desktop menu bar",
+    "Application icons on the desktop dock",
+    "Internal panels (sidebars, content areas) of the application windows"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

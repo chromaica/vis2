@@ -1,0 +1,21 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "make the tissue found in the image from magnification 100x to 200x with cross section view",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "should seeing dark spots",
+  "prompt_refined": "Edit image 1. Increase the magnification of the tissue shown in image 1 from 100x to 200x. The tissue should be depicted specifically in a cross-section view, showing enhanced cellular detail characteristic of 200x magnification.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Microscopic tissue",
+    "Tissue in cross-section view",
+    "Enhanced cellular detail",
+    "Pink-stained cells",
+    "White interstitial spaces",
+    "Cellular boundaries",
+    "Nuclei"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "Create a collage style of a black fashion shoe.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a black high-top fashion shoe in a collage art style, referencing the silhouette and form of the shoe in image 1. Position the shoe prominently in a side profile.",
+  "annotator": "Johnny",
+  "objects": [
+    "Black high-top fashion shoe",
+    "Collage art style",
+    "Shoe in side profile",
+    "Prominently positioned shoe"
+  ]
+}

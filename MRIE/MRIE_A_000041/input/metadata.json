@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Portraits",
+  "prompt": "Convert the style of the portrait in the first image to match the pop art style of the second image, and apply the color palette from the third image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the portrait of the woman in image 1. Transform its visual aesthetic to align with the bold, graphic pop art style exemplified by the portrait in image 2, maintaining the subject's likeness. Concurrently, apply the precise color palette from image 3, incorporating its vibrant lime green, light green, pink, teal, and dark grey tones into the edited portrait.",
+  "annotator": "paria",
+  "objects": [
+    "Portrait of a woman",
+    "Pop art aesthetic",
+    "Bold graphic lines",
+    "Lime green color",
+    "Light green color",
+    "Pink color",
+    "Teal color",
+    "Dark grey color"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

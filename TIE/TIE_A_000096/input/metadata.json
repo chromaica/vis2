@@ -1,0 +1,22 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Vector art",
+  "prompt": "Make the ears of the dog rise up. Add light grey modern patterns to the white background as texture.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Transform the dog's floppy ears to stand upright. Add light grey modern patterns as texture to the white background area surrounding the blue circle.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "dog",
+    "upright dog ears",
+    "brown and white dog fur",
+    "pink dog nose",
+    "blue dog collar",
+    "dog tag",
+    "blue circle",
+    "white background area with light grey modern patterns"
+  ]
+}

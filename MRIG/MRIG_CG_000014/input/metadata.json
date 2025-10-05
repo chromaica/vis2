@@ -1,0 +1,27 @@
+{
+  "subtopic": "Game assets",
+  "prompt": "Create a stylized 3D game asset portrait of a wolf head, taking the subject and details from image 1, rendered in the cute, glossy, and slightly exaggerated 3D character art style of image 2.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748421787896,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a stylized 3D game asset: a front-facing portrait of a wolf's head. Derive the wolf's specific facial features, fur patterns, and intense gaze from the black and white line art in image 1. Apply the unique 3D character art style seen in image 2, which is characterized by a cute aesthetic, large expressive eyes, smooth and glossy textures, and slightly exaggerated proportions. The final output should be a high-fidelity 3D render.",
+  "annotator": "winston",
+  "objects": [
+    "wolf's head",
+    "front-facing portrait",
+    "high-fidelity 3D render",
+    "wolf's specific facial features (derived from image 1)",
+    "wolf's fur patterns (derived from image 1)",
+    "wolf's intense gaze (derived from image 1)",
+    "cute aesthetic (overall style from image 2)",
+    "large expressive wolf eyes (style from image 2)",
+    "smooth and glossy wolf textures (style from image 2)",
+    "slightly exaggerated wolf proportions (style from image 2)"
+  ]
+}

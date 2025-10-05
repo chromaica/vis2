@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "create a language translation interface with speech bubbles transforming between different writing systems, animated globe showing language regions, phonetic pronunciation guides with sound wave visualizations, and cultural flag motifs",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a modern, clean digital user interface for a language translation application. Central to the interface, two prominent speech bubbles are displayed: one on the left with text in a Latin script, and one on the right showing the translated text in a distinct non-Latin writing system (e.g., Japanese Kanji, Arabic, or Devanagari), with subtle visual effects suggesting a transformation or flow between them. Below these translation bubbles, a dedicated section presents phonetic pronunciation guides using International Phonetic Alphabet (IPA) symbols, alongside vibrant sound wave visualizations (detailed waveforms or spectrograms). In the upper right corner of the interface, a dynamic 3D globe is featured, with various language regions highlighted by distinct color overlays. Small cultural flag motifs are integrated adjacent to the speech bubbles (indicating source and target languages) and subtly within the globe's interface, linking to specific regions.",
+  "annotator": "theblackcat",
+  "objects": [
+    "modern, clean digital user interface",
+    "prominent speech bubble on the left with Latin script text",
+    "prominent speech bubble on the right with non-Latin script translated text",
+    "subtle visual effects suggesting transformation between speech bubbles",
+    "dedicated section below speech bubbles",
+    "phonetic pronunciation guides with IPA symbols",
+    "vibrant sound wave visualizations (waveforms/spectrograms)",
+    "dynamic 3D globe in the upper right corner",
+    "cultural flag motifs adjacent to speech bubbles",
+    "cultural flag motifs subtly within the globe's interface"
+  ]
+}

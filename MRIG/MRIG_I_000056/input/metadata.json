@@ -1,0 +1,29 @@
+{
+  "task": "MRIG",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "Generate a phone screen with all the apps in the reference iamges.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png",
+    "4.png",
+    "5.png",
+    "6.png"
+  ],
+  "remarks": "",
+  "annotator": "matina",
+  "prompt_refined": "Generate a smartphone screen showcasing app icons. The screen should display the following applications: the Netflix app icon (from image 1), the Instagram app icon (from image 2), the WhatsApp app icon (from image 3), the Weather app icon (from image 4), the TikTok app icon (from image 5), and the Spotify app icon (from image 6). Arrange these distinct app icons in a typical grid layout on the phone screen.",
+  "objects": [
+    "smartphone screen",
+    "Netflix app icon",
+    "Instagram app icon",
+    "WhatsApp app icon",
+    "Weather app icon",
+    "TikTok app icon",
+    "Spotify app icon",
+    "app icons arranged in a grid layout"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

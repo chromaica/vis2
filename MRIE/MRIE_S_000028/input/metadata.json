@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Chat and Social Messaging",
+  "prompt": "Replace the plain background of the Telegram chat in image 1 with the pink-blue swirl background from image 2, and place the green online status dot from image 3 next to \u201cEva Summer\u201d in very small size in the top contact name bar indicating she is online.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the Telegram chat screenshot. Replace the blue gradient background of the main chat panel with the pink and blue swirl pattern from image 2. Additionally, place a very small green dot, matching the style of image 3, directly to the right of the name 'Eva Summer' in the top header bar to indicate online status.",
+  "annotator": "parnian",
+  "objects": [
+    "Telegram chat interface",
+    "Chat list panel",
+    "Main chat panel",
+    "Pink and blue swirl pattern as the background of the main chat panel",
+    "Top header bar with 'Eva Summer'",
+    "Very small green dot to the right of 'Eva Summer'",
+    "Chat messages and bubbles",
+    "Message input field",
+    "Blue gradient background of the main chat panel (should not be present)"
+  ],
+  "human_annotation": true
+}

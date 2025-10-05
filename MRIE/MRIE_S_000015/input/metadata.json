@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "Edit image 1 by replacing the VISA card logo with the PayPal logo from image 3 in the top section of the receipt scaled to match the original icon in the image 1, maintaining the size and alignment. Then, add the green checkmark from image 2 next to the 'Pay' button scaled to fit surrounding UI elements to indicate the transaction is complete. All font sizes, layout, and positions should remain unchanged except for the edits I said.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Modify image 1. Replace the 'VISA' logo, located in the top-right corner of the credit card component in image 1, with the PayPal logo from image 3. The PayPal logo should be scaled to precisely match the size and alignment of the original VISA logo. Additionally, add the green checkmark from image 2 to the left of the 'Pay' text within the purple button at the bottom of image 1. Scale the checkmark to fit proportionately with the surrounding UI elements. All other font sizes, layout, positions, and design aspects of image 1 must remain unchanged.",
+  "annotator": "parnian",
+  "objects": [
+    "credit card component (blue/purple gradient)",
+    "card number (dots and '2842')",
+    "cardholder name ('Alex Banks')",
+    "PayPal logo (in top-right of credit card)",
+    "horizontal dots below card",
+    "item/price table (including 'Item', 'Price', 'Total', 'GBP 68.99', and listed items)",
+    "purple button",
+    "'Pay' text within the purple button",
+    "green checkmark (to the left of 'Pay' text)",
+    "'VISA' logo (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

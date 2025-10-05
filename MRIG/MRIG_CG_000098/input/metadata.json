@@ -1,0 +1,27 @@
+{
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "Visualize the semantic segmentation masks for the person and fire hydrants from image 1. Render this as a technical diagram using the dark, blue-toned lighting and texture style of image 2, focusing on distinct object boundaries.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748424795101,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a technical diagram depicting the semantic segmentation masks of the central person and the two fire hydrants, precisely as they are positioned in image 1. Render these segmented shapes with extremely sharp and distinct object boundaries, emphasizing their outlines. The entire visual should adopt the dark, deep blue-toned lighting and the subtle, low-key texture style observed in image 2.",
+  "annotator": "winston",
+  "objects": [
+    "Semantic segmentation mask of a central person",
+    "Semantic segmentation mask of a fire hydrant to the person's left",
+    "Semantic segmentation mask of a fire hydrant to the person's right",
+    "Extremely sharp object boundaries",
+    "Emphasized outlines of segmented shapes",
+    "Dark, deep blue-toned lighting",
+    "Subtle, low-key texture style",
+    "Technical diagram aesthetic"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

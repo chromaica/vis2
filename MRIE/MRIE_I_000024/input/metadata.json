@@ -1,0 +1,29 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "Edit image 1: Replace the hot air balloon with the rocket from image 2. Replace the bumper cars ride with the UFO from image 3. Add the alien from image 4 near the carousel ride, interacting with the parkgoers.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png",
+    "4.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. In image 1, replace the hot air balloon located in the top-right sky with the rocket from image 2. Replace the bumper cars ride, situated in the middle-right area near the 'Adipiscing' text box, with the UFO from image 3. Add the alien from image 4 near the carousel ride in the bottom-left area, ensuring it appears to be interacting with the parkgoers.",
+  "annotator": "maxku",
+  "objects": [
+    "rocket in the top-right sky",
+    "UFO in the middle-right area near the 'Adipiscing' text box",
+    "alien near the carousel ride in the bottom-left area, interacting with parkgoers",
+    "hot air balloon (should not be present)",
+    "bumper cars ride (should not be present)",
+    "amusement park",
+    "Ferris wheel",
+    "roller coaster",
+    "carousel ride",
+    "people / parkgoers"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

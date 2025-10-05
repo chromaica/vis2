@@ -1,0 +1,29 @@
+{
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Generate a layout featuring multiple types of data charts similar to the variety shown in image 1. Apply the flat design style, subtle shadows, and value labels characteristic of image 2, using its muted color palette.",
+  "cond_images": [
+    "1.png",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "Data Visualization Charts and Graphs",
+  "searchQueryGeneratedTimestamp": 1752070745998,
+  "promptGeneratedTimestamp": 1752070845749,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "I",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a new information graphics layout. The layout should feature a variety of distinct data chart types, similar in number and diversity to those presented in image 1 (e.g., bar, pie, line, scatter, heatmap, histogram). Arrange these charts in a clean, organized grid-like structure. Apply the design style and visual elements characteristic of image 2, including the clean, flat design, distinctive long diagonal drop shadows, and specific rectangular value labels (e.g., 'VALUE: 375'). Utilize the muted color palette from image 2, primarily featuring teal/turquoise, muted orange/red, and light gray tones for background and details.",
+  "objects": [
+    "Bar chart",
+    "Pie chart",
+    "Line chart",
+    "Scatter plot",
+    "Heatmap",
+    "Histogram",
+    "Rectangular value labels (e.g., 'VALUE: 375')",
+    "Long diagonal drop shadows on chart elements",
+    "Chart elements in muted teal/turquoise and muted orange/red colors",
+    "Light gray background"
+  ]
+}

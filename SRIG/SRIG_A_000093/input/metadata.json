@@ -1,0 +1,21 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Stylized art",
+  "prompt": "Create a stylized art poster of a vintage diner with neon lights.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a stylized art poster of a vintage diner interior, inspired by the vibrant aesthetic and composition of image 1. The scene should prominently feature a long counter with a row of red bar stools, a distinctive black and white checkered floor, and a variety of illuminated elements, including overhead pendant lights and a glowing 'DINER' sign, creating an atmospheric neon-style ambiance.",
+  "annotator": "Johnny",
+  "objects": [
+    "long counter",
+    "red bar stools",
+    "black and white checkered floor",
+    "overhead pendant lights",
+    "glowing 'DINER' sign"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

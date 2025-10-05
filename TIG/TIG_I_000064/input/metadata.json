@@ -1,0 +1,19 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "Minimalist Scandinavian-design UI for a forest therapy booking platform featuring muted earth tones, hand-drawn tree illustrations, and organic curved elements",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A minimalist Scandinavian-design user interface (UI) for a forest therapy booking platform. The UI features a muted earth tone color palette, incorporates stylized hand-drawn tree illustrations, and includes prominent organic curved design elements.",
+  "annotator": "theblackcat",
+  "objects": [
+    "User interface (UI)",
+    "Minimalist design aesthetic",
+    "Scandinavian design aesthetic",
+    "Muted earth tone color palette",
+    "Stylized hand-drawn tree illustrations",
+    "Prominent organic curved design elements",
+    "Booking platform components (e.g., input fields, buttons, navigation)"
+  ]
+}

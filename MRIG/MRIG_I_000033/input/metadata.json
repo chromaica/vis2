@@ -1,0 +1,27 @@
+{
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Represent the ticket volume over time data from image 1 as a stylized subway map diagram based on image 2. Use image 1's lines and data points as map routes and stations, styled geometrically like image 2, highlighting key points.",
+  "cond_images": [
+    "1.png",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "Clean diagram chart graph",
+  "searchQueryGeneratedTimestamp": 1752242547551,
+  "promptGeneratedTimestamp": 1752242638354,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "I",
+  "annotator": "htwong",
+  "prompt_refined": "Generate an information graphic that transforms the 'Ticket volume over time' data from image 1 into a stylized subway map diagram. The two data lines from image 1, 'Received' (grey) and 'Processed' (blue), should be represented as distinct subway routes. Each monthly data point from January to December 2014 in image 1 should correspond to a station along these routes. The overall visual style, including the geometric lines and circular stations, should strongly emulate the aesthetic of image 2, utilizing similar grey and blue line colors for the routes. Label the stations with the specific numerical values from image 1's data points (e.g., 202, 156, 104, 140). Clearly indicate the chronological progression of months (Jan-Dec) along the routes. Include the narrative context about '2 employees quit in May' from image 1 as a concise annotation or label relevant to the May section of the map.",
+  "objects": [
+    "Subway map diagram",
+    "Grey subway route",
+    "Blue subway route",
+    "Circular subway stations",
+    "Numerical data labels on stations (e.g., 202, 156, 104, 140)",
+    "Monthly labels (Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec)",
+    "Annotation: \"2 employees quit in May\"",
+    "Geometric lines connecting stations"
+  ]
+}

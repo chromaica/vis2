@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Oil painting",
+  "prompt": "In the first image, replace the glasses with the ones from the second image, and replace the glass on top of the books with the wine glass from the third image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 (the still life painting). Replace the cream-colored spectacles lying on the table in the lower-left area with the brown sunglasses shown in image 2. Additionally, replace the red cylindrical cup placed on top of the green book in the center with the clear wine glass containing pink liquid from image 3.",
+  "annotator": "paria",
+  "objects": [
+    "still life painting",
+    "table",
+    "draped fabric",
+    "candle in candelabra",
+    "books (stacked and open)",
+    "brown sunglasses in lower-left",
+    "clear wine glass containing pink liquid on green book",
+    "cream-colored spectacles (should not be present)",
+    "red cylindrical cup (should not be present)"
+  ],
+  "human_annotation": true
+}

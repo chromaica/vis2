@@ -1,0 +1,21 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Create a photorealistic landscape image based on the first reference image, integrating the rich, textured brushstrokes and vibrant color blending of the oil painting style from the second reference image. Preserve hyper-realistic details in elements like trees, water, and sky, with accurate shadows and lighting. The oil painting effect should manifest as subtle, textured color applications and slight impasto-like depth, while ensuring the final image remains indistinguishable from a high-quality photograph.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic landscape image. The scene should feature a vast mountainous landscape with an expansive sky and dramatic sun rays, mirroring the composition and setting of image 1. From image 2, incorporate its characteristic rich, textured brushstrokes, vibrant color blending, and subtle impasto-like depth. All landscape elements, including the lush foreground grass, distant mountains, and dynamic sky, must maintain hyper-realistic photographic detail, accurate shadows, and natural lighting conditions. The oil painting influence must manifest as subtle, textured color applications and slight impasto-like depth, ensuring the final image is indistinguishable from a high-quality photograph.",
+  "objects": [
+    "vast mountainous landscape",
+    "expansive sky",
+    "dramatic sun rays",
+    "lush foreground grass",
+    "distant mountains",
+    "dynamic sky"
+  ]
+}

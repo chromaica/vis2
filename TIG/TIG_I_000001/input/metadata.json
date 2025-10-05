@@ -1,0 +1,16 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "Icon that symbolise quantum encryption but with only 2 colors and one shape",
+  "cond_images": [],
+  "remarks": "Make sure its only one shape with clean lines and only use 2 colors",
+  "prompt_refined": "An abstract icon symbolizing quantum encryption. The icon's entire design must be formed exclusively from variations, repetitions, or arrangements of a single geometric shape (e.g., circles, squares, or triangles). The final image must use only two distinct, solid colors, without any gradients or additional hues.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Square shapes (first solid color)",
+    "Square shapes (second solid color)",
+    "Varied sizes of square shapes",
+    "Varied orientations of square shapes"
+  ]
+}

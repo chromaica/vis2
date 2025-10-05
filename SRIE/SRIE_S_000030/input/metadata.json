@@ -1,0 +1,28 @@
+{
+  "subtopic": "Websites",
+  "prompt": "Edit image 1 (Unsplash homepage) by replacing the \"Log in / Sign up\" area with the user profile picture and name section from image 2 (Unsplash profile). Integrate the profile circle and name \"Alex Jiang\" into the header bar.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751005460740,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit image 1. Replace the 'Log in / Sign up' text link in the top-right corner of the header bar with the circular user profile picture and the adjacent name 'Alex Jiang' extracted from image 2. Integrate these elements seamlessly into image 1's header bar, maintaining the existing style and scale of the surrounding navigation items.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Website header bar",
+    "Search bar",
+    "\"Explore\" navigation link",
+    "\"Advertise\" navigation link",
+    "\"Unsplash+\" navigation link",
+    "\"Submit a photo\" button",
+    "Circular user profile picture in the top-right header",
+    "\"Alex Jiang\" name adjacent to the profile picture in the top-right header",
+    "\"Log in / Sign up\" text link (should not be present)",
+    "Large mountainous landscape image in the background"
+  ],
+  "human_annotation": true
+}

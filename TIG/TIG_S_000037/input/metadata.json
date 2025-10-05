@@ -1,0 +1,19 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": "create a homepage website mockup showcases a stylish, user-friendly design for a short-term rental and experience booking site, with a simple black-and-white color scheme complemented by eye-catching images. Key elements include a bold, concise header for quick navigation, a detailed search bar, filter options to refine results, verified property listings, and a section highlighting unique experiences available for booking.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a modern website homepage mockup for a short-term rental and experience booking site. The design features a simple black-and-white color scheme, accented by vibrant, high-quality images. At the top of the page, include a bold, concise navigation header. Prominently placed below the header, design a detailed search bar. Immediately below the search bar, incorporate clear filter options for refining searches. The main content area should display neatly arranged, verified property listings. Below the property listings, create a dedicated section highlighting unique experiences available for booking. Ensure the overall design conveys a stylish and user-friendly aesthetic.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Modern website homepage mockup",
+    "Bold, concise navigation header (at the top of the page)",
+    "Detailed search bar (below the header)",
+    "Clear filter options (below the search bar)",
+    "Neatly arranged, verified property listings",
+    "Vibrant, high-quality images",
+    "Dedicated section highlighting unique experiences (below the property listings)"
+  ]
+}

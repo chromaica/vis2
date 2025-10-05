@@ -1,0 +1,27 @@
+{
+  "subtopic": "Software interfaces",
+  "prompt": "Edit image 1: Add numbered annotations (like '1', '2', '3', '4' from image 2) pointing to key interface elements in the Snagit editor, using the same visual style and connecting lines.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751012655501,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit image 1, which shows the Snagit editor. Introduce four distinct numbered annotations \u2013 '1', '2', '3', and '4' \u2013 each pointing to a different key interface element within the Snagit editor. The annotations should emulate the exact visual style found in image 2 for its numbered annotations, including the red square background, the white number, and the thin red connecting line that extends from the square to the annotated element.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Snagit editor interface",
+    "Numbered annotation '1' (with red square background, white number, and thin red connecting line)",
+    "Numbered annotation '2' (with red square background, white number, and thin red connecting line)",
+    "Numbered annotation '3' (with red square background, white number, and thin red connecting line)",
+    "Numbered annotation '4' (with red square background, white number, and thin red connecting line)",
+    "First key interface element within the Snagit editor (pointed to by annotation '1')",
+    "Second key interface element within the Snagit editor (pointed to by annotation '2')",
+    "Third key interface element within the Snagit editor (pointed to by annotation '3')",
+    "Fourth key interface element within the Snagit editor (pointed to by annotation '4')"
+  ],
+  "human_annotation": true
+}

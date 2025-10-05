@@ -1,0 +1,29 @@
+{
+  "subtopic": "Software interfaces",
+  "prompt": "In image 1's mixer view, apply the visual style of the faders and meters from the mixing console interface shown in image 2.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751012987901,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit image 1. Apply the distinct visual style of the faders and level meters from the mixing console interface shown in image 2 to the corresponding elements in image 1's mixer view. This includes redesigning the horizontal volume faders and their adjacent vertical level meters on the left side, and the master output meters at the top right, to adopt the metallic appearance, fader knob design, numerical value readouts, and segmented green, yellow, and red bar graph style from image 2.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Digital Audio Workstation (DAW) interface",
+    "Mixer view with multiple tracks",
+    "Track channels on the left side of the mixer",
+    "Horizontal volume faders with metallic appearance",
+    "Fader knobs featuring the design from Image 2",
+    "Vertical level meters adjacent to the faders, with metallic appearance",
+    "Numerical dB value readouts on the vertical level meters",
+    "Segmented green, yellow, and red bar graphs on the vertical level meters",
+    "Master output meters at the top right, with metallic appearance",
+    "Master output meters displaying numerical dB values and segmented green, yellow, and red bar graphs"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

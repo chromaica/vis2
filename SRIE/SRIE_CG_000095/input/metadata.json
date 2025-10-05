@@ -1,0 +1,23 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Game assets",
+  "prompt": "Match the character's pose and sword-holding style in the source image to that of the reference character.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Re-pose the character and adjust their sword-holding style to precisely match the posture and over-the-shoulder weapon stance of the character in image 2. The sword in image 1 should be positioned over the character's left shoulder, replicating the manner shown in image 2.",
+  "annotator": "nimajamali",
+  "objects": [
+    "Character (from image 1) in a posture replicating image 2",
+    "Sword (from image 1) positioned over the character's left shoulder, replicating image 2's stance",
+    "Rocky cliff in the foreground",
+    "Distant castle",
+    "Distant landscape",
+    "Cloudy sky with a glowing golden tree/light beam"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

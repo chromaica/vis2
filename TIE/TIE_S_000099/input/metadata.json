@@ -1,0 +1,25 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Change the interface language to Traditional Chinese, ensuring all text elements are translated accurately.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, an interface dashboard screenshot. Translate all English text elements displayed within the user interface to Traditional Chinese. This includes all menu items in the left sidebar (e.g., 'Home page', 'Team data', 'O Skills'), the notification 'Frannnk was number one on the day', the search bar placeholder text, top-right user profile text ('Never_stop'), and all titles, labels, and dynamic content descriptions across the main content area (e.g., 'Month visits', 'Work rank', 'Discussion groups', 'Team dynamic', 'Just released work Neptune Meng-APP', 'About two minutes ago', 'Welcome Wahab to the team', dates like 'March 5'). Ensure all translations are accurate and contextually appropriate for a user interface, while maintaining the original layout, font styles, and visual appearance of the dashboard.",
+  "annotator": "cwhsu",
+  "objects": [
+    "User interface dashboard layout",
+    "Left navigation sidebar with menu items",
+    "Top header bar with search field and user profile",
+    "Notification banner \"Frannnk was number one on the day\" translated to Traditional Chinese",
+    "Main content area cards displaying statistics (e.g., Month visits, Month likes, Month comments)",
+    "Work rank section with user listings",
+    "Discussion groups section with community content",
+    "Team dynamic activity feed",
+    "New released content section with user avatars",
+    "All English text elements displayed within the user interface translated to Traditional Chinese"
+  ],
+  "human_annotation": true
+}

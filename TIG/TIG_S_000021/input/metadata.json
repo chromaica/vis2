@@ -1,0 +1,24 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Security camera monitoring dashboard with military-inspired dark interface, green LED status indicators, multiple video feeds arranged in a grid, and motion detection overlays with geometric highlights",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A high-tech security camera monitoring dashboard, rendered with a sleek, dark, military-inspired interface. Multiple live video feeds are prominently displayed, meticulously arranged in a clean, structured grid pattern across the main screen. Each individual video feed features active motion detection overlays, appearing as bright, precise geometric highlights (e.g., dynamic bounding boxes, sharp polygonal outlines) directly superimposed onto the surveillance footage. Subtle, vibrant green LED status indicators are strategically integrated into the dark paneling, surrounding the video feeds and along the bottom or top edges of the dashboard.",
+  "annotator": "theblackcat",
+  "objects": [
+    "High-tech security camera monitoring dashboard",
+    "Sleek, dark, military-inspired interface",
+    "Multiple live video feeds",
+    "Live video feeds arranged in a clean, structured grid pattern",
+    "Active motion detection overlays on video feeds",
+    "Bright, precise geometric highlights (e.g., bounding boxes, polygonal outlines)",
+    "Surveillance footage (within video feeds)",
+    "Subtle, vibrant green LED status indicators",
+    "Dark paneling (of the dashboard)",
+    "Green LED indicators surrounding video feeds and along bottom/top edges"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

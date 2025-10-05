@@ -1,0 +1,22 @@
+{
+  "subtopic": "Comics",
+  "prompt": "Based on the comic cover page, generate a comic page, starting with Spider Man in a dynamic swinging pose high above a cityscape. Use the classic comic book art style and dramatic composition found in the reference image for inspiration.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://www.worthing.in/cdn/shop/files/Screenshot-2025-01-29-21-18-50-539_com.google.android.apps.docs-edit_600x.jpg?v=1738165984",
+  "promptGeneratedTimestamp": 1750502070449,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "T",
+  "prompt_refined": "Generate a new comic page featuring Spider-Man in a dynamic web-swinging pose, positioned prominently in the foreground and high above a sprawling cityscape. Adopt the classic, vibrant comic book art style and dramatic low-angle composition observed in image 1, looking up at Spider-Man as he swings towards the right. Ensure towering buildings recede into the background, emphasizing his elevated perspective and the vastness of the city below.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Spider-Man (prominently in the foreground, in a dynamic web-swinging pose, swinging towards the right)",
+    "Web line (for swinging)",
+    "Sprawling cityscape (in the background)",
+    "Towering buildings (receding into the background)",
+    "Sky (emphasizing elevated perspective)",
+    "Classic, vibrant comic book art style"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "subtopic": "Urban & Street Photography",
+  "prompt": "Replace the background construction site with the clean, modern architectural facade seen in image 3. Integrate graffiti art in the style of image 2 onto a visible wall or surface within the updated urban environment.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748657718537,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "P",
+  "prompt_refined": "Edit image 1. Replace the entire construction site building and its associated scaffolding on the right side of image 1 with the clean, modern architectural facade from image 3, seamlessly integrating it into the existing street environment. On the long, low wall in the midground of image 1, in front of the newly integrated building, apply new graffiti art in the bold, distinct style observed in image 2.",
+  "annotator": "boris",
+  "objects": [
+    "clean, modern architectural facade on the right side of the street",
+    "new graffiti art on the long, low wall",
+    "long, low wall in the midground",
+    "street",
+    "sidewalk",
+    "parked beige sedan",
+    "parked white car",
+    "trees on the left side of the street",
+    "other buildings in the background",
+    "sky"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

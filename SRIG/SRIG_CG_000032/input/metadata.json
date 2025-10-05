@@ -1,0 +1,24 @@
+{
+  "subtopic": "VFX and Particles",
+  "prompt": "Generate a scene inspired by the intense weightlifter reference. Visualize the raw strength with dynamic VFX particle streams and energy bursts emanating from the figure and barbell in a CG rendering style with dramatic lighting.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://freerangestock.com/sample/123188/weightlifter-in-action.jpg",
+  "promptGeneratedTimestamp": 1748766972855,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a new image based on the muscular male weightlifter in image 1. Depict the weightlifter, with a beard and tattoos, in a powerful deep squat position with a heavy barbell across his upper back. Visualize raw strength by adding dynamic VFX particle streams and vivid energy bursts emanating intensely from the weightlifter's body (specifically from his arms, shoulders, and legs) and from both ends of the barbell. The scene should be rendered in a realistic computer graphics (CG) style with dramatic, high-contrast lighting that accentuates the figure's exertion and the powerful energy effects.",
+  "annotator": "ishengfang",
+  "objects": [
+    "muscular male weightlifter",
+    "beard",
+    "tattoos",
+    "powerful deep squat position",
+    "heavy barbell across upper back",
+    "dynamic VFX particle streams",
+    "vivid energy bursts emanating from weightlifter's arms, shoulders, and legs",
+    "vivid energy bursts emanating from both ends of the barbell"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "task": "MRIE",
+  "topic": "T",
+  "subtopic": "Menu",
+  "prompt": "Enlarge the menu such that it fills the entire output and clearify the text. Flat white and Spanish Latte now do not provide 12oz, so remove their price respectively. Hong Kong Milk Tea provides cold option, it would be 1 dollar more expensive than the 12 oz option. Add the icon in the second image right next to the speciality drinks title. Also add the icon in the third image next to the Coffee & Tea title.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the provided menu in image 1. Enlarge the entire menu to fill the output canvas, ensuring all existing text is crisp and highly readable. For the 'Flat white' item, remove the '$5.50' listed under the '12oz' column. For the 'Spanish Latte' item, remove the '$6.50' listed under the '12oz' column. For the 'HK-style Milk Tea' item, add an 'Iced' option with a price of '$8.50', positioned in the far right column similar to other 'Iced' entries. Place the teacup icon from image 2 immediately to the right of the 'SPECIALTY DRINKS \u7279\u8272\u98f2\u54c1' title. Place the teacup with cow icon from image 3 immediately to the right of the 'COFFEE & TEA \u5496\u5561' title.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Enlarged menu layout and design from image 1",
+    "All existing text from the menu (image 1), crisp and highly readable",
+    "'$5.50' price for 'Flat white' under '12oz' column (should not be present)",
+    "'$6.50' price for 'Spanish Latte' under '12oz' column (should not be present)",
+    "'HK-style Milk Tea' menu item",
+    "'Iced $8.50' text option for 'HK-style Milk Tea' in the far right column",
+    "Teacup icon from image 2, to the right of 'SPECIALTY DRINKS \u7279\u8272\u98f2\u54c1' title",
+    "Teacup with cow icon from image 3, to the right of 'COFFEE & TEA \u5496\u5561' title"
+  ]
+}

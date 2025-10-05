@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "Generate a screenshot of a jigsaw puzzle game interface. Use the first image as the picture that the puzzle is based on (e.g., the completed image the player is assembling), and use the second image to guide the layout and design of the puzzle board, including the number of puzzle pieces, piece shapes, and indicators of missing pieces (such as grayed-out or empty slots).",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a screenshot of a jigsaw puzzle game interface. The main puzzle area should prominently feature the tropical beach sunset scene from image 1. The overall layout, design, and interactive elements of the game interface should be guided by image 2. Specifically, the puzzle board should have irregular, interlocking piece shapes, consistent with image 2, arranged in a grid approximately 12 pieces wide by 8 pieces high. Some pieces must be missing, depicted as grayed-out or empty slots that accurately maintain the shape of the absent puzzle pieces, as demonstrated in image 2. The surrounding UI should include a blue textured background, a top bar with 'MENU' and 'magnifying glass' icons on the left and a 'picture frame' icon on the right, and a bottom control bar containing a 'lightbulb' icon, progress indicators, a digital timer (e.g., '13:23'), and play/pause buttons, all styled similarly to image 2.",
+  "annotator": "paria",
+  "objects": [
+    "Jigsaw puzzle area prominently featuring a tropical beach sunset scene",
+    "Irregular, interlocking puzzle piece shapes",
+    "Missing puzzle pieces depicted as grayed-out or empty slots",
+    "Puzzle grid approximately 12 pieces wide by 8 pieces high",
+    "Blue textured background",
+    "Top control bar",
+    "'MENU' icon (on top left)",
+    "'Magnifying glass' icon (on top left)",
+    "'Picture frame' icon (on top right)",
+    "Bottom control bar containing a 'lightbulb' icon, progress indicators, a digital timer (e.g., '13:23'), and play/pause buttons"
+  ],
+  "human_annotation": true
+}

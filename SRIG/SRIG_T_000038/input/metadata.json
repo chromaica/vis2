@@ -1,0 +1,25 @@
+{
+  "subtopic": "Typography",
+  "prompt": "Create a 'Typography' design for 'Textual Graphics', inspired by the reference image's vintage style and ornate Pickelhaube details, perhaps forming the helmet shape using letters and historical ornaments.",
+  "cond_images": [
+    "1.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1750705333572,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "T",
+  "annotator": "winston",
+  "prompt_refined": "Generate a typography-focused graphic design in a vintage style, centered around the theme of 'Textual Graphics'. The main visual element should be a Pickelhaube helmet, visually constructed from intricately arranged textual elements and ornate historical typographic ornaments. This typography-based helmet should replicate the distinct form and ornate details of the Pickelhaube visible in image 1. The overall design should evoke the sepia-toned, historical aesthetic present in image 1.",
+  "objects": [
+    "Pickelhaube helmet",
+    "intricately arranged textual elements",
+    "ornate historical typographic ornaments",
+    "distinct form of a Pickelhaube helmet (as seen in image 1)",
+    "ornate details of a Pickelhaube helmet (as seen in image 1)",
+    "vintage style graphic design",
+    "sepia-toned aesthetic"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

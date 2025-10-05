@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Generate a photorealistic landscape based on the provided base photo referenced in the first image, subtly incorporating the vibrant, loose brushstrokes and vivid color palette of the Impressionist painting style from the second reference image. Preserve hyper-realistic details in elements like trees, sky, and water, with natural lighting and shadows. The Impressionist effect should appear as soft, dappled color patches and delicate brushstroke textures, seamlessly blended to maintain the photorealistic quality of the scene, as if captured by a high-resolution camera.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic landscape image. Use the composition, elements, and natural lighting of the sunset/sunrise landscape in image 1 as the primary base, including the winding river in the foreground, the extensive grassy banks, and the distant mountains. Subtly infuse the vibrant, loose brushstrokes and vivid color palette characteristic of the Impressionist painting style observed in image 2. Ensure that hyper-realistic details for elements like the water, individual blades of grass, clouds, and mountain textures are fully preserved, along with the natural interplay of light and shadows. The Impressionist effect should appear as gentle, dappled color patches and delicate textural brushstrokes, seamlessly blended into the scene to uphold its fundamental photorealistic quality, resembling an image captured by a high-resolution camera.",
+  "objects": [
+    "Photorealistic landscape",
+    "Sunset/sunrise natural lighting",
+    "Winding river in the foreground",
+    "Extensive grassy banks",
+    "Distant mountains",
+    "Clouds with hyper-realistic details",
+    "Water with hyper-realistic details",
+    "Individual blades of grass with hyper-realistic details",
+    "Mountain textures with hyper-realistic details",
+    "Gentle, dappled color patches seamlessly blended into the scene"
+  ]
+}

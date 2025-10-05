@@ -1,0 +1,23 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Replace the stripes with a gradient from green to yellow.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. On the dark blue hoodie, replace the existing white stripes on both sleeves with a gradient that transitions from green at the top to yellow at the bottom.",
+  "annotator": "matina",
+  "objects": [
+    "dark blue hoodie",
+    "hoodie hood",
+    "white drawstrings",
+    "front pouch pocket",
+    "Adidas logo",
+    "white stripes on sleeves (should not be present)",
+    "stripes on sleeves with a green to yellow gradient",
+    "plain light background"
+  ],
+  "human_annotation": true
+}

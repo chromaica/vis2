@@ -1,0 +1,24 @@
+{
+  "subtopic": "Traditional art",
+  "prompt": "Edit image 1 by applying the vibrant, high-contrast color palette featuring reds, oranges, and purples from image 2 to the landscape and figures, transforming its mood.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748713147284,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1, featuring Mount Fuji and cranes, by applying the vibrant, high-contrast color palette, rich in reds, oranges, and purples, extracted from image 2. Recolor all elements of the landscape\u2014including Mount Fuji, the hills, and the water\u2014as well as the cranes, to reflect this specific palette, transforming the artwork's original serene mood into a more dramatic one.",
+  "annotator": "kellycyy",
+  "objects": [
+    "Mount Fuji",
+    "Cranes",
+    "Hills",
+    "Water",
+    "Sky",
+    "Clouds",
+    "Trees"
+  ]
+}

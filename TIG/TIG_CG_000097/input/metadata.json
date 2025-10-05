@@ -1,0 +1,17 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "Object detection visuals",
+  "prompt": "A tabletop scene with 8 tennis balls in different colors on a table, with bounding boxes around each ball. The balls should be labeled with their colors.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate an image of eight tennis balls, each in a different distinct color, loosely scattered across a flat tabletop. Each tennis ball must be clearly outlined by a bounding box. Adjacent to each bounding box, there should be a text label accurately stating the color of the ball it encloses.",
+  "annotator": "maxku",
+  "objects": [
+    "eight tennis balls",
+    "flat tabletop",
+    "bounding box for each tennis ball",
+    "text label for each tennis ball stating its color"
+  ],
+  "human_annotation": true
+}

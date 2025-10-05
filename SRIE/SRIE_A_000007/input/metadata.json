@@ -1,0 +1,25 @@
+{
+  "subtopic": "Digital arts",
+  "prompt": "Apply the drawing style of image 2 into image 1 while keeping the elements of image 1. ",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "Digital art reference",
+  "searchQueryGeneratedTimestamp": 1748485543367,
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1 to incorporate the distinctive drawing style of image 2. Preserve all original elements and the composition of image 1, including the person, camera, pier, and the detailed background of the sky and water.",
+  "annotator": "kellycyy",
+  "objects": [
+    "person",
+    "camera",
+    "pier",
+    "sky",
+    "water",
+    "clouds",
+    "crescent moon",
+    "stars"
+  ]
+}

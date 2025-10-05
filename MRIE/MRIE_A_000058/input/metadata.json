@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Pop art",
+  "prompt": "Replace the Coca Cola and the cat in the first image with the Pepsi Cola from the second image and the dog from the third image, respectively.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the green Coca Cola bottle, located on the mid-left side, with the Pepsi can from image 2. Simultaneously, replace the black cat, positioned at the bottom center, with the dog from image 3.",
+  "annotator": "paria",
+  "objects": [
+    "Pepsi can, mid-left",
+    "Dog, bottom center",
+    "Green Coca Cola bottle (should not be present)",
+    "Black cat (should not be present)",
+    "Pop art style women",
+    "Red bottle",
+    "Wine glass",
+    "Grapes",
+    "Text bubble: \"I LOVED HIM BUT... I WANTED TOO MUCH!\"",
+    "Butterfly"
+  ]
+}

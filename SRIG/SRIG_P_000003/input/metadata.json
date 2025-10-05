@@ -1,0 +1,24 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Medical images",
+  "prompt": "Generate an MRI scan of this hand",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic MRI scan of the right hand and forearm depicted in image 1. The image should transform the hand and wrist into a detailed medical MRI view, maintaining the original pose and orientation (palm facing down, fingers spread, extending from the right side of the frame towards the left). The MRI scan should clearly reveal the internal anatomical structures, including bones, soft tissues, and blood vessels, rendered in a characteristic grayscale or spectral color scheme.",
+  "annotator": "samin",
+  "objects": [
+    "Photorealistic MRI scan of a right hand",
+    "Photorealistic MRI scan of a right forearm",
+    "Hand with palm facing down",
+    "Fingers spread",
+    "Forearm extending from the right side of the frame towards the left",
+    "Clearly revealed internal bones",
+    "Clearly revealed internal soft tissues",
+    "Clearly revealed internal blood vessels",
+    "Characteristic MRI grayscale or spectral color scheme"
+  ],
+  "human_annotation": true
+}

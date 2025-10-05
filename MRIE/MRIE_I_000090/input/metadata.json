@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "Edit image 1: Apply the clean, rounded UI panel and button styles from image 2 to replace existing elements. Update the data visualization graphs and meters in image 1 with the modern dark UI look and gradient styles from image 3.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1:\n1.  Redesign all user interface panels and interactive buttons in image 1, including the main display frames (e.g., 'SYSTEM STATUS' top-left, 'PERFORMANCE' bottom-left, 'TECHNICIANS' middle-left, 'POWER PRESETS' top-right, 'OPERATIONS' middle-right, 'SHIP STATUS' bottom-right, and the large central circular engineering display), as well as all navigation icons (top-right) and action buttons (e.g., 'STABILIZE', 'CRUISE', 'OPERATIONS MENU', 'INVITE'). These elements should adopt the clean, distinctly rounded corners and overall flat, modern aesthetic characteristic of the UI components in image 2.\n2.  Revamp all data visualization graphics and meters within image 1 to emulate the sleek, modern dark UI and vibrant gradient styles found in image 3. This applies specifically to the large central circular engineering graph, the 'PERFORMANCE' line graph (bottom-left), the 'SYSTEM STATUS' gauges (top-left), the 'POWER PRESETS' level bars (right side), and the 'SHIP STATUS' visual representation (bottom-right). Ensure these visualizations incorporate smooth, multi-color gradients and are rendered with a deep, dark background, consistent with image 3's style.",
+  "annotator": "maxku",
+  "objects": [
+    "Central circular engineering display/graph",
+    "Redesigned user interface panels",
+    "Revamped navigation icons (top-right)",
+    "Redesigned action buttons",
+    "Revamped 'PERFORMANCE' line graph (bottom-left)",
+    "Revamped 'SYSTEM STATUS' gauges (top-left)",
+    "Revamped 'POWER PRESETS' level bars (right side)",
+    "Revamped 'SHIP STATUS' visual representation (bottom-right)",
+    "Spacecraft visual (in 'EXTERNAL VIEW' section)",
+    "Dark user interface background"
+  ]
+}

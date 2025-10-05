@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Digital art",
+  "prompt": "Make the graffiti blend more with the background structure, especially the wall and pillars.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Integrate the vibrant graffiti artwork more seamlessly into its background. The colorful graffiti, including the central figure and abstract shapes, should appear less distinctively overlaid and more organically blended with the light green brick wall and the dark arched pillars, subtly incorporating the texture and existing architectural details of these surfaces.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Vibrant graffiti artwork",
+    "Central figure within the graffiti",
+    "Colorful abstract shapes within the graffiti",
+    "Light green brick wall",
+    "Dark arched pillars",
+    "Texture of the brick wall",
+    "Architectural details of the pillars",
+    "Graffiti text",
+    "Paint splatters",
+    "Existing scribbled graffiti on the lower wall"
+  ]
+}

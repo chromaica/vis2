@@ -1,0 +1,25 @@
+{
+  "subtopic": "Websites",
+  "prompt": "Take the e-commerce product page and generate a version themed for a cyberpunk universe, with neon highlights, futuristic fonts, and holographic product images.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://images.ctfassets.net/wowgx05xsdrr/9C1LfKYBzrNurIObAYTgu/66dd126847e97c68537667c7d932e628/image6-1.png?fm=webp&w=3840&q=75",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a cyberpunk-themed e-commerce product page based on the layout and content of image 1. Transform the product images of the transfer tape (the large image on the left and the smaller thumbnails below it) into vibrant, glowing holographic projections. Implement futuristic, sleek fonts for all text elements. Apply neon highlights to key UI components such as buttons (e.g., 'ADD TO CART', 'ADD TO WISH LIST'), the price display ($4.99), and interactive links, using a palette of electric blues, purples, and greens. The overall design should feature a dark, high-contrast background with subtle circuit patterns, maintaining the functional structure of the original product page.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Dark, high-contrast background with subtle circuit patterns",
+    "Large glowing holographic projection of transfer tape rolls on the left",
+    "Small glowing holographic projection thumbnails of transfer tape rolls",
+    "Product title \"GreenStar Layflat Classic Transfer Tape - Medium Tack\" with futuristic font",
+    "Product Features section with bullet points and futuristic font",
+    "Customer review section (stars, \"104 Reviews\", \"84% recommend this\") with futuristic font",
+    "Width and Length selection buttons (e.g., \"1in\", \"100ft\") with futuristic font",
+    "Price display \"$4.99\" with neon highlights and futuristic font",
+    "\"ADD TO CART\" button with neon highlights and futuristic font",
+    "\"ADD TO WISH LIST\" button with neon highlights and futuristic font"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,24 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Object detection visuals",
+  "prompt": "Replace the bicycle with the masked motorcycle.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the blue bicycle, positioned centrally and leaning against the trees, with the motorcycle and its rider from image 2. Integrate the motorcycle seamlessly into the environment of image 1, maintaining the original bicycle's scale and precise location.",
+  "annotator": "nimajamali",
+  "objects": [
+    "motorcycle (from image 2, centrally positioned, leaning against trees)",
+    "rider (from image 2, on the motorcycle)",
+    "blue bicycle (should not be present)",
+    "trees (from image 1, against which the motorcycle is leaning)",
+    "grassy ground / park environment (from image 1)",
+    "water body (from image 1, in the background)",
+    "path / trail (from image 1)",
+    "signpost (from image 1, in the background)",
+    "trash can (from image 1, in the background)"
+  ]
+}

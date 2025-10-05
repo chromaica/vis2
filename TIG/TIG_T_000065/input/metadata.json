@@ -1,0 +1,16 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Graffiti (Text-based)",
+  "prompt": "'Free Thinker' stenciled in red, appearing slightly faded on a rough, grey concrete wall texture.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "The words 'Free Thinker' stenciled in faded red on a rough, grey concrete wall.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "The words \"Free Thinker\"",
+    "Stenciled text style",
+    "Faded red text",
+    "Rough grey concrete wall"
+  ]
+}

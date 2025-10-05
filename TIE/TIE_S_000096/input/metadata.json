@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Transform the taskbar into a sleek, transparent glass design.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Transform the opaque, dark grey taskbar at the bottom of the screen into a sleek, transparent glass design. The new taskbar should appear clear, allowing the desktop background to be visible through it, achieving a modern, glassy aesthetic.",
+  "annotator": "cwhsu",
+  "objects": [
+    "desktop background (orange with blurred light circles)",
+    "top system panel",
+    "desktop application icons (e.g., Blackjack, GIMP Image Editor)",
+    "F-Spot application window",
+    "Internet - Dictionary application window",
+    "sleek, transparent glass taskbar at the bottom of the screen",
+    "F-Spot application icon on the transparent taskbar",
+    "Internet - Dictionary application icon on the transparent taskbar",
+    "system tray icons on the transparent taskbar",
+    "start menu icon on the transparent taskbar"
+  ]
+}

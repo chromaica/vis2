@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "T",
+  "subtopic": "Advertisements",
+  "prompt": "Add the logo from the second image to the top right of the first image. Then change the discount to 'Up to 50% OFF', where the words 'Up to' are smaller than '50% OFF'. Finally, replace the text 'Order Now' with the design in the third image. Make sure the size and position matches the original text.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 (the burger advertisement poster).\n1. Replace the existing 'LOGO HERE' text and icon in the top-right corner of image 1 with the 'Burger Queen' logo from image 2.\n2. Modify the text inside the red starburst graphic in image 1 from '50% OFF' to 'Up to 50% OFF'. Ensure 'Up to' is rendered in a smaller font size than '50% OFF'.\n3. Replace the yellow 'ORDER NOW' button at the bottom center of image 1 with the complete 'ORDER NOW!' graphic design provided in image 3. The new graphic must precisely match the original button's size and position.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "wooden background",
+    "two burgers",
+    "\"DELICIOUS BURGERS\" text",
+    "\"This Weekend Only!\" text",
+    "\"LOGO HERE\" text and icon (should not be present)",
+    "\"Burger Queen\" logo in top-right corner",
+    "red starburst graphic with \"Up to 50% OFF\" text (where \"Up to\" is smaller)",
+    "\"50% OFF\" text within starburst (should not be present)",
+    "yellow \"ORDER NOW\" button (should not be present)",
+    "\"ORDER NOW!\" graphic design in bottom center"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

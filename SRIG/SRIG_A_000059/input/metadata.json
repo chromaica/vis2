@@ -1,0 +1,20 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Stylized art",
+  "prompt": "Generate a stylized depiction of a 19th-century market square, blending historical elements with contemporary artistic styles.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a stylized artwork of the 19th-century market square shown in image 1. Reimagine the scene, including the bustling market stalls on either side of the cobblestone street, the numerous figures, and the distinctive architecture with tall spires in the background, by blending its historical essence and sepia-toned, atmospheric quality with a contemporary, expressive illustration style. Focus on dynamic brushwork and enhanced textural details while maintaining the overall composition and period authenticity from image 1.",
+  "annotator": "Johnny",
+  "objects": [
+    "19th-century market square setting",
+    "Cobblestone street",
+    "Market stalls with awnings on either side of the street",
+    "Numerous figures",
+    "Buildings lining the street",
+    "Tall spires in the background"
+  ]
+}

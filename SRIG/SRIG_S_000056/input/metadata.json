@@ -1,0 +1,25 @@
+{
+  "subtopic": "Games",
+  "prompt": "Transform the UI elements from the game screenshot into a minimalist, clean interface, removing all ornate decorations but keeping the core functionality visible.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://media.mmo-champion.com/images/news/2021/october/charcreation12.png",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a new image by editing image 1. Redesign all user interface (UI) elements within image 1 to achieve a minimalist and clean aesthetic. Remove all ornate decorations, intricate borders, and three-dimensional effects from UI components. Specifically, simplify the circular character selection portraits positioned along the left and right vertical edges, the class selection icons and their text labels on the bottom horizontal bar, the 'Back' button in the bottom-left, and the 'Customize' button in the bottom-right. Also, streamline the 'Alliance' and 'Horde' faction indicators located at the top-left and top-right. Ensure that the core functionality and informational visibility of these UI elements are fully preserved, presenting them with simplified, flat designs and a reduced visual clutter, while keeping the central character model and the background environment unchanged from image 1.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Central character model (Dwarf with rifle) and bear companion",
+    "Background environment (stone archway, chandelier, distant buildings)",
+    "Simplified circular character selection portraits along the left vertical edge",
+    "Simplified circular character selection portraits along the right vertical edge",
+    "Simplified class selection icons with text labels on the bottom horizontal bar",
+    "Simplified 'Back' button in the bottom-left",
+    "Simplified 'Customize' button in the bottom-right",
+    "Simplified 'Alliance' faction indicator at the top-left",
+    "Simplified 'Horde' faction indicator at the top-right"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

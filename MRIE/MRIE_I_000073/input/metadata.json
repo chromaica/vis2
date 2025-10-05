@@ -1,0 +1,24 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "Edit image 1 by integrating the character icon from image 2 and the creature icon from image 3 into the pixel art landscape scene. Place these symbolic icons near the tree, representing points of interest or elements within the environment.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 to incorporate the character icon from image 2 and the creature icon from image 3. Position the character icon from image 2 on the ground plane, to the immediate left of the tree's base. Place the creature icon from image 3 on the ground plane, to the immediate right of the tree's base. The overall style should remain consistent with the pixel art aesthetic of image 1, and these icons should appear as integral points of interest in the landscape.",
+  "annotator": "maxku",
+  "objects": [
+    "pixel art tree",
+    "pixel art ground plane",
+    "pixel art sky",
+    "pixel art distant mountains",
+    "character icon from image 2, on the ground plane, to the immediate left of the tree's base",
+    "creature icon from image 3, on the ground plane, to the immediate right of the tree's base"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

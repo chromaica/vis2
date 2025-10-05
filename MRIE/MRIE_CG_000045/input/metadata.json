@@ -1,0 +1,29 @@
+{
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "Edit image 1 (slot machine display) using semantic segmentation. Replace the central peacock design with the **scale dial** from image 5. Replace the fruit symbols (apples, oranges, watermelons) with objects from the **swords and pirate theme** of image 4. Replace the 'BAR' symbols with elements from the **saxophone** in image 3. Apply the **yellow floral pattern** texture from the sarong in image 2 to the background. Finally, apply the overall **sepia tone** from images 3 and 5 to the entire composition.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg",
+    "4.jpeg",
+    "5.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749489754721,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit the slot machine display shown in image 1.\n1.  Replace the large central peacock graphic with the circular scale dial from image 5.\n2.  On the surrounding slot reels, replace all fruit symbols (apples, oranges, watermelons) with distinct sword-themed objects inspired by image 4.\n3.  Also on the slot reels, replace all 'BAR' symbols with unique components or details extracted from the saxophone in image 3.\n4.  Apply the prominent yellow floral pattern texture from the sarong in image 2 to the main blue background area of the slot machine display.\n5.  Finally, apply an overall sepia tone across the entire composition, matching the aesthetic seen in images 3 and 5.",
+  "annotator": "winston",
+  "objects": [
+    "Slot machine display frame and structure",
+    "Circular scale dial",
+    "Sword-themed objects",
+    "Saxophone components or details",
+    "Yellow floral pattern texture",
+    "Sepia tone aesthetic",
+    "Large central peacock graphic (should not be present)",
+    "Fruit symbols (apples, oranges, watermelons) (should not be present)",
+    "'BAR' symbols (should not be present)"
+  ]
+}

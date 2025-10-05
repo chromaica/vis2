@@ -1,0 +1,26 @@
+{
+  "subtopic": "3D renders",
+  "prompt": "A 3D render of a small room interior. The wall texture and pattern utilize the brick from image 1. The floor texture and aging style incorporate the distressed wood from image 2.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748423645147,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a 3D render of a small room interior. The walls should be textured with the red common brick pattern and light grey mortar as seen in image 1. The floor should incorporate the distressed, multi-colored wooden planks with peeling paint as depicted in image 2.",
+  "annotator": "winston",
+  "objects": [
+    "3D render",
+    "Small room interior",
+    "Walls",
+    "Red common brick pattern walls",
+    "Light grey mortar (on walls)",
+    "Floor",
+    "Distressed wooden planks floor",
+    "Multi-colored wooden planks floor",
+    "Peeling paint (on wooden planks)"
+  ]
+}

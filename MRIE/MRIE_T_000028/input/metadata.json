@@ -1,0 +1,23 @@
+{
+  "task": "MRIE",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": "Color the comic page based on the characters and style in the second image. Then, swap the reading direction of the comic page to right-to-left. Finally, add the logo from the third image to the top right corner of the comic page.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the provided comic page (image 1) according to these instructions:\n1.  Apply the color palette and anime art style from the characters in image 2 to color all elements of image 1, including characters and backgrounds.\n2.  Reorder the panels and text bubbles in image 1 to ensure a right-to-left reading direction across all horizontal panel arrangements.\n3.  Add the 'Demon Slayer' logo from image 3 to the top-right corner of the comic page in image 1, scaled appropriately.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Comic panels (arranged for right-to-left reading)",
+    "Characters from the comic page (in anime art style with specified color palette)",
+    "Speech bubbles with text (arranged for right-to-left reading)",
+    "Snowy landscape background (in anime art style with specified color palette)",
+    "House/structures in background (in anime art style with specified color palette)",
+    "Charcoal basket (in anime art style with specified color palette)",
+    "'Demon Slayer' logo in the top-right corner"
+  ]
+}

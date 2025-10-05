@@ -1,0 +1,26 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Tables",
+  "prompt": "Add a fictional column labeled \"Podcasts\" with semi-random data aligning with the existing format.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Insert a new column labeled 'Podcasts' into the main table. This column should be placed immediately to the right of the 'Social Media' column. Populate the 'Podcasts' column with semi-random data for each corresponding row (e.g., Revenue, Impressions, Clicks, Readers, Likes, Conversions, Segments Reached). Ensure the data types (e.g., currency, percentage, numerical values, and comma-separated text lists) and visual formatting (e.g., font style, size, color scheme, cell backgrounds, and alignment) are consistent with the existing table structure and data in image 1.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Marketing Report title and subtitle",
+    "Main table with 'Content Marketing' column and its row labels",
+    "'Blogs' column (header and data)",
+    "'Forums' column (header and data)",
+    "'Video' column (header and data)",
+    "'Social Media' column (header and data)",
+    "'Podcasts' column header, located immediately to the right of 'Social Media'",
+    "Semi-random data values populating the 'Podcasts' column",
+    "Growth Metrics section title",
+    "Four horizontal bar charts for Blog, Video, Forums, and Social Media"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

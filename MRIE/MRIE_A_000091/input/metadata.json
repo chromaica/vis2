@@ -1,0 +1,24 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Traditional art",
+  "prompt": "In image 1, attach the wings from image 2 to Venus's back, and replace the shell she is standing on with the shell from image 3.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, 'The Birth of Venus'. Attach the wings from image 2 to Venus's back. Replace the large scallop shell she is standing on at the bottom center of image 1 with the open, fluted shell from image 3.",
+  "annotator": "paria",
+  "objects": [
+    "Venus with wings on her back",
+    "Open, fluted shell at the bottom center",
+    "Zephyr and Aura (figures on the left)",
+    "Hora (figure on the right)",
+    "Water",
+    "Trees",
+    "Flowers",
+    "Large scallop shell (should not be present)"
+  ]
+}

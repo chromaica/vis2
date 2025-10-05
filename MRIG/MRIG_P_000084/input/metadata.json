@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "A lively Squirtle referenced in the first image splashing in a sparkling river, its round turtle shell replaced by a golden jin dui sesame ball referenced in the second image. The jin dui shell matches the shell\u2019s circular shape, with a crispy, sesame seed-covered surface and a slight sheen, hinting at a chewy red bean filling inside. The shell\u2019s curve seamlessly blends with Squirtle\u2019s blue skin.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic image of a lively Squirtle, as referenced in image 1, splashing energetically in a sparkling river. Its natural turtle shell should be seamlessly replaced by a golden jin dui sesame ball, inspired by the appearance and texture of the sesame balls in image 2. The new jin dui shell must retain the original circular shape of Squirtle's shell, exhibiting the distinctive crispy, sesame seed-covered surface and subtle sheen seen in image 2. The shell should convey the characteristic hollow, puffy texture of a jin dui, with its appearance subtly hinting at a chewy red bean filling inside. Ensure the transition between the jin dui shell and Squirtle's blue skin is smooth and natural.",
+  "objects": [
+    "Lively Squirtle",
+    "Energetic splashing",
+    "Sparkling river",
+    "Squirtle's original turtle shell (should not be present)",
+    "Golden jin dui sesame ball (as Squirtle's shell)",
+    "Sesame seed-covered surface (on the jin dui shell)",
+    "Subtle sheen (on the jin dui shell)",
+    "Puffy texture (of the jin dui shell)",
+    "Hint of red bean filling (within the jin dui shell)",
+    "Squirtle's blue skin"
+  ],
+  "human_annotation": true
+}

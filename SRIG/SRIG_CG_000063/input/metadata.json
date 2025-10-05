@@ -1,0 +1,24 @@
+{
+  "subtopic": "CAD models",
+  "prompt": "A computer graphics rendering: Generate a detailed 3D CAD model of a black bird perched on a technical branch structure. Use the reference image's composition and the bird's posture as inspiration for the model's design and pose.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://live.staticflickr.com/65535/36198338702_bd6f7a2693_b.jpg",
+  "promptGeneratedTimestamp": 1748768639192,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a detailed 3D CAD model rendering. The primary subject is a fluffy black bird, precisely matching the appearance, small dark eyes, and short, light-tipped beak of the bird in image 1. It should be posed perched upright, slightly hunched, and facing left with its head turned subtly towards the viewer, mirroring the posture from image 1. The bird is situated on a complex, technical branch structure, designed with visual inspiration from the gnarled, horizontal branch in image 1, including its textured bark and subtle moss-like details. Ensure the composition reflects image 1, with the bird centrally placed, slightly right of center, on the branch extending horizontally across the mid-frame.",
+  "annotator": "ishengfang",
+  "objects": [
+    "fluffy black bird with small dark eyes and a short, light-tipped beak (matching appearance from image 1)",
+    "bird posed perched upright, slightly hunched, and facing left with its head turned subtly towards the viewer (mirroring posture from image 1)",
+    "complex, technical branch structure",
+    "gnarled, horizontal branch (as visual inspiration for the structure)",
+    "textured bark on the branch",
+    "subtle moss-like details on the branch",
+    "bird centrally placed, slightly right of center, on the branch",
+    "branch extending horizontally across the mid-frame"
+  ]
+}

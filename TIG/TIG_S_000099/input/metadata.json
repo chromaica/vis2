@@ -1,0 +1,23 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": "Mock up a horror movie database website with dark gothic themes, blood-red accents, flickering text effects, vintage movie poster galleries, and spine-chilling sound wave visualizations",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a detailed screenshot of a horror movie database website user interface. The design is predominantly dark gothic, utilizing deep blacks, charcoal grays, and weathered textures, accented by subtle blood-red elements for highlights and interactive features. The main website title, located at the top of the screen, exhibits a subtle flickering or glitching text effect, suggesting instability. A large central section features a grid-based gallery showcasing various vintage horror movie posters, each with a distressed and aged appearance. Below the poster gallery, or integrated into individual movie details, include a visual representation of a jagged, dark, and unsettling sound wave visualization, subtly highlighted with red.",
+  "annotator": "theblackcat",
+  "objects": [
+    "website user interface",
+    "main website title (at the top of the screen)",
+    "flickering or glitching text effect on the main website title",
+    "large central grid-based gallery",
+    "vintage horror movie posters (multiple, within the gallery)",
+    "distressed and aged appearance on movie posters",
+    "jagged, dark, unsettling sound wave visualization",
+    "subtle red highlights on the sound wave visualization",
+    "deep blacks and charcoal grays (predominant UI colors)",
+    "subtle blood-red elements (for UI highlights and interactive features)"
+  ],
+  "human_annotation": true
+}

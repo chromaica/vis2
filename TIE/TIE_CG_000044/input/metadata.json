@@ -1,0 +1,26 @@
+{
+  "subtopic": "3D renders",
+  "prompt": "Replace the current overcast sky with a clear vibrant blue sky, and add bright directional sunlight casting shadows on the building.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751814458950,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1. Replace the existing overcast, grey sky in the background with a clear, vibrant blue sky. Introduce bright, directional sunlight, ensuring it casts distinct shadows across the building's facade, roof, balconies, and the foreground lawn, indicative of a sunny day.",
+  "annotator": "edisy",
+  "objects": [
+    "Building",
+    "Roof",
+    "Balconies",
+    "Foreground lawn",
+    "Bush/hedge",
+    "Trees",
+    "Neighboring building",
+    "Overcast, grey sky (should not be present)",
+    "Clear, vibrant blue sky",
+    "Bright, directional sunlight and distinct shadows"
+  ]
+}

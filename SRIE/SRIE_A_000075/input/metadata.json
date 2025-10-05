@@ -1,0 +1,25 @@
+{
+  "subtopic": "Cultural or Heritage art",
+  "prompt": "Edit image 1: Transform the Discobolus statue to appear as if sculpted from the cheesy, textured pizza in image 2, blending classical form with delicious culinary elements.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748654074248,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1: Transform the Discobolus statue to appear as if sculpted entirely from the cheesy, golden-brown pizza shown in image 2, specifically mimicking the bubbly, melted cheese texture and the toasted crust.",
+  "annotator": "kellycyy",
+  "objects": [
+    "Discobolus statue",
+    "Discus",
+    "Statue base",
+    "Golden-brown pizza appearance",
+    "Bubbly melted cheese texture",
+    "Toasted crust texture",
+    "Dark grey background"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,22 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Traditional art",
+  "prompt": "A Native American dreamcatcher with feathers and beads",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "https://www.pinterest.com/pin/dream-catcher-traditional-native-american-indian-symbol-stock-vector-image-66486220--816981188624729004/",
+  "prompt_refined": "Generate a new image of a Native American dreamcatcher based on the visual style and intricate details of image 1. The artwork should be a black and white line art illustration, depicting a dreamcatcher with a prominent circular hoop containing a detailed woven web. Below the hoop, multiple strands should hang, each adorned with a variety of distinct feathers and round beads. A single chain of beads should extend upwards from the top of the hoop, as if for hanging. The dreamcatcher should be centrally positioned in the frame.",
+  "annotator": "Johnny",
+  "objects": [
+    "Native American dreamcatcher",
+    "circular hoop",
+    "detailed woven web",
+    "multiple hanging strands below the hoop",
+    "distinct feathers on hanging strands",
+    "round beads on hanging strands",
+    "single chain of beads extending upwards from the top of the hoop",
+    "dreamcatcher centrally positioned in the frame"
+  ]
+}

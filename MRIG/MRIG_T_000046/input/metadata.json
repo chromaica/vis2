@@ -1,0 +1,28 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": "Create a comic where the man (Mr. Bean) in the first image says 'Oops', and a 'BOOM' from the second image burst appears from the third image\u2019s speech effects.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a comic-style image. In the center, place the Mr. Bean character from image 1. A speech bubble, containing the word 'Oops', should emerge from his mouth area. Additionally, a distinct 'BOOM' burst graphic should be present. This graphic should feature the black 'BOOM' text set against a bright yellow, radiating burst pattern, all derived directly from the visual style of image 2. This entire 'BOOM' burst graphic should then be shaped like one of the sharp, spiky comic burst bubbles found in image 3 (for instance, the bottom-left or top-right bubble), complete with its characteristic pink outline and subtle black shadow details. Position this 'BOOM' burst prominently, perhaps to the upper right of Mr. Bean, acting as an impactful sound effect within the comic panel.",
+  "annotator": "parnian",
+  "objects": [
+    "Mr. Bean character (from image 1, in the center)",
+    "Speech bubble (emerging from Mr. Bean's mouth area)",
+    "'Oops' text (inside the speech bubble)",
+    "'BOOM' burst graphic (positioned to the upper right of Mr. Bean)",
+    "Black 'BOOM' text (within the 'BOOM' burst graphic)",
+    "Bright yellow radiating burst pattern (as background for the 'BOOM' graphic, visually from image 2)",
+    "Sharp, spiky comic burst bubble shape (for the 'BOOM' graphic, visually from image 3)",
+    "Pink outline (for the 'BOOM' burst graphic, visually from image 3)",
+    "Subtle black shadow details (for the 'BOOM' burst graphic, visually from image 3)",
+    "Comic panel style (overall image aesthetic)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

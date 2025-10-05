@@ -1,0 +1,21 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "A cute Oddish referenced in the first image peeking out of a garden patch, its round bulb head replaced by a steaming har gow dumpling referenced in the second image. The har gow matches the bulb\u2019s spherical shape, with a glossy, translucent wrapper revealing pink shrimp inside and delicate pleats on top. Oddish\u2019s leafy sprouts emerge from the dumpling\u2019s base.",
+  "cond_images": [
+    "1.png",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic image of a creature inspired by Oddish. The creature, adopting the overall design and facial features (eyes, small mouth) of Oddish from image 1, should be depicted peeking out from the rich soil of a garden patch, with its lower body partially concealed. The round, blue bulb-like body of Oddish (from image 1) is to be entirely replaced by a single, steaming har gow dumpling. This dumpling, visually consistent with the examples in image 2, must maintain the spherical shape of Oddish's original body. Ensure the har gow features a highly glossy and translucent wrapper, through which pink shrimp filling is distinctly visible inside. Delicate, well-defined pleats, characteristic of the dumplings in image 2, should be intricately detailed on the top surface of the har gow. Lastly, Oddish's signature green leafy sprouts, as shown in image 1, are to emerge naturally from the top-center of the steaming har gow dumpling, exactly where they would typically connect to Oddish's original body.",
+  "objects": [
+    "Photorealistic creature",
+    "Oddish-inspired facial features (eyes, small mouth)",
+    "Single, steaming, spherical har gow dumpling (with glossy translucent wrapper, visible pink shrimp filling, and detailed pleats)",
+    "Oddish's green leafy sprouts (emerging from the top of the har gow dumpling)",
+    "Rich garden soil",
+    "Garden patch setting"
+  ]
+}

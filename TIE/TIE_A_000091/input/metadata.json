@@ -1,0 +1,25 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Expressionism",
+  "prompt": "Make this portrait a full body portrait. Output the image as in 9:16 aspect ratio.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, a colorful, abstract, and painterly artwork. Extend the portrait downwards to transform it into a full-body portrait of the depicted subject. The new content should seamlessly integrate, matching the distinctive artistic style of image 1. The final output image must have a 9:16 aspect ratio, with the original head and shoulders from image 1 positioned in the upper section.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Depicted subject's head",
+    "Depicted subject's shoulders",
+    "Depicted subject's torso",
+    "Depicted subject's arms",
+    "Depicted subject's legs",
+    "Abstract background",
+    "Colorful brushstrokes",
+    "Abstract forms",
+    "Vibrant color palette"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

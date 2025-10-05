@@ -1,0 +1,28 @@
+{
+  "subtopic": "Games",
+  "prompt": "Generate a screenshot from flight simulator game. Show a A320 aircraft from a cockpit perspective, using the realistic style and UI overlay structure found in the reference flight simulator image.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://sm.ign.com/t/ign_nordic/screenshot/s/screenshot/screenshot-by-wolff123-05_qvrq.1080.jpg",
+  "promptGeneratedTimestamp": 1749420343037,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a realistic screenshot from a flight simulator game, depicting an Airbus A320 aircraft from a cockpit perspective. The view should encompass a detailed cityscape under a clear blue sky with scattered clouds, with a portion of the A320's wing visible in the foreground, mirroring the overall visual style and vantage point of image 1. Overlay the scene with a user interface (UI) structured precisely like image 1, featuring: a circular heading indicator in the top-left corner, vertical airspeed and engine gauges in the bottom-left, and vertical altitude/vertical speed indicators alongside flap/trim controls in the bottom-right. Additionally, include text overlays for player IDs and other aircraft details in the top-middle area, maintaining the clean fonts and consistent color scheme (e.g., white text, green/blue indicators) as observed in image 1.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "realistic screenshot style",
+    "Airbus A320 aircraft from a cockpit perspective",
+    "detailed cityscape",
+    "clear blue sky with scattered clouds",
+    "portion of A320's wing in the foreground",
+    "circular heading indicator in the top-left corner",
+    "vertical airspeed and engine gauges in the bottom-left",
+    "vertical altitude/vertical speed indicators in the bottom-right",
+    "flap/trim controls in the bottom-right",
+    "text overlays for player IDs and other aircraft details in the top-middle area"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Cultural or Heritage art",
+  "prompt": "Create a scene using the architectural window frame style from image 1. Apply the intricate, vibrant tile patterns and colors from image 2 to the window lattice and surrounding area, illuminated with the atmospheric light and shadow effect of image 1.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a scene featuring an arched window in the distinct architectural style of image 1, positioned on the left. The window's intricate geometric lattice and the wall surrounding it should be adorned with the vibrant, multi-colored Islamic tile patterns and rich palette (blues, yellows, greens, white, gold) from image 2. Illuminate the entire scene with the deep, atmospheric light and shadow effect from image 1, ensuring a patterned shadow is cast onto the floor from the window.",
+  "annotator": "samin",
+  "objects": [
+    "Arched window on the left",
+    "Distinct architectural style from image 1 (for the window)",
+    "Intricate geometric lattice on the window",
+    "Wall surrounding the window",
+    "Vibrant, multi-colored Islamic tile patterns from image 2",
+    "Rich color palette (blues, yellows, greens, white, gold)",
+    "Deep, atmospheric light and shadow effect from image 1",
+    "Patterned shadow on the floor",
+    "Floor"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

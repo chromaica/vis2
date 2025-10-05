@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "Split the UI mockup into three equal parts similar to the first image, and apply the UI mockup elements on the second part.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit Image 2 (the Mountain Biking web template). Reformat Image 2 by dividing it into three equal vertical sections, mimicking the multi-panel screen layout of Image 1. Populate the central (second) vertical section of the newly segmented Image 2 with UI elements and content from Image 2, ensuring they are appropriately scaled and cleanly arranged within its boundaries.",
+  "annotator": "Johnny",
+  "objects": [
+    "Three equal vertical sections",
+    "Dark, textured background",
+    "\"Mountain Biking\" title/logo",
+    "Image of a mountain biker",
+    "UI navigation elements (e.g., Events, Gallery, Testimonials, Contact Us)",
+    "\"Register\" button",
+    "Descriptive text blocks about mountain biking",
+    "\"2022 Race\" event badge/text",
+    "Newsletter subscription form elements",
+    "\"STRENGTH AND LIGHTNESS\" heading"
+  ]
+}

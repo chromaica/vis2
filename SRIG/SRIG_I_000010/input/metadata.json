@@ -1,0 +1,24 @@
+{
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Create an infographic that explains the process of photosynthesis, using the layout and stages from the provided simple cycle diagram, but rendered in a beautiful, hand-drawn botanical illustration style.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "https://slidebazaar.com/wp-content/uploads/2019/12/4-Step-Cycle-Process-Diagram.jpg",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate an infographic explaining the process of photosynthesis. The visual composition must precisely follow the four-stage hexagonal layout and clockwise arrow connections depicted in image 1. Each of the four hexagonal sections should contain unique, intricate hand-drawn botanical illustrations representing a distinct step in the photosynthesis process (e.g., light absorption, water intake, carbon dioxide conversion, oxygen release, glucose production), entirely replacing the generic icons from image 1. The overall aesthetic should be a beautiful, detailed botanical illustration, emphasizing lush green foliage, sunlight, and water elements. Placeholder text for titles and descriptions should be included adjacent to each hexagonal stage and in the central area, mirroring their positions from image 1, rendered in an elegant, legible font appropriate for a botanical theme.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Four hexagonal stages",
+    "Four clockwise connecting arrows",
+    "Four unique, intricate hand-drawn botanical illustrations (inside hexagons)",
+    "Placeholder title and description text blocks (4 adjacent to hexagons, 1 central)",
+    "Lush green foliage elements",
+    "Sunlight elements",
+    "Water elements",
+    "Generic icons from Image 1 (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,18 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Stylized art",
+  "prompt": "A group of cartoon stylized characters looking at the rusty old keys in the image",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Create an artwork depicting a group of cartoon stylized characters. They are gathered around and intently observing the large, rusty old key from image 1. The key should be centrally placed within the scene, with the characters positioned so their focus is clearly on it.",
+  "annotator": "Johnny",
+  "objects": [
+    "A large, rusty old key, centrally placed",
+    "A group of cartoon stylized characters",
+    "Characters gathered around the key",
+    "Characters intently observing the key"
+  ]
+}

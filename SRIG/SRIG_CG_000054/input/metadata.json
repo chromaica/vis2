@@ -1,0 +1,23 @@
+{
+  "subtopic": "Game assets",
+  "prompt": "Generate a collection of 2D game assets for a desert environment in the cartoony, hand-drawn style of the reference image, including cacti, rocks, skulls, and dry bushes, presented on a transparent background.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://e7.pngegg.com/pngimages/605/547/png-clipart-art-museum-tortoise-game-assets-cartoon-animal-figure-thumbnail.png",
+  "promptGeneratedTimestamp": 1748768231254,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a collection of distinct 2D game assets for a desert environment. Each asset should be rendered in the same cartoony, hand-drawn style as the examples found in image 1, characterized by thick black outlines, vibrant flat colors, and a whimsical, stylized appearance. The collection must include various cacti, rocks, skulls, and dry bushes, all presented individually on a transparent background.",
+  "annotator": "ishengfang",
+  "objects": [
+    "cacti",
+    "rocks",
+    "skulls",
+    "dry bushes",
+    "transparent background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

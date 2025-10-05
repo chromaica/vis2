@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "In image 1, replace the '5969' score at the top left with the blue '3-star' badge from image 2, scaled to match the original text size, while keeping the proportions. Then, insert the dartboard from image 3 into the bottom right corner of the image, matching the size of the 'Japan' text in the bottom left. Keep all other elements unchanged.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the '5969' score in the top-left corner with the blue '3-star' badge (labeled '3') from image 2. Scale this badge to match the size of the original '5969' text, preserving its proportions. Then, insert the dartboard from image 3 into the bottom-right corner of image 1, matching its size to the 'Japan' text located in the bottom-left. Ensure all other elements in image 1 remain unchanged.",
+  "annotator": "parnian",
+  "objects": [
+    "'5969' score (should not be present)",
+    "blue '3-star' badge in the top-left corner",
+    "dartboard in the bottom-right corner",
+    "green playing field",
+    "white lines on the field",
+    "yellow blob character",
+    "red monster character",
+    "white player markers",
+    "'0' and '11' scores in the top right",
+    "'Japan' text and red flag in the bottom-left"
+  ]
+}

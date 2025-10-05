@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "Change the active date of the calendar to 05/12/2025.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, which shows a calendar for May 2025. Change the active date to May 12, 2025. This requires deselecting the current active date, '11' (marked with a blue circular highlight in the second row of dates, second from the right), and selecting '12' by applying a similar blue circular highlight to it (located in the third row of dates, first from the left).",
+  "annotator": "cwhsu",
+  "objects": [
+    "calendar grid structure",
+    "\"May 2025\" text",
+    "navigation arrow symbols",
+    "weekday labels (M, T, W, T, F, S, S)",
+    "calendar date numbers (e.g., 1, 2, ..., 31)",
+    "week numbers (e.g., 18, 19, ..., 23) on the left side",
+    "blue circular highlight on date '12'",
+    "blue circular highlight on date '11' (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

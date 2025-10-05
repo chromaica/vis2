@@ -1,0 +1,26 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Change the background to a dark mode theme.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Apply a dark mode theme to image 1. All currently light-colored user interface elements, including the main content area, the left sidebar, and the top bar, should be transformed to dark tones. Conversely, all dark text and icons should be inverted to light colors to ensure readability and proper contrast on the new dark background.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Window controls (red, yellow, green circles)",
+    "Top application bar",
+    "Left navigation sidebar",
+    "Main content area (task table)",
+    "Table headers (Name, Assigned, Priority, Due Date, Tags, Status, Created)",
+    "Task list entries",
+    "User interface text",
+    "User interface icons",
+    "UI buttons and tags (e.g., New button, Low/Medium/High tags, status tags)",
+    "Search and filter controls"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,27 @@
+{
+  "subtopic": "Websites",
+  "prompt": "Modify Image 1's hero section: Replace the 'View Details' button and its surrounding text with the email subscription form and 'Subscribe' button from Image 2. Adopt the orange color scheme for the button.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1750756871157,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit Image 1. Within its hero section, locate and remove the 'View Details' button along with the entire block of descriptive text positioned above it (which begins with 'iScripts MultiCart Multi-Vendor Shopping Cart'). In their place, insert the email subscription form field and the adjacent 'SUBSCRIBE' button, sourcing these elements directly from the hero section of Image 2. Ensure these new elements are centrally aligned within the hero section, and style the 'SUBSCRIBE' button to match the orange color scheme of the button in Image 2.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Website screenshot layout",
+    "Top navigation bar with \"iScripts\" logo",
+    "Hero section with woman holding phone in background",
+    "Email subscription form field",
+    "'SUBSCRIBE' button (orange color)",
+    "Lower section with statistics blocks (e.g., \"15 Years in Business\", \"150+ Engineers Working\")",
+    "Browser window controls (red, yellow, green dots)",
+    "'View Details' button (should not be present)",
+    "\"iScripts MultiCart Multi-Vendor Shopping Cart\" text block (should not be present)"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,25 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "Replace the dates and insert a number based on the dates position when sorted.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the dates displayed within the six colored blocks with their corresponding sorted position numbers. Specifically, change 'MAY 30' in the top-left red block to '1'. Change 'JUN 20' in the top-right blue block to '2'. Change 'JUN 25' in the middle-left purple block to '3'. Change 'JUN 28' in the middle-right green block to '4'. Change 'JUL 23' in the bottom-left yellow block to '5'. Change 'AUG 15' in the bottom-right light green block to '6'.",
+  "annotator": "matina",
+  "objects": [
+    "\"UPCOMING EVENTS 2018\" title graphic",
+    "Red block with number '1'",
+    "Blue block with number '2'",
+    "Purple block with number '3'",
+    "Green block with number '4'",
+    "Yellow block with number '5'",
+    "Light green block with number '6'",
+    "Event names (e.g., \"MANUFACTURING TRANSFORM\", \"GLOBAL TREASURY\")",
+    "Event locations (e.g., \"PARK WALES, DUBLIN\", \"NEW YORK\")",
+    "\"www.yourevents.com\" website address"
+  ],
+  "human_annotation": true
+}

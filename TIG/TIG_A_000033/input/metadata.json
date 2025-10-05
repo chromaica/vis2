@@ -1,0 +1,18 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Cultural/heritage art",
+  "prompt": "Ancient Egyptian pharaoh painted in hieroglyphic style, adorned with golden jewelry and surrounded by symbolic artifacts.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate an image depicting an Ancient Egyptian pharaoh, rendered in the distinctive flat, profile style of hieroglyphic art. The pharaoh is richly adorned with golden jewelry, with numerous symbolic ancient Egyptian artifacts meticulously placed around the central figure.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Ancient Egyptian pharaoh",
+    "Flat rendering style of the pharaoh",
+    "Profile rendering style of the pharaoh",
+    "Golden jewelry on the pharaoh",
+    "Symbolic ancient Egyptian artifacts around the pharaoh",
+    "Hieroglyphic art elements"
+  ]
+}

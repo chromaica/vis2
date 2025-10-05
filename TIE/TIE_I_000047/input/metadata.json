@@ -1,0 +1,26 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Rearrange the six types of information in this cycle, beginning with newspapers.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Rearrange the six information types and their corresponding colored segments within the central 'Information Flow Cycle'. Reorder the cycle clockwise so that 'NEWSPAPERS' (with its teal segment and label) is positioned at the top-left, where 'INTERNET' currently resides. Following 'NEWSPAPERS' in the clockwise sequence, the elements should be 'MAGAZINES' (purple segment) at the top-right position, 'JOURNALS' (green segment) at the middle-right position, 'BOOKS' (grey segment) at the bottom-right position, 'INTERNET' (blue segment) at the bottom-left position, and 'BROADCAST MEDIA' (orange segment) at the middle-left position.",
+  "annotator": "cwhsu",
+  "objects": [
+    "\"Information Flow Cycle Usage Example\" title",
+    "\"Usage example fully editable\" diagonal text box",
+    "Central dark blue circle with \"Information Flow Cycle\" text",
+    "Teal segment with \"NEWSPAPERS\" label at top-left of the cycle",
+    "Purple segment with \"MAGAZINES\" label at top-right of the cycle",
+    "Green segment with \"JOURNALS\" label at middle-right of the cycle",
+    "Grey segment with \"BOOKS\" label at bottom-right of the cycle",
+    "Blue segment with \"INTERNET\" label at bottom-left of the cycle",
+    "Orange segment with \"BROADCAST MEDIA\" label at middle-left of the cycle",
+    "\"Get these slides & icons at www.infoDiagram.com\" footer text"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

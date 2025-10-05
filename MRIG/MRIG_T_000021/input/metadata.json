@@ -1,0 +1,23 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "Generate typography for word 'WINNER' using clean branding font from the first image, player imagery from the second, and a gradient background from the third image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a dynamic textual graphic for the word 'WINNER'. Render 'WINNER' in a prominent, bold, clean, white sans-serif typography, emulating the branding style seen in image 1. Integrate the full-body imagery of Lionel Messi from image 2 into the composition, complementing the text. The background should adopt the distinctive swirling, impasto gradient style and dark blue and yellow color palette of 'The Starry Night' from image 3.",
+  "annotator": "parnian",
+  "objects": [
+    "The word 'WINNER'",
+    "Prominent, bold, clean, white sans-serif typography for 'WINNER' (emulating Canon branding style)",
+    "Full-body imagery of Lionel Messi",
+    "Background with swirling style",
+    "Background with impasto gradient style",
+    "Dark blue color palette",
+    "Yellow color palette"
+  ]
+}

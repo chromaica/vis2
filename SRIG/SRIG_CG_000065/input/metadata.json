@@ -1,0 +1,23 @@
+{
+  "subtopic": "Object detection visuals",
+  "prompt": "Create a computer graphics visual demonstrating object detection on a natural scene, inspired by the reference image's layout and style. Show an animal in water with an overlaid, incorrect bounding box and label.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://www.cs.columbia.edu/~vondrick/ihog/results/000821_annotated.jpg.png",
+  "promptGeneratedTimestamp": 1748768684000,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a computer graphics visual depicting a natural scene, inspired by the composition, subject, and lighting of image 1. The scene should feature a goose swimming on calm water. Overlay this visual with object detection elements: a vibrant green rectangular bounding box must be positioned in the lower-left corner of the image, enclosing only a small, empty area of the water. Directly above this green bounding box, display the word 'Car' in prominent, bright green text. The final image should clearly present a computer-generated render illustrating an incorrect object detection output.",
+  "annotator": "ishengfang",
+  "objects": [
+    "computer graphics visual",
+    "natural scene",
+    "goose swimming",
+    "calm water",
+    "vibrant green rectangular bounding box in lower-left corner, enclosing empty water",
+    "the word 'Car' in prominent, bright green text, directly above the green bounding box"
+  ],
+  "human_annotation": true
+}

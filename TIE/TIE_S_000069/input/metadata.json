@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Convert the color scheme to grayscale for a classic black-and-white film effect.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 by converting its full color scheme to grayscale, aiming for a classic black-and-white film effect across the entire screenshot.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Software application interface",
+    "Top menu bar",
+    "Toolbar with various icons",
+    "Left-hand project and effect control panels",
+    "Central composition preview panel displaying a mobile UI menu",
+    "Right-hand effects and presets panel",
+    "Bottom timeline and layer list panel",
+    "Text labels and data entries within all panels",
+    "User interface elements (buttons, sliders, scroll bars)",
+    "Timeline ruler with time markers and playhead"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "subtopic": "Cultural or Heritage art",
+  "prompt": "Edit image 1: Apply the decorative ceramic tile style and border pattern from image 2 to the central and side text panels in image 1, retaining the original cultural text.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748714735412,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1: Apply the decorative ceramic tile style from image 2, including its distinct border pattern and glazed surface, to the large central text panel and the two smaller side text panels. Preserve all original cultural text within these panels.",
+  "annotator": "kellycyy",
+  "objects": [
+    "Ornate architectural roof structure",
+    "Dragon sculptures on the roof",
+    "Large central text panel with preserved \"\u5927\u5e73\u6a13\" text, featuring a glazed ceramic tile surface and a distinct decorative border pattern",
+    "Two smaller side text panels with preserved cultural text, featuring a glazed ceramic tile surface and a distinct decorative border pattern",
+    "Dragon head sculpture below the central panel",
+    "Decorative swirling patterns around the text panels",
+    "Roof tiles"
+  ]
+}

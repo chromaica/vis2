@@ -1,0 +1,16 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "Create a cybersecurity shield icon using only hexagonal patterns and neon green on black",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a centered cybersecurity shield icon. It is composed entirely of interconnected hexagonal patterns, illuminated in neon green against a pure black background.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Centered cybersecurity shield icon",
+    "Interconnected hexagonal patterns",
+    "Neon green illumination",
+    "Pure black background"
+  ]
+}

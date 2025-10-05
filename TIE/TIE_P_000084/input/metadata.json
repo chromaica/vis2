@@ -1,0 +1,23 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "create an illustrated version of a sketch of this louse",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, which features a magnified, photorealistic view of a louse. Transform the louse into an illustrated sketch. The output should be a detailed, monochrome illustration of the louse, rendered with clear lines, hatching, and shading to mimic a hand-drawn pencil or ink sketch, while accurately representing the form and intricate features visible in image 1.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Louse",
+    "Louse body",
+    "Louse head",
+    "Louse legs",
+    "Louse antennae",
+    "Louse mouthparts",
+    "Fine surface details of the louse",
+    "Spines on the louse"
+  ],
+  "human_annotation": true
+}

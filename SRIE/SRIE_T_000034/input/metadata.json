@@ -1,0 +1,23 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Warp the text along the same grid lines so it appears woven into the tartan.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Replace the white background with the tartan pattern from image 2. Warp the text \"BURBERRY LONDON\" from image 1 to appear woven into this tartan, aligning its form with the horizontal and vertical grid lines and simulating an over-under thread effect.",
+  "annotator": "matina",
+  "objects": [
+    "Tartan pattern background",
+    "Text \"BURBERRY LONDON\" appearing woven into the tartan",
+    "Over-under thread effect on the text",
+    "Equestrian Knight Device (Burberry logo)",
+    "Registered trademark symbol (\u00ae)",
+    "White background (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

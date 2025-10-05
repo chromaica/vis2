@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "Generate a microscopic-style image inspired by the vibrant red blood cells from the first reference image, but replace the cells with the red buttons from the second reference image. Arrange the buttons in a flowing, organic pattern mimicking blood flow through a vessel. Use a soft, glowing blue background to evoke a clinical microscopy aesthetic. Introduce subtle variations in button sizes and textures (e.g., some glossy, some matte) to add depth and realism. Ensure the scene feels dynamic, with slight overlaps and a sense of motion.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic microscopic-style image. Populate the scene with multiple red buttons, closely resembling those in image 2, arranged in a dense, flowing, organic pattern that evokes the dynamic movement of red blood cells through a vessel, similar to the distribution seen in image 1. The background should be a soft, glowing blue, creating a clinical microscopy aesthetic. Introduce subtle variations in the buttons' sizes and textures; for instance, some buttons should appear slightly larger or smaller, and their surfaces should vary between glossy and matte finishes. Ensure the buttons exhibit slight overlaps to enhance the sense of depth and motion within the scene.",
+  "objects": [
+    "photorealistic style",
+    "microscopic aesthetic",
+    "multiple red buttons (resembling image 2)",
+    "dense, flowing, organic pattern of buttons (similar to image 1's distribution)",
+    "soft, glowing blue background",
+    "clinical microscopy aesthetic",
+    "buttons with subtle size variations (larger/smaller)",
+    "buttons with glossy finishes",
+    "buttons with matte finishes",
+    "overlapping buttons"
+  ],
+  "human_annotation": true
+}

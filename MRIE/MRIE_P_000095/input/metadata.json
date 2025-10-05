@@ -1,0 +1,22 @@
+{
+  "subtopic": "Microscopic imagery",
+  "prompt": "Edit image 1: Arrange grid points into patterns from image 2, apply the color palette from image 3.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749307053301,
+  "promptLengthUsed": "short",
+  "task": "MRIE",
+  "topic": "P",
+  "prompt_refined": "Edit image 1: Arrange the bright points of image 1's atomic lattice to form the distinct figure composed of beads from the right side of image 2, maintaining their microscopic, point-like appearance. Also, include the single bright bead from the left side of image 2, positioned similarly. Apply the reddish-orange background gradient and the deep green tones from image 3 to the resulting image.",
+  "annotator": "boris",
+  "objects": [
+    "Figure composed of microscopic, point-like bright beads",
+    "Single microscopic, point-like bright bead (on the left)",
+    "Reddish-orange background gradient",
+    "Deep green color tones"
+  ]
+}

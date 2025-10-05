@@ -1,0 +1,27 @@
+{
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "Generate an image showing the woman from image 1 standing next to the cat from image 2. Both subjects should have colored overlays representing semantic segmentation, similar to the style of a segmentation dataset visualization, on a plain background.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748422595806,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate an image showing the smiling woman with curly hair from image 1 positioned to the left of the brown tabby cat wearing a red scarf from image 2. Apply distinct, brightly colored, semi-transparent segmentation mask overlays onto both the woman and the cat, in the style of a computer vision dataset visualization. The scene should be set on a plain, light grey background.",
+  "annotator": "winston",
+  "objects": [
+    "smiling woman with curly hair (from image 1)",
+    "brown tabby cat (from image 2)",
+    "red scarf (on the cat)",
+    "woman positioned to the left of the cat",
+    "distinct, brightly colored, semi-transparent segmentation mask overlay on the woman",
+    "distinct, brightly colored, semi-transparent segmentation mask overlay on the cat",
+    "computer vision dataset visualization style (for the masks)",
+    "plain, light grey background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

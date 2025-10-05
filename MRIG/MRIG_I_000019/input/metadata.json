@@ -1,0 +1,29 @@
+{
+  "subtopic": "UI mockups",
+  "prompt": "Generate an illustrative UI mockup using the clean, flat component types (like buttons, inputs, lists) shown in image 1, rendered in the abstract style and color palette of image 2, arranged in a simple screen layout.",
+  "cond_images": [
+    "1.jpeg",
+    "2.png"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "UI mockups information graphics",
+  "searchQueryGeneratedTimestamp": 1750602474032,
+  "promptGeneratedTimestamp": 1750602598916,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "I",
+  "annotator": "htwong",
+  "prompt_refined": "Generate an illustrative UI mockup. Use the clean, flat UI component types (such as buttons, input fields, tabs, progress bars, and alert messages) found in image 1. Render the entire mockup in the abstract, vector-like illustration style and cool color palette (blues, greens, light grays) derived from image 2. Structure the components into a simple, single-screen layout, similar to the main content area depicted in image 2.",
+  "objects": [
+    "UI mockup",
+    "Buttons",
+    "Input fields",
+    "Tabs",
+    "Progress bars",
+    "Alert messages",
+    "Single-screen layout",
+    "Search bar",
+    "User profile icons",
+    "Percentage circle indicators"
+  ]
+}

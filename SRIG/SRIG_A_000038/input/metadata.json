@@ -1,0 +1,22 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Stylized art",
+  "prompt": "An stylized and enchanted garden where this teacup is a blooming flower",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a stylized, enchanted garden artwork where the white teacup from image 1 is reimagined as a vibrant, blooming flower at the center of the scene, its ceramic form expressed through delicate petals and lush foliage.",
+  "annotator": "Johnny",
+  "objects": [
+    "enchanted garden",
+    "vibrant, blooming flower",
+    "flower at the center of the scene",
+    "delicate petals",
+    "lush foliage",
+    "ceramic texture on flower petals",
+    "white teacup (should not be present)"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "Texture Map",
+  "prompt": "A diffuse map of colorful handwoven fabric, with an intricate geometric pattern and natural fibers.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A diffuse map of handwoven fabric. The texture is vibrant and rich in color, showcasing an intricate, repeating geometric pattern with precise lines and shapes. The visible weave clearly reveals the natural fibers, such as cotton or linen, giving the fabric an authentic, textured, and artisanal quality.",
+  "annotator": "maxku",
+  "objects": [
+    "Diffuse map of fabric",
+    "Handwoven fabric",
+    "Vibrant colors",
+    "Rich colors",
+    "Intricate geometric pattern",
+    "Repeating pattern",
+    "Precise lines and shapes",
+    "Visible fabric weave",
+    "Natural fibers (cotton or linen)"
+  ]
+}

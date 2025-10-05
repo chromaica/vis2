@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": "Generate a homepage of a modern news website using the layout structure from the first image and the headline typography and color theme from the second image.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a modern news website homepage. Replicate the multi-column layout structure from image 1, including its prominent masthead, the large main article section on the left with a featured image, and the secondary article column on the right. For typography, apply the large, bold, sans-serif headline style from image 2 to all main headlines, and use the unique, stylized font from image 2's 'GOODGOODGOOD' masthead for the new website's masthead. Adopt the vibrant, warm color palette (featuring oranges, reds, and light browns with gradient accents) from image 2 for the overall design, including navigational elements and section dividers, while maintaining the clean, structured content grid organization of image 1.",
+  "annotator": "paria",
+  "objects": [
+    "Multi-column layout structure",
+    "Clean, structured content grid organization",
+    "Prominent masthead with unique, stylized font",
+    "Large main article section on the left",
+    "Featured image within the large main article section",
+    "Secondary article column on the right",
+    "Main headlines with large, bold, sans-serif typography",
+    "Vibrant, warm color palette (oranges, reds, light browns, gradient accents)",
+    "Navigational elements",
+    "Section dividers"
+  ]
+}

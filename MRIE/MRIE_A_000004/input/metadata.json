@@ -1,0 +1,21 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Cultural or Heritage art",
+  "prompt": "Add the dancing characters from the first and second images into the foreground of the first image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Introduce the dancing character from image 1 and the dancing character from image 2 into the foreground. Position both figures prominently on the transparent canvas of image 1, ensuring they maintain their distinct artistic styles, vibrant colors, and dynamic poses as depicted in image 1 and image 2 respectively. Arrange them in a visually appealing composition that suggests a pair dancing.",
+  "annotator": "paria",
+  "objects": [
+    "Blue dancing character in foreground",
+    "Orange dancing character in foreground",
+    "Sunset sky",
+    "Sun",
+    "Silhouetted trees and landscape"
+  ]
+}

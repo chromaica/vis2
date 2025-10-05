@@ -1,0 +1,21 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Digital art",
+  "prompt": "Fill out the empty space denoted with numbers.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Complete the pixel art by coloring the numbered grid area on the right side of the image. Each numbered pixel should be filled with its corresponding color, integrating seamlessly with the existing completed pixel artwork.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "pixel art dragon",
+    "pixel art woman",
+    "pixel art Chinese lanterns",
+    "pixelated background",
+    "colored pixel art in the area formerly occupied by the numbered grid",
+    "pencil (should not be present)",
+    "numbered grid area (should not be present)"
+  ]
+}

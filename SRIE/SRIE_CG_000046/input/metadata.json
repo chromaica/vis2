@@ -1,0 +1,27 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Depth maps",
+  "prompt": "Colorize only objects beyond 5m (black part in the reference).",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Colorize only the regions representing objects beyond 5 meters, as defined by the black areas in image 2. The foreground elements (corresponding to the white areas in image 2) should remain in their original black and white state.",
+  "annotator": "nimajamali",
+  "objects": [
+    "Black and white main woman",
+    "Black and white foreground of zebra crossing and street",
+    "Colorized background street with zebra crossing",
+    "Colorized Parisian-style buildings with arches",
+    "Colorized parked cars",
+    "Colorized white delivery van",
+    "Colorized scooter",
+    "Colorized other pedestrians in the background",
+    "Colorized distant monument/tower",
+    "Colorized sky"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

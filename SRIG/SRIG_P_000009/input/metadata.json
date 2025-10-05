@@ -1,0 +1,22 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "A scene of the asteroid in the image hurtling through space, leaving a trail of cosmic dust behind it",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic image using image 1 as a visual reference. Depict the large, irregularly shaped, rocky asteroid from image 1, with its textured, grey and blueish-grey surface and prominent craters, hurtling rapidly across the vastness of deep space. The asteroid moves from the lower-left towards the upper-right of the frame, leaving a long, luminous trail of cosmic dust and fine debris stretching behind it against the dark, star-filled backdrop.",
+  "annotator": "samin",
+  "objects": [
+    "Large, irregularly shaped rocky asteroid (from image 1) with textured, grey and blueish-grey surface",
+    "Prominent craters on the asteroid",
+    "Vast, dark deep space",
+    "Star-filled backdrop",
+    "Long, luminous trail of cosmic dust and fine debris",
+    "Asteroid positioned moving from the lower-left towards the upper-right of the frame",
+    "Trail stretching behind the asteroid"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Generate an image of a mermaid where the human upper body (head, torso, and arms) matches the visual style, details, and characteristics (e.g., skin tone, hair, and art style) of the human in the first reference image, and the fish-like lower body matches the visual style, color, and texture (e.g., scales, fin shape, and art style) of the fish in the second reference image. Ensure the mermaid appears seamlessly integrated, with a smooth transition between the human and fish parts, and consistent lighting, perspective, and proportions. Place the mermaid in an underwater scene with a neutral coral reef background unless otherwise specified.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic image of a mermaid. The mermaid's upper body (head, torso, and arms) should replicate the visual style, specific facial features, skin tone, and long, wavy blonde hair of the model in image 1. The fish-like lower body, including scales and fin shape, must match the vibrant blue and red colors and intricate texture of the Betta fish in image 2. Ensure seamless integration and a smooth transition between the human and fish parts, maintaining consistent lighting, perspective, and proportions for a cohesive appearance. The mermaid should be placed in an underwater scene with a neutral coral reef background.",
+  "objects": [
+    "photorealistic mermaid",
+    "mermaid upper body with visual style of model in image 1",
+    "mermaid head with specific facial features of model in image 1",
+    "mermaid skin tone matching model in image 1",
+    "long, wavy blonde hair on mermaid matching model in image 1",
+    "mermaid fish-like lower body with scales matching Betta fish in image 2",
+    "mermaid fish-like lower body with fin shape matching Betta fish in image 2",
+    "mermaid fish-like lower body with vibrant blue and red colors matching Betta fish in image 2",
+    "underwater scene",
+    "neutral coral reef background"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Traditional art",
+  "prompt": "Make the cat looks more friendly by adding a smile and brightening its colors. Ensure the changes blend seamlessly with the original art style.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, a traditional Japanese painting of a white and black cat, by subtly adding a gentle smile to the cat's face to make its expression appear more friendly. Simultaneously, brighten the colors of the cat's fur, especially the white and light-grey areas, ensuring the modifications seamlessly integrate with the existing art style and distinctive brushwork of the original artwork.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Traditional Japanese painting style",
+    "White and black cat",
+    "Cat with a gentle smile",
+    "Cat's fur with brighter white and light-grey areas",
+    "Plum blossom branches",
+    "White plum blossoms",
+    "Subtle, light-colored background",
+    "Artist's signature/seal"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

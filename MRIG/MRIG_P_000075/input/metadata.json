@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Create a Bombardier CRJ900 referenced in the first image reimagined as a fiery phoenix referenced in the second image. The regional jet\u2019s slender fuselage is metallic, with a fiery red-to-orange gradient resembling glowing embers. The wings are flame-like with translucent, fiery membranes, each mounting a single General Electric CF34 turbofan engine at the rear of the fuselage (tail-mounted). The cockpit is angular, with a beak-like structure and glowing orange eyes. The tail is a cascade of flame-like extensions with auxiliary thrusters.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic image of a Bombardier CRJ900, referencing the aircraft's structure and mid-flight perspective from image 1, transformed into a fiery phoenix, drawing its vibrant aesthetic and characteristics from image 2. The aircraft's slender, metallic fuselage should exhibit a glowing red-to-orange gradient, transitioning from deep fiery red at the rear to vibrant orange at the front, resembling incandescent embers. Its wings should be expansive and outstretched, like the phoenix's wings in image 2, composed of translucent, flame-like membranes. Two General Electric CF34 turbofan engines, consistent with their tail-mounted position on either side of the rear fuselage as seen in image 1, should be integrated into this fiery design. The cockpit area must be angular, forming a distinct beak-like structure with glowing orange eyes, echoing the phoenix's head in image 2. The aircraft's T-tail, as depicted in image 1, should morph into a dramatic cascade of flowing, flame-like extensions, similar to the phoenix's tail in image 2, with subtle auxiliary thrusters incorporated within these fiery forms. The overall image should convey intense light and heat.",
+  "objects": [
+    "Bombardier CRJ900 aircraft (transformed into a phoenix)",
+    "Mid-flight perspective",
+    "Slender fuselage with glowing red-to-orange gradient",
+    "Expansive, outstretched wings composed of translucent, flame-like membranes",
+    "Two tail-mounted General Electric CF34 turbofan engines (integrated into fiery design)",
+    "Angular, beak-like cockpit structure",
+    "Glowing orange eyes",
+    "Dramatic cascade of flowing, flame-like extensions (T-tail)",
+    "Subtle auxiliary thrusters within tail flame extensions",
+    "Intense light and heat atmosphere"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "Generate a cartoon style of a smiling cat.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a cartoon style smiling cat, adopting the silhouette and frontal orientation from image 1.",
+  "annotator": "Johnny",
+  "objects": [
+    "cartoon style cat",
+    "smiling cat face",
+    "cat head with specific silhouette (from image 1)",
+    "pointed cat ears",
+    "cat whiskers",
+    "front-facing cat (from image 1)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

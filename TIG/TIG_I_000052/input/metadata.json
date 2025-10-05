@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "Design a ride-sharing icon using two puzzle piece cars interlocking on a road, lime green and midnight black, bold geometric forms",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a ride-sharing icon featuring two cars designed as interlocking puzzle pieces. These cars, rendered in lime green and midnight black, are positioned on a road. The icon should have a bold, geometric aesthetic.",
+  "annotator": "theblackcat",
+  "objects": [
+    "ride-sharing icon",
+    "two cars",
+    "cars designed as interlocking puzzle pieces",
+    "lime green car",
+    "midnight black car",
+    "road",
+    "bold aesthetic",
+    "geometric aesthetic"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

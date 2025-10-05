@@ -1,0 +1,24 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "Build the Persian word \u201c\u0627\u0645\u06cc\u062f\u201d in the cracked 3D style from the first image and place it over a solid background in the second image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate the Persian word \u201c\u0627\u0645\u06cc\u062f\u201d in a 3D block-letter style. This style should incorporate the distinct cracked texture, bold red color, and cross-hatching shading as observed on the text in image 1. Position the rendered word centrally on a solid, flat background that precisely matches the light pink color from image 2.",
+  "annotator": "parnian",
+  "objects": [
+    "The Persian word \u201c\u0627\u0645\u06cc\u062f\u201d",
+    "3D block-letter style",
+    "Cracked texture on the word",
+    "Bold red color on the word",
+    "Cross-hatching shading on the word",
+    "The word positioned centrally",
+    "Solid background",
+    "Flat background",
+    "Light pink background color"
+  ]
+}

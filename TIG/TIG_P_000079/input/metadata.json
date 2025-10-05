@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Medical images",
+  "prompt": "A graphic representation of a tooth cross-section, showing enamel, dentin, pulp, and nerves in vibrant colors for educational purposes.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic illustration of a detailed human tooth cross-section. The image must clearly display the distinct layers: enamel, dentin, and pulp, as well as the nerves located within the pulp chamber. Each anatomical component should be rendered in vibrant, contrasting colors to maximize visual clarity and educational impact. The cross-section should be centrally positioned on a clean, neutral background, resembling a high-quality anatomical diagram.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Centrally positioned human tooth cross-section",
+    "Enamel layer",
+    "Dentin layer",
+    "Pulp layer",
+    "Pulp chamber",
+    "Nerves",
+    "Clean, neutral background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

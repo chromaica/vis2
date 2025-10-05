@@ -1,0 +1,20 @@
+{
+  "subtopic": "Skeletal Animation and Rigging",
+  "prompt": "Utilizing the skeletal rig, adjust the character's pose to lower the arms from the default T-pose down to rest naturally by their sides.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751762718080,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1. In image 1, a 3D character model with a visible skeletal rig is in a T-pose. Repose the character by lowering both arms from their current horizontal T-pose position so that they hang naturally and vertically along the character's sides.",
+  "annotator": "edisy",
+  "objects": [
+    "3D character model",
+    "visible skeletal rig",
+    "character's arms hanging naturally and vertically along the character's sides",
+    "dark grey background"
+  ]
+}

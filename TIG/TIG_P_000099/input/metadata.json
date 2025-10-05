@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "An artistic capture of a sugar crystal, magnified to show its angular structure and clear, sparkling facets in a calming light.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A photorealistic extreme close-up macro shot of a single sugar crystal. Its prominent angular structure and crystal-clear, translucent facets are highlighted, sparkling intensely as they refract the soft, diffused, and calming light.",
+  "annotator": "cwhsu",
+  "objects": [
+    "single sugar crystal",
+    "extreme close-up view",
+    "macro shot perspective",
+    "prominent angular structure",
+    "crystal-clear facets",
+    "translucent facets",
+    "intense sparkling",
+    "refracted light",
+    "soft light",
+    "diffused light"
+  ]
+}

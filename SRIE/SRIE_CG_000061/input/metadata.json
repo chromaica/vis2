@@ -1,0 +1,20 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "CAD models",
+  "prompt": "Replace the original rim with the sportier rim from the reference.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the rims on the 3D model car in image 1 with the distinct, sportier rim design found on the 3D model car in image 2.",
+  "annotator": "nimajamali",
+  "objects": [
+    "Grey 3D model car body",
+    "Distinct, sportier rim design",
+    "Tires",
+    "White background",
+    "Rims from image 1 (should not be present)"
+  ]
+}

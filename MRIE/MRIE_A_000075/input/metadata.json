@@ -1,0 +1,27 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Stylized art",
+  "prompt": "Place the wine glass from image 2 on the table in image 1, and change the woman\u2019s clothes in image 1 to the blue dress from image 3. Maintain the Geometric Cubism style when applying these changes.",
+  "cond_images": [
+    "1.jpg",
+    "2.png",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 by integrating the wine glass from image 2 onto the table located on the left side of image 1, near the red roses. Simultaneously, replace the woman's current red top and green pants in image 1 with the blue dress worn by the woman in image 3. Ensure all modifications strictly maintain the Geometric Cubism art style consistent with image 1.",
+  "annotator": "paria",
+  "objects": [
+    "Woman wearing a blue dress",
+    "Table on the left",
+    "Red roses in a vase",
+    "Wine glass on the table near the red roses",
+    "Chair",
+    "Bulldog",
+    "Umbrella",
+    "Briefcase",
+    "Geometric Cubism art style",
+    "Geometric background"
+  ],
+  "human_annotation": true
+}

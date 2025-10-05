@@ -1,0 +1,26 @@
+{
+  "subtopic": "Object detection visuals",
+  "prompt": "In the image showing object detection, change the color of the bounding boxes specifically labeled as 'HUMAN' to a bright green color.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751817452028,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1. Change the color of all bounding boxes labeled 'HUMAN' to a bright green. These 'HUMAN' bounding boxes are currently yellow in the image.",
+  "annotator": "edisy",
+  "objects": [
+    "city street scene",
+    "people",
+    "buildings",
+    "bright green bounding boxes labeled 'HUMAN'",
+    "teal bounding boxes labeled 'Building'",
+    "red bounding boxes labeled 'Bag'",
+    "red bounding box labeled 'Pushcart'",
+    "blue bounding box labeled 'Bicycle'",
+    "bicycle",
+    "pushcart"
+  ]
+}

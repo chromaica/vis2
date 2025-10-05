@@ -1,0 +1,29 @@
+{
+  "subtopic": "Cultural or Heritage art",
+  "prompt": "Edit image 1: Apply the vibrant, sketchy multi-color line art and watercolor-like texture style of image 2 to the architecture, transforming the heritage structure into an expressive artwork.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748669858628,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1: Apply the distinctive artistic style of image 2, which is characterized by vibrant, multi-colored (e.g., red, blue, purple, black) sketchy line art and a watercolor wash texture on a textured paper background. Transform the large, curved red-orange astronomical structure and its immediate architectural surroundings in image 1 into an expressive, painterly artwork, adopting this aesthetic.",
+  "annotator": "kellycyy",
+  "objects": [
+    "large, curved astronomical structure",
+    "immediate architectural surroundings",
+    "green bush/tree",
+    "sky area",
+    "sketchy line art",
+    "watercolor wash texture",
+    "textured paper background",
+    "red color",
+    "blue color",
+    "purple color"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

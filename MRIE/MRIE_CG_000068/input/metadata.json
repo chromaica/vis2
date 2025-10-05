@@ -1,0 +1,22 @@
+{
+  "subtopic": "Depth maps",
+  "prompt": "Edit image 1 by generating a depth map representation of the 3D car. Visualize this depth map using a color gradient inspired by the colors of the red car in image 2. Overlay the blue car silhouette from image 3 onto the colored depth map for shape comparison and depth context.",
+  "cond_images": [
+    "1.jpeg",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748456173655,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1 by generating a depth map representation of the 3D car. Visualize this depth map using a color gradient inspired by the dominant red and accent colors from image 2 (the red car), where closer objects are represented by deeper red tones and further objects by progressively lighter shades transitioning towards white or light grey. Overlay the blue car silhouette from image 3 centrally onto this colored depth map, precisely aligning its position and scale with the 3D car from image 1, to enable shape comparison and provide depth context.",
+  "annotator": "winston",
+  "objects": [
+    "Sports car depth map",
+    "Red-to-white/grey color gradient",
+    "Blue car silhouette",
+    "Background (showing furthest depth)"
+  ]
+}

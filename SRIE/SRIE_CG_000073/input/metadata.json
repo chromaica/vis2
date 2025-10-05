@@ -1,0 +1,20 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "3D renders",
+  "prompt": "Enhance color intensity based on texture slope from the gradient reference.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 (the gray sphere). Apply colors to the sphere, where the vividness or saturation of these colors is directly guided by the brightness levels in image 2 (the gradient reference). Specifically, regions on the sphere that align with brighter areas in image 2 should display significantly enhanced color intensity, while regions aligning with darker areas in image 2 should have reduced or muted color intensity.",
+  "annotator": "nimajamali",
+  "objects": [
+    "a sphere",
+    "colors applied to the sphere",
+    "regions of enhanced color intensity on the sphere",
+    "regions of muted color intensity on the sphere",
+    "a dark gray background"
+  ]
+}

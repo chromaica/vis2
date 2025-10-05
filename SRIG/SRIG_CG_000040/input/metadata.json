@@ -1,0 +1,26 @@
+{
+  "subtopic": "VFX and Particles",
+  "prompt": "Generate a digital rendering inspired by the reference, showcasing dynamic sports action with intricate particle systems, VFX energy trails, and motion graphics effects, emphasizing computer graphics.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://the-generation.net/wp-content/uploads/2022/05/20170716_WEURO_NED_NOR_3450-1024x683-1.jpg",
+  "promptGeneratedTimestamp": 1748767438510,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a digital rendering inspired by image 1, transforming the dynamic soccer action into a highly stylized computer graphics scene. Apply intricate particle systems around the players' feet and the soccer ball to show impact and movement. Add vibrant VFX energy trails emanating from their kicks and surrounding the ball. Integrate subtle motion graphics elements, such as digital overlays or glowing outlines, to enhance the sense of motion and emphasize the computer-generated aesthetic.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Female soccer player in action",
+    "Second female soccer player in action",
+    "Soccer ball",
+    "Soccer field",
+    "Stylized stadium background",
+    "Intricate particle systems around players' feet",
+    "Intricate particle systems around the soccer ball",
+    "Vibrant VFX energy trails from kicks",
+    "Vibrant VFX energy trails surrounding the soccer ball",
+    "Motion graphics elements (e.g., digital overlays, glowing outlines)"
+  ]
+}

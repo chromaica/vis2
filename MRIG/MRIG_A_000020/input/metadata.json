@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Stylized art",
+  "prompt": "Generate a stylized artwork depicting the dynamic, rearing horse pose from image 1, completely rendered using the vibrant, swirling line texture and color palette characteristic of image 2.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a stylized artwork depicting the dynamic rearing horse pose from image 1. The entire form of the horse should be intricately rendered using the vibrant, swirling short brushstrokes and characteristic color palette of deep blues, bright yellows, and oranges seen in image 2, ensuring the distinct individual lines define its shape and texture.",
+  "annotator": "samin",
+  "objects": [
+    "rearing horse",
+    "stylized artwork",
+    "vibrant brushstrokes",
+    "swirling brushstrokes",
+    "short brushstrokes",
+    "distinct individual lines",
+    "deep blue color",
+    "bright yellow color",
+    "orange color"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

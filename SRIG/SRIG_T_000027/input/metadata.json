@@ -1,0 +1,21 @@
+{
+  "task": "SRIG",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "generate a typography design using the reference image's style and layout approach, featuring the title 'Stille Wasser sind tief' with similar font treatment and visual composition",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a typography design for the title 'Stille Wasser sind tief'. Emulate the hand-drawn, traditional brushstroke calligraphic style from image 1, including its black ink appearance and the plain white background. The text should be arranged in vertical columns, read from right to left, mirroring the precise spacing and overall visual composition observed in image 1.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Text: 'Stille Wasser sind tief'",
+    "Black ink calligraphic lettering",
+    "Hand-drawn brushstroke style",
+    "Plain white background",
+    "Vertical text columns",
+    "Right-to-left column arrangement",
+    "Spacing and overall composition matching the reference image"
+  ]
+}

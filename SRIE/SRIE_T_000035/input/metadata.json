@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "Use this star as a custom bullet before each line.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the 'EAT MORE ART' graphic. Incorporate the star design from image 2 by placing one instance to the left of the 'EAT MORE' text, aligned vertically with its center. Add a second instance of the star to the left of the 'ART' text, aligned vertically with its center. Each star should function as a custom bullet point for its respective line.",
+  "annotator": "matina",
+  "objects": [
+    "\"EAT MORE ART\" text graphic (with splatter texture)",
+    "\"EAT MORE\" text",
+    "\"ART\" text",
+    "Colorful speckles/splatters",
+    "Cream/light yellow background",
+    "Horizontal lines/dashes between \"EAT MORE\" and \"ART\"",
+    "Star icon (from image 2) to the left of the \"EAT MORE\" text, vertically centered.",
+    "Star icon (from image 2) to the left of the \"ART\" text, vertically centered."
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

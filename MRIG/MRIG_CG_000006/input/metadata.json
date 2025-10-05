@@ -1,0 +1,23 @@
+{
+  "subtopic": "Object detection visuals",
+  "prompt": "Render the teddy bear from image 1 and the hamster from image 2. Use the photorealistic style, lighting, and background environment of image 2. Place them clearly visible, suitable for object detection.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "Object detection visualization example",
+  "searchQueryGeneratedTimestamp": 1748419998739,
+  "promptGeneratedTimestamp": 1748420007156,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate an image featuring the teddy bear from image 1 and the hamster from image 2. Render the teddy bear in the photorealistic style, lighting, and background environment of image 2, ensuring visual consistency with the hamster. Place both subjects clearly visible and distinct from each other in the foreground, suitable for object detection.",
+  "annotator": "winston",
+  "objects": [
+    "teddy bear",
+    "hamster",
+    "blurred, warm-toned, earthy background",
+    "ground surface"
+  ]
+}

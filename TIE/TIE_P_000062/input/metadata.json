@@ -1,0 +1,22 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "make the sky clear for me, bright blue clear sky",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the entire sky with a bright, clear blue sky, completely devoid of any clouds.",
+  "annotator": "theblackcat",
+  "objects": [
+    "bright, clear blue sky",
+    "large modern building",
+    "green foliage",
+    "residential buildings in the background",
+    "tall building in the background",
+    "small building with traditional roof",
+    "pine trees",
+    "clouds (should not be present)"
+  ]
+}

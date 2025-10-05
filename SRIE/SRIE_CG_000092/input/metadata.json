@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "Render masked vehicles as futuristic hovering pods.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Transform the vehicle in image 1, specifically the area defined by the mask in image 2, into a futuristic hovering pod. The pod should replace the original vehicle, maintaining its approximate scale and position within the scene, and appear to float slightly above the ground. The aesthetic should be that of a sleek, advanced, computer-generated concept art rendering.",
+  "annotator": "nimajamali",
+  "objects": [
+    "futuristic hovering pod",
+    "road",
+    "sky with clouds",
+    "trees in background",
+    "buildings in background",
+    "other cars in background",
+    "sidewalk",
+    "streetlights",
+    "power lines",
+    "original white bus (should not be present)"
+  ]
+}

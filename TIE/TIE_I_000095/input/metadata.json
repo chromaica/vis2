@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Convert the organization chart into a radial layout with the CEO at the center.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Transform the depicted organization chart into a radial layout. Position 'CEO Tim' at the central point of the radial structure. Arrange all subordinate managers and employees to radiate outwards from 'CEO Tim', maintaining their original hierarchical levels and all details from image 1.",
+  "annotator": "cwhsu",
+  "objects": [
+    "\"Org Chart : The Company Structure\" title",
+    "CEO Tim's blue box with avatar, positioned centrally",
+    "Marketing Manager's blue box with avatar, positioned radially from CEO Tim",
+    "IT Manager's blue box with avatar, positioned radially from CEO Tim",
+    "All 8 green rectangular boxes with avatars and names for Marketing department employees (e.g., Tom, King, Kim, Jason, Leon, Justin, Paul, Neo), positioned radially according to hierarchy",
+    "All 8 green rectangular boxes with avatars and names for IT department employees (e.g., Amy, Tina, Katy, Linda, Fiona, Tracy, Young, Andy), positioned radially according to hierarchy",
+    "Hierarchical connecting lines with arrows, radiating outwards",
+    "Light green/cream background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

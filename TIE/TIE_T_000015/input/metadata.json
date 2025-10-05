@@ -1,0 +1,20 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Change the background behind Boromir to a scrolling terminal window with error logs.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 by replacing the background area directly behind Boromir with a scrolling terminal window displaying various computer error logs.",
+  "annotator": "matina",
+  "objects": [
+    "Boromir",
+    "scrolling terminal window",
+    "computer error logs",
+    "\"One does not simply...\" text",
+    "\"Have a conversation only using memes!\" text",
+    "original background (should not be present)"
+  ]
+}

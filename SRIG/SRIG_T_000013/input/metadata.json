@@ -1,0 +1,24 @@
+{
+  "task": "SRIG",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "design the bar menu based on the outside shop front of this bar, it should fit what the customer feels when they first arrived the shop",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a graphic for 'The Temple Bar's' bar menu. The menu graphic should visually embody the warm, inviting, and traditionally rich ambiance of the shop front shown in image 1. Incorporate the distinctive deep red and orange neon glow, the dark, classic aesthetic, and the established character of a whiskey and cigar shop to evoke the cozy and sophisticated feeling a customer experiences upon arrival.",
+  "annotator": "theblackcat",
+  "objects": [
+    "\"THE TEMPLE BAR\" text/logo",
+    "\"WHISKEY & CIGAR SHOP\" text",
+    "Deep red and orange neon glow",
+    "Dark, classic shop front architecture",
+    "Neon \"WHISKEY\" sign",
+    "Whiskey bottles displayed",
+    "Cigar-related items",
+    "Warm ambient lighting",
+    "Ornate, traditional decorative elements",
+    "Dark, sophisticated background"
+  ]
+}

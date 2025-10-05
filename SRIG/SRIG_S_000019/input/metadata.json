@@ -1,0 +1,27 @@
+{
+  "subtopic": "Games",
+  "prompt": "Generate the corresponding video game screenshot in a driver view.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "https://cdna.artstation.com/p/assets/images/images/051/915/798/large/muhammx-umair-7.jpg?1658484867",
+  "searchQueryGenerated": "High quality video game gameplay screenshot detail",
+  "searchQueryGeneratedTimestamp": 1749423044279,
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a video game screenshot depicting a city driving scene from a third-person driver's view, similar in style and composition to image 1. The image should prominently feature a red sports car in the foreground, with other vehicles like a black police car visible on a city street lined with tall buildings under a clear sky. Essential game user interface (UI) elements must be present: a speedometer in the top-right corner, a steering wheel overlay in the bottom-center, pedal icons in the bottom-right corner, and a vertical progress bar on the left side, along with a prominent blue directional arrow on the road ahead.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "red sports car in the foreground",
+    "black police car",
+    "city street",
+    "tall buildings",
+    "clear sky",
+    "speedometer in the top-right corner",
+    "steering wheel overlay in the bottom-center",
+    "pedal icons in the bottom-right corner",
+    "vertical progress bar on the left side",
+    "prominent blue directional arrow on the road ahead"
+  ],
+  "human_annotation": true
+}

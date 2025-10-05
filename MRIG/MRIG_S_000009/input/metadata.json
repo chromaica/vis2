@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "Create a ride-hailing trip receipt using the trip details from the first image and the mobile UI style from the second image.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a new mobile application screen that functions as a detailed ride-hailing trip receipt. Populate this receipt with all specific trip information from image 1, including the precise pickup and dropoff addresses (28 Regent St, Chippendale, NSW 2008, AU and 3 Cumberland St, The Rocks NSW 2000, Australia respectively), the trip date and time (12/11/23, 5:36 PM), and the fare breakdown (A$92.39 + A$5.00). Additionally, incorporate the trip map, the 'You rated Mohamed, 4 stars' driver rating section, and the 'Find lost item' section as depicted in image 1. Style the entire user interface of this screen\u2014including the layout, color palette, typography, and iconography\u2014to perfectly match the modern, clean, and predominantly green-accented aesthetic of the mobile application displayed in image 2. Ensure the screen is presented within a realistic smartphone frame, consistent with the devices shown in image 2, and includes a visible status bar at the top of the phone screen.",
+  "annotator": "paria",
+  "objects": [
+    "Realistic smartphone frame",
+    "Mobile application status bar",
+    "Detailed trip receipt screen UI",
+    "Trip map",
+    "Pickup address text: \"28 Regent St, Chippendale, NSW 2008, AU\"",
+    "Dropoff address text: \"3 Cumberland St, The Rocks NSW 2000, Australia\"",
+    "Trip date and time text: \"12/11/23, 5:36 PM\"",
+    "Fare breakdown text: \"A$92.39 + A$5.00\"",
+    "Driver rating section with \"You rated Mohamed, 4 stars\"",
+    "\"Find lost item\" section"
+  ]
+}

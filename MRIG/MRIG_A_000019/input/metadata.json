@@ -1,0 +1,24 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "Create a collage using the bird silhouette from image 1, filled with the intricate leaf patterns from image 2, set against a minimal background to highlight the natural textures.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate an artwork in a collage style. The main subject is the large bird silhouette from the bottom of image 1, centrally positioned. This bird silhouette must be completely filled with intricate patterns formed by the diverse, colorful leaf shapes and detailed vein structures provided in image 2. The background should be minimal and light-colored to emphasize the natural forms and varied textures of the leaf composition.",
+  "annotator": "samin",
+  "objects": [
+    "Artwork in a collage style",
+    "Large bird silhouette from the bottom of image 1",
+    "Centrally positioned bird silhouette",
+    "Intricate patterns filling the bird silhouette",
+    "Diverse leaf shapes from image 2 within the patterns",
+    "Colorful leaf shapes from image 2 within the patterns",
+    "Detailed leaf vein structures from image 2 within the patterns",
+    "Minimal background",
+    "Light-colored background"
+  ]
+}

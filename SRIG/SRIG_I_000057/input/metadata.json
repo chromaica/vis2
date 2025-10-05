@@ -1,0 +1,24 @@
+{
+  "subtopic": "UI mockups",
+  "prompt": "Create a UI mockup for a crypto trading app. The interface should show the price chart of BTC to USD, with buttons to buy and sell, and card view with AI-generated analysis on the market trend.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://miro.medium.com/v2/resize:fit:1400/1*DARSLje3GI0OUWXFC_fxWw.jpeg",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate a UI mockup for a crypto trading application. The interface should prominently display a price chart for Bitcoin to United States Dollar (BTC to USD), visually consistent in style and data representation with image 1. This chart should include the current price value (e.g., $51,282.30) and a row of selectable time range options (e.g., '1D', 'MAX') positioned above or along the chart. Directly below the chart, or clearly positioned alongside it, include distinct 'Buy' and 'Sell' action buttons. Additionally, feature a 'card' style display box below these trading elements, or in a dedicated side panel, containing AI-generated textual analysis of the current market trend.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "UI mockup for a crypto trading application",
+    "Bitcoin to United States Dollar (BTC to USD) price chart",
+    "Current price value (e.g., $51,282.30) displayed on the chart",
+    "Row of selectable time range options (e.g., '1D', 'MAX') positioned above or along the chart",
+    "'Buy' action button, below or alongside the chart",
+    "'Sell' action button, below or alongside the chart",
+    "'Card' style display box, below trading elements or in a dedicated side panel",
+    "AI-generated textual analysis, contained within the display box"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

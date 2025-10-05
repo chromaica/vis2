@@ -1,0 +1,25 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Medical images",
+  "prompt": "Create a same version of this image but the 99 number change to 86 and 75 to 60",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. On the pulse oximeter screen, change the large blue SpO2 number from '99' to '86' and the smaller green PRbpm number from '75' to '60'. Maintain the photorealistic style of the original image.",
+  "annotator": "theblackcat",
+  "objects": [
+    "hand",
+    "finger with pulse oximeter",
+    "blue pulse oximeter",
+    "pulse oximeter screen",
+    "\"SpO2\" label on screen",
+    "large blue number \"86\" on pulse oximeter screen",
+    "\"PRbpm\" label on screen",
+    "smaller green number \"60\" on pulse oximeter screen",
+    "white background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

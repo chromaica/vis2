@@ -1,0 +1,21 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Image Transformation",
+  "prompt": "Use the edge structure from the reference to redraw the vehicle with a retro design.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Redraw the futuristic concept car in image 1, transforming its design into a retro vehicle. Utilize the detailed edge structure from image 2, a classic sports car outline, to guide the new vehicle's form and proportions, maintaining the original camera angle and lighting.",
+  "annotator": "nimajamali",
+  "objects": [
+    "Classic sports car",
+    "Dry lakebed",
+    "Mountains",
+    "Sky",
+    "Car's reflection on the ground",
+    "Ground reflection"
+  ]
+}

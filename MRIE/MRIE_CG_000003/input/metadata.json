@@ -1,0 +1,24 @@
+{
+  "subtopic": "Scene Editing",
+  "prompt": "Edit image 1 by adding the orange coffee cup from image 2 to the table next to the laptop. Incorporate the hands typing on the keyboard from image 3 onto the laptop in image 1, depicting interaction with the computer.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748425891315,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1. Integrate the orange coffee cup, as seen in image 2, onto the wooden table to the right of the laptop in image 1. Additionally, superimpose the hands actively typing on the keyboard, as depicted in image 3, onto the laptop's keyboard area in image 1, so they appear to be interacting with the computer.",
+  "annotator": "winston",
+  "objects": [
+    "laptop",
+    "wooden table",
+    "smartphone",
+    "orange coffee cup on the wooden table to the right of the laptop",
+    "hands actively typing on the laptop's keyboard",
+    "blurry outdoor background"
+  ]
+}

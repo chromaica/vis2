@@ -1,0 +1,17 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "A botanical collage of tropical plants with lush greenery and vibrant flowers, layered on a soft cream background, exuding a sense of exotic wilderness.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a botanical collage composed of richly layered tropical plants. Include abundant, lush green foliage and vividly colored, vibrant flowers throughout the composition. The entire scene should be set against a soft cream background, conveying an untamed and exotic wilderness aesthetic.",
+  "annotator": "cwhsu",
+  "objects": [
+    "botanical collage",
+    "layered tropical plants",
+    "abundant lush green foliage",
+    "vividly colored flowers",
+    "soft cream background"
+  ]
+}

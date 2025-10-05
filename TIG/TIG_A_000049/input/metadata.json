@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Pixel Art",
+  "prompt": "A cozy pixelated caf\u00e9 during winter, showcasing steaming mugs, frosted windows, and a warm fireplace in the corner.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a pixelated image of a cozy winter caf\u00e9 interior. Large frosted windows line the far wall, showing a subtle snowfall outside. Multiple steaming mugs are placed on scattered wooden tables. In the back-right corner, a warm, crackling fireplace casts a soft glow.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Caf\u00e9 interior",
+    "Large frosted windows",
+    "Far wall",
+    "Subtle snowfall",
+    "Multiple steaming mugs",
+    "Scattered wooden tables",
+    "Warm, crackling fireplace",
+    "Fireplace in the back-right corner",
+    "Soft glow from fireplace"
+  ]
+}

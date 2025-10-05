@@ -1,0 +1,27 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "Add a cyclist instance to the bike lane in the source image, using the segmentation in the reference image.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the source image (Image 1) by adding a cyclist riding a bicycle. Position the cyclist in the bike lane on the right side of the road, approximately in the area near the \"BIKE\" text. The cyclist's pose, silhouette, and scale should precisely match the white shape provided in the reference image (Image 2).",
+  "annotator": "nimajamali",
+  "objects": [
+    "Road",
+    "Bike lane",
+    "\"BIKE\" text on the bike lane",
+    "White road markings",
+    "Sidewalk",
+    "Urban background elements (e.g., buildings, distant vehicles)",
+    "A cyclist riding a bicycle",
+    "Cyclist positioned in the bike lane on the right side of the road, near the \"BIKE\" text",
+    "Cyclist's pose matching Image 2 silhouette",
+    "Cyclist's silhouette matching Image 2"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

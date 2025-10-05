@@ -1,0 +1,21 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Facial estimation and analysis",
+  "prompt": "Transfer the expression from the reference image to the source image while keeping the original background.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, which depicts a bald man with glasses and a mustache, slightly smirking in an indoor environment. Transfer the serious, neutral facial expression from the man in image 2 to the man in image 1. Ensure the original indoor background of image 1 remains unchanged.",
+  "annotator": "nimajamali",
+  "objects": [
+    "bald man",
+    "glasses",
+    "mustache",
+    "serious, neutral facial expression",
+    "indoor background",
+    "smirking facial expression (should not be present)"
+  ]
+}

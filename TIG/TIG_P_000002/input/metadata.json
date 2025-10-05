@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "A misty forest at dawn, sunlight streaming through tall trees, casting long shadows on a dirt path.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic image of a misty forest at dawn, with warm golden sunlight streaming through the tall trees and casting long, defined shadows across a dirt path.",
+  "annotator": "cwhsu",
+  "objects": [
+    "misty forest",
+    "tall trees",
+    "warm golden sunlight",
+    "long, defined shadows",
+    "dirt path",
+    "mist",
+    "dawn sky"
+  ],
+  "human_annotation": true
+}

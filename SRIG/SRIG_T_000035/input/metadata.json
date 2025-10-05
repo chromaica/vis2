@@ -1,0 +1,25 @@
+{
+  "subtopic": "Memes",
+  "prompt": "Create a meme graphic for 'Textual Graphics' and 'Memes', adopting the bright, simple, cartoon style and incorporating the smiling sun face from the reference image.",
+  "cond_images": [
+    "1.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1750705343210,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "T",
+  "annotator": "winston",
+  "prompt_refined": "Generate a digital meme graphic focused on the themes of 'Textual Graphics' and 'Memes'. The graphic should be rendered in a bright, simple, cartoon style, reflecting the vibrant colors and clear lines seen in image 1. Prominently incorporate the smiling sun face from image 1, specifically the cartoon sun with sunglasses and a cheerful expression, into the meme's visual composition.",
+  "objects": [
+    "Digital meme graphic",
+    "Smiling cartoon sun face",
+    "Sunglasses on the sun face",
+    "Cheerful expression on the sun face",
+    "Textual graphics elements",
+    "Meme visual elements",
+    "Bright colors",
+    "Simple cartoon style",
+    "Clear lines"
+  ]
+}

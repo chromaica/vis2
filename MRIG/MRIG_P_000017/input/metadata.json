@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "A robotic wolf reimagined as a neuro-linked guardian, inspired by the agile, modular design of a Boston Dynamics Spot robot referenced in the second Image. The first reference give the general shape of a wolf, its body is a matte-black composite with orange neural circuits glowing along its joints. The wolf\u2019s eyes are augmented reality visors displaying environmental data.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic image of a robotic wolf, reimagined as a neuro-linked guardian. The wolf's overall anatomical shape and alert standing posture should be derived from the grey wolf presented in Image 1. Its sophisticated mechanical design, including its articulated limbs and modular components, should draw direct inspiration from the agile engineering of the Boston Dynamics Spot robot depicted in Image 2. The robot's body is crafted from a matte-black composite material, with luminous orange neural circuits distinctly visible and glowing along all its joints. The wolf's eyes are advanced augmented reality visors, actively displaying dynamic environmental data.",
+  "objects": [
+    "Robotic wolf",
+    "Wolf anatomical shape",
+    "Alert standing posture",
+    "Matte-black composite body",
+    "Sophisticated mechanical design",
+    "Articulated limbs",
+    "Modular components",
+    "Luminous orange neural circuits glowing along all joints",
+    "Advanced augmented reality visors (as eyes)",
+    "Dynamic environmental data displayed on visors"
+  ]
+}

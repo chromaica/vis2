@@ -1,0 +1,24 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Game assets",
+  "prompt": "Transform the background into a galaxy or alien planet scene, guided by the depth map.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Transform the background \u2013 specifically the cityscape, the body of water on the right, and the distant sky \u2013 into a scene depicting either a vibrant galaxy or a mysterious alien planet. Ensure the new background accurately follows the depth and structure indicated by image 2 (the depth map). The foreground elements, including the cars and the race track, should remain unchanged.",
+  "annotator": "nimajamali",
+  "objects": [
+    "Lead car (white)",
+    "Multiple racing cars",
+    "Race track",
+    "Vibrant galaxy OR mysterious alien planet (in the background)",
+    "Cityscape (should not be present)",
+    "Body of water on the right (should not be present)",
+    "Distant sky (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

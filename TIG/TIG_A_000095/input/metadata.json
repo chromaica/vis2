@@ -1,0 +1,18 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Stylized art",
+  "prompt": "A dreamlike landscape featuring floating islands connected by swirling bridges of light, with crystal waterfalls cascading into an endless starry sky.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a high-detail artwork of an ethereal, dreamlike landscape. Numerous luminous floating islands, suspended at various altitudes, are interconnected by intricate, swirling bridges of pure light. From the edges of these islands, radiant crystal waterfalls plunge downwards into a vast, deep, and endless starry sky, which is alive with distant nebulae and constellations.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Numerous luminous floating islands",
+    "Intricate, swirling bridges of pure light",
+    "Radiant crystal waterfalls",
+    "Vast, deep, endless starry sky",
+    "Distant nebulae",
+    "Constellations"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "subtopic": "Traditional art",
+  "prompt": "Edit image 1: Apply the intricate blue and white floral pattern from image 2 as a decorative motif onto the stone structures and benches in the scene, as if they were adorned with painted ceramics.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748654773575,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1: Apply the intricate blue and white floral pattern from image 2 onto the existing white stone elements in the scene. Specifically, decorate the curved stone seating structure, including its backrest, armrests, and integrated benches, and the stone table on the left, with the pattern. The pattern should appear as if it is painted directly onto these stone surfaces, giving them the appearance of traditional blue and white ceramic art.",
+  "annotator": "kellycyy",
+  "objects": [
+    "curved stone seating structure with blue and white floral pattern",
+    "backrest of the seating structure with blue and white floral pattern",
+    "armrests of the seating structure with blue and white floral pattern",
+    "integrated benches with blue and white floral pattern",
+    "stone table on the left with blue and white floral pattern",
+    "people/figures",
+    "trees",
+    "body of water",
+    "sky",
+    "musical instrument"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

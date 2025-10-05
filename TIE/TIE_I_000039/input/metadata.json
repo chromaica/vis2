@@ -1,0 +1,25 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Vibrant geometric wheel with textured gradients and soft shadows, enhancing the visual depth of each segment for a dynamic, contemporary style.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Apply vibrant, textured gradients to each of the colored segments within the geometric wheel. Introduce soft shadows to enhance the visual depth of every segment, creating an overall dynamic and contemporary style for the radar chart.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Radar chart grid (radial lines and concentric circles)",
+    "Brown segment with vibrant textured gradient and soft shadows",
+    "Orange segment with vibrant textured gradient and soft shadows",
+    "Gray segment with vibrant textured gradient and soft shadows",
+    "Yellow segment with vibrant textured gradient and soft shadows",
+    "Light blue segment with vibrant textured gradient and soft shadows",
+    "Green segment with vibrant textured gradient and soft shadows",
+    "Small central blue segment with vibrant textured gradient and soft shadows",
+    "Radar chart text labels (e.g., \"MOTOR SKILLS\", \"ANXIETY\", \"SOCIAL AWARENESS\")",
+    "White background"
+  ],
+  "human_annotation": true
+}

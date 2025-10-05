@@ -1,0 +1,21 @@
+{
+  "task": "SRIE",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Incorporate the bright sun and distinct lens flare effect from image 2 into the upper portion of the sky. Ensure the addition is photorealistic and blends naturally with the existing light conditions.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Incorporate the bright sun and its distinct lens flare effect, as depicted in image 2, into the upper portion of the sky of image 1. Ensure the addition is photorealistic and seamlessly integrates with the existing cloud formations and ambient lighting conditions.",
+  "annotator": "nimajamali",
+  "objects": [
+    "Bright sun in the upper sky",
+    "Distinct lens flare effect",
+    "Cloud formations",
+    "Blue sky",
+    "Hills in the background",
+    "Grassy field in the foreground"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "3D renders",
+  "prompt": "Apply atmospheric fog increasing with depth to create depth perception, based on the reference depth map.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 by applying atmospheric fog. The fog should progressively increase in density with greater depth, appearing subtle in the immediate foreground (around the Cybertruck and tent setup) and becoming noticeably thicker in the mid-ground and background, particularly among the distant trees and over the lake. This application aims to enhance the visual depth perception of the entire scene. Use image 2, the provided depth map, as a precise guide for the depth-based distribution and intensity of the atmospheric fog.",
+  "annotator": "nimajamali",
+  "objects": [
+    "Cybertruck",
+    "Tent setup",
+    "Trees",
+    "Lake",
+    "Ground foliage",
+    "Atmospheric fog"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

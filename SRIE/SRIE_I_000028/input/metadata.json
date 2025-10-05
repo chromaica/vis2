@@ -1,0 +1,26 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "Integrate the lovely bright style from the first image into the UI mockup in the second image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 2, the UI mockup. Apply the vibrant and bright style from image 1 (the language learning app UI) to image 2. Transform the current translucent, glassmorphism UI elements and the pink background of image 2 to match the opaque, distinct elements and the predominant purple and blue color scheme seen in image 1. The layout and information graphic content of image 2 must be preserved.",
+  "annotator": "Johnny",
+  "objects": [
+    "Three mobile phone UI screens",
+    "User profile card with name, number, and amount on the left screen",
+    "Two list items with icons (shopping cart, star) on the left screen",
+    "Profile picture placeholder on the middle screen",
+    "Username and password input fields on the middle screen",
+    "Two progress bars on the right screen",
+    "Two financial data points with values and trend indicators on the right screen",
+    "Line graph with axes and data points on the right screen",
+    "Top navigation bar elements (back arrow, profile/person icon, menu icon) on each screen",
+    "Bottom navigation bar elements (home, profile, settings, message icons) on each screen"
+  ],
+  "human_annotation": true
+}

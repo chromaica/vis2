@@ -1,0 +1,23 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "make the clock points to 11:00 am",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 by adjusting the clock hands to show 11:00 am.",
+  "annotator": "theblackcat",
+  "objects": [
+    "large hanging clock",
+    "clock hands showing 11:00 am",
+    "clock face",
+    "clock casing",
+    "clock support pole",
+    "ceiling structure",
+    "ceiling beams",
+    "overhead light fixtures",
+    "industrial building environment"
+  ]
+}

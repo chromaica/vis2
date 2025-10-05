@@ -1,0 +1,21 @@
+{
+  "task": "MRIG",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "Generate a world map infographic showing a direct flight route from the city in Image 1 to the city in Image 2.",
+  "cond_images": [
+    "1.png",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "matina",
+  "prompt_refined": "Generate a world map infographic. The infographic must visually depict a direct flight route originating from the city shown in Image 1 (Tehran) and terminating at the city shown in Image 2 (Toronto). Clearly highlight both cities on the map and represent the flight path as a distinct line or arrow connecting them.",
+  "objects": [
+    "World map",
+    "Tehran (highlighted on the map)",
+    "Toronto (highlighted on the map)",
+    "Direct flight path represented as a line",
+    "Arrow on the flight path",
+    "Infographic design elements"
+  ]
+}

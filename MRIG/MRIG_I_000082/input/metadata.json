@@ -1,0 +1,24 @@
+{
+  "task": "MRIG",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "Generate a world map showing the natural habitats of each animal. Place the images near their native regions and connect them with markers.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "annotator": "matina",
+  "prompt_refined": "Generate a detailed information graphic featuring a world map. On this map, clearly delineate the natural habitat regions for various animals. Place the iconic-style animal illustration from image 1 (tiger) precisely over its primary native regions in Asia, such as India and Southeast Asia. Position the iconic-style animal illustration from image 2 (penguin) accurately over its native regions around Antarctica and the Southern Hemisphere. Similarly, place the iconic-style animal illustration from image 3 (elephant) over its native regions in Africa and parts of Asia. Each animal illustration should be directly linked to its respective habitat area on the map by a distinct visual marker, such as a pointer or a labeled line, clearly indicating its natural distribution. The final image should have a clean, educational infographic aesthetic.",
+  "objects": [
+    "World map",
+    "Delineated natural habitat regions",
+    "Iconic-style tiger illustration placed over Asia",
+    "Iconic-style penguin illustration placed over Antarctica and the Southern Hemisphere",
+    "Iconic-style elephant illustration placed over Africa and parts of Asia",
+    "Visual markers (pointers or labeled lines) linking animal illustrations to their respective habitat areas",
+    "Clean, educational infographic aesthetic"
+  ],
+  "human_annotation": true
+}

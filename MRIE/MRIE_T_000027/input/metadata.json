@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Change the decoration word 'MILK' into 'SUMMER', with the decoration like the second image. Then, replace all the labels on the ice creams in the first image with the logo from the third image.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "For the provided image (image 1), perform the following edits:\n1.  Replace the wooden 'MILK' sign, positioned on the upper shelf, with the word 'SUMMER'. The lettering style for 'SUMMER' should emulate the distinct recessed, block-letter appearance of the wooden alphabet blocks showcased in image 2.\n2.  Replace the 'MILKCOW' labels visible on the front of all four ice cream cups with the 'ICE CREAM' logo provided in image 3. Ensure the new logo is scaled and precisely positioned to cover the original labels on each cup.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Wooden shelves",
+    "Glass jar on a shelf",
+    "Four ice cream cups",
+    "Swirled ice cream",
+    "Ice cream with cookie crumbs and an Oreo cookie",
+    "Blue cotton candy with layered contents",
+    "Wooden 'SUMMER' sign on the upper shelf",
+    "'ICE CREAM' logos on each ice cream cup",
+    "Countertop",
+    "Small white boxes on the counter"
+  ]
+}

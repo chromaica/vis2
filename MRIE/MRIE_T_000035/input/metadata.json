@@ -1,0 +1,27 @@
+{
+  "task": "MRIE",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "Add the drink from the second image next to the dragon fruit milkshake for demonstration. Replace the cheese cake bites demonstration image with the third image. Replace the waffle sundae demonstration image with the fourth image. Finally, all food demonstration iamges should have a thick white border around them. Unify all food item titles with the font of Blue Moon Shake.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png",
+    "4.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the provided menu graphic (the source image) by applying the following changes:\n\n1.  In the 'Crystal Dragon Shake' section, add a single glass of the Dragon Fruit Shake from image 2 to the right of its text description.\n2.  Replace the current demonstration image for 'DEEP FRIED CHEESE CAKE BITES' with the pile of glazed bites from image 3.\n3.  Replace the current demonstration image for 'WAFFLE SUNDAE' with the stacked waffle sundae from image 4.\n4.  Add a thick white border around all photographic food demonstration images: the newly added Dragon Fruit Shake, the Deep Fried Cheese Cake Bites image, and the Waffle Sundae image.\n5.  Change the font of the following food item titles to match the font style of 'Blue Moon Shake': 'Crystal Dragon Shake', 'Lime & Cola Eruption Shake', 'Cosmic Cake Eruption Shake', 'DEEP FRIED CHEESE CAKE BITES', and 'WAFFLE SUNDAE'.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Menu graphic background with colorful stripes and stars",
+    "\"New Shakes\" sign with illustrated pink shake",
+    "Single glass of Dragon Fruit Shake (from image 2), to the right of 'Crystal Dragon Shake' text",
+    "Original Deep Fried Cheese Cake Bites demonstration image (should not be present)",
+    "Pile of glazed bites (from image 3)",
+    "Original Waffle Sundae demonstration image (should not be present)",
+    "Stacked waffle sundae (from image 4)",
+    "Thick white borders around the Dragon Fruit Shake image, the pile of glazed bites image, and the stacked waffle sundae image",
+    "Food item titles ('Crystal Dragon Shake', 'Lime & Cola Eruption Shake', 'Cosmic Cake Eruption Shake', 'DEEP FRIED CHEESE CAKE BITES', 'WAFFLE SUNDAE') in 'Blue Moon Shake' font style",
+    "'Blue Moon Shake' text and description, 'NEW DESSERTS' text, blue fork icon, red arrow icons"
+  ]
+}

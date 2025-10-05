@@ -1,0 +1,27 @@
+{
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "Using this semantic segmentation map, render a high-quality computer graphics image of the indoor scene, accurately translating color regions into distinct objects and surfaces like furniture, walls, and lighting.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://production-media.paperswithcode.com/thumbnails/task/1901fccc-e4d7-4117-b39f-f08f1f84d652.jpg",
+  "promptGeneratedTimestamp": 1748768104556,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a high-quality computer graphics image of an indoor scene. Use image 1 as a semantic segmentation map, accurately translating each distinct color region into a corresponding, identifiable object or surface. The resulting image should feature elements characteristic of an indoor environment, such as furniture, walls, and lighting, rendered according to their implied positions and forms derived from image 1.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Walls",
+    "Floor",
+    "Ceiling",
+    "Sofa",
+    "Sofa cushions",
+    "Large circular window or light fixture",
+    "Cabinet or shelf units",
+    "Recessed ceiling lights",
+    "Additional furniture and decorative items"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

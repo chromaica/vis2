@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Design a screenshot of a sleep tracking app that uses calming visual themes from the first image and a sleep chart visualization from the second image.",
+  "cond_images": [
+    "1.png",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a full-screen mobile app screenshot for a sleep tracking application. The overall visual theme should adopt the calming, minimalist aesthetic of image 1, including deep purple gradients, clean white typography, and uncluttered UI elements. The top of the screen should include a standard mobile status bar (time, carrier, battery, etc.) similar to image 2. The primary focus of the screen, occupying the main central area, should be a detailed sleep chart visualization, drawing its style and content from image 2. This chart should depict sleep stages (Awake, Sleep, Deep sleep) as a shaded area graph, with a horizontal timeline (e.g., 1 AM, 2 AM) clearly displayed at its base. Directly below the chart, include key sleep metrics like 'In bed time', 'Sleep quality', and 'Time in bed', presented in a legible format consistent with image 2. Position social sharing icons (Email, Twitter, Facebook) horizontally beneath these metrics. At the very bottom of the screen, incorporate a cohesive navigation bar featuring sleep app-specific icons (e.g., Alarm, Statistics, Trends, Settings) in a style consistent with the minimalist design principles of image 1 and the specific icons from image 2.",
+  "annotator": "paria",
+  "objects": [
+    "Full-screen mobile app screenshot",
+    "Deep purple gradient background",
+    "Mobile status bar at the top of the screen",
+    "Detailed sleep chart visualization as a shaded area graph (Awake, Sleep, Deep sleep stages)",
+    "Horizontal timeline at the base of the sleep chart",
+    "Key sleep metrics (e.g., 'In bed time', 'Sleep quality', 'Time in bed') below the chart",
+    "Social sharing icons (Email, Twitter, Facebook) positioned horizontally",
+    "Cohesive navigation bar at the bottom of the screen",
+    "Sleep app-specific icons within the navigation bar (e.g., Alarm, Statistics, Trends, Settings)",
+    "Clean white typography for all text elements"
+  ]
+}

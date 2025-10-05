@@ -1,0 +1,27 @@
+{
+  "subtopic": "Posters",
+  "prompt": "Generate a minimalist geometric poster in a retro modernist style showing the words \"SKY\". Use the vertical layout, bold abstract shapes, and limited color palette with contrasting circles inspired by the reference image. The actual color palette should be changed based on the word contexts.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://ih1.redbubble.net/image.5606627069.2493/fposter,small,wall_texture,square_product,600x600.u1.jpg",
+  "promptGeneratedTimestamp": 1750501202217,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "T",
+  "prompt_refined": "Generate a minimalist geometric poster in a retro modernist style. The poster should feature a vertical layout with the word 'SKY' expressed through bold, abstract, interconnected black geometric shapes, mirroring the overall composition and shape style of image 1. Integrate contrasting circular elements within or alongside these dominant abstract shapes, similar in placement and proportion to the colored circles shown in image 1 (e.g., two circles in the upper right, three circles in the mid-left). The background should be a light, neutral color. For the limited color palette used for the circles and any other accent elements, employ colors contextually relevant to 'SKY' (such as blues, whites, light greys, or warm sunset tones), distinct from the specific hues present in image 1.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Vertical poster layout",
+    "Light, neutral background",
+    "Bold, abstract, interconnected black geometric shapes forming the word 'SKY'",
+    "Contrasting circular elements",
+    "Two circular elements in the upper right",
+    "Three circular elements in the mid-left",
+    "Circular elements in colors such as blues, whites, light greys, or warm sunset tones",
+    "Minimalist style",
+    "Retro modernist style"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

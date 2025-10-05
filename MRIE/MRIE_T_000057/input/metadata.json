@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Replace the image of stone to the second image. Then, for the row 'stwo', make two of second image side by side. Finally, add a row 'sthree' with the third image. Make the background of the meme pure white.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the grid layout of image 1.\nIn the top-right cell, replace the existing stone image with the person from image 2.\nIn the bottom-right cell (corresponding to the 'Stwo' label), replace the two stone images with two instances of the person from image 2, arranged side-by-side.\nExtend the grid by adding a new row directly below the 'Stwo' row. In the left cell of this new row, display the text 'Sthree'. In the right cell of this new 'Sthree' row, place the 'S'-shaped tree from image 3.\nEnsure the entire background of the resulting 3x2 grid is pure white.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "grid lines forming a 3x2 layout",
+    "text \"Stone\" in the top-left cell",
+    "text \"Stwo\" in the middle-left cell",
+    "text \"Sthree\" in the bottom-left cell",
+    "person from image 2 in the top-right cell",
+    "two instances of the person from image 2, side-by-side, in the middle-right cell",
+    "'S'-shaped tree from image 3 in the bottom-right cell",
+    "pure white background",
+    "existing stone image in the top-right cell (should not be present)",
+    "existing two stone images in the bottom-right cell (should not be present)"
+  ]
+}

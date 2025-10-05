@@ -1,0 +1,25 @@
+{
+  "subtopic": "VFX and Particles",
+  "prompt": "Based on the dynamic action and composition of the reference image, generate an image showing figures leaping obstacles with intense particle effects and energy trails highlighting their movement and speed, leveraging VFX techniques.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTExL2ZsODg3ODI1Njc1Ny1pbWFnZS5qcGc.jpg",
+  "promptGeneratedTimestamp": 1748768655667,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate an image based on the dynamic action and horizontal composition of image 1. It should depict three male athletes mid-leap over hurdles, moving from left to right across the frame. Emphasize their movement and speed with intense, stylized visual effects (VFX): incorporate vibrant energy trails flowing behind their bodies and limbs, along with dynamic particle effects emanating from their feet and the hurdles they clear, suggesting powerful propulsion and air displacement.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Three male athletes mid-leap",
+    "Hurdles",
+    "Vibrant energy trails behind athletes' bodies and limbs",
+    "Dynamic particle effects from athletes' feet and hurdles",
+    "Outdoor track",
+    "Sky",
+    "Background trees"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

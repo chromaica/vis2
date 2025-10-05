@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "Create a movie poster featuring the two people from the first image in their current pose, with the black spider logo from the second image centered behind them as a background motif, and the title styled like the third image with the text: 'The Amazing Spider-Man'.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a movie poster. The poster should feature the two individuals from image 1 (a man on the right with a backpack, and a woman on the left in a light pink coat) maintaining their natural poses and expressions, looking at each other. Centered behind them, as a prominent background motif, incorporate the black spider logo from image 2. The movie title, 'THE AMAZING SPIDER-MAN', should be placed in the lower-middle section of the poster, precisely replicating the font style, capitalization, and stacked layout of the title from image 3.",
+  "annotator": "parnian",
+  "objects": [
+    "Man from image 1, on the right, with a backpack",
+    "Woman from image 1, on the left, in a light pink coat",
+    "Man and woman looking at each other",
+    "Black spider logo from image 2, centered behind the man and woman",
+    "The text \"THE AMAZING SPIDER-MAN\", in the lower-middle section",
+    "Font style of \"LITTLE WOMEN\" from image 3 for the movie title",
+    "Capitalization of \"LITTLE WOMEN\" from image 3 for the movie title",
+    "Stacked layout of \"LITTLE WOMEN\" from image 3 for the movie title"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

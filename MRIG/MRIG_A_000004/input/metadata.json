@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Cultural or Heritage art",
+  "prompt": "Generate a cultural artwork that depicts a royal gathering like in image 1, framed with the tile patterns of image 2, and infused with the embroidery layout and color rhythm of image 3, in a style reminiscent of medieval Persianate arts.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a new, intricate cultural artwork in the style of a medieval Persian miniature painting. Depict a grand, multi-scene royal gathering, mirroring the bustling courtly activities, figures, and architectural settings shown in image 1. The entire composition should be framed by a highly detailed, symmetrical border, adopting the precise curvilinear arabesque patterns and rich blue, green, and gold color scheme of the tilework from image 2. Within the painting, incorporate the vibrant, dense floral motifs and striking color rhythm (e.g., bright blues, greens, yellows, and reds on a warm background) characteristic of the embroidery in image 3, applying these elements to textiles, garments, and other decorative details throughout the scene. The overall aesthetic should embody the flat perspective, elaborate detail, and saturated palette typical of Persianate art.",
+  "annotator": "samin",
+  "objects": [
+    "Medieval Persian miniature painting style",
+    "Multi-scene royal gathering",
+    "Numerous figures engaged in courtly activities",
+    "Architectural settings (e.g., palaces, courtyards, rooms)",
+    "Highly detailed, symmetrical border",
+    "Curvilinear arabesque patterns in the border",
+    "Rich blue, green, and gold color scheme in the border",
+    "Vibrant, dense floral motifs",
+    "Textiles and garments decorated with floral motifs",
+    "Bright blues, greens, yellows, and reds in floral motifs"
+  ]
+}

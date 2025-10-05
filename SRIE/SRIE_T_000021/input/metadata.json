@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "Overlay the fine weave texture onto the letters, letting threads show through.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the textual bicycle graphic, by applying the fine weave texture from image 2 onto all the letters. The texture should be clearly visible as if woven into the letters, showcasing the individual threads and providing a tactile, fabric-like appearance.",
+  "annotator": "matina",
+  "objects": [
+    "Orange background",
+    "Bicycle graphic (overall composition)",
+    "Textured letters forming the bicycle graphic",
+    "Textured auxiliary text",
+    "Fine weave texture",
+    "Visible individual threads in the texture",
+    "Tactile, fabric-like appearance of the letters",
+    "Black circular bicycle wheel outlines",
+    "Small black non-textual shapes (e.g., question marks)"
+  ],
+  "human_annotation": true
+}

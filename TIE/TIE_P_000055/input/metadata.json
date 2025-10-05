@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "remove all the clutter tools behind the white dog, so the backside of the truck is empty",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "From image 1, remove all clutter and tools located in the truck bed behind and around the white dog, leaving the interior backside of the truck completely empty.",
+  "annotator": "theblackcat",
+  "objects": [
+    "white dog",
+    "blue harness",
+    "interior of the truck bed (empty)",
+    "clutter (should not be present)",
+    "tools (should not be present)",
+    "white plastic bag (should not be present)",
+    "yellow and purple bucket (should not be present)",
+    "metal ladders/frames (should not be present)",
+    "blue paint can (should not be present)",
+    "white electrical wires/coils (should not be present)"
+  ]
+}

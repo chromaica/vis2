@@ -1,0 +1,24 @@
+{
+  "subtopic": "Posters",
+  "prompt": "Generate a 'Textual Graphics' and 'Posters' themed design, placing it onto the large side surface of the reference truck like a dynamic mobile billboard, featuring bold typography.",
+  "cond_images": [
+    "1.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1750705600652,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "T",
+  "annotator": "winston",
+  "prompt_refined": "Integrate a 'Textual Graphics' and 'Posters' themed design onto the large side of the cargo box of the white truck in image 1. The design should feature bold typography and transform the truck into a dynamic mobile billboard.",
+  "objects": [
+    "white truck",
+    "large cargo box of the white truck",
+    "textual graphics design on the cargo box",
+    "poster-themed design on the cargo box",
+    "bold typography incorporated into the design",
+    "truck appearing as a dynamic mobile billboard"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

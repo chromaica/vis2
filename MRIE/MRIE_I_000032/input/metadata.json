@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "Edit image 1, the zoo map. Add a detailed map key (legend) in the style of the vertical list with icons seen in image 2, explaining the zoo features. Incorporate prominent directional arrows (North, South, East, West) around the map edges, similar to the style in image 3.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the zoo map. Your task is to enhance its readability by adding a comprehensive map key and prominent directional indicators.\n\n**Map Key/Legend:**\nGenerate a detailed map key (legend) for the zoo features, presented as a vertical list with icons and corresponding text labels. Position this legend within a clear area of the map, such as the top-right or bottom-right corner, mirroring the overall style, layout, and structured appearance of the map key shown in image 2. The key should clearly represent key features from image 1, including but not limited to: Zoo Entrance, Food Stall, Picnic Area (with benches), Water Fountain, Animal Enclosures/Exhibits (represented by a generic animal or fence icon), and Pathways.\n\n**Directional Arrows:**\nIncorporate four prominent directional arrows (North, South, East, West) around the exterior edges of the map. These arrows should be large, yellow, and triangular, centered on each side, replicating the style and placement observed in both image 2 and image 3.\n*   Place the 'North' arrow centrally at the top edge, pointing upwards.\n*   Place the 'South' arrow centrally at the bottom edge, pointing downwards.\n*   Place the 'West' arrow centrally at the left edge, pointing leftwards.\n*   Place the 'East' arrow centrally at the right edge, pointing rightwards.\nEnsure the direction labels ('North', 'South', 'East', 'West') are clearly integrated with or positioned immediately adjacent to their respective arrows, consistent with the presentation in image 3.",
+  "annotator": "maxku",
+  "objects": [
+    "Zoo map layout and existing features (from Image 1)",
+    "Map key/legend (positioned in top-right or bottom-right corner, vertical list with icons and text labels, mirroring style of image 2)",
+    "Map key entry: Zoo Entrance icon and text",
+    "Map key entry: Food Stall icon and text",
+    "Map key entry: Picnic Area icon and text",
+    "Map key entry: Water Fountain icon and text",
+    "Map key entry: Animal Enclosures/Exhibits icon and text",
+    "Map key entry: Pathways icon and text",
+    "Four large yellow triangular directional arrows (North at top, South at bottom, West at left, East at right, centered on edges)",
+    "Direction labels (North, South, East, West) integrated or adjacent to respective arrows"
+  ]
+}

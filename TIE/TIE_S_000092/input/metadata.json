@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": "Conceal the open menu, revealing the underlying browser tab content as if the menu never appeared.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Conceal the entire open browser menu and its 'Developer Tools' sub-menu, both located on the right side of the image. Seamlessly extend the underlying browser tab content \u2013 including the view of Earth, the dark website header, and the browser's top bar \u2013 to fill the area where the menus were, making it appear as if the menus were never opened.",
+  "annotator": "cwhsu",
+  "objects": [
+    "browser top bar",
+    "dark website header",
+    "view of Earth through a spacecraft window",
+    "spacecraft interior structure",
+    "text: \"THERE ARE 13 HUMANS IN SPACE\"",
+    "navigation links on the website header (e.g., HOME, MS-24, CREW-8, SHENZHOU-17)",
+    "\"WHO IS IN SPACE?\" text with helmet icon",
+    "scroll indicator at bottom",
+    "open browser menu (should not be present)",
+    "'Developer Tools' sub-menu and console (should not be present)"
+  ]
+}

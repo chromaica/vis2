@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Cultural or Heritage art",
+  "prompt": "Create an ancient-style artwork inspired by image 1, showing the figure from image 2 performing a ritual beneath the sun disk.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate an ancient-style artwork, drawing heavily from the intricate relief carving aesthetic and detailed motifs of image 1. The central focus should be a human figure, adopting the raised-arm posture of image 2, performing a ritual. This figure must be positioned directly beneath a prominent sun disk, which itself embodies the detailed, circular design and ancient style of image 1.",
+  "annotator": "samin",
+  "objects": [
+    "Ancient-style artwork",
+    "Intricate relief carving elements",
+    "Detailed ancient motifs",
+    "Human figure",
+    "Figure with raised-arm posture",
+    "Figure performing a ritual",
+    "Prominent sun disk",
+    "Sun disk with detailed, circular design",
+    "Sun disk embodying ancient style",
+    "Human figure positioned directly beneath sun disk"
+  ],
+  "human_annotation": true
+}

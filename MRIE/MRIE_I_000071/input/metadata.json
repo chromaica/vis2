@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "Edit image 1 by replacing the blue button with the Twitter logo from image 2, the green button with the TD logo from image 3, the red button with the McDonald's logo from image 4, and the yellow button with the Snapchat logo from image 5.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png",
+    "4.png",
+    "5.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the game controller. Replace the blue circular button on the right with the Twitter logo from image 2. Replace the green circular button on the left with the TD logo from image 3. Replace the red circular button at the bottom with the McDonald's logo from image 4. Replace the yellow circular button at the top with the Snapchat logo from image 5. Ensure each new logo is precisely centered and scaled to fit its respective button's circular area, retaining the visual style of the reference image.",
+  "annotator": "maxku",
+  "objects": [
+    "black game controller body",
+    "white D-pad on the left of the controller",
+    "Twitter logo on the right circular button",
+    "TD logo on the left circular button",
+    "McDonald's logo on the bottom circular button",
+    "Snapchat logo on the top circular button",
+    "small central buttons",
+    "controller cable"
+  ]
+}

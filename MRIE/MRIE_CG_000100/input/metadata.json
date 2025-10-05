@@ -1,0 +1,25 @@
+{
+  "subtopic": "Depth maps",
+  "prompt": "Edit Image 1 by generating and enhancing its depth map. Model the shallow depth of field inspired by the telephoto lens perspective in Image 2, increasing the focus separation. Then, refine the depth falloff based on the characteristics of the camera type in Image 3 for a detailed depth map representation.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748456630509,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit Image 1 to display an extremely shallow depth of field. Emulate the exaggerated subject isolation and background compression characteristic of a telephoto lens, as seen in Image 2, by sharply focusing the central autumn leaf and significantly blurring the surrounding foreground and background elements. Additionally, refine the quality of the depth falloff and the out-of-focus areas (bokeh) to reflect the distinct characteristics of a compact camera, similar to the camera type in Image 3, ensuring a nuanced and detailed depth representation throughout the image.",
+  "annotator": "winston",
+  "objects": [
+    "sharply focused central autumn leaf",
+    "blurred foreground autumn leaves",
+    "blurred background autumn leaves",
+    "blurred branches",
+    "blurred sky"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

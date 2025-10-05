@@ -1,0 +1,28 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": "Create a 3-panel comic where the phone rings from image 3, the woman from image 1 reacts with 'WHY, WHY\u2014WHY??', and the dog calmly says 'THIS IS FINE' from image 2.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a three-panel comic strip in a vintage comic book style, incorporating elements from the provided images.\nThe first panel on the left should feature the ringing telephone from image 3, depicted with distinct sound wave lines.\nThe middle panel should portray the woman from image 1, rendered with her specific distressed expression and the prominent thought bubble containing the text 'WHY, WHY\u2014WHY??'.\nThe third panel on the right should display the iconic dog from image 2, calmly sitting at a table in a burning room, with a speech bubble clearly stating 'THIS IS FINE'.",
+  "annotator": "parnian",
+  "objects": [
+    "Three-panel comic strip",
+    "Vintage comic book style",
+    "Ringing telephone on left panel",
+    "Sound wave lines on left panel",
+    "Woman with distressed expression on middle panel",
+    "Thought bubble with 'WHY, WHY\u2014WHY??' text on middle panel",
+    "Iconic dog on right panel",
+    "Dog sitting at a table on right panel",
+    "Burning room on right panel",
+    "Speech bubble with 'THIS IS FINE' text on right panel"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

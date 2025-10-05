@@ -1,0 +1,31 @@
+{
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Generate an infographic with a clean, segmented structure like image 1, incorporating the horizontal bar chart visualization from image 2. Use simple data icons similar to image 1 and the vibrant color palette found in image 2.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "Data visualization diagrams charts graphs",
+  "searchQueryGeneratedTimestamp": 1752070477915,
+  "promptGeneratedTimestamp": 1752070536833,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "I",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a new infographic following a clean, segmented, and modular layout similar to image 1, featuring a distinct header, a horizontal timeline, and multiple data sections below. Within one of the lower data sections, incorporate a horizontal bar chart styled like the 'Product A is Still a Market Leader' chart from the top-right of image 2, complete with gradient-filled bars and percentage labels. Use simple, flat data icons consistent with image 1's style. Apply the vibrant and diverse color palette from image 2, including bright blues, greens, oranges, purples, and subtle gradients.",
+  "objects": [
+    "Clean, segmented, modular infographic layout",
+    "Distinct header section",
+    "Horizontal timeline",
+    "Multiple lower data sections",
+    "Horizontal bar chart",
+    "Gradient-filled bars",
+    "Percentage labels on bar chart",
+    "Simple, flat data icons",
+    "Vibrant and diverse color palette (bright blues, greens, oranges, purples)",
+    "Subtle gradients in the overall design"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

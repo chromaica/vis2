@@ -1,0 +1,28 @@
+{
+  "subtopic": "Game assets",
+  "prompt": "Modify the large wooden treasure chest by adding intricate carvings and metal banding, making it look like a valuable, sealed container suitable for a fantasy game environment asset.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751797946825,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1 by modifying the large wooden treasure chest, located in the bottom-right corner, to include intricate decorative carvings on its wooden surfaces and sturdy metal banding wrapped around its body and lid. Ensure the final appearance conveys a valuable, securely sealed container suitable for a fantasy game environment asset.",
+  "annotator": "edisy",
+  "objects": [
+    "Large wooden treasure chest in the bottom-right corner, with intricate decorative carvings and sturdy metal banding",
+    "Light brown mushroom-shaped object",
+    "Blue glowing mushroom-shaped object",
+    "Tan pyramid",
+    "Brown jagged stone piece",
+    "Grey stone shield",
+    "Rock golem figure",
+    "Green bushy tree",
+    "Stone table structures",
+    "Grey stone helmet/mask"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

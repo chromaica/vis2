@@ -1,0 +1,25 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "Transform into sleek minimalist line art, capturing the essence of travel, communication, and adventure with simple, elegant strokes.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, which displays a grid of colorful, flat-design information graphics icons. Transform all individual icons within image 1 into sleek minimalist line art. Each icon should be rendered using simple, elegant strokes, effectively capturing its original essence related to travel, communication, and adventure.",
+  "annotator": "cwhsu",
+  "objects": [
+    "taxi icon",
+    "suitcase icon",
+    "island with palm trees icon",
+    "airplane ticket icon",
+    "open envelope icon",
+    "laptop icon",
+    "airplane icon",
+    "camera icon",
+    "compass icon",
+    "map with pin icon"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Illuminated Manuscripts",
+  "prompt": "Craft an illuminated manuscript graphic for 'Sapientia'. Feature a large, ornate gold 'S' as the initial, rich with intricate detail. The rest of the word should be in gothic script, using black ink with vibrant red and blue flourishes, set on an aged parchment background that has a decorative geometric border.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate an illuminated manuscript graphic for the word 'Sapientia'. The image should feature a prominent, large, ornate, and intricately detailed gold initial 'S' positioned to the left. Following this initial, the letters 'apientia' are rendered in black gothic script, accented with vibrant red and blue calligraphic flourishes. The entire textual design is set against an aged parchment background, surrounded by a distinct decorative geometric border.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Prominent, large, ornate, intricately detailed gold initial 'S' positioned to the left",
+    "Letters 'apientia' in black gothic script following the initial 'S'",
+    "Vibrant red calligraphic flourishes",
+    "Vibrant blue calligraphic flourishes",
+    "Aged parchment background",
+    "Distinct decorative geometric border"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

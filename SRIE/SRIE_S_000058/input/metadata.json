@@ -1,0 +1,25 @@
+{
+  "subtopic": "Websites",
+  "prompt": "Edit image 1: Integrate the dark, hierarchical left navigation sidebar from image 2 onto the left side of the screenshot, pushing the existing content of image 1 to the right. This adds a dashboard-like structure.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1752236684885,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "annotator": "ishengfang",
+  "prompt_refined": "Edit image 1: Integrate the dark, hierarchical left navigation sidebar from image 2 onto the left side of image 1. The existing content of image 1 should be shifted to the right to accommodate the new sidebar, creating a dashboard-like layout.",
+  "objects": [
+    "Dark, hierarchical left navigation sidebar on the left side",
+    "Webpage header (CXL Institute logo, menu, search)",
+    "Headline \"Grow faster.\" (shifted to the right)",
+    "Paragraph text about high-growth companies (shifted to the right)",
+    "Bulleted list about marketing training and services (shifted to the right)",
+    "\"Marketing training\" button (shifted to the right)",
+    "\"Managed CRO services\" button (shifted to the right)",
+    "Image of the woman (shifted to the right)"
+  ]
+}

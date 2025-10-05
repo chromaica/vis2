@@ -1,0 +1,25 @@
+{
+  "subtopic": "Facial estimation and analysis",
+  "prompt": "Create a computer graphics visualization using the dog's face from image 2 as the subject. Overlay abstract facial analysis landmarks or a mesh structure on the face, rendered in the simplified graphic style and limited color palette derived from image 1, illustrating facial estimation.",
+  "cond_images": [
+    "1.png",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748422609984,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a computer graphics visualization of the dog's face from image 2 as the primary subject. Overlay abstract facial analysis landmarks or a geometric mesh structure onto the face. Render the entire image in the stark, simplified graphic style and a highly limited, monochromatic color palette, drawing inspiration from image 1. The visualization should illustrate facial estimation.",
+  "annotator": "winston",
+  "objects": [
+    "dog's face",
+    "facial analysis overlay (landmarks or geometric mesh)",
+    "computer graphics visual aesthetic",
+    "stark graphic rendering",
+    "simplified graphic elements",
+    "monochromatic color palette",
+    "limited color palette"
+  ],
+  "human_annotation": true
+}

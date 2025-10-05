@@ -1,0 +1,21 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "Blend the typewriter\u2019s keys texture into the text fill and add slight paper-edge vignette.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit Image 1 (the book cover) by applying the worn, circular, and metallic texture of the typewriter keys from Image 2 to the fill of the text \"OUT OF THE BLUE\" and \"SOPHIE CAMERON\". This texture should be subtly blended into the existing text. Additionally, add a slight paper-edge-style vignette to Image 1, creating a soft, aged darkening effect around its periphery.",
+  "annotator": "matina",
+  "objects": [
+    "Large feather",
+    "Silhouetted falling figures",
+    "Dark background",
+    "Text \"OUT OF THE BLUE\" with worn, circular, metallic fill",
+    "Text \"SOPHIE CAMERON\" with worn, circular, metallic fill",
+    "Soft, aged darkening vignette around the periphery"
+  ]
+}

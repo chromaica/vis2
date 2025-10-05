@@ -1,0 +1,28 @@
+{
+  "subtopic": "Games",
+  "prompt": "Generate the screenshot of what the player can get for after killing the pig",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://www.researchgate.net/publication/301648368/figure/fig2/AS:667842240315400@1536237406360/A-screenshot-from-Minecraft-a-popular-video-game-which-poses-a-challenging-lifelong.ppm",
+  "searchQueryGenerated": "Detailed realistic game screenshot",
+  "searchQueryGeneratedTimestamp": 1749427138335,
+  "promptGeneratedTimestamp": 1749427234928,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a new Minecraft-style screenshot using image 1 as a reference. The image should depict the immediate aftermath of the player killing the pig. Remove the pig from its position in the lower-mid foreground, slightly to the left of the screen's center. In its place, on the grass, display 2-3 raw porkchop items and optionally 1-2 small experience orbs scattered on the ground. All other elements of the scene, including the village buildings, the well, the distant mountains, the sky with clouds, and the player's pickaxe held in the lower-right foreground, should remain visually consistent with image 1.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Minecraft-style screenshot",
+    "Village buildings",
+    "Well",
+    "Distant mountains",
+    "Sky with clouds",
+    "Player's pickaxe held in the lower-right foreground",
+    "Grass",
+    "Pig (should not be present)",
+    "2-3 raw porkchop items on the grass",
+    "1-2 small experience orbs on the ground"
+  ]
+}

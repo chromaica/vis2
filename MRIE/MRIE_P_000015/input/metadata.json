@@ -1,0 +1,21 @@
+{
+  "task": "MRIE",
+  "topic": "P",
+  "subtopic": "Scenic Nature Parks",
+  "prompt": "Replace the dog in the first image with the shiba from the second image, then add the butterfly from the third image to where the dog was staring at. Blur the butterfly slightly.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the running dog in image 1 with the Shiba Inu from image 2, adapting its pose to match the running action of the original dog. Then, add the butterfly from image 3 into the mid-ground, directly in the newly placed Shiba Inu's line of sight. Apply a slight blur to the added butterfly.",
+  "annotator": "boris",
+  "objects": [
+    "running dog (should not be present)",
+    "grassy field",
+    "running Shiba Inu",
+    "blurred butterfly in mid-ground"
+  ],
+  "human_annotation": true
+}

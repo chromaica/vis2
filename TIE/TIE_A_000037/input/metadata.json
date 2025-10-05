@@ -1,0 +1,23 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Painting",
+  "prompt": "Crop and enlarge the painting in the image. Remove the watermark but keep the signature. Maintain every detail of the painting.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Enlarge the painting to fill the entire frame, eliminating the surrounding white border. Remove the 'ArtColorSpace' watermark located on the painting's reflection in the lake. Preserve the artist's signature 'HV2014' in the bottom-left corner of the painting. Ensure all other details, colors, and the original artistic style of the aurora borealis scene, including the deer, trees, and lake, are accurately maintained.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Aurora borealis (green and blue)",
+    "Starry night sky",
+    "Deer",
+    "Trees (silhouettes)",
+    "Lake",
+    "Reflection of scene in the lake",
+    "Artist's signature 'HV2014' in bottom-left corner",
+    "White border (should not be present)",
+    "'ArtColorSpace' watermark on lake's reflection (should not be present)"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "A collage of vintage clocks overlapping with bright abstract shapes on a textured midnight blue background.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate an artwork: A dynamic collage composition featuring assorted vintage clocks, varying in size and design, intricately layered and intertwined with vibrant, high-contrast abstract shapes. These shapes include crisp geometric forms and fluid organic contours. The entire complex arrangement is set against a deeply textured midnight blue background, resembling aged canvas or rough paper, providing rich visual depth as elements are distributed across the frame.",
+  "annotator": "cwhsu",
+  "objects": [
+    "assorted vintage clocks",
+    "vibrant, high-contrast abstract shapes",
+    "crisp geometric forms",
+    "fluid organic contours",
+    "deeply textured midnight blue background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

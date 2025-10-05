@@ -1,0 +1,25 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "Remove the light pollution from the image",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 by eliminating the artificial purple-orange skyglow from the horizon, particularly in the lower left and center, to create a darker, more natural night sky.",
+  "annotator": "theblackcat",
+  "objects": [
+    "starry night sky",
+    "house (dark silhouette)",
+    "trees on the horizon",
+    "horizon",
+    "stars",
+    "ground/field in foreground",
+    "artificial purple-orange skyglow (should not be present)",
+    "buildings in the distance",
+    "windows with interior light",
+    "house roof"
+  ],
+  "human_annotation": true
+}

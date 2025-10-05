@@ -1,0 +1,23 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Distort SpongeBob into a rubber-hose cartoon style and give him spiral eyes.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Modify the character SpongeBob in the image by transforming him into a rubber-hose cartoon style, giving him highly flexible and 'bendy' limbs. Additionally, replace his existing eyes with prominent spiral-shaped eyes.",
+  "annotator": "matina",
+  "objects": [
+    "SpongeBob in rubber-hose cartoon style",
+    "SpongeBob's highly flexible and 'bendy' limbs",
+    "SpongeBob's prominent spiral-shaped eyes",
+    "SpongeBob's hat",
+    "SpongeBob's square pants",
+    "SpongeBob's shoes",
+    "Text \"I'm Not a Nerd!\"",
+    "Wooden floor/ground",
+    "Underwater background/wall"
+  ]
+}

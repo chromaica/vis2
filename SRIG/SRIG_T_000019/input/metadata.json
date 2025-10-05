@@ -1,0 +1,25 @@
+{
+  "task": "SRIG",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": "generate an alternative comic strip using the same art style, different character design, and same panel layout as the reference image, but also make sure the monster making a 'Roarrrrrrrrr' sound effect instead, maintaining the dramatic composition and visual storytelling approach",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a two-panel comic strip using the art style, dramatic composition, and visual storytelling approach of image 1. Maintain the exact vertical panel layout of image 1. In the top panel, depict a new monster character (different from the monster in image 1) screaming with its mouth wide open and clawed hands raised, surrounded by a bright, glowing aura. Ensure the monster emits a prominent 'Roarrrrrrrrr' sound effect, replacing the 'CReeeeeeeeee' sound effect visible in image 1. In the bottom panel, feature new character designs for the human-like figures (one on the left, one on the right, and a smaller creature in the center) reacting intensely to the monster, maintaining the overall background glow and dynamic angle from image 1.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Two-panel comic strip",
+    "Vertical panel layout",
+    "New monster character screaming with mouth wide open and clawed hands raised (in top panel)",
+    "Bright, glowing aura around the monster",
+    "'Roarrrrrrrrr' sound effect",
+    "'CReeeeeeeeee' sound effect (should not be present)",
+    "New human-like character (on the left in bottom panel)",
+    "New human-like character (on the right in bottom panel)",
+    "New smaller creature character (in the center in bottom panel)",
+    "Overall background glow (in bottom panel)"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,27 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Depth maps",
+  "prompt": "Make the source portrait look like the reference, with the same depth and focus effect.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the source image, to match the depth of field and focus style of image 2. The man playing guitar in image 1 should be the primary subject in sharp focus, with the surrounding background (attic, walls, windows) rendered with a shallow depth of field and prominent bokeh blur, replicating the photographic effect of image 2.",
+  "annotator": "nimajamali",
+  "objects": [
+    "Man",
+    "Acoustic guitar",
+    "Attic room interior",
+    "White walls",
+    "Wooden ceiling beams",
+    "Windows",
+    "Outdoor greenery visible through windows",
+    "White railing",
+    "Patterned rug",
+    "Prominent bokeh blur in background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

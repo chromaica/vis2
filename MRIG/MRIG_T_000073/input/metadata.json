@@ -1,0 +1,23 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "Design a film festival poster by blending the mystical colors of the first image with the characters from the second, with the text: 'Cinema Through the Light'.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a film festival poster. The design should incorporate the vibrant, stained-glass light patterns and rich, ornate colors from image 1 as the primary visual theme. Centrally feature the two main human characters from image 2. The poster must prominently display the text: 'Cinema Through the Light'.",
+  "annotator": "parnian",
+  "objects": [
+    "Film festival poster",
+    "Vibrant, stained-glass light patterns",
+    "Rich, ornate color palette",
+    "Two main human characters, centrally featured",
+    "Text: 'Cinema Through the Light', prominently displayed",
+    "Stained-glass window elements",
+    "Ornate architectural patterns"
+  ],
+  "human_annotation": true
+}

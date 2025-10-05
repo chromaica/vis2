@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "create a mockup of a card game where four characters seat down and guess which cards do they have, you are POV one of the characters. All characters are animal like character",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a screenshot-style mockup of a card game from a first-person perspective. In the foreground, the player's hands hold a fanned set of cards. Three distinct anthropomorphic animal characters are seated around a game table, facing the viewer. They are intently guessing or strategizing about the cards, with expressions of concentration and anticipation. The table is covered with various game cards and elements. Illustrative art style, resembling a digital game screenshot.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Player's hands in foreground",
+    "Fanned set of cards held by player's hands",
+    "Three distinct anthropomorphic animal characters",
+    "Game table",
+    "Anthropomorphic animal characters seated around the game table, facing the viewer",
+    "Game cards on the table",
+    "Game elements on the table",
+    "Expressions of concentration and anticipation on animal characters",
+    "First-person perspective view",
+    "Digital game screenshot visual style"
+  ]
+}

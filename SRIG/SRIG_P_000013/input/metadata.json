@@ -1,0 +1,26 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "Generate a photorealistic galaxy scene based on the cartoon image as a reference",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic image of a galaxy scene, using image 1 as a detailed visual reference for composition and elements. The central focus is a large, majestic gas giant resembling Saturn, partially filling the left side of the frame with its prominent rings and striped atmosphere. A bright, intensely luminous star is positioned behind this gas giant in the upper-left, casting a powerful, warm glow and dynamic illumination across its surface.\n\nOn the right side, arrange four distinct smaller planets consistent with their relative positions in image 1:\n1.  The uppermost right planet should appear as a desolate, grey, heavily cratered body.\n2.  Below it, a dark, rugged planet with pronounced geological features suggestive of a stern appearance.\n3.  Below that, a vibrant planet displaying contrasting blue-green and tan surface patterns, indicating varied terrain or atmospheric conditions.\n4.  In the lower-right, depict a smaller, icy planet with a sharp division between a brightly lit and a deeply shadowed hemisphere.\n\nScatter various photorealistic, irregularly shaped asteroids and space debris throughout the scene, maintaining their relative positions from image 1. The background should depict a rich deep space environment filled with countless scattered stars and subtle, expansive planetary rings or nebulae, all maintaining the overall spatial arrangement and visual impact of image 1.",
+  "annotator": "samin",
+  "objects": [
+    "Photorealistic gas giant resembling Saturn, partially filling the left side, with prominent rings and striped atmosphere",
+    "Bright, luminous star behind the gas giant in the upper-left, casting a warm glow",
+    "Desolate, grey, heavily cratered planet in the uppermost right",
+    "Dark, rugged planet with pronounced geological features below the uppermost right planet",
+    "Vibrant planet with contrasting blue-green and tan surface patterns below the dark, rugged planet",
+    "Smaller, icy planet with a sharp division between lit and shadowed hemispheres in the lower-right",
+    "Scattered, irregularly shaped asteroids and space debris throughout the scene",
+    "Rich deep space environment background",
+    "Countless scattered stars in the background",
+    "Subtle, expansive planetary rings or nebulae in the background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

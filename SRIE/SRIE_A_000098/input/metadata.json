@@ -1,0 +1,27 @@
+{
+  "subtopic": "Digital arts",
+  "prompt": "Edit image 1: Apply the iridescent, translucent, and swirling digital material style of image 2 to the statue, making it appear as a shiny, colorful digital rendering artwork.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748715409752,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1: Apply the iridescent, translucent, and swirling digital material style of image 2 to the statue. The statue should be transformed into a shiny, colorful digital rendering artwork, exhibiting vibrant, shifting hues (like pink, yellow, and light blue) and a distinctive layered, swirling texture.",
+  "annotator": "kellycyy",
+  "objects": [
+    "Transformed statue",
+    "Iridescent material on statue",
+    "Translucent material on statue",
+    "Swirling texture on statue",
+    "Layered texture on statue",
+    "Shiny surface on statue",
+    "Pink hues on statue",
+    "Yellow hues on statue",
+    "Light blue hues on statue",
+    "Background foliage/trees"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Medical images",
+  "prompt": "A medical illustration depicting the human circulatory system, showing heart, arteries, and veins on semi-transparent skin with labels.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A photorealistic medical illustration of the human circulatory system, featuring the heart, arteries, and veins clearly visible through semi-transparent skin. Include precise anatomical labels pointing to the heart, arteries, and veins.",
+  "annotator": "cwhsu",
+  "objects": [
+    "human circulatory system",
+    "heart",
+    "arteries",
+    "veins",
+    "semi-transparent human skin",
+    "precise anatomical labels",
+    "label pointing to the heart",
+    "label pointing to the arteries",
+    "label pointing to the veins"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

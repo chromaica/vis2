@@ -1,0 +1,26 @@
+{
+  "task": "SRIG",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "create a poster inspired by the reference image's composition and typography style, featuring the message 'Buying human labeling' with similar visual hierarchy but using different colors and graphic elements",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Create a poster. Adopt the vertical composition and bold, varied typography style seen in image 1, including the visual hierarchy where the largest text elements are centrally placed. The poster's main message is 'Buying human labeling'. 'Buying' should be the most prominent, largest text, similar in scale and visual weight to 'GERRY' in image 1. 'human labeling' should appear directly below 'Buying', with a size and style similar to 'Pacemaker' in image 1, maintaining their hierarchical relationship. Use a distinct color palette that excludes orange and black. Replace the horizontal decorative lines in image 1 with new, complementary graphic elements (e.g., abstract shapes or contemporary lines). Ensure the final image presents a crisp, modern graphic poster, without the physical wear, folds, or mounting elements seen in image 1.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Modern graphic poster",
+    "Vertical poster composition",
+    "Text: \"Buying\" (large, prominent, centrally placed)",
+    "Text: \"human labeling\" (below \"Buying\", smaller scale)",
+    "Bold typography style",
+    "Varied typography style",
+    "Distinct color palette (excluding orange and black)",
+    "New complementary graphic elements (e.g., abstract shapes or contemporary lines)",
+    "Physical wear (should not be present)",
+    "Mounting elements (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

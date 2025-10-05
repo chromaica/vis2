@@ -1,0 +1,26 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Tables",
+  "prompt": "Enhance the table design on this slide and incorporate some icons.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Redesign the table by applying a modern and clean aesthetic, using a professional color palette to enhance visual hierarchy and readability. Integrate a small, relevant icon next to each row header in the first column (Phases, Lock Release, Cascading Rollbacks, Concurrency), ensuring icons are consistent in style and visually represent their respective concepts. Maintain all original text content and the overall layout of the table within the slide.",
+  "annotator": "cwhsu",
+  "objects": [
+    "\"Trade offs between Locking algorithms\" title",
+    "Redesigned table with modern and clean aesthetic, and professional color palette",
+    "Column header: \"Two-Phase Locking (2PL)\"",
+    "Column header: \"Strict Two-Phase Locking (S2PL)\"",
+    "Row header \"Phases\" with a small, relevant icon",
+    "Row header \"Lock Release\" with a small, relevant icon",
+    "Row header \"Cascading Rollbacks\" with a small, relevant icon",
+    "Row header \"Concurrency\" with a small, relevant icon",
+    "Original text content in all table cells (data content)",
+    "\"NEW IDEAS\" logo at bottom left"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

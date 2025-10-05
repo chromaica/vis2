@@ -1,0 +1,21 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "Align and stretch each line along the local flow vectors, simulating wind-sculpted text.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, which displays white text on a black background. Transform each line of text ('DON'T', 'AGREE', 'WITH YOUR', 'SELF', 'ALL TIME.') by aligning and stretching its characters. The direction and magnitude of this stretching should dynamically follow the local flow vectors indicated by the arrows in reference image 2. The overall effect should simulate text that has been visually sculpted and elongated by strong wind currents.",
+  "annotator": "matina",
+  "objects": [
+    "black background",
+    "white text \"DON'T\" with stretched and elongated characters",
+    "white text \"AGREE\" with stretched and elongated characters",
+    "white text \"WITH YOUR\" with stretched and elongated characters",
+    "white text \"SELF\" with stretched and elongated characters",
+    "white text \"ALL TIME.\" with stretched and elongated characters"
+  ]
+}

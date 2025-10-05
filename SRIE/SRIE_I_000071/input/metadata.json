@@ -1,0 +1,21 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "Edit the images to enhance the highlighted region by changing its color to a bright red for clear emphasis, add a subtle glow or shadow around the region to make it stand out from the surrounding areas.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit Image 2, which displays a map of geographic regions. Identify the specific region located in the center-right of the main map, precisely defined by the black shape in Image 1. Change the color of this identified region to a vibrant, bright red to provide clear emphasis. Additionally, apply a subtle glow or a subtle shadow around the perimeter of this red region to make it distinctly stand out from the surrounding map areas.",
+  "annotator": "Johnny",
+  "objects": [
+    "main geographic map",
+    "geographic region, vibrant bright red, in the center-right",
+    "subtle glow or shadow around the perimeter of the vibrant bright red region",
+    "surrounding geographic regions (unmodified color)",
+    "inset map of Brazil in the top-left",
+    "highlighted region within the inset map"
+  ]
+}

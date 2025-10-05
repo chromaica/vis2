@@ -1,0 +1,26 @@
+{
+  "subtopic": "Games",
+  "prompt": "Edit Image 1: Apply the dark, gritty atmosphere and smoky effects from Image 2 to the environment and creatures, giving the Borderlands scene a challenging Dark Souls feel.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1750756907815,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit Image 1: Apply the dark, gritty atmosphere and prominent smoky, ethereal mist effects from Image 2 to the entire scene. Transform the bright and cel-shaded visual style of Image 1 by desaturating colors, increasing contrast, and deepening shadows across all elements. Introduce dense, volumetric smoke and mist, akin to Image 2, permeating the environment, including the background mountains, the Hyperion structure on the right, and the foreground ground. Integrate these somber atmospheric and smoky characteristics onto all creatures, such as the large red monster on the left and the enemies in the center, to give the Borderlands scene a challenging and oppressive 'Dark Souls' visual aesthetic.",
+  "annotator": "ishengfang",
+  "objects": [
+    "dense, volumetric smoke and mist",
+    "background mountains",
+    "Hyperion structure on the right",
+    "foreground ground",
+    "large red monster on the left",
+    "enemies in the center",
+    "player character's weapon in foreground"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

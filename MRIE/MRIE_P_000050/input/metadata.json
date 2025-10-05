@@ -1,0 +1,27 @@
+{
+  "subtopic": "Wildlife & Nature Photography",
+  "prompt": "Edit image 1, transforming the scene. Apply the distinctive spotted fur pattern style from image 2 to the lion cub, maintaining its color tones. Introduce realistically rendered flowers, echoing the vibrant detail of image 3. Add a vivid ladybug, styled like image 4, crawling across a leaf in the foreground, integrating seamlessly into the photographic depth of field.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg",
+    "4.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748572392562,
+  "promptLengthUsed": "long",
+  "task": "MRIE",
+  "topic": "P",
+  "prompt_refined": "Edit image 1. Apply the distinctive spotted fur pattern from image 2 to the lion cub, maintaining its original color tones. Introduce realistically rendered clusters of small, white flowers, echoing the vibrant detail and style of image 3, integrated into the midground foliage surrounding the lion cub. Add a vivid red and black ladybug, matching the appearance and detail of image 4, crawling prominently on a partially blurred leaf in the bottom-left foreground, ensuring seamless integration with the existing photographic depth of field of the scene.",
+  "annotator": "boris",
+  "objects": [
+    "Lion cub with spotted fur",
+    "Clusters of small, white flowers",
+    "Midground foliage surrounding the lion cub",
+    "Vivid red and black ladybug",
+    "Partially blurred leaf in the bottom-left foreground",
+    "Original background elements",
+    "Original foreground elements",
+    "Existing photographic depth of field"
+  ]
+}

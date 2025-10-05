@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Illuminated Manuscripts",
+  "prompt": "In the style of an ornate illuminated manuscript, depict 'Wisdom Blooms' scripted in shimmering gold across a parchment texture, elegantly framed by beautiful decorative borders.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate an image depicting 'Wisdom Blooms' in the style of an ornate medieval illuminated manuscript. The text is rendered in shimmering gold leaf script, centrally placed on a richly textured parchment background. The entire composition is elegantly framed by a highly detailed, intricate decorative border, featuring classic manuscript motifs like swirling vines and floral elements.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "'Wisdom Blooms' text",
+    "Shimmering gold leaf script",
+    "Centrally placed text",
+    "Richly textured parchment background",
+    "Intricate decorative border",
+    "Swirling vine motifs",
+    "Floral elements",
+    "Ornate medieval illuminated manuscript style"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

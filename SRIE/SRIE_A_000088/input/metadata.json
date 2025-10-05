@@ -1,0 +1,25 @@
+{
+  "subtopic": "Stylized art",
+  "prompt": "Edit image 1: Change the vibrant colors of the abstract shapes to match the cool, harmonious color palette presented in image 2, applying these specific shades to the artwork.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748707991882,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1: Replace the vibrant and diverse colors of the abstract shapes in image 1. Re-color these shapes using only the cool, harmonious palette presented in image 2. Each abstract shape should be assigned one of the five specific shades from image 2, while preserving the original shapes and their layout.",
+  "annotator": "kellycyy",
+  "objects": [
+    "abstract shapes (with original forms)",
+    "original layout of abstract shapes",
+    "light beige background",
+    "abstract shape colored in teal (38A3A5)",
+    "abstract shape colored in mint green (57CC99)",
+    "abstract shape colored in light green (80ED99)",
+    "abstract shape colored in very light green (C7F9CC)",
+    "abstract shape colored in dark blue (22577A)"
+  ]
+}

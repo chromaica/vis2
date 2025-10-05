@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "T",
+  "subtopic": "Products",
+  "prompt": "Take the first image as reference. Replace the supra with the Infiniti QX50 (2016) in the third image, make QX50 retain the same angle and position as the supra in the first image. Then, change the box to the design in the second image, but change the text and thumbnaiil to QX50, and the number should be 50 instead of 73.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1.\n\nOn the right side, replace the red Toyota Supra toy car with the Infiniti QX50 (2016) from image 3. The replaced Infiniti QX50 should retain the exact same scale, angle, and position as the original Supra toy car in image 1, rendered as a matching toy car model.\n\nOn the left side, modify the existing toy car box. Redesign the box to adopt the overall design style, layout, and color scheme of the box shown in image 2. Specifically:\n- Change the prominent text on the box from 'Tomica Toyota SUPRA' to 'Infiniti QX50'.\n- Replace the car thumbnail image on the box with the Infiniti QX50 (2016) from image 3, depicted as a toy car thumbnail consistent with the visual style of the car on the box in image 2.\n- Change the large number '73' visible on the box (referencing image 2) to '50'.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Infiniti QX50 (2016) toy car model on the right side",
+    "Toy car box on the left side",
+    "White background",
+    "Box designed in the style of Tomica packaging (from image 2)",
+    "Text 'Infiniti QX50' prominently displayed on the box",
+    "Infiniti QX50 (2016) toy car thumbnail on the box",
+    "Large number '50' on the box",
+    "'TAKARA TOMY' logo on the box",
+    "'\u30c8\u30df\u30ab' (Tomica in Japanese) text on the box",
+    "'AGE3+' text on the box"
+  ]
+}

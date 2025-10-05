@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "Edit image 1 by transforming its vintage Windows 98 UI elements into the sleek, modern aesthetic seen in image 2. Apply the dark, stylized background and component design principles from image 2. Additionally, draw inspiration from image 3 to visually represent different states (like 'readonly' or 'editable') for some of the input fields, integrating these annotations or state changes into the new modern style. Lastly add hardwritten labels to all UI elements.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Transform all vintage Windows 98 UI elements into a sleek, modern aesthetic. Apply the dark, stylized background and component design principles from image 2, including rounded corners, subtle gradients, and contemporary icons where applicable. Ensure all buttons, checkboxes, radio buttons, input fields, and the 'My First VB4 Program' window adopt this new style. For the 'Address (Line 1)' and 'Address (Line 2)' input fields on the right side, visually represent distinct 'readonly' and 'editable' states, drawing inspiration from the indicators in image 3 and integrating them seamlessly into the modern design. Finally, add handwritten labels to every transformed UI element, emulating the specific style of labels and annotations depicted in image 3.",
+  "annotator": "maxku",
+  "objects": [
+    "Dark, stylized background",
+    "Modernized \"98.css\" text",
+    "Modernized buttons (e.g., \"Click me\", \"OK\", \"Cancel\")",
+    "Modernized checkboxes (e.g., \"This is a checkbox\", \"I am checked\")",
+    "Modernized radio buttons (e.g., \"Yes\", \"No\", \"Diners\")",
+    "Modernized \"My First VB4 Program\" window",
+    "\"Address (Line 1)\" input field with 'readonly' visual state",
+    "\"Address (Line 2)\" input field with 'editable' visual state",
+    "Handwritten labels on all transformed UI elements",
+    "Contemporary icons (e.g., for window controls, checkboxes, radio buttons)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

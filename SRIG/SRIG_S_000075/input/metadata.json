@@ -1,0 +1,24 @@
+{
+  "subtopic": "Software interfaces",
+  "prompt": "Transform the UI of this code editor into a 'steampunk' version, with brass gauges, copper pipes, and analog dials instead of progress bars and buttons.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://raw.githubusercontent.com/peymanslh/vscode-blueberry-dark-theme/master/screenshot.png",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a steampunk-themed user interface based on the code editor in image 1. Transform the flat digital buttons (e.g., window controls at the top-left, tab close buttons, and icons in the left sidebar and bottom status bar) into ornate brass mechanisms with analog dials and levers. Replace visible progress indicators and the right-side scrollbar with functional brass gauges and decorative copper pipes. The overall UI should feature an aesthetic of distressed metal, dark wood, and visible rivets, while maintaining the readability of the code editor's content.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Flat digital buttons (should not be present)",
+    "Visible progress indicators (should not be present)",
+    "Right-side scrollbar (should not be present)",
+    "Steampunk-themed user interface",
+    "Code editor UI structure (main window, sidebar, tab area, status bar)",
+    "Ornate brass mechanisms with analog dials and levers",
+    "Functional brass gauges",
+    "Decorative copper pipes",
+    "Distressed metal, dark wood, and visible rivet aesthetic",
+    "Readable code editor content"
+  ]
+}

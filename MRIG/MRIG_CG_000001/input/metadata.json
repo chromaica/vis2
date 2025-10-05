@@ -1,0 +1,28 @@
+{
+  "subtopic": "Object detection visuals",
+  "prompt": "Create a computer graphics visualization for object detection showing the cat (from image 1), the penguin (from image 2), and the jaguar (from image 3). Place them in a clean environment inspired by image 1's setting. Add bounding boxes and labels.",
+  "cond_images": [
+    "1.png",
+    "2.jpeg",
+    "3.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748419886377,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a computer graphics visualization for an object detection task. The scene should depict the cat from image 1 ice skating on a clear ice rink. The realistic penguin from image 2 should be positioned standing on the snowy bank adjacent to the rink. The jaguar from image 3 should be placed on the snow-covered ground in the vicinity. The environment should be a clean, minimalist winter urban landscape with snow-covered trees and distant buildings, consistent with the style and setting of image 1. Each animal must be clearly delineated with an overlaid bounding box and a corresponding class label (e.g., 'cat', 'penguin', 'jaguar').",
+  "annotator": "winston",
+  "objects": [
+    "cat from image 1 ice skating",
+    "clear ice rink",
+    "realistic penguin from image 2 standing on snowy bank adjacent to the rink",
+    "jaguar from image 3 on snow-covered ground",
+    "clean, minimalist winter urban landscape",
+    "snow-covered trees",
+    "distant buildings",
+    "bounding box with 'cat' label",
+    "bounding box with 'penguin' label",
+    "bounding box with 'jaguar' label"
+  ]
+}

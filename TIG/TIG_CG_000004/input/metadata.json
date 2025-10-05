@@ -1,0 +1,16 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "CAD models",
+  "prompt": "A CAD model of a gear, wireframe view.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A precise technical illustration of a gear, rendered in wireframe style, with visible edges and vertices, on a plain dark background.",
+  "annotator": "maxku",
+  "objects": [
+    "gear",
+    "visible edges",
+    "visible vertices",
+    "plain dark background"
+  ]
+}

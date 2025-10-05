@@ -1,0 +1,24 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "Fill letters with the marble veining pattern, keeping natural crack angles.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Replace the red fill within all letters of '2025 DESIGN TRENDS' with the marble veining pattern from image 2. The marble pattern should fully occupy the letter forms, maintaining the natural angles and flow of the cracks as seen in image 2. Ensure only the red fill is replaced, keeping the black outlines, shadows, and the cream background of image 1 intact.",
+  "annotator": "matina",
+  "objects": [
+    "text \"2025 DESIGN TRENDS\"",
+    "letters filled with marble veining pattern",
+    "marble veining pattern",
+    "black outlines of letters",
+    "shadows of letters",
+    "cream background",
+    "red fill (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

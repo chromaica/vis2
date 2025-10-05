@@ -1,0 +1,26 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Change the knife into a phone and have Mike looking at his phone.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Transform the knife held in Mike's right hand into a smartphone. Modify Mike's facial orientation and eye direction so he is looking at the smartphone.",
+  "annotator": "matina",
+  "objects": [
+    "Mike (Phil Swift)",
+    "Smartphone in Mike's right hand",
+    "Knife (should not be present)",
+    "Mike's yellow gloves",
+    "Bucket",
+    "Text: \"Hiroshima citizen: Hey look there's a plane flying over our city\"",
+    "Text: \"Hiroshima citizen two seconds later:\"",
+    "Text: \"That's a lot of damage\"",
+    "Workshop background",
+    "Chainsaw"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

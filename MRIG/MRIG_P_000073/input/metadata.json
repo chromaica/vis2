@@ -1,0 +1,24 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Design an Airbus A380 referenced in the first image reimagined as a mythical dragon referenced in the second image. The massive, double-deck fuselage is serpentine, covered in iridescent green and gold scales. The A380\u2019s enormous wings are bat-like with leathery textures, each fitted with two Rolls-Royce Trent 900 engines (four total), mounted under the wings. The cockpit is shaped like a dragon\u2019s head with jagged horns and glowing red eyes. The tail is long and whip-like, with rear-mounted thrusters for maneuverability.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic image of an Airbus A380 (referencing image 1) reimagined as a mythical dragon (referencing image 2). The massive, double-deck fuselage transforms into a serpentine body, covered with iridescent green and gold scales. Its enormous wings are bat-like, featuring realistic leathery textures. Four Rolls-Royce Trent 900 engines, as seen on the Airbus A380 in image 1, are mounted realistically under these bat-like wings, with two engines positioned under each wing. The front of the aircraft, where the cockpit would be, is shaped into a fierce dragon's head, complete with jagged horns similar to those on the dragon in image 2, and glowing red eyes. The tail is long, whip-like, and tapers to a fine point, incorporating rear-mounted thrusters for maneuverability, positioned where the vertical stabilizer would typically be.",
+  "objects": [
+    "Photorealistic A380-dragon hybrid",
+    "Serpentine body with iridescent green and gold scales",
+    "Enormous bat-like wings with realistic leathery textures",
+    "Four Rolls-Royce Trent 900 engines, with two mounted under each wing",
+    "Fierce dragon's head at the front, where the cockpit would be",
+    "Jagged horns on the dragon's head",
+    "Glowing red eyes on the dragon's head",
+    "Long, whip-like tail tapering to a fine point",
+    "Rear-mounted thrusters on the tail"
+  ]
+}

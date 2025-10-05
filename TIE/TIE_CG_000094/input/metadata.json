@@ -1,0 +1,22 @@
+{
+  "subtopic": "Physics Simulation",
+  "prompt": "Generate realistic swirling clouds of fine dust and scattering debris particles around the chaotic, dynamic center of the physics simulation.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751801853275,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1 by adding realistic, swirling clouds of fine dust and scattering debris particles. These new elements should surround the existing chaotic, dynamic core formed by the orange particles in the physics simulation shown in image 1.",
+  "annotator": "edisy",
+  "objects": [
+    "chaotic, dynamic core formed by orange particles",
+    "realistic, swirling clouds of fine dust surrounding the core",
+    "scattering debris particles surrounding the core",
+    "ground surface",
+    "background sky"
+  ],
+  "human_annotation": true
+}

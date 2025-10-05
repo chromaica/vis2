@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": "Enlarge and crop the first image such that the comic fits the entire picture. The output should contain the comic only. Then, replace the Captain America in the comic with the version from the second image, but in comic style. Finally, make him uses the shield from the third image throughout the comic.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. First, crop and zoom image 1 to remove the surrounding orange background and the book's physical binding, ensuring only the open comic book pages (left and right panels) fill the entire frame. Second, within these comic panels, replace every instance of Captain America with a depiction inspired by the appearance of Captain America in image 2. This new depiction must meticulously maintain the original comic book art style of image 1, seamlessly blending into the existing illustrations. Third, in all panels where Captain America's shield appears, replace it with the damaged shield from image 3. This replacement shield should also be rendered in the comic book art style of image 1, accurately portraying its distinctive worn, battle-damaged appearance.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "open comic book pages (left)",
+    "open comic book pages (right)",
+    "comic panel illustrations",
+    "text bubbles/dialogue",
+    "Captain America (re-imagined in comic book style)",
+    "damaged Captain America's shield (in comic book style)",
+    "other characters from original comic panels",
+    "original comic book art style (overall aesthetic)",
+    "surrounding orange background (should not be present)",
+    "book's physical binding (should not be present)"
+  ]
+}

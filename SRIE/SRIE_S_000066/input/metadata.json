@@ -1,0 +1,27 @@
+{
+  "subtopic": "Websites",
+  "prompt": "In image 1, change the dark header background color to the vibrant purple color found in the header section of image 2, adopting its distinctive visual style.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1752236734776,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "annotator": "ishengfang",
+  "prompt_refined": "Edit image 1. Change the background color of the top header section in image 1 (containing navigation links like 'K-12', 'Higher Education', and the 'REQUEST INFO' button) to the vibrant purple color found in the header background of image 2. Adjust the text and element colors within image 1's header to ensure high contrast and readability, consistent with the overall visual style of image 2's header.",
+  "objects": [
+    "Browser window (chrome, tabs, address bar)",
+    "Instructure logo",
+    "Top header section with vibrant purple background",
+    "'K-12' navigation link (white text)",
+    "'Higher Education' navigation link (white text)",
+    "'REQUEST INFO' button (within the top header, with adjusted colors)",
+    "\"COVID-19 Resources & Updates Learn More\" banner",
+    "\"A Learning Platform That's Loved by Everyone\" heading",
+    "Woman with glasses looking at a laptop",
+    "Laptop"
+  ]
+}

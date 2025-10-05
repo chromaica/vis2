@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Modify image 1 by replacing the image under 'Model A' with the gooey green monster from image 2 and the image under 'Model B' with the spiky green monster from image 3, creating a monster generation comparison UI. Additionally, change the sentence 'A woman in a purple snow jacket is skiing' to 'A green monster eating.'",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit Image 1. In the left panel labeled 'Model A', replace the current image with the gooey, three-eyed green monster holding a lollipop from Image 2. In the right panel labeled 'Model B', replace the current image with the spiky, sharp-toothed green monster holding a fly from Image 3. Furthermore, update the text string at the bottom center of the interface from 'A woman in a purple snow jacket is skiing' to 'A green monster eating'.",
+  "annotator": "maxku",
+  "objects": [
+    "Web interface (overall structure)",
+    "Left panel labeled 'Model A'",
+    "Gooey, three-eyed green monster (in left panel)",
+    "Lollipop (held by monster in left panel)",
+    "Right panel labeled 'Model B'",
+    "Spiky, sharp-toothed green monster (in right panel)",
+    "Fly (held by monster in right panel)",
+    "Text string 'A green monster eating' (at bottom center)",
+    "\"GenAI-Arena\" header",
+    "Interactive buttons (e.g., Send, Random sample, vote buttons)"
+  ]
+}

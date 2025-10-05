@@ -1,0 +1,23 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "A 1980s terminal green-screen UI for controlling a modern smart home system",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A retro 1980s green-screen CRT computer terminal, displaying a command-line user interface for a modern smart home system. The screen shows pixelated, monospace text and simple block graphics indicating room temperatures, lighting status (on/off), and security alerts. Visible scanlines and a slight screen curvature are present on the monitor. The bulky terminal casing is beige, with a chunky mechanical keyboard positioned directly in front.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Retro 1980s CRT computer terminal",
+    "Green-screen display",
+    "Command-line user interface on screen",
+    "Pixelated monospace text showing room temperatures, lighting status, and security alerts",
+    "Simple block graphics on screen",
+    "Visible scanlines on monitor",
+    "Slight screen curvature on monitor",
+    "Bulky beige terminal casing",
+    "Chunky mechanical keyboard",
+    "Keyboard positioned directly in front of the terminal"
+  ],
+  "human_annotation": true
+}

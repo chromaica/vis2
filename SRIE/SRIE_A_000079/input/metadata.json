@@ -1,0 +1,29 @@
+{
+  "subtopic": "Collage",
+  "prompt": "Edit image 1: Integrate the illustration of the peeled banana from image 2 directly into the existing food collage, making it appear as another cut-out element among the various food scraps and textures.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748655080170,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1, the food collage. Integrate the peeled banana illustration from image 2 into the lower right section. Ensure it appears as a new, distinct cut-out element, matching the layered, torn, and textured aesthetic of the existing collage elements.",
+  "annotator": "kellycyy",
+  "objects": [
+    "Food collage",
+    "Peeled banana illustration (in the lower right section)",
+    "Torn paper collage elements",
+    "Layered paper elements",
+    "\"Muffins\" text",
+    "\"Pizza\" text",
+    "\"Choco\" text",
+    "Coffee beans",
+    "Red chili/pepper",
+    "Glass with liquid"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

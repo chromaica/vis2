@@ -1,0 +1,26 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "Pixelated Viking warriors battle on floating platforms above lava, add glowing runes and mystical floating islands.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, a pixelated 2D platformer scene featuring two Viking warriors on brown floating platforms above a lava base. Enhance this battle scene by adding several mystical, pixelated floating islands in the upper background. Also, introduce glowing runes, subtly distributed around the scene, to amplify the magical and fantastical elements.",
+  "annotator": "cwhsu",
+  "objects": [
+    "pixelated 2D platformer scene",
+    "two pixelated Viking warriors",
+    "two brown pixelated floating platforms",
+    "pixelated lava base",
+    "several mystical, pixelated floating islands in the upper background",
+    "glowing runes",
+    "pixelated menu icon",
+    "pixelated score display",
+    "pixelated blue UI button",
+    "pixelated red UI button"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

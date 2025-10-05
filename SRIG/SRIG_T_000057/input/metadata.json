@@ -1,0 +1,25 @@
+{
+  "task": "SRIG",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Develop visual identity for a sustainable furniture company named as 'GreenWood' with the style of the reference image.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a textual graphic logo for 'GreenWood', a sustainable furniture company. The logo should strictly adhere to the minimalist, modern, and clean aesthetic found in image 1, utilizing its dominant color palette of light wood tones, white, and black accents. The typography for 'GreenWood' should be sleek and contemporary, reflecting both the company's name and its sustainable ethos within this elegant visual style.",
+  "annotator": "Johnny",
+  "objects": [
+    "The text \"GreenWood\"",
+    "A minimalist design",
+    "A modern design",
+    "A clean design",
+    "Sleek typography",
+    "Contemporary typography",
+    "Light wood tone color",
+    "White color",
+    "Black accent color",
+    "Logo composition"
+  ],
+  "human_annotation": true
+}

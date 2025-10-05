@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Image Transformation",
+  "prompt": "Resize the object in the source image to match the scale of the reference object.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 2. Resize the two white cups and their accompanying saucers in image 2 so that their scale precisely matches that of the patterned cup and saucer presented in image 1.",
+  "annotator": "nimajamali",
+  "objects": [
+    "black round table",
+    "dark wooden tray",
+    "metal kettle",
+    "two white cups (resized to match scale of cup in image 1)",
+    "two white saucers (resized to match scale of saucer in image 1)",
+    "spoon",
+    "glass vase with yellow flower",
+    "tea bags/sugar packets",
+    "patterned chair/sofa",
+    "curtains"
+  ]
+}

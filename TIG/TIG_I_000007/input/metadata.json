@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "a window XP UI found in the industry automation pipeline manufacturing GPUs, the UI shows how the soldering status of the board",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A detailed screenshot of a Windows XP user interface on an industrial monitor. The UI, rendered in the classic Windows XP theme with its blue taskbar and grey window frames, displays a comprehensive 'Soldering Status' application. This application prominently features a real-time schematic of a circuit board, with individual solder points clearly marked: green for successful connections and red for defects. Digital readouts for temperature and flux levels, along with a progress bar for overall completion, are also visible. The background subtly reveals an automated industrial setting, hinting at a GPU manufacturing pipeline with blurred machinery.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Windows XP user interface",
+    "Industrial monitor",
+    "'Soldering Status' application",
+    "Real-time schematic of a circuit board",
+    "Green solder points",
+    "Red solder points",
+    "Digital readouts for temperature",
+    "Digital readouts for flux levels",
+    "Progress bar for overall completion",
+    "Automated industrial setting with blurred machinery"
+  ]
+}

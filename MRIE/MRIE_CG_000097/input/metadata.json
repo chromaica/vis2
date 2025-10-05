@@ -1,0 +1,28 @@
+{
+  "subtopic": "Object detection visuals",
+  "prompt": "Edit image 1 for object detection. Replace its camera with image 2's vintage camera. Add object detection bounding boxes/labels around the person and camera, using a style resembling visualizations for objects like image 3's containers.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748456609958,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1, which shows a person holding a camera in a snowy setting. First, replace the modern Nikon camera held by the person with the vintage Franka camera from image 2, ensuring it is positioned accurately in the person's hands and maintains the original scale and perspective. Second, overlay object detection graphics onto the modified image: draw a rectangular bounding box around the entire person and another rectangular bounding box around the newly inserted vintage camera. Each box must have a corresponding text label, specifically 'person' for the individual and 'camera' for the vintage camera. The visual style of these bounding boxes and labels, including their color, line thickness, and font, should clearly emulate common computer vision object detection visualizations, similar to how objects like the containers in image 3 would be presented and labeled in such a display.",
+  "annotator": "winston",
+  "objects": [
+    "person",
+    "snowy setting",
+    "vintage Franka camera",
+    "rectangular bounding box around the person",
+    "text label 'person'",
+    "rectangular bounding box around the vintage camera",
+    "text label 'camera'",
+    "modern Nikon camera (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,27 @@
+{
+  "subtopic": "Traditional art",
+  "prompt": "Edit image 1: Add the eye of image 2 to replace the sun of image 1. Render them in the traditional ink wash style of image 1 to integrate them seamlessly into the landscape.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748495349678,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit Image 1. Replace the large red sun in the upper-middle of Image 1 with the entire eye element from Image 2. Render the transferred eye, including all its internal details (such as the landscape and birds), in the traditional Japanese ink wash style of Image 1. Adapt the color palette of the eye and its internal elements to primarily use black ink and shades of grey, with a muted blue for the iris, consistent with the sparse color usage and aesthetic of Image 1. Ensure the eye is seamlessly integrated into the existing landscape, adopting the brushwork and overall artistic flow of Image 1.",
+  "annotator": "kellycyy",
+  "objects": [
+    "large red sun (should not be present)",
+    "entire eye element in upper-middle",
+    "landscape within the eye",
+    "birds within the eye",
+    "cherry blossoms",
+    "mountains",
+    "pagoda on a mountain",
+    "body of water",
+    "person in boat",
+    "boat"
+  ]
+}

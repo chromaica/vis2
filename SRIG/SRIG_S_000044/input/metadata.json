@@ -1,0 +1,26 @@
+{
+  "subtopic": "Software interfaces",
+  "prompt": "Generate a clean screenshot of a dark-themed e-commerce dashboard displaying sales data. Utilize the modern design layout, dark color palette, and graphic elements inspired by the reference image to create the interface.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://mui.com/static/branding/store-templates/template-5dark.jpg",
+  "promptGeneratedTimestamp": 1749436842902,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a clean screenshot of a dark-themed e-commerce dashboard, displaying detailed sales and financial data. Emulate the modern design layout, dark color palette, and graphic elements from image 1. The interface should feature a prominent left navigation sidebar, a top header bar with a search input and utility icons, and a main content area organized into distinct data widgets. These widgets should include: 'Total Earning' and 'Total Order' summaries with corresponding values and a small trend line; a large central stacked bar chart visualizing monthly 'Investment', 'Loss', 'Profit', and 'Maintenance' data; and a 'Popular Stocks' section on the right displaying stock performance with an accompanying area chart.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "dark-themed e-commerce dashboard interface",
+    "prominent left navigation sidebar",
+    "top header bar",
+    "search input in header bar",
+    "utility icons in header bar",
+    "'Total Earning' summary widget with value and small trend line",
+    "'Total Order' summary widget with value and small trend line",
+    "large central stacked bar chart visualizing monthly 'Investment', 'Loss', 'Profit', and 'Maintenance' data",
+    "'Popular Stocks' section on the right",
+    "area chart within 'Popular Stocks' section"
+  ]
+}

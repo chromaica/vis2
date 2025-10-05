@@ -1,0 +1,23 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Match the source cookie\u2019s color, texture, and shape to the reference cookie, leaving the rest of the scene untouched.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Transform the Dalgona candy within the circular metal tin in image 1 to match the visual characteristics of the Dalgona candy in image 2. Specifically, change its color from the current light brown to the brighter orange hue seen in image 2. Replace the Sierpinski triangle pattern on its surface with the smoother texture and the single circular indentation from image 2. Additionally, include the silver sewing needle from image 2, positioning it on the cookie's surface similarly. Ensure all other elements of image 1 remain untouched, including the hand holding the tin, the metal tin itself, and the black textual graphics bars at the top and bottom of the scene.",
+  "annotator": "matina",
+  "objects": [
+    "hand",
+    "circular metal tin",
+    "orange Dalgona candy with a single circular indentation",
+    "silver sewing needle on the candy",
+    "black textual graphics bar at the top",
+    "text: \"Boss: I've got an easy task for you. The task:\"",
+    "black textual graphics bar at the bottom",
+    "text: \"[chilling music plays]\""
+  ]
+}

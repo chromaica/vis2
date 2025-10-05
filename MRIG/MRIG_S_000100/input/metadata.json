@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Generate a mobile screenshot of a Persian-to-English translation app showing the phrase '\u062f\u0648\u0633\u062a\u062a \u062f\u0627\u0631\u0645' as the input text, using the interface layout from the first image and applying the color scheme from the second image.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a mobile application screenshot of a translation app. The screenshot should feature the user interface layout and all main elements (including the top navigation bar, language selectors, input and output text cards with their respective action buttons/icons, and the 'Definition' section) as seen in image 1. Adapt the language selectors to display 'Persian' for the input language and 'English' for the output language. In the top input text card, display the Persian phrase '\u062f\u0648\u0633\u062a\u062a \u062f\u0627\u0631\u0645'. Apply the color scheme from image 2, making the primary background a bright yellow and using dark colors for text and other prominent UI elements, similar to image 2's overall palette.",
+  "annotator": "paria",
+  "objects": [
+    "Mobile application screenshot",
+    "Top navigation bar",
+    "Language selectors",
+    "Input language selector displaying 'Persian'",
+    "Output language selector displaying 'English'",
+    "Input text card with action buttons/icons",
+    "Input text card containing the phrase '\u062f\u0648\u0633\u062a\u062a \u062f\u0627\u0631\u0645'",
+    "Output text card with action buttons/icons",
+    "'Definition' section",
+    "Bright yellow primary background with dark UI elements/text"
+  ],
+  "human_annotation": true
+}

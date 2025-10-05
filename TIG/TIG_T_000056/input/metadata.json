@@ -1,0 +1,15 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Graffiti (Text-based)",
+  "prompt": "The phrase \"Break the Mold\" appears as bold stencil graffiti, sprayed in vibrant red onto a dark industrial metal surface.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Bold, vibrant red stencil spray paint depicts the phrase 'Break the Mold' on a dark industrial metal surface.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "red stencil spray paint",
+    "the phrase 'Break the Mold'",
+    "dark industrial metal surface"
+  ]
+}

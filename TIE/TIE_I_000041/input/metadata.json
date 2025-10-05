@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Apply a retro comic book style with halftone textures, bold outlines, and vibrant primary colors for each risk-reward category.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the bar chart, to transform the entire information graphic into a retro comic book style. Recolor all bar segments (Small Reward, Medium Reward, Large Reward) using a palette of vibrant primary colors (e.g., bright red, strong blue, vivid yellow). Ensure that the 'Small Reward', 'Medium Reward', and 'Large Reward' categories are clearly differentiated by distinct, vibrant primary hues, consistently applied across both the 'Low Risk' and 'High Risk' sections of the chart. Apply halftone dot textures to the surface of each recolored bar segment. Additionally, add bold, dark outlines around all graphical elements, including the bars, axes, tick marks, all text labels ('Framing Score', 'Age Group', 'Low Risk', 'High Risk', 'Adolescent', 'Young Adult'), and the legend box in the top-right corner.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Bar chart axes with tick marks (with bold, dark outlines)",
+    "Bar segments for 'Small Reward' (recolored with a vibrant primary hue, with halftone dot textures and bold, dark outlines)",
+    "Bar segments for 'Medium Reward' (recolored with a vibrant primary hue, with halftone dot textures and bold, dark outlines)",
+    "Bar segments for 'Large Reward' (recolored with a vibrant primary hue, with halftone dot textures and bold, dark outlines)",
+    "Error bars (with bold, dark outlines)",
+    "'Framing Score' text label (with bold, dark outline)",
+    "'Age Group' text label (with bold, dark outline)",
+    "'Low Risk' and 'High Risk' section text labels (with bold, dark outlines)",
+    "'Adolescent' and 'Young Adult' X-axis text labels (with bold, dark outlines)",
+    "Legend box in top-right corner (with bold, dark outline, containing recolored and textured 'Small Reward', 'Medium Reward', and 'Large Reward' entries)"
+  ]
+}

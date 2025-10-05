@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "Adding bycycle symbol along the road near the seaside.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 2 by adding a black bicycle symbol, inspired by image 1, onto a pathway located along the waterfront/seaside area of the map.",
+  "annotator": "Johnny",
+  "objects": [
+    "black bicycle symbol",
+    "map of a park/waterfront area",
+    "waterfront/seaside area on the map",
+    "pathway along the waterfront area",
+    "buildings on the map",
+    "map legend/key",
+    "lion character on the map",
+    "other pathways on the map",
+    "text labels on the map",
+    "MTR station symbol on the map"
+  ]
+}

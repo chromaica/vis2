@@ -1,0 +1,19 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "oil paintings",
+  "prompt": "A beautifully serene oil painting capturing a horizon where rolling green hills meet an endless blue sky under the gentle illumination of midday sun.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "An oil painting, serene and beautiful, depicting rolling green hills extending to a distant horizon line, where they meet a vast, clear blue sky. The scene is illuminated by the soft, warm light of a midday sun.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Oil painting aesthetic",
+    "Rolling green hills",
+    "Distant horizon line",
+    "Vast, clear blue sky",
+    "Soft light",
+    "Warm light",
+    "Midday lighting"
+  ]
+}

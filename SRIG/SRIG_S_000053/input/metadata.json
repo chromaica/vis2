@@ -1,0 +1,23 @@
+{
+  "subtopic": "Software interfaces",
+  "prompt": "Based on the calendar app interface, generate a new interface when the user clicks 'Add New Event' in the calendar app.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://cdn.dribbble.com/userupload/24958377/file/original-d0ce9729b04e96b62b992a1bed5aa1c0.png?resize=752x&vertical=center",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a new user interface for the calendar application based on image 1. This new interface should represent the state after the user clicks the blue '+ Add New Event' button, located in the top-right sidebar of image 1. The outcome should be a modal window, overlaying the main calendar and sidebar from image 1. This modal should include input fields for event title, date and time, location, and options for inviting attendees, along with 'Save' and 'Cancel' buttons.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Calendar application main UI (partially visible, overlaid)",
+    "Sidebar (partially visible, overlaid)",
+    "Modal window (overlaying the main calendar and sidebar)",
+    "Event title input field",
+    "Date and time input fields",
+    "Location input field",
+    "Invite attendees options",
+    "'Save' button",
+    "'Cancel' button"
+  ]
+}

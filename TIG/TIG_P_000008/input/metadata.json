@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "A black and white portrait of an elderly man, deep wrinkles and wise eyes conveying a lifetime of stories.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A close-up, photorealistic black and white portrait of an elderly man. His face is a tapestry of prominent deep wrinkles. His wise, intelligent eyes hold a calm, contemplative gaze, filled with the quiet wisdom of a lifetime of experiences.",
+  "annotator": "cwhsu",
+  "objects": [
+    "elderly man",
+    "close-up portrait framing",
+    "black and white color scheme",
+    "face",
+    "prominent deep wrinkles",
+    "wise eyes",
+    "intelligent eyes",
+    "calm gaze",
+    "contemplative gaze"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,18 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Textile Art with Text",
+  "prompt": "Design a textile art piece: the words 'WOVEN DREAMS' are intricately rendered in cross-stitch using a variety of vibrant, colorful yarns, prominently centered on a rustic, textured linen fabric background.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate an image of a textile art piece: the words 'WOVEN DREAMS' are intricately rendered in cross-stitch using a variety of vibrant, colorful yarns, prominently centered on a rustic, textured linen fabric background.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "textile art piece",
+    "the words 'WOVEN DREAMS'",
+    "cross-stitch rendering of the words",
+    "vibrant, colorful yarns",
+    "rustic, textured linen fabric background",
+    "words 'WOVEN DREAMS' prominently centered"
+  ]
+}

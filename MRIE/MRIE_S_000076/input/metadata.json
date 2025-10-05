@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Forms and Authentication",
+  "prompt": "In image 1, add the 'Continue with Google' button from image 2 (in the middle and blue color) directly above the email input field, scaled to match input width. Also, below the 'REGISTER' button, insert the yellow 'Pending' notification box from image 3 (first box in the image) scaled proportionally to match surrounding UI elements. Preserve the layout and background gradient.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Insert the 'Continue with Google' button from image 2 (the blue button with 'G' icon) directly above the 'Email ID' input field, scaled to match its width. Below the 'REGISTER' button in image 1, insert the 'Pending' notification box from image 3 (the first, yellow-orange box), scaled proportionally to match surrounding UI elements. Preserve the overall layout and background gradient of image 1.",
+  "annotator": "parnian",
+  "objects": [
+    "Dark rounded rectangle UI container",
+    "Background gradient",
+    "User profile icon (silhouette)",
+    "'Continue with Google' button (above 'Email ID' input field)",
+    "'Email ID' input field",
+    "'Password' input field",
+    "'LOGIN' button",
+    "'Forgot Password?' text",
+    "'REGISTER' button",
+    "'Pending' notification box (below 'REGISTER' button)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

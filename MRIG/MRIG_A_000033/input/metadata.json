@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Traditional art",
+  "prompt": "A traditional watercolor painting depicting a single floral stem with leaves, similar in composition to image 2. Render the flower and leaves with the striking, textured contrast seen in image 1, utilizing the delicate watercolor technique and soft color palette found in image 2.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a traditional watercolor painting depicting a single floral stem with leaves. The overall composition should mirror image 2, with the floral cluster centered at the top of a vertical stem and accompanying leaves below, set against a clean, plain background. Apply the striking tonal contrast and distinct texture observed in image 1 to the flower and leaves, ensuring defined light and shadow areas. This should be achieved using the delicate, translucent watercolor technique and the soft color palette (e.g., pinks, purples, greens) evident in image 2.",
+  "annotator": "samin",
+  "objects": [
+    "Traditional watercolor painting",
+    "Single floral stem (vertical)",
+    "Leaves (below the floral cluster)",
+    "Floral cluster (centered at the top of the stem)",
+    "Clean, plain background",
+    "Pink colors (in the floral cluster)",
+    "Purple colors (in the floral cluster)",
+    "Green colors (in the stem and leaves)",
+    "Defined light areas (on the floral stem and leaves)",
+    "Defined shadow areas (on the floral stem and leaves)"
+  ],
+  "human_annotation": true
+}

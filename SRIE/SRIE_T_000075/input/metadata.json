@@ -1,0 +1,27 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "Mask the text with the leaf photo so each letter shows a slice of green foliage.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 (the New York poster). Replace the content inside the large 'NEW YORK' text at the top of image 1 with the green foliage from image 2. Ensure each letter distinctively displays a unique portion of the green leaves.",
+  "annotator": "matina",
+  "objects": [
+    "\"NEW YORK\" text filled with green foliage",
+    "\"UNITED STATES OF AMERICA\" text",
+    "Orange sky",
+    "Yellow sun",
+    "Statue of Liberty silhouette",
+    "City skyline silhouette",
+    "Birds silhouette",
+    "Ship silhouette",
+    "Water reflection",
+    "Grungy poster texture"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,22 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Depth maps",
+  "prompt": "Increase the depth contrast between the person and the background.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Increase the perceived depth contrast between the man and the background elements. Use image 2 as a precise mask for the man. The man should appear significantly more distinct and in the foreground, visually separated from the background elements like the pillars, dome structure, and trees, enhancing the overall three-dimensional depth of the scene.",
+  "annotator": "nimajamali",
+  "objects": [
+    "man",
+    "pillars",
+    "dome structure",
+    "trees",
+    "sky",
+    "ground path"
+  ],
+  "human_annotation": true
+}

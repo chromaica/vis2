@@ -1,0 +1,26 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "Add instances of chairs in the reference image around the table in the source image.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 (the source image) by adding multiple dining chairs around the long wooden table. The chairs should visually match the classic wooden Windsor-style chairs, including their varied colors, as shown in image 2 (the reference image).",
+  "annotator": "nimajamali",
+  "objects": [
+    "long wooden table",
+    "multiple dining chairs",
+    "classic wooden Windsor-style chairs",
+    "chairs of varied colors",
+    "vase with flowers",
+    "small bowl on the table",
+    "small cup/glass on the table",
+    "white wall",
+    "floor",
+    "light reflections on the floor/wall"
+  ],
+  "human_annotation": true
+}

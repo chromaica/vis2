@@ -1,0 +1,26 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Recolor the bar chart to a more vibrant color.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Recolor the three vertical bars of the bar chart with vibrant colors. Use image 2 as a style reference for applying distinct colors to each bar and for incorporating a dark outline.",
+  "annotator": "Johnny",
+  "objects": [
+    "Bar chart X-axis with an arrow",
+    "Bar chart Y-axis with an arrow",
+    "First vertical bar with a distinct vibrant color",
+    "Second vertical bar with a distinct vibrant color",
+    "Third vertical bar with a distinct vibrant color",
+    "Dark outline for the first vertical bar",
+    "Dark outline for the second vertical bar",
+    "Dark outline for the third vertical bar",
+    "Dark outline for the X-axis",
+    "Dark outline for the Y-axis"
+  ],
+  "human_annotation": true
+}

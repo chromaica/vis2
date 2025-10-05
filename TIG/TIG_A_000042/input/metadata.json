@@ -1,0 +1,24 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Stylized art",
+  "prompt": "A stylized art depiction of a jazz band playing under whimsical night lights, with exaggerated forms and colors.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a stylized, expressive artwork depicting a vibrant jazz band playing. The musicians and their instruments should exhibit exaggerated, distorted forms and be rendered in a bold, non-naturalistic color palette. The scene is illuminated by fantastical, whimsical night lights, appearing as glowing, amorphous orbs or long, winding light strands, creating a surreal and dreamlike atmosphere.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Jazz band playing",
+    "Musicians with exaggerated, distorted forms",
+    "Musical instruments with exaggerated, distorted forms",
+    "Bold, non-naturalistic color palette",
+    "Fantastical night lights",
+    "Whimsical night lights",
+    "Glowing, amorphous light orbs",
+    "Long, winding light strands",
+    "Surreal atmosphere",
+    "Dreamlike atmosphere"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

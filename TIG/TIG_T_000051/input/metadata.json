@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "A branding graphic displaying 'DEFINE YOUR PATH'. The text is achieved with a unique layered cardstock cutout effect, utilizing deep teal and warm copper hues. This geometric sans-serif text is slightly offset for depth, presented on a clean, soft gradient background transitioning from muted blue to gentle green. The composition is modern and minimalist, emphasizing clarity.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a branding graphic featuring the text 'DEFINE YOUR PATH'. The text should be a geometric sans-serif, created with a distinct layered cardstock cutout effect, utilizing deep teal and warm copper colors. Each layer of the text should be slightly offset to enhance depth. The background is a clean, soft gradient, transitioning from a muted blue to a gentle green. The overall composition is modern, minimalist, and emphasizes clarity.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Text: 'DEFINE YOUR PATH'",
+    "Geometric sans-serif typography",
+    "Layered cardstock cutout effect on text",
+    "Deep teal colored text layers",
+    "Warm copper colored text layers",
+    "Slightly offset text layers",
+    "Gradient background",
+    "Muted blue in background gradient",
+    "Gentle green in background gradient"
+  ]
+}

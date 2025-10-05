@@ -1,0 +1,24 @@
+{
+  "subtopic": "Maps",
+  "prompt": "Create a fantasy treasure map in the style of 'Pirates of the Caribbean,' using the geographical layout of the provided map of the Greek islands. Replace city names with cryptic clues and add sea monsters and compass roses.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "https://www.sailingeurope.com/blog/wp-content/uploads/2025/01/shutterstock_272586932.jpg",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate a fantasy treasure map. The map should be based on the geographical layout of Greece and its islands as shown in image 1. Adopt the visual style of a 'Pirates of the Caribbean' movie prop: an aged parchment texture, hand-drawn lines, and sepia tones. Replace all city names and island group labels from image 1 with short, cryptic, pirate-themed clues. Add fantastical sea monsters in various oceanic areas and at least two ornate compass roses, positioned in prominent sea regions (e.g., west of the Peloponnese and in the eastern Aegean Sea). Ensure any modern map elements, such as the flag or country name in image 1, are removed or artistically integrated into the treasure map aesthetic.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Geographical layout of Greece and its islands",
+    "Aged parchment texture",
+    "Hand-drawn lines (for map features)",
+    "Sepia tones (overall color palette)",
+    "Cryptic, pirate-themed clues (replacing city and island group labels)",
+    "Fantastical sea monsters",
+    "Ornate compass rose (west of the Peloponnese)",
+    "Ornate compass rose (eastern Aegean Sea)",
+    "Flag from image 1 (should not be present)",
+    "Country name \"GREECE\" from image 1 (should not be present)"
+  ]
+}

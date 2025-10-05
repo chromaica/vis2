@@ -1,0 +1,20 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Cultural or Heritage art",
+  "prompt": "Generate a traditional Chinese tower painting using reference image.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a traditional Chinese painting of the multi-tiered pagoda shown in image 1. The artwork should capture the distinct red-orange and blue-grey architectural details, including the prominent curved eaves, intricate wooden structures, and the spire at its peak, rendered with the characteristic brushwork and aesthetic of traditional Chinese art.",
+  "annotator": "Johnny",
+  "objects": [
+    "multi-tiered pagoda",
+    "red-orange architectural details",
+    "blue-grey architectural details",
+    "curved eaves",
+    "intricate wooden structures",
+    "spire"
+  ]
+}

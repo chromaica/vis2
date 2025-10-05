@@ -1,0 +1,25 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "From the given cell image, reconstruct the entire tissue.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic microscopic image depicting a biological tissue. This tissue should be composed of multiple instances of the single, elongated, ciliated cell shown in image 1, replicated and tightly integrated to form a cohesive, larger structure. Each cell should maintain the translucent appearance and internal greenish-yellow granular structures observed in image 1. The overall image should preserve the brightfield microscopic aesthetic and the neutral background.",
+  "annotator": "samin",
+  "objects": [
+    "biological tissue",
+    "multiple elongated cells",
+    "cells resembling the one in image 1",
+    "cilia on cells",
+    "translucent cell appearance",
+    "greenish-yellow granular structures within cells",
+    "cells tightly integrated",
+    "cohesive larger structure",
+    "brightfield microscopic aesthetic",
+    "neutral background"
+  ],
+  "human_annotation": true
+}

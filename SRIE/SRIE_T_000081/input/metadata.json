@@ -1,0 +1,24 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "Overlay the watercolor wash behind the headline text at 50% opacity and clip it to the letter shapes.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 (the black invitation card). Apply a watercolor wash, inspired by the graphical style and color palette of image 2 (the nature poster), behind the headline text 'GALA'. The watercolor wash must be clipped to the letter shapes of 'GALA' and have an opacity of 50%.",
+  "annotator": "matina",
+  "objects": [
+    "Black invitation card background",
+    "Silver brush strokes (top)",
+    "Silver brush strokes (bottom)",
+    "Silver text: \"please join us for the\"",
+    "Silver text: \"PACIFIC COAST UNIVERSITY LAW SCHOOL\"",
+    "Silver text: \"annual charity\"",
+    "Silver text: \"FRIDAY 7PM. OCTOBER 20TH, 20XX PACIFIC COAST HOTEL & RESORT 1310 SEA VIEW ROAD LONG BEACH, CALIFORNIA RSVP BY SEPTEMBER 3RD, 20XX formal attire\"",
+    "Headline text \"GALA\" with a 50% opacity watercolor wash fill, having colors and graphical style inspired by the nature poster (Image 2)"
+  ],
+  "human_annotation": true
+}

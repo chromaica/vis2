@@ -1,0 +1,30 @@
+{
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Create a single panel or section for a data visualization guide, featuring a pie chart (concept from image 1). Render it in the clean, minimalist, and instructional infographic style evident in image 2.",
+  "cond_images": [
+    "1.png",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "Information Charts Diagrams Graphs",
+  "searchQueryGeneratedTimestamp": 1752243584707,
+  "promptGeneratedTimestamp": 1752243667969,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "I",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a single infographic panel suitable for a data visualization guide. The central graphic of this panel should be a pie chart, conceptually based on the data and structure presented in image 1. This pie chart must illustrate 'Employee Count by Department' and include six clearly labeled slices for Marketing (15.2%), Sales (18.2%), Finance (12.1%), Human Resources (9.1%), IT (24.2%), and Operations (21.2%), with both department names and percentages displayed on or next to each slice. Include a concise legend, mirroring the content from image 1, to identify each department by color. The entire panel, encompassing the pie chart, text, and layout, must be rendered in the clean, minimalist, and instructional infographic style exemplified by image 2, featuring professional sans-serif typography, generous whitespace, and a subdued, limited color palette to ensure clarity and an uncluttered visual presentation.",
+  "objects": [
+    "Infographic panel",
+    "Pie chart",
+    "Title \"Employee Count by Department\"",
+    "Six distinct color-coded pie chart slices",
+    "Department names (Marketing, Sales, Finance, Human Resources, IT, Operations) on or next to pie chart slices",
+    "Percentages (15.2%, 18.2%, 12.1%, 9.1%, 24.2%, 21.2%) on or next to pie chart slices",
+    "Concise legend",
+    "Legend entries (department names paired with color swatches)",
+    "Professional sans-serif typography",
+    "Generous whitespace"
+  ],
+  "human_annotation": true
+}

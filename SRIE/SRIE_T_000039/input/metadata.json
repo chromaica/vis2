@@ -1,0 +1,20 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Give the text an embossed metal effect matching this steel texture.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit `image 1` by applying an embossed metal effect to the white text 'I AM A MEME'. The metallic texture, reflectivity, and three-dimensional appearance of the text should match the brushed stainless steel letter 'S' seen in `image 2`.",
+  "annotator": "matina",
+  "objects": [
+    "Text \"I AM A MEME\" with an embossed, brushed stainless steel effect",
+    "Crying woman meme image",
+    "Man whispering to woman meme image",
+    "Little girl meme image",
+    "Black background"
+  ]
+}

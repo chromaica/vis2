@@ -1,0 +1,24 @@
+{
+  "subtopic": "3D renders",
+  "prompt": "A 3D render of a person, taking the pose and physique cues from image 1, wearing a detailed model of the blue t-shirt from image 2. Rendered with dramatic lighting against a dark background.",
+  "cond_images": [
+    "1.jpeg",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748424760719,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a 3D render of a male figure. The figure's pose and lean physique should precisely match the model in image 1. He must be wearing a meticulously detailed 3D model of the short-sleeve, crew-neck, royal blue t-shirt shown in image 2. The entire scene should be rendered with high-contrast dramatic lighting, reminiscent of image 1, against a plain dark grey background.",
+  "annotator": "winston",
+  "objects": [
+    "Male figure",
+    "Short-sleeve, crew-neck, royal blue t-shirt",
+    "Pose of the male figure matching image 1",
+    "Lean physique of the male figure",
+    "High-contrast dramatic lighting",
+    "Plain dark grey background",
+    "3D render style"
+  ]
+}

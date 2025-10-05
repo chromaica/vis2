@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "Create a digital painting depicting the dragon figure from image 1 in dramatic flight over a castle architecture inspired by image 2, rendered in a dynamic fantasy style.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a new digital painting depicting a winged dragon, its general form and silhouette inspired by image 1, in dramatic flight. This dragon should be prominently positioned soaring over a formidable castle, the architecture of which derives its unique, blocky, and stepped silhouette from image 2. Render the scene in a dynamic fantasy style, emphasizing action and grandeur.",
+  "annotator": "samin",
+  "objects": [
+    "Winged dragon",
+    "Dragon with silhouette inspired by image 1",
+    "Dragon in dramatic flight",
+    "Formidable castle",
+    "Castle with blocky, stepped silhouette inspired by image 2",
+    "Dragon prominently positioned soaring over the castle",
+    "Digital painting style",
+    "Dynamic fantasy scene",
+    "Elements emphasizing action",
+    "Elements emphasizing grandeur"
+  ],
+  "human_annotation": true
+}

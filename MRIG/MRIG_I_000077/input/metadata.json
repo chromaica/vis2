@@ -1,0 +1,27 @@
+{
+  "task": "MRIG",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "Generate a world map showing the source regions of each food. Place the images near their production zones with markers.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "annotator": "matina",
+  "prompt_refined": "Generate an informative world map illustrating food source regions. Clearly place image 1 (cheese wedges) with a marker over Europe. Position image 2 (chocolate bar and pieces) with a marker over a major cacao-producing region like West Africa or South America. Place image 3 (olive oil bottle) with a marker over Spain, directly reflecting its origin. Each food image should be visually linked to its geographical production zone on the map, presented in a clean information graphic style.",
+  "objects": [
+    "World map",
+    "Cheese wedges",
+    "Marker for cheese wedges over Europe",
+    "Chocolate bar and pieces",
+    "Marker for chocolate over a major cacao-producing region (e.g., West Africa or South America)",
+    "Olive oil bottle",
+    "Marker for olive oil over Spain",
+    "Visual links connecting each food image/marker to its respective geographical production zone",
+    "Labels for continents and specific regions (Europe, Spain, West Africa/South America)",
+    "Title for the information graphic (e.g., \"Food Source Regions World Map\")"
+  ],
+  "human_annotation": true
+}

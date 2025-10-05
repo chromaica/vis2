@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "I",
+  "subtopic": "Visual instructions and manuals",
+  "prompt": "Generate a visual instruction showing how to replace a wristwatch battery. Use Image 1 to show how to handle the battery and Image 2 to show where it fits inside the watch.",
+  "cond_images": [
+    "1.png",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "annotator": "matina",
+  "prompt_refined": "Generate a detailed visual instruction graphic demonstrating how to replace a wristwatch battery. Utilize visual elements from Image 2 to clearly depict the proper method of handling a small, round watch battery, specifically showing the careful grip with tweezers. Integrate details from Image 1 to precisely illustrate the battery's correct placement within the open wristwatch mechanism, highlighting its specific compartment inside the watch movement. The overall composition should be clean, informative, and suitable for a technical manual, focusing on clarity for each step.",
+  "objects": [
+    "Open wristwatch case (with back removed)",
+    "Internal watch movement / mechanism",
+    "Specific battery compartment (within the watch movement)",
+    "Small, round watch battery",
+    "Tweezers",
+    "Hand (holding the tweezers)",
+    "Watch battery held by tweezers, positioned for insertion into its compartment",
+    "Detailed components of the watch movement (screws, plates)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

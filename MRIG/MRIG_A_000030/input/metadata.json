@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Cultural or Heritage art",
+  "prompt": "Create a new cultural heritage rug design. Use the rich, deep blue central field and outer border layout from image 1. Integrate the intricate central medallion and detailed floral/paisley motifs found in image 2 into this layout, using a palette of creams, reds, and golds.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a new cultural heritage rug design. The rug should feature a rich, deep blue central field and incorporate the distinctive outer border design from image 1. Integrate the intricate central medallion from image 2 into the exact center of this blue field. Surround the central medallion with the detailed floral and paisley motifs from image 2, extending them across the rest of the blue central field. Render all integrated elements (medallion and motifs) using a color palette of creams, reds, and golds.",
+  "annotator": "samin",
+  "objects": [
+    "Cultural heritage rug",
+    "Rich, deep blue central field",
+    "Distinctive outer border design from image 1",
+    "Intricate central medallion from image 2, located in the exact center of the blue field",
+    "Detailed floral motifs from image 2, surrounding the central medallion and extending across the blue field",
+    "Detailed paisley motifs from image 2, surrounding the central medallion and extending across the blue field",
+    "Cream color palette for medallion and motifs",
+    "Red color palette for medallion and motifs",
+    "Gold color palette for medallion and motifs"
+  ],
+  "human_annotation": true
+}

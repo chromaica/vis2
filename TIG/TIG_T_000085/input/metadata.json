@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Recreate the 'Is this a pigeon?' meme. The exact text 'Is this a pigeon?' must be in the bottom right corner, using a bold, white sans-serif font with a thick black outline, typical of classic internet memes. The background should be a slightly blurred, stylized anime screenshot showing a character pointing towards a butterfly in a field, with bright, faded lighting to mimic the iconic layout.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate an image recreating the 'Is this a pigeon?' meme. The background should be a slightly blurred, stylized anime screenshot depicting a character pointing towards a butterfly in a vibrant field, illuminated by bright, faded lighting, mimicking the iconic layout. In the bottom right corner, overlay the exact text 'Is this a pigeon?' using a bold, white sans-serif font with a thick black outline, characteristic of classic internet memes.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Slightly blurred, stylized anime background",
+    "Anime character",
+    "Character pointing gesture",
+    "Butterfly",
+    "Vibrant field",
+    "Bright, faded lighting",
+    "Text: \"Is this a pigeon?\"",
+    "Text in bottom right corner",
+    "Bold white sans-serif font for text",
+    "Thick black outline for text"
+  ]
+}

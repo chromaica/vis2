@@ -1,0 +1,26 @@
+{
+  "subtopic": "Object detection visuals",
+  "prompt": "Edit image 1 to display object detection results on the raised hands. Style the detection overlays with the glowing lens aesthetic from image 2, and incorporate the reflective distortion effect from image 3 into the visual representation.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748456404879,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1 to display object detection results on the raised hands. Style the detection overlays with the glowing lens aesthetic from image 2, characterized by a prominent, luminous circular glow or flare around each detected hand. Additionally, incorporate the reflective distortion effect from image 3 into the visual representation of these overlays, making them appear to reflect and distort their immediate surroundings, similar to the water droplets.",
+  "annotator": "winston",
+  "objects": [
+    "raised hands",
+    "people/audience",
+    "sky",
+    "object detection overlays on raised hands",
+    "luminous circular glow around object detection overlays",
+    "reflective distortion on object detection overlays"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

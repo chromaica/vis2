@@ -1,0 +1,22 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "Apply the watercolor style from the reference to the cat.",
+  "cond_images": [
+    "1.png",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Render the top-left sitting cat silhouette in image 1 in the watercolor painting style of image 2.",
+  "annotator": "Johnny",
+  "objects": [
+    "top-left sitting cat in watercolor painting style",
+    "top-right cat silhouette",
+    "bottom-left cat silhouette",
+    "bottom-right cat silhouette",
+    "white background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,26 @@
+{
+  "subtopic": "Depth maps",
+  "prompt": "Generate a detailed image of a futuristic space station common room. Use the provided reference image explicitly as a depth map to guide the layout and spatial arrangement of furniture and architectural elements.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://i.ytimg.com/vi/qhgiS2MM2ls/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLA5nEq_qgUxPyTrpFwJRtbc75J5xQ",
+  "promptGeneratedTimestamp": 1748769612700,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a detailed image of a futuristic space station common room. The scene should include a seating area on the far left with a sofa and a small round table, where a single person is depicted using a laptop. Towards the center-right, a prominent counter or bar area is present, with three figures seated on bar stools. The ceiling features linear lighting fixtures and suspended circular elements. Explicitly use image 1 as a depth map to guide the precise layout and spatial arrangement of all furniture, architectural components, and figures within the room.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Futuristic space station common room",
+    "Seating area on the far left",
+    "Sofa on the far left",
+    "Small round table on the far left",
+    "Single person using a laptop",
+    "Prominent counter or bar area towards the center-right",
+    "Three figures seated on bar stools",
+    "Bar stools",
+    "Linear lighting fixtures on the ceiling",
+    "Suspended circular elements on the ceiling"
+  ]
+}

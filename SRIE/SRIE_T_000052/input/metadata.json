@@ -1,0 +1,21 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Map the thermal colors onto the text, blending cold (blue) where letters start to hot (red) at the ends",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit Image 1. Apply a thermal color gradient to each letter of the 'Red Bull' text. Use Image 2 as a reference for the thermal color palette, where cold is blue and hot is red. For each individual letter, transition the color from cold blue at its left-most point to hot red at its right-most point.",
+  "annotator": "matina",
+  "objects": [
+    "Blue and gray background",
+    "Two red bull figures (red)",
+    "Yellow circle",
+    "\"Red Bull\" text, with each letter displaying a gradient from blue on its left to red on its right"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

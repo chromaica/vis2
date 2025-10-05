@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "Convert the 'S' on his chest into the font of the second image. And make superman flushes onto the beach in the third image",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "1.png source: DC Youtube channel - Superman (2025) trailer",
+  "prompt_refined": "Edit image 1. Replace the red and yellow 'S' emblem on Superman's chest with an 'S' character rendered in the exact font style displayed in image 2. Additionally, transform the entire scene so that Superman, in his current unconscious state, is depicted washed ashore on the sandy beach and blue ocean waves from image 3, appearing to have just arrived at the water's edge.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "unconscious Superman",
+    "Superman's blue suit",
+    "Superman's red cape",
+    "Superman's belt",
+    "'S' emblem on Superman's chest (rendered in the font style of image 2)",
+    "sandy beach",
+    "blue ocean waves",
+    "water's edge",
+    "red and yellow 'S' emblem (should not be present)",
+    "robots and futuristic interior (should not be present)"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "subtopic": "Urban & Street Photography",
+  "prompt": "Edit image 1 by replacing its overcast sky with the dramatic sunset sky and warm, directional lighting from image 3, relighting the entire scene realistically. Furthermore, integrate the earthy texture and nuanced color palette (cool shadows, warm highlights) from image 2 into the materials and surfaces of the buildings and ground in image 1, blending urban forms with a natural, rugged feel under dramatic light.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748571840012,
+  "promptLengthUsed": "long",
+  "task": "MRIE",
+  "topic": "P",
+  "prompt_refined": "Edit image 1. Replace the existing overcast sky in the background with the dramatic sunset sky and warm, directional lighting from image 3, realistically relighting the entire scene, including the buildings, statue, and street elements. Additionally, apply the earthy texture and nuanced color palette from image 2 (featuring cool shadows and warm highlights) to the materials and surfaces of the buildings and ground in image 1, blending the urban forms with a natural, rugged feel under the dramatic sunset light.",
+  "annotator": "boris",
+  "objects": [
+    "Buildings",
+    "Equestrian statue",
+    "Street",
+    "Parked cars",
+    "Fences",
+    "Dramatic sunset sky",
+    "Warm, directional lighting effects",
+    "Earthy texture on surfaces",
+    "Nuanced color palette (cool shadows, warm highlights)",
+    "Overcast sky (should not be present)"
+  ]
+}

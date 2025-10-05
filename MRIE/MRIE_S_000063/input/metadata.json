@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": "Edit image 1 by changing the right-hand red background color behind the shoe to the purple tone from image 2, keeping the lighting and product shadow intact. Below the \"ADD TO CART\" button, insert the full footer section from image 3, scaling it to fit the full width of the webpage. The newly inserted footer should retain all original columns, links, and icons as in image 3. Ensure the added section matches the font and layout consistency of the original site.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the solid red background area on the right side, behind the shoe, with the purple color from image 2. Maintain the original lighting and the product's shadow. Directly below the \"ADD TO CART\" button in image 1, integrate the complete footer section from image 3. Scale this new footer to span the full width of the webpage, ensuring all its original columns, links, and icons are preserved as in image 3. The inserted footer should visually align with the style of image 1, matching its font and overall layout consistency.",
+  "annotator": "parnian",
+  "objects": [
+    "Air Jordan 5 Retro shoe",
+    "Webpage header (Nike logo, navigation links, search/bag/user profile icons)",
+    "Product details section (NIKE text, product name, star rating, description, SIZE dropdown, ADD TO CART button, price $190)",
+    "Product's shadow",
+    "Purple background area on the right side (behind the shoe)",
+    "Solid red background area on the right side (behind the shoe) (should not be present)",
+    "Complete footer section from image 3, positioned directly below the \"ADD TO CART\" button, spanning full width, including all original columns (Your Logo, Information, Helpful Links, Our Services, Contact Us), links, and social media icons",
+    "White background area on the left side of the webpage",
+    "Chat icon (bottom left)",
+    "Vertical \"Air Jordan 5 Retro\" and \"Stores\" text on the right side"
+  ]
+}

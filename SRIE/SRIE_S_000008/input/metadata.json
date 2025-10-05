@@ -1,0 +1,27 @@
+{
+  "subtopic": "Software interfaces",
+  "prompt": "Edit image 1: Incorporate the action \"Convert from screenshot\" from image 2's menu by adding a new button or option in the sidebar or near the upload section, using a similar camera icon.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751004548601,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit image 1. Add a new interactive element, either a button or an option, to incorporate the 'Convert from screenshot' action. This new element must display the text 'Convert from screenshot' and feature a camera icon. Both the text and the icon should visually replicate the style and appearance of the 'Convert from screenshot' entry found in the menu of image 2. Position this new element within image 1's left sidebar, specifically below the 'Upload files' entry, or integrate it into the right-hand panel, adjacent to the 'Add new files' section.",
+  "annotator": "ishengfang",
+  "objects": [
+    "The main UI layout including the dark blue left sidebar, light grey main content area, and light blue right panel.",
+    "User profile icon and \"My cloud\" entry in the top left sidebar.",
+    "Search bar at the top of the main content area.",
+    "\"Categories\" section with four colored folder icons (Pictures, Documents, Videos, Audio).",
+    "\"Files\" section with five file type icons (Work, Personal, School, Archive, + button).",
+    "\"Recent files\" list displaying multiple file entries (e.g., IMG_100000, Startup pitch).",
+    "The entire right-hand panel, including \"Add new files\", \"Your storage\" graph, and \"Your shared folders\" list.",
+    "Existing navigation entries in the left sidebar such as \"Shared files\", \"Favorites\", \"Settings\", and \"Log out\".",
+    "\"Upload files\" entry in the left sidebar.",
+    "New interactive element in the left sidebar, placed directly below \"Upload files\", featuring the text \"Convert from screenshot\" and a camera icon, visually styled to replicate the highlighted \"Convert from screenshot\" entry in Image 2."
+  ]
+}

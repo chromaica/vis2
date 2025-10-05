@@ -1,0 +1,24 @@
+{
+  "subtopic": "UI mockups",
+  "prompt": "Using the provided UI wireframe for a mobile app, generate a photorealistic image of a futuristic control panel for a mech suit, with buttons, sliders, and displays in the same positions as the wireframe elements.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://miro.medium.com/v2/resize:fit:936/0*o-WHy0ghvqDLPiZF.png",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate a photorealistic image of a futuristic mech suit control panel. Adhere to the layout, relative size, and precise positioning of elements from image 1. Transform the elements as follows:\n- The top status bar (time, signal, battery) should be a system status holographic display.\n- The 'Address for delivery' and 'Search' input fields should become interactive data screens or command input panels.\n- The three circular 'Food category' elements should render as circular glowing buttons or holographic dials.\n- The 'Recommended' and 'Popular' rectangular buttons should transform into tactile toggle switches or function selectors.\n- The three vertically stacked large rectangular placeholders (with 'X' and wavy text) should become detailed, illuminated information displays showing complex data or schematics.\n- The bottom 'Menu' button should be a prominent, illuminated master control button.\nEnsure the overall design is sleek, high-tech, and functional, utilizing advanced materials and futuristic interface aesthetics.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Photorealistic futuristic mech suit control panel",
+    "System status holographic display",
+    "Interactive data screen/command input panel (for delivery address)",
+    "Interactive data screen/command input panel (for search)",
+    "Three circular glowing buttons or holographic dials",
+    "Tactile toggle switch or function selector (Recommended)",
+    "Tactile toggle switch or function selector (Popular)",
+    "Three detailed, illuminated information displays showing complex data or schematics",
+    "Prominent, illuminated master control button"
+  ],
+  "human_annotation": true
+}

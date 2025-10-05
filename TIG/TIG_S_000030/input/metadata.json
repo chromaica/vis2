@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "A receipt from a Malaysian mamak stall called 'Restoran Roti Canai Kayu' with both Malay and Chinese text. The header shows the restaurant name in stylized fonts with the address 'No. 45, Jalan Petaling, Kuala Lumpur' and phone number. Items listed include: Roti Canai (2pcs) - RM4.00, Teh Tarik - RM2.50, Nasi Lemak - RM6.50, Milo Ais - RM3.00. The subtotal shows RM16.00, with 6% Service Tax (ST) - RM0.96 and 10% Service Charge - RM1.60, bringing the total to RM18.56. The receipt is printed on slightly pinkish thermal paper, has curry sauce stains in the corner, and is photographed on a marble-patterned formica table typical of Malaysian kopitiams, with a glass of teh tarik and banana leaf visible in the frame. The receipt includes 'TERIMA KASIH'",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a photograph of a Malaysian mamak stall receipt from 'Restoran Roti Canai Kayu'. The receipt is printed on slightly pinkish thermal paper and has curry sauce stains in one corner. The header features the restaurant name in stylized fonts, along with the address 'No. 45, Jalan Petaling, Kuala Lumpur' and a phone number. The receipt includes both Malay and Chinese text.\n\nItemized details visible on the receipt are:\n- Roti Canai (2pcs) - RM4.00\n- Teh Tarik - RM2.50\n- Nasi Lemak - RM6.50\n- Milo Ais - RM3.00\n\nBelow the items, the financial summary shows:\n- Subtotal: RM16.00\n- 6% Service Tax (ST) - RM0.96\n- 10% Service Charge - RM1.60\n- Total: RM18.56\n\nThe receipt ends with 'TERIMA KASIH'.\n\nThe entire receipt is photographed on a marble-patterned formica table, characteristic of Malaysian kopitiams. A glass of teh tarik and a banana leaf are prominently visible in the frame, positioned near the receipt.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Malaysian mamak stall receipt",
+    "Slightly pinkish thermal paper receipt",
+    "Curry sauce stains on receipt",
+    "\"Restoran Roti Canai Kayu\" in stylized font on receipt header",
+    "Receipt header with address, phone number, and both Malay & Chinese text",
+    "Receipt body with itemized list (Roti Canai, Teh Tarik, Nasi Lemak, Milo Ais) and prices",
+    "Receipt financial summary (Subtotal, Service Tax, Service Charge, Total)",
+    "\"TERIMA KASIH\" text on receipt",
+    "Marble-patterned formica table",
+    "Glass of teh tarik and a banana leaf, positioned near the receipt"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "subtopic": "3D renders",
+  "prompt": "Generate a detailed 3D render of a modern commercial airplane, using the reference image for the side profile view and clean livery style. Computer graphics render.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.lufthansa.com%2Ftw%2Fhk%2F359&psig=AOvVaw1Z4WmYp4JV0A1y9g5K7QMm&ust=1748771653385000&source=images&cd=vfe&opi=89978449&ved=0CBMQjhxqFwoTCLif3Zu4zY0DFQAAAAAdAAAAABAE",
+  "searchQueryGenerated": "High quality 3D render",
+  "searchQueryGeneratedTimestamp": 1748685241632,
+  "promptGeneratedTimestamp": 1748685271260,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a detailed 3D computer graphics render of a modern commercial airplane, specifically an Airbus A350, in a direct side profile view precisely matching image 1. Replicate the clean livery style from image 1, featuring a white fuselage, dark blue tail, and the Lufthansa crane logo. The render should be against a pure white background.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Airbus A350 airplane",
+    "Direct side profile view",
+    "White fuselage",
+    "Dark blue tail",
+    "Lufthansa crane logo",
+    "Lufthansa text on fuselage",
+    "Aircraft engines",
+    "Wings with winglets",
+    "Passenger windows",
+    "Pure white background"
+  ],
+  "human_annotation": true
+}

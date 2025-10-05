@@ -1,0 +1,22 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "Convert autumn forest to winter snowscape.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 2, an information graphic of a forest, to depict a winter snowscape. Use image 1 as a visual guide for the snow and winter tree aesthetics. Transform the brown ground in image 2 into snow-covered terrain. Adapt the green trees to a winter state, such as bare branches or snow-laden evergreens, maintaining image 2's simplified, iconographic style.",
+  "annotator": "Johnny",
+  "objects": [
+    "Snow-covered ground",
+    "Winterized foreground tree (simplified, iconic style)",
+    "Winterized background tree (simplified, iconic style)",
+    "Simplified sun",
+    "Dark sky background",
+    "Small light blue sky elements",
+    "Snow-covered mounds (simplified, iconic style)"
+  ]
+}

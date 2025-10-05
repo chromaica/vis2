@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "Use the Google logo depicted in the first reference image to influence the structure of the provided second reference astronomical image of a nebula. Reinterpret the logo as a repeating, tessellated pattern woven into the nebula\u2019s gaseous clouds, with the \u2018G\u2019 shapes subtly defining the nebula\u2019s filaments. Enhance the nebula\u2019s glow to emphasize the \u2018G\u2019 pattern, creating a mystical, geometric celestial scene.",
+  "cond_images": [
+    "1.png",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a new photorealistic image of a nebula by reinterpreting the structure of the nebula from image 2. Incorporate the 'G' logo from image 1 as a repeating, tessellated pattern that forms the gaseous clouds and glowing filaments of the nebula. The individual 'G' shapes should subtly define the nebula's dense regions and intricate structures. Enhance the overall luminosity and internal glow of the nebula to emphasize this geometric 'G' pattern throughout, creating a mystical celestial landscape.",
+  "objects": [
+    "Photorealistic nebula",
+    "Nebula structure reinterpreted from reference image 2",
+    "'G' logo (from reference image 1)",
+    "Repeating, tessellated pattern of 'G' logos",
+    "Gaseous clouds formed by 'G' logo pattern",
+    "Glowing filaments formed by 'G' logo pattern",
+    "Dense regions of the nebula defined by 'G' shapes",
+    "Intricate structures of the nebula defined by 'G' shapes",
+    "Enhanced luminosity of the nebula",
+    "Internal glow of the nebula"
+  ],
+  "human_annotation": true
+}

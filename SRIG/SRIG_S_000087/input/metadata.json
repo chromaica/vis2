@@ -1,0 +1,26 @@
+{
+  "subtopic": "Software interfaces",
+  "prompt": "Convert the UI of the provided financial app into a 'kid-friendly' version for teaching money management, using playful monsters, bright colors, and piggy bank metaphors.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "https://pageflows.com/media/screenshots/videos/Viewing_graphs_on_Robinhood.mp48932.jpg",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a kid-friendly user interface for a money management app, using image 1 as a structural and layout reference. The UI should be completely transformed with bright, vibrant colors, playful cartoon monsters, and interactive piggy bank metaphors, making it engaging and educational for children.\n\nSpecifically:\n- Adapt the overall layout and all UI components from image 1.\n- Replace the current app name 'Airbnb' and ticker 'ABNB' at the top with a child-appropriate financial title, such as 'My Monster Savings' or 'KidCoin Adventure'.\n- Transform the stock price graph in the central area into a whimsical 'money growth path' or 'treasure journey', potentially featuring a friendly monster character animating the line or collecting coins along it.\n- Redesign numerical values like '$126.50' and '$8.11 (6.85%) Past week' to visually represent collections of colorful coins or gems, possibly accumulating within a cute piggy bank icon.\n- Make the 'Buy' button at the bottom a prominent, cheerfully colored interactive element, perhaps shaped like a piggy bank or adorned with a playful monster.\n- Convert all existing icons (e.g., bell icon, checkmark, expand icon, navigation bar icons at the bottom, settings gear) into simplified, cartoon-style versions that incorporate monster faces, coin stacks, or piggy bank imagery.\n- Rename 'Today's Volume' to a more kid-friendly concept like 'Daily Treasures Found' or 'Coins Collected Today'.\n- The overall aesthetic should be joyful, easy to understand, and clearly convey money management concepts through fun visuals.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Child-appropriate financial app title (e.g., 'My Monster Savings')",
+    "Whimsical 'money growth path' or 'treasure journey' graphic",
+    "Friendly monster character on the money growth path",
+    "Numerical values visually represented as colorful coins or gems",
+    "Cute piggy bank icon (for coin/gem accumulation)",
+    "Prominent, cheerfully colored 'Buy' button, shaped like a piggy bank or adorned with a playful monster",
+    "Cartoon-style bell icon with monster face or coin stack",
+    "Cartoon-style navigation bar icons at the bottom (e.g., monster faces, coin stacks, piggy bank imagery)",
+    "Text 'Daily Treasures Found' or 'Coins Collected Today'",
+    "Cartoon-style back arrow icon (top left)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

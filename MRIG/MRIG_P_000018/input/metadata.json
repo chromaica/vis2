@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "A futuristic robot reimagined from a dragon, inspired by the sleek, metallic design of a SpaceX Falcon 9 rocket referenced in the second Image. Using the first lizard image as reference. The futuristic dragon robot scaled body is forged from heat-resistant titanium with glowing red plasma conduits running along its spine. Its wings are retractable, rocket-inspired thruster panels, and its tail ends in a plasma-charged whip. The dragon\u2019s maw emits controlled energy bursts. ",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic image of a futuristic robot dragon. Its body structure and pose should be inspired by the lizard depicted in image 1, featuring a scaled, heat-resistant titanium exterior. The design should incorporate the sleek, metallic aesthetic of the SpaceX Falcon 9 rocket from image 2, particularly for its body and thruster elements. Bright red plasma conduits run visibly along the robot dragon's spine. Its wings are retractable panels designed as powerful rocket thrusters. The tail concludes with a plasma-charged whip, and its maw is depicted emitting controlled energy bursts.",
+  "objects": [
+    "photorealistic image",
+    "futuristic robot dragon",
+    "lizard-like body structure and pose",
+    "scaled, heat-resistant titanium exterior",
+    "sleek, metallic body and thruster elements",
+    "bright red plasma conduits along the robot dragon's spine",
+    "retractable panel wings designed as powerful rocket thrusters",
+    "tail concluding with a plasma-charged whip",
+    "maw emitting controlled energy bursts"
+  ],
+  "human_annotation": true
+}

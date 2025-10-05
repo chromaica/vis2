@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "Typographic exploration: 'Momentum' depicted as shattered geometric text, with an electric blue fractured effect, set within a dark, abstract space.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "The word 'Momentum' rendered as shattered geometric text, centrally positioned. Each shard of text should exhibit an electric blue fractured effect, illuminating a dark, abstract background.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "The word 'Momentum'",
+    "Shattered geometric text",
+    "Text shards",
+    "Electric blue fractured effect on text shards",
+    "Illumination emanating from text shards",
+    "Centrally positioned text",
+    "Dark background",
+    "Abstract background"
+  ],
+  "human_annotation": true
+}

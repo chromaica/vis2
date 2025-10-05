@@ -1,0 +1,31 @@
+{
+  "subtopic": "Websites",
+  "prompt": "Edit image 1: Apply the distinct vibrant purple background color from the header in image 2 to the header area and the 'View Details' button in image 1.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "clean website screenshot",
+  "searchQueryGeneratedTimestamp": 1751004139964,
+  "promptGeneratedTimestamp": 1751004176855,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit image 1: Apply the distinct vibrant purple background color from the top header section of image 2 to the top header area of image 1 (which contains the logo and navigation menu) and to the 'View Details' button (the red rectangular button located in the center-right of image 1).",
+  "annotator": "ishengfang",
+  "objects": [
+    "Browser window with traffic light buttons",
+    "iScripts.com logo",
+    "Navigation menu with search icon",
+    "Woman looking at phone",
+    "\"iScripts MultiCart\" heading",
+    "\"Multi-Vendor Shopping Cart\" sub-heading",
+    "Descriptive text block",
+    "\"View Details\" button with vibrant purple background",
+    "Four sections with icons and text (e.g., computer icon with \"15 Years in Business\")",
+    "Yellow outer background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

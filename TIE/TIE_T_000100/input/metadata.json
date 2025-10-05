@@ -1,0 +1,20 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Add a dripping-paint effect to each letter of \u2018Lyft\u2019, with fresh droplets falling and splashing onto the wall.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 by applying a wet, dripping paint effect to each white letter of the 'Lyft' sign. The white paint should visibly drip downwards, forming fresh droplets that are actively falling and splashing onto the red brick wall immediately below the sign.",
+  "annotator": "matina",
+  "objects": [
+    "White 'Lyft' letters with wet, dripping paint",
+    "Pink backing of the sign",
+    "Red brick wall",
+    "Wet white paint visibly dripping downwards from the letters",
+    "Actively falling white paint droplets",
+    "Splashing white paint on the red brick wall immediately below the sign"
+  ]
+}

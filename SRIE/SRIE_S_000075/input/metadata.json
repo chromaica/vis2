@@ -1,0 +1,27 @@
+{
+  "subtopic": "Games",
+  "prompt": "Edit image 1: Overlay a pixelated game Heads-Up Display (HUD) at the bottom of the screen. Design the HUD using the layout and information elements (like health, ammo, armor) from image 2's classic style.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1750834475357,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit image 1. Overlay a pixelated game Heads-Up Display (HUD) across the entire bottom edge of the screen. Design this HUD to mimic the classic pixel-art style, layout, and information elements (such as health percentage, ammo count, armor percentage, and a central character portrait) found in image 2.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Background scene from Image 1 (Geralt, horse, landscape, sky)",
+    "In-game camera menu from Image 1",
+    "Pixelated game Heads-Up Display (HUD)",
+    "HUD positioned across the entire bottom edge of the screen",
+    "HUD with pixel-art style",
+    "HUD with classic layout (referencing image 2)",
+    "Health percentage element on HUD",
+    "Ammo count element on HUD",
+    "Armor percentage element on HUD",
+    "Central character portrait on HUD"
+  ]
+}

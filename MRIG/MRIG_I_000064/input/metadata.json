@@ -1,0 +1,21 @@
+{
+  "task": "MRIG",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "Generate a city tourism map infographic. Use Image 1 to mark the landmark, Image 2 to indicate local food spots, and Image 3 to highlight walking routes.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "annotator": "matina",
+  "prompt_refined": "Generate a visual city tourism map infographic. This infographic should clearly mark a central or prominent landmark using an icon styled after the archway in Image 1. Include multiple icons similar to the grilled steak on a plate in Image 2, scattered across the map to indicate various local food spots. Designate specific walking routes on the map, highlighted by repeated pedestrian icons resembling the figure on a crosswalk in Image 3, placed along these paths.",
+  "objects": [
+    "City tourism map infographic",
+    "Central or prominent landmark icon styled after the archway in Image 1",
+    "Multiple food spot icons scattered across the map, similar to the grilled steak on a plate in Image 2",
+    "Specific walking routes on the map",
+    "Repeated pedestrian icons placed along walking routes, resembling the figure on a crosswalk in Image 3"
+  ]
+}

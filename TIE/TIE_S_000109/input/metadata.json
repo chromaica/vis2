@@ -1,0 +1,18 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "QR codes",
+  "prompt": "Overlay a digital glitch effect on the QR code, giving it a modern, tech-inspired appearance while keeping it functional.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Apply a digital glitch effect to the black and white QR code displayed prominently on the red circular sign. The effect should give the QR code a modern, tech-inspired aesthetic, while preserving its functionality and ensuring it remains scannable.",
+  "annotator": "cwhsu",
+  "objects": [
+    "red circular sign",
+    "\"FOLLOW US ON SOCIAL MEDIA\" text on the sign",
+    "black and white QR code with a digital glitch effect on the sign",
+    "concrete ground"
+  ]
+}

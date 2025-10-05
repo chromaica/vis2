@@ -1,0 +1,19 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Position a 20% opacity sole behind \u2018Boldly,\u2019 centered and scaled to match the word width.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 (text 'STEP BOLDLY'). Add image 2 (a shoe sole) behind the word 'BOLDLY'. Center the sole horizontally beneath 'BOLDLY' and scale its width to match the width of the word. Set the opacity of the sole to 20%.",
+  "annotator": "matina",
+  "objects": [
+    "The word \"STEP\"",
+    "The word \"BOLDLY\"",
+    "A shoe sole (behind \"BOLDLY\", centered horizontally beneath \"BOLDLY\", with 20% opacity)"
+  ],
+  "human_annotation": true
+}

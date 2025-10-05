@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "Generate a city growth story map. Use Image 1 as the silhouette frame, filling one side with Image 2 (historic city view) and the other side with Image 3 (modern skyline) to show urban expansion over time.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "annotator": "matina",
+  "prompt_refined": "Generate an infographic illustrating urban expansion over time. Use Image 1 as the overarching silhouette boundary for the composition. Within this silhouette, depict a historic urban scene on the left side, drawing visual style and elements from Image 2 (a bustling street market with people and traditional carts). On the right side of the silhouette, integrate a modern city landscape, incorporating the architectural style and futuristic feel of Image 3 (a sleek cityscape with towering glass buildings and complex illuminated roadways). The overall image should visually represent the progression from past to present urban development within the defined shape.",
+  "objects": [
+    "Overarching silhouette boundary (from Image 1)",
+    "Historic urban scene on the left",
+    "Bustling street market on the left",
+    "People in historic attire on the left",
+    "Traditional carts on the left",
+    "Modern city landscape on the right",
+    "Towering glass buildings on the right",
+    "Complex illuminated roadways on the right",
+    "Futuristic feel on the right",
+    "Visual representation of urban development progression"
+  ]
+}

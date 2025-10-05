@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Design a to-do list app interface that uses the layout from the first image for task arrangement and adopts the color palette from the second image.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate an image of a mobile to-do list application interface. The application's layout should precisely replicate the structure seen in image 1, featuring the top navigation bar with 'Today' centered, a back arrow on the left, and search/more options on the right. Include segmented task sections like 'This Morning' and 'This Evening', each containing multiple task items. Each task item should display a circular status indicator on the left, task title, a detailed description, time stamp, and an 'Inbox' tag on the right. A prominent circular floating action button with a '+' icon should be positioned in the bottom-right corner. The entire interface, including all backgrounds, text, icons, status indicators, and interactive elements, must adopt the blue color palette provided in image 2, replacing any original colors from image 1 with appropriate shades from the given palette.",
+  "annotator": "paria",
+  "objects": [
+    "Mobile phone interface frame",
+    "Top navigation bar",
+    "'Today' text centered in navigation bar",
+    "Back arrow icon on left of navigation bar",
+    "Search icon on right of navigation bar",
+    "More options icon on right of navigation bar",
+    "'This Morning' section header",
+    "'This Evening' section header",
+    "Task items (each including circular status indicator, title, description, time stamp, and 'Inbox' tag)",
+    "Circular floating action button with '+' icon in bottom-right corner"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,25 @@
+{
+  "subtopic": "Game assets",
+  "prompt": "Edit image 1 as a game asset interface. Apply the vintage camera aesthetic from image 2 to the phone's UI and appearance. Integrate the hand-held phone into a game scene representing the beach sunset environment from image 3, viewed from a game perspective.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748456445260,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit the source image (image 1), which displays a hand holding a white smartphone, to transform the entire phone and hand into a stylized game user interface (UI) asset. Apply the distinct vintage camera aesthetic from image 2, including its monochrome color palette, mechanical design elements, and characteristic typography, to both the physical appearance of the phone and its on-screen UI display. Integrate this redesigned hand-held phone game UI element into a new background scene that accurately represents the tranquil beach sunset environment, specific lighting, and horizon line shown in reference image 3. The final composition should be rendered from a first-person game perspective, with the phone UI element appearing naturally in the foreground of the immersive beach scene.",
+  "annotator": "winston",
+  "objects": [
+    "Stylized game user interface (UI) asset in foreground",
+    "Monochrome color palette on UI asset",
+    "Mechanical design elements on UI asset",
+    "Characteristic typography on UI asset",
+    "Tranquil beach sunset environment in background",
+    "Horizon line in background",
+    "Sunset lighting in background"
+  ]
+}

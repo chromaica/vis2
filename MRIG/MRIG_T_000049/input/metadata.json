@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Generate a 2-panel meme with the man (Shrek) from the first image with text 'Before caffeine' in the first panel and the confident woman from the second image with the text 'After caffeine' in the second panel, with those exact captions in bold.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a two-panel side-by-side meme. The left panel should depict the dejected Shrek-like character from image 1, with the exact bold text 'Before caffeine' displayed prominently. The right panel should feature the confident woman from image 2, with the exact bold text 'After caffeine' displayed prominently. Maintain the distinct visual characteristics and mood of each referenced figure.",
+  "annotator": "parnian",
+  "objects": [
+    "Two-panel side-by-side meme format",
+    "Dejected Shrek-like character in the left panel",
+    "Bold text \"Before caffeine\" prominently displayed in the left panel",
+    "Confident woman in the right panel",
+    "Bold text \"After caffeine\" prominently displayed in the right panel",
+    "Shrek-like character's green skin and distinctive ears",
+    "Shrek-like character's worn grey hoodie",
+    "Confident woman's black hat",
+    "Confident woman's blue jacket, red shirt, and waistcoat",
+    "Confident woman's cigarette"
+  ]
+}

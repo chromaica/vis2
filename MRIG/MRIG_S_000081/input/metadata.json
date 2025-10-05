@@ -1,0 +1,27 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "Create a first-person supermarket simulation using the environment from the first image and customer characters from the second image.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a 3D rendered image depicting a first-person supermarket simulation. The supermarket environment, including its aisles, shelves, produce sections, and overall interior design, should be based on the visual style and layout of image 1. Integrate multiple customer characters, visually consistent in style and diversity with the 3D rendered human figures from image 2, distributed naturally throughout the supermarket aisles, engaging in typical shopping activities such as browsing shelves or moving with carts.",
+  "annotator": "paria",
+  "objects": [
+    "First-person perspective",
+    "3D rendered style",
+    "Supermarket aisles",
+    "Stocked supermarket shelves",
+    "Produce sections with fruits and vegetables",
+    "Supermarket overhead signs (e.g., \"Produce\", \"Breakfast / Sweets\")",
+    "Refrigerated display cases",
+    "Multiple customer characters in Image 2 style",
+    "Shopping carts",
+    "Customers engaged in shopping activities"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

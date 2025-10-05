@@ -1,0 +1,26 @@
+{
+  "subtopic": "Websites",
+  "prompt": "Recreate this website's layout as if it were a page in a teenager's messy scrapbook, with polaroid-style images, handwritten notes, and stickers.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://i.imgur.com/WVG77nB.png",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a messy scrapbook page based on the website layout in image 1. Transform each of the image thumbnails present in image 1 into distinct polaroid-style photographs, some appearing tilted, layered, or slightly askew. All text content from image 1, including the navigation bar elements (e.g., 'TSEJ', 'Articles'), the main heading ('All Articles'), and all article-specific details (category, date, bolded titles, authors, and descriptive paragraphs/abstract links), should be rendered as varied, expressive handwritten notes, as if penned directly onto the page. Embellish the layout with an assortment of decorative stickers, some overlapping the polaroids or notes. The overall composition should be loose and organic, resembling a chaotic yet charming teenager's scrapbook, on a textured paper background.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "textured paper background",
+    "polaroid-style photographs (multiple, some tilted, layered, or askew)",
+    "handwritten notes for navigation bar elements",
+    "handwritten note for 'All Articles' heading",
+    "handwritten notes for article categories",
+    "handwritten notes for article dates",
+    "handwritten notes for article titles",
+    "handwritten notes for article authors",
+    "handwritten notes for article descriptive paragraphs or abstract links",
+    "decorative stickers (some overlapping polaroids or notes)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

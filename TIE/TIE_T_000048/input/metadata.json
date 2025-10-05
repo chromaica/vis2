@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": "Turn the borders into jagged, torn-edge comic frames to give a horror vibe.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Transform the vertical borders separating the three comic panels into jagged, torn-edge frames to evoke a horror aesthetic.",
+  "annotator": "matina",
+  "objects": [
+    "Three comic panels",
+    "Jagged, torn-edge vertical panel borders",
+    "Man in yellow shirt (first panel)",
+    "Woman in red dress (first panel)",
+    "Man seen from behind (first and second panels)",
+    "Man with a cleaver (third panel)",
+    "Man being attacked (third panel)",
+    "Speech bubbles with text",
+    "Kitchen background with brick wall",
+    "Shelves with knives"
+  ]
+}

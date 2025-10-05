@@ -1,0 +1,18 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Retro Futurism",
+  "prompt": "A city skyline with art deco buildings under a starry sky, featuring glowing rocket ships in the foreground.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A high-detail photorealistic image of a majestic city skyline at night, featuring towering, illuminated Art Deco skyscrapers. The city is set against a vast, deep blue starry sky. In the prominent foreground, multiple sleek, retro-futuristic rocket ships hover, emanating a soft, vibrant glow from their windows and thrusters.",
+  "annotator": "cwhsu",
+  "objects": [
+    "majestic city skyline",
+    "towering, illuminated Art Deco skyscrapers",
+    "vast, deep blue starry sky",
+    "multiple sleek, retro-futuristic rocket ships in the prominent foreground",
+    "soft, vibrant glow from rocket ship windows",
+    "soft, vibrant glow from rocket ship thrusters"
+  ]
+}

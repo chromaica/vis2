@@ -1,0 +1,26 @@
+{
+  "subtopic": "Astronomical images",
+  "prompt": "Edit image 1, the Moon, applying the photorealistic color and mottled surface texture from image 3 (Mercury). Remove the specific crater region on the Moon highlighted by the red box in image 2.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749222177878,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "P",
+  "prompt_refined": "Edit image 1, which displays the Moon, by applying the photorealistic, mottled surface texture and brownish-orange color characteristic of Mercury, as observed in image 3. Concurrently, remove the prominent bright ray crater located near the bottom-center of the Moon, specifically the region highlighted by the red box in image 2.",
+  "annotator": "boris",
+  "objects": [
+    "The Moon with a photorealistic appearance",
+    "Mottled surface texture",
+    "Brownish-orange surface color",
+    "Craters",
+    "Black space background",
+    "Prominent bright ray crater near bottom-center (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

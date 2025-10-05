@@ -1,0 +1,17 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "Depth maps",
+  "prompt": "A depth map showing a car's viewpoint in a driving scenario, highlighting the distances to various objects. The scene includes three cars ahead and trees flanking both sides.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a grayscale depth map. The image is viewed from a car's perspective in a driving scenario, illustrating varying distances to objects. Three cars are positioned directly ahead on the road. Trees line both sides of the road.",
+  "annotator": "maxku",
+  "objects": [
+    "Road",
+    "Three cars directly ahead on the road",
+    "Trees lining the left side of the road",
+    "Trees lining the right side of the road"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "An eclectic scrapbook collage of vibrant butterflies, old postage stamps, and handwritten letters on a worn, vintage table surface.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "On a worn, vintage wooden table surface, an eclectic scrapbook collage is artfully displayed. It features vibrant butterflies, some appearing to gracefully flutter while others are flattened, intricately layered with a diverse collection of antique postage stamps of various designs and origins. Scattered and partially overlapping amongst these elements are aged, handwritten letters, some unfolded and clearly visible, others partially obscured. The table surface exhibits a rich, aged patina and subtle scratches.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Worn, vintage wooden table surface",
+    "Vibrant butterflies (some fluttering, some flattened)",
+    "Diverse collection of antique postage stamps (layered)",
+    "Aged, handwritten letters (some unfolded and visible, some partially obscured)",
+    "Rich, aged patina on table surface",
+    "Subtle scratches on table surface"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

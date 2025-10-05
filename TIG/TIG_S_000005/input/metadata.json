@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": "A website that looks like japanese style fashion ecommerce landing page that is overloaded with information and postings",
+  "cond_images": [],
+  "remarks": "It should looks something like https://www.rakuten.co.jp/, login page, lots of white text on red banner. Menu thats overcrowded with japanese words",
+  "prompt_refined": "A full-screen screenshot of a Japanese style fashion e-commerce website landing page. The page is intentionally designed to be extremely dense and visually overloaded with information and postings. It features a multitude of small product images arranged in tightly packed grids, alongside numerous promotional banners of various sizes. Text blocks with small font sizes detailing product descriptions, news updates, and blog entries are abundant throughout the layout, creating a cluttered and busy appearance where elements compete for visual attention.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Japanese fashion e-commerce website interface",
+    "Dense and visually overloaded layout",
+    "Multitude of small product images",
+    "Tightly packed image grids",
+    "Numerous promotional banners",
+    "Promotional banners of various sizes",
+    "Abundant text blocks",
+    "Text blocks with small font sizes",
+    "Product descriptions (as text content)",
+    "News updates or blog entries (as text content)"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "task": "SRIE",
+  "topic": "P",
+  "subtopic": "Medical images",
+  "prompt": "Refine the fetal posture and contour in the source image using the fetal template from the reference scan, aligning anatomical orientation while maintaining scan realism.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Modify the fetal posture and contour in image 1 to align with the anatomical structure and orientation observed in image 2. Ensure the final edited image retains the photorealistic quality and characteristics of a medical scan.",
+  "annotator": "nimajamali",
+  "objects": [
+    "Fetus (with anatomical structure and orientation matching image 2)",
+    "Uterus",
+    "Amniotic fluid",
+    "Medical scan visual characteristics",
+    "Grayscale imaging"
+  ]
+}

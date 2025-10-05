@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Edit image 1. Replace the content within the 'Synthesized Image' panel to depict the black dog from image 3 sitting inside the yellow car shown in image 2. Update the visual style of the diagram elements, using the vibrant yellow from image 2 and the green and yellow from image 3 for colors of the boxes, borders, or arrows.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. First, replace the content within the 'Synthesized Image' panel (located in the bottom right of the diagram) with a new depiction: the black dog from image 3 should be shown sitting inside the yellow Ford Focus car from image 2. Ensure the dog's pose and integration into the vehicle's interior are realistic. Second, update the visual style of the diagram elements in image 1. Recolor the main section boxes (e.g., 'Input', 'Semantic Consistency', 'Perceptual Quality') and the prominent directional arrows with the vibrant yellow color derived from the car in image 2. Additionally, apply the green from the grass and the lighter yellow from the dandelions in image 3 to recolor the borders of the various information panels (e.g., 'SC Prompt', 'Response', 'SC Scores', 'PQ Scores') and other accent elements within the diagram.",
+  "annotator": "maxku",
+  "objects": [
+    "black dog sitting inside a yellow Ford Focus car (within the 'Synthesized Image' panel)",
+    "main section boxes (e.g., 'Input', 'Semantic Consistency', 'Perceptual Quality') recolored vibrant yellow",
+    "prominent directional arrows recolored vibrant yellow",
+    "borders of information panels (e.g., 'SC Prompt', 'Response', 'SC Scores', 'PQ Scores') recolored with green and lighter yellow",
+    "accent elements within the diagram recolored with green and lighter yellow",
+    "'Input' panel with 'Concept 1' and 'Concept 2' sub-panels",
+    "image of a grey dog (in 'Concept 1')",
+    "image of a yellow toy car (in 'Concept 2')",
+    "'Semantic Consistency (SC)' panel with its text and scores",
+    "'Perceptual Quality (PQ)' panel with its text and scores"
+  ]
+}

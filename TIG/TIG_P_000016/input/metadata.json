@@ -1,0 +1,18 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "High-detail microscopic fibers of a spider web, glistening like tiny threads of silk.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A photorealistic, high-detail extreme macro shot of microscopic spider web fibers. The intricate strands are rendered with sharp focus, glistening like delicate, tiny threads of silk.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Microscopic spider web fibers",
+    "Intricate strands of spider web",
+    "Glistening appearance on the spider web strands",
+    "Delicate appearance on the spider web strands",
+    "Sharp focus on the spider web fibers",
+    "Extreme macro perspective"
+  ]
+}

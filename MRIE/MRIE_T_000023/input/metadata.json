@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "Change the subtitle from 'Java Edition' to 'Steve's Edition'. Also change the yellow caption to 'LAVA CHICKEN!'. Then, add the Minecraft building from the right side of the second image to the background of the title screen in the first image. Finally, add the man from the third image standing in front of that building. Make sure the style of that man matches the Minecraft style.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 (the Minecraft title screen) based on the following instructions and conditioning images:\n\n1.  Modify the subtitle text 'Java Edition', located directly beneath the main 'MINECRAFT' title, to read 'Steve's Edition'.\n2.  Change the yellow diagonal text 'Made with love!' in the top-right corner of the screen to 'LAVA CHICKEN!'.\n3.  Integrate the distinct orange Minecraft building, topped with a large white chicken, from the right side of image 2 into the background of image 1. Position this building prominently in the middle-ground, behind the 'MINECRAFT' title and the central menu buttons, ensuring it blends naturally with the existing landscape.\n4.  Introduce the man from image 3 (the character with the beard and blue shirt) standing directly in front of the newly added Minecraft building. This character must be rendered in a blocky, pixelated style, consistent with the overall Minecraft visual aesthetic of image 1.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "MINECRAFT title",
+    "Subtitle text \"Steve's Edition\"",
+    "\"Java Edition\" (should not be present)",
+    "Diagonal text \"LAVA CHICKEN!\"",
+    "\"Made with love!\" (should not be present)",
+    "Orange Minecraft building with a large white chicken (in middle-ground, behind title and buttons)",
+    "Blocky, pixelated man with beard and blue shirt (in front of the building)",
+    "Central menu buttons",
+    "Minecraft 1.20 text",
+    "Copyright text"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

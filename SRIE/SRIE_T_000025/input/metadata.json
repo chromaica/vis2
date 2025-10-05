@@ -1,0 +1,27 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": "Tint panels 1\u20132 warm orange, panels 3\u20134 cool blue.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the four-panel comic page. Apply a warm orange tint to the top-left panel (panel 1) and the top-right panel (panel 2). Apply a cool blue tint to the bottom-left panel (panel 3) and the bottom-right panel (panel 4). Use image 2 as a precise guide for the exact boundaries of each panel.",
+  "annotator": "matina",
+  "objects": [
+    "four-panel comic page layout",
+    "top-left comic panel with a warm orange tint",
+    "top-right comic panel with a warm orange tint",
+    "bottom-left comic panel with a cool blue tint",
+    "bottom-right comic panel with a cool blue tint",
+    "cowboy characters",
+    "bartender character",
+    "bar counter",
+    "bottles",
+    "speech bubbles with text"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

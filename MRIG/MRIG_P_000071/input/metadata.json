@@ -1,0 +1,27 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Adapt the cafe photograph referenced in the first image into a minimalist indie comic book style referenced in the second image. Use soft, muted colors and sketchy, hand-drawn lines to create an intimate, introspective mood. Add subtle comic elements like thought bubbles showing the person\u2019s daydreams or poetic text overlays. Transform the cafe interior with simplified, angular shapes and delicate cross-hatching, emphasizing a cozy yet stylized atmosphere. Keep the window view realistic but with a dreamy, watercolor-like comic effect.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a cafe interior, adapting the physical layout and elements from image 1, and rendering it in the minimalist indie comic book style seen in image 2. Utilize sketchy, hand-drawn lines and delicate cross-hatching throughout. Employ a palette of soft, muted colors with a watercolor-like quality to establish an intimate, introspective mood. Transform the cafe's interior features, such as tables, booths, and walls, into simplified, angular shapes, creating a cozy yet stylized atmosphere. Integrate subtle comic elements, including thought bubbles above a person seated in a booth, depicting their daydreams, or poetic text overlays within the scene. Any window views present should appear realistic but with a dreamy, watercolor-like comic effect.",
+  "objects": [
+    "cafe interior",
+    "simplified, angular tables",
+    "simplified, angular booths",
+    "simplified, angular walls",
+    "checkered floor",
+    "person seated in a booth",
+    "thought bubbles above a person",
+    "daydreams depicted within thought bubbles",
+    "poetic text overlays",
+    "window views with dreamy, watercolor-like comic effect"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

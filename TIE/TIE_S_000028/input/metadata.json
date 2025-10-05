@@ -1,0 +1,26 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Add a third PDF file named \"Quantum Mechanics.pdf\" to the list.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, a screenshot of a Windows File Explorer. Add a new row to the file list in the main content area, specifically below the 'Introduction to Fourier Optics 2ed Goodman J....pdf' entry, making it the third file listed. This new row should display a PDF file named 'Quantum Mechanics.pdf' with the standard red Adobe PDF icon. For its attributes, set the 'Date modified' to 11/13/2023 12:00 PM and 'Size' to 12,000 KB, consistent with the other listed files and the ascending 'Date modified' sort order. Additionally, update the '2 items' text in the bottom-left status bar to '3 items'.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Windows File Explorer window UI",
+    "File Explorer navigation pane with selected \"Documents\" folder",
+    "File list column headers (Name, Date modified, Type, Size)",
+    "\"Information Theory (McKay).pdf\" file entry",
+    "\"Introduction to Fourier Optics 2ed Goodman J....pdf\" file entry",
+    "New file entry \"Quantum Mechanics.pdf\" in the file list",
+    "Red Adobe PDF icon next to \"Quantum Mechanics.pdf\"",
+    "\"Date modified\" for \"Quantum Mechanics.pdf\": \"11/13/2023 12:00 PM\"",
+    "\"Size\" for \"Quantum Mechanics.pdf\": \"12,000 KB\"",
+    "Status bar text displaying \"3 items\""
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

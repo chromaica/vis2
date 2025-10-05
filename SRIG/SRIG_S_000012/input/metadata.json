@@ -1,0 +1,28 @@
+{
+  "subtopic": "Software interfaces",
+  "prompt": "Generate a screenshot of a file explorer interface. Use a clean, minimalist UI design with a tabular layout for tasks and bright color accents, inspired by the reference image's aesthetic and structure.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://images.ctfassets.net/spoqsaf9291f/2ngxl8Xa5kOQyNTlf1j3DU/10f20c2e01395763f768a3410bc10582/Screenshot_2023-09-08_at_9.28.32_AM.png",
+  "searchQueryGenerated": "Modern software interface clean screenshot",
+  "searchQueryGeneratedTimestamp": 1749420417651,
+  "promptGeneratedTimestamp": 1749420500375,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a screenshot of a desktop file explorer application interface. The design should be clean, minimalist, and directly adopt the aesthetic and tabular structure of image 1.\n\nThe top of the window should feature standard window controls (close, minimize, maximize) on the left, and a central application title or current directory path.\n\nThe primary content area must display files and folders in a prominent tabular layout, mirroring the table structure in image 1. This table should include columns such as 'Name' (with small, distinct icons for file types or folders), 'Type', 'Size', 'Date Modified', and a 'Tags' column utilizing bright, distinct color accents for categorization, similar to the colored labels in image 1 (e.g., 'Seminar', 'Section'). Each row must also include a checkbox for selection on the far left.\n\nAbove the file/folder table, incorporate filtering and sorting options, along with a prominent 'New Folder' button positioned on the top right, consistent with the 'New' button's style and placement in image 1.\n\nEnsure the UI maintains the bright white background, subtle drop shadows, and rounded corners for all interactive elements (buttons, tags, input fields), reflective of image 1's visual language.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Desktop file explorer application window",
+    "Standard window controls (close, minimize, maximize) on the left",
+    "Central application title or current directory path",
+    "Tabular layout displaying files and folders",
+    "Table columns: 'Name', 'Type', 'Size', 'Date Modified', 'Tags'",
+    "Small, distinct icons for file types or folders",
+    "Bright, distinct color accents for categorization tags",
+    "Checkboxes on the far left of each row",
+    "Filtering and sorting options above the file/folder table",
+    "'New Folder' button on the top right"
+  ]
+}

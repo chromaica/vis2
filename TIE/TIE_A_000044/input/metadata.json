@@ -1,0 +1,22 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Post-Impressionism",
+  "prompt": "Turn the art style of the painting from post-impressionism to impressionism. The painting should still depict the same scene.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, 'Starry Night Over the Rhone', to transform its current Post-Impressionist style into an Impressionist painting style. Maintain the exact same scene, depicting the river, the city lights reflecting on the water, the bridge, the boats, and the two figures in the foreground. The artwork should feature softer, broken brushstrokes and a focus on diffused light and atmospheric effects, characteristic of Impressionism. The vivid blues and yellows should transition more subtly, capturing the shimmering quality of the water reflections and the gentle glow of the stars and city lights, rather than the thick, distinct brushwork of the original.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "river",
+    "city lights on the horizon",
+    "reflections of city lights on the water",
+    "bridge",
+    "boats on the river",
+    "two figures in the foreground",
+    "stars in the sky",
+    "night sky"
+  ]
+}

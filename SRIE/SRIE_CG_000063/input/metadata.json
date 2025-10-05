@@ -1,0 +1,27 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Facial estimation and analysis",
+  "prompt": "Redirect the eyes to follow the gaze vector indicated in the control signal.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, a close-up black and white portrait of a man. Redirect the subject's gaze so that each eye looks subtly outwards, following the direction indicated by the red arrows in image 2. Preserve the subject's identity, facial expression, and the overall style of image 1.",
+  "annotator": "nimajamali",
+  "objects": [
+    "close-up black and white portrait",
+    "man (Al Pacino)",
+    "man's face",
+    "man's eyes looking subtly outwards",
+    "man's original facial expression",
+    "man's black hair",
+    "man's nose",
+    "man's mouth",
+    "man's white shirt collar",
+    "man's dark suit/jacket"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

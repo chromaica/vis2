@@ -1,0 +1,24 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Apply the dark mode to the line diagram.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, which depicts a financial bar and line chart on a teal background. Apply a dark mode aesthetic to this information graphic. Use image 2 as a reference for the dark mode style, incorporating its deep black background and subtle, glowing accents into the chart elements while maintaining data legibility.",
+  "annotator": "Johnny",
+  "objects": [
+    "financial bar chart",
+    "financial line chart",
+    "deep black background",
+    "subtle glowing accents",
+    "chart elements (e.g., bars, lines, grid, axes)",
+    "legible data labels/numbers",
+    "teal background (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

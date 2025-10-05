@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "Using the layout style from image 1, fill the kiwi fruit from image 2 with repeating 'Kiwi' words.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate an image of the kiwi fruit from image 2. The entire kiwi fruit shape should be filled with repeating instances of the word 'Kiwi'. The text should be arranged, scaled, and oriented to conform tightly to the contours and fill the internal space of the kiwi fruit, similar to the typographic silhouette style depicted in image 1.",
+  "annotator": "parnian",
+  "objects": [
+    "Kiwi fruit shape (as depicted in image 2)",
+    "Repeating instances of the word \"Kiwi\"",
+    "Text forming the brown outer rind of the kiwi",
+    "Text forming the light green flesh of the kiwi",
+    "Text forming the dark green inner ring of the kiwi",
+    "Text forming the black seeds of the kiwi",
+    "Text forming the light-colored core of the kiwi",
+    "Text arranged to conform tightly to the contours of the kiwi",
+    "Text filling the internal space of the kiwi",
+    "Plain background"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,22 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Create a real sea scene with three dolphins in the same positions as in the provided image.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic image depicting a real sea scene with three dolphins. The dolphins should replicate the exact spatial arrangement and relative sizes of the animals shown in image 1. Specifically, there should be a large dolphin in the upper-left, a medium-sized dolphin positioned below and to its right, and a smaller dolphin (calf) located further below and to the right of the medium one. All three dolphins should be swimming horizontally from left to right.",
+  "annotator": "samin",
+  "objects": [
+    "Real sea scene",
+    "Large dolphin in the upper-left",
+    "Medium-sized dolphin positioned below and to the right of the large one",
+    "Small dolphin (calf) located further below and to the right of the medium one",
+    "Dolphins swimming horizontally from left to right",
+    "Relative sizes of the three dolphins replicating image 1"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

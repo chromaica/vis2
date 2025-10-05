@@ -1,0 +1,21 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "add a space station like the size of a city having to past by this planet",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "should be trivial",
+  "prompt_refined": "Edit image 1 to add a photorealistic, city-sized space station that is passing by the small striped planet.",
+  "annotator": "theblackcat",
+  "objects": [
+    "large orange star",
+    "small striped planet",
+    "city-sized space station passing by the small striped planet",
+    "dark curved celestial object/structure",
+    "starry background",
+    "purple nebulous cloud",
+    "distant star"
+  ]
+}

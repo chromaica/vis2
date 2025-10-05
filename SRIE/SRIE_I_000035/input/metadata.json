@@ -1,0 +1,24 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "Apply the glass morphism effect from the first image to the UI mockup in the second image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 2, applying the visual style of glass morphism as exemplified in image 1. Transform all prominent UI elements within the smartphone screens of image 2, including the white product cards, category cards, buttons, and input fields, to exhibit a blurred, translucent, and frosted glass appearance. Ensure that the background visible through these transformed elements is also subtly blurred, mirroring the aesthetic of the 'NOTES' and 'Widget' panels found in the right panel of image 1.",
+  "annotator": "Johnny",
+  "objects": [
+    "Left smartphone screen",
+    "Middle smartphone screen",
+    "Right smartphone screen",
+    "Product cards with glass morphism style",
+    "Category cards with glass morphism style",
+    "Buttons with glass morphism style",
+    "Input fields with glass morphism style",
+    "Blurred screen background visible through UI elements"
+  ],
+  "human_annotation": true
+}

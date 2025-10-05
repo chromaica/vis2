@@ -1,0 +1,18 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Traditional art",
+  "prompt": "A blue samurai helmet with intricate silver designs",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a blue samurai helmet, detailed with intricate silver designs, based on the distinct shape and front-facing perspective of image 1.",
+  "annotator": "Johnny",
+  "objects": [
+    "blue samurai helmet",
+    "intricate silver designs",
+    "distinct shape of the helmet (from image 1)",
+    "front-facing perspective of the helmet"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Cultural or Heritage art",
+  "prompt": "Generate a painting with the reference image of stonehenge.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a painting of Stonehenge. Use image 1 as the primary visual reference for the stone circle's appearance and its setting on a green field under a blue sky with clouds.",
+  "annotator": "Johnny",
+  "objects": [
+    "Stonehenge stone circle",
+    "Green field",
+    "Blue sky",
+    "Clouds"
+  ],
+  "human_annotation": true
+}

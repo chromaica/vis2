@@ -1,0 +1,23 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Change the texture to fabric while keeping the logo and structure.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Transform the black quilted leather texture of the handbag into a black fabric texture. Ensure that the original shape, the distinctive chevron quilted pattern, the gold GG logo on the front, and the gold chain strap are meticulously preserved.",
+  "annotator": "matina",
+  "objects": [
+    "Black handbag with a fabric texture",
+    "Chevron quilted pattern on the handbag",
+    "Gold GG logo on the front of the handbag",
+    "Gold chain strap",
+    "Zipper on the handbag",
+    "Dark, reflective surface",
+    "Dark background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

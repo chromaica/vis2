@@ -1,0 +1,20 @@
+{
+  "task": "SRIE",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "Apply the style of 'A Boy and His Atom' from the reference image to the source.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the source image, by applying the visual characteristics and aesthetic of image 2, the reference image. Transform the white dots in image 1 to match the smooth, luminous, and well-defined appearance of the atoms in image 2. Convert the stark black background of image 1 to the soft, uniform grey, and subtly textured background observed in image 2, ensuring a photorealistic, microscopic visual style.",
+  "annotator": "nimajamali",
+  "objects": [
+    "smooth, luminous, well-defined particles",
+    "hexagonal lattice pattern",
+    "soft, uniform grey, subtly textured background",
+    "photorealistic visual style",
+    "microscopic visual style"
+  ]
+}

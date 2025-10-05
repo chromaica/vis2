@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "create a mental health journaling app with soft pastel color palette, hand-drawn style icons, organic mood tracking visualizations, encouraging typography, and gentle gradient backgrounds",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a full-screen UI design for a mobile mental health journaling application. The interface should feature a soft pastel color palette throughout, complemented by hand-drawn style icons. Incorporate organic, flowing shapes and abstract visualizations for mood tracking. Use encouraging, legible typography, and ensure backgrounds are subtle, gentle gradients.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Mobile mental health journaling application UI",
+    "Soft pastel color palette",
+    "Hand-drawn style icons",
+    "Organic, flowing shapes",
+    "Abstract visualizations for mood tracking",
+    "Encouraging, legible typography",
+    "Subtle, gentle gradient backgrounds",
+    "Full-screen display"
+  ]
+}

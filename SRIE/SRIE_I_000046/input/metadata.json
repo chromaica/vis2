@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "Adjust the transit map to a neon nightscape aesthetic",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 2, the Guiyang Urban Rail Transit Map, by transforming its visual style to a neon nightscape aesthetic, referencing the vibrant lighting and color palette of image 1. Convert the map's background to a dark, nocturnal setting. Render the transit lines, station markers, and all text labels with a luminous, glowing neon effect, featuring prominent blues, purples, and pinks, similar to the light trails and illuminated buildings in image 1. Maintain the complete informational content and precise layout of the original transit map from image 2.",
+  "annotator": "Johnny",
+  "objects": [
+    "Guiyang Urban Rail Transit Map layout",
+    "Transit lines with luminous, glowing neon effect",
+    "Station markers with luminous, glowing neon effect",
+    "All text labels (including map title, station names, district names, legend text) with luminous, glowing neon effect",
+    "Dark, nocturnal map background",
+    "Prominent blues, purples, and pinks used for neon elements",
+    "Map legend content (icons and text)",
+    "Chinese character text",
+    "English text"
+  ],
+  "human_annotation": true
+}

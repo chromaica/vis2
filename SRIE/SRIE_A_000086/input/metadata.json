@@ -1,0 +1,27 @@
+{
+  "subtopic": "Traditional art",
+  "prompt": "Change the patten of the vase in image 1 with the pattern of vase in image 2.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748670453915,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit the vase in image 1. Replace the black and white floral and bird pattern on the vase's body with the intricate gold and black floral pattern found on the lidded pot in image 2.",
+  "annotator": "kellycyy",
+  "objects": [
+    "vase",
+    "dark blue/black neck of the vase",
+    "dark blue/black base of the vase",
+    "light-colored body of the vase",
+    "intricate gold and black floral pattern",
+    "stone pedestal",
+    "blurred outdoor market background",
+    "black and white floral and bird pattern (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

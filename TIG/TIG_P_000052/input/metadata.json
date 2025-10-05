@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Medical images",
+  "prompt": "An ultrasound image of a developing fetus, clearly positioned within the womb, featuring gradient shades of gray for realistic depth and detail.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Photorealistic ultrasound image of a developing human fetus, clearly visible and centrally positioned within the mother's womb. Rendered with a detailed grayscale palette and subtle gradient shades of gray to convey realistic depth and anatomical detail.",
+  "annotator": "cwhsu",
+  "objects": [
+    "developing human fetus",
+    "mother's womb",
+    "ultrasound image rendering",
+    "grayscale color palette",
+    "subtle gradient shades of gray",
+    "realistic depth visual quality",
+    "anatomical detail visual quality",
+    "clearly visible fetus",
+    "centrally positioned fetus"
+  ],
+  "human_annotation": true
+}

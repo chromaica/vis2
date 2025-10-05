@@ -1,0 +1,25 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Tables",
+  "prompt": "Fill in some more realistic data in the \"MONTHLY FEE\" row with $15, $20, $25, and $30 for Plans A, B, C, and D respectively.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. In the 'MONTHLY FEE' row of the comparison chart, update the current values. Change the monthly fee to $15 for Plan A, $20 for Plan B, $25 for Plan C, and $30 for Plan D.",
+  "annotator": "cwhsu",
+  "objects": [
+    "\"Ondev Apps\" logo and text",
+    "\"Comparison Chart\" title",
+    "Chart structure including white background and horizontal separator lines",
+    "Orange header bar with \"Features\" and \"Plan A, Plan B, Plan C, Plan D\" column headers",
+    "\"CUSTOMER SERVICE\" row with \"24/7\" values for all plans",
+    "\"MONTHLY FEE\" row with updated values: $15 (Plan A), $20 (Plan B), $25 (Plan C), $30 (Plan D)",
+    "\"FREE TEXT\" row with \"1000\" values for all plans",
+    "\"FREE CALLS\" row with \"5 hours\" values for all plans",
+    "\"DATA\" row with \"1 GB\" values for all plans",
+    "\"SPECIAL FEATURES\" row with \"Customizable\" values for all plans"
+  ],
+  "human_annotation": true
+}

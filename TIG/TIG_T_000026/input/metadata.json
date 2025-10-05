@@ -1,0 +1,17 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Textile Art with Text",
+  "prompt": "Create a textile art image: 'STITCH' formed from colorful fabric appliqu\u00e9 letters with charmingly frayed edges, set upon a textured linen surface.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A textile art image of the word 'STITCH', rendered as colorful fabric appliqu\u00e9 letters with charmingly frayed edges, laid upon a textured linen surface.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "the word \"STITCH\"",
+    "fabric appliqu\u00e9 letters",
+    "colorful letters",
+    "letters with frayed edges",
+    "textured linen surface"
+  ]
+}

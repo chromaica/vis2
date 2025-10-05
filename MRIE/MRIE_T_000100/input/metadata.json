@@ -1,0 +1,28 @@
+{
+  "subtopic": "Comics",
+  "prompt": "Edit image 1 (comic panel). Change the font style of all text within the speech bubbles and captions to match the ornate, decorative style of image 2. Incorporate the skull logo from image 3 subtly into the comic panel background.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1750178581330,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "T",
+  "prompt_refined": "Edit image 1 (comic panel). Change the font style of all text within the speech bubbles and captions to match the ornate, decorative style of image 2. Subtly incorporate the skull logo from image 3 into the background of the comic panel.",
+  "annotator": "winston",
+  "objects": [
+    "Comic panel",
+    "Man with dark hair",
+    "Blond character",
+    "Green snake",
+    "Speech bubbles",
+    "Captions",
+    "Text with ornate, decorative font style",
+    "Skull logo",
+    "Subtle skull logo in comic panel background"
+  ],
+  "human_annotation": true
+}

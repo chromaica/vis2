@@ -1,0 +1,23 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "A surreal collage combining animal silhouettes with vibrant cityscapes, highlighting the contrast between nature and urban life.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A surreal, layered collage image. Dominant, dark animal silhouettes (e.g., a soaring eagle, a leaping deer, a prowling wolf) are intricately superimposed over and partly composed of vibrant, neon-lit futuristic cityscapes at twilight. The city's bright, saturated lights and towering architectural forms should be visible through the animal outlines, creating a striking visual contrast between organic, natural forms and the sharp, angular lines of urban life. The overall aesthetic should be dreamlike and ethereal.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Dominant dark silhouette of a soaring eagle",
+    "Dominant dark silhouette of a leaping deer",
+    "Dominant dark silhouette of a prowling wolf",
+    "Vibrant futuristic cityscape",
+    "Neon lights (within the cityscape)",
+    "Bright, saturated city lights (visible through silhouettes)",
+    "Towering architectural forms (of cityscape, visible through silhouettes)",
+    "Twilight sky",
+    "Layered collage composition"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,24 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "Generate a literary book club event poster using the first image of four girls and the second image of a cozy caf\u00e9, with the text 'Classics & Cappuccino: Discussing Little Women, Thursday at 5 PM'.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a literary book club event poster. The poster's main visual element should be the four young women from image 1, maintaining their period attire and pensive expressions, integrated into the scene. The setting should evoke the cozy and warm ambiance of the cafe in image 2, incorporating elements like soft lighting, rich wooden textures, and a subtle background hint of the rain-streaked window. The text 'Classics & Cappuccino: Discussing Little Women, Thursday at 5 PM' must be clearly displayed. Position 'Classics & Cappuccino' prominently at the top of the poster, with 'Discussing Little Women' and 'Thursday at 5 PM' legibly placed below it. The overall design should convey an inviting, intellectual, and comfortable atmosphere.",
+  "annotator": "parnian",
+  "objects": [
+    "Four young women from image 1, in period attire, with pensive expressions",
+    "Cozy and warm cafe setting",
+    "Soft lighting",
+    "Rich wooden textures",
+    "Rain-streaked window in the background",
+    "Text: 'Classics & Cappuccino' prominently at the top",
+    "Text: 'Discussing Little Women' legibly placed below 'Classics & Cappuccino'",
+    "Text: 'Thursday at 5 PM' legibly placed below 'Discussing Little Women'"
+  ],
+  "human_annotation": true
+}

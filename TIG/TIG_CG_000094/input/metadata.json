@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "Object detection visuals",
+  "prompt": "A grocery shelf image with bounding boxes on individual products like cereal boxes, bottles, and snacks, each with distinct colors and labels.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate an image depicting a multi-shelf grocery display. The shelves are well-stocked with a diverse assortment of individual products, including cereal boxes, beverage bottles, and various snack packages. Each distinct product should feature its own unique color scheme and label. Every individual product must also be visibly outlined by a precise bounding box.",
+  "annotator": "maxku",
+  "objects": [
+    "multi-shelf grocery display",
+    "shelves",
+    "diverse assortment of individual products",
+    "cereal boxes",
+    "beverage bottles",
+    "snack packages",
+    "products with unique color schemes",
+    "products with unique labels",
+    "precise bounding box around each individual product"
+  ]
+}

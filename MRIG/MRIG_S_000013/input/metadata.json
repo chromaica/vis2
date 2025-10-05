@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": "Generate a bakery ecommerce website featuring the pastry objects from the first image and layout structure from the second.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a bakery e-commerce website. The website should adopt the layout and structural design of image 2, including its header, navigation, sidebars, and grid-based product display sections. Replace all perfume products and related content in image 2's main product areas (e.g., the large banner, 'Latest Perfumes', 'Special Offers' grids, and 'Bestsellers' sidebar) with a diverse selection of bakery items from image 1. Ensure the generated products accurately represent the various breads, croissants, muffins, and other baked goods visible in image 1, appropriately positioned within the replicated website structure.",
+  "annotator": "paria",
+  "objects": [
+    "E-commerce website header",
+    "E-commerce website navigation bar",
+    "Left sidebar (e.g., product categories)",
+    "Right sidebar displaying best-selling bakery items",
+    "Large central banner featuring bakery items",
+    "Grid section displaying \"Latest\" bakery items",
+    "Grid section displaying \"Special Offers\" bakery items",
+    "Various types of bread (e.g., loaves, rolls, twisted bread)",
+    "Croissants, muffins, and other pastries (e.g., chocolate roll, baklava-like pastry)",
+    "Perfume products (should not be present)"
+  ]
+}

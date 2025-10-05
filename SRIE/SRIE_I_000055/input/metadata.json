@@ -1,0 +1,27 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "Insert the rusty key icon in the UI mockup on the top of website.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit Image 1 (the UI mockup) by inserting a small, rusty key icon, visually resembling the key depicted in Image 2. Place this icon within the main header bar of the website UI, specifically to the left of the 'yoga studio' logo.",
+  "annotator": "Johnny",
+  "objects": [
+    "Website UI mockup on a monitor",
+    "Website UI mockup on a mobile device",
+    "Small, rusty key icon (to the left of the 'yoga studio' logo)",
+    "Website header bar",
+    "'yoga studio' logo",
+    "Website navigation menu",
+    "Website search bar",
+    "Website hero section with a person",
+    "Website blog post sections",
+    "Website footer"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

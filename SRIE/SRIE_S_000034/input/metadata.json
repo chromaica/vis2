@@ -1,0 +1,27 @@
+{
+  "subtopic": "Websites",
+  "prompt": "Edit image 1: Display the KLH Capital website content using a dynamic, angled, layered screenshot arrangement, inspired by the multiple overlapping website previews shown in the background of image 2.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751005677107,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit image 1 (the KLH Capital website screenshot). Reconfigure the content of the KLH Capital website into multiple, dynamically angled, and layered screenshot elements. Arrange these elements in a composition that mirrors the overlapping, isometric website previews shown receding across the bottom and right side of image 2, creating a sense of depth and dynamism.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Multiple KLH Capital website screenshot elements",
+    "Dynamically angled screenshot elements",
+    "Layered screenshot elements",
+    "Overlapping screenshot elements",
+    "Isometric perspective for screenshot elements",
+    "Screenshot elements positioned across the bottom of the image",
+    "Screenshot elements positioned across the right side of the image",
+    "Light blue gradient background",
+    "Large headline text",
+    "Call-to-action button"
+  ]
+}

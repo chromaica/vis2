@@ -1,0 +1,24 @@
+{
+  "task": "MRIE",
+  "topic": "P",
+  "subtopic": "Scenic Nature Parks",
+  "prompt": "Add the butterfly from the second image to the first image, standing on the flower in focus. The add the torii from the third image to the background of the first image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Add the brown and orange butterfly from image 2 to image 1, positioning it on the prominent purple lilac flowers in the foreground. Additionally, integrate the wooden torii gate from image 3 into the central background of image 1, ensuring it appears naturally situated within the distant landscape behind the foliage.",
+  "annotator": "boris",
+  "objects": [
+    "Prominent purple lilac flowers in the foreground",
+    "Brown and orange butterfly on the prominent purple lilac flowers",
+    "Wooden torii gate in the central background",
+    "Distant landscape behind the foliage",
+    "Sunset sky",
+    "Background foliage",
+    "Foreground foliage"
+  ],
+  "human_annotation": true
+}

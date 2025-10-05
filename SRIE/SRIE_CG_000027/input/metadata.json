@@ -1,0 +1,27 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Game assets",
+  "prompt": "Remove the elements in the masked part of the reference.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 (source image) by removing the user interface elements (score, star multiplier, and coin count) from the top-right corner. The exact region for removal is defined by the black masked area present in image 2 (reference image).",
+  "annotator": "nimajamali",
+  "objects": [
+    "Character running on train tracks",
+    "Train tracks",
+    "Train",
+    "Buildings alongside tracks",
+    "Boats/ships on the left",
+    "Blue sky",
+    "Overhead power lines",
+    "Gold coins on tracks",
+    "Pause button UI element (top-left)",
+    "User interface elements (score, star multiplier, and coin count) (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

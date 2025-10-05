@@ -1,0 +1,25 @@
+{
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Generate several speedometer infographics to depict website traffic growth over several years. Use the blue color palette from the reference image for the speedometer infographics, including simple, related minimalist icons.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://cdn.statcdn.com/Infographic/images/normal/31075.jpeg",
+  "promptGeneratedTimestamp": 1749907117667,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate four speedometer infographics, arranged as a comparative series, each designed to visually represent website traffic growth for a different year. Apply the distinct blue color palette from image 1 for all speedometer elements, including the dials, needles, and text labels. Each speedometer should incorporate a simple, minimalist line-art icon related to website traffic (e.g., a browser window, a network symbol, or an upward trend arrow), matching the clean aesthetic of the router and globe icons present in image 1.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Four speedometer infographics",
+    "Speedometer dials (using the blue color palette from image 1)",
+    "Speedometer needles (using the blue color palette from image 1)",
+    "Speedometer text labels (using the blue color palette from image 1)",
+    "Simple, minimalist line-art icons related to website traffic (e.g., browser window, network symbol, upward trend arrow)",
+    "Distinct year labels for each speedometer",
+    "Comparative series arrangement for the speedometers"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

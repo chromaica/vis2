@@ -1,0 +1,21 @@
+{
+  "task": "SRIE",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "Insert the reference satellite on the left side of the image, scaling it to match the scene proportionally.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the view of Earth from space, by integrating the satellite from image 2. Position the satellite on the left side of the image, scaling it proportionally to appear photorealistic and naturally part of the space scene, with consistent lighting and perspective.",
+  "annotator": "nimajamali",
+  "objects": [
+    "Earth",
+    "Space",
+    "Sun",
+    "Satellite on the left side of the image"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

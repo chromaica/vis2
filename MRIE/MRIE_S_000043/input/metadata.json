@@ -1,0 +1,27 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "QR Code",
+  "prompt": "Edit image 1 by changing the background color behind the entire ticket interface to the 'Vanilla' tone from image 3 (bottom right), ensuring full coverage without altering button colors. Then, insert the PayPal logo from image 2 above the \u201cTicket redeemed\u201d text, centered horizontally and scaled to approximately match the width of the timestamp text. Leave the QR code, buttons, and all existing labels unchanged.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the provided screenshot in image 1. Replace the existing white background of the entire ticket interface with the 'Vanilla' color tone, as sampled from the bottom-right quadrant of image 3. Ensure the new background color fully covers the interface area without affecting the appearance or color of the black buttons ('Ticket valid', 'Refresh page', 'Download PDF Ticket') or their white text. Additionally, insert the PayPal logo from image 2 into image 1. Position the PayPal logo horizontally centered above the 'Ticket redeemed' text. Scale the PayPal logo so its width is approximately equal to the width of the 'Redeemed at: 2022-07-10 13:24:08' timestamp text. All other elements in image 1, including the QR code, buttons, and existing text labels, must remain unchanged.",
+  "annotator": "parnian",
+  "objects": [
+    "Price: 10.00 text",
+    "Ticket redeemed text",
+    "PayPal logo horizontally centered above 'Ticket redeemed' text, scaled to width of 'Redeemed at: 2022-07-10 13:24:08' timestamp text",
+    "Redeemed at: 2022-07-10 13:24:08 timestamp text",
+    "Black 'Ticket valid' button with white text",
+    "Black 'Refresh page' button with white text",
+    "QR code",
+    "2372920567-123-22045995076034217886 code",
+    "Black 'Download PDF Ticket' button with white text",
+    "Vanilla colored background"
+  ],
+  "human_annotation": true
+}

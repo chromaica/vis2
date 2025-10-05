@@ -1,0 +1,27 @@
+{
+  "task": "MRIE",
+  "topic": "T",
+  "subtopic": "Card",
+  "prompt": "Replace the student's face and name according to the second image. Then, replace the background of the card with the third image. Finally, adjust the outline of the card such that it does not look like it is unprofessionally cut out.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the UCLA Bruincard. Replace the student's photo in the top-right corner with the face from image 2. Update the name 'JOSEPHINE BRUIN' on the bottom-left of the card with 'PETER PARKER' as indicated in image 2. Substitute the background image of the UCLA building with the dark textured pattern from image 3. Ensure the card's entire outline is professionally refined, eliminating any visible jaggedness or unprofessional cutting marks.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "UCLA Bruincard (with refined outline)",
+    "face from image 2 (in the top-right corner)",
+    "'PETER PARKER' text (on the bottom-left)",
+    "dark textured pattern (as the card's background)",
+    "'JOSEPHINE BRUIN' text (should not be present)",
+    "student's photo (should not be present)",
+    "UCLA building background (should not be present)",
+    "'UCLA' text",
+    "'BRUINCARD' text",
+    "'444444444' text"
+  ],
+  "human_annotation": true
+}

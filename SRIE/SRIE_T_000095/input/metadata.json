@@ -1,0 +1,26 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "Warp this text to follow a smooth S-curve path, keeping the same font but with 150% size.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the textual graphic in image 1. Warp the entire 'NOTHING CAN STOP A GOOD IDEA' text block within image 1 to follow a smooth S-curve path. Maintain the original font, color gradient, and visual texture of the text as presented in image 1. The overall bounding box of the warped text block should be scaled to 150% of its original dimensions.",
+  "annotator": "matina",
+  "objects": [
+    "Text 'NOTHING CAN STOP A GOOD IDEA'",
+    "Original font of the text",
+    "Original orange-to-red color gradient of the text",
+    "Original visual texture of the text",
+    "Text block warped into a smooth S-curve path",
+    "Text block scaled to 150% of its original dimensions",
+    "Light textured background",
+    "Vertical yellow-to-orange gradient line",
+    "Vertical pink-to-red gradient line"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

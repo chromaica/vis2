@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": "Design a screenshot of a florist website homepage that showcases the most popular items from the first image, and uses the navigation bar and color theme from the second image.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a screenshot of a florist website homepage. The page should feature a navigation bar at the top, consistent in design, layout, and color with the navigation bar shown in image 2, including the 'BLOOM' logo and menu items (Home, Flowers, About, Gallery, Workshop, Contact). The dominant color palette for the entire homepage should be the pastel pink and white tones consistent with the theme presented in image 2. Below the navigation, prominently display a section titled 'Most Popular' that visually replicates the four distinct flower bouquets (Felice, Anastasie, Gemma, Paulette) shown in image 1, including their names and prices. Arrange these bouquets in a grid format, maintaining the clean, minimalist presentation with white vases and light backgrounds as seen in image 1.",
+  "annotator": "paria",
+  "objects": [
+    "Florist website homepage layout",
+    "Navigation bar at the top",
+    "'BLOOM' logo",
+    "Home, Flowers, About, Gallery, Workshop, Contact menu items",
+    "Dominant pastel pink and white color palette",
+    "'Most Popular' section title",
+    "Felice flower bouquet with name, price, white vase, and light background",
+    "Anastasie flower bouquet with name, price, white vase, and light background",
+    "Gemma flower bouquet with name, price, white vase, and light background",
+    "Paulette flower bouquet with name, price, white vase, and light background"
+  ]
+}

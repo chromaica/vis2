@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "Design a vibrant poster centered around 'Dream Big'. The text should be a flowing, slightly distressed calligraphic script in a deep gold metallic texture, featuring a subtle glowing outline. These letters are large and central. The backdrop is a soft-focus image of a dawn sky, with warm oranges and pinks, creating a dreamy, ethereal atmosphere.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a vibrant poster featuring the large, central text 'Dream Big'. The text should be rendered in a flowing, slightly distressed calligraphic script with a deep gold metallic texture and a subtle glowing outline. The background is a soft-focus dawn sky, displaying warm orange and pink hues to create a dreamy, ethereal atmosphere.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Large, central text \"Dream Big\"",
+    "Text rendered in flowing calligraphic script",
+    "Text with slightly distressed appearance",
+    "Text with deep gold metallic texture",
+    "Text with subtle glowing outline",
+    "Dawn sky background",
+    "Soft-focus background",
+    "Warm orange hues in background",
+    "Pink hues in background"
+  ]
+}

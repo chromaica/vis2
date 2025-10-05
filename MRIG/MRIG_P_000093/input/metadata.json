@@ -1,0 +1,27 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Generate a photorealistic animal portrait based on the provided base photo referenced in the first image, incorporating the bold, emotional color choices and dynamic brushstrokes of the Expressionist painting style from the second reference image. Try to maintain some realistic fur textures, lifelike eyes, and natural lighting. The Expressionist effect should appear as subtle, vibrant color accents and faint, energetic brushstroke textures, seamlessly blended to ensure the final image looks like a high-quality photograph with an emotional artistic flair.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a new image: a photorealistic portrait of the fox from image 1. Incorporate the bold, emotional color palette and dynamic brushstroke textures found in the Expressionist painting of image 2. Specifically, introduce vibrant color accents, such as the oranges, yellows, and deep blues seen in image 2, subtly onto the fox's fur and the immediate background. Apply faint, energetic brushstroke textures, reminiscent of those in image 2, across the image. Ensure the fox maintains realistic fur textures, lifelike eyes, and natural lighting, with all artistic elements seamlessly blended so the final output appears as a high-quality photograph possessing a distinct, emotional artistic flair.",
+  "objects": [
+    "photorealistic portrait of a fox",
+    "bold, emotional color palette",
+    "dynamic brushstroke textures",
+    "vibrant orange color accents",
+    "vibrant yellow color accents",
+    "deep blue color accents",
+    "fox's fur",
+    "immediate background",
+    "realistic fur textures on the fox",
+    "lifelike eyes on the fox"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

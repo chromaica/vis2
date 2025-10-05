@@ -1,0 +1,23 @@
+{
+  "subtopic": "Volume Rendering",
+  "prompt": "In the right view, increase the overall opacity of the skeletal structure and organs, making them appear less translucent similar to the left view.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751799752954,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1. In the right half of image 1, increase the opacity of the skeletal structure (ribs, spine, pelvis) and internal organs (kidneys, bladder). Make these elements appear solid and non-translucent, replicating the opaque visual style of the corresponding structures seen on the left half of image 1.",
+  "annotator": "edisy",
+  "objects": [
+    "Opaque skeletal structure (ribs, spine, pelvis) on the left half",
+    "Red kidneys on the left half",
+    "Brown bladder on the left half",
+    "Opaque skeletal structure (ribs, spine, pelvis) on the right half",
+    "Red kidneys on the right half",
+    "Brown bladder on the right half",
+    "Black background"
+  ]
+}

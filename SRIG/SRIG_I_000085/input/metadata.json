@@ -1,0 +1,24 @@
+{
+  "subtopic": "Visual instructions and manuals",
+  "prompt": "Based on the sewing pattern diagram, create an instruction sheet for stitching a hem with step numbers and stitch icons.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "https://images.squarespace-cdn.com/content/v1/55de7b84e4b05b5cc8c23805/1466384541753-6ZUAWSHXQVOA62A7JBT7/check_and_true_patterns_2",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate an information graphic in the style of a technical sewing diagram, specifically a multi-step instruction sheet for stitching a hem. Leverage the clean, minimalist line-art aesthetic, precise labeling, and clarity exemplified in image 1. The graphic must present each step of the hem-stitching process with a distinct step number, accompanied by a clear diagrammatic illustration depicting the fabric folds, preparation, and the resulting stitch line. Include relevant sewing stitch icons adjacent to each step where applicable. Ensure the overall layout is logical and easy to follow, resembling a professional sewing guide.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Numbered steps (e.g., \"1\", \"2\", \"3\")",
+    "Diagrammatic illustrations of fabric showing hem-stitching steps",
+    "Visual representations of fabric folds and creases",
+    "Stitch lines",
+    "Descriptive text labels for each step",
+    "Sewing stitch icons",
+    "Clean, minimalist line art (for all drawings and outlines)",
+    "Arrows or directional indicators within diagrams",
+    "Plain, light-colored background",
+    "Overall multi-panel layout for instructions"
+  ]
+}

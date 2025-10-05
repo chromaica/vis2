@@ -1,0 +1,27 @@
+{
+  "subtopic": "CAD models",
+  "prompt": "Generate a computer graphics image: A detailed CAD surface model render of a high-performance sports car, inspired by the dynamic angle and subject of the reference image, presented in a clean, technical shading style.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fabcnews.go.com%2FBusiness%2Felectric-sports-cars-starting-performance-arms-race-engineer%2Fstory%3Fid%3D109151143&psig=AOvVaw1Bwen2-BK4vJiiiXDITt1r&ust=1748771188024000&source=images&cd=vfe&opi=89978449&ved=0CBcQjhxqFwoTCMj7nMO2zY0DFQAAAAAdAAAAABAE",
+  "promptGeneratedTimestamp": 1748685317143,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate an image of a high-performance sports car, rendered as a detailed CAD surface model. The perspective should be a dynamic low-angle, front-three-quarter view, capturing the car as if in motion on a road or track, mirroring the subject's pose and framing seen in image 1. The image should feature a clean, technical shading style, emphasizing the car's intricate design and precise surface contours.",
+  "annotator": "ishengfang",
+  "objects": [
+    "High-performance sports car",
+    "Car rendered as a detailed CAD surface model",
+    "Car with clean, technical shading",
+    "Dynamic low-angle, front-three-quarter perspective of the car",
+    "Road or track",
+    "Car positioned as if in motion",
+    "Motion blur effect on the road and background",
+    "Hills or mountains in the background",
+    "Roadside barrier or wall"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

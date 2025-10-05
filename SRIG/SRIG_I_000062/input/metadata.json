@@ -1,0 +1,24 @@
+{
+  "subtopic": "UI mockups",
+  "prompt": "From the restaurant POS interface reference, design a tip selection and receipt summary screen optimized for touch.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://limetray.com/restaurant-pos/images/product/ace/ace-2a.png",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate a new touch-optimized restaurant Point of Sale (POS) interface screen, drawing its clean, modern aesthetic, color palette (white, light grey, green accents), and overall UI design principles from image 1. The screen should prominently feature a detailed receipt summary on the left side and a tip selection interface on the right side. The receipt summary must clearly list individual ordered items with quantities and prices, followed by a subtotal, tax, and a final total amount at the bottom. The tip selection interface should include large, easily tappable buttons for predefined tip percentages (e.g., 15%, 18%, 20%), a clear input field for a custom tip amount, and a 'No Tip' option. Ensure all interactive elements are designed for intuitive touch interaction, consistent with a professional POS system.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Restaurant Point of Sale (POS) interface screen",
+    "Detailed receipt summary on the left side",
+    "Tip selection interface on the right side",
+    "List of individual ordered items with quantities and prices (within receipt summary)",
+    "Subtotal display (within receipt summary)",
+    "Tax display (within receipt summary)",
+    "Final total amount display (within receipt summary, at the bottom)",
+    "Tip percentage buttons (e.g., 15%, 18%, 20%)",
+    "Custom tip amount input field",
+    "'No Tip' option button"
+  ]
+}

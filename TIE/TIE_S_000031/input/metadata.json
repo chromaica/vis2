@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Enhance this slide's design to match the sleek, typical style often used in Google Slides.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, focusing on the content area of the presentation slide. Transform its design into a sleek, minimalist style characteristic of modern Google Slides templates. Retain all text content, including the main title 'For Ultra-High Concurrent Transactions', the two distinct content columns, and their respective bullet points. Re-style the 'TAKEAWAY' graphic in the bottom-left corner and the 'CS 145' identifier with page number '50' in the bottom-right corner to be consistent with a clean, professional aesthetic. Update the typography to a modern, readable sans-serif font (e.g., Roboto, Open Sans), optimizing font sizes and weights to establish clear visual hierarchy. Maintain the two-column layout with improved spacing and alignment, ensuring a clean, uncluttered presentation of information on a light background.",
+  "annotator": "cwhsu",
+  "objects": [
+    "\"For Ultra-High Concurrent Transactions\" title",
+    "\"Locking-based in-place updates\" heading",
+    "Bullet points content for \"Locking-based in-place updates\"",
+    "\"LSM Trees\" heading",
+    "Bullet points content for \"LSM Trees\"",
+    "'TAKEAWAY' graphic in bottom-left",
+    "'CS 145' identifier in bottom-right",
+    "Page number '50' in bottom-right",
+    "Light background of the presentation slide",
+    "Two-column layout of the main content area"
+  ]
+}

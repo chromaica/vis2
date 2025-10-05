@@ -1,0 +1,27 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "Generate a digital receipt for 'Bean & Brew' coffee shop showing purchases of: 1 latte ($4.50), 1 muffin ($3.25), and 1 cold brew ($3.75), using the itemized layout from the first image while incorporating the logo and brand colors from the second image.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a digital receipt for 'Bean & Brew' coffee shop displaying the following purchases: 1 latte ($4.50), 1 muffin ($3.25), and 1 cold brew ($3.75). The receipt's layout should follow the structure of image 1, specifically replicating the centered 'Thank you for placing the order' message, the itemized list format with product names on the left and corresponding prices on the right, and a clear summary section detailing the total amount. The receipt must prominently feature the coffee cup logo from image 2 at the top, and its primary color scheme for text, headers, and accents should be derived from the brown and cream tones present in image 2, overriding any green elements from image 1.",
+  "annotator": "paria",
+  "objects": [
+    "Coffee cup logo (from Image 2) at the top",
+    "\"Bean & Brew\" coffee shop name",
+    "Centered \"Thank you for placing the order\" message",
+    "\"1 latte\" with \"$4.50\" on the right",
+    "\"1 muffin\" with \"$3.25\" on the right",
+    "\"1 cold brew\" with \"$3.75\" on the right",
+    "Summary section detailing \"Total amount: $11.50\"",
+    "Receipt layout similar to Image 1",
+    "Brown and cream color scheme for text, headers, and accents",
+    "Green elements (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

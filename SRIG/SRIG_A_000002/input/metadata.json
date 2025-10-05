@@ -1,0 +1,24 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Traditional art",
+  "prompt": "Create a traditional-style image of the Mona Lisa with a sad facial expression instead of a smile",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "https://pixabay.com/photos/art-painting-mona-lisa-classic-74050/",
+  "prompt_refined": "Generate a new image of the Mona Lisa, maintaining the traditional Renaissance painting style as seen in image 1. The Mona Lisa's facial expression should be sad, replacing her iconic subtle smile.",
+  "annotator": "Johnny",
+  "objects": [
+    "Mona Lisa",
+    "Sad facial expression",
+    "Traditional Renaissance painting style",
+    "Dark dress",
+    "Folded hands",
+    "Landscape background",
+    "Mountains in background",
+    "River/path in background",
+    "Sky in background",
+    "Iconic subtle smile (should not be present)"
+  ]
+}

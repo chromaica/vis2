@@ -1,0 +1,22 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "Integrate the street logo to realistic street scene with a crowd.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the stylized street logo (featuring a prominent central road, a cityscape silhouette, and an orange circular background), to transform it into a realistic urban street scene. Use image 2, a detailed photograph of a bustling city street with tall buildings, vehicles, and numerous pedestrians, as a comprehensive reference for realistic style, urban details, and the presence of a crowd. The edited image should maintain the prominent central perspective of the road and the distinct cityscape composition from image 1, rendered with the photographic realism and bustling atmosphere seen in image 2. Ensure the scene is vibrant with a visible crowd of people and features warm, saturated lighting consistent with the orange background of image 1, such as during sunset or golden hour.",
+  "annotator": "Johnny",
+  "objects": [
+    "prominent central road",
+    "tall city buildings",
+    "vehicles",
+    "visible crowd of people",
+    "warm, saturated lighting",
+    "sunset or golden hour effect",
+    "bustling urban atmosphere"
+  ]
+}

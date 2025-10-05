@@ -1,0 +1,26 @@
+{
+  "subtopic": "3D renders",
+  "prompt": "Change the material of the sofa and its cushions to a rich, textured velvet in a deep burgundy color, accurately rendering fabric details and reflections.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751814478014,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1: Change the material of the central sofa and its cushions to a rich, textured velvet in a deep burgundy color, accurately rendering fabric details and reflections.",
+  "annotator": "edisy",
+  "objects": [
+    "Central sofa with burgundy velvet material",
+    "Sofa cushions with burgundy velvet material",
+    "Curved platform",
+    "Floor lamp on the left",
+    "Small coffee table in front of the sofa",
+    "Arched doorway structure",
+    "Curtain in the arched doorway",
+    "Stairs in the background",
+    "Vertical slatted wall panel",
+    "Large sphere and small sphere on the right"
+  ]
+}

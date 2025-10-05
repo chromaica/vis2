@@ -1,0 +1,19 @@
+{
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "Edit image 1 by performing semantic segmentation on the vintage race car. Apply a simplified, conceptual rendering style to the segmented car inspired by the line art of image 2. Furthermore, update the segmented car's materials and finish to match the sleek metallic look of the modern car in image 3.",
+  "cond_images": [
+    "1.jpeg",
+    "2.png",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748456152793,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1. Isolate the vintage race car in the foreground. Apply a simplified, conceptual rendering style to this segmented car, drawing inspiration from the minimalist line art of image 2. Furthermore, update the segmented car's materials and finish to achieve the sleek, highly reflective metallic look observed on the modern car in image 3.",
+  "annotator": "winston",
+  "objects": [
+    "vintage race car (with minimalist line art style and highly reflective metallic finish)"
+  ]
+}

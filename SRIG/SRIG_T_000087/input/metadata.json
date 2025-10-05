@@ -1,0 +1,25 @@
+{
+  "subtopic": "Branding and visual identity",
+  "prompt": "Generate a graphic showcasing the logomark and logotype for a crypto exchange brand \"Coinbase\". Adopt the clean, diagrammatic layout from the reference image, displaying the elements separately on a simple background, using a vibrant accent color similar to the blue.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://images.squarespace-cdn.com/content/v1/62ef69838076290492d2011f/5bcbee16-817a-470b-84f4-5070ff06e0b2/5E4D1068-4388-474D-92BA-9861D487D9C8.png",
+  "searchQueryGenerated": "Clean Modern Branding Textual Graphics Typography",
+  "searchQueryGeneratedTimestamp": 1750502162491,
+  "promptGeneratedTimestamp": 1750502393465,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "T",
+  "prompt_refined": "Generate a graphic showcasing the logomark and logotype for the crypto exchange brand 'Coinbase'. Adopt a clean, diagrammatic layout with elements displayed separately, referencing image 1. Position the 'Coinbase' logomark on the left and the 'Coinbase' logotype (text) on the right, ensuring they are horizontally aligned and distinct. Include 'Logomark' and 'Logotype' text labels with connecting arrows, pointing to their respective elements, mirroring the instructional style of image 1. The overall graphic should feature a simple, solid light gray background. Render the 'Coinbase' logomark and logotype in a vibrant blue accent color, similar in hue and intensity to the blue elements in image 1.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "solid light gray background",
+    "Coinbase logomark (vibrant blue, on the left)",
+    "Coinbase logotype (vibrant blue, on the right)",
+    "\"Logomark\" text label (blue)",
+    "blue arrow connecting \"Logomark\" label to Coinbase logomark",
+    "\"Logotype\" text label (blue)",
+    "blue arrow connecting \"Logotype\" label to Coinbase logotype"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "task": "SRIE",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "Darken the masked area to simulate the Moon\u2019s shadow during a solar eclipse.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Apply a dark, crescent-shaped shadow onto the illuminated surface of Earth, precisely simulating the Moon's shadow during a solar eclipse. Use image 2 as a precise visual reference for the shadow's shape, position, and darkness on Earth's left side.",
+  "annotator": "nimajamali",
+  "objects": [
+    "Earth",
+    "Moon",
+    "Sun",
+    "Dark space background",
+    "Dark crescent-shaped shadow on Earth's left side"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "Generate a food distribution infographic with referece color palet, arranging the icons around the circle as shown in the reference pie chart.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "annotator": "matina",
+  "prompt_refined": "Generate a food distribution infographic. Utilize the color palette provided in image 2 for the overall design. Incorporate various food icons from image 1, arranging them in a circular, radial pattern around a central element, similar to the distribution of slices in a pie chart.",
+  "objects": [
+    "Food distribution infographic",
+    "Brown/beige color palette",
+    "Central element",
+    "Food icons arranged in a circular, radial pattern",
+    "French fries icon",
+    "Cake slice icon",
+    "Chicken leg icon",
+    "Taco icon",
+    "Pizza slice icon",
+    "Hamburger icon"
+  ]
+}

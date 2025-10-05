@@ -1,0 +1,25 @@
+{
+  "subtopic": "Facial estimation and analysis",
+  "prompt": "Change the textual age display below the facial detection box from 'AGE: 57' to 'AGE: 35'.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751816269509,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1. Change the textual age display 'AGE: 57', located below the facial detection box, to 'AGE: 35'.",
+  "annotator": "edisy",
+  "objects": [
+    "Woman with blonde hair",
+    "Smiling woman's face",
+    "White facial detection box",
+    "Text 'AGE: 35' below the facial detection box",
+    "Grey background",
+    "Grey top/clothing",
+    "Text 'AGE: 57' (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

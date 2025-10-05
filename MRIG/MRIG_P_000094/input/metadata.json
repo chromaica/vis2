@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Create a photorealistic seascape based on the provided base photo referenced in the first image, subtly integrating the bold, gestural brushstrokes and spontaneous color splashes of the Abstract Expressionist painting style from the second reference image. Try to preserve realistic details in waves, sky, and reflections, with accurate lighting and atmospheric effects. The Abstract Expressionist effect should appear as faint, energetic color streaks and subtle gestural textures, blended naturally to maintain some photorealistic quality of the seascape.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a new photorealistic image of a seascape. Use image 1 as the primary visual reference for the scene, meticulously capturing the sunset over the ocean with the prominent sun low on the horizon, reflecting on the water, and the warm-toned sky with clouds. Subtly infuse elements from image 2, specifically the energetic, multi-colored gestural brushstrokes and spontaneous paint splatters characteristic of Abstract Expressionism. These Abstract Expressionist elements should manifest as faint, translucent color streaks and subtle gestural textures, appearing naturally integrated into the water's surface, the sky, and the reflections. Ensure the core photorealistic qualities of the seascape, including realistic waves, accurate lighting, atmospheric effects, and clear reflections, are fully preserved, allowing the abstract elements to enhance rather than dominate the realistic scene.",
+  "objects": [
+    "sunset",
+    "ocean",
+    "prominent sun low on the horizon",
+    "sun reflection on water",
+    "warm-toned sky",
+    "clouds",
+    "realistic waves",
+    "faint, translucent color streaks",
+    "subtle gestural textures",
+    "atmospheric effects"
+  ],
+  "human_annotation": true
+}

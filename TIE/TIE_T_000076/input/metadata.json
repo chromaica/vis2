@@ -1,0 +1,26 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Replace the plain black cap with a faceted crystal stopper and emboss the label text in rose-gold foil.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the existing plain black cap on the perfume bottle with a faceted crystal stopper. Furthermore, emboss all label text (including 'N\u00b05', 'CHANEL', 'PARIS', 'EAU DE TOILETTE', 'VAPORISATEUR SPRAY', '100 ml', and '3.4 FL.OZ') visible on both the perfume bottle and its accompanying box with a rose-gold foil texture and finish.",
+  "annotator": "matina",
+  "objects": [
+    "perfume bottle",
+    "perfume box",
+    "plain black cap (should not be present)",
+    "faceted crystal stopper",
+    "yellow perfume liquid inside the bottle",
+    "embossed rose-gold foil 'N\u00b05' text on perfume bottle",
+    "embossed rose-gold foil 'CHANEL' text on perfume bottle",
+    "embossed rose-gold foil 'PARIS' text on perfume bottle",
+    "embossed rose-gold foil 'N\u00b05', 'CHANEL', 'PARIS' text on perfume box",
+    "embossed rose-gold foil 'EAU DE TOILETTE', 'VAPORISATEUR SPRAY', '100 ml', '3.4 FL.OZ' text on perfume box"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

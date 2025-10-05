@@ -1,0 +1,18 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "generate a meditation app interface with breathing visualizations as expanding and contracting geometric mandalas, soft forest background with dappled sunlight effects, timer shaped like a lotus flower",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a screenshot of a modern meditation application interface. The primary visualization prominently features a vibrant, intricate geometric mandala, centered on the screen, appearing to be in a state of expansion or contraction as a breathing guide. The background consists of a soft, subtly out-of-focus forest scene with gentle dappled sunlight filtering through the canopy. A discrete timer, elegantly designed as a lotus flower icon, is subtly integrated into the bottom portion of the interface.",
+  "annotator": "theblackcat",
+  "objects": [
+    "modern meditation application interface",
+    "vibrant, intricate geometric mandala, centered on the screen",
+    "soft, subtly out-of-focus forest scene background",
+    "gentle dappled sunlight filtering through the canopy",
+    "discrete timer, in the bottom portion of the interface",
+    "lotus flower icon, designed as the timer"
+  ]
+}

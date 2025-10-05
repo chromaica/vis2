@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Visual instructions and manuals",
+  "prompt": "Emergency evacuation poster for a space station rendered in the distinctive pictographic style of airport safety instruction cards",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "An emergency evacuation poster for a space station, rendered in the distinctive, minimalist pictographic style of airport safety instruction cards. The design should feature bold, clear line art and a limited, high-contrast color palette (e.g., black, white, red, yellow). Depict universal symbols and sequential instructions for space-specific emergencies, ensuring immediate comprehension.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Emergency poster layout",
+    "Space station environment details",
+    "Minimalist pictograms",
+    "Sequential instruction panels",
+    "Universal symbols",
+    "Space-specific iconography",
+    "Bold line art style",
+    "Black color elements",
+    "White color elements",
+    "Red color elements"
+  ]
+}

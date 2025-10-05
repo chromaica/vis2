@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Smart home control interface with neumorphic design elements, soft shadows and raised buttons, room layouts in isometric view, warm LED indicators, and tactile switch animations",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A clean, modern smart home control interface screen, prominently featuring neumorphic design elements. The interface includes sculpted, raised buttons and interactive UI components casting soft, diffused shadows for a sense of depth. Within the display, miniature room layouts are rendered in an isometric view. Toggle switches and controls are accented with warm, amber LED indicators signifying active states, conveying a highly tactile and responsive user experience.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Smart home control interface screen",
+    "Neumorphic design elements",
+    "Sculpted, raised buttons",
+    "Interactive UI components",
+    "Soft, diffused shadows",
+    "Miniature room layouts (in isometric view)",
+    "Toggle switches",
+    "Controls",
+    "Warm, amber LED indicators"
+  ]
+}

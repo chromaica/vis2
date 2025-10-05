@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Minimalist Designs",
+  "prompt": "An abstract line drawing of a cat, featuring smooth curves and minimal detail on a beige background.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A minimalistic abstract line art depiction of a cat. The design features only smooth, continuous curves with no intricate details. It is presented on a plain, solid beige background.",
+  "annotator": "cwhsu",
+  "objects": [
+    "minimalistic abstract line art cat",
+    "smooth curves",
+    "continuous curves",
+    "plain background",
+    "solid background",
+    "beige background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

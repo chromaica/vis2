@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "ASCII Art",
+  "prompt": "Render the word 'MATRIX' entirely through ASCII artistry. The letters themselves should be constructed from an intricate array of smaller, glowing green ASCII characters, set against a dark, digital void reminiscent of a vintage computer terminal, complete with subtle scanlines and a distinct monospace feel.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate the word 'MATRIX' as intricate ASCII art. Each letter of 'MATRIX' is formed by a complex array of smaller, glowing green ASCII characters. The composition is set against a dark, digital void, evoking a vintage computer terminal display, complete with subtle scanlines and a distinct monospace aesthetic.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "The word 'MATRIX'",
+    "ASCII art (style of the word)",
+    "Smaller ASCII characters (forming the letters)",
+    "Glowing green color (of the characters)",
+    "Dark digital void (background)",
+    "Vintage computer terminal display aesthetic",
+    "Subtle scanlines",
+    "Monospace aesthetic"
+  ],
+  "human_annotation": true
+}

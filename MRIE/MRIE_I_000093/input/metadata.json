@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Edit image 1 to refine the diagram. Adopt the clean, digital graphic style and color palette of image 2 for the overall illustration. Replace the hand-drawn animal icon in the biosphere layer with a vector illustration icon similar to the sheep shown in image 3.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Transform the hand-drawn diagram of Earth's spheres into a refined, digital graphic. Adopt the clean, professional style and color palette observed in image 2 for the entire illustration, including the layered structure, labels ('Atmosphere', 'Biosphere', 'Hydrosphere', 'Lithosphere'), and the main titles (\"The spheres of the earth\", \"The lithosphere and the hydrosphere\"). Specifically, within the 'Biosphere' layer (the second layer from the top on the left side of the diagram), replace the existing hand-drawn animal icon (resembling a cow or sheep) with a new, vectorized animal illustration that matches the clean, stylistic quality of the sheep depicted in image 3.",
+  "annotator": "maxku",
+  "objects": [
+    "Digital layered diagram of Earth's spheres",
+    "Label 'Atmosphere'",
+    "Label 'Biosphere'",
+    "Label 'Hydrosphere'",
+    "Label 'Lithosphere'",
+    "Main title \"The spheres of the earth\"",
+    "Main title \"The lithosphere and the hydrosphere\"",
+    "Vectorized sheep illustration within the Biosphere layer",
+    "Hand-drawn animal icon (should not be present)"
+  ],
+  "human_annotation": true
+}

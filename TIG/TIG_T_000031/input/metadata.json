@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Textual Tattoos",
+  "prompt": "A close-up, photo-realistic portrayal of a forearm tattoo: the word 'INKED' is rendered in a bold, traditional script font using deep black ink with crisp lines and subtle shading on realistic skin.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A close-up, photo-realistic forearm tattoo displaying the word 'INKED'. The text is rendered in a bold, traditional script font using deep black ink, with crisp lines and subtle shading, applied to realistic human skin.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "forearm",
+    "realistic human skin",
+    "tattoo",
+    "the word 'INKED'",
+    "bold traditional script font",
+    "deep black ink",
+    "crisp lines",
+    "subtle shading"
+  ]
+}

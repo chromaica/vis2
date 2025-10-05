@@ -1,0 +1,26 @@
+{
+  "subtopic": "Games",
+  "prompt": "Transform the detailed futuristic game environment in image 1 into the blocky, voxel style seen in image 2, changing its landscape, structures, and textures to match the pixelated aesthetic.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1750833599758,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit image 1, which depicts a detailed futuristic game environment, by applying the blocky, voxel aesthetic from image 2. Specifically, transform the smooth desert landscape, futuristic structures (including the distant towers and ruins), and all environmental textures to adopt the pixelated, block-based style of image 2, while retaining the overall composition and first-person perspective of image 1.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Blocky desert landscape",
+    "Blocky futuristic structures",
+    "Blocky distant towers",
+    "Blocky ruins",
+    "Blocky river",
+    "Sky with clouds",
+    "Foreground weapon"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

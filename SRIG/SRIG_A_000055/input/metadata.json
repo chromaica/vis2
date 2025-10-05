@@ -1,0 +1,18 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Cultural or Heritage art",
+  "prompt": "An Celtic knot pattern in silver against a dark green background",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate an image featuring a prominent triquetra Celtic knot pattern, derived from the design in image 1, rendered in a lustrous metallic silver. This silver knot should be centrally placed against a deep, dark green background.",
+  "annotator": "Johnny",
+  "objects": [
+    "triquetra Celtic knot pattern",
+    "lustrous metallic silver knot",
+    "centrally placed knot",
+    "deep dark green background"
+  ]
+}

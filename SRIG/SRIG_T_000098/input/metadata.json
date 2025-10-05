@@ -1,0 +1,21 @@
+{
+  "task": "SRIG",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Create a meme with the image provided. The meme should have a humorous caption that says it is the same feeling as me doing ice skating with a very thin blade.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "annotator": "donaldtsang",
+  "prompt_refined": "Generate a meme image by overlaying a humorous text caption onto image 1. Position the caption prominently at the bottom of the image. The exact text for the caption should be: 'It is the same feeling as me doing ice skating with a very thin blade.'",
+  "objects": [
+    "Red pickup truck",
+    "Person leaning out of the truck window",
+    "Smoke from burning tires",
+    "Small wheels on the pickup truck",
+    "Paved ground",
+    "Building in the background",
+    "Text caption at the bottom: 'It is the same feeling as me doing ice skating with a very thin blade.'"
+  ]
+}

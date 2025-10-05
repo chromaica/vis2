@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "Modify Image 1 by transforming the simple hummingbird logo into a mechanical style design inspired by Image 2. Apply the purple shades from Image 3's palette to the new logo, making it suitable for a dynamic information graphic.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit Image 1 by transforming the simple black hummingbird logo into a detailed mechanical design. Reference Image 2 for the precise mechanical style, including segmented body parts, articulated joints, and industrial textures. Apply the diverse purple palette from Image 3 to color the new logo, ensuring it is clean, crisp, and dynamic, suitable for an information graphic.",
+  "annotator": "maxku",
+  "objects": [
+    "Hummingbird logo",
+    "Mechanical design",
+    "Segmented body parts",
+    "Articulated joints",
+    "Industrial textures",
+    "Purple color palette",
+    "Clean visual aesthetic",
+    "Crisp visual aesthetic",
+    "Dynamic visual aesthetic"
+  ],
+  "human_annotation": true
+}

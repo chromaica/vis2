@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "Incorporate the mosaic texture from the reference to the flower.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the black flower icon. Apply the mosaic-like texture, intricate geometric patterns, and the distinct color palette (blues, browns, and beiges) from image 2 to entirely fill the shape of the flower in image 1.",
+  "annotator": "Johnny",
+  "objects": [
+    "Flower icon shape",
+    "Mosaic-like texture",
+    "Intricate geometric patterns",
+    "Blue color palette",
+    "Brown color palette",
+    "Beige color palette",
+    "Circular geometric motifs",
+    "Floral-like geometric motifs",
+    "Scrollwork geometric motifs"
+  ],
+  "human_annotation": true
+}

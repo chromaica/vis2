@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "Generate a restaurant receipt using the menu items from the first image, the layout design from the second image, and include a Thank you note at the end.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a restaurant receipt. The receipt's visual style, structure, and specific sections, including the header (restaurant name/logo), address block, date and time details, payment method line, 'QTY DESC AMT' column format, itemized list presentation, dashed line separators, and subtotal/total lines (AMT, SUBTOTAL, TAX, TOTAL), must closely follow the layout design observed in image 2.\n\nPopulate the itemized list with the following menu items and their prices, as identified in image 1, each with a quantity of '1':\n- Vegetable Lasagna ($18.99)\n- Linguine & Clam Sauce ($24.99)\n- Fried Seafood Platter ($27.99)\n\nThe receipt should then accurately calculate and display the corresponding subtotal, tax, and total amounts, positioned at the bottom of the itemized list in the format seen in image 2. Finally, a prominent 'Thank you' note should be included at the very bottom of the receipt, centered below the total.",
+  "annotator": "paria",
+  "objects": [
+    "white restaurant receipt document",
+    "restaurant name and logo at the top",
+    "restaurant address block",
+    "date and time details",
+    "payment method line",
+    "'QTY DESC AMT' column format",
+    "dashed line separators",
+    "itemized list with '1 Vegetable Lasagna $18.99', '1 Linguine & Clam Sauce $24.99', '1 Fried Seafood Platter $27.99'",
+    "subtotal, tax, and total lines with calculated amounts",
+    "\"Thank you\" note at the very bottom, centered"
+  ]
+}

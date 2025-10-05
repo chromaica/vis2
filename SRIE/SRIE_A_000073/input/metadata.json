@@ -1,0 +1,29 @@
+{
+  "subtopic": "Stylized art",
+  "prompt": "Edit image 1: Redraw the sheep head and the rabbit within the circular composition using the distinct geometric, polygonal line art style demonstrated by the deer head in image 2.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748653766196,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1. Redraw the sheep head, located at the bottom of the circular composition, and the rabbit, positioned towards the top-right. Apply the distinct geometric, polygonal line art style demonstrated by the deer head in image 2 to these two elements, ensuring they maintain their original positions and integrate seamlessly into the existing circular layout.",
+  "annotator": "kellycyy",
+  "objects": [
+    "circular composition",
+    "sheep head (bottom, geometric, polygonal line art style)",
+    "rabbit (top-right, geometric, polygonal line art style)",
+    "chicken",
+    "orange slice",
+    "carrots",
+    "sunflower",
+    "pear",
+    "bee",
+    "hop plant"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

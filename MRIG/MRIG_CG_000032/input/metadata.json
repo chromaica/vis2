@@ -1,0 +1,28 @@
+{
+  "subtopic": "VFX and Particles",
+  "prompt": "Create a computer graphics render showing the car from image 2 in motion, emitting a trail of VFX particles. The particles should be stylized similar to the cute, colorful elements found in image 1, swirling dynamically. Focus on a complex particle system effect.",
+  "cond_images": [
+    "1.jpeg",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748422577319,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a computer graphics render of a white Volvo XC40 SUV, precisely matching the appearance of the vehicle in image 2. The car should be depicted in dynamic motion, with subtle motion blur, and positioned centrally, angled slightly towards the viewer. A highly complex and dense VFX particle system should trail directly behind the car. These particles must embody the cute, whimsical aesthetic and vibrant pastel color palette (including light blue, orange, yellow, pink, and white) found in the small flowers and butterflies of image 1, swirling dynamically and expanding outwards as they dissipate.",
+  "annotator": "winston",
+  "objects": [
+    "computer graphics render",
+    "white Volvo XC40 SUV (matching image 2)",
+    "car in dynamic motion",
+    "subtle motion blur",
+    "car positioned centrally, angled towards viewer",
+    "highly complex and dense VFX particle system",
+    "particles trailing directly behind the car",
+    "particles with cute, whimsical aesthetic (from image 1 flowers and butterflies)",
+    "particles with vibrant pastel color palette (light blue, orange, yellow, pink, white)",
+    "particles swirling dynamically and expanding outwards"
+  ],
+  "human_annotation": true
+}

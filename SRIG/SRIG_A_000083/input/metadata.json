@@ -1,0 +1,20 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "A hot ballon floating in the sky",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate an artwork of a hot air balloon with an elongated body, inspired by the form in image 1, floating centrally in the sky.",
+  "annotator": "Johnny",
+  "objects": [
+    "hot air balloon",
+    "shape resembling the form in image 1",
+    "sky",
+    "hot air balloon positioned centrally"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

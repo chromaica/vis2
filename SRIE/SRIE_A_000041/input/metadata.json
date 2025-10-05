@@ -1,0 +1,23 @@
+{
+  "subtopic": "Traditional art",
+  "prompt": "Put the watermelon of image 2 on the hand of man in image 1, while maintaining the artistic style of image 1.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748496050618,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1: Add the watermelon from image 2 onto the man's open, raised hand, ensuring the added watermelon matches the existing artwork style of image 1.",
+  "annotator": "kellycyy",
+  "objects": [
+    "Samurai warrior",
+    "Sword",
+    "Red flag/banner",
+    "Watermelon on the warrior's open, raised hand"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

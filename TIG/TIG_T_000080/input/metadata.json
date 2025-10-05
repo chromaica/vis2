@@ -1,0 +1,19 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "A humorous meme composition: 'Me, trying to adult' in bold white text with a thick black outline, positioned at the top. The background image should portray a slightly overwhelmed individual humorously failing at a simple task within a messy, somewhat chaotic setting, rendered in a relatable style with vivid colors and dynamic composition to capture an everyday struggle.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a humorous meme. Display the text 'Me, trying to adult' in bold white letters with a thick black outline, positioned clearly at the very top of the image. The background should depict a slightly overwhelmed individual humorously failing at a simple, everyday task amidst a messy and chaotic setting. Render the scene in a relatable style with vivid colors and a dynamic composition, capturing the essence of an everyday struggle.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Text: \"Me, trying to adult\" (bold white letters, thick black outline, positioned at the very top of the image)",
+    "Slightly overwhelmed individual",
+    "Individual humorously failing at a simple everyday task",
+    "Objects related to a simple everyday task (e.g., household items, office supplies, cooking tools)",
+    "Scattered objects in the background",
+    "Cluttered surfaces in the background",
+    "Disordered or jumbled items in the setting"
+  ]
+}

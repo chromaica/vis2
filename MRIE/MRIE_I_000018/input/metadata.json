@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "Edit image 1: Replace the wings with the style of wings in image 2. Replace the snakes with the style and olive green color of the snake in image 3, maintaining the two-snake configuration.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the 'Park Map' depicted in Image 1. For all seven geese present in Image 1, modify their wings to adopt the simple, outline-based style of the goose's wing in Image 2. Furthermore, introduce two distinct snake figures into Image 1. These two snake figures should be rendered in an olive green color and emulate the visual style of the snake referenced in Image 3, maintaining a two-snake arrangement.",
+  "annotator": "maxku",
+  "objects": [
+    "Park Map layout",
+    "Park Map title",
+    "Duck Pond",
+    "Seven geese with simple, outline-based wings",
+    "Two distinct olive green snake figures, emulating the visual style of Image 3",
+    "Trees",
+    "Paths",
+    "Slides",
+    "Swings",
+    "Sand Boxes"
+  ]
+}

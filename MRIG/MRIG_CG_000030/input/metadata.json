@@ -1,0 +1,22 @@
+{
+  "subtopic": "Game assets",
+  "prompt": "Create a game asset: the cute cat character outline from image 1, rendered in the simple flat vector style of image 2, potentially with added accessory elements inspired by the bunny ears from image 2.",
+  "cond_images": [
+    "1.png",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748422257678,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a game asset: a cute cat character. Base the cat's form and seated pose on image 1. Render the character in the simple, flat vector style exemplified by image 2. Additionally, incorporate the white and pink bunny ear accessories from image 2, positioned on the cat's head.",
+  "annotator": "winston",
+  "objects": [
+    "cute cat character",
+    "seated cat pose",
+    "simple, flat vector style",
+    "white and pink bunny ear accessories",
+    "bunny ears positioned on the cat's head"
+  ]
+}

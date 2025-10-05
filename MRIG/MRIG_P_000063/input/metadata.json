@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "Create a microscopic-inspired image based on the rod-shaped bacteria the first reference image, but replace the bacteria with the purple jellybeans from the second reference image. Arrange the jellybeans in clusters and chains to mimic bacterial colonies, with some jellybeans slightly overlapping or tilted for a natural look. Use a creamy beige background with faint, blurry specks to evoke a petri dish environment. Introduce variance by adding subtle sugar-like textures or micro-cracks on some jellybeans, and include a soft lens flare effect to enhance the microscopic illusion.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic, microscopic-inspired image. The composition should strongly mimic the dense, widespread distribution of rod-shaped bacteria observed in image 1. Instead of bacteria, depict numerous purple jellybeans, accurately reflecting the color and shape of those shown in image 2. Arrange these jellybeans across the entire frame in intricate clusters and elongated chains, mirroring the colony formations from image 1. Ensure many jellybeans are slightly overlapping or naturally tilted to enhance realism. The background should be a creamy beige, subtly textured with faint, blurry specks to evoke a petri dish environment. Introduce subtle variations on the jellybean surfaces, such as delicate sugar-like textures or minuscule micro-cracks on select pieces. Finally, incorporate a soft, diffused lens flare effect to reinforce the microscopic illusion.",
+  "objects": [
+    "Numerous purple jellybeans",
+    "Dense, widespread distribution of jellybeans",
+    "Jellybeans in intricate clusters",
+    "Jellybeans in elongated chains",
+    "Slightly overlapping jellybeans",
+    "Naturally tilted jellybeans",
+    "Creamy beige background",
+    "Subtly textured background with faint, blurry specks",
+    "Delicate sugar-like textures on jellybean surfaces",
+    "Soft, diffused lens flare effect"
+  ]
+}

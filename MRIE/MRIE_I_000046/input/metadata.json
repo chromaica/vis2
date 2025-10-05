@@ -1,0 +1,25 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "Edit image 1, a UI mockup, by replacing the main hero image of Black Panther on the first screen with the dynamic full-body Iron Man character from image 2. Additionally, apply a metallic red and gold color scheme and high-tech visual style inspired by the Iron Man armor rendering in image 3 to the UI elements and overall theme.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, a UI mockup, by making two modifications:\n1.  Replace the large hero image of Black Panther on the left screen with the dynamic, full-body Iron Man character shown in image 2. Position Iron Man prominently as the main visual element in this section, maintaining a similar composition to the original Black Panther image.\n2.  Apply a metallic red and gold color scheme and a high-tech visual aesthetic to all UI elements (including buttons, icons, text, and background gradients) across both screens of image 1. The styling should be inspired by the distinct colors, polished metal textures, and glowing details of the Iron Man armor rendering in image 3, ensuring a cohesive and sophisticated technological theme throughout the user interface.",
+  "annotator": "maxku",
+  "objects": [
+    "UI mockup screens (left and right)",
+    "Dynamic, full-body Iron Man character on the left screen",
+    "Black Panther hero image (should not be present)",
+    "UI buttons and icons with metallic red and gold styling",
+    "UI text elements with metallic red and gold styling",
+    "Background gradients with metallic red and gold styling",
+    "Polished metal textures on UI elements",
+    "Glowing details on UI elements",
+    "Smaller movie posters in \"Movies on Theater\" section"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "subtopic": "Collage",
+  "prompt": "Edit image 1, a finished collage landscape. Incorporate the elements of collage creation seen in image 2: add scattered torn paper pieces around the artwork and partially on it, simulating the process and materials shown in image 2.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "Contemporary collage artwork",
+  "searchQueryGeneratedTimestamp": 1748485987127,
+  "promptGeneratedTimestamp": 1748486112435,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1, the finished collage landscape. Add small, irregularly torn paper pieces, similar in style and scattered arrangement to those seen in image 2. Distribute these torn pieces around the artwork, as if on a workspace, ensuring some pieces partially overlap the edges and surface of the collage in image 1, simulating the ongoing process of creation.",
+  "annotator": "kellycyy",
+  "objects": [
+    "Collage landscape artwork",
+    "Small, irregularly torn paper pieces",
+    "Scattered arrangement of torn paper pieces",
+    "Workspace surface",
+    "Torn paper pieces partially overlapping the collage artwork"
+  ]
+}

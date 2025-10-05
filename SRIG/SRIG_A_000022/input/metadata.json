@@ -1,0 +1,17 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Stylized art",
+  "prompt": "Generate a stylized art of a cat",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a stylized artwork depicting a cat. The cat should be presented as a high-contrast black silhouette against a plain white background, drawing visual inspiration from the minimalist style and composition of image 1. Place the stylized cat centrally, similar to the dominant form in image 1, with a defined black ground line at the bottom.",
+  "annotator": "Johnny",
+  "objects": [
+    "Centrally placed stylized black silhouette cat",
+    "Plain white background",
+    "Defined black ground line at the bottom"
+  ]
+}

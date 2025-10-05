@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Online Meeting Interfaces",
+  "prompt": "In image 1, replace the participant highlighted with a yellow border (Melanija Me\u017enari\u0107, bottom-left tile) with the man from image 2, preserving tile size, lighting, and alignment. Then, replace the entire sidebar on the right with the vertically stretched Facetime logo from image 3, ensuring the logo remains within the boundaries of the sidebar area without overlapping other UI elements.",
+  "cond_images": [
+    "1.png",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit **image 1** (the Zoom meeting screenshot). Replace the participant 'Melanija Me\u017enari\u0107' in the bottom-left video tile (highlighted with a yellow border) with the man from **image 2**, ensuring the new participant's video tile maintains the original size, lighting, and alignment within the grid. Additionally, replace the entire chat sidebar on the right side of the screen with the FaceTime logo from **image 3**, vertically stretching the logo to fill the sidebar's height while keeping it strictly within the sidebar's boundaries and preventing any overlap with other UI elements.",
+  "annotator": "parnian",
+  "objects": [
+    "Zoom meeting interface",
+    "Video tile grid",
+    "Man from image 2 in bottom-left video tile",
+    "FaceTime logo filling right sidebar",
+    "Melanija Me\u017enari\u0107 (should not be present)",
+    "Chat sidebar (should not be present)",
+    "Milo\u0161 Milo\u0161evi\u0107 in video tile",
+    "Zdenka Vitansky in video tile",
+    "MYNGO ASSIST in video tile",
+    "Vladimir Mrdakovi\u0107 in video tile"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Cultural or Heritage art",
+  "prompt": "Generate a watercolor painting of a pagoda based on the silhouette. Place it on land with trees or grass.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "https://pixabay.com/photos/pagoda-vietnam-hanoi-water-asian-8612554/",
+  "prompt_refined": "Generate a watercolor painting of the multi-tiered pagoda depicted in image 1. The artwork should exhibit characteristic watercolor textures, soft washes, and blended colors. Position the pagoda centrally on a natural landscape, featuring green grass in the foreground and surrounding trees or foliage in the background.",
+  "annotator": "Johnny",
+  "objects": [
+    "multi-tiered pagoda (centrally positioned)",
+    "watercolor painting style",
+    "watercolor textures",
+    "soft washes",
+    "blended colors",
+    "natural landscape",
+    "green grass in the foreground",
+    "trees in the background",
+    "foliage in the background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

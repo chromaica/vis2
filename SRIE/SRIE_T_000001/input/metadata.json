@@ -1,0 +1,21 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "Make the texts in the masked area bold and change the color to blue.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Use image 2 as a reference to identify the specific masked regions. Apply the following modifications to the text 'YOURMUSICYOURMUSIC' found within the two circular areas at the base of the musical note graphic: make the text bold and change its color to blue.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Musical note graphic formed by text",
+    "Text \"YOUR MUSIC YOUR MUSIC\" at the top of the musical note graphic",
+    "Text \"YOUR MUSIC\" forming the vertical stems of the musical note graphic",
+    "Bold blue text \"YOURMUSICYOURMUSIC\" in the left circular area at the base of the musical note",
+    "Bold blue text \"YOURMUSICYOURMUSIC\" in the right circular area at the base of the musical note",
+    "Light gray background"
+  ]
+}

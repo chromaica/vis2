@@ -1,0 +1,25 @@
+{
+  "subtopic": "Astronomical images",
+  "prompt": "Edit image 1 into a photorealistic astronomical scene: Render the central shape as a spiral galaxy using the structure and fiery colors from image 2. Change the color palette to math image 3.",
+  "cond_images": [
+    "1.png",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749223263104,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "P",
+  "prompt_refined": "Edit image 1. Transform the large, elongated central white region into a photorealistic spiral galaxy. This galaxy should adopt the intricate structure and vibrant fiery orange, yellow, and deep red colors from image 2. For the surrounding cosmic environment and the overall scene's palette, incorporate the deep reds, purples, and teal hues characteristic of image 3, including its scattered stars, against a dark cosmic background. The final output must be a cohesive, photorealistic astronomical scene.",
+  "annotator": "boris",
+  "objects": [
+    "A large, elongated central photorealistic spiral galaxy",
+    "Fiery orange, yellow, and deep red colors (for the galaxy)",
+    "Intricate galaxy structure",
+    "Surrounding cosmic environment",
+    "Deep red, purple, and teal hues (for the cosmic environment)",
+    "Scattered stars",
+    "Dark cosmic background"
+  ]
+}

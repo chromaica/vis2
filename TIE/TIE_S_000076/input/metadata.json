@@ -1,0 +1,25 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Change the font style of the email content to a serif typeface for a more formal appearance.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 by changing the font style of the main email body text on the mobile phone screen (the paragraph starting with \"Hey! Good week?\") from its current sans-serif style to a serif typeface, to give it a more formal appearance.",
+  "annotator": "cwhsu",
+  "objects": [
+    "ConceptDraw PRO application window",
+    "Mobile phone screen",
+    "Email compose interface on the phone screen",
+    "\"Compose\" header bar (on mobile screen)",
+    "Email recipient fields (on mobile screen)",
+    "Email subject line \"Saturday night?\" (on mobile screen)",
+    "Main email body text in serif typeface (on mobile screen)",
+    "Character counter (on mobile screen)",
+    "On-screen keyboard (on mobile screen)",
+    "Android navigation bar (on mobile screen)"
+  ],
+  "human_annotation": true
+}

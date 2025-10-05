@@ -1,0 +1,24 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": "add a bubble an inside the bubble write 'Let's Go' in red",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit `image 1` by adding a text bubble in the upper right corner. Inside the bubble, write the phrase 'Let's Go' in red text. Ensure the added bubble and text are consistent with the comic book style and aesthetic of `image 2`.",
+  "annotator": "matina",
+  "objects": [
+    "Male superhero in red suit",
+    "Male superhero in blue suit",
+    "Female superhero in red dress",
+    "Comic book art style",
+    "Text bubble in the upper right corner",
+    "The phrase 'Let's Go'",
+    "Red text 'Let's Go'"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

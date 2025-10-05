@@ -1,0 +1,22 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Stylized art",
+  "prompt": "Generate a stylized illustration featuring a character in the charming whimsical art style of image 1, interacting with a flower similar to the one depicted in image 2, rendered with a bright, graphic quality.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a stylized illustration depicting a whimsical character, similar to the big-eyed duck wearing a hat from image 1, gently interacting with a pink Cosmos flower, directly inspired by image 2. The scene should be rendered in the charming, bright, and graphic art style evident in image 1.",
+  "annotator": "samin",
+  "objects": [
+    "whimsical big-eyed character (duck-like)",
+    "hat (on character)",
+    "pink Cosmos flower",
+    "character gently interacting with flower",
+    "charming art style",
+    "bright colors",
+    "graphic art style"
+  ]
+}

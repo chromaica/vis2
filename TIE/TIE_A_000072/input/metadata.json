@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Romanticism",
+  "prompt": "Increase the contrast. Expand the image horizontally and make the image 21:9.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the artwork in image 1. Globally increase the contrast of the scene. Expand the image horizontally by outpainting the existing landscape and sky, extending the scene to achieve a 21:9 aspect ratio.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "sunset sky",
+    "clouds",
+    "mountain landscape",
+    "river",
+    "stone bridge/aqueduct",
+    "castle/fortress on mountain",
+    "ruined stone structure on the left",
+    "trees and foliage",
+    "human figures by and in the river",
+    "other buildings/towers in the landscape"
+  ]
+}

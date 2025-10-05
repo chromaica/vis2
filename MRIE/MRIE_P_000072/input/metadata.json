@@ -1,0 +1,24 @@
+{
+  "subtopic": "Astronomical images",
+  "prompt": "Edit image 1 by adding the lunar rover from image 2 onto the surface, making it appear parked near the flag. Incorporate the satellite from image 3 into the dark sky above, depicted orbiting the moon. Ensure photorealistic integration of these elements into the lunar landscape.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749223101194,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "P",
+  "prompt_refined": "Edit image 1. Add the lunar rover from image 2 onto the lunar surface, positioning it parked near the flag in the foreground. Integrate the satellite from image 3 into the upper dark sky, depicting it in orbit above the lunar landscape. Ensure all added elements are photorealistically integrated with the existing scene.",
+  "annotator": "boris",
+  "objects": [
+    "lunar surface",
+    "flag in the foreground",
+    "lunar rover parked near the flag",
+    "hills in the background",
+    "dark sky",
+    "satellite in the upper dark sky"
+  ]
+}

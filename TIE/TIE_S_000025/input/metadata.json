@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "Transform the stealthy operative into a futuristic cyber-ninja, blending sleek armor with neon accents and high-tech gadgets for an epic quest.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Transform the central operative character into a futuristic cyber-ninja. Update their attire to sleek, form-fitting black armor with prominent glowing neon blue and purple accents, particularly on the limbs and torso. Integrate high-tech gadgets such as a more advanced facial mask with integrated optics, glowing wrist-mounted displays, and subtle glowing data lines running across the armor.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Futuristic cyber-ninja character",
+    "Sleek, form-fitting black armor",
+    "Prominent glowing neon blue accents on armor",
+    "Prominent glowing neon purple accents on armor",
+    "Advanced facial mask with integrated optics",
+    "Glowing wrist-mounted displays",
+    "Subtle glowing data lines running across armor",
+    "Game user interface (UI)",
+    "Dark textured floor",
+    "Dark background behind the character"
+  ]
+}

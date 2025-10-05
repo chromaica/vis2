@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Transform this graph into a visually appealing mind map with a chalkboard style.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Transform the organizational chart in image 1 into a mind map. Center the 'Chairman' node, with 'Managing Director', 'Secretary', and 'Quality Assurance' branching out radially as primary ideas. Their respective departments (e.g., 'Marketing', 'Reception', 'Auditing') should further branch as sub-ideas, maintaining the hierarchical relationships shown in image 1. Render the entire visual with a chalkboard aesthetic: a dark, textured blackboard background, and all text and connecting lines appearing as if drawn with white chalk. The lines should be flowing and organic, typical of a mind map.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Dark, textured blackboard background",
+    "'Chairman' node, centrally placed",
+    "'Managing Director' node, branching radially",
+    "'Secretary' node, branching radially",
+    "'Quality Assurance' node, branching radially",
+    "'Marketing' node, branched as a sub-idea",
+    "'Reception' node, branched as a sub-idea",
+    "'Auditing' node, branched as a sub-idea",
+    "Flowing, organic connecting lines",
+    "Other department nodes (Administration, IT, Finance, Human Resources, Office Manager, Monitoring, Quality), branched as sub-ideas"
+  ]
+}

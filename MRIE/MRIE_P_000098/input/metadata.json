@@ -1,0 +1,25 @@
+{
+  "subtopic": "Microscopic imagery",
+  "prompt": "Edit image 1: Modify the tardigrade's morphology and spiky features to resemble the creature in image 2. Replace the current background with the abstract red/orange gradient and bubbly fractal texture from image 3, retaining the microscopic perspective.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749307465378,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "P",
+  "prompt_refined": "Edit image 1: Modify the tardigrade's morphology and spiky features in image 1 to specifically resemble the segmented, reddish-orange body and prominent spiky appendages of the creature in image 2. Replace the existing green textured background with the abstract red/orange gradient and intricate bubbly fractal pattern from image 3, while retaining the original microscopic perspective.",
+  "annotator": "boris",
+  "objects": [
+    "reddish-orange tardigrade",
+    "segmented body",
+    "prominent spiky appendages",
+    "abstract red/orange gradient background",
+    "intricate bubbly fractal pattern",
+    "microscopic perspective",
+    "green textured background (should not be present)"
+  ]
+}

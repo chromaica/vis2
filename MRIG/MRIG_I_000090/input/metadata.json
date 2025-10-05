@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "A UI mockup of a reading app where the input images are used as book covers. Display them as horizontal scrollable cards, each with the book cover at the top, followed by the title, author name, and a 'Read Now' button.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg",
+    "4.png"
+  ],
+  "remarks": "",
+  "annotator": "matina",
+  "prompt_refined": "Generate a UI mockup for a reading application. The main section should display a horizontal scrollable row of book cards. Each card must clearly present a book's information with its cover positioned at the top, followed vertically by the book's title, then the author's name, and finally a 'Read Now' button at the bottom of the card.\n\nSpecifically, the first card visible from the left should feature image 1 as its book cover, with the title \"The Alchemist\" and author \"Paulo Coelho\". The second card to its right should feature image 2 as its book cover, with the title \"Ask the Dust\" and author \"John Fante\". The third card should feature image 3 as its book cover, with the title \"A Man Called Ove\" and author \"Fredrik Backman\". The fourth card should feature image 4 as its book cover, with the title \"The Adventures of Oliver Twist\" and author \"Charles Dickens\". The arrangement should strongly suggest a horizontal scroll functionality for viewing more content.",
+  "objects": [
+    "UI mockup for a reading application",
+    "Horizontal scrollable book card section",
+    "Book card 1: featuring Image 1 cover, \"The Alchemist\" title, \"Paulo Coelho\" author, and \"Read Now\" button (leftmost position)",
+    "Book card 2: featuring Image 2 cover, \"Ask the Dust\" title, \"John Fante\" author, and \"Read Now\" button (to the right of Card 1)",
+    "Book card 3: featuring Image 3 cover, \"A Man Called Ove\" title, \"Fredrik Backman\" author, and \"Read Now\" button (to the right of Card 2)",
+    "Book card 4: featuring Image 4 cover, \"The Adventures of Oliver Twist\" title, \"Charles Dickens\" author, and \"Read Now\" button (to the right of Card 3)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

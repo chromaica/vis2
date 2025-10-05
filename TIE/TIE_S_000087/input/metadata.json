@@ -1,0 +1,21 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Change the terminal interface to display a matrix-style, green-on-black theme.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Transform the content displayed within the open terminal window to a dynamic, matrix-style code flow. The code should appear in a vibrant green color against the terminal's existing black background, replicating the aesthetic of the flowing green characters from 'The Matrix'. Only the content inside the terminal window should be altered.",
+  "annotator": "cwhsu",
+  "objects": [
+    "macOS desktop background",
+    "macOS menu bar",
+    "macOS Dock",
+    "Terminal window frame",
+    "Terminal window title bar",
+    "Black terminal background (inside the window)",
+    "Dynamic matrix-style green code flow (inside the terminal window)"
+  ]
+}

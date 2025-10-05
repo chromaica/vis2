@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "P",
+  "subtopic": "Urban & Street Photography",
+  "prompt": "Make the chick from the second image follow the goose from the third image, then adding them both to the river in the first image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 by adding the goose from image 3 and the chick from image 2 to the river. Position the chick to be swimming directly behind the goose. Place both animals in the calm reflective waters of the river in the foreground, slightly to the left of the bridge, ensuring their appearance, water reflections, and lighting are consistent with the twilight scene of image 1.",
+  "annotator": "boris",
+  "objects": [
+    "River with calm reflective waters",
+    "Stone bridge",
+    "Goose swimming in the river, in the foreground, slightly to the left of the bridge",
+    "Chick swimming directly behind the goose in the river",
+    "Cityscape with a large dome in the background",
+    "Twilight sky with clouds",
+    "Reflections of cityscape and sky in the water",
+    "Reflections of the goose and chick in the water",
+    "Trees on the left bank",
+    "Twilight lighting on all elements"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

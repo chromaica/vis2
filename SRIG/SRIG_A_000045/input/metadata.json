@@ -1,0 +1,25 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "Create a collage style of a cartoon style of a cat.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate an image of a cat in a cartoon style rendered as a collage, precisely following the silhouette and composition provided in image 1. The collage should feature layered paper cut-out elements, creating the cat's form and details with simplified shapes and bold cartoon outlines, consistent with the distinct whiskers shown in image 1.",
+  "annotator": "Johnny",
+  "objects": [
+    "Cat",
+    "Cartoon style",
+    "Collage rendering",
+    "Layered paper cut-out elements",
+    "Simplified shapes",
+    "Bold cartoon outlines",
+    "Cat silhouette (as provided in image 1)",
+    "Cat composition (as provided in image 1)",
+    "Distinct whiskers (as shown in image 1)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

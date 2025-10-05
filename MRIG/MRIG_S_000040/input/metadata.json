@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "Generate a gift receipt that uses the overall layout from the first image at the top, and includes a personalized gift message inspired by the second image at the bottom.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "Gift receipts omit pricing information to keep their value hidden from gift recipients.",
+  "prompt_refined": "Generate a new gift receipt. The receipt's overall layout, including the store information, 'GIFT RECEIPT' title, transaction details, item list (e.g., 'Light Rhapsody Alexa', 'Holiday String Lights'), barcode, and return policy information, must be derived from image 1. At the very bottom of this new receipt, below the barcode and return policy section, incorporate a personalized gift message box. This box should visually emulate image 2, featuring a gift icon and a prominent title like 'A gift for you', and contain a multi-line personalized message inspired by image 2's content and structure.",
+  "annotator": "paria",
+  "objects": [
+    "Store information (e.g., Seattle 1984, Seattle Store address, phone number)",
+    "\"GIFT RECEIPT\" title",
+    "Transaction details (e.g., #0000123, 12/07/2018, Jordan Shaw)",
+    "Item list (including 'Light Rhapsody Alexa' and 'Holiday String Lights')",
+    "\"Thank you for your purchase!\" message",
+    "Barcode",
+    "Return policy information (e.g., \"Return within 15 days\")",
+    "Personalized gift message box (visually emulating a bordered box)",
+    "Gift icon (within the message box)",
+    "\"A gift for you\" title (within the message box)"
+  ]
+}

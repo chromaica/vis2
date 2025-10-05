@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "Generate a vintage-inspired tourism poster titled 'Europe Awaits \u2013 Take the Scenic Route', by blending the illustrative detail of the first image and the breezy tone of the second image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a vintage-inspired tourism poster titled 'Europe Awaits \u2013 Take the Scenic Route'. The poster should feature this title prominently, set in an elegant, classic typeface suitable for a vintage travel advertisement. The visual style of the poster, including iconic European architecture and various human figures, must capture the rich, intricate illustrative detail and hand-drawn quality exemplified by image 1. Simultaneously, incorporate the light, expansive atmosphere and soft pastel blue and white color palette, along with subtle, blurred background elements, to convey the 'breezy tone' observed in image 2. The final image should be a harmonious blend of the detailed artistry of image 1 and the serene, airy aesthetic of image 2.",
+  "annotator": "parnian",
+  "objects": [
+    "'Europe Awaits \u2013 Take the Scenic Route' title",
+    "Vintage poster design",
+    "Elegant, classic typeface",
+    "Iconic European architecture",
+    "Various human figures",
+    "Rich, intricate illustrative detail",
+    "Hand-drawn quality",
+    "Soft pastel blue and white color palette",
+    "Light, expansive atmosphere",
+    "Subtle, blurred background elements"
+  ],
+  "human_annotation": true
+}

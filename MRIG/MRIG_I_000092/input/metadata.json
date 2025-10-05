@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "Generate a fitness tracker app UI mockup. Use Image 1 for the dashboard banner, Image 2 for the daily steps widget, and Image 3 for heart rate tracking.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.png"
+  ],
+  "remarks": "",
+  "annotator": "matina",
+  "prompt_refined": "Generate a modern fitness tracker app UI dashboard. At the top, create a prominent banner incorporating the running silhouette style from image 1. Below this banner, display a daily steps widget on the left, visually consistent with the circular design, progress bar, running icon, and step count presentation seen in image 2. On the right, include a heart rate tracking widget, designed in the style of image 3, featuring its circular display, heart icon, BPM value, and ECG line.",
+  "objects": [
+    "Modern fitness tracker app UI dashboard",
+    "Prominent banner",
+    "Running silhouette (in banner, style from image 1)",
+    "Daily steps widget on the left",
+    "Circular steps progress bar (from image 2)",
+    "Running icon (in steps widget, from image 2)",
+    "Step count (in steps widget, from image 2)",
+    "Heart rate tracking widget on the right",
+    "Circular heart rate display (from image 3)",
+    "Heart icon, BPM value, and ECG line (in heart rate widget, from image 3)"
+  ]
+}

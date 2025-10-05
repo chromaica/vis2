@@ -1,0 +1,23 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Cultural or Heritage art",
+  "prompt": "A samurai in traditional armor standing under cherry blossoms",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate an image of a samurai in traditional armor standing under cherry blossoms. The samurai should be a full-body depiction, adopting the pose, intricate traditional armor details including the horned kabuto helmet, and weapon placement (katana held, two sheathed at hip) as shown in image 1. A vibrant canopy of pink cherry blossoms should be overhead, with petals gently falling around the samurai figure.",
+  "annotator": "Johnny",
+  "objects": [
+    "Samurai figure (full-body)",
+    "Traditional armor (intricate details)",
+    "Horned kabuto helmet",
+    "Katana held by samurai",
+    "Two sheathed katanas at hip",
+    "Vibrant pink cherry blossom canopy (overhead)",
+    "Falling cherry blossom petals"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

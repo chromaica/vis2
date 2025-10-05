@@ -1,0 +1,27 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "Edit image 1: Replace the user icon with the Omnitrix symbol from image 2. Style the subscribe button like the green glossy button in image 4. Replace the video frame with image 3.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png",
+    "4.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1:\n1. Replace the red circular user profile icon located below the video player and to the left of the channel name with the Omnitrix symbol from image 2.\n2. Apply the glossy green and reflective visual style of the button in image 4 to the red 'SUBSCRIBE 2.0M' button on the right side, while retaining its original rectangular shape and text.\n3. Replace the content within the main video player screen with the animated screenshot from image 3.",
+  "annotator": "maxku",
+  "objects": [
+    "Video player interface",
+    "Omnitrix symbol below video player",
+    "Channel name \"Lorem Ipsum Dolor\"",
+    "Glossy green and reflective 'SUBSCRIBE 2.0M' button",
+    "Animated screenshot of Ben 10 in video player screen",
+    "Video title \"Lorem Ipsum Dolor Sit Amet - Lorem Ipsum Dolor Sit\"",
+    "Video views \"300 views\"",
+    "Like, dislike, and other interaction icons below video",
+    "Hashtags (#loremipsum, #loremipsum)",
+    "\"designed by freepik\" footer"
+  ]
+}

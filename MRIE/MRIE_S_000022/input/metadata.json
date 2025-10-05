@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": " In image 1, replace the top \u201cSHOP NOW\u201d button on the right-side hero banner with the \u201cBUY NOW\u201d button from image 3, keeping its position and size. Add the shopping bags and credit card icon from image 2 to the left of the 'Glamour' brand name in the top navigation bar, scaled down to fit beside the logo. Do not modify the rest of the layout.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit **image 1** by performing the following modifications:\n\n1.  Replace the pink 'SHOP NOW' button located in the top-right hero banner with the 'BUY NOW' button from **image 3**. The new button should maintain the exact position and overall dimensions of the original button in **image 1**, while adopting the visual style, including its black outline, white fill, and shopping cart icon, as seen in **image 3**.\n2.  Add the combined shopping bags and credit card icon (the leftmost icon set) from **image 2** to the immediate left of the 'Glamour' brand name in the top navigation bar. Scale these icons down as necessary to fit proportionally beside the 'Glamour' logo without obscuring any existing elements.\n\nEnsure no other parts of **image 1** or its layout are altered.",
+  "annotator": "parnian",
+  "objects": [
+    "website layout",
+    "woman in orange sweater in hero banner",
+    "\"Glamour\" brand name",
+    "combined shopping bags and credit card icon to the left of \"Glamour\"",
+    "navigation bar with text links and icons",
+    "text \"Fancy Wear\"",
+    "text \"Shopping As You Love.\"",
+    "'BUY NOW' button with shopping cart icon in hero banner",
+    "three lower sections with images of people",
+    "pink 'SHOP NOW' button in hero banner (should not be present)"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Forms and Authentication",
+  "prompt": "In image 1, add the black padlock icon from image 2 to the left of the 'Password' field, and add the small green check mark from image 3 to the right of the 'Email Address' field scaled proportionally to match surrounding UI elements to simulate valid input. Keep button alignment and blue background unchanged.",
+  "cond_images": [
+    "1.png",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, a screenshot of a login form. Add the black padlock icon from image 2 to the left of the 'Password' input field. Then, add the green check mark icon from image 3 to the right of the 'Email Address' input field, ensuring it is scaled proportionally to match surrounding UI elements and simulate valid input. Preserve the original button alignment and the blue background of image 1.",
+  "annotator": "parnian",
+  "objects": [
+    "Blue background",
+    "White login form container",
+    "\"Welcome\" text",
+    "\"Email Address\" input field",
+    "Green check mark icon (to the right of 'Email Address' input field)",
+    "\"Password\" input field",
+    "Black padlock icon (to the left of 'Password' input field)",
+    "\"Forgot Password\" link",
+    "\"Login\" button",
+    "\"Don't have an account? SignUp\" text/link"
+  ]
+}

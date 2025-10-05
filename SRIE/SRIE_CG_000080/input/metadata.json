@@ -1,0 +1,22 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Image Transformation",
+  "prompt": "Rotate (clockwise) each 2D shape in the grid according to its corresponding angle in the reference.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. For each 2D shape in the 5x5 grid of image 1, rotate it clockwise. Determine the rotation angle for each shape by its corresponding color in the 5x5 grid of image 2, using the color bar in image 2 as a reference for angle values.",
+  "annotator": "nimajamali",
+  "objects": [
+    "25 2D shapes",
+    "Shapes include squares, triangles, and rectangles",
+    "Shapes in various colors (e.g., green, purple, blue, pink, orange, red, brown, beige)",
+    "Shapes arranged in a 5x5 grid formation",
+    "Each shape rotated clockwise",
+    "White background"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,17 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "Texture maps",
+  "prompt": "A texture map of a cherry wood table.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a seamless, high-resolution texture map depicting the distinctive grain and warm, reddish-brown color of a polished cherry wood table surface.",
+  "annotator": "maxku",
+  "objects": [
+    "cherry wood surface",
+    "wood grain patterns",
+    "warm reddish-brown color",
+    "polished surface sheen"
+  ],
+  "human_annotation": true
+}

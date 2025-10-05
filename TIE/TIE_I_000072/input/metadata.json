@@ -1,0 +1,26 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Floor Plan",
+  "prompt": "Add a spiral staircase connecting the first and second floors in place of the current staircase.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the existing staircase symbol with a spiral staircase symbol within the 'FIRST FLOOR' plan (located in the top-right section of image 1) and the 'SECOND FLOOR' plan (located in the bottom-right section of image 1).",
+  "annotator": "cwhsu",
+  "objects": [
+    "Blueprint drawing background",
+    "\"FLOOR PLAN\" title",
+    "House elevation architectural drawing",
+    "First floor plan diagram",
+    "Second floor plan diagram",
+    "\"FIRST FLOOR\" label",
+    "\"SECOND FLOOR\" label",
+    "Existing staircase symbols (should not be present)",
+    "Spiral staircase symbol in 'FIRST FLOOR' plan",
+    "Spiral staircase symbol in 'SECOND FLOOR' plan"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

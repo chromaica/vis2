@@ -1,0 +1,27 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Pop art",
+  "prompt": "In image 1, replace the reflection in the woman's sunglasses with the scene from image 2, and make the woman smoke the cigarette from image 3.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Replace the reflection in the woman's heart-shaped sunglasses with the kissing couple scene from image 2. Additionally, add a lit cigarette from image 3 to the woman's mouth, with smoke rising.",
+  "annotator": "paria",
+  "objects": [
+    "woman's face",
+    "heart-shaped sunglasses",
+    "kissing couple scene in sunglasses",
+    "lit cigarette at woman's mouth",
+    "smoke rising",
+    "tear",
+    "red lips",
+    "brown hair",
+    "\"GOODBYE TO ROMANCE\" speech bubble"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

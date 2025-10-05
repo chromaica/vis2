@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": "Design a children's educational platform with bright rainbow colors, cartoon mascot characters, gamified learning modules, sticker reward systems, and playful animated transitions between sections",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a high-fidelity screenshot of a children's educational platform user interface. The design should predominantly feature a vibrant rainbow color palette (red, orange, yellow, green, blue, purple hues). A friendly, cheerful cartoon mascot character is prominently displayed on the screen, possibly at the bottom-center or side. The central area of the UI presents multiple interactive gamified learning modules, depicted as colorful, distinct activity cards or levels arranged in a grid. On the top-right or top-left, incorporate a visible sticker reward system, showcasing collected stickers or a progress bar towards rewards. All UI elements, including buttons and borders, should have soft, rounded edges and a playful aesthetic, suggesting dynamic, animated transitions.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Children's educational platform user interface",
+    "Friendly, cheerful cartoon mascot character (prominently displayed, bottom-center or side)",
+    "Multiple interactive gamified learning modules (as colorful activity cards or levels)",
+    "Learning modules arranged in a grid (in the central area)",
+    "Visible sticker reward system (on the top-right or top-left)",
+    "Collected stickers or a progress bar (within the reward system)",
+    "UI elements with soft, rounded edges",
+    "Vibrant rainbow color palette (predominant UI theme)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

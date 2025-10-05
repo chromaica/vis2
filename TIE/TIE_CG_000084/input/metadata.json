@@ -1,0 +1,23 @@
+{
+  "subtopic": "Volume Rendering",
+  "prompt": "Change the color scheme of the volume rendered bone structures to a cool blue, high-contrast medical visualization style.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751799561177,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1, which displays a volume rendered image of human bone structures (ribs, spine, and pelvis). Change the current warm, brownish color scheme of these bone structures to a cool blue. The edited image should maintain a high-contrast appearance consistent with a medical visualization style.",
+  "annotator": "edisy",
+  "objects": [
+    "cool blue ribs",
+    "cool blue spine",
+    "cool blue pelvis",
+    "medical device (stent/catheter)",
+    "black background",
+    "scale marker",
+    "orientation indicators"
+  ]
+}

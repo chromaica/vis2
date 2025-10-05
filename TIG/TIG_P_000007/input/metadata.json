@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "A street market, vibrant with colorful produce and buyers haggling under a canopy of hanging lights.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic image of a vibrant, bustling street market, with an abundant display of colorful fresh produce on various stalls. Multiple buyers are engaged in animated haggling with vendors. Overhead, a dense canopy of warm, glowing string lights illuminates the entire market, creating an inviting evening atmosphere.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Street market scene",
+    "Market stalls",
+    "Colorful fresh produce display",
+    "Buyers (people)",
+    "Vendors (people)",
+    "People engaged in haggling",
+    "Dense canopy of string lights overhead",
+    "Warm glowing illumination",
+    "Evening atmosphere",
+    "Bustling activity"
+  ]
+}

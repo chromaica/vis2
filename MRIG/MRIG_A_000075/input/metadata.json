@@ -1,0 +1,23 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Cultural or Heritage art",
+  "prompt": "Create a cultural heritage mosaic artwork. Depict the kneeling devotional figure from image 1, rendered in the intricate tesserae and golden art style of image 2. Incorporate the cross and radiating light from image 1 in the mosaic.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a cultural heritage mosaic artwork. The composition features a kneeling devotional figure, replicating the silhouette's pose from image 1. Above the figure, include the prominent cross with radiating light rays, also derived from image 1. The entire artwork, including the figure, cross, and background, must be rendered in the distinctive Byzantine mosaic style of image 2, characterized by intricate, small tesserae and a rich golden backdrop.",
+  "annotator": "samin",
+  "objects": [
+    "cultural heritage mosaic artwork",
+    "kneeling devotional figure",
+    "figure's pose replicating image 1",
+    "prominent cross (above the figure)",
+    "radiating light rays (around the cross)",
+    "Byzantine mosaic style",
+    "intricate, small tesserae",
+    "rich golden backdrop"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "subtopic": "Computer Animation",
+  "prompt": "Edit image 1: Introduce the curious dog from image 2 peeking near the laptop. Replace the screen content on the tablet and laptop with a colorful, simple computer graphic drawing in the style seen on the screen in image 3, reflecting a creative task.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748455067926,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1:\nIntroduce the curious, brown, shaggy dog from image 2, positioned on the table to the left of the laptop, with its head peeking up as if observing the screens.\nReplace the content on both the tablet and laptop screens with a colorful, simple computer graphic drawing. This drawing should be in the distinct, naive style seen on the screen in image 3, reflecting a creative artistic task.",
+  "annotator": "winston",
+  "objects": [
+    "hands",
+    "tablet",
+    "laptop",
+    "table",
+    "curious, brown, shaggy dog on the table to the left of the laptop",
+    "dog's head peeking up as if observing the screens",
+    "colorful, simple computer graphic drawing on the tablet screen",
+    "colorful, simple computer graphic drawing on the laptop screen",
+    "naive style drawing on screens"
+  ]
+}

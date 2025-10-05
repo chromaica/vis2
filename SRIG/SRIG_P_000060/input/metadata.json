@@ -1,0 +1,20 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "A realistic photo of three people playing music in a crowded street. The pose of the people should follow the reference pose image.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic image depicting three individuals actively playing music on a bustling, crowded street. The body pose of each of the three people must precisely align with one of the distinct full-body poses presented in image 1; specifically, the leftmost person in the generated image should adopt the pose of the leftmost figure in image 1, the central person should adopt the pose of the central figure, and the rightmost person should adopt the pose of the rightmost figure.",
+  "annotator": "samin",
+  "objects": [
+    "leftmost person in the pose from image 1's leftmost figure",
+    "central person in the pose from image 1's central figure",
+    "rightmost person in the pose from image 1's rightmost figure",
+    "musical instruments",
+    "bustling street",
+    "crowd of people"
+  ]
+}

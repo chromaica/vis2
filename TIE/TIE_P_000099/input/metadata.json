@@ -1,0 +1,21 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "add a space x falcon rocket standing on the moon, behind the astronaut",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 to add a photorealistic SpaceX Falcon rocket standing upright on the lunar surface. Position the rocket in the background, behind the astronaut and to the right of the American flag.",
+  "annotator": "theblackcat",
+  "objects": [
+    "photorealistic SpaceX Falcon rocket, standing upright, in the background, behind the astronaut and to the right of the American flag",
+    "astronaut",
+    "American flag",
+    "lunar surface",
+    "dark sky",
+    "lunar lander leg (partially visible)"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,21 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "Convert the text into a holo-foil stamp finish\u2014rainbow sheen, slight embossed effect.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Transform the white stylized text 'SPEND YOUR LIFE CREATING SOMETHING' into a holo-foil stamp. The stamp should exhibit a distinct rainbow sheen and a subtle embossed effect. The orange background of image 1 should remain unchanged.",
+  "annotator": "matina",
+  "objects": [
+    "orange background",
+    "holo-foil stamp text 'SPEND YOUR LIFE CREATING SOMETHING'",
+    "rainbow sheen on the text",
+    "embossed effect on the text",
+    "star graphic on the text"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

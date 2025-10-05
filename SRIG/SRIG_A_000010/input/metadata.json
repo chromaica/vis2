@@ -1,0 +1,20 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Cultural or Heritage art",
+  "prompt": "A Mayan pyramid surrounded by jungle under a starry night sky",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate an artwork featuring a grand, stepped Mayan pyramid, precisely modeled after the structure in image 1. This ancient pyramid stands majestically in the center, encircled by dense, vibrant jungle foliage. Above, a deep, dark night sky twinkles with countless stars, showcasing a clear view of the Milky Way and constellations.",
+  "annotator": "Johnny",
+  "objects": [
+    "grand, stepped Mayan pyramid (precisely modeled after image 1, in the center)",
+    "dense, vibrant jungle foliage (encircling the pyramid)",
+    "deep, dark night sky",
+    "countless stars",
+    "Milky Way",
+    "constellations"
+  ]
+}

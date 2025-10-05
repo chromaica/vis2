@@ -1,0 +1,23 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Create a fashion brand logo that incorporates the luxury pattern motif of the second image and the minimal animal emblem from the first image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a fashion brand logo that artfully combines two key elements:\n1.  A central, minimalist leopard head emblem, drawing inspiration from the sleek, high-contrast design of image 1.\n2.  A luxury monogram pattern, similar to the interlocking diamond grid and sophisticated color scheme (brown and beige tones) seen in image 2, serving as a background or integrated element around the emblem.\nThe overall design should convey luxury and be suitable for a high-end fashion brand.",
+  "annotator": "parnian",
+  "objects": [
+    "Central leopard head emblem",
+    "Minimalist leopard head design",
+    "High-contrast leopard head design",
+    "Luxury monogram pattern",
+    "Interlocking diamond grid pattern",
+    "Brown and beige color scheme",
+    "Monogram pattern as background or integrated around the emblem"
+  ],
+  "human_annotation": true
+}

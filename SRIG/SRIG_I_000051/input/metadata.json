@@ -1,0 +1,24 @@
+{
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Generate a clear representation of the dog circulatory system. The arteries and veins should be depicted as based on the provided anatomical map for human.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "https://media.istockphoto.com/id/470440740/vector/circulatory-system.jpg?s=612x612&w=0&k=20&c=0SOIZNNaPKSOfyhuh30JFjDx6t85jczCaDs-hudS0_M=",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate a clear anatomical diagram of the canine (dog) circulatory system. Depict arteries in red and veins in blue. The overall arrangement, major vessels, and branching patterns of the arteries and veins should precisely follow the structure and spatial relationships demonstrated in the human circulatory system diagram provided in image 1, adapted to a dog's anatomy. Ensure the diagram shows a full-body view of the dog, presented in a similar informational graphic style as image 1.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "full-body canine anatomical outline",
+    "red-colored arteries",
+    "blue-colored veins",
+    "canine heart",
+    "canine lungs",
+    "outlines of major canine internal organs (e.g., liver, stomach, kidneys, intestines, spleen, brain) for anatomical context",
+    "main arterial vessels with their branching patterns",
+    "main venous vessels with their branching patterns",
+    "informational graphic diagram style (similar to Image 1)",
+    "title \"CIRCULATORY SYSTEM\""
+  ]
+}

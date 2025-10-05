@@ -1,0 +1,23 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "On the screen, show TensorBoard with loss curves going up. Have the dad ask \u2018Are you debugging or defining?\u2019.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Modify the content displayed on the computer screen in front of the son to show a TensorBoard interface with loss curves visibly increasing. Additionally, replace the existing speech text from the dad on the left with: 'Are you debugging or defining?'",
+  "annotator": "matina",
+  "objects": [
+    "Dad (stick figure on the left)",
+    "Son (stick figure on the right)",
+    "Computer screen (in front of the son)",
+    "TensorBoard interface with loss curves visibly increasing (on the computer screen)",
+    "Speech text from dad: \"Are you debugging or defining?\" (on the left)",
+    "Headphones on son",
+    "Desk/table",
+    "Chair",
+    "Doorway"
+  ]
+}

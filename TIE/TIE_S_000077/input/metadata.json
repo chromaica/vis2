@@ -1,0 +1,23 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Turn the interface into a mystical forest theme, complete with glowing icons.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, a screenshot of a macOS desktop. Transform the entire desktop interface into a mystical forest theme. Replace the existing gradient background with a lush, ethereal forest scene, featuring soft, magical light filtering through trees, glowing flora, and faint mist. Redesign all application icons on the main desktop grid and within the dock to appear as if they are glowing and emanating a soft, mystical light, retaining their distinct app identity but adapted to a forest-inspired aesthetic. Integrate the translucent dock at the bottom into the forest theme, making it resemble a natural element like a mossy log or glowing root structure. The search bar at the top center should also be reimagined with a mystical forest aesthetic, such as glowing crystal or carved wood, while maintaining its functionality. The overall visual outcome should evoke an enchanting and magical forest environment across all interface elements.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Lush, ethereal forest scene background",
+    "Soft, magical light filtering through trees",
+    "Glowing flora",
+    "Faint mist",
+    "Application icons (retaining distinct app identity, forest-inspired, glowing)",
+    "Dock resembling a mossy log or glowing root structure",
+    "Search bar reimagined as glowing crystal or carved wood"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

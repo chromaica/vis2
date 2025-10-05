@@ -1,0 +1,20 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "A photo of two penguins in the South Pole, guided by a binary mask.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic image depicting two penguins standing side-by-side in the snowy landscape of the South Pole, their precise shapes and arrangement defined by the binary mask from image 1.",
+  "annotator": "samin",
+  "objects": [
+    "Two penguins",
+    "Snow",
+    "Ice",
+    "Distant Antarctic landscape"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

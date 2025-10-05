@@ -1,0 +1,22 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Cultural or Heritage art",
+  "prompt": "A painting in the traditional style of image 1, featuring the figure and attire from image 1 in a dynamic pose inspired by image 2, with a flying bird motif like image 3 integrated into the composition.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a painting in the traditional Persian style of image 1, depicting the female figure and her elaborate attire from image 1 in a dynamic, mid-air leaping pose inspired by image 2, with a flying crane motif, like image 3, integrated into the overall composition.",
+  "annotator": "samin",
+  "objects": [
+    "Traditional Persian painting style",
+    "Female figure",
+    "Elaborate attire",
+    "Dynamic, mid-air leaping pose",
+    "Flying crane motif"
+  ],
+  "human_annotation": true
+}

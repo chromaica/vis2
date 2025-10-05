@@ -1,0 +1,28 @@
+{
+  "subtopic": "Comics",
+  "prompt": "Generate a dynamic comic panel in pop art style featuring a story about Iron Man. Incorporate the vibrant colored backgrounds, radial lines, and dot patterns seen in the reference image, including speech bubbles.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://www.shutterstock.com/image-vector/vector-illustration-comic-speech-bubbles-600nw-2544966791.jpg",
+  "searchQueryGenerated": "Comic text graphics speech bubbles high contrast",
+  "searchQueryGeneratedTimestamp": 1750501381538,
+  "promptGeneratedTimestamp": 1750501431317,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "T",
+  "prompt_refined": "Generate a dynamic pop art comic panel for a story about Iron Man, precisely replicating the multi-panel layout and graphic elements of image 1. The panel should feature six distinct, vibrant colored background sections as seen in image 1, incorporating radial lines (speed lines) in the upper-left, lower-left, and lower-right sections, and halftone dot patterns in the upper-right, middle-left, and middle-right sections. Integrate Iron Man performing a heroic action across these panels, ensuring his dynamic presence. Include four empty speech bubbles with bold outlines, positioned as in image 1: a large one in the upper-left section, another in the middle-left section, a smaller one in the middle-right section, and a large one in the lower-right section.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Multi-panel comic layout",
+    "Six distinct, vibrant colored background sections",
+    "Radial lines (speed lines) in upper-left, lower-left, and lower-right sections",
+    "Halftone dot patterns in upper-right, middle-left, and middle-right sections",
+    "Iron Man performing a heroic action",
+    "Four empty speech bubbles with bold outlines",
+    "Large speech bubble in upper-left section",
+    "Speech bubble in middle-left section",
+    "Smaller speech bubble in middle-right section",
+    "Large speech bubble in lower-right section"
+  ]
+}

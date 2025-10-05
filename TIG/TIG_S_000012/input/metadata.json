@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "Mockup of a turn-based magic duel game. POV of the player wizard facing off against a shadowy sorcerer. Spell cards float in a semicircle at the bottom of the screen. Mana bar, HP, and 'Cast' button included. Background is a crumbling ancient arena under a full moon. Stylized with glowing effects and dramatic lighting",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate an in-game screenshot of a turn-based magic duel game. The viewpoint is from just behind a player wizard, who is facing a shadowy sorcerer across a crumbling ancient arena. A large, luminous full moon is visible in the night sky above the arena. At the bottom of the screen, multiple glowing spell cards are arranged in a prominent semicircle. UI elements include a mana bar and an HP bar in the top-left corner, and a 'Cast' button positioned centrally above the spell card array. The scene is depicted with dramatic lighting, strong shadows, and bright magical glowing effects.",
+  "annotator": "theblackcat",
+  "objects": [
+    "player wizard (viewed from behind)",
+    "shadowy sorcerer",
+    "crumbling ancient arena",
+    "large, luminous full moon",
+    "night sky",
+    "multiple glowing spell cards (arranged in a prominent semicircle at the bottom of the screen)",
+    "mana bar (in the top-left corner)",
+    "HP bar (in the top-left corner)",
+    "'Cast' button (positioned centrally above the spell card array)"
+  ]
+}

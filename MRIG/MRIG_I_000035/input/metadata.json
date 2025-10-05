@@ -1,0 +1,29 @@
+{
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Generate an information graphic combining the grid structure and icon usage from image 1. Within the grid cells, visually represent data variations using dynamic scaling or color intensity, referencing the diverse visualization methods seen in image 2.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "Information graphics diagrams charts examples",
+  "searchQueryGeneratedTimestamp": 1752242809852,
+  "promptGeneratedTimestamp": 1752242931168,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "I",
+  "annotator": "htwong",
+  "prompt_refined": "Generate an information graphic. The graphic should adopt a clear grid layout, similar to the row and column structure seen in image 1, where each cell represents a distinct data point or category. Within each grid cell, incorporate a simplified, topic-relevant icon, akin to the vehicle icons in image 1. To convey data variations, ensure these icons dynamically change in appearance within their respective cells. This should be achieved by either varying the icon's size (dynamic scaling, reminiscent of the bubble chart in image 2) or by adjusting its color intensity/saturation based on its data value.",
+  "objects": [
+    "Information graphic",
+    "Grid layout",
+    "Grid rows",
+    "Grid columns",
+    "Individual grid cells",
+    "Simplified, topic-relevant icons",
+    "Icons with varying sizes",
+    "Icons with varying color intensity/saturation",
+    "Row labels",
+    "Column labels"
+  ]
+}

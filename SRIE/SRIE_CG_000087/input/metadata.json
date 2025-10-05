@@ -1,0 +1,23 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "3D renders",
+  "prompt": "Match the scene\u2019s color grading and texture style to the reference painting.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit Image 1, the computer-generated market scene. Apply the color grading and artistic texture style observed in Image 2, the classical landscape painting. The goal is to transform the entire scene in Image 1, from its current digital render appearance, to adopt the muted color palette, warm lighting, and atmospheric depth of Image 2. Furthermore, alter the visual textures throughout Image 1 to reflect the painterly quality, softer details, and less defined edges characteristic of a traditional painting, as exemplified by Image 2.",
+  "annotator": "nimajamali",
+  "objects": [
+    "Market stalls",
+    "Cobblestone path",
+    "Green trees",
+    "Stone building",
+    "Wooden barrels",
+    "Market goods",
+    "Grassy areas",
+    "Shadows on the ground"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "Edit image 1 using segmentation: Replace segmented drinks with items from image 2 (safes) and image 4 (shakers). Replace the faucet with image 3's giant pin. Add image 5's fruit decor to the tub edge. Apply image 3's park lighting/color to walls.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg",
+    "4.jpeg",
+    "5.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749489768897,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1. Replace the drinks in the scene: substitute the yellow drink held by the woman on the left and the martini glass held by the woman in the hat with various safes from image 2. Replace the beer bottle, the glass, and the metal cocktail shaker located on the tub's right edge with the salt and pepper shakers from image 4. Replace the silver faucet on the left side of the tub with the giant blue safety pin from image 3, scaled to fit the fixture's location. Integrate the colorful fruit-shaped decor from the sandal in image 5 along the top edge of the bathtub. Apply the natural outdoor lighting and green color tones observed in image 3's park scene to the white tiled walls behind the subjects.",
+  "annotator": "winston",
+  "objects": [
+    "Four women",
+    "Bathtub",
+    "Yellow drink held by the woman on the left (should not be present)",
+    "Martini glass held by the woman in the hat (should not be present)",
+    "Various safes",
+    "Beer bottle, glass, and metal cocktail shaker on the tub's right edge (should not be present)",
+    "Salt and pepper shakers on the tub's right edge",
+    "Silver faucet (should not be present)",
+    "Giant blue safety pin on the left side of the tub",
+    "Colorful fruit-shaped decor along the top edge of the bathtub"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "Object detection visuals",
+  "prompt": "3 people walking in a museum, with a bunch of old man portraits hanging on the walls. Side view. A pink rectangle is drawn around each person.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate an image depicting three people walking through a museum. The museum walls are adorned with numerous framed portraits of elderly men. The scene is captured from a side profile view. A clear pink rectangular bounding box is drawn around each of the three individuals.",
+  "annotator": "maxku",
+  "objects": [
+    "Three people",
+    "Museum interior",
+    "Numerous framed portraits",
+    "Portraits of elderly men",
+    "Three clear pink rectangular bounding boxes (around each person)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

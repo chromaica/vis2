@@ -1,0 +1,25 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Romanticism",
+  "prompt": "Tune the colors to a colder tone and increase the contrast.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, an artwork depicting a couple in a landscape. Adjust the overall color balance to introduce a colder tone, shifting the existing warm hues towards cooler shades. Simultaneously, enhance the visual contrast throughout the entire image.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "man in 18th-century attire",
+    "woman in 18th-century attire",
+    "large tree",
+    "garden bench",
+    "dog",
+    "harvested fields",
+    "distant landscape with hills",
+    "trees in the distance",
+    "cloudy sky",
+    "open grassy area"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,27 @@
+{
+  "subtopic": "Websites",
+  "prompt": "Edit image 1: Replace the current background elements in the website screenshot with the vibrant, abstract gradient background style seen in image 2.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751179446654,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit image 1: Replace the existing plain, light-colored background that runs behind the main website content (articles, ads, videos) with the vibrant, abstract gradient style observed in image 2. The new background should feature soft, flowing color transitions similar to the orange, yellow, blue, and purple tones seen in image 2, applied to the entire background area of the webpage in image 1, while preserving all foreground elements and content.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Vibrant, abstract gradient webpage background",
+    "ESPN website top navigation bar",
+    "Main website content area with articles and headlines",
+    "Large image of two basketball players",
+    "Right sidebar content",
+    "ESPN logo",
+    "Article headline text",
+    "Smaller embedded article images",
+    "Bottom webpage section with UFC content",
+    "Video thumbnail with play button"
+  ]
+}

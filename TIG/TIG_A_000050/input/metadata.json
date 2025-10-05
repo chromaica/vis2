@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Pixel Art",
+  "prompt": "A detailed pixel art city at night, featuring bright neon signs, shadowy alleys, and tiny digital pedestrians in motion.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a highly detailed pixel art cityscape set at night. The scene should prominently feature vibrant and luminous neon signs illuminating the urban environment, casting bright light onto the streets and building facades. Deeply shadowy and narrow alleys should weave throughout the structures, providing stark contrast to the illuminated areas. Numerous tiny, stylized digital pedestrians should be depicted in various states of motion across the entire scene.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Pixel art cityscape",
+    "Nighttime setting",
+    "Vibrant and luminous neon signs",
+    "Illuminated streets",
+    "Illuminated building facades",
+    "Deeply shadowy and narrow alleys",
+    "Numerous tiny, stylized digital pedestrians"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

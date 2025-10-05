@@ -1,0 +1,27 @@
+{
+  "task": "MRIE",
+  "topic": "T",
+  "subtopic": "Signs",
+  "prompt": "On every sign hanged in the first image, expand the top of all those signs to add in the logo in the second image. Then, add the scene in the third image to the corresponding zone in the first image, you may adjust the perspective to make it fit naturally.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Expand the top portion of each of the three large hanging signs in image 1 (the 'Store Closing', '15-40% Off', and 'Entire Store On Sale' banners). Within this expanded area on each sign, place the 'HUDSON'S BAY' logo from image 2. Additionally, integrate the entire scene from image 3 (the Zellers kitchen/small appliances department with people and products) into the corresponding right-hand side of the main aisle in image 1. Ensure the perspective and lighting of the integrated scene from image 3 are adjusted to seamlessly match image 1, creating a natural appearance.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "'Store Closing' banner with 'HUDSON'S BAY' logo (expanded top portion)",
+    "'15-40% Off' banner with 'HUDSON'S BAY' logo (expanded top portion)",
+    "'Entire Store On Sale' banner with 'HUDSON'S BAY' logo (expanded top portion)",
+    "Zellers kitchen/small appliances department (integrated on the right-hand side of the main aisle)",
+    "Products (kitchenware, small appliances) within the integrated Zellers department",
+    "People within the integrated Zellers department",
+    "Apparel/lingerie department (left side of the main aisle)",
+    "Main aisle of the department store",
+    "Overhead Zellers sign (within the integrated scene)",
+    "Department store ceiling, lighting, and flooring"
+  ],
+  "human_annotation": true
+}

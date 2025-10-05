@@ -1,0 +1,30 @@
+{
+  "subtopic": "UI mockups",
+  "prompt": "Generate a clean, modern UI mockup for a health tracking dashboard. Use the reference image's card-based layout, minimalist icon style with circles, data visualization elements (like gauges or charts), and overall clean aesthetic with a light background, displayed on a screen.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://cdn.dribbble.com/userupload/6095960/file/original-87dc0fe7af359947a4e40098ee508014.png?resize=752x&vertical=center",
+  "searchQueryGenerated": "Information graphics maps data visualization high resolution",
+  "searchQueryGeneratedTimestamp": 1749833811869,
+  "promptGeneratedTimestamp": 1749887101332,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate a clean, modern UI mockup for a health tracking dashboard. Emulate the card-based layout, minimalist icon style with circular elements, and the overall clean aesthetic with a light background from image 1. Incorporate data visualization elements: a prominent gauge in the left column (e.g., for 'activity level' or 'stress score'), and a bar chart at the bottom (e.g., for 'daily steps' or 'sleep hours'). Include multiple distinct data cards, similar to image 1, each featuring a large number, a descriptive health metric, and a minimalist circular icon. The entire UI should be presented as if displayed on a digital screen.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "UI dashboard on a digital screen",
+    "Card-based layout",
+    "Prominent data gauge in the left column",
+    "Bar chart at the bottom",
+    "Multiple distinct data cards",
+    "Minimalist circular icons",
+    "Large numbers on data cards",
+    "Descriptive health metrics on data cards",
+    "Light background for the UI",
+    "Top navigation bar"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,29 @@
+{
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "Edit image 1 by segmenting and replacing the white laptop on the right with the laptop model from image 2, preserving its perspective. Also, segment the screen of the foreground left laptop and update its content to the blog editor interface from image 3.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748455092859,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1. Replace the white Sony VAIO laptop positioned on the right side of the table with the laptop model from image 2, ensuring it maintains the original perspective and integrates seamlessly with the scene's lighting. Additionally, update the content displayed on the screen of the dark grey HP laptop in the foreground on the left to the blog editor interface visible in image 3.",
+  "annotator": "winston",
+  "objects": [
+    "laptop model from image 2 on the right side of the table",
+    "blog editor interface on the screen of the dark grey HP laptop",
+    "dark grey HP laptop in the foreground on the left",
+    "table",
+    "hands of person in the foreground on the right",
+    "silver/grey laptop in the middle",
+    "black laptop in the background",
+    "red marker pen",
+    "stack of white cards/paper",
+    "white Sony VAIO laptop (should not be present)"
+  ],
+  "human_annotation": true
+}

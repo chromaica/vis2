@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "A realistic supermarket receipt from \u201cSupermercado Tropical\u201d in Rio de Janeiro, Brazil. Items: 1kg Feij\u00e3o Preto: R$6.50, 2L Guaran\u00e1 Antarctica: R$7.20, 1 P\u00e3o de Queijo (frozen): R$12.00. Total: R$25.70. The receipt has CPF placeholder for \u201cNota Fiscal Paulista\u201d, a barcode, and is curled slightly at the ends. It's placed on a plastic grocery bag with sunlight hitting it from the window.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a realistic image of a supermarket receipt from \u201cSupermercado Tropical\u201d in Rio de Janeiro, Brazil. The receipt clearly displays the following items: 1kg Feij\u00e3o Preto for R$6.50, 2L Guaran\u00e1 Antarctica for R$7.20, and 1 P\u00e3o de Queijo (frozen) for R$12.00, with a total of R$25.70. It includes a CPF placeholder for \u201cNota Fiscal Paulista\u201d and a visible barcode. The receipt is slightly curled at its ends and is placed on a plastic grocery bag. Sunlight from a window casts light onto the receipt and bag.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Realistic supermarket receipt",
+    "Specific text details on the receipt (including \"Supermercado Tropical\", \"Rio de Janeiro, Brazil\", \"1kg Feij\u00e3o Preto R$6.50\", \"2L Guaran\u00e1 Antarctica R$7.20\", \"1 P\u00e3o de Queijo (frozen) R$12.00\", total \"R$25.70\", and CPF placeholder for \"Nota Fiscal Paulista\")",
+    "Visible barcode on the receipt",
+    "Slightly curled ends of the receipt",
+    "Plastic grocery bag",
+    "Receipt placed on the plastic grocery bag",
+    "Sunlight",
+    "Window (casting light)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

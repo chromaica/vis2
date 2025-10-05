@@ -1,0 +1,23 @@
+{
+  "subtopic": "Collage",
+  "prompt": "Edit image 1: Apply the textured collage style from image 2 to the coffee cup scene. Recreate image 1's elements using the mosaic-like technique of small, distinct color dabs visible in image 2's landscape.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748715485826,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1, the coffee cup scene. Transform its entire visual representation to match the textured, mosaic-like style characterized by small, distinct color dabs, as evident throughout image 2. Every element in image 1, from the coffee cup and steam to the saucer and background, should be re-rendered using this specific technique, while preserving the original composition and general color scheme of image 1.",
+  "annotator": "kellycyy",
+  "objects": [
+    "Coffee cup",
+    "Steam",
+    "Saucer",
+    "Dark liquid in the cup",
+    "Yellow/orange background",
+    "Pink/purple foreground/table surface"
+  ]
+}

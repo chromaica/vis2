@@ -1,0 +1,24 @@
+{
+  "subtopic": "Software interfaces",
+  "prompt": "Using the layout of the provided fitness app dashboard, redesign it as a page from a 19th-century anatomical textbook, with detailed, hand-drawn medical illustrations of the human body representing the stats.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "https://support.strava.com/hc/article_attachments/360096734111",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate an image transforming the layout and sectional arrangement of the fitness app dashboard from reference image 1 into a page from a 19th-century anatomical textbook. The output should feature an aged paper texture, classic scholarly serif typography, and detailed, hand-drawn medical illustrations in a monochrome or sepia palette.\n\nMaintain the general vertical flow and prominent sections of image 1.\n- Replace the mobile device's top status bar and the app's bottom navigation bar with a simple page number (e.g., 'Plate I') in the top right, consistent with a textbook.\n- Reinterpret the 'Strava Suzie' profile area and 'Morning Run' title (top-left and central of image 1) as a scholarly heading or subject descriptor, like 'Anatomical Study: Human Physiology' or 'Observations on the Circulatory System.'\n- The large map area (upper-middle section of image 1) must be replaced by a prominent, full-page-width, detailed hand-drawn anatomical illustration of the human body or a specific physiological system (e.g., skeletal, muscular, circulatory).\n- For each of the six statistical data boxes (e.g., Distance, Avg Pace, Calories) in the lower-middle section, arranged in two columns in image 1, replace them with small, inset, detailed hand-drawn medical illustrations. Each illustration should conceptually represent its corresponding metric (e.g., a muscular leg for 'Distance', a heart diagram for 'Avg Heart Rate', a digestive system detail for 'Calories'). The original numerical values (e.g., '16.64 km', '159 bpm') must remain visible and legible, rendered in a classic 19th-century font adjacent to their respective illustrations.\n- All other modern UI elements, such as the 'Congratulations' banner and 'View Analysis' button, should be omitted or replaced with static, informative text styled as textbook captions.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Aged paper texture",
+    "Page number (e.g., 'Plate I') in the top right",
+    "Scholarly heading or subject descriptor (e.g., 'Anatomical Study: Human Physiology')",
+    "Prominent, full-page-width, detailed hand-drawn anatomical illustration",
+    "Six small, inset, detailed hand-drawn medical illustrations",
+    "Original numerical values (e.g., '16.64 km', '159 bpm') in classic 19th-century font",
+    "Static, informative text styled as textbook captions",
+    "Mobile device's top status bar (should not be present)",
+    "App's bottom navigation bar (should not be present)",
+    "'Congratulations' banner (should not be present)"
+  ]
+}

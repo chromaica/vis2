@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "A futuristic robot reimagined from an eagle referenced in the first Image, inspired by the sleek, angular stealth design of an F-35 Lightning II jet referenced in the second Image. The holo-eagle\u2019s body is crafted from matte-black composite alloys with sharp, aerodynamic contours and faint violet holographic panels along its wings. Its eyes are advanced multispectral sensors, and its talons are retractable grappling hooks.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic image of a futuristic robot. This robot should be a reimagined eagle, capturing the powerful form and predatory essence of the golden eagle depicted in image 1. Its design should be heavily inspired by the sleek, angular stealth aesthetic and matte, dark gray metallic finish of the F-35 Lightning II jet from image 2. The robot's body is crafted from matte-black composite alloys with sharp, aerodynamic contours, reflecting the advanced, low-observability nature of the jet. Faint violet holographic panels line its wings, which maintain the broad, powerful silhouette seen in image 1. Its eyes are advanced multispectral sensors, and its robust talons, reminiscent of those in image 1, are retractable grappling hooks. The overall image should convey a highly advanced, mechanical bird of prey.",
+  "objects": [
+    "Futuristic robotic eagle",
+    "Photorealistic image quality",
+    "Sleek, angular stealth aesthetic",
+    "Matte-black composite alloy body",
+    "Sharp, aerodynamic contours",
+    "Broad, powerful wings",
+    "Faint violet holographic wing panels",
+    "Advanced multispectral sensor eyes",
+    "Robust, retractable grappling hook talons",
+    "Dark gray metallic finish"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "The Northern Lights painting a vivid display across a black sky, with deep greens mingling with streaks of purple, swirling above a snowy landscape.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Photorealistic image of the Northern Lights: a vivid, swirling display of deep greens mingling with streaks of purple, stretching across a pitch-black night sky above a vast, snow-covered landscape.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Northern Lights",
+    "vivid, swirling display",
+    "deep green aurora",
+    "purple streaks in aurora",
+    "pitch-black night sky",
+    "vast landscape",
+    "snow-covered landscape"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

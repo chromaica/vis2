@@ -1,0 +1,23 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "change the perfume bottle to the one in the reference",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Replace the dark blue perfume bottle labeled 'SAUVAGE ELIXIR' on the lower left side with the pink perfume bottle labeled 'GRIS DIOR' from image 2, ensuring the new bottle is integrated realistically into the scene with appropriate scale, perspective, and lighting.",
+  "annotator": "matina",
+  "objects": [
+    "pink perfume bottle labeled 'GRIS DIOR' on the lower left side",
+    "dark blue perfume bottle labeled 'SAUVAGE ELIXIR' (should not be present)",
+    "man holding a guitar",
+    "guitar",
+    "\"SAUVAGE\" text",
+    "moon",
+    "night sky",
+    "ground landscape"
+  ]
+}

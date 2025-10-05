@@ -1,0 +1,26 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Enhance chart colors with gradient effects, add a subtle background pattern of travel icons for visual interest.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, which displays a bar chart titled 'Survey on Why People Travel'. Apply a subtle vertical gradient effect to each of the four colored bars (blue, red, green, yellow), transitioning from a slightly darker shade at the base to a lighter shade at the top for each respective bar. Additionally, overlay a subtle, repeating pattern of faint, small travel-themed icons (such as airplanes, suitcases, globes, or compasses) across the entire white background area, ensuring the pattern does not obstruct any chart elements, text, or axes.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Bar chart",
+    "Title: 'Survey on Why People Travel'",
+    "Blue bar with vertical gradient effect",
+    "Red bar with vertical gradient effect",
+    "Green bar with vertical gradient effect",
+    "Yellow bar with vertical gradient effect",
+    "Y-axis",
+    "X-axis",
+    "Travel-themed icon pattern on background",
+    "Text labels for bars"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

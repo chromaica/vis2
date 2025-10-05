@@ -1,0 +1,20 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Medical images",
+  "prompt": "Generate an MRI scan of a human brain using the provided brain tissue segmentation.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic MRI scan of a human brain, depicting an axial slice. The anatomical structure and tissue distribution should precisely follow the segmentation provided in image 1, where red regions delineate white matter, green regions represent gray matter, and blue regions indicate cerebrospinal fluid (CSF).",
+  "annotator": "samin",
+  "objects": [
+    "Photorealistic MRI scan",
+    "Human brain (axial slice)",
+    "White matter (following anatomical structure and tissue distribution of red regions in image 1)",
+    "Gray matter (following anatomical structure and tissue distribution of green regions in image 1)",
+    "Cerebrospinal fluid (CSF) (following anatomical structure and tissue distribution of blue regions in image 1)"
+  ],
+  "human_annotation": true
+}

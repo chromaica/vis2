@@ -1,0 +1,19 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Place the multi-colored Google logo (G-icon) centered on the wall, with subtle shadow base on light direction to convey depth.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 by adding the multi-colored Google G-icon. Position the logo centered on the white brick wall. Render the logo with a subtle shadow cast beneath it, consistent with the lighting direction from the overhead lamps present in image 1, to accurately convey depth.",
+  "annotator": "matina",
+  "objects": [
+    "white brick wall",
+    "concrete floor",
+    "three black overhead lamps",
+    "multi-colored Google G-icon centered on the white brick wall",
+    "subtle shadow beneath the Google G-icon, consistent with lighting from overhead lamps"
+  ]
+}

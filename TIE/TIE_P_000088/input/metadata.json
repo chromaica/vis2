@@ -1,0 +1,21 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "add a platoon of astronauts besides the one in the image",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "make sure the reflection reflects this",
+  "prompt_refined": "Edit image 1. On the lunar surface, add multiple photorealistic astronauts beside the existing astronaut, specifically to the left and slightly behind them. Ensure the added astronauts match the lighting, scale, and realistic appearance of the current scene.",
+  "annotator": "theblackcat",
+  "objects": [
+    "lunar surface",
+    "existing astronaut",
+    "multiple photorealistic astronauts to the left and slightly behind the existing astronaut",
+    "shadow of the existing astronaut",
+    "shadows of the added astronauts",
+    "footprints on the lunar surface",
+    "dark sky"
+  ]
+}

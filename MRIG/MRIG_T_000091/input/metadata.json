@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Design and generate a luxury fashion brand logo that merges the mythological symmetry of the second image with Egyptian symbolic elegance from the first image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a luxury fashion brand logo as a vectorized graphic. The logo should feature a central, symmetrical design that combines the elegant mythological symmetry and balanced circular composition characteristic of image 2. This central design element must incorporate distinct Egyptian symbolic elegance, drawing visual inspiration from the stylized figures, iconic headdresses, and broad collars depicted in image 1. The overall aesthetic should be sophisticated and refined, suitable for a high-end brand, with a dominant color palette of rich gold, deep blue, and black, referencing the visual elements from both provided images.",
+  "annotator": "parnian",
+  "objects": [
+    "Luxury fashion brand logo",
+    "Vectorized graphic style",
+    "Central symmetrical design",
+    "Circular composition",
+    "Stylized Egyptian figures (or elements inspired by them)",
+    "Egyptian headdresses",
+    "Egyptian broad collars",
+    "Rich gold color",
+    "Deep blue color",
+    "Black color"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Calligraphy",
+  "prompt": "'Flowing Ink' gracefully rendered in broad-edge calligraphy, using warm sepia tones on a surface that mimics aged parchment.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Broad-edge calligraphy of the phrase 'Flowing Ink' rendered with elegant, fluid strokes in warm sepia tones. The calligraphy is centered on a textured surface resembling aged parchment paper.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Calligraphy of the phrase \"Flowing Ink\"",
+    "Broad-edge calligraphy style",
+    "Elegant, fluid calligraphy strokes",
+    "Calligraphy in warm sepia tones",
+    "Aged parchment paper",
+    "Textured surface",
+    "Calligraphy centered on the parchment paper"
+  ]
+}

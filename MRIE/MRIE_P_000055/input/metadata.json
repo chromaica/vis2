@@ -1,0 +1,28 @@
+{
+  "subtopic": "Urban & Street Photography",
+  "prompt": "Edit image 1: transform the scene from day to night, applying the dark urban atmosphere and subtle neon lighting style of image 3. Add the round mirror from image 2 into the street level foreground, reflecting the building with the teddy bear in the new nighttime environment. Photorealistic.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748657526125,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "P",
+  "prompt_refined": "Edit image 1. Transform the daytime urban scene into a photorealistic night setting, applying the dark urban atmosphere and the subtle neon lighting style from image 3. Introduce the round traffic mirror from image 2 into the street-level foreground. The mirror should clearly reflect the building from image 1, specifically the section with the hanging teddy bear, rendered in this new nighttime environment. Ensure the overall image is photorealistic.",
+  "annotator": "boris",
+  "objects": [
+    "photorealistic night urban scene",
+    "building from image 1",
+    "hanging teddy bear on the building",
+    "dark urban atmosphere",
+    "subtle neon lighting",
+    "round traffic mirror in the street-level foreground",
+    "mirror reflecting the building with the hanging teddy bear",
+    "nighttime environment reflected in the mirror"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

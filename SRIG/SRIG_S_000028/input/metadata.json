@@ -1,0 +1,28 @@
+{
+  "subtopic": "Websites",
+  "prompt": "Convert the hand-drawn wireframe sketch of UI components into a realistic screenshots of UI component demo website.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://www.shutterstock.com/image-vector/wireframes-handdrawn-ui-web-elements-260nw-180538436.jpg",
+  "promptGeneratedTimestamp": 1749425772249,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a realistic, high-fidelity screenshot of a modern web application or UI component library demo page. Use the hand-drawn wireframe elements from image 1 as a direct visual reference, translating each sketched component (such as buttons, input fields, checkboxes, sliders, toggles, star ratings, and a window element with a graph) into its polished, fully rendered, and functional-looking counterpart. Arrange these components within a clean, organized web interface, resembling a professional demo site. Ensure the final image conveys an interactive user experience, showcasing the diverse UI elements as they would appear in a live, functional web environment.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Buttons",
+    "Input fields",
+    "Checkboxes",
+    "Sliders",
+    "Toggles",
+    "Star rating component",
+    "Window element with a graph",
+    "Dropdown menus",
+    "Radio buttons",
+    "Scrollbar"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

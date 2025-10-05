@@ -1,0 +1,26 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Remove the # Tesla folder from the desktop screenshot (attached) of the Windows Explorer",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, a screenshot of Windows Explorer. Remove the '# Tesla' folder, which is the last folder listed in the third column of items displayed in the main content area of the window. Fill the space naturally to integrate with the surrounding content.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Windows Explorer window frame",
+    "Left navigation pane (e.g., Home, Gallery, OneDrive - Personal)",
+    "Main content area with \"Quick access\" and \"Recent\" sections",
+    "\"Desktop\" folder icon and label (in Quick access)",
+    "\"Downloads\" folder icon and label (in Quick access)",
+    "\"Documents\" folder icon and label (in Quick access)",
+    "\"Google Drive (G:)\" folder icon and label (in Quick access)",
+    "\"# Tesla\" folder (should not be present)",
+    "Taskbar at the bottom of the screen",
+    "Search bar at the top of the Explorer window"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

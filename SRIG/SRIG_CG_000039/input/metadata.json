@@ -1,0 +1,26 @@
+{
+  "subtopic": "CAD models",
+  "prompt": "Generate a photorealistic image guided by the reference composition. A complex 3D CAD assembly model is displayed prominently on the desktop computer screen, set within a warm, focused desk environment reminiscent of the reference image.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://freerangestock.com/sample/40611/desktop-computer.jpg",
+  "promptGeneratedTimestamp": 1748767423605,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a photorealistic image. Display a complex 3D CAD assembly model prominently on the screen of the central desktop computer shown in image 1. Maintain the warm, focused desk environment and overall composition of image 1.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Central desktop computer",
+    "Complex 3D CAD assembly model on the computer screen",
+    "Desk surface",
+    "Keyboard in front of computer",
+    "Computer mouse",
+    "Smartphone or mobile device on the desk",
+    "Pen holder with pens",
+    "Desk lamp",
+    "Partially visible second monitor",
+    "Wall background"
+  ]
+}

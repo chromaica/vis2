@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Cultural or Heritage art",
+  "prompt": "In the first image, add the cat from the second image to the left of the man, and place the symbol from the third image at the center of the sun.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the Egyptian artwork featuring the kneeling pharaoh. Integrate the black Egyptian cat from image 2, positioning it to the immediate left of the kneeling man. Additionally, place the Eye of Horus symbol from image 3 directly at the center of the radiant sun.",
+  "annotator": "paria",
+  "objects": [
+    "Egyptian artwork",
+    "Kneeling pharaoh",
+    "Black Egyptian cat (to the immediate left of the kneeling man)",
+    "Radiant sun",
+    "Eye of Horus symbol (at the center of the radiant sun)",
+    "Egyptian wall with hieroglyphs",
+    "Bowl on a pedestal",
+    "Ground"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

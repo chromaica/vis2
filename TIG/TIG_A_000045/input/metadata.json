@@ -1,0 +1,19 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Stylized art",
+  "prompt": "A stylized art cityscape at dusk, with elongated skyscrapers reflecting a kaleidoscope of vibrant colors.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A stylized cityscape at dusk, featuring towering, elongated skyscrapers with their surfaces reflecting a mesmerizing kaleidoscope of brilliant, vibrant colors.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Stylized cityscape",
+    "Skyscrapers",
+    "Dusk lighting",
+    "Reflections on skyscraper surfaces",
+    "Kaleidoscope pattern",
+    "Brilliant colors",
+    "Vibrant colors"
+  ]
+}

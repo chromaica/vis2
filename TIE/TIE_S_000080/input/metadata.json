@@ -1,0 +1,26 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Transform the circuit layout into a 3D perspective view for a more dynamic look.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Transform the flat, 2D circuit layout, displayed prominently in the central drawing area, into a realistic 3D perspective view. The new 3D view should feature clear depth, distinct volume for the components and layers, and appropriate lighting with subtle shadows to enhance the visual separation and realism of the electronic design, creating a more dynamic and engaging representation of the circuit.",
+  "annotator": "cwhsu",
+  "objects": [
+    "L-Edit software window frame",
+    "L-Edit software menu bar",
+    "L-Edit software toolbars",
+    "L-Edit software side panels (e.g., Libraries, Layer Palette, Cell list, Aerial View)",
+    "Central drawing area",
+    "Realistic 3D circuit layout in the central drawing area",
+    "Circuit components with distinct volume",
+    "Circuit layers with clear depth",
+    "Appropriate lighting on the 3D circuit",
+    "Subtle shadows cast by the 3D circuit"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

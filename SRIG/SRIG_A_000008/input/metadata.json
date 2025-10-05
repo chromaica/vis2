@@ -1,0 +1,24 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Stylized art",
+  "prompt": "A vintage pocket watch floating in a steampunk city skyline",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://www.ebay.com/itm/394009808399",
+  "prompt_refined": "Generate an image of an ornate, antique bronze pocket watch, replicating the style and intricate details of image 1, including its dangling chain. This pocket watch should be prominently floating in the foreground, centered within the frame. The background should depict a sprawling, detailed steampunk city skyline, featuring towering industrial structures, intricate clockwork mechanisms, visible gears, elaborate pipework, and atmospheric steam, all bathed in a warm, sepia-toned light.",
+  "annotator": "Johnny",
+  "objects": [
+    "ornate, antique bronze pocket watch (prominently floating in foreground, centered)",
+    "dangling chain (attached to pocket watch)",
+    "steampunk city skyline (in background)",
+    "towering industrial structures",
+    "intricate clockwork mechanisms",
+    "visible gears",
+    "elaborate pipework",
+    "atmospheric steam",
+    "warm, sepia-toned light",
+    "Roman numerals on pocket watch face"
+  ]
+}

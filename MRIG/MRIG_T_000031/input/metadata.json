@@ -1,0 +1,27 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": "Create a comic frame where the robot from the first image walks into the kitchen from the second image and says 'Dinner smells delicious, Chef!' in the style of the third image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a single comic frame. The cute, white, spherical robot with glowing blue eyes from image 1 should be depicted walking into a retro-styled kitchen, similar in layout and elements to the kitchen from image 2 (featuring an oven on the left and cabinets). Position the robot as if entering from the left side of the frame, facing towards the right. Include a speech bubble above the robot's head containing the text 'Dinner smells delicious, Chef!'. The entire comic frame must be rendered in the distinctive pop-art comic book style seen in image 3, characterized by bold outlines, vibrant colors, and prominent Ben-Day dots.",
+  "annotator": "parnian",
+  "objects": [
+    "Cute, white, spherical robot (from image 1, with glowing blue eyes) entering from the left, facing right",
+    "Retro-styled kitchen interior",
+    "Oven (on the left side of the kitchen)",
+    "Kitchen cabinets",
+    "Speech bubble (above the robot's head)",
+    "Text: 'Dinner smells delicious, Chef!'",
+    "Bold outlines (pop-art comic book style)",
+    "Vibrant colors (pop-art comic book style)",
+    "Prominent Ben-Day dots (pop-art comic book style)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

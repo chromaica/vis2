@@ -1,0 +1,17 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Medical images",
+  "prompt": "A simple black and white image of a skeletal hand, highlighting bones and joints with clear, detailed linework on a plain background.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A monochromatic, high-contrast image of a human skeletal hand. The focus is on highlighting the intricate anatomical details of the bones and joints through sharp, precise linework. The hand is centered against a plain, minimalist background.",
+  "annotator": "cwhsu",
+  "objects": [
+    "human skeletal hand",
+    "bones",
+    "joints",
+    "plain background"
+  ],
+  "human_annotation": true
+}

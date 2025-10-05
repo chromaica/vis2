@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "T",
+  "subtopic": "Book",
+  "prompt": "Change the title from 'Snow White and the Seven Dwarfs' to 'Snow White and the Eight Cats'. Then, replace the dwarfs from the cover with the cats from the second image, but maintain the original style of those dwarfs. Finally, replace the silk table cloth with the table mat from the third image. ",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Modify image 1.\n1.  On the book cover, change the main title text from 'Snow White and the Seven Dwarfs' to 'Snow White and the Eight Cats'.\n2.  Replace the seven sculpted dwarf faces along the bottom border of the book cover with eight distinct cat faces, referencing the diverse cats depicted in image 2. The newly added cat faces should be rendered in the same stylized, embossed gold and white relief aesthetic as the original dwarf sculptures, appearing as an integral part of the book's design.\n3.  Replace the blue silk cloth beneath the book with the floral patterned table runner from image 3. Ensure the texture and pattern of the table runner are seamlessly integrated, retaining the existing folds, shadows, and lighting of the scene.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Book",
+    "\"Snow White and the Eight Cats\" text on the book cover",
+    "Eight distinct, stylized, embossed gold and white relief cat faces on the book cover",
+    "Floral patterned table runner",
+    "Golden object",
+    "\"Snow White and the Seven Dwarfs\" text (should not be present)",
+    "Seven sculpted dwarf faces (should not be present)",
+    "Blue silk cloth (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

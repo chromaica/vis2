@@ -1,0 +1,26 @@
+{
+  "subtopic": "Stylized art",
+  "prompt": "Re-color the stylized portrait in image 1 using exclusively the specific color palette presented in image 2. Apply the five colors from the palette to the distinct sections of the artwork.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748490133755,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit the stylized portrait in image 1 by completely re-coloring all its distinct sections and elements using only the five-color palette provided in image 2. Apply these five colors to the artwork's various color blocks, including the background, hair, face, and clothing, while preserving the original stylized and outlined artistic style.",
+  "annotator": "kellycyy",
+  "objects": [
+    "Stylized portrait",
+    "Abstracted hair",
+    "Abstracted face",
+    "Stylized eye",
+    "Stylized lips",
+    "Clothing elements",
+    "Background",
+    "Thick outlines"
+  ],
+  "human_annotation": true
+}

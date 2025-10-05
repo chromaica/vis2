@@ -1,0 +1,21 @@
+{
+  "task": "SRIE",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "Edit the source image to reflect the post-cell division state, similar to the reference image.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the source image, to represent a complete post-cell division state. The edited image should depict two distinct daughter cells, each containing a well-defined nucleus, mirroring the morphological and internal component characteristics observed in image 2, the reference image. Specifically, transform the yellow chromosomal masses in image 1 into individual nuclei and adapt the surrounding cellular network to match the organized appearance and color scheme of image 2, maintaining a photorealistic microscopic quality.",
+  "annotator": "nimajamali",
+  "objects": [
+    "Two distinct daughter cells",
+    "Two well-defined blue nuclei",
+    "Organized green cellular network",
+    "Reddish-orange filamentous structures",
+    "Black background",
+    "Yellow chromosomal masses (should not be present)"
+  ]
+}

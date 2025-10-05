@@ -1,0 +1,20 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Using the given mask image as reference, create an image of a person standing in a bookstore.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic image of an individual standing upright and centered within a cozy bookstore. The person's silhouette and full-body pose must precisely conform to image 1. The background should display rows of well-stocked bookshelves, illuminated by warm, natural light to create an inviting atmosphere.",
+  "annotator": "samin",
+  "objects": [
+    "individual standing upright and centered (matching image 1 silhouette and full-body pose)",
+    "cozy bookstore interior",
+    "rows of bookshelves",
+    "well-stocked books",
+    "warm light",
+    "natural light"
+  ]
+}

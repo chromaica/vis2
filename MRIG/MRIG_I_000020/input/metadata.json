@@ -1,0 +1,22 @@
+{
+  "subtopic": "Icons and symbols",
+  "prompt": "Create a set of simple icons. Utilize the solid fill style and green color scheme present in image 1. Depict concepts drawn from the icons in image 2, such as a handshake, globe, and microscope, using this combined graphic style.",
+  "cond_images": [
+    "1.jpeg",
+    "2.png"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "Information Graphics Icons Symbols",
+  "searchQueryGeneratedTimestamp": 1751989357866,
+  "promptGeneratedTimestamp": 1751989527678,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "I",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a set of simple, minimalist icons. Each icon should feature a solid fill style, utilizing the specific shade of green present throughout image 1. The icons should visually represent the concepts of a handshake, a globe, and a microscope, as demonstrated by the line art in image 2, but rendered in the solid fill and green style of image 1.",
+  "objects": [
+    "minimalist handshake icon in solid green",
+    "minimalist globe icon in solid green",
+    "minimalist microscope icon in solid green"
+  ]
+}

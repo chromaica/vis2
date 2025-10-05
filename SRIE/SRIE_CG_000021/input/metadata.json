@@ -1,0 +1,21 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Image Transformation",
+  "prompt": "Rotate the source image to match the orientation of the street sign in reference.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 (the 'Bloor St. W.' street sign). Rotate the entire image 1 so that the main horizontal panel of the street sign in image 1 matches the upward-sloping orientation of the 'Cambie St' street sign visible in image 2.",
+  "annotator": "nimajamali",
+  "objects": [
+    "\"BLOOR WEST VILLAGE\" text",
+    "\"BLOOR ST. W.\" text",
+    "\"2199\" text",
+    "Decorative street sign",
+    "Street sign post attachment",
+    "Blue sky background"
+  ]
+}

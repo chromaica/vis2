@@ -1,0 +1,28 @@
+{
+  "subtopic": "Websites",
+  "prompt": "Generate a clean screenshot of a modern e-commerce website homepage within a minimal browser window. Place it against a vibrant, soft gradient background, inspired by the overall clean design and layout style of the reference image.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://suede.agency/_next/image?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F1013963%2F3840x1900%2F9875996824%2Foverflow-io_.png&w=1920&q=100",
+  "searchQueryGenerated": "Clean modern website screenshot example",
+  "searchQueryGeneratedTimestamp": 1749420089730,
+  "promptGeneratedTimestamp": 1749420222913,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a clean, modern software product landing page, presented as a high-quality screenshot within a minimal browser-like frame. The page should feature a clear header with a logo and navigation, a prominent central headline with supporting text, and a main call-to-action button. Below this, integrate a minimal, embedded application window displaying a clean user interface with UI elements, including horizontally arranged mobile UI screenshots at its lower section. Place this entire composition against a vibrant, soft gradient background, matching the clean design and fluid color transitions (e.g., blues, purples, pinks) of image 1.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Vibrant, soft gradient background",
+    "Minimal browser-like frame",
+    "Software product landing page",
+    "Header with logo",
+    "Header navigation",
+    "Prominent central headline",
+    "Supporting text",
+    "Main call-to-action button",
+    "Embedded application window with clean user interface",
+    "Horizontally arranged mobile UI screenshots"
+  ]
+}

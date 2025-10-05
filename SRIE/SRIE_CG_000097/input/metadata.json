@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Object detection visuals",
+  "prompt": "Transform the empty grassy field into a busy carnival using object positions and layout from the reference.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the empty grassy field, by transforming it into a busy carnival scene. Incorporate elements such as the large Ferris wheel, colorful game tents, and people, similar to the style and content depicted in image 2. Specifically, replicate the general layout and relative positioning of the carnival structures and crowds from image 2 onto the grassy field of image 1, maintaining the perspective and scale of image 1.",
+  "annotator": "nimajamali",
+  "objects": [
+    "Large Ferris wheel (positioned in the background, slightly right of center)",
+    "Multiple colorful striped game tents (arranged across the mid-ground)",
+    "People (walking in the foreground and mid-ground)",
+    "Carnival games and prizes (visible inside the tents)",
+    "Flags (on tents and poles)",
+    "Paved or dirt walking area (in front of the tents)",
+    "Trees in the far background",
+    "Overcast sky",
+    "Carnival booth (e.g., token booth)"
+  ],
+  "human_annotation": true
+}

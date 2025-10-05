@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "Create a cooking/restaurant simulation game showing a busy kitchen scene from an isometric view. Display multiple chefs (cute cartoon characters) frantically preparing different dishes at various stations - one chopping vegetables, another grilling steaks, one decorating cakes. Include customers visible through a service window looking impatient. UI elements: order tickets hanging above stations, ingredient inventory, customer satisfaction meters, timer clocks showing order deadlines, and a cash register with daily earnings. Steam effects rising from hot pans and colorful ingredients scattered around. Warm, inviting color palette",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "An isometric view of a busy kitchen, presented as a screenshot from a cooking/restaurant simulation game. Multiple cute cartoon chefs are frantically working: one chef is chopping vegetables at a prep station, another is grilling steaks over a hot stove, and a third is meticulously decorating cakes at a separate counter. Impatient customers are visible through a service window. Overlaying UI elements include: order tickets hanging above each chef's station, an ingredient inventory panel, customer satisfaction meters, timer clocks showing order deadlines, and a cash register displaying daily earnings. Steam rises from hot pans, and colorful ingredients are scattered across the workstations. The image has a warm, inviting color palette.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Multiple cute cartoon chefs",
+    "Prep station",
+    "Hot stove",
+    "Separate counter",
+    "Impatient customers",
+    "Service window",
+    "Order tickets",
+    "Ingredient inventory panel",
+    "Customer satisfaction meters",
+    "Cash register display"
+  ]
+}

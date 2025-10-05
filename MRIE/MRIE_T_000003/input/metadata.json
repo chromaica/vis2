@@ -1,0 +1,21 @@
+{
+  "task": "MRIE",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "Expand the first image and make him sitting on king's throne, and add characters from the second image to surround him. Finally, add 'Walt Disney 1901 - 1966.' like the style of the third image.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "3.png source: Men in Black",
+  "prompt_refined": "Edit image 1, the portrait of Walt Disney, by expanding the scene to depict him seated centrally on an opulent king's throne. Surround Walt Disney and the throne with multiple cartoon Mickey Mouse characters, drawing inspiration from the various poses and art style in image 2. Finally, add the text 'Walt Disney 1901 - 1966.' in the lower foreground, styled to match the reflective, 3D appearance of the 'Disney' logo from image 3.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Walt Disney (seated centrally)",
+    "Opulent king's throne",
+    "Multiple cartoon Mickey Mouse characters (surrounding Walt Disney and the throne)",
+    "Text 'Walt Disney 1901 - 1966.' (in the lower foreground)",
+    "Expanded background scene"
+  ]
+}

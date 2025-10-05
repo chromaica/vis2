@@ -1,0 +1,24 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Cultural or Heritage art",
+  "prompt": "Generate a portrait of Mona Lisa",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a portrait of the Mona Lisa, adhering to the pose and framing indicated by image 1.",
+  "annotator": "Johnny",
+  "objects": [
+    "Mona Lisa (the primary subject)",
+    "Bust-length portrait framing",
+    "Figure with head turned slightly right (as per image 1's silhouette)",
+    "Figure with shoulders angled slightly left (as per image 1's silhouette)",
+    "Implied hand placement (as suggested by the lower silhouette in image 1)",
+    "Female face with a subtle smile",
+    "Dark, period clothing/drapery",
+    "Distant landscape background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

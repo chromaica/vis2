@@ -1,0 +1,24 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "A minimalist Scandinavian-designed dashboard for monitoring renewable energy grids, featuring clean typography, muted earth tones, and simple geometric data visualizations",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A minimalist Scandinavian-designed digital dashboard for monitoring renewable energy grids. The central display features a large, clean panel for real-time energy flow, complemented by smaller, square data widgets neatly arranged to its left and right, showcasing metrics like production and consumption. All textual elements utilize crisp, sans-serif typography. Data visualizations are simple and geometric, including line graphs, bar charts, and circular progress indicators. The entire interface is rendered in a cohesive palette of muted earth tones, specifically desaturated greens, soft grays, and warm beiges.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Digital dashboard interface",
+    "Large central display panel",
+    "Real-time energy flow visualization",
+    "Smaller, square data widgets (left of central panel)",
+    "Smaller, square data widgets (right of central panel)",
+    "Line graphs",
+    "Bar charts",
+    "Circular progress indicators",
+    "Textual elements with sans-serif typography",
+    "Muted earth tone color palette"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

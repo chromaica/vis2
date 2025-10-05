@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": "Add confetti falling from the top of the page to enhance the celebratory theme of the sale.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, which displays a Shutterfly mobile screenshot featuring a '40% off EVERYTHING' sale banner. Add colorful, digitally rendered confetti falling from the very top edge of the screen, distributed across its full width, to enhance the celebratory and festive theme of the sale.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Shutterfly mobile screenshot layout",
+    "'40% off EVERYTHING' sale banner",
+    "Colorful, digitally rendered confetti falling from the very top edge of the screen, distributed across its full width",
+    "Mobile phone status bar (with carrier, time, battery)",
+    "Mobile browser address bar (displaying www.shutterfly.com)",
+    "Shutterfly app/page header (orange bar with Shutterfly logo, search icon, shopping cart icon)",
+    "Product imagery on the sale banner (e.g., potted plants, books, woven basket)",
+    "\"SHOP NOW\" button",
+    "Sale details text (\"Code: FRIENDSFAM\", \"Ends Sun, June 19\")",
+    "Product category list (e.g., \"Cards & Stationery\", \"Prints\", \"Home Decor\", \"Personalized Gifts\")"
+  ]
+}

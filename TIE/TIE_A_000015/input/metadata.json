@@ -1,0 +1,20 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Painting",
+  "prompt": "Replace the female in the painting with an astronaut. The astronaut should be in the same angle and pose as that female. The outcome should retain the details of the water and the waves in the original image.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the female figure floating centrally in the water with an astronaut. The astronaut must maintain the same relaxed, supine pose and body angle as the original figure. Preserve all existing details of the blue water and its painted wave textures.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "female figure (should not be present)",
+    "astronaut floating centrally in the water",
+    "astronaut in a relaxed, supine pose",
+    "blue water",
+    "painted wave textures"
+  ],
+  "human_annotation": true
+}

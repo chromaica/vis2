@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "Replace the cat\u2019s face in the first image with the black cat\u2019s face from the second image. Also, add the horse from the third image next to the horse in the first image, matching its size.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the grey cat's face on the central figure with the black cat's face from image 2, accurately rendering its distinctive yellow eyes and black fur, and integrating it seamlessly with the existing flower crown and the art style of image 1. Additionally, incorporate the colorful, abstract-style horse from image 3 into image 1. Position this new horse on the central figure's lap, directly to the right of the existing small black horse. Scale the colorful horse from image 3 to precisely match the diminutive size of the existing black horse in image 1, maintaining its artistic style.",
+  "annotator": "paria",
+  "objects": [
+    "black cat's face with yellow eyes",
+    "central figure in white dress with blue sash",
+    "flower crown",
+    "small black horse on central figure's lap",
+    "small colorful abstract horse on central figure's lap, to the right of the existing black horse",
+    "chair",
+    "patterned background",
+    "background plants and flowers",
+    "leopard in background",
+    "grey cat's face (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

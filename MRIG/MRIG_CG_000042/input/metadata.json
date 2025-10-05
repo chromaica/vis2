@@ -1,0 +1,25 @@
+{
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "Create a scene for computer vision segmentation: the child subject from image 1 interacting with the lightbulb object from image 2. Render with clear boundaries and detail suitable for instance segmentation analysis.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748422925813,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a detailed image for computer vision instance segmentation. The scene must feature the child from image 1, clearly depicted with her characteristic hairstyle and gentle expression, holding the incandescent lightbulb from image 2 in her open hands. Position the lightbulb prominently in the foreground, clearly showing its distinct filament and metallic base. Ensure all objects and subjects have exceptionally sharp, distinct boundaries and high-resolution detail, optimized for precise segmentation analysis.",
+  "annotator": "winston",
+  "objects": [
+    "Child from image 1",
+    "Child's characteristic hairstyle",
+    "Child's gentle expression",
+    "Incandescent lightbulb from image 2",
+    "Lightbulb's distinct filament",
+    "Lightbulb's metallic base",
+    "Child's open hands",
+    "Lightbulb prominently in foreground"
+  ]
+}

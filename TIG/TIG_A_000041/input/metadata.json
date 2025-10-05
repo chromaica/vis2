@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Stylized art",
+  "prompt": "A surreal landscape with floating islands, stylized art trees, and a shimmering sunset sky.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A vast, dreamlike surreal landscape featuring numerous rocky floating islands of diverse sizes gracefully ascending and drifting through the mid-ground and background. Distinctively stylized, artistic trees with unique forms sparsely populate the foreground terrain and the surfaces of some of the floating islands. The sky above is a dramatically shimmering sunset, displaying a breathtaking gradient of radiant oranges, fiery reds, and deep purples, with a soft, glowing light permeating the atmosphere.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Vast, dreamlike surreal landscape",
+    "Numerous rocky floating islands",
+    "Floating islands in mid-ground",
+    "Floating islands in background",
+    "Distinctively stylized, artistic trees",
+    "Trees on foreground terrain",
+    "Trees on surfaces of floating islands",
+    "Dramatically shimmering sunset sky",
+    "Sky with gradient of radiant oranges, fiery reds, and deep purples",
+    "Soft, glowing light in the atmosphere"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "subtopic": "Software interfaces",
+  "prompt": "Please generate the updated terminal screenshot when user types \"ls\" and then press \"Enter\"",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://www.testingdocs.com/wp-content/uploads/pwd-Linux-command.png",
+  "searchQueryGenerated": "detailed modern software UI screenshots",
+  "searchQueryGeneratedTimestamp": 1749423173533,
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a new image by combining visual cues from image 1 with the following instructions: Create a Konsole terminal screenshot depicting the state after the user types `ls` and presses Enter at the blinking cursor shown in image 1. On the line where the cursor is currently blinking, show the text `ls`. Immediately below this, display realistic output for an `ls` command in a typical user's home directory (e.g., 'Desktop', 'Documents', 'Downloads', 'Music', 'Pictures', 'Public', 'Templates', 'Videos'). Following the `ls` output, show a new `testingdocs@localhost:~>` prompt with a blinking cursor on the next line.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Konsole window frame (including title bar and menu bar)",
+    "Previous command line: `testingdocs@localhost:~> pwd`",
+    "Output of pwd: `/home/testingdocs`",
+    "`testingdocs@localhost:~>` prompt",
+    "The text `ls` (on the line where the cursor was blinking)",
+    "`ls` command output (e.g., Desktop, Documents, Downloads, Music, Pictures, Public, Templates, Videos)",
+    "New `testingdocs@localhost:~>` prompt (after the `ls` output)",
+    "Blinking cursor (on the line after the new prompt)",
+    "Terminal background (dark)",
+    "Taskbar at the bottom"
+  ]
+}

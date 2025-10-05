@@ -1,0 +1,26 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Digital art",
+  "prompt": "Add a headlight to the explorer. The light should be a narrow beam that illuminates where the explorer is looking at.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Add a visible headlight to the small explorer figure located at the bottom center. The headlight should emit a narrow, focused beam of light that projects forward from the explorer, illuminating the path directly ahead and towards the bright opening in the distance.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "explorer figure at bottom center",
+    "visible headlight on the explorer figure",
+    "narrow, focused beam of light from the headlight",
+    "illuminated path directly ahead of the explorer",
+    "cavern or gorge structure",
+    "bright opening in the distance",
+    "dark, shadowy areas of the cavern",
+    "glowing elements in the cavern walls",
+    "sky with a moon",
+    "distant horizon"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

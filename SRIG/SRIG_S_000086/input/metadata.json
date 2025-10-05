@@ -1,0 +1,22 @@
+{
+  "subtopic": "Games",
+  "prompt": "Take this game screenshot and generate a version that looks like a frame from a black-and-white film noir movie, with dramatic shadows, high contrast, and a grainy texture.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://preview.redd.it/since-this-update-the-game-has-felt-more-vibrant-and-v0-0pefx0jtkpl91.png?width=640&crop=smart&auto=webp&s=9b59db9afe226a835ea41f1f9f2a3b0e7ce376dc",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate an image by transforming image 1, a game screenshot, into a black-and-white film noir movie frame. The resulting image should feature dramatic, hard-edged shadows, especially cast by the central character and extending across the landscape and the lake. Apply strong high contrast, showcasing deep blacks and stark whites with minimal mid-tones. Ensure all original game UI elements are removed. A prominent, coarse film grain texture should be applied throughout the image to complete the vintage cinematic look.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Central character",
+    "Landscape (including grass, trees, hills)",
+    "Lake",
+    "Distant background structures",
+    "Dramatic, hard-edged shadows",
+    "Black-and-white, high contrast (deep blacks, stark whites, minimal mid-tones)",
+    "Coarse film grain texture",
+    "Game UI elements (should not be present)"
+  ]
+}

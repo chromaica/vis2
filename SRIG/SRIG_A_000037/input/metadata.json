@@ -1,0 +1,25 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Traditional art",
+  "prompt": "Generate a charcoal sketch of an ancient Roman forum with ruins and scattered columns.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a monochromatic charcoal sketch depicting an ancient Roman forum in ruins, featuring fragmented structures and scattered broken columns. The artwork should emulate the detailed, textured line-art style observed in image 1, presenting an expansive historical scene.",
+  "annotator": "Johnny",
+  "objects": [
+    "ancient Roman forum",
+    "ruins",
+    "fragmented structures",
+    "scattered broken columns",
+    "monochromatic color scheme",
+    "charcoal sketch appearance",
+    "detailed line-art",
+    "textured line-art",
+    "expansive historical scene"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

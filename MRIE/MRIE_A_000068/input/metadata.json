@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Portraits",
+  "prompt": "Replace the red dress of the woman in image 1 with the black dress from image 2, and add the floral crown from image 3 to her hair.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the painting in image 1. Replace the woman's current red, off-the-shoulder dress with the long, black, sweetheart-neckline velvet dress shown in image 2. Furthermore, integrate the white and yellow daisy floral crown from image 3 onto the top of her dark hair, as if worn.",
+  "annotator": "paria",
+  "objects": [
+    "Woman",
+    "Long, black, sweetheart-neckline velvet dress",
+    "White and yellow daisy floral crown on dark hair",
+    "Ornate chair",
+    "Gold bracelet",
+    "Gold necklace/beads in hand",
+    "Dark background",
+    "Red, off-the-shoulder dress (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

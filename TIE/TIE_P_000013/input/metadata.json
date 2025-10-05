@@ -1,0 +1,20 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "Add galaxy stars to the sky in the reference image",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Transform the sky above the mountains into a vibrant, star-filled galaxy, complete with cosmic dust and colorful nebulae.",
+  "annotator": "theblackcat",
+  "objects": [
+    "mountains",
+    "vibrant galaxy",
+    "stars",
+    "cosmic dust",
+    "colorful nebulae"
+  ],
+  "human_annotation": true
+}

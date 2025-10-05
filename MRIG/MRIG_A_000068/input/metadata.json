@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Stylized art",
+  "prompt": "A stylized artwork of a cat, using the simplified form inspired by image 1, rendered in the vibrant, geometric, stained-glass-like style from image 2, capturing a bold, abstract feel.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a new image depicting a stylized cat artwork. The cat's simplified form and side profile pose should draw inspiration from image 1. Render this cat in the vibrant, geometric, stained-glass style of image 2, incorporating its characteristic sharp, angular facets and rich, diverse color palette. The overall artwork should convey a bold, abstract, and visually striking aesthetic.",
+  "annotator": "samin",
+  "objects": [
+    "Stylized cat artwork",
+    "Simplified cat form",
+    "Side profile cat pose",
+    "Vibrant color palette",
+    "Geometric patterns",
+    "Sharp, angular facets",
+    "Stained-glass artistic style",
+    "Abstract aesthetic"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

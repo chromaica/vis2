@@ -1,0 +1,22 @@
+{
+  "task": "SRIG",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "Render a paper writing 'Stay Curious' in the style of the reference image",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate an image featuring the phrase 'Stay Curious' written in the calligraphic style of image 1, using black ink on aged, textured paper. The text should be arranged vertically, similar to the layout in image 1.",
+  "annotator": "theblackcat",
+  "objects": [
+    "The phrase 'Stay Curious'",
+    "Calligraphic lettering",
+    "Black ink",
+    "Aged paper",
+    "Textured paper",
+    "Vertical text layout"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

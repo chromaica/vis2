@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "In image 1, replace the white Air Force shoes with the high heels from image 2, and replace the yellow sun circle with the orange slice from image 3.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the pair of white Air Force shoes, located prominently in the foreground of image 1, with the red stiletto high heels from image 2. Additionally, replace the large yellow sun circle positioned in the upper center of image 1 with the orange slice from image 3.",
+  "annotator": "paria",
+  "objects": [
+    "red stiletto high heels (in foreground)",
+    "orange slice (in upper center)",
+    "sky with clouds",
+    "pink mountains",
+    "pin-up girl on red mushroom",
+    "large eyeball",
+    "Bullet Bill",
+    "fighter jets",
+    "soldiers/military figures",
+    "green mushroom"
+  ]
+}

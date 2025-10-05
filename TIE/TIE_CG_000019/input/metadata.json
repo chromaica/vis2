@@ -1,0 +1,26 @@
+{
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "Change the color of the large blue pedestrian segment to bright yellow.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751818515580,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1: Change the color of the large blue pedestrian segment, located prominently in the foreground on the left, to bright yellow.",
+  "annotator": "edisy",
+  "objects": [
+    "large bright yellow pedestrian",
+    "dark red cars",
+    "green foliage",
+    "dark grey shapes",
+    "purple road",
+    "brown sidewalk",
+    "pink segment",
+    "light blue signs",
+    "small blue pedestrians",
+    "grey pole"
+  ]
+}

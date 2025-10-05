@@ -1,0 +1,28 @@
+{
+  "subtopic": "Object detection visuals",
+  "prompt": "Edit image 1 (code) by overlaying object detection results. Add bounding boxes and masks around detected code elements using the distressed, textured style from image 2. Apply a subtle glowing highlight to these detected areas, inspired by the reflection of city lights on water in image 3.",
+  "cond_images": [
+    "1.png",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748455329324,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit the source image, image 1, which displays lines of computer code on a dark background. Overlay visual indicators of object detection by drawing rectangular bounding boxes and generating semi-transparent mask overlays around significant individual code elements or blocks of code. These bounding boxes and masks should feature a distressed, textured, and slightly worn appearance, inspired by the rough, aged surfaces and peeling textures seen in image 2. Additionally, apply a subtle, soft, and shimmering glowing highlight along the edges or within these detected areas (bounding boxes and masks), emulating the gentle, diffused reflections of city lights on the water surface as depicted in image 3, appearing as if the code elements are subtly illuminated from within or around their boundaries.",
+  "annotator": "winston",
+  "objects": [
+    "lines of computer code on a dark background",
+    "rectangular bounding boxes",
+    "semi-transparent mask overlays",
+    "distressed appearance on bounding boxes and masks",
+    "textured appearance on bounding boxes and masks",
+    "worn appearance on bounding boxes and masks",
+    "subtle glowing highlight on bounding boxes and masks",
+    "soft glowing highlight on bounding boxes and masks",
+    "shimmering glowing highlight on bounding boxes and masks",
+    "illuminated code elements"
+  ]
+}

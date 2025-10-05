@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "AI assistant icon that combines a gear and a speech bubble with gradient purple-to-blue coloring",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "AI assistant icon: a gear and a speech bubble fused together, with a smooth gradient from purple to blue.",
+  "annotator": "theblackcat",
+  "objects": [
+    "gear shape",
+    "speech bubble shape",
+    "fused or combined form of a gear and a speech bubble",
+    "purple color",
+    "blue color",
+    "smooth color gradient"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

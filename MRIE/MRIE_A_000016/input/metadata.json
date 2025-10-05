@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Traditional art",
+  "prompt": "Add the cat from the first image to the Mona Lisa's left hand, and place the iPhone from the second image in her right hand in the third image, so it looks like she is taking a selfie with her cat in a mirror.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 3, the Mona Lisa portrait. Add the fluffy orange cat from image 1 to Mona Lisa's left hand, as if she is gently holding it. Place the dark grey iPhone from image 2 into her right hand, oriented as if she is holding it up to take a photograph. The final edited image should depict Mona Lisa taking a selfie with the cat in a mirror, implying her gaze is directed towards the phone and the scene is a reflection.",
+  "annotator": "paria",
+  "objects": [
+    "Mona Lisa",
+    "Mona Lisa's portrait background",
+    "Fluffy orange cat in Mona Lisa's left hand",
+    "Mona Lisa's left hand holding the cat",
+    "Dark grey iPhone in Mona Lisa's right hand",
+    "Mona Lisa's right hand holding the iPhone",
+    "Mona Lisa taking a selfie",
+    "Mirror",
+    "Reflected scene in the mirror",
+    "Mona Lisa's gaze directed towards the iPhone"
+  ]
+}

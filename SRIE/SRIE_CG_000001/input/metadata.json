@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Image Transformation",
+  "prompt": "Rotate the car in the scene so that it matches the angle of the car in the reference.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, which features a blue BMW sedan. Rotate the car in image 1 so its orientation matches the side-profile view of the car in reference image 2. Ensure the edited car in image 1 appears to be facing towards the right, while remaining in its current position on the road.",
+  "annotator": "nimajamali",
+  "objects": [
+    "blue BMW sedan (side-profile view, facing right)",
+    "road",
+    "road barriers (concrete barrier on the right)",
+    "metal guardrail (on the left)",
+    "streetlights",
+    "sky (with sunset/sunrise colors)",
+    "distant people/motorcycles",
+    "bridge structure"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

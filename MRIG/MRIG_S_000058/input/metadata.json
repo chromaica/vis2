@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "Generate a receipt of a concert ticket that includes the event details extracted from the concert poster in the first image and uses layout from the second image.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a concert ticket receipt. The receipt should replicate the layout and structure of the 'Order Details' screenshot presented in image 2, including its main title, all specific field labels (such as 'Order number', 'Sale date', 'Event', 'Venue', 'Time', 'Section', 'Row', 'Price per ticket', 'Total cost'), and the horizontal separator line.\n\nThe event details for the receipt must be extracted from the concert poster in image 1:\n- The 'Event' field should display 'GHOSTLY KISSES'.\n- The 'Venue' field should display 'LA MAROQUINERIE, Paris, France'.\n- The 'Time' field should display 'April 23, 2024'.\n\nFor all other fields (e.g., 'Order number', 'Sale date', 'Section', 'Row', 'Price per ticket', 'Quantity', 'Delivery fee', 'Discounts', 'Total cost'), generate plausible, generic placeholder values. The final image should maintain the visual appearance of a digital screenshot.",
+  "annotator": "paria",
+  "objects": [
+    "\"Order Details\" main title",
+    "Horizontal separator line",
+    "Digital screenshot visual appearance and layout (replicating Image 2's structure)",
+    "Text field labels: 'Order number', 'Sale date', 'Event', 'Venue', 'Time', 'Section', 'Row', 'Price per ticket', 'Quantity', 'Delivery fee', 'Discounts', 'Total cost'",
+    "Text value \"GHOSTLY KISSES\" for the 'Event' field",
+    "Text value \"LA MAROQUINERIE, Paris, France\" for the 'Venue' field",
+    "Text value \"April 23, 2024\" for the 'Time' field",
+    "Plausible placeholder value for 'Order number'",
+    "Plausible placeholder value for 'Sale date'",
+    "Plausible placeholder values for 'Section', 'Row', 'Price per ticket', 'Quantity', 'Delivery fee', 'Discounts', and 'Total cost'"
+  ]
+}

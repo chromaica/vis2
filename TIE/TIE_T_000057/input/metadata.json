@@ -1,0 +1,23 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "swap the portrait for a cartoon speedometer.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the central illustration of the man wearing a sombrero and holding guns with a cartoon speedometer.",
+  "annotator": "matina",
+  "objects": [
+    "WANTED text",
+    "DEAD OR ALIVE text",
+    "cartoon speedometer",
+    "ARMED AND VERY DANGEROUS text",
+    "$30,000 text",
+    "CASH REWARD text",
+    "grunge background texture",
+    "border",
+    "TemplateLAB logo"
+  ]
+}

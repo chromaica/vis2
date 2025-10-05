@@ -1,0 +1,24 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Stylized art",
+  "prompt": "Generate a Van Gogh-inspired stylized painting of a bicycle in the first image, preserving the structure of the sketch and blending it with expressive swirling textures and bold colors from the painting reference in the second image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a painting of a bicycle. The bicycle's outline and structure should precisely follow the line drawing in image 2. The painting style should emulate the Van Gogh-inspired artwork of image 1, incorporating its characteristic expressive swirling textures and bold colors, specifically the blues, yellows, and whites.",
+  "annotator": "samin",
+  "objects": [
+    "painting",
+    "bicycle (with outline and structure from image 2)",
+    "front basket",
+    "Van Gogh-inspired painting style",
+    "expressive swirling textures",
+    "bold colors",
+    "blues",
+    "yellows",
+    "whites"
+  ]
+}

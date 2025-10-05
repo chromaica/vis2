@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "create a retro gaming arcade cabinet selection screen with pixel art thumbnails, scanline effects, neon purple and orange color scheme, classic 8-bit font, and animated star-field background",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a retro gaming arcade cabinet selection screen. The display should feature multiple pixel art game thumbnails and all on-screen text rendered in a classic 8-bit font. Prominent scanline effects must be overlaid across the entire screen, simulating a CRT monitor. The dominant color scheme for all user interface elements, text, and glowing accents should be neon purple and vibrant orange. A dynamic, animated star-field background should be visible behind all screen elements.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Retro gaming arcade cabinet selection screen",
+    "Multiple pixel art game thumbnails",
+    "On-screen text rendered in a classic 8-bit font",
+    "Prominent scanline effects",
+    "User interface elements",
+    "Glowing accents",
+    "Neon purple colored UI elements, text, and accents",
+    "Vibrant orange colored UI elements, text, and accents",
+    "Dynamic star-field background"
+  ]
+}

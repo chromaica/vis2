@@ -1,0 +1,23 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Traditional art",
+  "prompt": "Generate a charcoal-style drawing of the person in image 1, using the pose from image 2.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a full-body charcoal drawing of the woman from image 1, accurately depicting her in the seated pose from image 2. Emphasize a realistic charcoal sketch aesthetic.",
+  "annotator": "samin",
+  "objects": [
+    "Woman (appearance from image 1)",
+    "Full-body view of the woman",
+    "Seated pose (as depicted in image 2)",
+    "Chair (supporting the pose from image 2)",
+    "Charcoal drawing style",
+    "Realistic sketch aesthetic"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

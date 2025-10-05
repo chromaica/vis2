@@ -1,0 +1,25 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "A collage arts like the reference image of different moments of families meetings.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a multi-panel collage artwork depicting different moments of family meetings, structured similarly to image 1. A large, prominent image showcasing a significant family gathering scene should be centrally positioned. This central image should be surrounded by a dense, grid-like or mosaic arrangement of numerous smaller, diverse images. These peripheral panels should portray various candid family interactions, close-up details, or fragmented scenes from family life, emulating the varied and layered visual elements found around the main subject in image 1. The overall aesthetic should be that of a rich, multi-layered collage art piece.",
+  "annotator": "Johnny",
+  "objects": [
+    "multi-panel collage structure",
+    "large, prominent central image",
+    "family gathering scene in central image",
+    "numerous smaller images surrounding the central image",
+    "grid-like arrangement of smaller images",
+    "mosaic arrangement of smaller images",
+    "candid family interactions in smaller images",
+    "close-up details from family life in smaller images",
+    "fragmented scenes from family life in smaller images"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

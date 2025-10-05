@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "Replace the helmet reflection with a starship battle scene, retitle the film \u2018Beyond the Void\u2019.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the starry reflection within the astronaut's helmet visor with a detailed starship battle scene. Update the poster's title from 'SPACE EXPLORERS' to 'BEYOND THE VOID'.",
+  "annotator": "matina",
+  "objects": [
+    "Astronaut",
+    "Helmet visor",
+    "Detailed starship battle scene (within the helmet visor)",
+    "Space background",
+    "Stars",
+    "Red planet",
+    "Blue/green planet",
+    "Moon",
+    "Comet/asteroid trail",
+    "Text 'BEYOND THE VOID'"
+  ]
+}

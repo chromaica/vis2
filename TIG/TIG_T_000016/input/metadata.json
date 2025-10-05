@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Textual Tattoos",
+  "prompt": "Capture the permanence of ink: 'Resilience' scripted in elegant, flowing calligraphy with deep black pigment. This photo-realistic tattoo is seamlessly part of the forearm's skin texture, well-healed with subtle shading, and lit naturally to reveal fine details.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a photo-realistic image of a well-healed tattoo on a human forearm. The tattoo features the word 'Resilience' scripted in elegant, flowing deep black calligraphy, with subtle shading. It seamlessly blends into the skin texture. The image should be naturally lit, revealing fine details.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "human forearm",
+    "tattoo",
+    "the word 'Resilience'",
+    "elegant, flowing calligraphy",
+    "deep black color for the tattoo",
+    "subtle shading on the tattoo",
+    "skin texture",
+    "natural lighting"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

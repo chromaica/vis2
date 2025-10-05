@@ -1,0 +1,28 @@
+{
+  "task": "MRIG",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Generate a grouped bar chart showing stock levels of three products (Image 1\u20133) across four regions. Use each product image to label bars on the x-axis and color each bar to reflect its packaging.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.png"
+  ],
+  "remarks": "",
+  "annotator": "matina",
+  "prompt_refined": "Generate a grouped bar chart that visually represents the stock levels of three distinct products across four different geographical regions. On the X-axis, use image 1, image 2, and image 3 as the visual labels for each product group. Each bar within a product group must be colored to reflect the primary hues of its corresponding packaging: bars for image 1 should be predominantly yellow and dark green; bars for image 2 should be primarily yellow with red and blue accents; and bars for image 3 should be predominantly white with orange and green accents. The Y-axis of the chart should be clearly labeled 'Stock Levels'.",
+  "objects": [
+    "Grouped bar chart structure",
+    "X-axis",
+    "Y-axis",
+    "Y-axis label 'Stock Levels'",
+    "Product group 1 visual label (Nature Valley Oats'n Honey Granola Bars box)",
+    "Product group 2 visual label (Nesquik cereal box)",
+    "Product group 3 visual label (Tropicana Orange Juice carton)",
+    "Bars for product group 1 (yellow and dark green)",
+    "Bars for product group 2 (yellow with red and blue accents)",
+    "Bars for product group 3 (white with orange and green accents)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

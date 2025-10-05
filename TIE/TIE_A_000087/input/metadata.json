@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Digital art",
+  "prompt": "Make it into high resolution pixel art. Keep everything else the same.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Convert image 1, a vibrant psychedelic landscape artwork, into high-resolution pixel art. Preserve the original composition, exact color palette, and all existing elements, including the central sun, its reflection on the water, surrounding mountains, various trees and foliage, clouds, stars, and colorful celestial orbs.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "central sun",
+    "sun's reflection on water",
+    "mountains",
+    "trees",
+    "foliage",
+    "clouds",
+    "stars",
+    "colorful celestial orbs",
+    "water body",
+    "psychedelic sky with light rays"
+  ]
+}

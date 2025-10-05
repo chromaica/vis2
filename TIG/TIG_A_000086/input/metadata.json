@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Pop art",
+  "prompt": "An energetic scene of a music concert, capturing the band and audience in a series of colorful, pop art panels.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "An energetic music concert scene, depicted as multiple colorful pop art panels. Each panel vibrantly showcases the performing band and the enthusiastic audience, rendered with bold graphic lines and bright hues characteristic of pop art.",
+  "annotator": "cwhsu",
+  "objects": [
+    "music concert scene",
+    "multiple pop art panels",
+    "performing band",
+    "enthusiastic audience",
+    "bold graphic lines",
+    "bright hues"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

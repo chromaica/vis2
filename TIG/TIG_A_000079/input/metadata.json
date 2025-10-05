@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "oil paintings",
+  "prompt": "An oil painting of a joyful carnival, crowded with exuberant people, vibrant tents, and swirling motion under the shining banner of early evening light.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "An oil painting of a joyful, bustling carnival, densely crowded with exuberant people and vibrant tents. The scene is filled with a sense of dynamic, swirling motion, all bathed in the radiant, golden light of early evening.",
+  "annotator": "cwhsu",
+  "objects": [
+    "oil painting style",
+    "carnival scene",
+    "joyful people",
+    "exuberant people",
+    "densely crowded environment",
+    "vibrant tents",
+    "dynamic, swirling motion",
+    "radiant, golden light",
+    "early evening light"
+  ]
+}

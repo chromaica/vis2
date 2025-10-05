@@ -1,0 +1,25 @@
+{
+  "subtopic": "Websites",
+  "prompt": "Generate a still frame from a kinetic typography animation based on the provided news article screenshot. The most important words should be larger and more dynamic, creating a sense of motion and emphasis.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "https://preview.redd.it/screenshots-of-the-new-york-times-article-v0-y3y5guzmtbbd1.jpg?width=640&crop=smart&auto=webp&s=f3ebbb4ded86cbe7b16c1490f2371e04c1fe5c14",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a still frame from a kinetic typography animation. Utilize the headline and introductory paragraph text from image 1. Visually emphasize the phrases 'House of the Dragon', 'Ewan Mitchell', 'His Chin', 'Aemond Targaryen', and 'Game of Thrones prequel' by making them significantly larger and more dynamic than other words. Arrange these key elements across the frame with varied sizing, subtle rotations, or implied motion effects (e.g., slight blur, leading lines) to create a sense of being frozen mid-animation. Ensure all original text from image 1 remains present and legible, conveying the article's core message.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "'House of the Dragon' text (large and dynamic)",
+    "'Ewan Mitchell' text (large and dynamic)",
+    "'His Chin' text (large and dynamic)",
+    "'Aemond Targaryen' text (large and dynamic)",
+    "'Game of Thrones prequel' text (large and dynamic)",
+    "The New York Times masthead text",
+    "Headline text (remaining words: \"In\", \",\", \"Leads With\")",
+    "Introductory paragraph text (remaining words from the article's first paragraph)",
+    "Hamburger menu icon",
+    "User profile icon"
+  ],
+  "human_annotation": true
+}

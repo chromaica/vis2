@@ -1,0 +1,27 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Transform the real-life city street photograph referenced in the first image into a comic book-style illustration referenced in the second image. Infuse the scene with dynamic pop-art aesthetics, featuring bold black outlines, vibrant primary colors, and exaggerated lighting effects. Add comic book elements like speech bubbles with witty dialogue from pedestrians and subtle halftone dots. Emphasize a retro 1960s comic vibe, with dramatic shadows and energetic poses, while preserving the core composition of the original photo.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate an image that transforms the photorealistic city street scene from image 1 into a vibrant comic book illustration. The visual style should strongly reflect the dynamic pop-art aesthetics seen in image 2, characterized by bold black outlines, vibrant primary colors, and exaggerated lighting effects. Introduce several pedestrians onto the street, each depicted with energetic poses and an accompanying speech bubble containing witty dialogue. Integrate subtle halftone dot patterns throughout the scene. Emphasize a retro 1960s comic vibe, including dramatic shadows. Crucially, preserve the core composition, perspective, and street layout of image 1.",
+  "objects": [
+    "City street scene from Image 1 (maintaining its composition, perspective, and layout)",
+    "Bold black outlines",
+    "Vibrant primary colors",
+    "Exaggerated lighting effects",
+    "Dramatic shadows",
+    "Pedestrians",
+    "Energetic poses (for pedestrians)",
+    "Speech bubbles",
+    "Witty dialogue (within speech bubbles)",
+    "Subtle halftone dot patterns"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

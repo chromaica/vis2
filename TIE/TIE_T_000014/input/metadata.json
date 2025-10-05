@@ -1,0 +1,20 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "Add water-drop distortions above each letter\u2014tiny lenses that refract the underlying color.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, which displays colorful 3D letters. Add tiny, clear water-drop shaped distortions onto the top surface of each individual letter. These distortions should function as small lenses, refracting and subtly magnifying the underlying color and texture of the letter beneath each drop.",
+  "annotator": "matina",
+  "objects": [
+    "Colorful 3D letters",
+    "Wooden structure",
+    "Tiny, clear water-drop shaped distortions on letter surfaces",
+    "Refraction effect visible through water-drop distortions",
+    "Subtle magnification effect visible through water-drop distortions",
+    "Light-colored background"
+  ]
+}

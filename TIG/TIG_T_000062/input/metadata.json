@@ -1,0 +1,19 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Textual Tattoos",
+  "prompt": "Depict a photo-realistic forearm tattoo: the word 'Journey' inked in a delicate fine-line black script on textured human skin.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A photo-realistic close-up of a human forearm, displaying a tattoo of the word 'Journey' rendered in a delicate fine-line black script on textured skin.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Human forearm",
+    "Tattoo",
+    "The word 'Journey' (as tattoo content)",
+    "Black script (tattoo style)",
+    "Fine-line script (tattoo style detail)",
+    "Textured skin (on the forearm)",
+    "Close-up view of the forearm"
+  ]
+}

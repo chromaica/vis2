@@ -1,0 +1,26 @@
+{
+  "subtopic": "Receipts",
+  "prompt": "Create a mobile screenshot image of a new digital receipt on a website, by referencing the provided image. The products are related to mobile phone. Display order confirmation details, order number, total, and other relevant information.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://baymard-assets.imgix.net/benchmark_webpages/screenshots/17613/original/SS-OrderConfirmation-3208f2a4ed196474ad94e1704fe70163.png?w=3840&h=6400&auto=format&q=50&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0",
+  "promptGeneratedTimestamp": 1749424785461,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a mobile screenshot of a new digital receipt confirming an order for mobile phone related products. Reference image 1 for the overall layout, including the primary 'Your Order Was Placed!' heading, the email confirmation message directly below it, and the large, centrally located action button (e.g., 'View Receipt' or 'Download Receipt'). Below this main confirmation section, clearly display 'Order Number:' (e.g., '#MOB123456789') and 'Order Total:' (e.g., '$999.99'), mirroring their position at the bottom of image 1. Furthermore, include a 'Delivery' section structured similarly to image 1's partial display. The visual outcome should be a clean, modern digital receipt from an online mobile phone retailer, distinct from any specific brand shown in the reference image.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Mobile screenshot UI",
+    "\"Your Order Was Placed!\" heading",
+    "Email confirmation message text",
+    "Large, centrally located action button (e.g., 'View Receipt' or 'Download Receipt')",
+    "\"Order Number:\" label and placeholder value (e.g., '#MOB123456789')",
+    "\"Order Total:\" label and placeholder value (e.g., '$999.99')",
+    "\"Delivery\" section heading",
+    "Content area for Delivery details",
+    "Clean, modern digital receipt aesthetic",
+    "Home Depot branding/logo (should not be present)"
+  ]
+}

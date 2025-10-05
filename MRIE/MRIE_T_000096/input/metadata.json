@@ -1,0 +1,24 @@
+{
+  "subtopic": "Posters",
+  "prompt": "Edit image 1's sight words poster. Add abstract brush strokes and grunge textures from image 2 as background elements around the poster. Change the font of the title '100 Sight Words' in image 1 to the decorative, illustrative style of the lettering shown in image 3.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1750178591052,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "T",
+  "prompt_refined": "Edit image 1, the '100 Sight Words' poster. Introduce abstract brush strokes and grunge textures from image 2 into the background area surrounding the poster. Change the font of the title '100 Sight Words' at the top of the poster to match the decorative, illustrative lettering style seen in image 3.",
+  "annotator": "winston",
+  "objects": [
+    "\"100 Sight Words\" title with decorative, illustrative lettering style",
+    "Grid of sight words on the poster",
+    "Colored rectangular blocks (for words)",
+    "Abstract brush strokes in the background",
+    "Grunge textures in the background"
+  ],
+  "human_annotation": true
+}

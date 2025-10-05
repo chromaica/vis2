@@ -1,0 +1,23 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "CAD models",
+  "prompt": "Apply this wood grain to the tabletop surface.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Apply the wood grain pattern and texture from image 2 to the top rectangular surface of the table in image 1.",
+  "annotator": "nimajamali",
+  "objects": [
+    "Table (structured as in image 1)",
+    "Top rectangular surface of the table",
+    "Wood grain pattern on the top rectangular surface",
+    "Wood texture on the top rectangular surface",
+    "Table base/leg (the vertical support)",
+    "Rectangular cutout in the table base/leg"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

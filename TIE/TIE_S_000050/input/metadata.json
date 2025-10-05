@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Change the playlist cover to a vintage vinyl record theme with a subtle sepia tone for retro appeal.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Transform the 'lofi beats' playlist cover, located in the left sidebar, into a vintage vinyl record. The new cover should feature a subtle sepia tone to convey a retro aesthetic.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Spotify application window",
+    "Left sidebar",
+    "Main content song list",
+    "Bottom media player bar",
+    "Vintage vinyl record with subtle sepia tone (as 'lofi beats' playlist cover in left sidebar)",
+    "\"lofi beats\" playlist header (in main content area)",
+    "Other playlist/album covers in left sidebar",
+    "Song titles and artist names in main list",
+    "Large green Play/Pause button (in main content area header)",
+    "Playback controls (in bottom bar)"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "subtopic": "VFX and Particles",
+  "prompt": "Make the existing blue particles pulse with a neon glow and disperse more widely across the frame.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751814107912,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1. Transform the existing blue particles so they emit a vibrant, pulsating neon glow. Increase their dispersion significantly, causing them to spread more widely and fill a greater portion of the previously empty, dark background across the entire frame.",
+  "annotator": "edisy",
+  "objects": [
+    "Particles emitting a vibrant, pulsating neon glow",
+    "Widely dispersed particles covering the frame",
+    "Dark background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

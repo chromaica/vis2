@@ -1,0 +1,26 @@
+{
+  "subtopic": "Physics Simulation",
+  "prompt": "Change the velocity streamline color map to a smooth gradient from deep blue for low velocity to bright red for high velocity.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751801733694,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1. Update the entire velocity streamline color map, visible both in the legend on the left and applied to the streamlines within the pipe. Rerender the color scheme so that it transitions smoothly and directly from deep blue for the lowest velocities to bright red for the highest velocities, replacing any intermediate colors like green or yellow.",
+  "annotator": "edisy",
+  "objects": [
+    "Velocity streamline color map on the left, transitioning from deep blue to bright red",
+    "Legend numerical values on the left",
+    "\"Velocity Streamline 1\" text on the left",
+    "\"[m s^-1]\" unit text on the left",
+    "Velocity streamlines within the pipe, colored from deep blue to bright red",
+    "Transparent pipe structure",
+    "Internal blue mechanism/object within the pipe",
+    "Measurement scale bar at the bottom",
+    "Coordinate axis/system at the bottom right",
+    "Light blue background"
+  ]
+}

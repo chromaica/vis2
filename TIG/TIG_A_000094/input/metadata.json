@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Stylized art",
+  "prompt": "A mystical underwater world depicted in cubism, where vividly patterned fish swim among geometric coral under a sky of refracting light prisms.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a highly detailed cubist artwork depicting a mystical underwater world. Vividly patterned fish are swimming through dense, geometric coral formations. Above the scene, the water's surface refracts light into a captivating array of colorful, sharp-edged prisms, creating a shimmering 'sky' effect.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Cubist artwork style",
+    "Mystical underwater world",
+    "Vividly patterned fish",
+    "Dense, geometric coral formations",
+    "Water's surface (above the scene)",
+    "Colorful, sharp-edged prisms",
+    "Refracted light",
+    "Shimmering 'sky' effect"
+  ]
+}

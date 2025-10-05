@@ -1,0 +1,26 @@
+{
+  "subtopic": "Visual instructions and manuals",
+  "prompt": "Based on the IKEA-style furniture diagram, create an instruction page for changing a new light bulb.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://miro.medium.com/v2/resize:fit:1400/1*KmJbC8bdTxvCSQdyxGtxaA.jpeg",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate a multi-panel instruction page for changing a light bulb. The visual style must precisely replicate the black-and-white line art, minimalist human figures, numbered steps, and diagrammatic exploded or isometric views characteristic of the IKEA assembly manual provided in image 1.\n\nThe instruction page should clearly depict the following sequence of actions:\n1.  **Step 1:** A hand turning off a wall light switch, accompanied by a 'power off' warning symbol similar to the informational icons in image 1.\n2.  **Step 2:** A person unscrewing an old light bulb from a lamp or ceiling fixture, indicating counter-clockwise rotation.\n3.  **Step 3:** The removed old light bulb, separate from the fixture, with a new, boxed light bulb positioned nearby.\n4.  **Step 4:** A person carefully unboxing the new light bulb.\n5.  **Step 5:** The new light bulb being screwed into the fixture, showing clockwise rotation.\n6.  **Step 6:** A hand turning on the wall light switch, with the installed light bulb visibly illuminated, and an 'ok' or 'check' symbol to indicate completion/function.\n\nEnsure each step occupies a distinct, numbered panel. Utilize arrows and detailed close-ups within panels where necessary, consistent with the visual language of image 1.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Multi-panel instruction page layout with numbered steps (1-6)",
+    "Black-and-white line art, diagrammatic visual style",
+    "Minimalist human figures and hands",
+    "Wall light switch",
+    "Lamp or ceiling fixture",
+    "Old light bulb",
+    "New light bulb (both boxed and unboxed)",
+    "'Power off' warning symbol",
+    "'Ok' or 'check' completion symbol",
+    "Directional arrows (indicating rotation)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

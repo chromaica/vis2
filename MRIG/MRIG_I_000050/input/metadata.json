@@ -1,0 +1,31 @@
+{
+  "subtopic": "Maps",
+  "prompt": "Create a map infographic for Canada using the regional division and numbered hotspot style from image 2. Display regional facts in the callout box and connecting line style of image 1, including icons.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "Infographic map examples",
+  "searchQueryGeneratedTimestamp": 1752290389303,
+  "promptGeneratedTimestamp": 1752290477291,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "I",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a map infographic for Canada. The map should feature regional divisions (provinces/territories) and prominent numbered circular hotspots, each containing a small icon, adopting the visual style seen in image 2. For each numbered hotspot, display corresponding regional facts within a callout box. These callout boxes should have rounded corners and include a relevant icon, similar to image 1. Connect each callout box to its respective numbered hotspot on the map using a clear line, replicating the connecting line style of image 1. Arrange the callout boxes around the map for optimal readability. Include a main title for the infographic above the map, e.g., 'Facts about Canada'.",
+  "objects": [
+    "Map of Canada",
+    "Regional divisions (provinces/territories) on the map",
+    "Numbered circular hotspots on the map",
+    "Small icons within each numbered hotspot",
+    "Callout boxes with rounded corners",
+    "Regional facts text within callout boxes",
+    "Relevant icons within each callout box",
+    "Connecting lines from callout boxes to hotspots",
+    "Main title \"Facts about Canada\" above the map",
+    "Callout boxes arranged around the map"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

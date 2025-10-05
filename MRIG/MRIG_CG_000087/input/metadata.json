@@ -1,0 +1,27 @@
+{
+  "subtopic": "CAD models",
+  "prompt": "Generate a detailed CAD model rendering of the silver laptop design seen in image 1. Present the model using the isolated perspective and clean rendering style from image 2, showing technical details on the screen.",
+  "cond_images": [
+    "1.jpeg",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748424348871,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a detailed CAD model rendering of the silver laptop design from image 1. Render it with the isolated black background and clean product rendering style seen in image 2, maintaining a similar elevated, angled three-quarter perspective. The laptop's display screen should feature a software development environment, including code and technical diagrams.",
+  "annotator": "winston",
+  "objects": [
+    "Silver laptop (design based on image 1)",
+    "CAD model rendering style",
+    "Isolated black background",
+    "Elevated, angled three-quarter perspective",
+    "Laptop display screen",
+    "Software development environment on display screen",
+    "Code on display screen",
+    "Technical diagrams on display screen"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

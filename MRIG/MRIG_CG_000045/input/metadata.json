@@ -1,0 +1,26 @@
+{
+  "subtopic": "3D renders",
+  "prompt": "A 3D render combining the spherical shape and dark background environment from image 1 with the porous texture and yellow and green materials from image 2.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748422959404,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a 3D render of a spherical object. The sphere should exhibit the porous, fibrous texture and distinct bright yellow and vibrant green colors found in image 2. It should be centrally placed against a deep black background, mimicking the dark celestial environment seen in image 1.",
+  "annotator": "winston",
+  "objects": [
+    "Spherical object",
+    "Porous texture",
+    "Fibrous texture",
+    "Bright yellow color",
+    "Vibrant green color",
+    "Deep black background",
+    "Dark celestial environment",
+    "Centrally placed spherical object",
+    "3D render style"
+  ]
+}

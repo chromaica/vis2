@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "QR Code",
+  "prompt": "Edit image 1 by replacing the black-and-white QR code with the multicolor Google-style QR code from image 2, scaled to match the width of the original and centered within the white card area. Then, insert the Pepsi logo from image 3 at the bottom of the screenshot, centered horizontally in the empty space beneath the texts. All other layout elements, including the name and ticket title, must remain unchanged.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the existing black-and-white QR code with the colorful, circular-patterned QR code from image 2. The new QR code must be scaled to exactly match the width of the original and be perfectly centered within its white rectangular background area. Additionally, insert the Pepsi logo from image 3 into the empty space at the bottom of the screenshot. This logo should be horizontally centered within the grey area below the text 'Startup Weekend Presents: Censored!' and above the bottom edge of the overall screenshot. All other elements, including the navigation bar, tabs, sharing icon, user name, subtitle, and event text, must remain completely unchanged in their original positions and appearance.",
+  "annotator": "parnian",
+  "objects": [
+    "Navigation bar",
+    "Tabs",
+    "Sharing icon",
+    "White rectangular background area",
+    "Black-and-white QR code (should not be present)",
+    "Colorful, circular-patterned QR code",
+    "Dennis Uyenoyama text",
+    "Non-Technical text",
+    "Startup Weekend Presents: Censored! text",
+    "Pepsi logo"
+  ]
+}

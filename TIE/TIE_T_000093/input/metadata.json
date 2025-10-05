@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "Overlay glowing neon circuit-traces along the lamp posts, replace the night sky with a star-field of node-dots.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Overlay glowing neon circuit-traces onto the prominent lamp post located on the far right side of the image. Furthermore, replace the existing starry night sky in image 1 with a new star-field that appears as glowing, interconnected node-dots, forming a futuristic circuit board pattern across the entire upper portion of the image.",
+  "annotator": "matina",
+  "objects": [
+    "Ryan Gosling (male dancing figure)",
+    "Emma Stone (female dancing figure)",
+    "lamp post on the far right",
+    "glowing neon circuit-traces on the lamp post",
+    "cityscape/horizon",
+    "ground/road in the foreground",
+    "star-field as glowing, interconnected node-dots forming a futuristic circuit board pattern across the entire upper portion",
+    "textual graphics (movie title, actor names, taglines)",
+    "existing starry night sky (should not be present)",
+    "wooden posts/barriers"
+  ]
+}

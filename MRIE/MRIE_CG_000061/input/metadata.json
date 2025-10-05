@@ -1,0 +1,25 @@
+{
+  "subtopic": "3D renders",
+  "prompt": "Edit the 3D render in image 1: Convert the mole character to the friendly cartoon style of image 3, and render it within the vibrant autumn environment and warm lighting depicted in image 2.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748456095599,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1: Re-render the mole character to adopt the friendly, simplified cartoon style evident in image 3. Place this newly stylized mole, maintaining its pose as it peeks from the ground, within a vibrant outdoor autumn environment. This new setting should reflect the richly colored fallen leaves and warm, soft natural lighting characteristics seen in image 2.",
+  "annotator": "winston",
+  "objects": [
+    "Mole character (in friendly, simplified cartoon style)",
+    "Mole peeking from the ground",
+    "Ground",
+    "Vibrant outdoor autumn environment",
+    "Richly colored fallen leaves",
+    "Warm, soft natural lighting"
+  ],
+  "human_annotation": true
+}

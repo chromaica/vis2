@@ -1,0 +1,19 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Stylized art",
+  "prompt": "A stylized castle with a girl sitting.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate an artwork of a stylized castle, incorporating the distinctive carved stone architecture and warm, sandy texture seen in image 1. A girl is sitting on a low ledge or sculpted stone element of the castle.",
+  "annotator": "Johnny",
+  "objects": [
+    "stylized castle",
+    "carved stone architecture",
+    "warm, sandy texture",
+    "girl",
+    "low ledge or sculpted stone element of the castle"
+  ]
+}

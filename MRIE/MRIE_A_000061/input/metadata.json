@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Pop art",
+  "prompt": "Replace the picnic basket and the background in the first image with the picnic basket from the second image and the sea landscape from the third image, respectively.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the picnic basket located in the lower-right foreground with the picnic basket from image 2. Transform the entire background from the current mountainous lake scenery to the expansive sandy beach and clear blue ocean landscape depicted in image 3.",
+  "annotator": "paria",
+  "objects": [
+    "Frida Kahlo",
+    "Salvador Dal\u00ed",
+    "Vincent van Gogh",
+    "Girl with a Pearl Earring",
+    "Picnic blanket with food and drinks",
+    "Picnic basket from image 2 (with croissants and daisies)",
+    "Expansive sandy beach",
+    "Clear blue ocean",
+    "Blue sky with clouds",
+    "Palm trees"
+  ]
+}

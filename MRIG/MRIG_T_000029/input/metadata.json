@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "Generate a cooking masterclass poster using Image 1 at the top to show the chef leading the class, and Image 2 at the bottom to represent the ingredients and food prepared during the class. Add the title: 'Culinary Masterclass with Chef Marco'",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a professional cooking masterclass poster. In the top half of the poster, prominently feature the smiling male chef from Image 1, dressed in a white chef's uniform with crossed arms, to represent Chef Marco leading the class. In the bottom half, create a rich visual display of fresh, vibrant ingredients and prepared dishes, drawing heavily from the top-down perspective and specific elements (such as colorful vegetables, herbs, grains, and a prepared salad bowl on a wooden surface) found in Image 2. Integrate the rustic wooden background texture from Image 2 as a foundational element for this lower section. Overlay the title \"Culinary Masterclass with Chef Marco\" clearly and legibly on the poster, ensuring it integrates aesthetically with the overall design.",
+  "annotator": "parnian",
+  "objects": [
+    "Smiling male chef (from Image 1) in the top half",
+    "White chef's uniform with crossed arms",
+    "Colorful vegetables (e.g., bell peppers, tomatoes, cucumbers) in the bottom half",
+    "Fresh herbs (e.g., basil) in the bottom half",
+    "Grains (e.g., quinoa, in bowls) in the bottom half",
+    "Prepared salad bowl on a wooden surface, in the bottom half",
+    "Rustic wooden background texture in the bottom half",
+    "Textual title \"Culinary Masterclass with Chef Marco\"",
+    "A distinct top half featuring the chef",
+    "A distinct bottom half featuring ingredients from a top-down perspective"
+  ]
+}

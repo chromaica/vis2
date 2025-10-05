@@ -1,0 +1,20 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Medical images",
+  "prompt": "remove the left eye",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "so the upper left round ball should be gone",
+  "prompt_refined": "Edit image 1. Remove the patient's left eye, which is located on the right side of the image. Seamlessly fill the vacated orbital cavity with surrounding anatomical structures, maintaining the style and resolution of the medical scan.",
+  "annotator": "theblackcat",
+  "objects": [
+    "patient's left eye (on the right side of the image) (should not be present)",
+    "patient's right eye (on the left side of the image)",
+    "nasal cavity",
+    "surrounding bone structures",
+    "surrounding soft tissues",
+    "anatomical structures filling the vacated orbital cavity"
+  ]
+}

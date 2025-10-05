@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "In image 1, replace the entire first row of the candy grid with the red and white striped candy from image 5 and the entire last row with the peppermint swirl from image 4. Replace the white gear icon in the bottom-right with the yellow refresh arrow from image 2, and insert the \u201cLEVEL UP\u201d badge at the center-top of the screen, right above the candy grid. Ensure all insertions are scaled appropriately. Everything else should remain unchanged.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg",
+    "4.jpg",
+    "5.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 (the candy game screenshot) by performing the following modifications:\nReplace all five candies in the top row of the central candy grid with the red and white striped bean-shaped candy from image 5, ensuring they are scaled to match the size of the existing grid elements.\nReplace all five candies in the bottom row of the central candy grid with the pink and white peppermint swirl candy from image 4, scaled appropriately to fit the grid.\nSubstitute the white gear icon located in the bottom-right corner of the screen with the yellow refresh arrow from image 2, scaling it to the size of the original gear icon and positioning it precisely in its place.\nInsert the \"LEVEL UP\" badge from image 3 at the top-center of the screen, placing it directly above the candy grid and scaling it appropriately to be visually consistent with the game's interface.\nAll other elements in image 1 must remain unchanged.",
+  "annotator": "parnian",
+  "objects": [
+    "Candy game interface",
+    "Pink character in the bottom left",
+    "Central candy grid",
+    "Five red and white striped bean-shaped candies in the top row of the candy grid",
+    "Five pink and white peppermint swirl candies in the bottom row of the candy grid",
+    "Yellow refresh arrow in the bottom-right corner",
+    "\"LEVEL UP\" badge at the top-center of the screen",
+    "Original candies in the middle rows of the candy grid",
+    "White gear icon (should not be present)",
+    "Top UI bar with score and level indicators"
+  ]
+}

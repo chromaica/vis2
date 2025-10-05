@@ -1,0 +1,21 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "a photograph of the people from the mask image standing in front of a university building, with natural lighting and a campus atmosphere.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic image depicting four young women, positioned and posed exactly as the figures in image 1, from left to right. They are standing outdoors in front of a grand university building with classical architecture. The scene is illuminated by bright, natural daylight, casting soft shadows. The overall setting captures a lively and authentic university campus atmosphere, with elements like manicured lawns, trees, and a visible pathway in the foreground.",
+  "annotator": "samin",
+  "objects": [
+    "Four young women, positioned and posed as in image 1, from left to right",
+    "Grand university building",
+    "Classical architecture",
+    "Manicured lawns",
+    "Trees",
+    "Pathway in the foreground",
+    "Soft shadows"
+  ]
+}

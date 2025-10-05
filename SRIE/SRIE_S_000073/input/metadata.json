@@ -1,0 +1,27 @@
+{
+  "subtopic": "Receipts",
+  "prompt": "Edit image 1: Apply the modern header design from image 2. Replace the top section's plain background with the refreshing green-to-white gradient and update the date/amount display style.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1750834427368,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit image 1 by transforming its header section. Adopt the modern header design from image 2, specifically incorporating its green-to-white horizontal gradient background. Update the date and amount display within this header: position the date (e.g., 'Mar 1, 2013') on the left, below 'Receipt', and move the total amount (e.g., '$9.00') to the top-right corner, applying the bold, large font style seen in image 2's header amount.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Green-to-white horizontal gradient header background",
+    "\"Receipt\" text",
+    "Date \"Mar 1, 2013\" on the left, below \"Receipt\"",
+    "Total amount \"$9.00\" in top-right corner, bold and large font",
+    "CODEPEN logo (should not be present)",
+    "Transaction ID line",
+    "CodePen address block",
+    "Billed to block",
+    "Product table",
+    "Print button"
+  ]
+}

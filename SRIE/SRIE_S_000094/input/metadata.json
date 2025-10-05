@@ -1,0 +1,29 @@
+{
+  "subtopic": "Websites",
+  "prompt": "Edit image 1: Replace the primary news image and headline area with the full hero image content from image 2, incorporating its visual style and text overlay for a modern redesign.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751179000175,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit image 1. Locate the primary news article section on the left side of the page, which includes the large image of two men and its associated headline 'West Midlands Mayor Andy Street \"Heavily Involved\" In Plans For New Tory Group'. Replace this entire section with the full hero image content from image 2. The inserted content should replicate the distinct visual style, including the tropical leaf background, the prominent subject (woman with a fan), and the exact text overlays 'JEWELRY, MEET TECHNOLOGY.' and 'ACTIVITY TRACKING, MOBILE ALERTS & GUIDED MEDIATION' from image 2, creating a modern redesign for that specific area within image 1.",
+  "annotator": "ishengfang",
+  "objects": [
+    "PoliticsHome website header and navigation",
+    "Tropical leaf background on the left side",
+    "Woman with a fan on the left side",
+    "Text: 'JEWELRY, MEET TECHNOLOGY.' on the left side",
+    "Text: 'ACTIVITY TRACKING, MOBILE ALERTS & GUIDED MEDIATION' on the left side",
+    "\"The House Live\" news section",
+    "\"Latest\" news section",
+    "Smaller news articles below the main article area",
+    "Large image of two men (should not be present)",
+    "Headline 'West Midlands Mayor Andy Street \"Heavily Involved\" In Plans For New Tory Group' (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

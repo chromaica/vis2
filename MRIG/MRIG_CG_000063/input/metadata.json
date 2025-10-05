@@ -1,0 +1,24 @@
+{
+  "subtopic": "CAD models",
+  "prompt": "Create a CAD model render of a figure. Utilize the intricate headpiece and detailed accents from image 1, combined with the simplified body shape and pose from image 2. Render it as a clean, technical 3D model view.",
+  "cond_images": [
+    "1.jpeg",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748423375316,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a clean, technical 3D CAD model render of a figure. The figure should feature the intricate, spiky headpiece and detailed design elements observed in image 1, combined with the simplified body shape and upright stance from image 2.",
+  "annotator": "winston",
+  "objects": [
+    "Human figure",
+    "Intricate, spiky headpiece (from image 1)",
+    "Detailed facial features (from image 1)",
+    "Simplified body shape (from image 2)",
+    "Upright, standing stance (from image 2)",
+    "3D CAD model rendering style",
+    "Clean technical aesthetic"
+  ]
+}

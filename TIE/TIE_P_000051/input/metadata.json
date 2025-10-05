@@ -1,0 +1,23 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "remove the red blood cell in this image",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, a photorealistic microscopic view of blood cells. Remove the biconcave disc-shaped red blood cell located directly to the left of the large, irregularly textured white blood cell prominent in the center-right portion of the image. The vacant area should be infilled seamlessly with the surrounding black microscopic background.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Photorealistic microscopic view",
+    "Blood cells (other than the specified removed one)",
+    "Large, irregularly textured white blood cell prominent in the center-right portion of the image",
+    "Other white blood cells",
+    "Multiple red blood cells",
+    "Small irregular blood components",
+    "Black microscopic background",
+    "Biconcave disc-shaped red blood cell located directly to the left of the large, irregularly textured white blood cell (should not be present)"
+  ],
+  "human_annotation": true
+}

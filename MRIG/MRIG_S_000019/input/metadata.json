@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "Generate a flight ticket receipt featuring the airline logo and branding from the first image, and the passenger and flight details (such as name, flight number, and departure time) from the second image.",
+  "cond_images": [
+    "1.png",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a flight ticket resembling a boarding pass. Feature the Turkish Airlines logo and branding from image 1 prominently at the top. Incorporate the passenger and flight details from image 2, specifically: 'Olivia Eilish' as passenger, 'F14325' as flight number, 'NYC to LON' for cities, '07:30 PM, 20 SEP 2022' for departure time, 'F18' for gate, and '28A' for seat. The overall layout, text fields, and barcode should mimic the structure and visual appearance of the ticket in image 2.",
+  "annotator": "paria",
+  "objects": [
+    "Flight ticket / boarding pass structure",
+    "Turkish Airlines logo and branding prominently at the top",
+    "'Olivia Eilish' passenger name",
+    "'F14325' flight number",
+    "'NYC to LON' cities with airplane icon",
+    "'07:30 PM, 20 SEP 2022' departure time",
+    "'F18' gate",
+    "'28A' seat",
+    "Vertical barcode",
+    "Boarding pass layout (blue header sections, white body, dotted vertical separation line, and field arrangement mimicking image 2)"
+  ]
+}

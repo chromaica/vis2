@@ -1,0 +1,28 @@
+{
+  "subtopic": "Urban & Street Photography",
+  "prompt": "Edit image 1: Transform the Central Market scene into a moody night view with vibrant lighting and atmosphere akin to image 2. Incorporate a cyclist similar to the one in image 3, riding through the illuminated foreground.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748657881150,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "P",
+  "prompt_refined": "Edit image 1: Transform the Central Market scene into a photorealistic, moody night view with vibrant, strong artificial lighting and a dark, atmospheric ambiance, drawing inspiration from the visual style and illumination of image 2. Specifically, enhance the lights around the Central Market entrance to create a dramatic contrast against the darker surroundings, similar to the illuminated shop in image 2. Integrate a cyclist resembling the man and bicycle from image 3 into the immediate foreground, positioning them riding from left to right and clearly illuminated by the market's foreground lighting.",
+  "annotator": "boris",
+  "objects": [
+    "Central Market scene",
+    "Photorealistic night view",
+    "Vibrant, strong artificial lighting",
+    "Dark, atmospheric ambiance",
+    "Enhanced lights around the Central Market entrance",
+    "Cyclist resembling the man from image 3",
+    "Bicycle resembling the bicycle from image 3",
+    "Cyclist and bicycle in the immediate foreground",
+    "Cyclist and bicycle riding from left to right",
+    "Cyclist and bicycle clearly illuminated by the market's foreground lighting"
+  ]
+}

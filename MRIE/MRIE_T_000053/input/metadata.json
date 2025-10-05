@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "T",
+  "subtopic": "Flyers",
+  "prompt": "Replace the product with the second image. Also, change the product name to '15.5hp Lawn Tractor'. The original price should be changed to $1,999, and the sale price should be $400 off. Finally, change the font of the store name 'Canadian Tire' with the font from the third image. Ensure that font size and color follows the original style.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the provided image (image 1) as follows:\n1.  Replace the existing lawn mower product on the right side of the image with the lawn tractor shown in image 2. Ensure its scale, lighting, and general integration are consistent with the original image.\n2.  Update the product description text located in the bottom-right corner from '48V BRUSHLESS 3-IN-1 MOWER, 20\" WITH 5AH BATTERY & CHARGER.' to '15.5hp Lawn Tractor'.\n3.  Modify the pricing information at the bottom-center. Change the 'Reg 499.99' text to 'Reg $1,999'. Then, change the large 'NOW 429.99' text to '$1,599' (representing $400 off the new regular price of $1,999).\n4.  In the top-left section, locate the text 'CANADA'S STORE'. Change the font style of the words 'Canadian Tire' within this phrase to match the bold, sans-serif font used on the 'CANADIAN TIRE' sign in image 3. Preserve the original font size and white color for 'Canadian Tire'.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "lawn tractor on the right side",
+    "'15.5hp Lawn Tractor' text in the bottom-right corner",
+    "'$1,599' text at the bottom-center",
+    "'Reg $1,999' text at the bottom-center",
+    "'CANADA'S STORE' text with 'Canadian Tire' in bold, sans-serif font in the top-left section",
+    "Red Canadian Tire logo in the top-left",
+    "\"SUMMER BIG RED\" text on the left side",
+    "Yellow background gradient",
+    "Red \"SAVE $70\" bubble in the top-right",
+    "\"LOWEST PRICES OF THE SEASON\" text in the bottom-left"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

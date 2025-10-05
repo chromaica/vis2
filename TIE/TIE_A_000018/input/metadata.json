@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Pixel art",
+  "prompt": "Replace the painting above the computer in the a pixelized family photo. The family photo should consist of a father, a mother, an older sister and a younger brother.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Replace the painting on the wall directly above the computer monitor with a pixelized family photo. The family photo should depict a father, a mother, an older sister, and a younger brother.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "pixelized family photo on the wall above the computer monitor",
+    "room interior",
+    "person playing keyboard",
+    "computer desk",
+    "keyboard/synthesizer",
+    "shelving unit",
+    "CRT computer monitor",
+    "bed",
+    "hanging plant",
+    "bookshelf"
+  ]
+}

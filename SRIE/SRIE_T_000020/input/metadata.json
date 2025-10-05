@@ -1,0 +1,19 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Change the apple logo into a bitten pear",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the apple logo on the left side of the image, as specifically outlined by the box in image 2, with a bitten pear graphic. Ensure the new bitten pear maintains the exact position, size, and minimalist black silhouette style of the original logo.",
+  "annotator": "matina",
+  "objects": [
+    "Apple logo (should not be present)",
+    "bitten pear graphic (black silhouette, same size and position as original logo)",
+    "text \"Apple\""
+  ],
+  "human_annotation": true
+}

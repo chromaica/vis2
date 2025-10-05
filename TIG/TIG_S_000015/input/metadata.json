@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": " Create an elegant black-and-gold homepage inspired by Gatsby-era posters. Include geometric borders, thin-line icons, a center-aligned vertical timeline of upcoming shows, and interactive ticket cards that flip to reveal QR codes.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a screenshot of an elegant, luxurious homepage designed in an Art Deco style, featuring a prominent black and gold color scheme. The page layout incorporates distinct geometric borders framing key content sections. A vertical timeline displaying upcoming shows is centrally aligned on the page. Below this timeline, display multiple interactive ticket cards, visually designed to indicate they can flip over to reveal a QR code on their reverse side. Integrate thin-line icons throughout the UI for navigation elements and within content sections.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Homepage screenshot",
+    "Art Deco style design",
+    "Black and gold color scheme",
+    "Geometric borders",
+    "Centrally aligned vertical timeline",
+    "Upcoming shows information",
+    "Multiple interactive ticket cards",
+    "Ticket cards designed to indicate flipping",
+    "Thin-line UI icons"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "task": "SRIG",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "Render a paper writing 'Think outside the BOX' in the style of the reference image",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate an image of the English phrase 'Think outside the BOX' written on a white paper background. The writing should mimic the expressive, black ink calligraphy style of image 1, characterized by fluid brushstrokes and an artistic, handwritten aesthetic, filling the central area of the paper.",
+  "annotator": "theblackcat",
+  "objects": [
+    "White paper background",
+    "The English phrase \"Think outside the BOX\"",
+    "Black ink calligraphy style",
+    "Text in the central area of the paper"
+  ]
+}

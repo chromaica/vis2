@@ -1,0 +1,26 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "Mimic the realistic mountain view from the mountain symbol.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Transform the black silhouette of the mountain symbol into a realistic mountain view. The new realistic scene, inspired by the layered mountains, atmospheric haze, and golden light captured in image 2, should precisely fill and replace the solid black area of the original mountain symbol from image 1.",
+  "annotator": "Johnny",
+  "objects": [
+    "white background",
+    "realistic mountain view",
+    "layered mountains",
+    "atmospheric haze",
+    "golden light",
+    "mountain peaks",
+    "mountain slopes",
+    "foreground foliage/grass",
+    "(black silhouette of the mountain symbol) (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

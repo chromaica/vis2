@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "A segmentation mask of a busy city street, with separate labeled regions for roads, sidewalks, cars, pedestrians, traffic lights, and buildings. Each object class should be clearly outlined and filled with distinct colors.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A semantic segmentation mask of a busy city street. The mask should distinctly outline and fill separate regions for roads, sidewalks, cars, pedestrians, traffic lights, and buildings, with each class rendered in a unique, solid color.",
+  "annotator": "maxku",
+  "objects": [
+    "roads",
+    "sidewalks",
+    "cars",
+    "pedestrians",
+    "traffic lights",
+    "buildings"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

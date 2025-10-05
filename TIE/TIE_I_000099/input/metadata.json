@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Transform the font of the number \"7\" to a calligraphic style to create a contrasting focal point within the text area.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Transform the font of the large number '7' located on the right side of the infographic, adjacent to the phrase 'Common Types of Infographics', into a calligraphic style. This modification should make the '7' a contrasting focal point within the text area.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Red infographic background",
+    "Large calligraphic number '7' on the right side",
+    "Text \"Common Types of Infographics\"",
+    "Hexagonal cell containing number '1', \"LIST\", and list icon",
+    "Hexagonal cell containing number '2', \"COMPARISON (VS)\", and comparison icon",
+    "Hexagonal cell containing number '3', \"FLOWCHART\", and flowchart icon",
+    "Hexagonal cell containing number '4', \"VISUAL ARTICLE\", and article icon",
+    "Hexagonal cell containing number '5', \"MAP\", and world map icon",
+    "Hexagonal cell containing number '6', \"TIMELINE\", and timeline icon",
+    "Hexagonal cell containing number '7', \"DATA VISUALIZATION\", and data visualization icon"
+  ]
+}

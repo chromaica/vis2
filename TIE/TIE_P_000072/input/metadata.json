@@ -1,0 +1,25 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "move the cat upfront near the point of view of the camera rather than far left side",
+  "cond_images": [
+    "1.jpeg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Move the cat from its current location on the left side of the steps. Reposition it in the foreground, making it appear closer to the camera's viewpoint and more central in the frame.",
+  "annotator": "theblackcat",
+  "objects": [
+    "cat (in the foreground, closer to camera, central in frame)",
+    "red door",
+    "stone steps",
+    "potted plant",
+    "building facade",
+    "paving stones",
+    "doormat",
+    "wall sign",
+    "decorative wall tiles"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

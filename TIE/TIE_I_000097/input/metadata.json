@@ -1,0 +1,21 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Add a new circle labeled \"Market Trends\" overlapping \"Technology\" and \"Service design\", colored orange.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Add a new orange circle labeled \"Market Trends\". Position this new circle to overlap both the \"Technology\" circle (the blue circle at the bottom) and the \"Service design\" circle (the light green circle on the right) in the existing Venn diagram.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Pink circle labeled \"Business model\"",
+    "Yellow circle labeled \"Interface design\"",
+    "Light green circle labeled \"Service design\"",
+    "Blue circle labeled \"Technology\"",
+    "Green overlapping region labeled \"UX\"",
+    "Orange circle labeled \"Market Trends\", overlapping the \"Technology\" circle and the \"Service design\" circle"
+  ],
+  "human_annotation": true
+}

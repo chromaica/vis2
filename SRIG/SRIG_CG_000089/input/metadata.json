@@ -1,0 +1,26 @@
+{
+  "subtopic": "Object detection visuals",
+  "prompt": "Visualize a scene like the reference image with computer graphics styling, showing object detection overlays, bounding boxes, and labels on people and objects, illustrating AI analysis.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://live.staticflickr.com/5251/5526493121_24ee8d96b6_b.jpg",
+  "promptGeneratedTimestamp": 1748771976178,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate an image that replicates the overall composition and scene from image 1, rendered in a distinct computer graphics style. Superimpose visual elements typical of AI object detection and analysis onto the scene. Add clear, distinct bounding boxes around all detected people (e.g., 'Person', 'Police Officer') and prominent objects (e.g., 'Building', 'Light Pole', 'Bicycle'). Each bounding box must include a concise, legible text label identifying the detected entity. The final image should visually illustrate an AI system's analysis of the scene.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Scene composition replicating image 1",
+    "Police officers",
+    "People",
+    "Large building",
+    "Brick building/wall",
+    "Light pole",
+    "Bicycle",
+    "AI object detection bounding boxes",
+    "Legible text labels for detected entities",
+    "Distinct computer graphics style"
+  ]
+}

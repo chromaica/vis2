@@ -1,0 +1,27 @@
+{
+  "subtopic": "3D renders",
+  "prompt": "A 3D render inspired by the reference, featuring abstract geometric shapes on a reflective plane under dramatic lighting, showcasing specular reflections and digital rendering techniques common in computer graphics studies.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEVNE2f10LmodL9kw5T6ZhKu8p_NjJZGh0GA&s",
+  "promptGeneratedTimestamp": 1748768791526,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a 3D render, inspired by image 1, showcasing abstract geometric shapes and advanced digital rendering techniques. A dark blue sphere is centrally positioned on a textured, highly reflective plane. Above it, a smaller, lighter sphere is suspended. The reflective plane transitions horizontally from a warm gold foreground to a cool blue-grey background, bisected by a prominent, glowing blue horizontal light band. Dramatic lighting from a warm yellow spotlight above illuminates the spheres and plane, creating sharp shadows and intense specular reflections on all surfaces.",
+  "annotator": "ishengfang",
+  "objects": [
+    "3D render",
+    "Dark blue sphere (centrally positioned)",
+    "Smaller, lighter sphere (suspended above)",
+    "Textured, highly reflective plane",
+    "Warm gold foreground (of the plane)",
+    "Cool blue-grey background (of the plane)",
+    "Prominent, glowing blue horizontal light band",
+    "Warm yellow spotlight",
+    "Sharp shadows",
+    "Intense specular reflections"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,27 @@
+{
+  "subtopic": "Facial estimation and analysis",
+  "prompt": "An overhead view blending the desk scene from Image 1 with a focus on computer graphics facial analysis. Show a laptop from Image 1 displaying visual data related to facial estimation of a person like the subject in Image 2, potentially in a retail context.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748424298209,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate an overhead view of a wooden desk setup. The silver laptop from Image 1 should be positioned on the top-left of the desk, and the orange coffee cup and saucer from Image 1 should be on the mid-right. The laptop screen must display sophisticated visual data focused on computer graphics facial analysis. Specifically, depict an interface showing real-time facial estimation, such as a facial heatmap, emotion detection graph, or keypoint tracking applied to a human face. This analyzed face should resemble a person similar to the subject in Image 2, depicted within a retail store environment.",
+  "annotator": "winston",
+  "objects": [
+    "Overhead view",
+    "Wooden desk",
+    "Silver laptop on top-left of desk (from Image 1)",
+    "Orange coffee cup and saucer on mid-right (from Image 1)",
+    "Laptop screen displaying facial analysis interface",
+    "Real-time facial estimation data (e.g., facial heatmap, emotion detection graph, or keypoint tracking)",
+    "Human face being analyzed, resembling subject from Image 2",
+    "Retail store environment on laptop screen"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

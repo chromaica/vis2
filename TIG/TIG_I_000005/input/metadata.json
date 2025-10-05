@@ -1,0 +1,24 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Create a detailed Gantt chart for a 6-month website redesign project spanning January-June 2025. The chart should have exactly 8 color-coded task categories: Research (blue, weeks 1-4), Information Architecture (green, weeks 3-7), UI Design (purple, weeks 5-12), Frontend Development (orange, weeks 10-18), Backend Integration (red, weeks 14-20), Content Migration (yellow, weeks 16-22), QA Testing (teal, weeks 19-24), and Launch (dark green, weeks 23-26).",
+  "cond_images": [],
+  "remarks": "make sure its 2025 contain 6 months of text, with 9 colors : blue, green, purple, orange, red, yellow, teal, dark green.",
+  "prompt_refined": "Generate a detailed Gantt chart depicting a 6-month website redesign project for January-June 2025. The chart must display exactly 8 color-coded task categories.\n\nOn the vertical axis, list each task category. On the horizontal axis, present a weekly timeline spanning weeks 1-26, corresponding to January through June 2025. Each task category must be represented by a horizontal bar, positioned and colored according to its specified duration:\n\n*   **Research**: Blue bar, weeks 1-4.\n*   **Information Architecture**: Green bar, weeks 3-7.\n*   **UI Design**: Purple bar, weeks 5-12.\n*   **Frontend Development**: Orange bar, weeks 10-18.\n*   **Backend Integration**: Red bar, weeks 14-20.\n*   **Content Migration**: Yellow bar, weeks 16-22.\n*   **QA Testing**: Teal bar, weeks 19-24.\n*   **Launch**: Dark green bar, weeks 23-26.\n\nEnsure clear labels for all tasks, the project title, and the timeline units.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Gantt chart grid structure",
+    "Project title \"6-month Website Redesign Project\"",
+    "Vertical axis with task category labels (Research, Information Architecture, UI Design, Frontend Development, Backend Integration, Content Migration, QA Testing, Launch)",
+    "Horizontal axis with weekly timeline labels (weeks 1-26)",
+    "Horizontal axis with monthly timeline labels (January-June 2025)",
+    "Blue horizontal bar representing Research task",
+    "Green horizontal bar representing Information Architecture task",
+    "Purple horizontal bar representing UI Design task",
+    "Orange horizontal bar representing Frontend Development task",
+    "Red horizontal bar representing Backend Integration task"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

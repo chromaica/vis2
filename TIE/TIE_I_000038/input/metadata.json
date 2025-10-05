@@ -1,0 +1,23 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Transform this graph to a pie chart with stylized icons representing the industry for visually engaging infographic.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Transform the existing bubble chart, which displays \"CCCA membership across sectors\", into a clear and visually engaging infographic in the format of a pie chart. The pie chart must accurately represent all industry sectors and their corresponding percentage values as presented in image 1. For each sector slice, replace the company logos shown in the original chart with a distinct, stylized icon that conceptually represents the industry type (e.g., a building icon for 'Construction', a medical cross for 'Health', a book for 'Education'). Ensure the title \"CCCA membership across sectors\" is prominently displayed within or above the new pie chart. The overall design should be modern and suitable for an infographic.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Pie chart",
+    "Title \"CCCA membership across sectors\"",
+    "Pie chart slices representing industry sectors",
+    "Industry sector names (e.g., \"Accommodation & food\", \"Education\", \"Health\")",
+    "Percentage values for each sector slice (e.g., \"8%\", \"10%\", \"14%\")",
+    "Stylized industry icons for each sector slice (e.g., building icon for Construction, medical cross for Health, book for Education)",
+    "Modern and engaging infographic design elements",
+    "Original bubble chart (should not be present)",
+    "Company logos (should not be present)"
+  ]
+}

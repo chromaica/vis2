@@ -1,0 +1,22 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "replace the beer bottle seen in the image into a beer can version",
+  "cond_images": [
+    "1.jpeg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the green Taiwan Beer bottle, currently held in the hand, with a photorealistic beer can version of the same brand, maintaining the original lighting and perspective.",
+  "annotator": "theblackcat",
+  "objects": [
+    "photorealistic Taiwan Beer can",
+    "hand holding the can",
+    "arm with a tattoo",
+    "blurred purple background lights",
+    "blurred street/city environment",
+    "green Taiwan Beer bottle (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,23 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "A digital forest scene where pixelated animals roam among trees with holographic leaves reflecting vibrant colors.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A vibrant digital pixel art forest scene. Pixelated animals roam freely amongst trees featuring iridescent, holographic leaves that brilliantly reflect and glow with a shifting spectrum of colors.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Digital pixel art style",
+    "Forest scene",
+    "Vibrant colors",
+    "Pixelated animals",
+    "Trees",
+    "Iridescent leaves",
+    "Holographic leaves",
+    "Reflecting leaves",
+    "Glowing leaves",
+    "Leaves with a shifting spectrum of colors"
+  ],
+  "human_annotation": true
+}

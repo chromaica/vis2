@@ -1,0 +1,23 @@
+{
+  "task": "SRIE",
+  "topic": "P",
+  "subtopic": "Medical images",
+  "prompt": "Realign the cervical spine in the source image to match the curvature seen in the reference.",
+  "cond_images": [
+    "1.png",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, a lateral X-ray, by realigning the cervical spine. Adjust its curvature to precisely match the curvature indicated by the green line in reference image 2. The edited output should maintain the photorealistic X-ray style.",
+  "annotator": "nimajamali",
+  "objects": [
+    "Lateral X-ray view of a human head and neck",
+    "Human skull",
+    "Cervical spine with a specific curvature",
+    "Individual cervical vertebrae",
+    "Mandible (jaw bone)",
+    "Upper thoracic vertebrae",
+    "Soft tissues of the neck and upper chest",
+    "Photorealistic X-ray appearance"
+  ]
+}

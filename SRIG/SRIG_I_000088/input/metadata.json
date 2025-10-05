@@ -1,0 +1,26 @@
+{
+  "subtopic": "Visual instructions and manuals",
+  "prompt": "Create a visual instruction graphic on how to build your own PC from scratch. Match the clean overhead perspective, flat illustrative style, and organised component placement seen in the reference computer assembly image.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://img.freepik.com/premium-vector/cartoon-personal-computer-components-circuit-board-element-device-concept-flat-design-style-vector-illustration-pc-technology-component-set_287964-1281.jpg",
+  "promptGeneratedTimestamp": 1749932315344,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate a visual instruction graphic on how to build a PC from scratch. The image should adopt the clean, flat illustrative style and precise overhead perspective observed in image 1. Place an open desktop PC tower case centrally, displaying its internal green motherboard and fan, mirroring the setup in image 1. Around this central case, on a light blue background, arrange the following PC components and tools in an organized layout: a detached green motherboard positioned to the left of the case; two green RAM sticks in the upper-left area; a grey graphics card in the lower-left; a grey hard drive in the upper-right; a black CPU in the mid-right; and a grey case fan in the lower-right. Additionally, include a yellow utility knife and a yellow screwdriver in the bottom-center, along with scattered silver screws. Ensure the relative positions and neat arrangement of all elements, and the overall clean aesthetic, replicate the instructional presentation of image 1.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Open desktop PC tower case (central, displaying internal green motherboard and fan)",
+    "Detached green motherboard (to the left of the case)",
+    "Two green RAM sticks (in the upper-left area)",
+    "Grey graphics card (in the lower-left)",
+    "Grey hard drive (in the upper-right)",
+    "Black CPU (in the mid-right)",
+    "Grey case fan (in the lower-right)",
+    "Yellow utility knife (in the bottom-center)",
+    "Yellow screwdriver (in the bottom-center)",
+    "Scattered silver screws"
+  ]
+}

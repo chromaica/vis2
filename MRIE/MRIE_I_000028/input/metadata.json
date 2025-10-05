@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Visual instructions and manuals",
+  "prompt": "Edit image 1 (Pomodoro technique infographic): Replace the coffee cup icon in Step 3 with the green tea from image 2. Modify the hand illustration in Step 5 to match the style and pose of the hand in image 3. Update the style of the timer icons in Steps 2 and 3 to resemble the digital display and appearance of the clock in image 4.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png",
+    "4.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the infographic in image 1.\n1.  In image 1, locate the coffee cup icon next to the '5' minute timer in '5 MINUTES BREAK' (Step 3). Replace this coffee cup icon with the green tea cup from image 2, ensuring it retains a similar size and position relative to the timer.\n2.  In image 1, in the 'REPEAT 4 TIMES' section (Step 4), locate the hand illustration that is part of the circular arrow. Modify this hand to adopt the open palm pose and more realistic, less outlined style of the hand shown in image 3, integrating it smoothly within the circular arrow design.\n3.  In image 1, update the design of both timer icons: the '25' minute timer in '25 MINUTES WORK' (Step 2) and the '5' minute timer in '5 MINUTES BREAK' (Step 3). Transform their current analog stopwatch style to resemble the black casing, silver accents, and red digital display of the alarm clock in image 4. Ensure the numerical values (25 and 5) are clearly visible in the new digital format.",
+  "annotator": "maxku",
+  "objects": [
+    "Tomato timer icon",
+    "\"POMODORO TECHNIQUE\" infographic title",
+    "Checklist icon",
+    "25-minute digital timer with red display",
+    "Green tea cup icon",
+    "5-minute digital timer with red display",
+    "Open palm hand illustration in a circular arrow",
+    "30-minute timer icon",
+    "Hammock icon",
+    "Green circular numbered steps with connecting line"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Replace all text in the interface with whimsical handwritten fonts and doodles.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Transform all textual elements throughout the Adobe Premiere Pro interface into a whimsical, handwritten font style. Incorporate playful, doodle-like graphical elements as part of or alongside the re-rendered text to enhance the whimsical appearance.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Adobe Premiere Pro interface layout",
+    "Whimsical, handwritten textual elements (replacing all original text)",
+    "Playful, doodle-like graphical elements",
+    "Video preview of a woman's face",
+    "Timeline panel with video and audio tracks",
+    "Video clips on the timeline",
+    "Project panel",
+    "Effect Controls panel",
+    "Interface tool icons",
+    "Audio meter"
+  ]
+}

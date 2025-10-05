@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Pop art",
+  "prompt": "Replace the orange flowers and the zebra pattern on the earrings and clothes in the first image with the purple flowers from the second image and the leopard pattern from the third image, respectively.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "In image 1, replace the orange flowers in the woman's hair with the purple flowers from image 2. Also, replace the zebra pattern on her circular earrings and her top with the leopard pattern from image 3.",
+  "annotator": "paria",
+  "objects": [
+    "Woman",
+    "Purple flowers in woman's hair",
+    "Circular earrings with leopard pattern",
+    "Woman's top with leopard pattern",
+    "Grayscale woman's face",
+    "Blue eyeshadow",
+    "Dark hair in two buns",
+    "Orange geometric shapes in background",
+    "Black and white geometric pattern in background",
+    "Orange flowers (should not be present)"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "subtopic": "Depth maps",
+  "prompt": "Using the reference as a depth map, generate a computer graphics rendering of a group of abstract figures at varying distances. Create a scene with atmospheric depth, reflecting the grayscale values of the provided map.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt1E03Tfhlblpx7qFQo4h9Cx7hA05EC5sFbg&s",
+  "promptGeneratedTimestamp": 1748768772588,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a computer graphics rendering. Use image 1 as a depth map, where lighter grayscale values represent closer objects and darker values represent objects further away. The scene should depict a group of abstract figures positioned at varying distances according to image 1. Apply atmospheric depth, causing figures to appear clearer in the foreground and progressively hazier as they recede into the distant background, mirroring the grayscale transitions in image 1.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Computer graphics rendering",
+    "Group of abstract figures",
+    "Figures positioned at varying distances",
+    "Clearer figures in the foreground",
+    "Hazier figures in the distant background",
+    "Atmospheric depth effect"
+  ]
+}

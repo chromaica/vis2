@@ -1,0 +1,26 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Make the \u2018Ben & Jerry\u2019s\u2019 letters melt like ice cream over the rim.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Modify the white text 'BEN & JERRY'S' on the arched black banner to appear as if it is melting like ice cream, with drips and a fluid texture extending downwards over the bottom edge of the banner.",
+  "annotator": "matina",
+  "objects": [
+    "Teal background",
+    "Blue sky",
+    "White clouds",
+    "Green hills",
+    "Black and white cow",
+    "Arched black banner with yellow border",
+    "Melting white text 'BEN & JERRY'S'",
+    "Drips from the text",
+    "Fluid texture extending downwards from the text",
+    "Registered trademark symbol (\u00ae)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

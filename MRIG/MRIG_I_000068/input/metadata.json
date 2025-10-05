@@ -1,0 +1,24 @@
+{
+  "task": "MRIG",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "Generate a wildlife distribution map of a forest region. Use Image 1\u20133 to place animals in their respective habitats on the map.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "annotator": "matina",
+  "prompt_refined": "Generate a clear, infographic-style wildlife distribution map of a forest region, featuring distinct habitat zones like dense woodlands, open clearings, and a river system. Integrate the animals from the reference images into their appropriate habitats: Position the brown bear (Image 1) in a dense forest area, possibly near a mountain range, in the upper-left quadrant. Place the deer (Image 2) within an open meadow or clearing, adjacent to the depicted river, in the central-right area. Include the small blue bird (Image 3) perched within the canopy of trees in a rich woodland section, towards the lower-left side of the map.",
+  "objects": [
+    "Infographic-style map of a forest region",
+    "Dense woodlands habitat zone",
+    "Open clearings habitat zone",
+    "River system",
+    "Brown bear in upper-left quadrant",
+    "Deer in central-right area near river",
+    "Small blue bird in lower-left side within canopy of trees",
+    "Mountain range in upper-left quadrant"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "subtopic": "UI mockups",
+  "prompt": "Generate Yann Lecun personal website using the block layout and simple, line-based style from the reference image to depict placeholders for content and features.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://cdn-images.visual-paradigm.com/handbooks/agile-handbook/wireframe/02-newspaper-site-wireframe-example.png",
+  "promptGeneratedTimestamp": 1749889587240,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate a conceptual wireframe design for Yann Lecun's personal website, displayed within a browser window frame. Replicate the multi-column, block-based layout from image 1, using its simple, line-based style. The design should depict content and feature placeholders using outline boxes, 'X' marks for images, and filled gray rectangles or lines for text areas. Specifically, include a large central content area with a \"HEADLINE\" and a main image placeholder, a left sidebar with distinct blocks for \"Top Story,\" \"Other top stories,\" and \"News and buzz,\" a \"Featured\" section below the main content, and an \"Ad\" placeholder in the bottom-right, all matching the arrangement and placeholder styles of image 1.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Browser window frame",
+    "Multi-column, block-based wireframe layout",
+    "Large central content area with \"HEADLINE\" text",
+    "Main image placeholder with 'X' mark",
+    "Left sidebar",
+    "\"Top Story\" block with 'X' mark in left sidebar",
+    "\"Other top stories\" block in left sidebar (gray filled)",
+    "\"News and buzz\" block in left sidebar (gray filled)",
+    "\"Featured\" section (gray filled)",
+    "\"Ad\" placeholder with 'X' mark in bottom-right"
+  ]
+}

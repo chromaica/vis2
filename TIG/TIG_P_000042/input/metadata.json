@@ -1,0 +1,16 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Abstract reflection of city buildings distorted on the glassy surface of a rain puddle on a busy street.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Photorealistic image of a rain puddle on a busy urban street. The puddle's glassy surface displays highly distorted and abstract reflections of towering city buildings.",
+  "annotator": "cwhsu",
+  "objects": [
+    "rain puddle",
+    "busy urban street",
+    "towering city buildings",
+    "distorted reflections of towering city buildings"
+  ]
+}

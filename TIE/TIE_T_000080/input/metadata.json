@@ -1,0 +1,26 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "\u201cReplace the text with \u2018Let\u2019s Innovate Together\u2019 in the same font and preserve the original layout.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the white slogan text \"Ready or not, here we come.\" displayed on the billboard with \"Let\u2019s Innovate Together\". The new text must replicate the original font style and color, and its placement should preserve the exact original layout and spatial arrangement relative to the car on the billboard.",
+  "annotator": "matina",
+  "objects": [
+    "billboard",
+    "blue sky with clouds",
+    "car on billboard",
+    "road on billboard",
+    "ocean on billboard",
+    "vegetation on billboard",
+    "\"Let\u2019s Innovate Together\" text on billboard",
+    "\"Toyota AVALON\" logo on billboard",
+    "billboard support poles",
+    "cellular tower"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

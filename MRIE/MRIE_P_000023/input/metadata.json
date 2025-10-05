@@ -1,0 +1,25 @@
+{
+  "task": "MRIE",
+  "topic": "P",
+  "subtopic": "Wildlife & Nature Photography",
+  "prompt": "Replace the first image's background with the mountain view from the second image. Add the giraffe from the third image to the middle of the image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the existing background, specifically the urban buildings and the distant horizon, with the mountain range from image 2. The foreground elements of image 1, including the tall grass and the traditional bridge structure, must be preserved and seamlessly integrated with the new mountain background. Additionally, introduce the giraffe from image 3 into the center of the image, positioned in the tall grass in the mid-ground, ensuring a realistic scale and natural integration with the new environment.",
+  "annotator": "boris",
+  "objects": [
+    "tall grass (foreground)",
+    "traditional bridge structure",
+    "mountain range (background)",
+    "giraffe (center, mid-ground, in tall grass)",
+    "trees and foliage (around bridge)",
+    "sky",
+    "water body (under bridge)",
+    "urban buildings (should not be present)",
+    "distant horizon (from original image, should not be present)"
+  ]
+}

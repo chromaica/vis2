@@ -1,0 +1,27 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "Generate a pet simulation game interface with pet character designs from the first and second images and the home decoration style from the third image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a screenshot of a pet simulation game interface. The game features 3D rendered, cute, cartoon-style pet characters similar to the orange creature in image 1 and the grey cat in image 2. These pets should be situated within a home environment that adopts the architectural and interior design style from image 3, including features like tiled walls, modern furniture, and a multi-level layout. The interface should clearly display typical UI elements for a pet simulation game, such as pet stats, interaction buttons, and navigation menus.",
+  "annotator": "paria",
+  "objects": [
+    "Game interface screenshot",
+    "Cute, cartoon-style 3D pet characters",
+    "Home environment interior",
+    "Tiled walls",
+    "Modern furniture",
+    "Multi-level home layout",
+    "Pet stats display",
+    "Interaction buttons",
+    "Navigation menus"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "VFX and Particles",
+  "prompt": "A 2D magical ice explosion, with shards of ice and misty frost particles spreading outward in a blue glow.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A 2D-style magical ice explosion, centrally located, featuring numerous sharp ice shards and swirling misty frost particles. These elements should spread dynamically outwards from the core, enveloped in a vibrant, luminescent blue glow.",
+  "annotator": "maxku",
+  "objects": [
+    "2D-style magical ice explosion",
+    "Centrally located explosion",
+    "Sharp ice shards",
+    "Swirling misty frost particles",
+    "Dynamically spreading elements",
+    "Vibrant blue glow",
+    "Luminescent glow"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

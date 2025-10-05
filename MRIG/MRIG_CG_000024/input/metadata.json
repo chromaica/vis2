@@ -1,0 +1,20 @@
+{
+  "subtopic": "VFX and Particles",
+  "prompt": "A computer graphics rendering of the sparkling diamond ring from image 2, surrounded by vibrant, dynamic particle effects and dramatic lens flares inspired by the optical effects seen in image 1, emphasizing high-quality VFX.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748422183978,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a high-quality computer graphics rendering of a sparkling diamond engagement ring, similar in design and brilliance to the ring displayed in image 2. The ring should be centrally placed and surrounded by vibrant, dynamic particle effects that emanate outwards. Incorporate dramatic, multi-colored lens flares, specifically drawing inspiration from the prominent blue and orange optical effects seen in image 1.",
+  "annotator": "winston",
+  "objects": [
+    "sparkling diamond engagement ring (centrally placed)",
+    "vibrant, dynamic particle effects",
+    "dramatic, multi-colored lens flares (blue and orange)"
+  ]
+}

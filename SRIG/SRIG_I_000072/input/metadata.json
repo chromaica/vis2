@@ -1,0 +1,21 @@
+{
+  "subtopic": "Icons and symbols",
+  "prompt": "With the provided transformer model icon, please generate a convolutional neural network icon with similar style.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://cdn0.iconfinder.com/data/icons/large-language-model-ai-ethics-and-language-proces/512/icon-29-512.png",
+  "promptGeneratedTimestamp": 1749924556191,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate an infographic icon representing a convolutional neural network (CNN). The icon must emulate the visual style of image 1, which is a transformer model icon. This includes using the dark grey background with diagonal stripe pattern, turquoise-to-blue gradient for all rectangular elements, and dark blue lines and arrows for connections. The CNN icon should depict a series of sequentially connected layers, structured as stacked rectangular blocks that diminish in size or increase in depth from bottom to top, representing feature map processing, consistent with the clean, geometric aesthetic of image 1.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Dark grey background with diagonal stripe pattern",
+    "Stacked rectangular blocks with turquoise-to-blue gradient",
+    "Blocks diminishing in size or increasing in depth from bottom to top",
+    "Dark blue lines connecting blocks",
+    "Dark blue arrows indicating connection direction"
+  ]
+}

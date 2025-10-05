@@ -1,0 +1,25 @@
+{
+  "subtopic": "Games",
+  "prompt": "Edit image 1 by overlaying a futuristic heads-up display (HUD) and UI elements inspired by the style, color scheme, and layout of the user interface seen in image 2's VR game screenshot. Add elements like health bars or status indicators.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1750836188194,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit image 1 by overlaying a futuristic heads-up display (HUD) and user interface (UI) elements. The overall style, color scheme (predominantly cool blues, whites, and grays with subtle orange or yellow accents), and general layout of these UI elements must be directly inspired by the user interface seen in image 2's VR game screenshot.\n\nSpecifically:\n- Add sleek, semi-transparent, sci-fi health bars or status indicators directly above or beside each of the four distinct Pok\u00e9mon visible in image 1 (Wailord, Charizard, the small golden Pok\u00e9mon, and the Pok\u00e9mon on the far right).\n- Place a prominent, arced or circular primary status display at the bottom-center of the screen, visually similar in design and prominence to the '100%' circular element in image 2. This display should provide a clear status for the player or the active Pok\u00e9mon.\n- Incorporate subtle, minimalist UI framing elements, such as thin lines or corner brackets, along the outer edges of the display, consistent with the clean, futuristic aesthetic observed in image 2.",
+  "annotator": "ishengfang",
+  "objects": [
+    "sleek, semi-transparent, sci-fi health bar above or beside Wailord",
+    "sleek, semi-transparent, sci-fi health bar above or beside Charizard",
+    "sleek, semi-transparent, sci-fi health bar above or beside the small golden Pok\u00e9mon",
+    "sleek, semi-transparent, sci-fi health bar above or beside the Pok\u00e9mon on the far right",
+    "prominent, arced or circular primary status display at bottom-center",
+    "subtle, minimalist UI framing elements along outer edges"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

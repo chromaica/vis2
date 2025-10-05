@@ -1,0 +1,23 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Object detection visuals",
+  "prompt": "Use the layout of the reference image to populate cars in the empty parking lot of the source.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Populate the empty marked parking spaces in image 1 with cars. The arrangement, density, and orientation of these newly added cars should precisely replicate the parking layout visible in image 2.",
+  "annotator": "nimajamali",
+  "objects": [
+    "Parking lot pavement",
+    "Parking space markings",
+    "Yellow car",
+    "Numerous parked cars",
+    "Cars of various types (e.g., sedans, SUVs)",
+    "Cars of various colors",
+    "Cars arranged densely in parking spaces",
+    "Arrow marking on pavement"
+  ]
+}

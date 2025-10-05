@@ -1,0 +1,21 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Painting",
+  "prompt": "Replace the sky with a clear and starry night sky. Change the color scheme to represent a midnight scene, while keeping the brightness of the original foreground.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the daytime sky in the upper portion with a clear, starry night sky. Adjust the entire artwork's color scheme to depict a midnight scene, ensuring the foreground elements, including the flowers and foliage, maintain their original brightness and luminosity, appearing as if illuminated under the night sky.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Daytime sky with clouds (should not be present)",
+    "Clear night sky",
+    "Stars",
+    "Pink cosmos flowers",
+    "Green foliage",
+    "Flower buds"
+  ],
+  "human_annotation": true
+}

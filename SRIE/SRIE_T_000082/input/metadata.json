@@ -1,0 +1,20 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Overlay equations from the paper around her head matching perspective.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Overlay the detailed, handwritten mathematical equations and diagrams from image 2 into the background space around the woman's head. Ensure these new graphics are integrated seamlessly and match the perspective of image 1, appearing as if they are floating in three-dimensional space.",
+  "annotator": "matina",
+  "objects": [
+    "Woman",
+    "Background space around the woman's head",
+    "Detailed handwritten mathematical equations",
+    "Handwritten diagrams"
+  ],
+  "human_annotation": true
+}

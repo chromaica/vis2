@@ -1,0 +1,23 @@
+{
+  "task": "MRIE",
+  "topic": "P",
+  "subtopic": "Scenic Nature Parks",
+  "prompt": "Add the deer from the second image next to torii - just to the right - in the first image. Then add the butterfly from the third image. Make sure the butterfly is part of the background and not in the foreground.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Add the deer from image 2 to the right of the torii gate, positioned on the gravel path. Then, add the butterfly from image 3, placing it in the background to appear small and distant, ensuring it is not in the foreground.",
+  "annotator": "boris",
+  "objects": [
+    "forest environment",
+    "torii gate",
+    "gravel path",
+    "deer to the right of the torii gate, on the gravel path",
+    "butterfly in the background, small and distant",
+    "rocks",
+    "fallen leaves"
+  ]
+}

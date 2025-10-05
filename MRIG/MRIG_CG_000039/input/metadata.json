@@ -1,0 +1,25 @@
+{
+  "subtopic": "CAD models",
+  "prompt": "Generate a realistic CAD model render of the archery target structure from image 1. Apply a glowing, fiery texture to its surface, taking inspiration from the sun's appearance in image 2, rendered with computer graphics techniques.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748422660081,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a realistic CAD model render of the circular, straw archery target from image 1. Its surface should display a glowing, fiery texture, strongly inspired by the intense orange-red plasma and bright spots visible in the sun's appearance in image 2, rendered using high-fidelity computer graphics techniques.",
+  "annotator": "winston",
+  "objects": [
+    "circular archery target",
+    "realistic CAD model render",
+    "high-fidelity computer graphics rendering",
+    "glowing surface texture",
+    "fiery surface texture",
+    "intense orange-red plasma texture",
+    "bright spots on the surface (as part of the texture)",
+    "concentric ring structure (of the target)"
+  ]
+}

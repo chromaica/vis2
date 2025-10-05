@@ -1,0 +1,26 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "ransform each station dot into a server icon, rename lines to protocol names (HTTP, FTP, SSH).",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, which depicts a metro map. Transform all circular station dots, including the larger terminal and intersection dots, into distinct server icons. Additionally, rename the colored lines: change all text labels on the red lines to 'HTTP', all text labels on the green lines to 'FTP', and all text labels on the yellow lines to 'SSH'. Ensure the new protocol names replace the existing labels and follow the curvature of their respective lines.",
+  "annotator": "matina",
+  "objects": [
+    "Red metro lines",
+    "Green metro lines",
+    "Yellow metro lines",
+    "Server icons",
+    "'HTTP' text labels on red lines",
+    "'FTP' text labels on green lines",
+    "'SSH' text labels on yellow lines",
+    "\"METRO MAP\" title",
+    "Terminal marker icons (A, B, C)",
+    "Original station text labels (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

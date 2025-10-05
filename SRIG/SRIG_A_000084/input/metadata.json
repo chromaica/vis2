@@ -1,0 +1,23 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Stylized art",
+  "prompt": "Generate a post-apocalyptic neon wasteland using the time and environment of the image.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate an image depicting the dense urban cityscape from image 1 transformed into a post-apocalyptic neon wasteland. The scene should be set at dusk or night, with the prominent buildings appearing decayed and ruinous. Illuminate the environment with a profusion of glowing neon signs and vibrant architectural lights, casting reflections on the desolate, debris-strewn streets below. Maintain the aerial perspective of image 1, emphasizing the vast, neglected urban sprawl.",
+  "annotator": "Johnny",
+  "objects": [
+    "Post-apocalyptic urban cityscape",
+    "Decayed and ruinous prominent buildings",
+    "Glowing neon signs",
+    "Vibrant architectural lights",
+    "Reflections on streets",
+    "Desolate, debris-strewn streets",
+    "Aerial perspective",
+    "Dusk or night setting",
+    "Vast urban sprawl"
+  ]
+}

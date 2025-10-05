@@ -1,0 +1,27 @@
+{
+  "subtopic": "Astronomical images",
+  "prompt": "Edit image 1 by incorporating the rugged terrain and distinct rocky details from image 2 into the moon surface foreground, and enhance the deep space background by adding the dense, bright star cluster seen in image 3.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "Photorealistic microscopic image",
+  "searchQueryGeneratedTimestamp": 1749221276029,
+  "promptGeneratedTimestamp": 1749222133136,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "P",
+  "prompt_refined": "Edit image 1: Transform the lunar foreground to incorporate the rugged terrain and distinct, prominent rocky details observed in image 2, applying these features across the ground plane, especially in front of and around the astronaut. Simultaneously, enhance the deep space background by integrating the dense, bright star cluster from image 3, positioning it prominently in the night sky, for example, in the upper-right or central-right area, away from the Earth.",
+  "annotator": "boris",
+  "objects": [
+    "Astronaut",
+    "Lunar ground plane",
+    "Rugged terrain on ground plane",
+    "Prominent rocky details on ground plane",
+    "Earth",
+    "Deep space background",
+    "Dense, bright star cluster in upper-right or central-right area"
+  ]
+}

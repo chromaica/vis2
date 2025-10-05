@@ -1,0 +1,22 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "Generate an epic war poster with the people in the first image and the garden hall from the second image in the background with title: 'Battle of Eram Garden'.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate an epic war poster. Prominently feature the three characters from image 1 (Harry Potter, Hermione Granger, and Ron Weasley) in the foreground, depicted in dynamic, action-ready poses as if engaged in battle, reflecting their determined expressions and magical stances from image 1. In the background, distinctly place the ornate Persian garden hall from image 2 as a grand backdrop to the scene. The poster must include the title 'Battle of Eram Garden' clearly visible at the top.",
+  "annotator": "parnian",
+  "objects": [
+    "Harry Potter (in foreground, dynamic pose, determined expression)",
+    "Hermione Granger (in foreground, dynamic pose, determined expression)",
+    "Ron Weasley (in foreground, dynamic pose, determined expression)",
+    "Ornate Persian garden hall (in background)",
+    "Title 'Battle of Eram Garden' (at the top)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

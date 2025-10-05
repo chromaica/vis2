@@ -1,0 +1,31 @@
+{
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Generate a horizontal bar chart featuring a dual-axis scale on the horizontal axis, inspired by the dual y-axes in image 1. Arrange categories vertically like in image 2. Include a cumulative percentage line overlay akin to image 2's cumulative representation. Render in a clean, modern information graphic style using a palette similar to the blues in both images, focusing on clarity and data visualization.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "Information graphics diagrams charts graphs",
+  "searchQueryGeneratedTimestamp": 1752243534673,
+  "promptGeneratedTimestamp": 1752243542646,
+  "promptLengthUsed": "long",
+  "task": "MRIG",
+  "topic": "I",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a horizontal bar chart. This chart should feature a horizontal dual-axis scale, with the primary quantitative axis at the bottom and a secondary cumulative percentage axis at the top, drawing conceptual inspiration from the dual y-axes present in image 1. Position the categories vertically on the left side of the chart, mirroring the arrangement in image 2. An overlaying cumulative percentage line, resembling the diagonal line in image 2, must be included, connecting points along the bars and aligning with the top horizontal axis. Render the graphic in a clean, modern information graphic style. Use a color palette predominantly consisting of blue shades, similar to those found in both image 1 and image 2, to emphasize clarity and effective data visualization.",
+  "objects": [
+    "Horizontal bar chart",
+    "Primary quantitative horizontal axis at the bottom",
+    "Secondary cumulative percentage horizontal axis at the top",
+    "Vertical categories on the left side of the chart",
+    "Overlaying cumulative percentage line",
+    "Points along the bars connected by the line",
+    "Blue shades color palette",
+    "Clean, modern information graphic style",
+    "Chart title",
+    "Axis labels and tick marks"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

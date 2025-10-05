@@ -1,0 +1,18 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "Microscopic view of neural networks, capturing the complex web of synapses and neuron bodies.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Photorealistic macro photograph of an intricate biological neural network. The image captures a dense, complex web of interconnected synapses and luminescent neuron bodies, in sharp focus.",
+  "annotator": "cwhsu",
+  "objects": [
+    "intricate biological neural network",
+    "dense web",
+    "complex web",
+    "interconnected synapses",
+    "luminescent neuron bodies"
+  ],
+  "human_annotation": true
+}

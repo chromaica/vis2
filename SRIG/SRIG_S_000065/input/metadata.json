@@ -1,0 +1,24 @@
+{
+  "subtopic": "Software interfaces",
+  "prompt": "Redesign this music player app's 'Now Playing' screen to look like a vintage 1970s record player, with a spinning vinyl disc and analog controls.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://preview.redd.it/the-concept-of-a-new-ui-for-spotify-player-v0-r3leama6b07b1.png?width=690&format=png&auto=webp&s=75cdf76409c5b445523a00ecc3cd1105eba303a6",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate an image transforming the entire 'Now Playing' screen from image 1 into a vintage 1970s record player interface. The main background should be a rich, dark wood grain, reminiscent of 70s audio consoles.\n\nIn the upper central area, replacing the album art from image 1, display a black vinyl record with the album art from image 1 serving as its detailed, spinning label.\n\nBelow the vinyl record, in the approximate location of the progress bar from image 1, create an analog progress display, such as a glowing bar or a needle moving across a vintage illuminated dial.\n\nThe current song information ('afterlife dating', 'Teen Suicide') from image 1 should be presented on a small, retro-style green LED display panel, placed within the main record player console.\n\nIn the lower half of the screen, transform all digital playback controls (play/pause, skip forward/backward, shuffle, repeat) from image 1 into distinct, chunky 1970s-era analog controls: prominent push-buttons, rotary knobs, and toggle switches, arranged on a brushed metallic control surface.\n\nThe top-left 'Liked Songs' heading from image 1 should be replaced by a retro-futuristic text display or an illuminated button labeled 'PLAYING' or 'SOURCE'. The phone's status bar elements (time 9:41, cellular/Wi-Fi signal, battery) from the top-right of image 1 should be re-stylized as a period-appropriate digital clock display and simple analog indicator lights or meters, seamlessly integrated into the top edge of the overall 70s record player design.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Vintage 1970s record player interface",
+    "Rich, dark wood grain background",
+    "Black vinyl record in the upper central area",
+    "Album art from image 1 as a spinning label on the vinyl record",
+    "Analog progress display below the vinyl record",
+    "Retro-style green LED display panel with current song information",
+    "Chunky 1970s-era analog playback controls",
+    "Brushed metallic control surface in the lower half",
+    "Retro-futuristic text display or illuminated button labeled 'PLAYING' or 'SOURCE' in the top-left",
+    "Period-appropriate digital clock display and simple analog indicator lights/meters in the top-right"
+  ]
+}

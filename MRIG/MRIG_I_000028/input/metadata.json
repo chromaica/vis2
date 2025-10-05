@@ -1,0 +1,29 @@
+{
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Generate a data visualization bar chart using the multi-bar structure and data plotting concept from image 1. Incorporate the vibrant color palette and add representative icons below the bars, drawing from the modern graphic style of image 2.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "Diagrams charts graphs examples",
+  "searchQueryGeneratedTimestamp": 1752070573927,
+  "promptGeneratedTimestamp": 1752070712485,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "I",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a data visualization in the form of a vertical bar chart. Adopt the multi-bar layout and data plotting approach from image 1, including its axis labeling and legend structure. Apply the vibrant and bold color palette from image 2 to the bars. Below each bar, add representative, modern-style icons similar to those seen in image 2, ensuring they are minimalist and monochromatic.",
+  "objects": [
+    "Vertical bar chart structure",
+    "Multiple vertical bars",
+    "X-axis",
+    "Y-axis",
+    "Axis labeling (similar to image 1)",
+    "Legend structure (similar to image 1)",
+    "Vibrant and bold color palette applied to bars",
+    "Modern, minimalist, monochromatic icons below each bar",
+    "Chart title"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,19 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Using the reference binary mask of cows, generate a photograph of cows grazing in a lush green farm.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic image of cows grazing in a vibrant, lush green farm. Use image 1 as a segmentation mask to define the shapes and precise positions of the cows: one large adult cow on the left and two smaller calves positioned to its right.",
+  "annotator": "samin",
+  "objects": [
+    "Photorealistic visual style",
+    "One large adult cow on the left (with shape and precise position defined by image 1)",
+    "Two smaller calves positioned to the right of the adult cow (with shapes and precise positions defined by image 1)",
+    "Grazing cows",
+    "Vibrant, lush green farm environment"
+  ]
+}

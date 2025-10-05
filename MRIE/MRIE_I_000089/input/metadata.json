@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "Edit image 1: Update the map by adding dual English/Chinese labels for stations, following the style seen in image 2. Change all station markers to the white ring outline shape provided in image 3. Retain image 1's layout and line colors.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: For all station labels on the map, replace the existing English-only text with dual English and Chinese text. Position the Chinese characters above the English text, matching the specific font, size, and vertical alignment style shown in image 2. Simultaneously, replace all current solid-colored circular station markers with the hollow white ring outline shape provided in image 3. Ensure the overall geographical layout of the MTR lines and their distinct colors, as depicted in image 1, are strictly maintained.",
+  "annotator": "maxku",
+  "objects": [
+    "Hong Kong MTR map geographical layout",
+    "MTR lines with original distinct colors and routes",
+    "Station labels with dual English and Chinese text",
+    "Chinese text positioned above English text for station labels",
+    "Specific font, size, and vertical alignment style for station labels",
+    "Hollow white ring outline station markers",
+    "MTR line legend (e.g., Kwun Tong Line, Tsuen Wan Line names with color swatches)",
+    "\"Hong Kong MTR Map\" title",
+    "Solid colored circular station markers (should not be present)"
+  ],
+  "human_annotation": true
+}

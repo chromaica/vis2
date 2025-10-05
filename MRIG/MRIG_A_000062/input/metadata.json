@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Traditional art",
+  "prompt": "A traditional charcoal drawing depicting the urban skyline from image 1, rendered using the one-point perspective technique shown in image 2. Focus on the dramatic dusk lighting and reflections on the water, typical of image 1.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a traditional charcoal drawing of the urban skyline from image 1. The composition should clearly apply the one-point perspective technique shown in image 2, where the buildings and their reflections on the water recede towards a central vanishing point on the horizon. Emphasize the dramatic dusk lighting, including the vibrant city lights and the distinctive deep blue to warm orange sky gradient. Ensure prominent and clear reflections on the calm water, all characteristic of image 1.",
+  "annotator": "samin",
+  "objects": [
+    "Traditional charcoal drawing style",
+    "Urban skyline",
+    "Buildings",
+    "Calm water",
+    "Reflections on water",
+    "Central vanishing point",
+    "Horizon",
+    "Dramatic dusk lighting",
+    "Vibrant city lights",
+    "Deep blue to warm orange sky gradient"
+  ],
+  "human_annotation": true
+}

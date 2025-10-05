@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "A geometric collage using cut-out shapes of different natural textures: wood, stone, and foliage, all layered to form a modern abstract landscape.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate an image of a modern abstract landscape. The landscape is formed by a geometric collage of distinct, crisp cut-out shapes. These shapes are intricately layered and overlapping, showcasing varied natural textures: authentic wood grain, rugged stone, and detailed foliage patterns.",
+  "annotator": "cwhsu",
+  "objects": [
+    "modern abstract landscape",
+    "geometric shapes",
+    "distinct cut-out shapes",
+    "layered elements",
+    "overlapping elements",
+    "wood grain texture",
+    "rugged stone texture",
+    "detailed foliage patterns"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

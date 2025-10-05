@@ -1,0 +1,21 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Transform all user icons into vintage postage stamps, adding an antique aesthetic to the interface.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Convert all user profile icons visible in the interface, including those in the chat message list and the current user's avatar, into vintage postage stamps. Each stamp should retain the original icon's content, feature distinct serrated edges, and possess an aged, antique texture. This transformation should contribute to an overall antique aesthetic for the entire interface.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Discord interface with an antique aesthetic",
+    "Vintage postage stamps with serrated edges and antique texture (containing original user profile icon content)",
+    "Discord chat message list (including chat message text)",
+    "Discord channel list",
+    "Discord server list (far-left column)",
+    "Message input field",
+    "Standard Discord interface icons (e.g., search, settings, plus buttons, channel type icons)"
+  ]
+}

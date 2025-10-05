@@ -1,0 +1,19 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "Game assets",
+  "prompt": "A cyberpunk vending machine sprite, 128x128 pixels per frame, with 3 frames of animated neon lights and dynamic holograms.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a pixel art sprite of a cyberpunk vending machine, rendered in a 128x128 resolution style. The machine features vibrant, pulsating neon lights and dynamic, shimmering holograms displaying futuristic interface elements.",
+  "annotator": "maxku",
+  "objects": [
+    "Cyberpunk vending machine",
+    "Vibrant neon lights",
+    "Pulsating effect on neon lights",
+    "Dynamic holograms",
+    "Shimmering effect on holograms",
+    "Futuristic interface elements"
+  ],
+  "human_annotation": true
+}

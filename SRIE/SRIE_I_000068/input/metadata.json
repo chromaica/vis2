@@ -1,0 +1,23 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Fill the color of the overlapping region to red, while the rest in the venn diagram as blue, and background as yellow.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, a Venn diagram composed of three overlapping circles. Use image 2 to guide the precise segmentation and solid fill of the regions. Color the central area where all three circles intersect red. Color all remaining portions of the three circles blue. Finally, color the background area outside of the circles yellow.",
+  "annotator": "Johnny",
+  "objects": [
+    "red central intersection region",
+    "blue non-overlapping portion of first circle",
+    "blue non-overlapping portion of second circle",
+    "blue non-overlapping portion of third circle",
+    "blue intersection region of first and second circle (excluding central intersection)",
+    "blue intersection region of first and third circle (excluding central intersection)",
+    "blue intersection region of second and third circle (excluding central intersection)",
+    "yellow background"
+  ]
+}

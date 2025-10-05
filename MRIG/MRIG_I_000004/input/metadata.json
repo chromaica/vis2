@@ -1,0 +1,28 @@
+{
+  "subtopic": "Icons and symbols",
+  "prompt": "Generate an information graphic combining the data visualization layout and chart types from image 1 with the technology-themed icons and flat illustration style from image 2, presenting technology statistics.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1750575574808,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "I",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a technology information graphic. Utilize the multi-panel, dashboard-style data visualization layout and specific chart types (including stacked bar charts, line graphs, and donut charts) observed in image 1. Render all visual elements of this graphic, including the charts, numerical displays, and surrounding design, in the flat illustration style, clean typography, and prominent green and blue color palette from image 2. Incorporate a variety of technology-themed icons from image 2 throughout the layout to represent different categories or data points. The entire graphic should present clear technology statistics in a modern and engaging visual format.",
+  "objects": [
+    "Multi-panel dashboard layout",
+    "Stacked bar charts",
+    "Line graphs",
+    "Donut charts",
+    "Numerical data displays",
+    "Technology-themed icons",
+    "Text elements with clean typography",
+    "Visual elements rendered in a flat illustration style",
+    "Prominent green and blue color palette",
+    "Technology-related titles and labels"
+  ],
+  "human_annotation": true
+}

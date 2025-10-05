@@ -1,0 +1,20 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "Change the checkmark icon to a cross icon.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 2. Replace the black checkmark icon within the green circle with a black cross icon. Ensure the new cross icon is centered and matches the bold, simple infographic style of the original checkmark.",
+  "annotator": "Johnny",
+  "objects": [
+    "green circle",
+    "centered black cross icon in a bold, simple infographic style",
+    "black checkmark icon (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

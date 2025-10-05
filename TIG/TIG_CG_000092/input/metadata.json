@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "Object detection visuals",
+  "prompt": "A desktop scene showing bounding boxes around keyboard, mouse, monitor, cups, and stationery. Clear labels and color-coded boxes.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a realistic image of a typical desktop setup. The scene should include a computer monitor, a keyboard, a mouse, one or more cups, and various stationery items (e.g., pens, notebooks). Superimposed over these objects are precise, rectangular bounding boxes. Each box must be clearly color-coded, with distinct colors for different object categories, and include a sharp, readable text label (e.g., 'Monitor', 'Keyboard', 'Mouse', 'Cup', 'Stationery') positioned clearly alongside its respective box.",
+  "annotator": "maxku",
+  "objects": [
+    "Realistic desktop setup",
+    "Computer monitor",
+    "Keyboard",
+    "Mouse",
+    "One or more cups",
+    "Various stationery items (e.g., pens, notebooks)",
+    "Precise, rectangular bounding boxes over objects",
+    "Color-coded bounding boxes",
+    "Text labels (e.g., 'Monitor', 'Keyboard', 'Mouse', 'Cup', 'Stationery') alongside bounding boxes"
+  ]
+}

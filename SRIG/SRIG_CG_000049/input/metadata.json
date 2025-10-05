@@ -1,0 +1,27 @@
+{
+  "subtopic": "Object detection visuals",
+  "prompt": "Generate a computer graphics visualization of object detection, similar to the reference. Show a scene with bounding boxes, labels, confidence scores, and heatmaps overlaid on detected objects like people and vehicles.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://user-images.githubusercontent.com/17425982/203775584-c4aebf11-4ff8-4530-85fe-7dda897e95a8.jpg",
+  "promptGeneratedTimestamp": 1748768089583,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a computer graphics visualization of object detection, similar to image 1. The scene should depict an outdoor setting, featuring a prominent bicycle positioned centrally, a dog sitting on the ground in the lower-left, and a white truck visible in the background on the upper-right. Overlay these detected objects with distinct bounding boxes (e.g., green for the dog, pink/purple for the bicycle, yellow for the truck), corresponding text labels (e.g., 'dog', 'bicycle', 'truck'), and numerical confidence scores (e.g., '72.8', '53.0', '79.5'). Additionally, include gradient heatmaps (ranging from blue to red/yellow) superimposed onto the detected areas of the dog, bicycle, and truck, illustrating activation or attention.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Outdoor setting",
+    "Prominent bicycle positioned centrally",
+    "Dog sitting on the ground in the lower-left",
+    "White truck visible in the background on the upper-right",
+    "Green bounding box over the dog",
+    "Pink/purple bounding box over the bicycle",
+    "Yellow bounding box over the truck",
+    "Text labels ('dog', 'bicycle', 'truck') with corresponding confidence scores ('72.8', '53.0', '79.5')",
+    "Gradient heatmaps (blue to red/yellow) superimposed on the detected areas of the dog, bicycle, and truck"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

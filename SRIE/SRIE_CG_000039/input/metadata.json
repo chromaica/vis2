@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Object detection visuals",
+  "prompt": "Highlight all items that are missing from the current view.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Using image 2 as a reference, identify all unique product items present in image 2 that are not present or are different in image 1. For each of these identified items, accurately incorporate it into its corresponding location within image 1, replacing any conflicting items. After insertion, apply a distinct visual highlight, such as a contrasting outline or a subtle glow, to each of these newly added items.\n\nSpecifically, identify, insert, and highlight the following items from image 2 into image 1:\n1.  On the left side, on the second shelf from the top: The four dark-colored, crinkly bags.\n2.  On the left side, on the third shelf from the top: The four dark-colored, crinkly bags.\n3.  On the left side, on the fourth shelf from the top: The four dark-colored, crinkly bags.\n4.  On the right side, on the second shelf from the bottom: The yellow-packaged item with the distinct design.\n5.  On the bottom right shelf: The two distinct product boxes labeled 'SOGOOG' and 'OINGOE'.",
+  "annotator": "nimajamali",
+  "objects": [
+    "Four dark crinkly bags with visual highlight, on the left, second shelf from top",
+    "Four dark crinkly bags with visual highlight, on the left, third shelf from top",
+    "Four dark crinkly bags with visual highlight, on the left, fourth shelf from top",
+    "Yellow-packaged item with distinct design and visual highlight, on the right, second shelf from bottom",
+    "Two product boxes labeled 'SOGOOG' and 'OINGOE' with visual highlight, on the bottom right shelf",
+    "Four \"Sarlands Chips\" bags on the left, second shelf from top (should not be present)",
+    "Four \"Sarlands Chips\" bags on the left, third shelf from top (should not be present)",
+    "Four \"Sarlands Chips\" bags on the left, fourth shelf from top (should not be present)",
+    "\"Smash!\" bag on the right, second shelf from bottom (should not be present)",
+    "Two \"KORNI\" product boxes on the bottom right shelf (should not be present)"
+  ]
+}

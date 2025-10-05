@@ -1,0 +1,22 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "create a similar photo but with samples from deep Antarctica ice ",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Maintain the photorealistic circular microscopic view and dark background. Within the circular field, replace the existing brownish, thread-like, and spherical organic samples with photorealistic microscopic samples characteristic of deep Antarctica ice, featuring clear ice crystals and tiny trapped air bubbles.",
+  "annotator": "theblackcat",
+  "objects": [
+    "photorealistic circular microscopic view",
+    "dark background",
+    "microscopic deep Antarctica ice samples",
+    "clear ice crystals",
+    "tiny trapped air bubbles",
+    "brownish organic samples (should not be present)",
+    "thread-like organic samples (should not be present)",
+    "spherical organic samples (should not be present)"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "a screenshots of google maps for the future of the city on Mars planet, the city is called New New York, we are located at the city center block",
+  "cond_images": [],
+  "remarks": "Does the map looks like current google maps? Does it looks like marks?",
+  "prompt_refined": "A detailed screenshot of a futuristic Google Maps interface, showing an aerial view of the city 'New New York' on the planet Mars. The map is centered on a specific, bustling block within the city's downtown area, prominently marked with a location pin. The interface displays typical Google Maps UI elements, including a search bar, zoom controls, street names, block outlines, and various points of interest labels. The city features advanced, sci-fi architecture, such as interconnected domed structures and elevated transportation systems, all set against the distinct reddish-orange Martian landscape.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Futuristic Google Maps interface",
+    "Aerial view of 'New New York' city",
+    "Reddish-orange Martian landscape",
+    "Bustling downtown city block (centered on map)",
+    "Prominently marked location pin",
+    "Search bar (within interface)",
+    "Zoom controls (within interface)",
+    "Street names and block outlines (on map)",
+    "Interconnected domed structures",
+    "Elevated transportation systems"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,21 @@
+{
+  "task": "SRIE",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "Enhance the contrast and brightness inside the masked nebula while leaving the rest of the image untouched.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 (the Andromeda galaxy) by enhancing the contrast and brightness specifically within the main body of the galaxy, as precisely defined by the white region in image 2. All areas outside this masked region in image 1 must remain completely untouched.",
+  "annotator": "nimajamali",
+  "objects": [
+    "Andromeda galaxy",
+    "Stars",
+    "Dark space background",
+    "Smaller companion galaxies"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

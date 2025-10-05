@@ -1,0 +1,27 @@
+{
+  "subtopic": "Comics",
+  "prompt": "Generate the next comic panel based on the character and conversational context. Adopt the two-figure composition and panel layout from the reference image.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://s3-eu-central-1.amazonaws.com/cartoons-s3/styles/product_detail_image/s3/VaderUK.jpg?itok=KJY2U1z5",
+  "searchQueryGenerated": "Detailed comic panel text bubbles onomatopoeia reference",
+  "searchQueryGeneratedTimestamp": 1750501756738,
+  "promptGeneratedTimestamp": 1750501848372,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "T",
+  "prompt_refined": "Generate a single comic panel in a humorous cartoon style, replicating the two-figure composition and panel layout of image 1. The panel should depict God, portrayed as an elderly man with a long white beard and robe, seated on a golden throne on the left side. An Eye of Providence symbol should be visible above God's head. On the right side, Darth Vader, in his full black iconic suit and helmet, stands facing God. A speech bubble originating from God should contain the exact text: 'I AM YOUR FATHER.' The background should be simple and white, featuring subtle clouds beneath the figures and scattered stylized stars.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "single comic panel",
+    "God, portrayed as an elderly man with a long white beard and robe, seated on a golden throne on the left side",
+    "Eye of Providence symbol above God's head",
+    "Darth Vader in his full black iconic suit and helmet, standing on the right side, facing God",
+    "speech bubble originating from God",
+    "speech bubble containing the text: 'I AM YOUR FATHER.'",
+    "simple white background",
+    "subtle clouds beneath the figures",
+    "scattered stylized stars"
+  ]
+}

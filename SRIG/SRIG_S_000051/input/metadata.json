@@ -1,0 +1,26 @@
+{
+  "subtopic": "Websites",
+  "prompt": "Using the layout from the reference website screenshot, generate a version with a 'brutalist' web design aesthetic, featuring raw text, monochrome colors, and sharp edges.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "https://speckyboy.com/wp-content/uploads/2024/10/clean-web-design-inspiration-ideas-17.jpg",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a website screenshot. Recreate the layout, content blocks, and relative positioning of all elements from image 1, but redesign them with a brutalist web aesthetic. Apply a strict monochrome color scheme (black, white, and shades of gray) throughout. All visual elements, including buttons, borders, and frames, must have sharp, angular edges and a blocky appearance. The central profile image (of the man from image 1) should be contained within a sharp, rectangular frame instead of its original circular shape. All text, such as the 'Illustrator & Visual Designer' title, navigation links, numerical statistics ('6 YEARS OF EXPERIENCE', '683 PROJECTS DONE'), and descriptive text, should appear raw, unstyled, and prominent. The 'Hire!' button in the top-right and the 'GRAPHIC DESIGN' button at the bottom-left should also be stark, rectangular blocks.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Website layout with content blocks",
+    "Central profile image of the man",
+    "Rectangular frame surrounding the central profile image",
+    "'Illustrator & Visual Designer' title",
+    "Top navigation links (Home, Portfolio, Service, Page, Contact)",
+    "'Hire!' button in the top-right as a stark rectangular block",
+    "'GRAPHIC DESIGN' button at the bottom-left as a stark rectangular block",
+    "Numerical statistics ('6 YEARS OF EXPERIENCE', '683 PROJECTS DONE')",
+    "Descriptive text section about Ferdian",
+    "Monochrome color scheme applied to all elements"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,25 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Painting",
+  "prompt": "Use wider brush strokes to create a more dynamic and expressive painting style.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Reinterpret the painting in image 1 by applying a style with noticeably wider, more prominent brush strokes throughout the entire artwork. This modification should transform the portrait into a more dynamic and expressive representation, emphasizing the texture and visible application of paint to create a bolder, more energetic artistic impression rather than a smoothly blended finish.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "portrait of a woman",
+    "tiara",
+    "diamond necklace",
+    "yellow gown",
+    "earrings",
+    "bracelets",
+    "ring",
+    "clasped hands",
+    "dark background",
+    "yellow floral embellishments"
+  ],
+  "human_annotation": true
+}

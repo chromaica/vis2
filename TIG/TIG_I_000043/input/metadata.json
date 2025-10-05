@@ -1,0 +1,16 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "create a time management icon using a stopwatch melting like a Salvador Dal\u00ed clock",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A time management icon, featuring a stopwatch that is melting and fluid, rendered in the distinctive surrealist style of Salvador Dal\u00ed's clocks.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Melting stopwatch",
+    "Supporting surface or edge",
+    "Surreal landscape background",
+    "Exaggerated shadows"
+  ]
+}

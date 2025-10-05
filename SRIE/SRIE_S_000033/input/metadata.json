@@ -1,0 +1,27 @@
+{
+  "subtopic": "Receipts",
+  "prompt": "Edit Image 1: Modify the receipt screenshot view. Change the top bar color to match the blue header in Image 2 and incorporate the distinctive green 'PAY' button from Image 2 at the bottom of the screen.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751005604496,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit Image 1: Change the background color of the status bar and the browser's address bar at the top of Image 1 to match the blue header in Image 2. Incorporate the distinctive full-width green 'PAY' button from the bottom of Image 2 onto the very bottom of the screen in Image 1.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Phone frame",
+    "Blue status bar",
+    "Blue browser address bar",
+    "\"STRYD London\" order details content",
+    "Product image of sneakers (\"Nova Step 520\")",
+    "Payment method section (e.g., \"VISA ****8012\")",
+    "Shipping address section (e.g., \"20 High Street London AB10 ART\")",
+    "\"Return Items\" section",
+    "\"Return policy\" section",
+    "Green full-width \"PAY\" button at the bottom"
+  ]
+}

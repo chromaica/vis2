@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "visualize a metro-style system map of a microservices architecture: services as stations, API calls as colored line connections, with real-time status indicators (green=healthy, yellow=degraded, red=down) and transfer points showing shared databases",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A detailed metro-style system map visually representing a microservices architecture. Each 'service' is depicted as a clearly labeled station node, arranged along connecting pathways. API calls are represented by thick, colored lines connecting these service stations. These connecting lines dynamically display real-time status: vibrant green for healthy, bright yellow for degraded, and strong red for down. Distinctly marked transfer points or junction nodes are incorporated, each clearly labeled to show shared database instances between services. The map should maintain a clean, technical, and schematic aesthetic, characteristic of public transport maps.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Metro-style system map",
+    "Labeled station nodes",
+    "Connecting pathways",
+    "Thick lines representing API calls",
+    "Vibrant green lines",
+    "Bright yellow lines",
+    "Strong red lines",
+    "Distinctly marked, labeled transfer points/junction nodes"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "A photorealistic receipt from a floating market in Thailand, water-stained and written in Thai script, showing tropical fruits and street food, with a lotus flower pressed against it",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic image of a water-stained receipt from a Thai floating market. The receipt is prominently displayed, covered in authentic Thai script, and depicts various tropical fruits and local street food. A fresh lotus flower is gently pressed flat against the receipt's surface, partially overlapping some of the text and imagery.",
+  "annotator": "theblackcat",
+  "objects": [
+    "water-stained receipt",
+    "receipt prominently displayed",
+    "authentic Thai script on the receipt",
+    "tropical fruits depicted on the receipt",
+    "local street food depicted on the receipt",
+    "fresh lotus flower",
+    "lotus flower pressed flat against the receipt's surface",
+    "lotus flower partially overlapping text and imagery on the receipt"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

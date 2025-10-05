@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "oil paintings",
+  "prompt": "A still life oil painting of a rustic kitchen table adorned with a variety of fresh fruits, vegetables, and a bouquet of wildflowers.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A still life oil painting features a rustic wooden kitchen table. Prominently centered on the table is a vibrant bouquet of freshly picked wildflowers in a simple ceramic vase. Surrounding the vase, an artful arrangement of various fresh fruits and vegetables is displayed, including plump red apples, green grapes, and leafy greens, with some items like heirloom tomatoes and bell peppers scattered loosely on the worn wooden surface.",
+  "annotator": "cwhsu",
+  "objects": [
+    "rustic wooden kitchen table",
+    "vibrant bouquet of freshly picked wildflowers (prominently centered on the table)",
+    "simple ceramic vase (containing wildflowers, prominently centered on the table)",
+    "plump red apples (on the table)",
+    "green grapes (on the table)",
+    "leafy greens (on the table)",
+    "heirloom tomatoes (scattered loosely on the table)",
+    "bell peppers (scattered loosely on the table)"
+  ],
+  "human_annotation": true
+}

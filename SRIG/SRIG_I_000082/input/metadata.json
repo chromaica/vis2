@@ -1,0 +1,24 @@
+{
+  "subtopic": "Visual instructions and manuals",
+  "prompt": "Generate an infographic diagram of a rice boiler with labeled parts. Use the clean illustrated style, warm color palette, and clear diagrammatic layout from the reference image.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://coffeeroastco.com/cdn/shop/articles/The_Parts_of_a_Coffee_Roaster__Everything_You_Need_To_Know_About_Your_Roasting_Machine-Featured_Image_2000x.png?v=1714967225",
+  "promptGeneratedTimestamp": 1749929737888,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate an infographic diagram detailing the parts of a rice boiler. The layout should mirror the clear, infographic diagrammatic style of image 1, featuring a main diagram on the right side of the canvas. Utilize the clean, illustrated aesthetic, warm color palette, and a subtle textured background as seen in image 1. Each component of the rice boiler must be clearly labeled with text and a connecting dashed line, replicating the precise labeling convention from image 1.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Illustrated diagram of a rice boiler on the right side",
+    "Text labels for rice boiler components",
+    "Dashed lines connecting labels to components",
+    "Main title text block on the left side",
+    "Smaller introductory text line on the left side",
+    "Subtle textured background",
+    "Logo on the top left"
+  ],
+  "human_annotation": true
+}

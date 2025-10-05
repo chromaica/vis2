@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Chat and Social Messaging",
+  "prompt": "In image 1, replace the green message bubble that says 'Hey friend!' with a new text that says 'Looking cool!' ending with the sunglasses emoji from image 3 and the sparkly heart emoji from image 2 in the same size as the text.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. In the green message bubble on the right side that currently reads 'Hey friend!', replace its content with 'Looking cool!', followed by the sunglasses emoji from image 3 and then the sparkly heart emoji from image 2. Ensure both emojis are rendered at the same visual size as the 'Looking cool!' text.",
+  "annotator": "parnian",
+  "objects": [
+    "iPhone status bar",
+    "App header with \"Cool Friend\" and call icons",
+    "\"Today\" message bubble",
+    "Yellow security message bubble",
+    "White \"Hello!\" message bubble",
+    "Chat background pattern",
+    "Green message bubble on the right",
+    "Text \"Looking cool!\" inside the green message bubble",
+    "Sunglasses emoji inside the green message bubble",
+    "Pink heart emoji with yellow bow inside the green message bubble"
+  ]
+}

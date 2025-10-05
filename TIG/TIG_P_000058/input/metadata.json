@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "A massive asteroid field with rocky, irregularly shaped asteroids floating through the expansive void of outer space, in various shades of grey and brown.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A photorealistic, highly detailed depiction of a massive asteroid field. Numerous rocky, irregularly shaped asteroids, varying in size and predominantly in shades of grey and brown, float through the expansive, dark void of outer space, stretching into the deep distance.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Asteroids",
+    "Rocky texture on asteroids",
+    "Irregularly shaped asteroids",
+    "Asteroids of varying sizes",
+    "Grey asteroids",
+    "Brown asteroids",
+    "Expansive outer space",
+    "Dark void (as the backdrop of outer space)",
+    "Deep distance perspective (for the asteroid field)"
+  ]
+}

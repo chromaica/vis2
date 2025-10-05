@@ -1,0 +1,24 @@
+{
+  "task": "MRIG",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Generate a flow diagram for the visa application process: Fill Form \u2192 Submit Documents \u2192 Attend Interview \u2192 Receive Visa. Use Image 2 for general diagram styling, and design the final step ('Receive Visa') using Image 1",
+  "cond_images": [
+    "1.png",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "matina",
+  "prompt_refined": "Generate a horizontal flow diagram illustrating the visa application process. The diagram should feature four distinct, rounded-corner rectangular steps, styled similarly to the examples in image 2, including the use of small, illustrative icons within each step and a consistent blue/yellow color palette. Ensure clear arrows connect the steps sequentially from left to right.\n\nThe steps are as follows:\n\n1.  **Fill Form**: Accompanied by an icon representing document completion or a form.\n2.  **Submit Documents**: Accompanied by an icon representing official submission or paperwork.\n3.  **Attend Interview**: Accompanied by an icon representing a meeting or discussion between two people.\n4.  **Receive Visa**: Accompanied by an icon inspired by the visual theme of image 1, specifically an illustration of an airplane in flight or an airport terminal, rendered in the same infographic style as the other icons, symbolizing international travel and the successful completion of the process.",
+  "objects": [
+    "Horizontal flow diagram layout",
+    "Four rounded-corner rectangular steps",
+    "Arrows connecting steps sequentially (left to right)",
+    "\"Fill Form\" step with a document or form icon",
+    "\"Submit Documents\" step with an official submission or paperwork icon",
+    "\"Attend Interview\" step with a meeting or two-person discussion icon",
+    "\"Receive Visa\" step with an infographic-style airplane or airport terminal icon",
+    "Consistent blue color palette",
+    "Consistent yellow color palette"
+  ]
+}

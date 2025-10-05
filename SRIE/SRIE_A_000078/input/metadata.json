@@ -1,0 +1,26 @@
+{
+  "subtopic": "Stylized art",
+  "prompt": "Edit image 1: Replace the comic-style \"OMG!\" graphic on the brick wall with the dynamic graffiti-style \"BOOM\" graphic from image 2, incorporating its yellow/red color scheme and black splatter effect.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748654976292,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1: Replace the central comic-style 'OMG!' graphic on the brick wall with the dynamic graffiti-style 'BOOM' graphic from image 2. The replacement graphic must match the yellow and red color scheme and black splatter effect visible in image 2, maintaining the original graphic's position and scale on the wall.",
+  "annotator": "kellycyy",
+  "objects": [
+    "brick wall",
+    "graffiti-style \"BOOM\" graphic",
+    "yellow color on \"BOOM\" graphic",
+    "red color on \"BOOM\" graphic",
+    "black splatter effect around \"BOOM\" graphic",
+    "ground line below wall",
+    "comic-style \"OMG!\" graphic (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

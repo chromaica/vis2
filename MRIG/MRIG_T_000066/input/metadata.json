@@ -1,0 +1,21 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Design and generate tag design branding for a fashion line named 'Paisley' that celebrates Iranian aesthetics, combining the first image\u2019s classic blue paisley motif with the second image\u2019s minimalist clothing tag design.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a clothing tag design for a fashion line named 'Paisley'. The tag should primarily feature the minimalist physical form, brown kraft paper texture, metal eyelet, and natural twine string attachment as depicted in image 2. Clearly display the brand name 'Paisley' on the tag. Integrate the classic, intricate blue paisley pattern from image 1 as a central design element, such as a stylized background, a decorative border, or a graphic element accompanying the text. The overall design should subtly evoke Iranian aesthetics and maintain a clean, branded appearance.",
+  "annotator": "parnian",
+  "objects": [
+    "Clothing tag (minimalist form)",
+    "Brown kraft paper texture",
+    "Metal eyelet",
+    "Natural twine string",
+    "Brand name 'Paisley' (text)",
+    "Blue paisley pattern"
+  ]
+}

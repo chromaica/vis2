@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "A bustling street market in an Asian city, vibrant stalls filled with colorful fruits, vegetables, and flowers, with people in motion.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A photorealistic, wide-angle view of a bustling open-air street market in an Asian city. Numerous vibrant stalls, made of wood and metal, are overflowing with colorful fruits, vegetables, and flowers. On the left, large baskets are piled high with bright yellow mangoes and deep red dragon fruits. In the center, verdant green vegetables like bok choy are arranged next to buckets filled with exotic orchids and lotus flowers. A diverse crowd of shoppers and vendors, dressed in casual attire, moves dynamically through the narrow, bustling aisles. Foreground figures are captured mid-stride, some carrying woven bags, while background figures are blurred by their motion, actively browsing. Natural daylight illuminates the scene, highlighting the rich textures and vibrant hues.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Bustling open-air street market in an Asian city",
+    "Numerous vibrant stalls made of wood and metal",
+    "Colorful fruits (mangoes, dragon fruits) and vegetables (bok choy)",
+    "Flowers (orchids, lotus flowers)",
+    "Large baskets piled high with bright yellow mangoes and deep red dragon fruits (on the left)",
+    "Verdant green vegetables like bok choy arranged (in the center)",
+    "Buckets filled with exotic orchids and lotus flowers (in the center)",
+    "Diverse crowd of shoppers and vendors dressed in casual attire",
+    "Foreground figures captured mid-stride, some carrying woven bags",
+    "Natural daylight illuminating the scene"
+  ]
+}

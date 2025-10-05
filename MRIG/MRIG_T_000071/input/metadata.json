@@ -1,0 +1,27 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Create a two-panel meme. In the top panel with the amn in the first image, write caption: 'When someone asks if I\u2019ve started the project'. In the bottom panel with the man in the second image, write caption: 'When I remember it\u2019s due next month and I have time'. ",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a two-panel meme.\nFor the top panel, incorporate the appearance and pensive expression of the man from image 1. Display the caption 'When someone asks if I\u2019ve started the project' prominently within this panel.\nFor the bottom panel, incorporate the appearance and smiling, relieved expression of the man from image 2. Display the caption 'When I remember it\u2019s due next month and I have time' prominently within this panel.",
+  "annotator": "parnian",
+  "objects": [
+    "Two-panel meme layout",
+    "Top panel featuring Cillian Murphy",
+    "Cillian Murphy with pensive expression in the top panel",
+    "Bottom panel featuring Cillian Murphy",
+    "Cillian Murphy with smiling, relieved expression in the bottom panel",
+    "Man wearing a shirt (based on reference images)",
+    "Man with crossed arms (based on reference images)",
+    "Man wearing a watch (based on reference images)",
+    "Prominent caption \"When someone asks if I\u2019ve started the project\" in the top panel",
+    "Prominent caption \"When I remember it\u2019s due next month and I have time\" in the bottom panel"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

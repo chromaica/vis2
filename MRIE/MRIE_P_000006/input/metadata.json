@@ -1,0 +1,22 @@
+{
+  "task": "MRIE",
+  "topic": "P",
+  "subtopic": "Wildlife & Nature Photography",
+  "prompt": "Replace the hut from the first image with the 2 rhinos from the second image, and add the giraffe from the third image to the scene.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Replace the wooden hut, located in the lower-left foreground, with the two rhinos from image 2, placing them in the same grassy area. Additionally, add the giraffe from image 3 to the mid-ground of the scene, positioned towards the right side of the frame, standing naturally in the grass.",
+  "annotator": "boris",
+  "objects": [
+    "mountains",
+    "trees",
+    "grassy field",
+    "two rhinos (in lower-left foreground)",
+    "giraffe (in mid-ground, right side)",
+    "wooden hut (should not be present)"
+  ]
+}

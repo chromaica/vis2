@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "Use the halftone map to modulate dot size across the poster, giving a vintage print look.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 (the poster) by applying a halftone dot pattern across its entire surface. Use image 2 as a reference to modulate the size and density of the dots, ensuring that the dot distribution on image 1 corresponds to the intensity variations present in image 2. The final result should convey a vintage, screen-printed aesthetic.",
+  "annotator": "matina",
+  "objects": [
+    "\"MARATHON\" text",
+    "Male runner",
+    "American flag",
+    "Blue background",
+    "Green/brown ground",
+    "\"NEW YORK RUN IT !\" text",
+    "Dark green border",
+    "Halftone dot pattern"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

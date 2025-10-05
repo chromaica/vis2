@@ -1,0 +1,25 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "a tissue image using the reference cell. Cells should appear larger at the bottom and gradually smaller toward the top.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic microscopic image of biological tissue. The individual cells comprising this tissue should be visually consistent with the morphology, distinct blue staining, and associated bacterial organisms observed in image 1. Arrange the cells such that those positioned at the bottom of the image appear notably larger, with a progressive decrease in size for cells extending towards the top.",
+  "annotator": "samin",
+  "objects": [
+    "Individual biological cells",
+    "Irregular morphology of cells",
+    "Distinct blue staining of cells",
+    "Darker blue nuclei within cells",
+    "Rod-shaped bacterial organisms",
+    "Blue coloring of bacterial organisms",
+    "Bacterial organisms associated with the cells",
+    "Cells larger at the bottom of the image",
+    "Cells progressively decreasing in size towards the top of the image",
+    "Light-colored background"
+  ],
+  "human_annotation": true
+}

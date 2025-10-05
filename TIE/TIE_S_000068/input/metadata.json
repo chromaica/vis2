@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Change the interface color scheme to a steampunk style with brass and copper tones.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, an Audacity software screenshot, to transform its entire user interface into a steampunk style. The primary color scheme should feature aged brass and polished copper tones. Specifically:\n-   Replace the current grey backgrounds of all panels, including the top toolbars (playback controls, editing tools, audio setup, share audio) and the left sidebar track controls, with textured brass and copper surfaces.\n-   Re-imagine all buttons (e.g., Play, Pause, Record, Mute, Solo, Effects, zoom tools) and icons (e.g., mic input, speaker output, settings gear) as intricate mechanical elements crafted from brass and copper, potentially incorporating visible gears, rivets, or pressure gauges.\n-   Change all sliders (e.g., L/R balance on the left, volume controls in the top-right and bottom-right sections) to appear as mechanical brass or copper mechanisms.\n-   Update the window title bar and frame to match the steampunk aesthetic, using darker metallic hues with brass/copper accents and re-styled minimize/maximize/close buttons.\n-   Ensure all text labels and numerical displays (e.g., timeline numbers, Tempo, Time Signature, 00h 00m 56s) remain clearly legible, adopting a color that complements the new metallic backgrounds, such as a dark contrasting tone or an off-white.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Audacity window frame and title bar in steampunk style",
+    "Textured brass and copper backgrounds for all UI panels and toolbars",
+    "Mechanical brass and copper playback control buttons (e.g., Play, Pause, Record)",
+    "Mechanical brass and copper editing tool icons (e.g., zoom tools, selection)",
+    "Mechanical brass and copper audio setup and share audio buttons",
+    "Mechanical brass and copper audio input/output icons and volume sliders",
+    "Mechanical brass and copper track control buttons (e.g., Mute, Solo, Effects)",
+    "Mechanical brass and copper L/R balance slider",
+    "Audio waveform display",
+    "Legible text labels and numerical displays (e.g., timeline numbers, 00h 00m 56s)"
+  ]
+}

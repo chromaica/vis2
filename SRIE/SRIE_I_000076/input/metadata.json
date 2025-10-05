@@ -1,0 +1,20 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Change the heart icon to sliver.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the heart icon in image 1, changing its current white color to a flat silver. Use image 2 to guide the overall simple, graphic style of the icon.",
+  "annotator": "Johnny",
+  "objects": [
+    "Flat silver heart icon",
+    "Simple, graphic style",
+    "Black background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

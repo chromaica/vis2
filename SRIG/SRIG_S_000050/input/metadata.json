@@ -1,0 +1,28 @@
+{
+  "subtopic": "Websites",
+  "prompt": "Generate a Chinese news website for finance. Mimic the layout of a news homepage with prominent text articles and a large central media element, like the reference screenshot, focusing on a minimalist white background and clear typography.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://static01.nyt.com/images/redesign/2014.jpg",
+  "searchQueryGenerated": "Website screenshot example full page desktop view",
+  "searchQueryGeneratedTimestamp": 1749441503674,
+  "promptGeneratedTimestamp": 1749441629879,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a homepage for a Chinese finance news website. The layout should closely mimic the multi-column structure of image 1, featuring a minimalist white background and clear typography. Include a prominent, large central image element, similar to the main visual in image 1, with an associated headline below it. To the left of this central image, display a column of multiple text-heavy news articles with large, distinct headlines. To the right, arrange a column containing smaller news summaries, opinion pieces, or finance market data sections, consistent with the right-hand content in image 1.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Multi-column website layout",
+    "Minimalist white background",
+    "Clear typography",
+    "Prominent, large central image element",
+    "Headline below central image",
+    "Left column containing multiple text-heavy news articles with large headlines",
+    "Right column containing smaller news summaries",
+    "Right column containing opinion pieces",
+    "Right column containing finance market data sections",
+    "Website header with navigation bar"
+  ]
+}

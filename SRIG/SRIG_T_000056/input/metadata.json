@@ -1,0 +1,24 @@
+{
+  "task": "SRIG",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "Create a music festival poster with psychedelic themes with Swiss design grid system.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a music festival poster. The design should utilize a precise Swiss design grid system, inspired by the structured layout, clear lines, and organized typography evident in image 1. Integrate psychedelic elements through a vibrant, high-contrast color palette, gradient transitions, and abstract, dynamic graphic shapes that adhere meticulously to the underlying grid. Prominent textual graphics, such as the festival name and key dates, should be clearly presented within this structured yet visually engaging aesthetic.",
+  "annotator": "Johnny",
+  "objects": [
+    "Music festival poster",
+    "Precise Swiss design grid system",
+    "Abstract graphic shapes",
+    "Dynamic graphic shapes",
+    "Vibrant color palette",
+    "High-contrast color palette",
+    "Gradient transitions",
+    "Festival name (textual graphic)",
+    "Key dates (textual graphic)",
+    "Organized typography"
+  ]
+}

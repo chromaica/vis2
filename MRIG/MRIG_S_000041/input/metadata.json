@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Generate a screenshot of a music player interface that uses the layout and control button design from the first image, and is currently playing the song shown in the second image",
+  "cond_images": [
+    "1.png",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a screenshot of a music player interface. The overall layout and the design of interface elements, including control buttons (e.g., play, pause, skip), should replicate the style and arrangement provided in image 1. The player should be actively playing 'Earth Song' by Michael Jackson, prominently displaying the album art from image 2. Ensure the song title 'Earth Song' and artist name 'Michael Jackson' are clearly visible within the interface, positioned beneath or adjacent to the album art.",
+  "annotator": "paria",
+  "objects": [
+    "Music player interface screenshot",
+    "Music player layout (replicating arrangement from image 1)",
+    "Interface elements (replicating design and style from image 1)",
+    "Control buttons (play, pause, skip)",
+    "Album art (Michael Jackson 'HIStory' album cover from image 2)",
+    "Song title \"Earth Song\"",
+    "Artist name \"Michael Jackson\"",
+    "Song title \"Earth Song\" positioned beneath or adjacent to album art",
+    "Artist name \"Michael Jackson\" positioned beneath or adjacent to album art",
+    "Active song playback indicator"
+  ]
+}

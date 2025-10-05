@@ -1,0 +1,28 @@
+{
+  "subtopic": "Game assets",
+  "prompt": "Edit image 1: Transform the desk into a game development workstation. Replace the laptop screen content with the graphic design software from image 2, and add the drawing tablet from image 2 to the desk. Change the user to have a more casual appearance like the person in image 3, and add the coffee cup from image 3.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748455056530,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit `image 1` to transform the depicted medical workstation into a game development workstation. Replace the content on the laptop screen in `image 1` with the graphic design software interface from `image 2`. Add the drawing tablet from `image 2` onto the desk, positioning it to the right of the laptop, replacing the smartphone. Change the user's hands and visible upper body attire in `image 1` to a casual appearance, mirroring the style of the person in `image 3` wearing a floral top. Introduce the white coffee cup with latte art from `image 3` onto the desk, placing it to the left of the laptop, replacing the glass of water. Ensure all existing medical equipment from `image 1` (e.g., stethoscope, clipboard, thermometer) is removed from the desk.",
+  "annotator": "winston",
+  "objects": [
+    "Laptop with graphic design software interface",
+    "Drawing tablet on the desk, to the right of the laptop",
+    "User's hands with a casual appearance",
+    "User's upper body with casual attire (e.g., floral top style)",
+    "White coffee cup with latte art on the desk, to the left of the laptop",
+    "Smartphone (should not be present)",
+    "Glass of water (should not be present)",
+    "Stethoscope (should not be present)",
+    "Clipboard (should not be present)",
+    "Thermometer (should not be present)"
+  ]
+}

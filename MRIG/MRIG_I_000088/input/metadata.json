@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "Generate a shopping app home screen. Use input images as product cards. Each card should have the image, product name, price, and an 'Add to Cart' button.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg",
+    "4.png"
+  ],
+  "remarks": "",
+  "annotator": "matina",
+  "prompt_refined": "Generate a modern mobile shopping application home screen with a clean user interface. The screen should prominently display four distinct product cards arranged in a 2x2 grid layout.\n\nEach product card must feature its corresponding numbered image, a specific product name, a price, and an 'Add to Cart' button.\n\n*   **Top-Left Card:** Use image 1 (Nature Valley Crunchy Oats 'n Honey Granola Bars). Label it \"Nature Valley Granola Bars\" with a price of \"$4.99\".\n*   **Top-Right Card:** Use image 2 (Head & Shoulders Classic Clean Shampoo). Label it \"Head & Shoulders Shampoo\" with a price of \"$7.49\".\n*   **Bottom-Left Card:** Use image 3 (Heart-shaped Crystal Perfume Bottle). Label it \"Decorative Perfume Bottle\" with a price of \"$29.99\".\n*   **Bottom-Right Card:** Use image 4 (Tropicana 100% Orange Juice). Label it \"Tropicana Orange Juice\" with a price of \"$3.29\".\n\nInclude a search bar at the top of the screen and a navigation bar at the bottom.",
+  "objects": [
+    "Modern mobile shopping application home screen",
+    "Search bar at the top",
+    "Navigation bar at the bottom",
+    "2x2 grid layout of product cards",
+    "Product card with Nature Valley Granola Bars image, \"Nature Valley Granola Bars\" label, \"$4.99\" price, and \"Add to Cart\" button (top-left)",
+    "Product card with Head & Shoulders Shampoo image, \"Head & Shoulders Shampoo\" label, \"$7.49\" price, and \"Add to Cart\" button (top-right)",
+    "Product card with Heart-shaped Crystal Perfume Bottle image, \"Decorative Perfume Bottle\" label, \"$29.99\" price, and \"Add to Cart\" button (bottom-left)",
+    "Product card with Tropicana Orange Juice image, \"Tropicana Orange Juice\" label, \"$3.29\" price, and \"Add to Cart\" button (bottom-right)"
+  ],
+  "human_annotation": true
+}

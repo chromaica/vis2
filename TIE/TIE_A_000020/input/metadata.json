@@ -1,0 +1,21 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Painting",
+  "prompt": "Add a swing next to the little girl in the painting. The younger brother of the girl should be on the swing. Ensure the swing matches the art style of the original painting. Adjust the position of the little girl and the swing, so they centered right under the rainbow naturally.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, a child's drawing, to feature a swing. Place the swing to the left of the existing little girl, with a younger boy sitting on it. Adjust the positions of both the little girl and the new swing with the boy to be naturally centered directly below the rainbow. Ensure all added and repositioned elements maintain the distinctive drawing style of image 1.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "rainbow",
+    "sun",
+    "blue sky",
+    "green grass",
+    "little girl, repositioned to be naturally centered directly below the rainbow",
+    "swing, placed to the left of the little girl and naturally centered directly below the rainbow",
+    "younger boy, sitting on the swing"
+  ]
+}

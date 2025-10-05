@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "remove the cigarette from the man's mouth",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Remove the cigarette from the man's mouth. The man is positioned on the right side of the image, wearing a purple life vest and holding a fishing rod. Ensure the area where the cigarette was removed appears natural and seamlessly integrated with the man's face and the surrounding environment, as if the cigarette was never present.",
+  "annotator": "theblackcat",
+  "objects": [
+    "man on the right side",
+    "purple life vest",
+    "fishing rod",
+    "cigarette (should not be present)",
+    "green illuminated water",
+    "boat railing",
+    "dark night sky",
+    "distant lights on the horizon",
+    "fishing line in water",
+    "stools on the boat"
+  ]
+}

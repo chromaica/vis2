@@ -1,0 +1,20 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "Generate a realistic cell image from the sketch.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic microscopic image of an amoeboid cell. Use image 1 as a precise reference for the cell's irregular overall shape, the prominent central dark nucleus, and the distribution of smaller circular vesicles and irregular organelles scattered throughout the cytoplasm. Ensure the final generated image accurately translates the sketch from image 1 into a highly realistic cellular rendering.",
+  "annotator": "samin",
+  "objects": [
+    "Amoeboid cell",
+    "Irregular cell shape",
+    "Prominent central dark nucleus",
+    "Cytoplasm",
+    "Smaller circular vesicles",
+    "Irregular organelles"
+  ]
+}

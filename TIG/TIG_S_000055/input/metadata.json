@@ -1,0 +1,18 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": "Create a botanical plant nursery website with lush green gradients, animated growing plants, interactive care guides with hover effects, seasonal planting calendars, and watercolor-style backgrounds",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A screenshot of a botanical plant nursery website. The design features a prominent lush green gradient background with a soft watercolor texture. Display vibrant, healthy, and dynamically rendered plants throughout the layout, evoking a sense of growth. Include a clearly visible 'Interactive Plant Care Guides' section or button, designed to suggest hover functionality (e.g., a subtle glow or slight enlargement on focus). Integrate a distinct 'Seasonal Planting Calendar' element, such as a widget on the sidebar or a main content block. The overall aesthetic should be organic, clean, and inviting, with a dominant palette of greens, natural earth tones, and soft whites.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Website user interface",
+    "Lush green gradient background",
+    "Soft watercolor texture",
+    "Vibrant, healthy plants",
+    "\"Interactive Plant Care Guides\" section or button",
+    "\"Seasonal Planting Calendar\" element"
+  ]
+}

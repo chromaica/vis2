@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Stylized art",
+  "prompt": "Generate a portrait of the man in the first reference image, applying the artistic style and geometric abstraction of the second reference image.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a portrait of the man from image 1, rendered in the geometric abstract and cubist style observed in image 2, featuring fragmented planes, angular shapes, and a bold color palette.",
+  "annotator": "samin",
+  "objects": [
+    "Portrait of the man from image 1",
+    "Geometric abstract style",
+    "Cubist style",
+    "Fragmented planes",
+    "Angular shapes",
+    "Bold color palette",
+    "Eyes of the man from image 1",
+    "Nose of the man from image 1",
+    "Beard of the man from image 1",
+    "Hair of the man from image 1"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Pop art",
+  "prompt": "In the first image, replace the Pink Panther in the top right with Mr. Bean from the second image, and replace the Jordan blue shoes on the left with the Converse All Star shoes from the third image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the Pink Panther character located in the top-right corner of image 1 with the Mr. Bean character from image 2. Additionally, replace the blue Jordan athletic shoe on the left side of image 1 with the red Converse All Star shoes from image 3.",
+  "annotator": "paria",
+  "objects": [
+    "Mona Lisa character",
+    "Mr. Bean character (in the top-right corner)",
+    "Pink Panther character (should not be present)",
+    "Red Converse All Star shoes (on the left side)",
+    "Blue Jordan athletic shoe (should not be present)",
+    "Blue KAWS figure",
+    "Text \"ICONIC\"",
+    "Text \"POP ART\"",
+    "Text \"NOTHING IS UNDER CONTROL\"",
+    "Crowns and white dove"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

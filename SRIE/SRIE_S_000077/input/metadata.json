@@ -1,0 +1,29 @@
+{
+  "subtopic": "Receipts",
+  "prompt": "Edit image 1: Transform the header of the Central Eatery invoice to adopt the visual style of image 2's Idealpos header. Incorporate the purple background color, white text, and the high-tech logo concept from image 2 into image 1's header section.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751012821617,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit image 1: Redesign the top header section of image 1 to adopt the visual style of image 2's Idealpos header. Implement a prominent purple background strip across the full width of image 1's top, similar to the one in image 2. Within this new header, all original text elements from image 1's header (e.g., 'Central Eatery' name, 'INVOICE' title, and right-aligned invoice details) must be rendered in white. The 'Central Eatery' logo should be transformed into a modernized, high-tech version, conceptually aligning with the aesthetic of the Idealpos logo in image 2, while retaining its brand identity.",
+  "annotator": "ishengfang",
+  "objects": [
+    "prominent purple background strip across the full width of the top header",
+    "modernized, high-tech 'Central Eatery' logo in the header",
+    "'Central Eatery' name text in white",
+    "'INVOICE' title text in white",
+    "right-aligned invoice details text (e.g., invoice number, date, payment info) in white",
+    "\"BILL TO\" section",
+    "\"DELIVER TO\" section",
+    "green horizontal bar (from original image)",
+    "itemized invoice list (e.g., \"Basic BBQ Bar [Per Guest]\")",
+    "invoice summary details (e.g., Subtotal, Balance Due)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

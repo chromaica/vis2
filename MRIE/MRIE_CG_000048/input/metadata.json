@@ -1,0 +1,28 @@
+{
+  "subtopic": "VFX and Particles",
+  "prompt": "Edit image 1: Replace the starbursts and background rays with dynamic particle effects inspired by the spooky style of image 2. Render these particles with realistic textures and intricate details derived from the chimpanzee in image 3, creating a surreal VFX overlay.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748455735688,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1: Replace the entire existing background pattern, including the central starburst, radiating rays, and small star shapes, with dynamic particle effects. These particles should emanate from the central bottom of the image and spread outwards across the full background, creating a flowing, ethereal quality inspired by the spooky, translucent style of the ghost in image 2. Each individual particle should be rendered with highly realistic textures and intricate details derived from the fur and wrinkled skin textures visible in the chimpanzee's face in image 3, resulting in a surreal, organic, and otherworldly VFX overlay.",
+  "annotator": "winston",
+  "objects": [
+    "Two white bunnies wearing VR headsets",
+    "Speech bubble with \"HELLO\"",
+    "Central starburst (should not be present)",
+    "Radiating rays (should not be present)",
+    "Small star shapes (should not be present)",
+    "Dynamic particle effects in the background",
+    "Particles emanating from the central bottom and spreading outwards across the full background",
+    "Particles with a flowing, ethereal, spooky, and translucent quality",
+    "Particles with highly realistic textures, including fur and wrinkled skin details",
+    "Surreal, organic, and otherworldly VFX overlay"
+  ]
+}

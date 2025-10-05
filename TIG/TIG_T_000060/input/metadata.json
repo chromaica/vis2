@@ -1,0 +1,18 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "ASCII Art",
+  "prompt": "Visually render 'DATA FLOW' using only ASCII characters. The text should be formed by intricate patterns of small, glowing blue angle brackets ('>'), set against the backdrop of a dark, vintage computer monitor screen, complete with subtle scanline effects and a monospace grid.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate an image of the text 'DATA FLOW' formed entirely by intricate patterns of small, glowing blue angle brackets (>). The text should be displayed on a dark, vintage computer monitor screen, which features subtle scanline effects and a visible monospace grid.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Text 'DATA FLOW'",
+    "Small, glowing blue angle brackets",
+    "Intricate patterns of angle brackets",
+    "Dark, vintage computer monitor screen",
+    "Subtle scanline effects",
+    "Visible monospace grid"
+  ]
+}

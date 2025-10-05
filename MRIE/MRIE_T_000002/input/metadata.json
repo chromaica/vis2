@@ -1,0 +1,25 @@
+{
+  "task": "MRIE",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "Convert all the text on the books into the font of the second image. Finally, let the alien baby hold the books you have just converted.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "2.png source: https://elements.envato.com/classic-modern-font-EFQ7SLE?irgwc=1&clickid=1tZ0fF2dkxycWw7XwDyVny6NUksWji3lITkgQE0&iradid=298927&utm_campaign=elements_af_84779&iradtype=ONLINE_TRACKING_LINK&irmptype=mediapartner&utm_medium=affiliate&utm_source=impact_radius&mp=Compact%20Creative",
+  "prompt_refined": "Edit the image of the books (Image 1). First, replace all existing text on the book covers and spines in Image 1 (including titles like 'QUANTUM PHYSICS', 'for babies', and author names like 'Chris Ferrie') with the font style demonstrated in Image 2. After this textual modification, compose a scene where the alien baby from Image 3 is holding the updated stack of books. Position the alien baby prominently, centrally in the frame, with its tentacles or hands visibly cradling the books, ensuring the newly font-styled titles are clearly legible.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Stack of books",
+    "Text on book covers and spines (in the font style of Image 2)",
+    "Alien baby (from Image 3)",
+    "Alien baby's tentacles or hands",
+    "Alien baby centrally positioned in the frame",
+    "The alien baby holding the stack of books",
+    "Existing text on book covers and spines from Image 1 (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

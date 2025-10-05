@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "Magnified gemstone surface, highlighting unique mineral inclusions and shimmering facets.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A photorealistic macro photograph of a gemstone's surface, illuminated to brilliantly highlight intricate internal mineral inclusions and display shimmering facets. The gemstone fills the frame against a dark, out-of-focus background.",
+  "annotator": "cwhsu",
+  "objects": [
+    "gemstone",
+    "gemstone's surface",
+    "intricate internal mineral inclusions",
+    "shimmering facets",
+    "brilliant illumination",
+    "dark background",
+    "out-of-focus background",
+    "gemstone filling the frame"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

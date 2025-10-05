@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Add a \"Completion Date\" column after the \"Due Date\" column.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Add a new column titled 'Completion Date' into the table, positioning it immediately to the right of the 'Due Date' column and to the left of the 'Tags' column.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Window with desktop application interface",
+    "Left sidebar navigation",
+    "Top application header bar",
+    "\"Team Tasks\" main content title",
+    "Table displaying task information",
+    "\"Name\" column in the table",
+    "\"Due Date\" column in the table",
+    "\"Completion Date\" column, positioned to the right of \"Due Date\"",
+    "\"Tags\" column in the table, positioned to the right of \"Completion Date\"",
+    "Table rows populated with data, including new \"Completion Date\" entries"
+  ]
+}

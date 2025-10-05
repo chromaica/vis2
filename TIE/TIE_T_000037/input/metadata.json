@@ -1,0 +1,25 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": "Replace the boat background with an alien spaceship cockpit, preserving character positions.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the entire boat background, including the mast on the left, the railings, and the sky/sea, with an alien spaceship cockpit. The cockpit should feature futuristic controls, consoles, and windows displaying a view of deep space. Preserve the exact positions and appearances of the male character on the left and the female character on the right. Also, preserve the speech bubble, its text, and the \"THE NEXT MORNING...\" text at the top left, ensuring they remain overlaid on the new spaceship environment.",
+  "annotator": "matina",
+  "objects": [
+    "male character on the left",
+    "female character on the right",
+    "speech bubble",
+    "text \"STEVE. OH STEVE, GRAMPS WANTS TO SEE YOU. COME ABOARD.\"",
+    "text \"THE NEXT MORNING...\" at the top left",
+    "alien spaceship cockpit",
+    "futuristic controls",
+    "consoles",
+    "windows displaying a view of deep space",
+    "mast on the left (should not be present)"
+  ],
+  "human_annotation": true
+}

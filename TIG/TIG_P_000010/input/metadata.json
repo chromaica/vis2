@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "A vibrant microscopic view of colorful algae with intricate patterns under a high-powered lens.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic image of a vibrant, multicolored microscopic view of algae. The entire frame should be filled with intricate, swirling patterns of the algae, observed under a high-powered lens. Emphasize the extreme fine detail and the characteristic shallow depth of field.",
+  "annotator": "cwhsu",
+  "objects": [
+    "algae",
+    "microscopic view",
+    "vibrant colors",
+    "multicolored patterns",
+    "intricate patterns",
+    "swirling patterns",
+    "extreme fine detail",
+    "shallow depth of field",
+    "frame filled with algae"
+  ]
+}

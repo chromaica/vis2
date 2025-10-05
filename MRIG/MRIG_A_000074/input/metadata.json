@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "Create a dynamic digital artwork: the graceful silhouette form of the dancer from image 1, rendered entirely using the vibrant, swirling flame textures and colors showcased in image 2.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a dynamic digital artwork. The central subject is the graceful, full-body silhouette of the dancer from image 1. This dancer's form must be entirely composed of the vibrant, swirling flame textures and intense red, orange, and yellow hues from image 2, set against a dark background.",
+  "annotator": "samin",
+  "objects": [
+    "graceful dancer silhouette",
+    "full-body dancer",
+    "dancer composed of flame textures",
+    "vibrant flame textures",
+    "swirling flame textures",
+    "intense red hues",
+    "orange hues",
+    "yellow hues",
+    "dark background",
+    "dynamic digital artwork"
+  ]
+}

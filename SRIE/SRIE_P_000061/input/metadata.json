@@ -1,0 +1,26 @@
+{
+  "task": "SRIE",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Edit the source image: Replicate the bright, even lighting and crisp focus of the reference to enhance the couple's appearance and the overall clarity of the photograph.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 (the source image of the couple). Replicate the bright, even lighting and crisp, sharp focus from image 2 (the reference image). Specifically, apply this lighting and focus to the couple in image 1 (woman on the left, man on the right) to enhance their appearance. Additionally, ensure the entire photograph, including the background, achieves improved overall clarity and brightness, consistent with the reference image's quality.",
+  "annotator": "nimajamali",
+  "objects": [
+    "A couple",
+    "Woman on the left",
+    "Man on the right",
+    "Bright, even lighting",
+    "Crisp, sharp focus",
+    "Amusement park background",
+    "Ferris wheel (in background)",
+    "Enhanced overall clarity",
+    "Enhanced overall brightness"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

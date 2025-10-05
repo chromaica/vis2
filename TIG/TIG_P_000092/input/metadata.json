@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "A bright, colorful children's carousel in motion at a fairground, capturing joyful expressions and parents watching nearby.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A vibrant, colorful, ornate children's carousel spinning in full motion at a bustling fairground during the golden hour. Capture the joyful, ecstatic expressions of children riding the carousel. Parents are visible in the foreground, smiling warmly as they watch from the carousel's perimeter. The background features soft, blurred carnival lights and other distant fairground attractions.",
+  "annotator": "cwhsu",
+  "objects": [
+    "A vibrant, colorful, ornate children's carousel",
+    "Children riding the carousel",
+    "Joyful, ecstatic expressions on children",
+    "Parents in the foreground",
+    "Smiling parents",
+    "Bustling fairground setting",
+    "Golden hour lighting",
+    "Soft, blurred carnival lights in the background",
+    "Other distant fairground attractions in the background"
+  ]
+}

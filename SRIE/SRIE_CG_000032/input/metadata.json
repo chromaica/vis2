@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Depth maps",
+  "prompt": "Isolate and highlight the selected person by applying sharp focus and adding depth blur to the rest.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Isolate and highlight the person on the right, wearing a brown shirt and carrying a blue backpack, as precisely indicated by the red bounding box in image 2. Apply sharp focus specifically to this person, while adding a strong depth blur effect to all other areas and elements within the image.",
+  "annotator": "nimajamali",
+  "objects": [
+    "person on the right wearing a brown shirt and blue backpack (in sharp focus)",
+    "police officer in yellow vest (blurred)",
+    "police officer on the left (blurred)",
+    "yellow crime scene tape (blurred)",
+    "police car (blurred)",
+    "urban buildings (blurred)",
+    "bare trees (blurred)",
+    "pavement (blurred)",
+    "street lights (blurred)",
+    "concrete barriers (blurred)"
+  ]
+}

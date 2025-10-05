@@ -1,0 +1,28 @@
+{
+  "subtopic": "Traditional art",
+  "prompt": "Combining the two images together. The lady in image 1 use the umbrella as guard to prevent the guy in image 2 to attack her.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748498039638,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1. Integrate the man from image 2 into the scene. Position the man from image 2 in the foreground, facing the lady from image 1, in an aggressive, attacking posture with his sword drawn. The lady from image 1 should be using her umbrella as a defensive shield or guard, holding it directly between herself and the attacking man to prevent his advance.",
+  "annotator": "kellycyy",
+  "objects": [
+    "Lady (from image 1)",
+    "Umbrella (held by the lady)",
+    "Man (from image 2)",
+    "Man's drawn sword",
+    "Lady using umbrella as a defensive shield or guard",
+    "Man in the foreground",
+    "Man facing the lady",
+    "Man in an aggressive, attacking posture",
+    "Umbrella positioned directly between the lady and the man"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

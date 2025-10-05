@@ -1,0 +1,27 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "In image 1, replace the Marlboro cigarette pack with the Camel pack from image 2, and add the woman from image 3 sitting on the stairs below the woman in the pink dress at the bottom of the image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the Marlboro cigarette pack, currently held by hands in the upper portion of the image, with the Camel cigarette pack from image 2. Furthermore, integrate the woman from image 3 into image 1, placing her seated on the stairs directly below the woman in the pink dress who is at the bottom of the image.",
+  "annotator": "paria",
+  "objects": [
+    "Hands in the upper portion",
+    "Camel cigarette pack (held by hands in the upper portion)",
+    "Architectural setting with stairs",
+    "Woman in a green dress (standing in the doorway)",
+    "Woman in a pink dress (seated on the stairs)",
+    "Woman from image 3 (seated on the stairs directly below the woman in the pink dress)",
+    "Arched doorway with a view of the sea",
+    "Lamp post",
+    "Sunburst artistic element",
+    "Marlboro cigarette pack (should not be present)"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,25 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "Transform the training room into an ancient castle with knights instead of enemy targets.",
+  "cond_images": [
+    "1.jpeg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Transform the current training room environment into an ancient castle interior. Replace the modern concrete walls, exposed wooden beams, and arched windows with weathered stone walls, medieval-style windows, and a high, grand castle ceiling. Remove the modern scoreboard visible in the background. In the mid-ground and background, replace all the red-armored enemy targets with multiple knights wearing full medieval plate armor, positioned similarly as if in a formation or drill.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Ancient castle interior environment",
+    "Weathered stone walls",
+    "Medieval-style windows",
+    "High, grand castle ceiling",
+    "Castle floor",
+    "Multiple knights wearing full medieval plate armor, positioned similarly (in mid-ground and background)",
+    "Player's weapon in foreground",
+    "Player's hand/arm in foreground",
+    "Modern scoreboard (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

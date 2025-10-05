@@ -1,0 +1,20 @@
+{
+  "task": "SRIG",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Recreate the burning house girl meme by replacing the girl in the highlighted regions with a dog instead.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate the 'Disaster Girl' meme scene. Within the area defined by the white mask in image 1, replace the girl with a dog. Ensure the dog has a mischievous or nonchalant expression consistent with the meme's tone.",
+  "annotator": "Johnny",
+  "objects": [
+    "burning building",
+    "flames",
+    "smoke",
+    "dog in the foreground",
+    "mischievous or nonchalant expression on the dog",
+    "girl (should not be present)"
+  ]
+}

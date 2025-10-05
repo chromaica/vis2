@@ -1,0 +1,24 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "A pirate ship adventure scene with this rubber duck as the captain",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a new image depicting a pirate ship adventure scene. Use the tall ship from image 1 as the primary vessel, transformed into a pirate ship by replacing its existing flags with a prominent pirate flag (skull and crossbones). A small rubber duck, wearing a miniature pirate hat, is positioned heroically at the ship's helm, overlooking turbulent ocean waves. The scene should be dynamic, with dramatic lighting and a stormy or adventurous sky, presented in an artwork style.",
+  "annotator": "Johnny",
+  "objects": [
+    "pirate ship (transformed from the tall ship in image 1)",
+    "prominent pirate flag (skull and crossbones)",
+    "Union Jack flag (should not be present)",
+    "St. George's Cross flag (should not be present)",
+    "small rubber duck",
+    "miniature pirate hat (on the rubber duck)",
+    "ship's helm (with the rubber duck positioned there)",
+    "turbulent ocean waves",
+    "dramatic lighting",
+    "stormy or adventurous sky"
+  ]
+}

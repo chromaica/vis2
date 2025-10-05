@@ -1,0 +1,22 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "a space scene with asteroids positioned as in the reference binary mask.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic space scene featuring five distinct asteroids. Position these asteroids precisely according to the white shapes in the provided binary mask (image 1): two larger, irregularly shaped asteroids in the upper-left and upper-right areas, and three smaller, more circular asteroids centrally below them. Ensure no asteroids appear in the lower half of the image.",
+  "annotator": "samin",
+  "objects": [
+    "photorealistic space scene",
+    "five distinct asteroids",
+    "two large, irregularly shaped asteroids in the upper-left",
+    "two large, irregularly shaped asteroids in the upper-right",
+    "three smaller, more circular asteroids centrally below the larger ones",
+    "no asteroids in the lower half of the image"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

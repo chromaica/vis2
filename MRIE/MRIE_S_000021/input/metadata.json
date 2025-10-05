@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "QR Code",
+  "prompt": "Edit image 1 by replacing its current black-and-white QR code with the stylized Twitter QR code from image 2, scaled to fit the same width and aligned in the same position without overlapping the \u201cDownload PDF Ticket\u201d button. Then, replace the white background of image 1 with the pastel pink background from image 3 while keeping all text, buttons, and spacing intact.",
+  "cond_images": [
+    "1.jpg",
+    "2.png",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the current black-and-white QR code with the stylized Twitter QR code from image 2. Scale the new QR code to precisely match the width of the original and position it in the exact same location, ensuring it does not overlap the \"Download PDF Ticket\" button below it. Subsequently, change the white background of image 1 to the pastel pink background from image 3, while preserving all existing text, buttons, and their original spacing and positions.",
+  "annotator": "parnian",
+  "objects": [
+    "Pastel pink background",
+    "\"Price: 10.00\" text",
+    "\"Ticket redeemed\" text",
+    "\"Redeemed at: 2022-07-10 13:24:08\" text",
+    "Black button with \"Ticket valid\" and \"Refresh page\" text",
+    "Stylized Twitter QR code",
+    "\"2372920567-123-22045995076034217886\" text",
+    "Black button with \"Download PDF Ticket\" text",
+    "Black-and-white QR code (should not be present)"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,23 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "create the colored versions of this image",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "this is a SEM image of a human skin",
+  "prompt_refined": "Edit image 1, a grayscale microscopic image of a textured biological surface, by adding natural, photorealistic colors while preserving its original texture and structural details.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Microscopic biological surface",
+    "Natural colors",
+    "Photorealistic appearance",
+    "Rough texture",
+    "Structural details",
+    "Irregular folds",
+    "Flake-like surface elements",
+    "Shadows",
+    "Highlights"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Adjust the color palette of the colorbar and labels to a blue monotone.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Change the color palette of the vertical colorbar on the right side of the graph to a blue monotone, ranging from light to dark blue. Additionally, recolor the numerical labels (e.g., 20.00, 70.00) and the 'Population Density (/km\u00b2)' text label, all located adjacent to this colorbar, to a matching blue tone.",
+  "annotator": "cwhsu",
+  "objects": [
+    "3D scatter plot",
+    "vertical colorbar with blue monotone palette",
+    "numerical labels adjacent to colorbar in blue tone",
+    "'Population Density (/km\u00b2)' text label in blue tone",
+    "Title: 'Relationships of Water Supply, Sanitation and Urban Population Rate'",
+    "'Urban Population Percentage (%)' axis label",
+    "'Improved Drinking Water Coverage (%)' axis label",
+    "'Improved Sanitation Coverage (%)' axis label",
+    "data points (spheres and crosses)",
+    "country names next to data points"
+  ]
+}

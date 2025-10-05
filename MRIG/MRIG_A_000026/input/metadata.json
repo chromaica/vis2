@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "Create a collage featuring the single child from image 1 alongside the two children from image 2, arranged in a shared dreamlike scene with soft textures and playful hand-drawn elements, evoking a sense of connection and childhood imagination.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a new image in a collage style. Combine the single child from image 1 (the figure with the purple shirt) with the two children from image 2 (the girl with pigtails and the boy with the blue hat). Position the three children together in the center of a whimsical, dreamlike landscape. The entire scene should feature soft, crayon-like textures and distinctly childlike, hand-drawn outlines, similar to the provided reference images. The composition should convey a feeling of innocent connection and boundless childhood imagination.",
+  "annotator": "samin",
+  "objects": [
+    "A child wearing a purple shirt (from reference image 1)",
+    "A girl with pigtails (from reference image 2)",
+    "A boy with a blue hat (from reference image 2)",
+    "The three children positioned together in the center",
+    "A whimsical landscape",
+    "A dreamlike landscape",
+    "Collage style",
+    "Soft, crayon-like textures",
+    "Childlike, hand-drawn outlines",
+    "Elements conveying innocent connection"
+  ]
+}

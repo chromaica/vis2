@@ -1,0 +1,27 @@
+{
+  "subtopic": "Posters",
+  "prompt": "Edit image 1 (a poster about the power of words) by: structuring the surrounding text into distinct lists like image 2; incorporating a graphic illustration style from image 3; using the bold, block text style of image 4 for the main title; and arranging the remaining words into a word cloud format based on image 5.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg",
+    "4.jpeg",
+    "5.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749712056211,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "T",
+  "prompt_refined": "Edit image 1, the poster about the power of words:\n1.  Reformat the text on the left and right sides of the central figure (e.g., \"Peace, Love, Style\"; \"Suffering, Beauty\") into distinct, left-aligned vertical lists, mirroring the structure found in image 2.\n2.  Apply a clean graphic illustration style, inspired by the overall aesthetic of image 3, to the poster's background and textual elements.\n3.  Change the main title \"The Power of Words!\" at the top of the poster to utilize the bold, block text style seen in image 4.\n4.  Arrange the words currently curving around the central figure's neck (e.g., \"Understanding!\", \"Professionalism\") into a dense word cloud, varying in size and orientation, as demonstrated in image 5. This word cloud should be positioned within the background, surrounding the central figure.",
+  "annotator": "winston",
+  "objects": [
+    "Central figure (man shouting)",
+    "Poster background",
+    "Main title \"The Power of Words!\" at the top",
+    "Left-aligned vertical list of words on the left side",
+    "Left-aligned vertical list of words on the right side",
+    "Word cloud surrounding the central figure in the background"
+  ],
+  "human_annotation": true
+}

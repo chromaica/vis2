@@ -1,0 +1,29 @@
+{
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "Edit image 1 by performing instance segmentation: replace the left person with the school bus from image 2. Add the segmented boat from image 3 floating in the water. Overlay the segmented scoreboard from image 4 onto the sky area. Apply the overall grunge texture and lighting style from image 5's segmented room environment to the remaining beach and water areas.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg",
+    "4.jpeg",
+    "5.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749489749779,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1 by replacing the leftmost person with the school bus from image 2, scaled and perspectively matched to fit the scene. Introduce the boat from image 3, placing it to float in the ocean area of image 1, to the right of the newly placed bus. Overlay the scoreboard from image 4 onto the upper sky area of image 1, ensuring it is clearly visible. Apply the grunge texture and the dark, desaturated lighting style from image 5's room environment to the beach sand and ocean water areas of image 1.",
+  "annotator": "winston",
+  "objects": [
+    "leftmost person (should not be present)",
+    "two people",
+    "school bus",
+    "boat",
+    "scoreboard",
+    "ocean water with grunge texture and dark, desaturated lighting",
+    "beach sand with grunge texture and dark, desaturated lighting",
+    "sky",
+    "people swimming in the ocean"
+  ]
+}

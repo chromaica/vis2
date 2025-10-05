@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Glitch Art",
+  "prompt": "An old-fashioned television with a cracked screen emitting chaotic streams of vibrant glitch patterns.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A vintage, cathode-ray tube (CRT) television with a prominently fractured screen, from which intensely vibrant, chaotic streams of digital glitches and pixelated static are erupting and flowing outwards.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Vintage cathode-ray tube (CRT) television",
+    "Prominently fractured screen",
+    "Intensely vibrant, chaotic streams of digital glitches",
+    "Pixelated static",
+    "Streams erupting from the screen",
+    "Streams flowing outwards"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

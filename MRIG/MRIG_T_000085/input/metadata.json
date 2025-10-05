@@ -1,0 +1,24 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "Create a branding word like 'ZENSA' using the font from the third image, the color scheme of the first, and geometric centering with space around like the second.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a wordmark logo for 'ZENSA'. Render 'ZENSA' using a font style inspired by the elegant serif typeface of image 3. Apply the color scheme from image 1, featuring white text on a solid red background. The wordmark should be geometrically centered on the canvas, with ample clear space surrounding it, replicating the compositional layout of image 2.",
+  "annotator": "parnian",
+  "objects": [
+    "wordmark logo",
+    "text \"ZENSA\"",
+    "elegant serif typeface",
+    "white text color",
+    "solid red background",
+    "geometrically centered wordmark",
+    "ample clear space around the wordmark"
+  ],
+  "human_annotation": true
+}

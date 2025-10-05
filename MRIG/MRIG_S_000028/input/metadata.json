@@ -1,0 +1,20 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "Generate a movie ticket receipt using retro movie poster fonts from the first image and popcorn-box striping pattern from the second.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a vintage movie ticket receipt. The typography for the movie title and other key textual details on the receipt should reflect the bold, retro movie poster font styles seen in the film title and actor names on image 1. Additionally, incorporate the distinctive vertical red and white stripe pattern from the popcorn box in image 2 as a decorative border along the top and bottom edges of the ticket.",
+  "annotator": "paria",
+  "objects": [
+    "vintage movie ticket receipt",
+    "movie title on the receipt (with bold, retro movie poster font style)",
+    "key textual details on the receipt (with bold, retro movie poster font style)",
+    "vertical red and white stripe pattern border along the top edge of the ticket",
+    "vertical red and white stripe pattern border along the bottom edge of the ticket"
+  ]
+}

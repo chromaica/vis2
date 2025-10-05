@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "In image 1, which contains the web design wireframes, replace the four squares in the 'Our Team' section with the characters from images 2, 3, 4, and 5.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png",
+    "4.png",
+    "5.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, which contains a web design wireframe diagram. Locate the 'Our Team' section, positioned in the bottom-left panel of the wireframe layout. Within this 'Our Team' section, replace each of the four existing square placeholder elements (each containing a generic person icon) with one of the full-body character images provided in reference images 2, 3, 4, and 5. Ensure that all four characters are used, each occupying the space of one original placeholder square.",
+  "annotator": "maxku",
+  "objects": [
+    "Web design wireframe diagram",
+    "'Our Team' section in the bottom-left panel",
+    "Four square placeholder elements in the 'Our Team' section",
+    "Green frog-like character (from reference image 2)",
+    "Blue/white frog-like character (from reference image 3)",
+    "Red frog-like character (from reference image 4)",
+    "Yellow/orange frog-like character (from reference image 5)",
+    "Generic person icons (should not be present)",
+    "'Our Portfolio' section of the wireframe",
+    "'Our Services' section of the wireframe"
+  ]
+}

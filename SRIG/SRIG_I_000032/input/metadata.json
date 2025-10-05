@@ -1,0 +1,18 @@
+{
+  "subtopic": "Icons and symbols",
+  "prompt": "Generate \"Get my Location\" icon based on the map lcoation pin icon style.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://cdn-icons-png.flaticon.com/512/9356/9356230.png",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate a 'Get my Location' icon. The icon should adopt the minimalist, flat design style and color palette (red, white, turquoise) of the map pin icon presented in image 1. Integrate visual elements, such as subtle concentric circles or a target reticle, within or subtly radiating from the central white circle of the pin, to clearly convey 'current location' or 'location acquisition', while maintaining the overall clean and graphic aesthetic of the reference image.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "red map pin shape",
+    "central white circle",
+    "turquoise base/shadow",
+    "subtle concentric circles (within or radiating from the central white circle)"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "subtopic": "Global Illumination",
+  "prompt": "Apply a depth-of-field effect to image 1, focusing on the foreground laptop like image 3. Replace the laptop screen content with a perspective view of the computer graphics game from image 2.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748455366002,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1. Apply a depth-of-field effect, ensuring the foreground silver laptop is in sharp focus while the background office environment, including the shelves and binders, is artistically blurred, similar to the depth of field observed in image 3. Replace the content on the laptop's screen with the computer graphics racing game scene from image 2, accurately adapting it to a perspective view on the laptop's display.",
+  "annotator": "winston",
+  "objects": [
+    "silver laptop",
+    "laptop screen displaying a racing game scene",
+    "racing game car (on laptop screen)",
+    "racing game environment/track (on laptop screen)",
+    "desk/table",
+    "office environment (blurred background)",
+    "shelves (blurred background)",
+    "binders (blurred background)"
+  ]
+}

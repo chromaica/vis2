@@ -1,0 +1,18 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "Depth maps",
+  "prompt": "A depth map of a man flying a kite in a park, with trees in the background. A dog is running around the man.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A grayscale depth map of a man flying a kite in a park. A dog is running around the man. Trees are distinctly visible in the background.",
+  "annotator": "maxku",
+  "objects": [
+    "grayscale depth map",
+    "man",
+    "kite",
+    "park",
+    "dog",
+    "trees in the background"
+  ]
+}

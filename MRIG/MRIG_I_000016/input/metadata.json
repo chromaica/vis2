@@ -1,0 +1,31 @@
+{
+  "subtopic": "Icons and symbols",
+  "prompt": "Generate a grid of diverse information graphics icons, representing various topics similar to those in image 2, but rendered using the clean line-based style and teal/blue color palette from image 1.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "Information Graphics Icon Set Vector",
+  "searchQueryGeneratedTimestamp": 1750588714396,
+  "promptGeneratedTimestamp": 1750588810683,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "I",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a grid of diverse information graphics icons. The icons should cover a wide range of topics, drawing inspiration from the varied subjects presented in image 2 (e.g., Medical, Transport, Financial, Environmental, etc.). Each icon must adhere to the clean, minimalist line-based style seen in image 1, utilizing its distinct two-tone teal and dark blue color palette, where dark blue forms the primary outlines and teal highlights specific elements within the icons.",
+  "objects": [
+    "A grid arrangement of icons",
+    "Multiple information graphics icons",
+    "Icons with a clean, minimalist, line-based style",
+    "Icons with dark blue outlines",
+    "Icons with teal highlights",
+    "An icon representing medical topics",
+    "An icon representing transport topics",
+    "An icon representing financial topics",
+    "An icon representing environmental topics",
+    "An icon representing data or statistics topics"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

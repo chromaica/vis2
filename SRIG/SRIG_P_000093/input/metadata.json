@@ -1,0 +1,21 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "a realistic microscopy image of a bacterial colony, following the shape and structure of the reference image.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic microscopy image of a bacterial colony. The individual bacteria composing this colony should strongly resemble the bacterium shown in image 1, replicating its distinct elongated oval shape, green cellular body, and numerous blue, wavy flagella-like appendages.",
+  "annotator": "samin",
+  "objects": [
+    "Microscopy image",
+    "Bacterial colony",
+    "Bacteria with elongated oval shape",
+    "Green bacterial bodies",
+    "Blue flagella-like appendages",
+    "Wavy flagella-like appendages",
+    "Numerous flagella-like appendages"
+  ]
+}

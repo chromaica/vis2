@@ -1,0 +1,23 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "oil paintings",
+  "prompt": "A majestic lion perched atop a rocky hill, its mane cascading with intricate oil paint textures, overlooking a sprawling savanna under a golden sunset.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "An artwork featuring a majestic lion perched atop a rocky hill. Its mane cascades with intricate oil paint textures. The lion overlooks a sprawling savanna, bathed in the light of a golden sunset.",
+  "annotator": "cwhsu",
+  "objects": [
+    "majestic lion",
+    "rocky hill",
+    "lion perched atop rocky hill",
+    "lion's mane",
+    "intricate oil paint textures (on mane)",
+    "sprawling savanna",
+    "golden sunset",
+    "golden sunset light",
+    "artwork aesthetic"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

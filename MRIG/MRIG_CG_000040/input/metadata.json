@@ -1,0 +1,26 @@
+{
+  "subtopic": "VFX and Particles",
+  "prompt": "A computer graphics render showing a realistic red apple (from image 1) disintegrating into a dynamic swarm of small, yellow, particle-like objects, visually inspired by the pile in image 2, showcasing VFX.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748422672729,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a computer graphics render featuring a realistic red apple, matching the appearance of the apple in image 1, centrally positioned and actively disintegrating. The apple should transform into a dynamic, dispersing swarm of numerous small, yellow, particle-like objects. These particles should be visually inspired by the individual yellow components in the pile shown in image 2, emulating their color, rounded shape, and distinctness, while maintaining a digital VFX aesthetic.",
+  "annotator": "winston",
+  "objects": [
+    "Realistic red apple (matching appearance in image 1)",
+    "Centrally positioned apple",
+    "Actively disintegrating apple",
+    "Dynamic, dispersing swarm of numerous small yellow particle-like objects",
+    "Particles with rounded shape (visually inspired by image 2)",
+    "Particles with distinctness (visually inspired by image 2)",
+    "Computer graphics render aesthetic",
+    "Digital VFX aesthetic"
+  ],
+  "human_annotation": true
+}

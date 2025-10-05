@@ -1,0 +1,21 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "Generate an event poster with the title 'A Night of Magic and Persian Flavor' using the three people (Harry Potter trio) from the first image and the traditional Iranian food setting from the second image with 30% opacity in the background.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate an event poster. The central focus of the poster should be the three young students (Harry, Hermione, and Ron) depicted in image 1, positioned prominently in the foreground. The background of the poster should subtly incorporate the entire traditional Iranian food spread and patterned table fabric from image 2, rendered with 30% opacity. Clearly display the title 'A Night of Magic and Persian Flavor' somewhere suitable on the poster.",
+  "annotator": "parnian",
+  "objects": [
+    "three young students (Harry, Hermione, and Ron) positioned prominently in the foreground",
+    "traditional Iranian food spread in the background, with 30% opacity",
+    "patterned table fabric in the background, with 30% opacity",
+    "text title \"A Night of Magic and Persian Flavor\""
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

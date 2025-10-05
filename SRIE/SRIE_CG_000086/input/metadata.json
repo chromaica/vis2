@@ -1,0 +1,20 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Depth maps",
+  "prompt": "Add the tree to the hilltop, ensuring depth matches the distant background.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit Image 1. Place the tree from Image 2 onto the prominent hilltop in the mid-ground, located to the left of the scene's center. Integrate the tree seamlessly, adjusting its size, lighting, and atmospheric depth to match the perspective of the distant hills and overall scene in Image 1.",
+  "annotator": "nimajamali",
+  "objects": [
+    "rolling green hills",
+    "distant hills",
+    "blue sky",
+    "a tree on the prominent hilltop in the mid-ground, to the left of the scene's center",
+    "rocky outcrops"
+  ]
+}

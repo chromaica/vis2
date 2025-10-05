@@ -1,0 +1,24 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Lively farmer\u2019s market scene, colorful produce stands with shoppers browsing amidst lively conversations and rustic stalls.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A vibrant, photorealistic outdoor farmer's market scene with numerous rustic wooden stalls, abundantly piled with colorful, fresh produce such as ruby red tomatoes, leafy green lettuces, bright yellow corn, and purple eggplants. Diverse shoppers are actively browsing, inspecting, and selecting produce while engaged in lively conversations, positioned in front of and between the bustling market stalls. Sunlight streams into the scene, highlighting the rich textures and vibrant hues.",
+  "annotator": "cwhsu",
+  "objects": [
+    "outdoor farmer's market scene",
+    "numerous rustic wooden stalls",
+    "colorful fresh produce piled abundantly",
+    "ruby red tomatoes",
+    "leafy green lettuces",
+    "bright yellow corn",
+    "purple eggplants",
+    "diverse shoppers",
+    "shoppers browsing, inspecting, and selecting produce",
+    "sunlight streaming into the scene"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

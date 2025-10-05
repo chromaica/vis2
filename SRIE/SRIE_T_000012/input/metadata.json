@@ -1,0 +1,24 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "Change the image's pose match this action stance.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Transform the textual graphics skeleton in image 1 to precisely match the pose of the simpler skeleton figure shown in image 2. The textual skeleton's arms should be raised vertically overhead with open hands, and its legs should be aligned together and pointed downwards, replicating the exact posture from image 2.",
+  "annotator": "matina",
+  "objects": [
+    "textual graphics skeleton",
+    "skeleton with arms raised vertically overhead",
+    "skeleton with open hands",
+    "skeleton with legs aligned together",
+    "skeleton with legs pointed downwards",
+    "black background",
+    "\"AARON KUEHN\" text"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

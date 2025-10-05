@@ -1,0 +1,29 @@
+{
+  "subtopic": "3D renders",
+  "prompt": "Create a 3D render utilizing the stylized character design seen in image 2. Show this character engaged in interacting with a laptop, capturing the user concept demonstrated in image 1. This combines the 3D style of image 2 with the computer use theme of image 1.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748423459476,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a 3D render featuring the stylized female character from image 2. Position her seated at a table, intently focused on and interacting with an open laptop, drawing inspiration from the attentive user posture and engagement shown in image 1. The laptop should be centrally placed in front of her, with her hands near the keyboard or trackpad. Ensure the overall image maintains the distinct 3D style and clean aesthetic presented in image 2.",
+  "annotator": "winston",
+  "objects": [
+    "stylized female character (from image 2)",
+    "table",
+    "open laptop",
+    "female character seated at the table",
+    "female character intently focused on the laptop",
+    "female character's hands near the laptop keyboard or trackpad",
+    "laptop centrally placed in front of the character",
+    "attentive user posture (inspired by image 1)",
+    "3D render style",
+    "clean aesthetic"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,25 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Stylized art",
+  "prompt": "A garden with only tall oak trees in similar style of the image.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate an artwork of a garden scene. The garden should exclusively feature tall, mature oak trees, replacing all other types of trees and prominent shrubs depicted in image 1. The scene must maintain the compositional layout, artistic style, warm autumnal color palette, and soft lighting of image 1, including elements such as the paved pathway, scattered fallen leaves, and distant background structures.",
+  "annotator": "Johnny",
+  "objects": [
+    "Tall, mature oak trees",
+    "Garden scene",
+    "Paved pathway",
+    "Scattered fallen leaves",
+    "Distant background structures",
+    "Warm autumnal color palette",
+    "Soft lighting",
+    "Compositional layout of image 1",
+    "Artistic style of image 1",
+    "Original non-oak tree types (should not be present)",
+    "Prominent shrubs (should not be present)"
+  ]
+}

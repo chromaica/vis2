@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "Transform the map continents into colorful, textured puzzle pieces.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Transform the dark blue world map continents in the center of the image. Make each continent appear as a unique, distinctly colored and textured puzzle piece. The continents should have visible interlocking edges, creating the impression of a jigsaw puzzle map.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Top blue header band",
+    "Small folded map icon",
+    "\"Market Share by Continent\" text",
+    "\"2019-2022\" text",
+    "Cream/beige background",
+    "World map continents as unique, distinctly colored, textured puzzle pieces with interlocking edges",
+    "Circular data label for North America (60M North America)",
+    "Circular data label for Europe (51M Europe)",
+    "Circular data label for South America (40M South America)",
+    "Circular data label for Asia-Pacific (55M Asia-Pacific)"
+  ]
+}

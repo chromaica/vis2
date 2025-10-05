@@ -1,0 +1,23 @@
+{
+  "subtopic": "Physics Simulation",
+  "prompt": "Change the wall's material to be highly reflective metal, showing stronger reflection paths.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751762651025,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1: Convert the white wall on the right into a highly reflective metal surface. Ensure the existing colored reflection paths, originating from the white sphere and bouncing off the wall, appear significantly more intense and well-defined due to the increased reflectivity.",
+  "annotator": "edisy",
+  "objects": [
+    "Grey background",
+    "Black square",
+    "White sphere",
+    "Highly reflective metal wall on the right",
+    "Intense colored reflection paths bouncing off the wall",
+    "Well-defined colored reflection paths bouncing off the wall"
+  ],
+  "human_annotation": true
+}

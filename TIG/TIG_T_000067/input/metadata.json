@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "A striking branding image: 'Build Bold' in bold 3D text made of polished bronze with beveled edges, contrasted against a dark, rough textured concrete background.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "High-resolution branding image: The words 'Build Bold' rendered as bold, three-dimensional text crafted from highly polished bronze with distinct beveled edges. The text is sharply contrasted against a dark, rough-textured concrete background.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "The words \"Build Bold\"",
+    "Three-dimensional text",
+    "Bold text",
+    "Highly polished bronze material",
+    "Distinct beveled edges",
+    "Dark concrete background",
+    "Rough-textured concrete texture"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

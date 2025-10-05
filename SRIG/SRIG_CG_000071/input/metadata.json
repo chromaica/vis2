@@ -1,0 +1,21 @@
+{
+  "subtopic": "CAD models",
+  "prompt": "Generate a detailed 3D CAD model rendering of a bird, guided by the reference image's subject and pose. Employ realistic computer graphics shading and lighting techniques for intricate detail.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://storage.needpix.com/rsynced_images/wara-wara-333083_1280.jpg",
+  "promptGeneratedTimestamp": 1748768961225,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a detailed 3D CAD model rendering of a Crested Caracara, precisely matching the bird's pose and composition from image 1. Depict the bird standing on a spiny cactus, viewed from a low angle against a clear blue sky. Apply realistic computer graphics shading and lighting techniques to achieve intricate detail.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Crested Caracara",
+    "spiny cactus",
+    "clear blue sky"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,27 @@
+{
+  "subtopic": "Maps",
+  "prompt": "Create an information graphic map. Overlay a simplified map base with the complex, layered data visualization from image 1. Render the image in the clean, minimalist vector style and limited color palette of image 2, including abstract data flow icons.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1750576064735,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "I",
+  "annotator": "htwong",
+  "prompt_refined": "Generate an information graphic map featuring a simplified geographical map base. Overlay this base with a complex, multi-layered data visualization. This visualization must incorporate visual characteristics from the chart in image 1, specifically oscillating curves, smooth lines, and distinct data points, rendered as abstract data representations such as flow lines or interconnected elements on the map. Render the entire graphic in the clean, minimalist vector style and limited color palette of image 2, predominantly using light blue, light pink, black, and white for all graphic elements. Strategically integrate abstract data flow icons along the visualized data paths to emphasize movement or connection.",
+  "objects": [
+    "simplified geographical map base",
+    "complex, multi-layered data visualization",
+    "oscillating curves (within visualization)",
+    "smooth lines (within visualization)",
+    "abstract data representations (e.g., flow lines, interconnected elements)",
+    "distinct data points (as abstract representations)",
+    "abstract data flow icons",
+    "light blue graphic elements",
+    "light pink graphic elements",
+    "black graphic elements"
+  ]
+}

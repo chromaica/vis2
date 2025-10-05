@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "A detailed view of Saturn, highlighting its iconic rings, with shades of beige and pale yellow, casting shadows in the void of space.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a highly detailed, photorealistic image of Saturn. Its iconic rings are prominently highlighted, rendered in a palette of beige and pale yellow. Saturn and its rings cast deep, intricate shadows into the dark void of space.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Photorealistic Saturn",
+    "Saturn's iconic rings",
+    "Rings in beige color",
+    "Rings in pale yellow color",
+    "Prominently highlighted rings",
+    "Deep shadows",
+    "Intricate shadows",
+    "Shadows cast by Saturn",
+    "Shadows cast by Saturn's rings",
+    "Dark void of space"
+  ]
+}

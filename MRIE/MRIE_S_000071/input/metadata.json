@@ -1,0 +1,27 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "Edit image 1 by replacing the smartwatch image with the Apple Pay logo from image 2, scaled to fit within the same height. Add the VISA logo from image 3 underneath the address line as the primary card used. Do not modify the order number or tracking section.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the provided email screenshot, image 1, by performing the following modifications:\n\n1.  **Replace the existing smartwatch image** in image 1, which is centrally located below \"Order Shipped\", with the Apple Pay logo from image 2. The Apple Pay logo should be scaled to fit within the exact height of the original smartwatch image while maintaining its aspect ratio.\n2.  **Insert the VISA logo** from image 3. Position this logo horizontally centered, directly below the 'Delivery Address' text block (specifically, below the 'USA' line) and above the 'TRACK ORDER' button. This addition signifies the primary card used.\n3.  **Ensure that the 'Order ID #3838 | Date Mon,18 Sep 2030' line and the entire tracking section** (which includes the 'TRACK ORDER' button and 'Arriving: 11/11/2020' text) **remain completely unchanged**.",
+  "annotator": "parnian",
+  "objects": [
+    "Smartwatch image (should not be present)",
+    "The WEEKLY CREATIVE BLOG logo",
+    "Delivery truck illustration",
+    "\"Order Shipped\" text",
+    "\"Order ID #3838 | Date Mon,18 Sep 2030\" line",
+    "Apple Pay logo",
+    "\"Delivery Address\" text block",
+    "VISA logo",
+    "TRACK ORDER button",
+    "\"Arriving: 11/11/2020\" text"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,26 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Change the UI style to a minimalist monochrome theme using grayscale for all elements.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, a screenshot of a software application's user interface, by redesigning its entire visual style into a minimalist, monochrome theme. All UI components, including the application window frame, title bar, menu bar, toolbars (top and left), side panels, status bar, and the main diagram area with its lines, shapes, icons, and text, must be rendered exclusively in shades of grayscale (black, white, and various grays). The updated design should prioritize simplicity, clean lines, and reduced visual clutter.",
+  "annotator": "cwhsu",
+  "objects": [
+    "application window frame",
+    "title bar",
+    "menu bar",
+    "top toolbar",
+    "left side panel (with directory tree and component library)",
+    "vertical toolbar on the right side of the main diagram area",
+    "status bar",
+    "main diagram area background",
+    "diagram lines, shapes, and icons",
+    "diagram text elements"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

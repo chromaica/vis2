@@ -1,0 +1,24 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Oil painting",
+  "prompt": "First, add the hat from image 2 onto the head of the girl in image 1, and then convert the style of the resulting image to the blue pen drawing style of image 3.",
+  "cond_images": [
+    "1.jpg",
+    "2.png",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Place the straw hat, adorned with flowers and a feather, from image 2 onto the head of the girl in image 1. Subsequently, transform the entire image into the distinct blue pen drawing style demonstrated in image 3.",
+  "annotator": "paria",
+  "objects": [
+    "Girl",
+    "Straw hat on the girl's head",
+    "Flowers on the straw hat",
+    "Feather on the straw hat",
+    "Mandolin",
+    "Girl's traditional attire",
+    "Textured background",
+    "Blue pen drawing style"
+  ]
+}

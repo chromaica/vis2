@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "Design a cryptocurrency wallet icon as a piggy bank with circuit board patterns, copper and electric blue, cyberpunk aesthetic",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A digital icon of a cyberpunk cryptocurrency wallet, rendered as a futuristic piggy bank. Its surface features intricate circuit board patterns glowing with electric blue lines, set against a backdrop of brushed copper. The overall aesthetic is gritty, high-tech, and darkly illuminated.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Cyberpunk cryptocurrency wallet",
+    "Futuristic piggy bank form",
+    "Intricate circuit board patterns",
+    "Electric blue glowing lines",
+    "Brushed copper backdrop",
+    "Dark illumination"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

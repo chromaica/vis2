@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Concrete Poetry",
+  "prompt": "Concrete poetry in action: the word 'RISE' is stacked vertically, with each letter growing larger as it ascends, against a stark, clean background.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A concrete poem featuring the word 'RISE' arranged vertically. The letter 'R' is at the bottom, 'I' above it, 'S' next, and 'E' at the top. Each subsequent letter ascending upwards is visibly larger than the one below it, creating a progressive increase in scale from the smallest 'R' to the largest 'E'. The entire typographic composition is centrally placed against a stark, clean, and minimalist background.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Letter 'R' (bottom, smallest)",
+    "Letter 'I' (above 'R', larger than 'R')",
+    "Letter 'S' (above 'I', larger than 'I')",
+    "Letter 'E' (top, largest, above 'S')",
+    "Letters 'R', 'I', 'S', 'E' arranged vertically",
+    "Progressive increase in letter scale from bottom to top",
+    "Centrally placed typographic composition",
+    "Stark, clean, minimalist background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

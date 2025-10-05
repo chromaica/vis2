@@ -1,0 +1,24 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "Edit image 1: Place the anime hero character from image 2 onto the plateau near the mountain as a player marker, and scatter several cute green monsters like the one in image 3 around the lake area as encounter points on this isometric map.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, an isometric island map. Integrate the anime hero character from image 2 onto the grassy plateau in the upper-middle area, adjacent to the mountain, to serve as a player marker. Furthermore, scatter several instances of the cute green monster, inspired by image 3, across the grassy region encircling the central lake, presenting them as distinct encounter points on the map.",
+  "annotator": "maxku",
+  "objects": [
+    "isometric island map",
+    "mountain with snow",
+    "pine trees",
+    "central lake",
+    "grassy regions",
+    "cliff face",
+    "anime hero character on the grassy plateau, upper-middle area, adjacent to the mountain",
+    "multiple cute green monsters scattered across the grassy region encircling the central lake"
+  ]
+}

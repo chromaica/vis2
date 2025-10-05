@@ -1,0 +1,27 @@
+{
+  "subtopic": "Receipts",
+  "prompt": "Edit image 1 (bank receipt screenshot). Replace the top 'Paid' section with the branding and header style from image 2 (Geek Squad receipt). Make the header area in image 1 visually resemble the top of image 2.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751013410617,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit image 1 (the bank receipt screenshot). Replace the top section, which currently displays the green 'Paid' status and 'Deposit receipt number', with the header branding and style from image 2 (the Geek Squad receipt). Specifically, transfer the 'Geek Squad' logo, the 'DATE: 11-18-2022' text, and the introductory paragraph (beginning 'Your Subscription with GEEK SQUAD will Renew Today...') into this header area of image 1. The new header should visually replicate the layout, font styles, and overall aesthetic of the top portion of image 2.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Geek Squad logo",
+    "\"DATE: 11-18-2022\" text",
+    "Introductory paragraph starting \"Your Subscription with GEEK SQUAD will Renew Today and $419.00 is about to be Debited from your account by Today...\"",
+    "Bank receipt main body (From, To, Amount, Scheduled pymt date, Payment ID)",
+    "\"From Westpac Choice 734-316 8465\" text",
+    "\"To 014-506 2874 AUSTRALIA NEW ZEALAND BANKING GROUP\" text",
+    "\"$24,000.00\" amount text",
+    "Red \"Done\" button",
+    "Green \"Paid\" status (should not be present)",
+    "\"Deposit receipt number 2446098\" text (should not be present)"
+  ]
+}

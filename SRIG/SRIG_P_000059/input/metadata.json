@@ -1,0 +1,21 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Medical images",
+  "prompt": "a 3D CT-like rendering of the person\u2019s skull from the refernce face in the image, maintaining accurate bone structure and facial proportions.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic 3D rendering of the skull corresponding to the person in image 1. The rendering should mimic the appearance of a CT scan, accurately depicting the bone structure and maintaining the precise facial proportions and frontal orientation of the face shown in image 1.",
+  "annotator": "samin",
+  "objects": [
+    "photorealistic 3D rendering of a skull",
+    "CT scan appearance",
+    "detailed bone structure",
+    "skull with precise facial proportions",
+    "frontally oriented skull"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,28 @@
+{
+  "subtopic": "Games",
+  "prompt": "Using the 2D angle view of Angry Bird screenshot as reference, please generate 3D angle view version of Angry Birds screenshots.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://cdn.mobygames.com/0b217120-ac1a-11ed-833b-02420a000131.webp",
+  "searchQueryGenerated": "Detailed high resolution game screenshot.",
+  "searchQueryGeneratedTimestamp": 1749435463109,
+  "promptGeneratedTimestamp": 1749435572842,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a 3D angle view of the Angry Birds game scene depicted in image 1. The scene should feature the red bird in the slingshot on the left, positioned on a brown dirt mound. The foreground includes a dark blue rocky base topped with green grass, extending towards the right. In the middle and right, render multiple stacks of green pigs, some supported by brown wooden crates, maintaining their original arrangement from image 1. The background should show the light blue sky with subtle white cloud shapes and pale blue tree silhouettes. Include the 'Score: 10' text in the top-right corner, integrated into the 3D perspective. The overall visual style should transform the 2D elements from image 1 into a consistent 3D cartoon style.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "red bird in the slingshot on the left",
+    "brown dirt mound on the left",
+    "dark blue rocky base in the foreground",
+    "green grass on the dark blue rocky base",
+    "multiple stacks of green pigs in the middle and right",
+    "brown wooden crates supporting pig stacks",
+    "light blue sky in the background",
+    "subtle white cloud shapes in the background",
+    "pale blue tree silhouettes in the background",
+    "'Score: 10' text in the top-right corner"
+  ]
+}

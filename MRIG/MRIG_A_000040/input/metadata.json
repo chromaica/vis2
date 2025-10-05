@@ -1,0 +1,24 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Stylized art",
+  "prompt": "A stylized painting of the lotus flower arrangement from image 1, rendered using the vibrant geometric shapes and warm color palette characteristic of the art style in image 2.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a stylized painting featuring the distinct composition of the lotus flower, buds, seed pods, and leaf as depicted in image 1. Render this artwork using the vibrant, warm color palette and characteristic geometric patterning observed in the art style of image 2.",
+  "annotator": "samin",
+  "objects": [
+    "stylized lotus flower",
+    "stylized lotus buds",
+    "stylized lotus seed pods",
+    "stylized lotus leaf",
+    "stylized stems",
+    "geometric patterning",
+    "vibrant warm color palette (red, orange, yellow, green hues)",
+    "distinct composition of lotus elements as in image 1"
+  ],
+  "human_annotation": true
+}

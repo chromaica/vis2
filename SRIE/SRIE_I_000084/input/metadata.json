@@ -1,0 +1,24 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "Restore the map of Indian states and overlay it with the Indian national flag.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, a silhouette of India, by adding the detailed internal state borders and labels. Use image 2 as the precise reference for the geographical layout and naming of the Indian states. After incorporating these map details, overlay the entire landmass of India with the Indian national flag. The flag should display its saffron top, white middle (with a centrally placed navy blue Ashoka Chakra), and green bottom horizontal stripes accurately.",
+  "annotator": "Johnny",
+  "objects": [
+    "Map of India outline",
+    "Internal state borders of India",
+    "Labels for Indian states",
+    "Saffron colored top section (overlaying map)",
+    "White colored middle section (overlaying map)",
+    "Navy blue Ashoka Chakra (centrally placed on the white section)",
+    "Green colored bottom section (overlaying map)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

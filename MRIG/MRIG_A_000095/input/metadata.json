@@ -1,0 +1,27 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "Create a fantasy creature with the lion\u2019s body from image 1, butterfly wings from image 2, and serpent scales and tail from image 3.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a fantasy creature with the powerful, tawny-colored body and head (including the prominent mane) of the male lion from image 1. This creature should feature large, glossy butterfly wings attached to its back, incorporating the vibrant rainbow colors and iridescent quality seen in image 2. Its lion-like body, from the neck down, should be entirely covered with the distinct shimmering, pearlescent scales from the coiled serpent in image 3, displaying similar iridescent purples, blues, and greens. Its tail should be a long, flexible serpent's tail, also covered in these iridescent scales.",
+  "annotator": "samin",
+  "objects": [
+    "Fantasy creature",
+    "Male lion's head",
+    "Prominent tawny-colored mane",
+    "Lion-like body",
+    "Shimmering, pearlescent scales (on body and tail)",
+    "Iridescent purples, blues, and greens (on scales)",
+    "Large, glossy butterfly wings",
+    "Vibrant rainbow colors (on wings)",
+    "Iridescent quality (on wings)",
+    "Long, flexible serpent's tail"
+  ],
+  "human_annotation": true
+}

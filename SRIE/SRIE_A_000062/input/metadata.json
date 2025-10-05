@@ -1,0 +1,26 @@
+{
+  "subtopic": "Traditional art",
+  "prompt": "Edit image 1: Apply the vibrant floral pattern from the kimono in image 2 to the kimonos worn by the women in image 1, maintaining the traditional Japanese Ukiyo-e art style.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748652100353,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1, depicting three women, by applying the vibrant floral pattern from the kimono in image 2 to the kimonos worn by the women in image 1. Ensure the traditional Japanese Ukiyo-e art style is maintained.",
+  "annotator": "kellycyy",
+  "objects": [
+    "Three women",
+    "Kimonos (worn by the women)",
+    "Vibrant floral pattern (on the kimonos)",
+    "Traditional Japanese Ukiyo-e art style",
+    "Traditional Japanese hairstyles",
+    "Fan (held by one woman)",
+    "Pale background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

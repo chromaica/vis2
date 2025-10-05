@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Soften his smile into a genuine grin and warm up skin tones.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Modify the man's facial expression to show a softer, more genuine grin, and adjust his skin tones to be warmer.",
+  "annotator": "matina",
+  "objects": [
+    "Man with a softer, more genuine grin and warmer skin tones",
+    "Laptop",
+    "Purple mug",
+    "Glass desk",
+    "White shelf",
+    "Two potted plants",
+    "White circular decoration",
+    "White wall",
+    "Text overlay: \"SOMEONE STOLE MY IDENTITY\"",
+    "Text overlay: \"HOPE THEY MAKE SOMETHING OUT OF MY LIFE\""
+  ]
+}

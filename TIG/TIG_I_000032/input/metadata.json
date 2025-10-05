@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "create a BPMN (Business Process Model) diagram for an e-commerce order fulfillment process with decision gates, parallel processes, and exception handling",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a clear and detailed BPMN (Business Process Model and Notation) diagram representing an e-commerce order fulfillment process. The diagram should include distinct pools/lanes for 'Customer', 'System', and 'Warehouse/Shipping'. It must showcase typical BPMN elements: start/end events, tasks, and sequence flows. Crucially, incorporate multiple decision gates (diamonds) for conditional branching (e.g., payment status, inventory availability). Illustrate parallel processes using AND-split and AND-join gateways, depicting concurrent activities like 'Process Payment' and 'Allocate Inventory'. Implement robust exception handling, demonstrating flows for scenarios such as 'Payment Failed' or 'Item Unavailable' via boundary events and alternative paths. The diagram should flow logically from left to right, prioritizing readability and adherence to BPMN conventions.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Customer Pool/Lane",
+    "System Pool/Lane",
+    "Warehouse/Shipping Pool/Lane",
+    "Start Event (BPMN)",
+    "End Event (BPMN)",
+    "Tasks (BPMN, multiple rounded rectangles with text labels)",
+    "Sequence Flows (BPMN, arrows connecting elements)",
+    "Decision Gates (BPMN, diamond shapes)",
+    "AND-split and AND-join Gateways (BPMN, diamond shapes with plus sign)",
+    "Boundary Events (BPMN, small circles attached to task borders)"
+  ]
+}

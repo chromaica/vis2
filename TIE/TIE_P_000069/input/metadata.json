@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Add one more floor to the pagoda in this image",
+  "cond_images": [
+    "1.jpeg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 to add one additional floor to the pagoda. The new floor should be placed directly above the current top tier and below the spire, seamlessly matching the existing structure's photorealistic architectural style, including its red roofs, white railings, and ornate details.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Photorealistic pagoda",
+    "Newly added pagoda floor (seamlessly matching existing style)",
+    "Pagoda red roofs",
+    "Pagoda white railings",
+    "Pagoda ornate details",
+    "Pagoda spire",
+    "Bridge leading to pagoda",
+    "Water surrounding pagoda",
+    "City skyline in background",
+    "Bright sky"
+  ]
+}

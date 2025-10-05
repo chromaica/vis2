@@ -1,0 +1,21 @@
+{
+  "subtopic": "CAD models",
+  "prompt": "Computer Graphics: Generate CAD models of the horse subject from image 1 and the parrot subject from image 2. Render them together, applying the technical, sketchy wireframe style of image 1 alongside the detailed, vibrant textures and colors reminiscent of image 2.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748422977899,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a computer graphics render featuring two subjects: a horse and a parrot. The horse, based on the subject in image 1, should be depicted as a technical, sketchy wireframe model, reminiscent of engineering blueprints. The parrot, based on the subject in image 2, should be depicted with highly detailed, vibrant textures and colors. Arrange both subjects prominently within the same studio-style render environment.",
+  "annotator": "winston",
+  "objects": [
+    "computer graphics render",
+    "technical, sketchy wireframe horse model",
+    "highly detailed, vibrant parrot",
+    "studio-style render environment"
+  ]
+}

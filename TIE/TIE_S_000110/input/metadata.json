@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "QR codes",
+  "prompt": "Overlay a transparent digital rain effect, reminiscent of a cyberpunk style, over the QR code to enhance its modern look.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Apply a transparent, cyberpunk-style digital rain effect over the entire QR code. This effect should feature subtly glowing green or blue code characters falling vertically, ensuring the QR code remains clearly visible and scannable.",
+  "annotator": "cwhsu",
+  "objects": [
+    "QR code",
+    "YouTube logo",
+    "Transparent digital rain effect over the QR code",
+    "Cyberpunk-style visual elements",
+    "Subtly glowing characters",
+    "Green code characters",
+    "Blue code characters",
+    "Vertically falling characters"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

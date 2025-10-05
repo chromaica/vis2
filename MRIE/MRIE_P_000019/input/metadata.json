@@ -1,0 +1,21 @@
+{
+  "task": "MRIE",
+  "topic": "P",
+  "subtopic": "Wildlife & Nature Photography",
+  "prompt": "Replace the bird in the first image with the vulture from the second image. Then, add the chick from the third image by making the vulture carry it in its beak. The chick should be dead in this situation.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit Image 1. Replace the small bird perched on the log with a large vulture. The vulture should be positioned similarly to the original bird on the log, referencing the appearance and scale of the vulture in Image 2. The vulture must be carrying a chick in its beak. This chick should resemble the one in Image 3, but depicted as lifeless and limp.",
+  "annotator": "boris",
+  "objects": [
+    "log",
+    "water background",
+    "small bird (should not be present)",
+    "large vulture perched on the log",
+    "lifeless chick in the vulture's beak"
+  ]
+}

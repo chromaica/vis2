@@ -1,0 +1,26 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": "Recolor and retexture the entire scene using this watercolor palette and brush flow.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the comic strip panel, by completely recoloring and retexturing the entire scene, including the airplane, characters, field, and sky, to match the distinct watercolor palette and loose, painterly brushstroke style of image 2, the landscape painting.",
+  "annotator": "matina",
+  "objects": [
+    "airplane",
+    "character 1",
+    "character 2",
+    "character 3",
+    "grassy field",
+    "sky",
+    "trees in background",
+    "speech bubble with text \"DIEGO, IS IT POSSIBLE TO CAUSE AN AIRPLANE TO CRASH, SAY, TEN MINUTES AFTER IT LEAVES THE GROUND?\"",
+    "speech bubble with text \"CERTAINLY, SE\u00d1OR\""
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

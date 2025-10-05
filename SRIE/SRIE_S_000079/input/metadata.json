@@ -1,0 +1,27 @@
+{
+  "subtopic": "Games",
+  "prompt": "In image 1, add the zombie character from image 2. Place the zombie emerging from the ground near the buildings or among the soldiers, creating a zombie invasion scenario within the game scene.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1752237411958,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "annotator": "ishengfang",
+  "prompt_refined": "Edit image 1. Add the zombie character from image 2, ensuring it appears to be emerging from the ground, consistent with its depiction in image 2. Position the zombie in the mid-ground of image 1, specifically emerging from the ground either near the building on the left or in the open area between the two visible soldiers, to create a zombie invasion scenario within the game scene.",
+  "objects": [
+    "Game user interface (UI elements)",
+    "Player's hands holding a rifle (foreground)",
+    "Soldier on the left",
+    "Soldier on the right",
+    "Buildings in the background",
+    "Helicopter in the sky",
+    "Paratroopers/parachutes in the sky",
+    "Zombie character emerging from the ground in the mid-ground"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,22 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "A photography of two parents with their child in a park, using the reference image for structure",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic outdoor photograph using the structural composition from image 1. The image should feature two adults, portraying parents, standing centrally and holding hands. A small child should be positioned directly in front of the parents. On the far left side of the frame, a prominent tree trunk is visible, while the background consists of green foliage and trees, indicating a park setting.",
+  "annotator": "samin",
+  "objects": [
+    "Two adults holding hands",
+    "Small child positioned directly in front of the parents",
+    "Prominent tree trunk on the far left side of the frame",
+    "Green foliage in the background",
+    "Trees in the background",
+    "Park setting"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

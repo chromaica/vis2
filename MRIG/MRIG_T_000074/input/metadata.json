@@ -1,0 +1,27 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Create a two-panel meme with the first image on top and the second image below. Add the caption: 'Me waiting for the motivation I scheduled for 9am'. Use white bold font at the top center.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a two-panel meme. The top panel should be formed by image 1, featuring Kermit the Frog with his hand on his chin against an orange background. The bottom panel should be formed by image 2, featuring a human skeleton in a similar pensive pose against a dark background. Add the caption 'Me waiting for the motivation I scheduled for 9am' in white, bold font, positioned at the top-center of the entire two-panel image.",
+  "annotator": "parnian",
+  "objects": [
+    "two-panel meme structure",
+    "Kermit the Frog (in pensive pose)",
+    "orange background (in top panel)",
+    "human skeleton (in pensive pose)",
+    "dark background (in bottom panel)",
+    "top panel",
+    "bottom panel",
+    "text caption: \"Me waiting for the motivation I scheduled for 9am\"",
+    "white, bold font (for caption)",
+    "caption positioned at the top-center"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

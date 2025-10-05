@@ -1,0 +1,24 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Edit image 1: Replace the markers for the highest data points on each axis with shapes inspired by the sparkle graphic from image 2. Update the chart by recoloring the white background with the palest yellow from image 3.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Replace the circular data point markers for the highest Semantic Consistency (SC) value and the highest Perceptual Quality (PQ) value with shapes that mimic the sparkle graphic from image 2. Additionally, recolor the entire white background of the chart to match the palest yellow found on the leftmost strip of image 3.",
+  "annotator": "maxku",
+  "objects": [
+    "Chart axes (Semantic Consistency (SC) Average and Perceptual Quality (PQ) Average)",
+    "Data point markers (circular, excluding the two highest values)",
+    "Error bars",
+    "Legend",
+    "Grid lines",
+    "Pale yellow background",
+    "Sparkle-shaped data point marker (for the highest Semantic Consistency value)",
+    "Sparkle-shaped data point marker (for the highest Perceptual Quality value)"
+  ]
+}

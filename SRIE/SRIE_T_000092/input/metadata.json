@@ -1,0 +1,27 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "Restyle the text in the source image to use the exact letterforms, stroke weight, edge texture, and letter spacing of the reference. Preserve the source composition and content, replacing only the typography so it matches the reference\u2019s handwriting style",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Restyle the white text 'KEEP CALM AND CARRY ON' to match the typographic style of the text in image 2. Specifically, adopt the exact letterforms, variable stroke weight, distressed edge texture, and irregular letter spacing from image 2. Ensure the text remains white. Preserve the original red background, the crown icon, and the overall composition of image 1.",
+  "annotator": "matina",
+  "objects": [
+    "Red background",
+    "White crown icon",
+    "Text: 'KEEP CALM AND CARRY ON'",
+    "White text color",
+    "Text with distressed edge texture",
+    "Text with irregular letter spacing",
+    "Text with variable stroke weight",
+    "Text with letterforms inspired by image 2 (e.g., expressive/graffiti-like)",
+    "Wrinkled paper texture",
+    "Vertical poster composition"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "A tranquil beach scene at dusk, deserted except for a pair of flip-flops left in the sand next to gentle surf.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a highly photorealistic image of a serene, deserted beach scene at twilight. The expansive, fine golden sand is untouched by footprints, stretching towards a calm ocean. The sky above is painted with soft, diffused hues of warm orange, faint pink, and muted purple. In the foreground, slightly to the center-right, a well-worn pair of simple flip-flops lies abandoned on the damp sand, positioned just at the edge where gentle, frothy waves subtly recede, reflecting the last light of the day.",
+  "annotator": "cwhsu",
+  "objects": [
+    "expansive golden sand untouched by footprints",
+    "calm ocean",
+    "twilight sky with soft, diffused hues of warm orange, faint pink, and muted purple",
+    "well-worn pair of simple flip-flops, abandoned, in the foreground, slightly to the center-right",
+    "damp sand where flip-flops lie",
+    "gentle, frothy waves subtly receding at the edge of the sand",
+    "reflection of the last light of the day on the wet sand and waves"
+  ],
+  "human_annotation": true
+}

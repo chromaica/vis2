@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Use the neon color palette on the pie chart",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 (the pie chart) by recoloring its slices with the neon color palette from image 2.",
+  "annotator": "Johnny",
+  "objects": [
+    "Pie chart",
+    "Pie chart slice (recolored with a neon color)",
+    "Pie chart slice (recolored with a neon color)",
+    "Pie chart slice (recolored with a neon color)",
+    "Pie chart slice (recolored with a neon color)",
+    "Pie chart slice (recolored with a neon color)",
+    "Neon pink/purple hue on slices",
+    "Neon blue hue on slices",
+    "Gray background"
+  ],
+  "human_annotation": true
+}

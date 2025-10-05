@@ -1,0 +1,26 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Use the same color for nodes that share the same name in the graph.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Adjust the node colors in the provided graph so that all nodes sharing the same text label also share the same background color. Specifically, change the color of the 'Football' node linked to 'Team Sports' (in the bottom-right) to match the light green color of the 'Football' node linked to 'Contact Sports' (in the bottom-left). The 'Basketball' nodes should remain white as they already share a consistent color.",
+  "annotator": "cwhsu",
+  "objects": [
+    "blue 'Sports' central node",
+    "orange 'Individual Sports' node",
+    "green 'Contact Sports' node",
+    "green 'Water Sports' node",
+    "orange 'Team Sports' node",
+    "light green 'Football' node (linked to Contact Sports)",
+    "light green 'Football' node (linked to Team Sports)",
+    "white 'Basketball' node (linked to Contact Sports)",
+    "white 'Basketball' node (linked to Team Sports)",
+    "connecting lines between nodes"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,19 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "a realistic exoplanet with a surface texture resembling the intricate patterns of the snake skin, surrounded by interstellar dust.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic image of an exoplanet. Its surface should replicate the intricate, individual scale texture and the vibrant, iridescent color gradients of fiery orange, deep red, and purple seen in image 1. The exoplanet should appear large and prominent in the frame, enveloped by swirling interstellar dust and luminous nebulae.",
+  "annotator": "samin",
+  "objects": [
+    "Photorealistic exoplanet",
+    "Exoplanet with intricate, individual scale texture",
+    "Exoplanet with vibrant, iridescent color gradients (fiery orange, deep red, purple)",
+    "Swirling interstellar dust",
+    "Luminous nebulae"
+  ]
+}

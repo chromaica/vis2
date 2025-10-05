@@ -1,0 +1,26 @@
+{
+  "subtopic": "Receipts",
+  "prompt": "Generate a clean, minimalist UI screenshot displaying a list of digital receipts, but in a desktop view. Utilizing the layout, color palette, and flat design style seen in the reference image.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://a.storyblok.com/f/146026/1028x1008/c2da104d9a/en-us_tracking-subscription-management.png/m/2056x2016/filters:format(png)",
+  "promptGeneratedTimestamp": 1749437239750,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a clean, minimalist UI screenshot for a desktop application, showcasing a list of digital receipts. The design, including its flat aesthetic, exact layout, and color palette (featuring a light background with distinct purple, green, and pink accents), must be consistent with image 1. The central content area, which should have rounded corners and be adapted for a desktop aspect ratio, must display:\n- A prominent 'All payments' title centered at the top.\n- A 'Filters' button on the top-left and a 'SUBSCRIPTION' tag on the top-right, mirroring the header arrangement seen in image 1.\n- A search bar positioned directly below these header elements.\n- A vertical list of individual receipt entries. Each entry must precisely replicate the structure and visual style from image 1, including a checkbox on the far left, a circular user avatar, the user's name, the associated service, the payment amount, the date, and a distinct receipt status icon (green for successful, red for declined/failed payments) on the far right.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Central content area with rounded corners",
+    "'All payments' title centered at the top",
+    "'Filters' button on the top-left",
+    "'SUBSCRIPTION' tag on the top-right",
+    "Search bar",
+    "Vertical list of individual receipt entries",
+    "Checkbox within each receipt entry",
+    "Circular user avatar within each receipt entry",
+    "User's name, associated service, payment amount, and date within each receipt entry",
+    "Distinct receipt status icon (green for successful, red for declined/failed payments) within each receipt entry"
+  ]
+}

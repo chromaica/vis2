@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Traditional art",
+  "prompt": "Replace the background of the first image with the second image, and change its style to match the third image.",
+  "cond_images": [
+    "1.png",
+    "2.jpg",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Preserve the figures from image 1 (Adam and God/angels) and replace their original background with the detailed landscape scene from image 2. Subsequently, apply the distinctive artistic style, texture, and color palette of image 3 to the entire resulting composition.",
+  "annotator": "paria",
+  "objects": [
+    "Adam",
+    "God",
+    "Angels/figures surrounding God",
+    "Large foreground trees",
+    "River",
+    "Distant mountains",
+    "Sky",
+    "Boats on water",
+    "Figures in boats",
+    "Distant building/castle"
+  ]
+}

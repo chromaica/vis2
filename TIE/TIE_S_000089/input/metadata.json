@@ -1,0 +1,23 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Change the color scheme to a classic 8-bit video game palette.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, a screenshot of a computer desktop interface, to apply a classic 8-bit video game color palette to its entire visual content. All interface elements, including the dark background, application icons, text, and the top and left side bars, should be re-rendered with the characteristic limited color depth and vibrant, retro hues typical of 8-bit graphics.",
+  "annotator": "cwhsu",
+  "objects": [
+    "computer desktop interface with 8-bit color palette",
+    "dark background with 8-bit color palette",
+    "application icons with 8-bit color palette",
+    "text elements with 8-bit color palette",
+    "top bar with 8-bit color palette",
+    "left side bar/dock with 8-bit color palette",
+    "search bar with 8-bit color palette",
+    "Red Hat Enterprise Linux logo with 8-bit color palette",
+    "\"Frequent\" and \"All\" buttons with 8-bit color palette"
+  ]
+}

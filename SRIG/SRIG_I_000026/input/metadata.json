@@ -1,0 +1,17 @@
+{
+  "subtopic": "Icons and symbols",
+  "prompt": "Generate a icon representing \"Machine Learning\", with following the same style in the image.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "https://www.sketchappsources.com/resources/source-image/40-basic-icons-worawaluns.jpg",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate a minimalist icon representing \"Machine Learning\". The icon should adhere to the same visual style as the icons in image 1, featuring black outlines, white fill, consistent line weight, and rounded corners, suitable for a user interface.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Stylized brain outline",
+    "Multiple small circular nodes within the brain",
+    "Lines connecting the nodes within the brain"
+  ]
+}

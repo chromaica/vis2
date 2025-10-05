@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "In the first image, replace the big coffee cup with the puppy from the second image, and replace the sketch of the Eiffel Tower with the CN Tower sketch from the third image.",
+  "cond_images": [
+    "1.jpg",
+    "2.png",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the large coffee cup held by the woman in the foreground with the golden retriever puppy from image 2, ensuring the puppy is appropriately scaled and positioned as if being held. Additionally, substitute the background sketch of the Eiffel Tower, located on the right side of image 1, with the line art sketch of the CN Tower from image 3, ensuring it integrates seamlessly into the existing background's illustrative style.",
+  "annotator": "paria",
+  "objects": [
+    "Woman in the foreground",
+    "Golden retriever puppy held by the woman",
+    "Line art sketch of the CN Tower on the right side of the background",
+    "Large coffee cup (should not be present)",
+    "Background sketch of the Eiffel Tower (should not be present)",
+    "Straw hat on the woman",
+    "Blue dress on the woman",
+    "Red and black high heels on the woman",
+    "Purple handbag",
+    "Illustrative background with building sketch on the left"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Take the provided pie chart showing global energy consumption sources and turn it into a top-down view of a circular, futuristic power station, with each colored section of the chart representing a different energy generation zone (solar, wind, nuclear, etc.).",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://www.e-education.psu.edu/earth104/sites/www.e-education.psu.edu.earth104/files/Unit1/Mod5/Earth104Mod8Fig1.png",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Create a top-down view of a circular, futuristic power station. This station should visually transform the pie chart data from image 1, where each colored segment of the pie chart becomes a distinct energy generation zone within the power station. The size of each zone in the power station must proportionally reflect the global energy consumption percentages shown in image 1. For example, the zone representing 'Oil' (blue, 33%) should be the largest, and 'Hydro' (light blue, 2%) the smallest. Each zone ('Oil', 'Coal', 'Gas', 'Nuclear', 'Hydro', and 'Solar, Wind, Other') should incorporate its corresponding color from image 1 and feature visual cues related to that energy source, maintaining a cohesive futuristic aesthetic.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "top-down view of a circular, futuristic power station",
+    "\"Oil\" energy generation zone (blue, largest, with oil-related futuristic visual cues)",
+    "\"Coal\" energy generation zone (red, proportional to 27%, with coal-related futuristic visual cues)",
+    "\"Gas\" energy generation zone (light green, proportional to 21%, with gas-related futuristic visual cues)",
+    "\"Nuclear\" energy generation zone (purple, proportional to 6%, with nuclear-related futuristic visual cues)",
+    "\"Hydro\" energy generation zone (light blue, smallest, with hydro-related futuristic visual cues)",
+    "\"Solar, Wind, Other\" energy generation zone (orange, proportional to 11%, with solar, wind, and other renewable-related futuristic visual cues)"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "subtopic": "Branding and visual identity",
+  "prompt": "Edit image 1: Redesign the existing logos using graphic styles and typography from images 2 & 5. Augment each modified logo with data visualization elements (bars, scores) and ranking labels, adopting the infographic format seen in images 3 & 4, to create a dynamic brand identity graphic.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg",
+    "4.jpeg",
+    "5.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749712298735,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "T",
+  "prompt_refined": "Edit image 1 by transforming its content into a dynamic brand identity infographic. Redesign each of the 8 brand logos currently displayed in image 1, incorporating the graphic styles and diverse typographies from images 2 and 5. For each redesigned logo, integrate it into a distinct section within an overall infographic layout, adopting the structured ranking and data presentation formats seen in images 3 and 4. Specifically, each modified logo should be accompanied by a clear numerical ranking, a corresponding data visualization element (such as a horizontal bar chart or score indicator), and a textual score or metric. Ensure the final edited image presents a cohesive and dynamic brand ranking graphic.",
+  "annotator": "winston",
+  "objects": [
+    "Overall infographic layout",
+    "Eight distinct sections for brand data",
+    "Redesigned brand logos (8 total, including Nike, Coca-Cola, Fanta, Volkswagen, Lego, Starbucks, Vodafone, PayPal, Amazon)",
+    "Numerical rankings",
+    "Data visualization elements (e.g., horizontal bar charts, score indicators)",
+    "Textual scores or metrics",
+    "Typography styles inspired by images 2 and 5",
+    "Graphic motifs and elements reflecting images 2 and 5",
+    "Main infographic title/heading",
+    "Background and layout elements supporting a dynamic visual theme"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,19 @@
+{
+  "subtopic": "Facial estimation and analysis",
+  "prompt": "A computer graphics rendering of a face headshot, centered like the reference, overlaid with facial analysis tracking points and a visible bounding box for estimation.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://www.researchgate.net/publication/383285313/figure/fig5/AS:11431281273051974@1724323869571/Detected-face-with-haar-cascade_Q320.jpg",
+  "promptGeneratedTimestamp": 1748768736534,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Create a computer graphics rendering of a face headshot. Match the centered composition and framing of image 1. Overlaid on the face, include prominent facial analysis tracking points. A visible bounding box, akin to the one in image 1, should encompass the face, signifying an estimation area.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Computer graphics face headshot",
+    "Prominent facial analysis tracking points overlaid on the face",
+    "Visible bounding box encompassing the face"
+  ]
+}

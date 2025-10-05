@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Generate a code editor screenshot using the syntax highlighting color scheme from the first image and the terminal window design from the second image.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a code editor screenshot. Apply the syntax highlighting color scheme from image 1 to the code editor, featuring a dark background with green keywords, light orange strings, reddish-pink comments, and white text for variables and numbers. Integrate a terminal pane or window into the screenshot that adopts the visual design from image 2. This terminal should include its dark background with a faint circuit board pattern, the distinctive green and blue command prompt (e.g., 'jeremy@Azure:~:$'), and a top bar with multiple tabs like those visible in image 2 (e.g., 'MINGW64', 'cmd', 'Windows PowerShell').",
+  "annotator": "paria",
+  "objects": [
+    "code editor screenshot",
+    "dark background for code editor",
+    "green keywords in code editor",
+    "light orange strings in code editor",
+    "reddish-pink comments in code editor",
+    "white variables and numbers in code editor",
+    "terminal pane or window",
+    "dark terminal background with faint circuit board pattern",
+    "green and blue command prompt in terminal",
+    "terminal top bar with multiple tabs"
+  ]
+}

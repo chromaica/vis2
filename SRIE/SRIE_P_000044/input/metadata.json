@@ -1,0 +1,18 @@
+{
+  "task": "SRIE",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "Increase brightness in regions defined by the brightness heatmap.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 by locally increasing its brightness. Use image 2, the provided brightness heatmap, to determine the areas and degree of brightness enhancement. Regions corresponding to brighter (red/yellow) areas in image 2, such as the central 'X' shape, should become significantly brighter and more illuminated in image 1, while darker (blue) areas in image 2 should receive minimal to no brightness increase, maintaining a photorealistic appearance.",
+  "annotator": "nimajamali",
+  "objects": [
+    "Central 'X' shape",
+    "Repeating dark circular shapes",
+    "Brownish textured background"
+  ]
+}

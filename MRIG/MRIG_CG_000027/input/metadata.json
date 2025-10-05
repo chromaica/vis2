@@ -1,0 +1,26 @@
+{
+  "subtopic": "Facial estimation and analysis",
+  "prompt": "Generate a computer graphic image of the character from image 1 viewing a screen showing facial analysis data, visualized using the 3D render style and colors from image 2.",
+  "cond_images": [
+    "1.png",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748422217736,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a computer graphic image depicting the male character from image 1, dressed in a grey hoodie and sweatpants, looking intently at a digital screen. The screen displays facial analysis data, rendered in a smooth, glossy 3D style with a pastel purple and golden-brown color palette, consistent with the visual aesthetic of image 2.",
+  "annotator": "winston",
+  "objects": [
+    "Male character",
+    "Grey hoodie",
+    "Sweatpants",
+    "Digital screen",
+    "Facial analysis data on screen",
+    "Smooth, glossy 3D style on screen",
+    "Pastel purple color palette on screen",
+    "Golden-brown color palette on screen",
+    "Character with an intent look"
+  ]
+}

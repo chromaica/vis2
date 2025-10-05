@@ -1,0 +1,26 @@
+{
+  "subtopic": "Astronomical images",
+  "prompt": "Edit image 1 by incorporating a powerful, directional light source similar to the sun in image 2, illuminating the nebula. Additionally, transform the nebula's color palette to the luminous blues and purples reminiscent of the nebulosity in image 3.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749222499476,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "P",
+  "prompt_refined": "Modify image 1, the expansive red nebula, by introducing a powerful, directional light source originating from the top-right of the frame. This light should intensely illuminate the nebula, creating distinct highlights and shadows, and possess the radiant intensity and focused directionality evident in the sun from image 2. Additionally, transform the nebula's current reddish-brown color palette to a luminous array of blues and purples, reflecting the vibrant nebulosity and celestial hues seen in image 3.",
+  "annotator": "boris",
+  "objects": [
+    "expansive nebula",
+    "powerful, directional light source originating from the top-right",
+    "intensely illuminated nebula",
+    "distinct highlights on the nebula",
+    "distinct shadows on the nebula",
+    "nebula with a luminous array of blues and purples",
+    "vibrant nebulosity",
+    "scattered stars"
+  ]
+}

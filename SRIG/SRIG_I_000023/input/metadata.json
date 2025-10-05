@@ -1,0 +1,25 @@
+{
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Use the mindmap style in the image to generate a mindmap about \"Building Backend Service with Best Practices\"",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://landing.moqups.com/img/templates/diagrams/basic-mind-map.png",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate an information graphic in the form of a mind map, replicating the exact visual style, layout, and color scheme observed in image 1. The central, dark rounded rectangular node should prominently display 'Building Backend Service with Best Practices'. From this central node, create four distinct main branches, each leading to a primary subtopic node (e.g., yellow, orange, teal, purple branches as seen in image 1). Each primary subtopic node should further branch out to multiple smaller, rounded rectangular leaf nodes. Ensure all connections are depicted with smooth, curved lines for hierarchical branches and dotted lines labeled 'Connection' for cross-node relationships, mirroring image 1. The text content within all subtopic and leaf nodes should be relevant and specific to the overall topic of 'Building Backend Service with Best Practices'.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Mind map information graphic",
+    "Central dark rounded rectangular node",
+    "Text: \"Building Backend Service with Best Practices\"",
+    "Four primary subtopic nodes (yellow, orange, teal, purple rounded rectangles)",
+    "Multiple smaller rounded rectangular leaf nodes",
+    "Smooth, curved lines for hierarchical branches",
+    "Dotted lines labeled 'Connection'",
+    "Relevant text content within subtopic nodes",
+    "Relevant text content within leaf nodes",
+    "Overall layout and color scheme consistent with image 1"
+  ],
+  "human_annotation": true
+}

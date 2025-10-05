@@ -1,0 +1,24 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "Generate an antique-style map of the Paris Catacombs, drawn in ink on parchment, with labeled ossuaries, known entrances, quarries, and historic access points, styled like a 17th-century city plan.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a highly detailed, antique-style map of the Paris Catacombs, rendered in black ink on aged, textured parchment. The map should closely resemble a 17th-century city plan, with all ossuaries, known entrances, quarries, and historic access points clearly labeled.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Antique-style map",
+    "Paris Catacombs layout",
+    "Black ink rendering",
+    "Aged parchment",
+    "Textured parchment surface",
+    "Labeled ossuaries",
+    "Labeled known entrances",
+    "Labeled quarries",
+    "Labeled historic access points",
+    "17th-century city plan stylization"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

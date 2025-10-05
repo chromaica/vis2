@@ -1,0 +1,26 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "Motorcyclist performing a dramatic wheelie at sunset amid futuristic city skyscrapers, neon lights reflecting off the road.",
+  "cond_images": [
+    "1.jpeg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Transform the existing scene to show the motorcyclist, currently in the center of the highway, performing a dramatic wheelie. Change the daytime lighting to a vivid sunset. Redesign the background city skyscrapers to appear futuristic, and incorporate vibrant neon lights throughout the cityscape, ensuring these lights cast colorful reflections directly onto the road surface where the motorcyclist is riding.",
+  "annotator": "cwhsu",
+  "objects": [
+    "motorcyclist performing a wheelie",
+    "motorcycle",
+    "highway",
+    "vivid sunset sky",
+    "futuristic city skyscrapers",
+    "vibrant neon lights on cityscape",
+    "colorful reflections on road surface",
+    "other vehicles on highway",
+    "roadside barriers",
+    "game UI elements (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

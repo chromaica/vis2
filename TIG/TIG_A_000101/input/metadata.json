@@ -1,0 +1,15 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "An immersive and dynamic art piece capturing a high-energy dance scene with figures composed of vibrant kinetic lines, set amidst a swirling digital vortex.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "An immersive, dynamic artwork: a high-energy dance scene with abstract dancers formed from vibrant, flowing kinetic lines, all set within a swirling digital vortex surrounding the composition.",
+  "annotator": "cwhsu",
+  "objects": [
+    "High-energy dance scene",
+    "Abstract dancers formed from vibrant, flowing kinetic lines",
+    "Swirling digital vortex surrounding the composition"
+  ]
+}

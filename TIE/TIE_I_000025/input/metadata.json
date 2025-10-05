@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Convert image to a black and white sketch with a handwritten style.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, which depicts a user time distribution graph, transforming it into a black and white sketch. Render all visual elements present in the graph\u2014including the title 'User time distribution', the axes, numerical and textual labels (e.g., 'Time', 'Users', '0.0s', '4.0K', '0.99s', '40th percentile'), the distribution curve, the interactive pop-up, and the hand cursor\u2014in a distinct, informal handwritten style. The final output must be monochromatic, featuring only black lines and marks on a white background, without any shades of gray or color.",
+  "annotator": "cwhsu",
+  "objects": [
+    "User time distribution title",
+    "Horizontal axis",
+    "Vertical axis",
+    "Time axis label",
+    "Users axis label",
+    "Horizontal axis numerical labels (e.g., '0.0s', '1.0s', '2.0s', '3.0s', '4.0s')",
+    "Vertical axis numerical labels (e.g., '1.0K', '2.0K', '3.0K', '4.0K')",
+    "Distribution curve",
+    "Interactive pop-up with text '0.99s' and '40th percentile'",
+    "Hand cursor"
+  ]
+}

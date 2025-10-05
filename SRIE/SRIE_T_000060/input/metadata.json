@@ -1,0 +1,22 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Align the three icons to the right of \u2018Follow Us,\u2019 12 px apart, all baseline-aligned.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 by adding three social media icons. Place the Instagram, Twitter, and Facebook icons from image 2 horizontally to the right of the existing 'FOLLOW US' text. Ensure these three icons are spaced 12 pixels apart from each other and are all baseline-aligned with the 'FOLLOW US' text.",
+  "annotator": "matina",
+  "objects": [
+    "Abstract logo (teal and orange/yellow)",
+    "\"FOLLOW US\" text",
+    "\"BECAUSE DATA IS EVERYTHING\" text",
+    "Instagram icon (to the right of 'FOLLOW US' text, horizontally aligned)",
+    "Twitter icon (to the right of 'FOLLOW US' text, horizontally aligned)",
+    "Facebook icon (to the right of 'FOLLOW US' text, horizontally aligned)",
+    "White background"
+  ]
+}

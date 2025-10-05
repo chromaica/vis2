@@ -1,0 +1,23 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Replace the node of direct acyclic graph from A to F to 1 to 7 in order.",
+  "cond_images": [
+    "1.png",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, a directed acyclic graph, by applying the node style from image 2 and replacing its letter labels with numbers. Convert the circular nodes in image 1 to rounded squares, matching the appearance (shape, white fill, black background) of the nodes in image 2. Relabel all nodes (A, B, C, D, E, F, G) sequentially with numbers 1 through 7, maintaining their existing positions and the graph's structure. Specifically, change node 'A' (top-left) to '1', 'B' (to the right of A) to '2', 'C' (top-center) to '3', 'D' (bottom-center) to '4', 'E' (top-right) to '5', 'F' (bottom-right) to '6', and 'G' (bottom-left) to '7'.",
+  "annotator": "Johnny",
+  "objects": [
+    "black background",
+    "rounded square node, white fill, labeled '1', at top-left position",
+    "rounded square node, white fill, labeled '2', to the right of node '1'",
+    "rounded square node, white fill, labeled '3', at top-center position",
+    "rounded square node, white fill, labeled '4', at bottom-center position",
+    "rounded square node, white fill, labeled '5', at top-right position",
+    "rounded square node, white fill, labeled '6', at bottom-right position",
+    "rounded square node, white fill, labeled '7', at bottom-left position"
+  ]
+}

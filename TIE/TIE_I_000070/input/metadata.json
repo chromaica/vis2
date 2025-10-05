@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Exploded Views",
+  "prompt": "Illustrate each component with detailed shading to emphasize three-dimensional depth.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 by applying detailed, technical-style shading to all eight numbered components (1-8). The shading should clearly emphasize their three-dimensional depth and volumetric shape, accurately reflecting contours, curves, and recessed areas. The final output should maintain the illustrative style suitable for information graphics.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Component 1",
+    "Component 2",
+    "Component 3",
+    "Component 4",
+    "Component 5",
+    "Component 6",
+    "Component 7",
+    "Component 8",
+    "Number labels (1-8)",
+    "Label connector lines"
+  ]
+}

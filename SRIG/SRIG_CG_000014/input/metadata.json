@@ -1,0 +1,25 @@
+{
+  "subtopic": "Game assets",
+  "prompt": "Generate a collection of new 2D casual game assets inspired by the reference image's style. Include various plants, rocks, and decorative props suitable for an isometric game environment, rendered with a simple, clean art style.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://img.favpng.com/13/8/6/asset-2d-computer-graphics-game-png-favpng-pitEBz7baJWE9qYK7bRMh4s0x.jpg",
+  "promptGeneratedTimestamp": 1748765858403,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a collection of new 2D casual game assets, rendered in the distinctive clean, stylized, and brightly colored art style with clear outlines and an isometric perspective, as observed in image 1. This collection should feature a variety of new plant types (including different trees, bushes, flowers, and aquatic foliage), diverse rock formations (both smooth and jagged, in various sizes), and additional decorative props (such as architectural fragments, different containers, and unique environmental objects). All assets must be suitable for integration into an isometric game environment.",
+  "annotator": "ishengfang",
+  "objects": [
+    "different types of trees",
+    "bushes",
+    "flowers",
+    "aquatic foliage",
+    "smooth rock formations",
+    "jagged rock formations",
+    "architectural fragments",
+    "different containers",
+    "unique environmental objects"
+  ]
+}

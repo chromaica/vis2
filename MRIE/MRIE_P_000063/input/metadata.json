@@ -1,0 +1,23 @@
+{
+  "subtopic": "Astronomical images",
+  "prompt": "Edit image 1: Apply the vibrant orange and yellow infrared color palette and detailed ring structure from image 3 to the galaxy. Use the high-contrast mask information from image 2 to emphasize these colors and structures within the core region.",
+  "cond_images": [
+    "1.jpeg",
+    "2.png",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749222262581,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "P",
+  "prompt_refined": "Edit image 1 (the Andromeda galaxy). Transfer the vibrant orange and yellow infrared color palette and the detailed ring structure from image 3 to the galaxy in image 1. Use the high-contrast white mask from image 2 to precisely guide and emphasize these applied colors and structures within the galaxy's central and main body.",
+  "annotator": "boris",
+  "objects": [
+    "Andromeda galaxy",
+    "Vibrant orange and yellow infrared color palette (on the galaxy)",
+    "Detailed ring structure (within the galaxy)",
+    "Background stars",
+    "Dark space"
+  ]
+}

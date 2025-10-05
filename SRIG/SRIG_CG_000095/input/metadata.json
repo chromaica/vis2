@@ -1,0 +1,26 @@
+{
+  "subtopic": "CAD models",
+  "prompt": "Using the reference image of the powerful charging bull, generate a detailed 3D CAD model render. Show technical wireframe lines and smooth shaded surfaces against a digital engineering background.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c40f601c-3e31-4d1f-bec3-c0e431d01143/dj0iwne-9f3e5f20-2c88-4989-88d7-2fe011422058.jpg/v1/fill/w_1024,h_576,q_75,strp/infernal_charge_by_rickyrockk_dj0iwne-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M0MGY2MDFjLTNlMzEtNGQxZi1iZWMzLWMwZTQzMWQwMTE0M1wvZGowaXduZS05ZjNlNWYyMC0yYzg4LTQ5ODktODhkNy0yZmUwMTE0MjIwNTguanBnIiwiaGVpZ2h0IjoiPD01NzYiLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS53YXRlcm1hcmsiXSwid21rIjp7InBhdGgiOiJcL3dtXC9jNDBmNjAxYy0zZTMxLTRkMWYtYmVjMy1jMGU0MzFkMDExNDNcL3JpY2t5cm9ja2stNC5wbmciLCJvcGFjaXR5Ijo5NSwicHJvcG9ydGlvbnMiOjAuNDUsImdyYXZpdHkiOiJjZW50ZXIifX0.y54f-62zEzw-VmRfMqc_XtITPwkhBJfC7D8v-ZGRVDM",
+  "promptGeneratedTimestamp": 1748772207214,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate an image that renders the powerful, muscular black bull from image 1, depicted in its characteristic charging forward pose. The bull should be presented as a detailed 3D CAD model, simultaneously showcasing its intricate wireframe mesh structure and its smooth, photorealistic shaded surfaces. Position the bull centrally within the frame, against a sophisticated digital engineering environment background, featuring subtle grid patterns, schematic elements, and blueprint-style interfaces.",
+  "annotator": "ishengfang",
+  "objects": [
+    "powerful, muscular black bull (centrally positioned, in a charging forward pose)",
+    "3D CAD model representation of the bull",
+    "intricate wireframe mesh structure (on the bull)",
+    "smooth, photorealistic shaded surfaces (on the bull)",
+    "sophisticated digital engineering environment background",
+    "subtle grid patterns (in the background)",
+    "schematic elements (in the background)",
+    "blueprint-style interfaces (in the background)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

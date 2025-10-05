@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Traditional art",
+  "prompt": "Replace the ermine in the lady's hands in image 1 with the flower bouquet from image 2, and then transform the image into the red pencil sketch style of image 3.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 (Lady with an Ermine). Replace the ermine held by the lady with the vibrant flower bouquet from image 2, ensuring the bouquet is proportionally scaled and positioned naturally in her hands. After this modification, render the entire composite image in the distinctive red pencil sketch style of image 3, characterized by red monochromatic lines and hatching on a light background.",
+  "annotator": "paria",
+  "objects": [
+    "Lady",
+    "Vibrant flower bouquet (held by the lady)",
+    "Lady's hands",
+    "Lady's clothing",
+    "Lady's head",
+    "Red monochromatic lines",
+    "Hatching",
+    "Light background",
+    "Ermine (should not be present)"
+  ],
+  "human_annotation": true
+}

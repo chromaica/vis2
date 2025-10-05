@@ -1,0 +1,23 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": "Enhance the arraw blade with a soft pink glow and light rays spilling onto the surroundings.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Apply a soft pink glow to the arrowhead of the bow, held by the hooded figure on the left. From this glowing arrowhead, generate light rays that spill onto the immediate surroundings within the comic panel, subtly illuminating the bow, the background, and the standing figure on the right.",
+  "annotator": "matina",
+  "objects": [
+    "hooded figure on the left",
+    "bow",
+    "arrowhead with a soft pink glow",
+    "light rays spilling from the arrowhead",
+    "standing figure on the right, subtly illuminated",
+    "background, subtly illuminated",
+    "comic panel",
+    "speech bubbles",
+    "text within speech bubbles"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "subtopic": "Memes",
+  "prompt": "Create a meme graphic for 'Textual Graphics' about 'Memes', inspired by the vintage style and projector subject of the reference image, with bold overlay text.",
+  "cond_images": [
+    "1.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1750705344606,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "T",
+  "annotator": "winston",
+  "prompt_refined": "Generate a meme graphic. The image should feature a vintage film projector, visually similar in design, material (silver metal, red knobs), and overall aesthetic (dark, warm lighting, wooden background) to the projector depicted in image 1. This vintage projector should be the main subject of the graphic, conveying a retro style. The meme's theme should be 'Textual Graphics' and 'Memes'. Overlay this image with bold, high-contrast text, placed prominently (e.g., at the top or bottom of the image), forming the meme's caption.",
+  "objects": [
+    "vintage film projector",
+    "silver metal finish on the projector",
+    "red knobs on the projector",
+    "dark lighting",
+    "warm lighting",
+    "wooden background",
+    "bold text overlay",
+    "high-contrast text",
+    "prominently placed text (e.g., at the top or bottom of the image)"
+  ],
+  "human_annotation": true
+}

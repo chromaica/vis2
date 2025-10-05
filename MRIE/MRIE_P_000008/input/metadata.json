@@ -1,0 +1,24 @@
+{
+  "task": "MRIE",
+  "topic": "P",
+  "subtopic": "Urban & Street Photography",
+  "prompt": "Replace the statue from the first image with the statue from the third image. Add the car from the second image to the scene too.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the large equestrian statue and its base located in the center of the street with the equestrian statue and its base from image 3. Integrate the new statue naturally into the existing daytime lighting and perspective of image 1. Additionally, add the green vintage car from image 2 into the foreground of image 1, positioning it parked on the right side of the street among the other cars.",
+  "annotator": "boris",
+  "objects": [
+    "buildings (from image 1)",
+    "street (from image 1)",
+    "existing parked cars on the right side of the street (from image 1)",
+    "large equestrian statue and its base from image 1 (should not be present)",
+    "equestrian statue from image 3 (in the center of the street)",
+    "base of the equestrian statue from image 3 (in the center of the street)",
+    "green vintage car from image 2 (in the foreground, parked on the right side of the street among other cars)"
+  ],
+  "human_annotation": true
+}

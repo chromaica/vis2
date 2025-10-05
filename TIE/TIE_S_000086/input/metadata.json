@@ -1,0 +1,26 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Transform the editor background into a dynamic galaxy theme, with stars subtly moving across the screen.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Transform the large dark gray background panel displaying the code and the dark gray terminal panel below it in image 1 into a dynamic galaxy theme. The galaxy should feature stars that appear to be subtly moving across these background regions.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Top menu bar (File, Edit, Selection, etc.)",
+    "Left sidebar (Explorer: WORKSPACE with file tree)",
+    "Application tabs (e.g., index.js, Getting Started)",
+    "Code editor area with a dynamic galaxy theme background",
+    "Code text displayed on the galaxy background",
+    "Terminal panel area with a dynamic galaxy theme background",
+    "Terminal content displayed on the galaxy background",
+    "Subtly moving stars within the galaxy theme",
+    "Context menu/dropdown list (e.g., .NET: Generate Assets)",
+    "Bottom status bar (dev/real-estate, Ln 1, Col 1, etc.)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

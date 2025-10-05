@@ -1,0 +1,23 @@
+{
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "Edit image 1 by first segmenting the car instance and the background. Replace the background segment of image 1 with the desert landscape and lighting style from image 2. Apply the black and white line art style of image 3 specifically to the segmented car instance in image 1.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748456285482,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Modify image 1. Replace its current city street background with the arid desert landscape and bright, natural lighting style found in image 2. Concurrently, render the yellow sports car in image 1 in the distinctive black and white line art drawing style exemplified by image 3.",
+  "annotator": "winston",
+  "objects": [
+    "Black and white line art yellow sports car",
+    "Arid desert landscape",
+    "Bright, natural lighting"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

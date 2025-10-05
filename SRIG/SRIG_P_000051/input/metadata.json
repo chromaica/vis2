@@ -1,0 +1,20 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "Place this telescope in orbit around an exoplanet, with a photorealistic Milky Way background.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic image depicting the Hubble Space Telescope, as seen in image 1, positioned in orbit around a visible exoplanet. The background should feature the vibrant and photorealistic expanse of the Milky Way galaxy.",
+  "annotator": "samin",
+  "objects": [
+    "Hubble Space Telescope",
+    "Exoplanet",
+    "Milky Way galaxy",
+    "Orbital position"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,27 @@
+{
+  "subtopic": "Receipts",
+  "prompt": "Edit image 1: Present the receipt content within a clean UI card structure and font style similar to the reward panels displayed in image 2, giving it an app-like look.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1750833135575,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit image 1. Redesign the receipt content from image 1 to display within one or more clean, modern UI cards. Adopt the visual style, including font family, weight, and size hierarchy, from the 'July rewards' and 'Total rewards' panels shown in image 2. The entire presentation should reflect an app-like aesthetic, making the receipt details appear as a native mobile application screen element.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Mobile phone screen interface",
+    "App screen header/title bar",
+    "One or more modern UI cards",
+    "Primary receipt total amount",
+    "Receipt payment status/title",
+    "Transaction date and time",
+    "Subtotal and tax breakdown details",
+    "VAT rate table content",
+    "Receipt or invoice number",
+    "Bottom navigation bar"
+  ]
+}

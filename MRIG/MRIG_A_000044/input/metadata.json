@@ -1,0 +1,24 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Traditional art",
+  "prompt": "A traditional oilpainting portrait of a woman, focusing on her face and expression similar to image 1, rendered using only the soft and subtle color palette provided in image 2.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a traditional oil painting portrait of a woman. The subject's face, direct gaze, and subtly contemplative expression should closely resemble those of the woman in image 1. The entire artwork must be rendered exclusively using the soft, muted, and pastel color palette provided in image 2, which includes shades of light lavender, blush pink, and creamy off-white.",
+  "annotator": "samin",
+  "objects": [
+    "traditional oil painting style",
+    "portrait of a woman",
+    "woman's face (resembling image 1)",
+    "direct gaze (resembling image 1)",
+    "subtly contemplative expression (resembling image 1)",
+    "soft, muted, pastel color palette (as in image 2)",
+    "light lavender color",
+    "blush pink color",
+    "creamy off-white color"
+  ]
+}

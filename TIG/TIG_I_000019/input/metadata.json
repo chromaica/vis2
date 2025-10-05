@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "A Windows 95-style interface for managing a Mars colony's life support systems, complete with pixelated icons and dialog boxes",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A retro computer interface, visually styled as Windows 95, displaying controls for a Mars colony's life support systems. The screen features highly pixelated icons, classic Windows 95-style buttons, and multiple open dialog boxes with system data.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Windows 95-style computer interface",
+    "Highly pixelated icons",
+    "Classic Windows 95-style buttons",
+    "Multiple open dialog boxes",
+    "System data within dialog boxes",
+    "Windows 95 desktop background",
+    "Windows 95-style window frames",
+    "Windows 95-style title bars",
+    "UI elements for Mars colony life support controls (e.g., gauges, sliders, readouts)",
+    "Mars colony-related text or branding"
+  ]
+}

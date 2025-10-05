@@ -1,0 +1,23 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "Generate a microscopic-inspired image based on the neutrophil from the first reference image, but replace the cell with clusters of fluffy white cotton balls from the second reference image. Arrange the cotton balls to mimic the lobed structure of the neutrophil, with some areas more densely packed to suggest the granular cytoplasm. Set the scene against a muted green background with faint, translucent membranes to evoke a cellular environment. Introduce variance by adding subtle shadows and slight color gradients (e.g., hints of pale yellow) to the cotton balls for a more lifelike effect.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic, microscopic-inspired image. The central subject should be a cluster of fluffy white cotton balls, similar in texture and appearance to those shown in image 2. These cotton balls must be meticulously arranged to mimic the distinct multi-lobed nuclear morphology and overall granular appearance of the neutrophil cell visible in image 1. Some areas of the cotton ball cluster should appear more densely packed to suggest the granular cytoplasm. Set this structure against a muted green background featuring faint, translucent membrane-like elements to evoke a biological, cellular environment. Apply subtle shadows and delicate color gradients, including hints of pale yellow, to the cotton balls for enhanced photorealism and a more lifelike, volumetric effect.",
+  "objects": [
+    "Cluster of fluffy white cotton balls (central subject)",
+    "Cotton balls meticulously arranged to mimic multi-lobed neutrophil nuclear morphology",
+    "Granular appearance of the cotton ball cluster",
+    "Densely packed areas within the cotton ball cluster (suggesting granular cytoplasm)",
+    "Muted green background",
+    "Faint, translucent membrane-like elements on the background",
+    "Subtle shadows on the cotton balls",
+    "Delicate color gradients on the cotton balls, including hints of pale yellow"
+  ]
+}

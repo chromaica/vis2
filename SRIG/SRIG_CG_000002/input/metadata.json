@@ -1,0 +1,26 @@
+{
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "Generate a photorealistic urban street scene guided by this semantic segmentation mask, depicting cars, a pedestrian, trees, and road layout based on the colored regions provided in the reference.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.width.ai%2Fpost%2Fsemantic-segmentation-vs-instance-segmentation&psig=AOvVaw0xkkRrudXWLgO2awT83S70&ust=1748772874480000&source=images&cd=vfe&opi=89978449&ved=0CBcQjhxqFwoTCID1k-G8zY0DFQAAAAAdAAAAABAE",
+  "promptGeneratedTimestamp": 1748684461480,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a photorealistic urban street scene, accurately following the semantic segmentation mask in image 1. The scene features a central asphalt road (purple) flanked by pink sidewalks and numerous parked cars (blue) lining both sides. A red pedestrian is walking in the middle of the street. Green trees are visible along the upper-left and upper-right edges, behind the cars. Yellow traffic signs and poles are present along the street, including a triangular sign on the right. A dark sky forms the backdrop.",
+  "annotator": "ishengfang",
+  "objects": [
+    "central asphalt road",
+    "pink sidewalks flanking the road",
+    "numerous parked cars lining both sides",
+    "a red pedestrian walking in the middle of the street",
+    "green trees along the upper-left and upper-right edges, behind the cars",
+    "yellow traffic signs along the street",
+    "poles along the street",
+    "a triangular sign on the right",
+    "dark sky backdrop"
+  ],
+  "human_annotation": true
+}

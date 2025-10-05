@@ -1,0 +1,24 @@
+{
+  "subtopic": "Games",
+  "prompt": "Edit image 1: Add the 'COMMAND' menu and character portraits from the bottom left and bottom right of image 2 to the corresponding locations in image 1, integrating Image 2's UI style.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1750832006822,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit image 1, a screenshot from 'The Adventures of Tintin: The Secret of the Unicorn', by incorporating specific user interface (UI) elements from image 2, a screenshot from 'Kingdom Hearts'. Extract the 'COMMAND' menu from the bottom-left of image 2 and place it into the bottom-left corner of image 1. Similarly, extract the character portraits, specifically Sora's main portrait and the adjacent smaller party member portrait, from the bottom-right of image 2 and position them in the bottom-right corner of image 1. The newly added UI elements must seamlessly integrate, adopting the distinct visual style, aesthetic, color palette, and layout of image 2's user interface.",
+  "annotator": "ishengfang",
+  "objects": [
+    "The marketplace scene from 'The Adventures of Tintin: The Secret of the Unicorn'",
+    "Tintin character",
+    "'COMMAND' menu in the bottom-left corner",
+    "Sora's main character portrait in the bottom-right corner",
+    "Adjacent smaller party member portrait in the bottom-right corner",
+    "Other background characters from the Tintin scene",
+    "Buildings and structures from the Tintin scene"
+  ]
+}

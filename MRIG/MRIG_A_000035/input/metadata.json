@@ -1,0 +1,23 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Traditional art",
+  "prompt": "Create a soft watercolor floral painting using the flower shape in image 1 and the background wash in image 2.",
+  "cond_images": [
+    "1.png",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a soft watercolor floral painting. Incorporate the specific arrangement and delicate outlines of the tulips and lily of the valley from image 1 as the main floral subject. For the background, apply a soft pink watercolor wash that replicates the gradient and distinctive texture visible in image 2.",
+  "annotator": "samin",
+  "objects": [
+    "Tulips",
+    "Lily of the valley",
+    "Floral arrangement (from image 1)",
+    "Delicate floral outlines",
+    "Soft pink background",
+    "Watercolor wash background",
+    "Background gradient (resembling image 2)",
+    "Distinctive background texture (resembling image 2)"
+  ]
+}

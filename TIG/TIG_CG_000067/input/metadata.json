@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "VFX and Particles",
+  "prompt": "A low-poly confetti burst, with vibrant geometric shapes scattering outward.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A dynamic low-poly confetti burst, featuring a multitude of vibrant geometric shapes\u2014such as triangles, squares, and diamonds\u2014rapidly scattering outward from a central point. The confetti should fill the foreground against a minimalist, studio-lit background, rendered with crisp, clean 3D graphics.",
+  "annotator": "maxku",
+  "objects": [
+    "low-poly confetti burst",
+    "vibrant geometric shapes",
+    "triangles (confetti)",
+    "squares (confetti)",
+    "diamonds (confetti)",
+    "confetti scattering outward from a central point",
+    "confetti filling the foreground",
+    "minimalist background",
+    "studio-lit background",
+    "crisp, clean 3D graphics rendering"
+  ]
+}

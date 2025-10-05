@@ -1,0 +1,27 @@
+{
+  "subtopic": "Traditional art",
+  "prompt": "Edit image 1: Apply divine characteristics inspired by image 2. Change the subject's skin tone to the vibrant blue from image 2 and add the ornate decorative headwear including the peacock feather to her head, maintaining the traditional art style.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748492596575,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1: Change the subject's skin tone to the vibrant blue seen in image 2. Add the ornate, decorative headwear, including the central circular ornament and the prominent peacock feather, from image 2 onto the subject's head. Maintain the traditional art style of image 1 throughout the edits.",
+  "annotator": "kellycyy",
+  "objects": [
+    "subject (woman from image 1)",
+    "vibrant blue skin tone",
+    "ornate headwear",
+    "central circular ornament on headwear",
+    "prominent peacock feather on headwear",
+    "pink lotus flowers",
+    "hands in prayer gesture",
+    "traditional clothing/sari (on subject)",
+    "bindi on forehead",
+    "nose ring"
+  ]
+}

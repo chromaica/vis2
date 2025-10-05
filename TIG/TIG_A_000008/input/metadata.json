@@ -1,0 +1,18 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Traditional art",
+  "prompt": "A vibrant still life composition of assorted fruits and flowers on a richly detailed, wooden table, in soft pastel tones.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a vibrant still life painting featuring a meticulously arranged collection of assorted ripe fruits and blooming flowers, prominently displayed on a richly detailed, ornate wooden table, all rendered with a soft pastel color palette.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Assorted ripe fruits",
+    "Blooming flowers",
+    "Richly detailed, ornate wooden table",
+    "Meticulously arranged collection",
+    "Soft pastel color palette",
+    "Vibrant appearance"
+  ]
+}

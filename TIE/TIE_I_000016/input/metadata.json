@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Convert data points to geometric shapes, like squares and triangles, colored by class with a legend update.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Transform all circular data points on the scatter plot into a mixture of squares and triangles. Each transformed shape must retain its original color corresponding to its class and its original size. Update the 'Classes' legend located in the bottom-left corner to show squares and triangles for each class, maintaining their respective colors. Additionally, update the 'Sizes' legend in the top-right corner to display squares and triangles representing the different size values, while preserving their grayscale progression and relative sizes.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Scatter plot axes and labels",
+    "Data points as a mixture of squares and triangles, retaining original colors and sizes",
+    "'Classes' legend in bottom-left with squares and triangles for each class color",
+    "'Sizes' legend in top-right with squares and triangles displaying grayscale progression and relative sizes",
+    "Purple colored shapes (data points and 'Classes' legend)",
+    "Blue-green colored shapes (data points and 'Classes' legend)",
+    "Green colored shapes (data points and 'Classes' legend)",
+    "Yellow colored shapes (data points and 'Classes' legend)",
+    "Grayscale shapes in 'Sizes' legend",
+    "Circular data points (should not be present)"
+  ]
+}

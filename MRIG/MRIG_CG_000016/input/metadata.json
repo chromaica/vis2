@@ -1,0 +1,25 @@
+{
+  "subtopic": "VFX and Particles",
+  "prompt": "Generate a computer graphics scene with VFX particles emanating from the camera seen in image 1, their motion and pattern inspired by the geometric design on the bow tie from image 2.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748421813637,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a computer graphics scene featuring intricate VFX particles. These particles should emanate from the lens or body of a small, dark digital camera, similar to the one held in image 1. The visual pattern of the particles, along with their trajectories and dynamic motion, must be directly inspired by the geometric design on the blue and white bow tie from image 2. Specifically, the particles should form and move in angular, interwoven patterns that echo the complex square and cross motifs of the bow tie's embroidery, incorporating its characteristic deep blue, white, and black color scheme.",
+  "annotator": "winston",
+  "objects": [
+    "Computer graphics scene",
+    "Small, dark digital camera",
+    "Intricate VFX particles",
+    "Particles emanating from the camera's lens or body",
+    "Particles forming angular, interwoven patterns",
+    "Particles echoing complex square and cross motifs",
+    "Particles with deep blue, white, and black color scheme",
+    "Particles with trajectories and dynamic motion inspired by geometric design"
+  ]
+}

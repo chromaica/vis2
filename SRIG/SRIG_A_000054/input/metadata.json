@@ -1,0 +1,20 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "Generate a collage style similar to the image of flowers in a garden.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a botanical collage artwork, drawing inspiration from the style and composition of image 1. The image should feature a central cluster of vintage botanical elements: a large, detailed grayscale rose, with a vibrant yellow daisy-like flower positioned below it. Various leaves, depicted in a mix of grayscale and muted tones, should surround these flowers. A colorful bird should be perched on a branch at the top-right of the main floral arrangement. Integrate torn paper fragments in muted earth tones as layered elements within the collage. The overall image should have a light, textured background similar to image 1.",
+  "annotator": "Johnny",
+  "objects": [
+    "Large, detailed grayscale rose",
+    "Vibrant yellow daisy-like flower positioned below the rose",
+    "Various leaves in a mix of grayscale and muted tones, surrounding the flowers",
+    "Colorful bird perched on a branch at the top-right of the main floral arrangement",
+    "Torn paper fragments in muted earth tones, integrated as layered elements",
+    "Light, textured background"
+  ]
+}

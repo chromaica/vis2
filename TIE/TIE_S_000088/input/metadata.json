@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Transform the file names into a series of encrypted ciphers.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. In the terminal window, replace all visible file and directory names (e.g., 'a.out', 'compiler', 'denoising.c', '9march1.cpp', 'homework_ds', etc.) with random, unreadable characters that visually resemble encrypted ciphers. Ensure all instances of file and directory names displayed in the terminal output are transformed.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Terminal window",
+    "Ubuntu desktop interface",
+    "Left-side application dock",
+    "Top system bar",
+    "Command line prompts within the terminal (e.g., `raju@raju-HP-Laptop-15-bs1xx:~$ ls`)",
+    "File permission and metadata text within the terminal (e.g., `-rw-r--r--`, `raju raju`, file sizes, dates, times)",
+    "Scrollbar within the terminal window",
+    "Encrypted-cipher-like characters (replacing original file and directory names)",
+    "Terminal window title bar (with \"Activities Terminal\" text and control buttons)",
+    "Terminal application menu bar (with \"File Edit View Search Terminal Help\")"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "subtopic": "CAD models",
+  "prompt": "Apply a realistic, dark gray composite material texture to the entire CAD model of the aircraft wing and engine.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751798717750,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1 to apply a realistic, dark gray composite material texture to the entire aircraft wing and its attached engine.",
+  "annotator": "edisy",
+  "objects": [
+    "Aircraft wing with realistic, dark gray composite material texture",
+    "Aircraft engine attached to the wing, with realistic, dark gray composite material texture",
+    "Gray background"
+  ]
+}

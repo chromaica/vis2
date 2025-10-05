@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "create a milestone timeline line-chart of AI model parameter counts from 2012 (AlexNet) to 2025 (GPT-4o). Add star icons at landmark releases, ensure each marker is color-coded by model family, and fade gridlines for a minimalist look",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a timeline line-chart illustrating the growth of AI model parameter counts from 2012 (AlexNet) to 2025 (GPT-4o). The horizontal axis should represent years, and the vertical axis should display parameter counts on a logarithmic scale. Prominent star icons are placed at key landmark AI model releases along the timeline. Each star icon marker is distinctly color-coded according to its corresponding AI model family, and a clear legend explaining these color assignments is included. Ensure gridlines are very subtle and faded, contributing to a clean and minimalist visual aesthetic.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Timeline line-chart (showing AI model parameter growth)",
+    "Horizontal axis (labeled with years)",
+    "Vertical axis (labeled with parameter counts and logarithmic scale indicator)",
+    "Prominent star icons (marking AI model releases)",
+    "Color-coded star icons",
+    "Legend (explaining star icon color assignments)",
+    "Subtle and faded gridlines",
+    "Labels for specific AI models (e.g., AlexNet, GPT-4o)",
+    "Numerical year labels (e.g., 2012, 2025)",
+    "Numerical parameter count labels"
+  ]
+}

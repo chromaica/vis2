@@ -1,0 +1,24 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "Use the vintage parchment texture for this world map.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 (the blue world map). Transform the blue landmasses to feature the vintage parchment texture and aged appearance derived from reference image 2. Maintain the existing white background.",
+  "annotator": "Johnny",
+  "objects": [
+    "North American landmass with vintage parchment texture",
+    "South American landmass with vintage parchment texture",
+    "African landmass with vintage parchment texture",
+    "European landmass with vintage parchment texture",
+    "Asian landmass with vintage parchment texture",
+    "Australian landmass with vintage parchment texture",
+    "Various island landmasses with vintage parchment texture",
+    "Aged appearance on landmasses",
+    "White background"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "Design a makeup game interface that combines facial feature templates from the first image, cosmetic product icons from the second image, and UI layout inspiration from the third image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a full-screen screenshot for a makeup game interface. The central female character's face should be based on the facial structure and detailed features from image 1. Display the distinct cosmetic product icons from image 2 in a selection bar at the bottom of the interface. The overall UI layout, including the top navigation bar with game controls (e.g., menu, play/forward buttons), should be inspired by the composition and aesthetic of image 3, set within a beauty salon environment.",
+  "annotator": "paria",
+  "objects": [
+    "Full-screen makeup game interface",
+    "Central female character",
+    "Female character's face (based on Image 1's facial structure and detailed features)",
+    "Cosmetic product icons (from Image 2)",
+    "Selection bar at the bottom of the interface",
+    "Overall UI layout (inspired by Image 3)",
+    "Top navigation bar",
+    "Game controls (e.g., menu, play/forward buttons)",
+    "Beauty salon environment"
+  ]
+}

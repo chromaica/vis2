@@ -1,0 +1,28 @@
+{
+  "subtopic": "3D renders or Stylized Rendering",
+  "prompt": "Edit image 1: Replace the laptop screen content showing a clock with the programming code view from image 2. Additionally, render the keyboard in image 1 with a detailed, close-up perspective reminiscent of image 3.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748455351248,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Modify image 1: Replace the digital clock display on the laptop screen with the programming code interface from image 2. Additionally, render the keyboard in image 1 with the detailed, close-up perspective and visual style characteristic of image 3.",
+  "annotator": "winston",
+  "objects": [
+    "Laptop",
+    "Programming code interface on laptop screen",
+    "Detailed, close-up laptop keyboard",
+    "Person's hands",
+    "Smartphone",
+    "Tablet",
+    "Sunglasses",
+    "Desk surface",
+    "Watch on wrist",
+    "Digital clock display (should not be present)"
+  ]
+}

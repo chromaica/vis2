@@ -1,0 +1,24 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Oil painting",
+  "prompt": "Add the turban from the first image and the sunglasses from the third image to the man painitng in the first image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Place the orange turban from image 2 onto the man's head and the black sunglasses from image 3 onto his face. The additions should seamlessly blend into the existing oil painting style of image 1.",
+  "annotator": "paria",
+  "objects": [
+    "man",
+    "orange turban on the man's head",
+    "black sunglasses on the man's face",
+    "suit jacket",
+    "white shirt",
+    "tie",
+    "oil painting style background"
+  ],
+  "human_annotation": true
+}

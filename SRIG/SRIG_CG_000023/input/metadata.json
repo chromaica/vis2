@@ -1,0 +1,23 @@
+{
+  "subtopic": "CAD models",
+  "prompt": "Create a computer graphics CAD model rendering of a bicycle similar in design to the reference image. Depict a technical view, perhaps wireframe or simple shaded, focusing on the geometric structure.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtyU8WC9l9ecBmnNCYe7DWCmni4eBgS1twEw&s",
+  "promptGeneratedTimestamp": 1748766516419,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a computer graphics CAD model rendering of a bicycle, specifically featuring a step-through frame, front basket, and fenders as shown in image 1. Present the bicycle from a side profile technical view. The rendering should focus on the geometric structure, displayed either as a precise wireframe model or with a simple, flat-shaded appearance.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Bicycle",
+    "Step-through frame",
+    "Front basket",
+    "Fenders",
+    "Side profile technical view",
+    "CAD model rendering style",
+    "Wireframe or flat-shaded appearance"
+  ]
+}

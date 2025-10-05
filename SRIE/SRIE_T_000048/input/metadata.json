@@ -1,0 +1,26 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": "Place the logo on the hero\u2019s chest emblem, matching comic line-weight.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 (the comic book cover) by placing the 'STARLIGHT' logo from image 2 onto the circular blue emblem on the superhero's chest. Ensure the logo's line-weight and coloring are adapted to match the flat, vintage comic book art style of image 1.",
+  "annotator": "matina",
+  "objects": [
+    "Yellow comic book cover background",
+    "Superhero in red, white, and blue costume",
+    "\"KNIGHT\" title text",
+    "\"STARLIGHT\" logo on the superhero's chest (adapted to vintage comic style)",
+    "Earth/globe",
+    "Superhero's cape",
+    "Superhero's goggles",
+    "5d price coin/tag",
+    "Airplane/jet",
+    "Clouds"
+  ],
+  "human_annotation": true
+}

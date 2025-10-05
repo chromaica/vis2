@@ -1,0 +1,23 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "Generate a screenshot of a Pac-Man-style game that uses the maze from the first image and replaces the ghost enemies with characters from the second image.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a screenshot of a Pac-Man-style arcade game. The image should prominently feature the exact white maze layout, including the dotted pellets and the distinctive pink striped background, as depicted in image 1. Populate the maze with game elements, replacing the traditional ghost enemies with multiple characters that match the style and appearance of the crewmates from image 2. Position these new enemy characters and the player character (the grey figure) within the maze, similar to their arrangement in image 1. Also include the flag symbols in the corners of the maze as seen in image 1.",
+  "annotator": "paria",
+  "objects": [
+    "Pac-Man-style arcade game screenshot",
+    "White maze layout from image 1",
+    "Dotted pellets",
+    "Pink striped background",
+    "Multiple crewmate-style characters",
+    "Grey player character",
+    "Flag symbols in maze corners",
+    "Traditional ghost enemies (should not be present)"
+  ]
+}

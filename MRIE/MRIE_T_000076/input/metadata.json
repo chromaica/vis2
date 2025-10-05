@@ -1,0 +1,27 @@
+{
+  "subtopic": "Typography",
+  "prompt": "Edit image 1 by applying the layered, distressed typography collage style from image 2 to background areas. Integrate flowing, organic typographic lines around figures like in image 3. Add decorative, hand-lettered title elements inspired by image 4. Transform a shape into a typographic mosaic using integrated letters as seen in image 5.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg",
+    "4.jpeg",
+    "5.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749711886686,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "T",
+  "prompt_refined": "Edit the provided source image (image 1) by performing the following modifications:\n\n1.  Apply the dense, layered, and distressed typography collage style, as exemplified in image 2, to all prominent background areas of image 1, ensuring it integrates with the existing vibrant elements.\n2.  Integrate flowing, organic typographic lines, similar to the illustrative style seen in image 3, so they subtly swirl around and define the contours of the two central human figures (the hands and arms reaching out to each other).\n3.  Add new, decorative, hand-lettered graphic elements, drawing inspiration from the ornate and structured 'title' typography in image 4. These elements should be placed prominently in the upper half of the image, without obscuring the main figures, serving as distinct textual graphics.\n4.  Select a significant, identifiable shape within image 1 (for example, the large red/pink amorphous section on the right side of the canvas, or the prominent 'ITSBAR' rectangle in the lower-middle) and transform it into a dense typographic mosaic, where individual letters are tightly integrated and interlocked to form the complete shape, much like the character mask depicted in image 5.",
+  "annotator": "winston",
+  "objects": [
+    "Two central human figures (hands and arms reaching out to each other)",
+    "Dense, layered, and distressed typography collage in prominent background areas",
+    "Vibrant elements integrated with the background typography",
+    "Flowing, organic typographic lines swirling around the human figures",
+    "Decorative, hand-lettered graphic elements in the upper half",
+    "A dense typographic mosaic in the shape of the large red/pink amorphous section on the right side",
+    "Prominent 'ITSBAR' rectangle in the lower-middle"
+  ]
+}

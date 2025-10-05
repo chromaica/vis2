@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Illuminated Manuscripts",
+  "prompt": "A glimpse into history: 'VERITAS' shines in ornate gold leaf lettering on an aged parchment page. Intricate, swirling borders rich with colorful foliage frame this timeless word, reminiscent of classic manuscript illumination.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "An aged parchment page featuring the word 'VERITAS' in ornate, shining gold leaf lettering, centrally framed by intricate, swirling borders rich with colorful foliage, in the style of classic manuscript illumination.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "aged parchment page",
+    "the word 'VERITAS'",
+    "gold leaf lettering",
+    "ornate lettering",
+    "shining lettering",
+    "intricate borders",
+    "swirling borders",
+    "colorful foliage",
+    "central framing"
+  ]
+}

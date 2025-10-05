@@ -1,0 +1,22 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "Add this red bicycle next to the park bench.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Add a red bicycle next to the wooden park bench, replicating the simple, iconic shape and style of image 2.",
+  "annotator": "Johnny",
+  "objects": [
+    "wooden park bench",
+    "green foliage",
+    "stone wall",
+    "ground path",
+    "red bicycle next to the wooden park bench"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

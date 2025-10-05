@@ -1,0 +1,29 @@
+{
+  "subtopic": "Object detection visuals",
+  "prompt": "Edit image 1: Transform the scene into a computer graphics workspace displaying object detection. Replace the laptop with a multi-monitor setup showing bounding boxes and code like in image 2 and image 3. Place headphones on the subject similar to image 3 and add elements of a busy desk from image 2.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748455084022,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1: Transform the scene into a computer graphics workspace. Replace the laptop with a multi-monitor setup, mirroring the dual-monitor configuration seen in image 2 and image 3. The main monitor should display object detection visualizations, clearly showing bounding boxes. The secondary monitor, positioned alongside the main (e.g., to the left or right), should display lines of code, consistent with the programming interfaces shown in image 2 and image 3. Place over-ear headphones on the subject's head, similar in style and position to those worn in image 3. Add elements of a busy workstation to the desk surface around the monitors and subject, drawing inspiration from the desk items (e.g., papers, desk phone, mug, organizational clutter) present in image 2.",
+  "annotator": "winston",
+  "objects": [
+    "Laptop (should not be present)",
+    "Multi-monitor setup",
+    "Main monitor displaying object detection visualizations with bounding boxes",
+    "Secondary monitor (e.g., to the left or right of main monitor) displaying lines of code",
+    "Over-ear headphones on the subject's head",
+    "Desk surface",
+    "Papers on desk",
+    "Desk phone on desk",
+    "Mug on desk",
+    "Organizational clutter on desk"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,20 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "remove the leaf, and instead tilt the glass in reference 15\u00b0 to the right of 'creek' base aligned with the text.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit `image 1` by removing the black leaf icon positioned above the 'JACOB'S CREEK' text. In its place, insert the wine glass from `image 2`. Tilt the inserted wine glass 15 degrees to its right. Position the base of the tilted wine glass such that it is vertically aligned with the baseline of the 'JACOB'S CREEK' text and horizontally to the right of the word 'CREEK'.",
+  "annotator": "matina",
+  "objects": [
+    "The text \"JACOB'S CREEK\"",
+    "Registered trademark symbol (\u00ae)",
+    "Black leaf icon (should not be present)",
+    "A wine glass, tilted 15 degrees to its right, positioned with its base vertically aligned with the baseline of the 'JACOB'S CREEK' text and horizontally to the right of the word 'CREEK'",
+    "Red wine inside the tilted wine glass"
+  ]
+}

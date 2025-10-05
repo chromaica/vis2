@@ -1,0 +1,18 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "3D renders",
+  "prompt": "A 3D render of iphone 13 mini, rose gold, showing the phone in the back with the camera lens and the apple logo on the front.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A 3D render of an iPhone 13 Mini in rose gold, with its back prominently displayed, showing the rear camera lenses. An Apple logo is clearly visible on the phone's front screen.",
+  "annotator": "maxku",
+  "objects": [
+    "iPhone 13 Mini",
+    "rose gold color",
+    "back of the iPhone 13 Mini",
+    "rear camera lenses",
+    "Apple logo",
+    "front screen of the iPhone 13 Mini"
+  ]
+}

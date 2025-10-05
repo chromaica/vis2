@@ -1,0 +1,26 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Tables",
+  "prompt": "Replace the 50% in \"Title One\" with a random percentage between 60% and 90% to fill in some more realistic data.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. In the table, locate the cell directly to the right of 'Title One' that currently displays '50%'. Replace this '50%' with a new percentage value between 60% and 90%.",
+  "annotator": "cwhsu",
+  "objects": [
+    "\"Table Infographics\" title",
+    "\"Present complex data in an easy-to-understand way\" subtitle",
+    "Rectangular table grid lines",
+    "Top row of five colored header cells: green with two people icons, blue with a coffee cup icon, red with a box icon, yellow with a bar chart icon, and blue with up/down arrows icon",
+    "Leftmost column with text labels: \"Title One\", \"Title Two\", \"Title Three\", \"Title Four\", \"Title Five\"",
+    "A percentage value between 60% and 90% in the cell directly to the right of \"Title One\"",
+    "\"50%\" in the cells directly to the right of \"Title Two\", \"Title Three\", \"Title Four\", and \"Title Five\"",
+    "\"100%\" in all cells under the coffee cup icon header",
+    "\"10%\" in all cells under the box icon header",
+    "\"50%\" in all cells under the bar chart icon header"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

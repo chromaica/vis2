@@ -1,0 +1,28 @@
+{
+  "subtopic": "Urban & Street Photography",
+  "prompt": "Edit image 1: Introduce several bright yellow and white parking cones and crisp white lines similar to those in image 2 onto the paved ground, adding contrasting elements and structure. Apply a long-exposure photography effect to the walking figure, creating realistic motion blur like the subject in image 3, suggesting dynamic movement. Transform the lighting and atmosphere to a dark, moody night setting, incorporating subtle, photorealistic light trails streaking across the background, drawing from the visual style of image 3.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748657359491,
+  "promptLengthUsed": "long",
+  "task": "MRIE",
+  "topic": "P",
+  "prompt_refined": "Edit image 1:\nIntroduce several bright yellow and white parking cones and crisp white lines onto the cobblestone ground, similar in style and appearance to those shown in image 2. Position these elements on the right side of the walking figure, extending from the foreground towards the midground. Apply a realistic long-exposure motion blur effect to the walking figure, emulating the dynamic blur of the subject in image 3. Transform the lighting and atmosphere to a dark, moody night setting, reflecting the low-light conditions in image 3. Incorporate subtle, photorealistic light trails streaking horizontally across the background concrete walls and in the upper background, replicating the dynamic light streaks observed in image 3.",
+  "annotator": "boris",
+  "objects": [
+    "walking figure with long-exposure motion blur effect",
+    "cobblestone ground",
+    "concrete walls",
+    "bright yellow and white parking cones on the right side of the walking figure, extending from foreground to midground",
+    "crisp white lines on the right side of the walking figure, extending from foreground to midground",
+    "dark, moody night lighting and atmosphere",
+    "photorealistic light trails streaking horizontally across background concrete walls",
+    "photorealistic light trails in the upper background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "In the first image, replace the 'Play!' button with the 'LEVEL UP' badge from second image, and replace the center booster icon with the striped red candy from third image. Make sure the replacements fit visually with the layout and do not affect other elements of the image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Modify image 1. Replace the 'Play!' button, located at the bottom center of the pink pop-up window, with the 'LEVEL UP' badge from image 2. Additionally, replace the central booster icon (depicting a purple package with a plus sign) found under 'Select boosters:' with the red and white striped candy from image 3. Ensure both replaced elements are seamlessly integrated into the image, maintaining the original style, lighting, and scale, without altering any other visual components of the screenshot.",
+  "annotator": "parnian",
+  "objects": [
+    "Pink pop-up window",
+    "\"Level 10000\" text",
+    "\"Clear all the jelly!\" text",
+    "\"Select boosters:\" text",
+    "Booster icon depicting chocolate candy",
+    "Booster icon depicting colorful candies",
+    "Game background with numbers and path",
+    "'LEVEL UP' badge at the bottom center of the pink pop-up window",
+    "Red and white striped candy under 'Select boosters:'",
+    "'Play!' button (should not be present)"
+  ]
+}

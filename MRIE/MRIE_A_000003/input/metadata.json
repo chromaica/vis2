@@ -1,0 +1,22 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Stylized art",
+  "prompt": "Add the pink blossoms from the tree in the third image to the trees present in the second image, and then convert the modified second image into the stylized art aesthetic of the first image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 2. Incorporate the dense pink blossoms from the tree in image 3 onto all the trees in image 2. Subsequently, render the entire modified image in the bold, stylized art aesthetic of image 1, capturing its characteristic simplified forms, vibrant colors, and distinctive brushwork.",
+  "annotator": "paria",
+  "objects": [
+    "Trees with dense pink blossoms",
+    "Path",
+    "Grass/foliage",
+    "Stylized sky",
+    "Distant landscape"
+  ],
+  "human_annotation": true
+}

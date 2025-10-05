@@ -1,0 +1,23 @@
+{
+  "task": "MRIE",
+  "topic": "P",
+  "subtopic": "Scenic Nature Parks",
+  "prompt": "Add the chick from the first image to the second image right in front of the kayak, then add the boat from the third image to the background, paddling off to the right and disappearing from the view.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 2. Add the duckling from image 1 into the water directly in front of the kayak. Then, incorporate the light blue rowboat with its two occupants from image 3 into the background of image 2. Position the rowboat so it appears to be paddling towards the right, subtly disappearing from view at the right edge of the frame.",
+  "annotator": "boris",
+  "objects": [
+    "Yellow kayak",
+    "Person in kayak",
+    "Paddle",
+    "Duckling in the water directly in front of the kayak",
+    "Light blue rowboat in the background",
+    "Two occupants in the light blue rowboat",
+    "Rowboat paddling towards the right, subtly disappearing from view at the right edge of the frame"
+  ]
+}

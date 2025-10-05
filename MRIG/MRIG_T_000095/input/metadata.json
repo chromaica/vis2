@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": " Develop a sleek audio-tech brand for teens, using the futuristic friendliness of the robot as the mascot and the design simplicity of the second image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a visual graphic for a sleek, modern audio-tech brand targeted at teens. The design should incorporate the friendly, futuristic aesthetic of the pink and white robot from image 1 as the brand's mascot, ensuring it retains its approachable and clean appearance. The overall visual style and graphic elements must embody the minimalist design simplicity and smooth contours exemplified by the red wireless headphones in image 2. The final graphic should convey innovation and appeal to a teenage demographic.",
+  "annotator": "parnian",
+  "objects": [
+    "Pink and white robot",
+    "Robot as brand mascot",
+    "Robot with approachable and clean appearance",
+    "Sleek visual graphic style",
+    "Modern visual graphic style",
+    "Minimalist design simplicity",
+    "Smooth contoured shapes",
+    "Futuristic aesthetic",
+    "Visual elements conveying innovation",
+    "Visual elements appealing to a teenage demographic"
+  ]
+}

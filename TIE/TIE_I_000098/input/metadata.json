@@ -1,0 +1,25 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Change the color of the CAR-A circle to green.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Change the color of the left light-blue circle, labeled 'CAR-A', to green.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Light beige background with grid pattern",
+    "Green left circle",
+    "Dark blue right circle",
+    "Dark blue overlapping region of circles",
+    "Text label 'CAR-A'",
+    "Text label 'CAR-B'",
+    "Text 'Sedan'",
+    "Text 'Hatchback'",
+    "Text '4-Doors'",
+    "Investopedia logo"
+  ],
+  "human_annotation": true
+}

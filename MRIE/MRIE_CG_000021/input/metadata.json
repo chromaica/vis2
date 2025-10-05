@@ -1,0 +1,26 @@
+{
+  "subtopic": "3D renders",
+  "prompt": "Edit image 1 by replacing the background code display with the detailed perspective from image 2. Introduce the 3D rendered Earth from image 3 into the virtual space, floating as if perceived through the VR headset.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748455286367,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1. Replace the entire background, currently a flat display of code, with the immersive perspective of the laptop screen displaying code from image 2. The new background should reflect the depth, angle, and specific elements, such as the keyboard in the foreground, as seen in image 2, creating a virtual display behind the woman. Additionally, introduce the 3D rendered Earth from image 3 into this virtual space. Position the Earth floating prominently in the foreground, centered in the woman's field of view and appearing in front of her gesturing hands, as if it is an interactive element perceived through her VR headset. The Earth should maintain its 3D rendered quality as presented in image 3.",
+  "annotator": "winston",
+  "objects": [
+    "Woman wearing a VR headset",
+    "Woman's gesturing hands",
+    "Immersive virtual display of code, seen from a laptop screen's perspective",
+    "Laptop keyboard, visible in the foreground of the virtual display",
+    "3D rendered Earth, floating prominently in the foreground, centered in the woman's field of view, and appearing in front of her gesturing hands",
+    "Flat display of code (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,27 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "In image 1, within the 'graphic update' section, smoothly transition the existing line graph into the parabolic curve from image 2. Then, blend the pink metallic color style from image 3 with the current purple gradient.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. In the 'graphic update' section (top-middle panel), change the existing line graph's curve to smoothly match the parabolic shape from image 2. Additionally, update the purple gradient fill beneath this graph and the purple progress bar below it, by applying the pink metallic color style and texture from image 3.",
+  "annotator": "maxku",
+  "objects": [
+    "UI layout with multiple panels",
+    "'graphic update' section panel",
+    "X and Y axes for a graph",
+    "Parabolic line graph curve",
+    "Pink metallic gradient fill under the graph",
+    "Pink metallic progress bar",
+    "Highlight update section",
+    "User profile section",
+    "User review section",
+    "Schedule section"
+  ],
+  "human_annotation": true
+}

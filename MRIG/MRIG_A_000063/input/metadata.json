@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "Create a digital painting of the expressive figure and chaotic energy seen in image 1, rendered using the bright, stylized digital art style and vibrant colors from image 2, set within a similar high-altitude cloud environment as shown in image 2.",
+  "cond_images": [
+    "1.png",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a vibrant digital painting featuring a screaming human figure, depicted in a side profile view as seen in image 1, with its form dynamically dissolving into swirling, expressive plumes of vapor or energy. Render this figure and its surroundings using the bright, stylized digital art style of image 2, characterized by its clean lines, smooth gradients, and intensely saturated colors, including the vivid blues and luminous whites. The scene should be set in an expansive, high-altitude environment, with the figure positioned prominently amidst the billowy cumulus clouds and vast blue sky seen in image 2, capturing a similar perspective looking down towards a distant landscape or body of water.",
+  "annotator": "samin",
+  "objects": [
+    "screaming human figure (in side profile view)",
+    "figure's form dynamically dissolving into swirling plumes of vapor or energy",
+    "billowy cumulus clouds",
+    "vast blue sky",
+    "distant landscape or body of water (seen looking down from high altitude)",
+    "bright, stylized digital art style",
+    "clean lines (as part of the style)",
+    "smooth gradients (as part of the style)",
+    "intensely saturated colors",
+    "vivid blues and luminous whites"
+  ]
+}

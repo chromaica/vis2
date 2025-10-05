@@ -1,0 +1,26 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Blueprint",
+  "prompt": "Make the blueprint more clear and remove unnecessary details. Maintain the overall structure and style of the blueprint.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "1.png source: https://evstudio.com/vintage-and-modern-architectural-drawings/",
+  "prompt_refined": "Edit image 1, an architectural blueprint, to enhance its clarity and legibility. Improve the sharpness and contrast of all lines, while removing any faint background smudges, extraneous marks, or minor, non-essential annotations that contribute to visual clutter. The distinctive black-and-white line-art style and the precise architectural structure of the building section must be fully preserved without alteration.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Architectural blueprint",
+    "Building section drawing",
+    "Multiple detailed architectural drawings",
+    "Architectural lines",
+    "Architectural text labels (e.g., \"SECTION\", \"DETAIL\", \"SANCTUARY\", \"HALL 110\", \"KINDERGARTEN 109\", \"MECH RM. 171\")",
+    "Numerical dimensions and measurements",
+    "Black-and-white line-art style",
+    "Faint background smudges (should not be present)",
+    "Extraneous marks (should not be present)",
+    "Minor, non-essential annotations contributing to visual clutter (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

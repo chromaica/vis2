@@ -1,0 +1,30 @@
+{
+  "subtopic": "Branding and visual identity",
+  "prompt": "Edit image 1: Expand the collection by adding more brand logos from image 3. Organize these logos using a grid layout and ranking presentation style inspired by image 4 and 5. Classify the logos based on brand architecture concepts from image 2, incorporating simple labels.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg",
+    "4.jpeg",
+    "5.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749712300648,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "T",
+  "prompt_refined": "Edit image 1: Create an expanded visual collection of brand logos by combining the existing logos in image 1 with additional logos selected from image 3.\nOrganize all these logos in a clear, structured grid layout. This grid should visually incorporate the brand architecture concepts from image 2. Specifically, group logos under categories such as 'Branded House', 'Subbrands', 'Endorsed Brands', and 'House of Brands', using simple, clear textual labels for each group, similar to the headers in image 2.\nWithin each of these classified groups, arrange the logos further using a ranking presentation style, inspired by the numbered, multi-column grids shown in image 4 and image 5, to create a hierarchy or order among the brands.",
+  "annotator": "winston",
+  "objects": [
+    "multiple brand logos",
+    "grid layout",
+    "\"Branded House\" category label",
+    "\"Subbrands\" category label",
+    "\"Endorsed Brands\" category label",
+    "\"House of Brands\" category label",
+    "logos grouped under category labels",
+    "ranking numbers (e.g., 1, 2, 3...)",
+    "multi-column arrangement within groups",
+    "clean, plain background"
+  ]
+}

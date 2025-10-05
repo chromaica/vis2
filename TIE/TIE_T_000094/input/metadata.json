@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "Add realistic ink drips to the bottom of each letter so it looks freshly painted.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Add realistic ink drips to the bottom of each letter within the \"SO SERIOUS?\" and \"HAHAHAHA\" textual graphic, making them appear freshly painted.",
+  "annotator": "matina",
+  "objects": [
+    "Joker-like face graphic",
+    "\"SO SERIOUS?\" textual graphic",
+    "\"HAHAHAHA\" textual graphic",
+    "Green hair",
+    "Red eyes",
+    "Yellow teeth",
+    "Realistic ink drips at the bottom of \"SO SERIOUS?\" letters",
+    "Realistic ink drips at the bottom of \"HAHAHAHA\" letters",
+    "Freshly painted appearance of ink drips",
+    "Purple background"
+  ]
+}

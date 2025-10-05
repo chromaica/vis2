@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "Reproduce the glitch artifacts and color fringing on the letters.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit Image 1, the textual graphic of Joker's face. Apply the style of digital glitch artifacts and severe color fringing, as shown in reference Image 2, specifically to all the individual letters and words within Image 1. Ensure the visual corruption includes horizontal scanline distortion, color channel separation (e.g., red, green, blue shifts), and general pixelation on the text elements, while leaving the background largely unaffected.",
+  "annotator": "matina",
+  "objects": [
+    "Joker's face formed by text",
+    "Individual letters and words exhibiting visual corruption",
+    "Digital glitch artifacts on text elements",
+    "Severe color fringing on text elements",
+    "Horizontal scanline distortion on text elements",
+    "Color channel separation (e.g., red, green, blue shifts) on text elements",
+    "General pixelation on text elements",
+    "Orange background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

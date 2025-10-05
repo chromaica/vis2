@@ -1,0 +1,22 @@
+{
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "Change the color of all the segmented cow masks to bright green.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751761304398,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1 by changing the color of every distinct segmented cow region to bright green.",
+  "annotator": "edisy",
+  "objects": [
+    "bright green cows",
+    "grass",
+    "hills",
+    "sky",
+    "blurred foreground foliage",
+    "ultralytics logo"
+  ]
+}

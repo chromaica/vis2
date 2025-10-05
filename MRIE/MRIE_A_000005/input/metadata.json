@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "Replace the Lancome perfume and yellow flower in the first image with the perfume from the second image and the flower from the third image, respectively.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the pink Lancome perfume bottle located in the upper-left area with the blue Miss Dior perfume bottle from image 2. Additionally, replace the yellow flower positioned directly below the perfume bottle and to the left of the face with the pink lily flower from image 3.",
+  "annotator": "paria",
+  "objects": [
+    "blue Miss Dior perfume bottle (in the upper-left area)",
+    "pink lily flower (below the perfume bottle and to the left of the face)",
+    "pink Lancome perfume bottle (should not be present)",
+    "yellow flower (should not be present)",
+    "face",
+    "hand",
+    "blue bird",
+    "blue cushion",
+    "green ball",
+    "stuffed bunny"
+  ]
+}

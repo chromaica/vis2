@@ -1,0 +1,32 @@
+{
+  "subtopic": "Posters",
+  "prompt": "Transform image 1's poster content: use image 3's multi-column layout and colored sections; integrate image 4's vibrant abstract shapes and gradients; add text elements with the layered, mixed-font style of image 5; and use image 2's concept of text in shapes for specific words.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg",
+    "4.jpeg",
+    "5.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749712046110,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "T",
+  "prompt_refined": "Edit the framed poster content in image 1. Replace its current design with a new composition that utilizes image 3's multi-column layout and distinct colored sections. Within these colored sections, integrate image 4's vibrant abstract shapes and gradients as a background layer. For the text elements, adopt the layered, mixed-font, and varied-size typographic style seen in image 5, ensuring the content remains a list of Christmas edibles. Additionally, for prominent words from this list (e.g., 'Mince Pies', 'Stollen', 'Sugar Cookies'), apply image 2's concept of enclosing text within distinct, simple shapes like ovals or circles.",
+  "annotator": "winston",
+  "objects": [
+    "Framed poster",
+    "Multi-column layout",
+    "Distinct colored sections",
+    "Vibrant abstract shapes",
+    "Gradients",
+    "Text: List of Christmas edibles (e.g., 'Mince Pies', 'Stollen', 'Sugar Cookies', 'Christmas Cake', 'Gingerbread', 'Yule Log', 'Candy Canes', 'Peppermint Creams', 'Chocolate Truffles', 'Christmas Pudding')",
+    "Layered typography",
+    "Mixed-font typography",
+    "Varied-size typography",
+    "Text enclosed in simple shapes (e.g., ovals, circles)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

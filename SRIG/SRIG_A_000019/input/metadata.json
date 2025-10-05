@@ -1,0 +1,22 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Stylized art",
+  "prompt": "Generate a digital style of a floating castle",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a digital art style image of a floating castle, incorporating the distinctive, multi-spired silhouette from image 1. The castle should be positioned centrally in the mid-air, with atmospheric elements suggesting its levitation.",
+  "annotator": "Johnny",
+  "objects": [
+    "Floating castle",
+    "Multi-spired silhouette (from image 1, as part of the castle)",
+    "Castle positioned centrally",
+    "Castle in mid-air",
+    "Atmospheric elements",
+    "Visual elements suggesting levitation"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,22 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "the cellular structure of the object in the reference image, as seen under a microscope",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic image displaying the intricate cellular structure of the red onion shown in image 1, as observed under a high-magnification microscope.",
+  "annotator": "samin",
+  "objects": [
+    "Red onion cells",
+    "Plant cell walls",
+    "Nuclei",
+    "Cytoplasm",
+    "Vacuoles",
+    "Intercellular spaces",
+    "Microscopic field of view",
+    "Purple/reddish pigmentation"
+  ]
+}

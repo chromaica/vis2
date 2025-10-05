@@ -1,0 +1,22 @@
+{
+  "task": "SRIG",
+  "topic": "T",
+  "subtopic": "Newspaper",
+  "prompt": "Create an advertisement on the news paper for the washing machine in the image. The final output should include the washing machine image and introduction of the product. The newspaper is a handwritten one, which is having a vintage style. The washing machine is a ground breaking product that can wash clothes without human intervention. It only cost $200.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "annotator": "donaldtsang",
+  "prompt_refined": "Generate a vintage-style newspaper advertisement. The advertisement should feature the black-and-white line drawing of the 'Yorkshire Maiden' washing machine from image 1 as its central visual element. Below or adjacent to the illustration, include prominent ad copy text. This text should clearly state: \"Introducing The Yorkshire Maiden: A ground-breaking product that can wash clothes without human intervention. It only cost $200.\" The entire newspaper background, including any headlines or surrounding text, should have a handwritten, aged, and distressed vintage aesthetic, with the ad copy rendered in a font consistent with this handwritten, old-fashioned style.",
+  "objects": [
+    "Vintage newspaper advertisement layout",
+    "Black-and-white line drawing of 'Yorkshire Maiden' washing machine (from image 1)",
+    "\"Introducing The Yorkshire Maiden: A ground-breaking product that can wash clothes without human intervention. It only cost $200\" text",
+    "Aged and distressed vintage newspaper background texture",
+    "Vintage-style newspaper headlines",
+    "Vintage-style surrounding newspaper text",
+    "Handwritten, old-fashioned style font for the ad copy text",
+    "Ad copy text placed below or adjacent to the washing machine illustration"
+  ]
+}

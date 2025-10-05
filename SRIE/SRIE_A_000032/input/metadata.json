@@ -1,0 +1,28 @@
+{
+  "subtopic": "Digital arts",
+  "prompt": "Put the person  (universe god) on image 1 into image 2 and make the head floating on the sea water.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748494570104,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1. Replace the person sitting on the suitcase with the head of the 'universe god' from image 2. The cosmic head should be floating on the surface of the sea water, maintaining its distinctive celestial and flowing cosmic energy appearance as seen in image 2.",
+  "annotator": "kellycyy",
+  "objects": [
+    "sea water",
+    "sky",
+    "clouds",
+    "head of the 'universe god'",
+    "celestial and flowing cosmic energy",
+    "planets",
+    "stars",
+    "suitcase",
+    "person sitting on the suitcase (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

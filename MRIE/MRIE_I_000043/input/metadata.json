@@ -1,0 +1,27 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "Edit image 1: Apply the vibrant, flat cartoon style from images 2 & 3 to the UI mockups. Replace the generic user icon with a character similar to those in image 2, and integrate characters or themes from image 3 into the branding and background elements of the mockups.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Modify image 1 by transforming all eight UI mockups into the vibrant, flat, and distinct cartoon aesthetic seen in image 2 and image 3, ensuring crisp lines and bold coloring. Replace the generic 'person' icons \u2013 specifically the prominent user profile icon in the third mockup (top row, third from left) and the 'person' icon within the bottom navigation bar across all relevant mockups (e.g., first, fourth, fifth, sixth, seventh, eighth) \u2013 with a character from the Adventure Time universe, similar in style and whimsical nature to Finn or Jake from image 2. Integrate iconic Adventure Time characters or thematic elements from image 3 into the 'LOGO' branding areas at the top of each relevant mockup (e.g., mockups 2-8). Additionally, subtly incorporate background elements, landscapes, or minor characters from image 3 into the currently blank white spaces surrounding the UI elements of the mockups.",
+  "annotator": "maxku",
+  "objects": [
+    "Eight UI mockups",
+    "Adventure Time character as user profile icon (in the third mockup)",
+    "Adventure Time character(s) in bottom navigation bars",
+    "Adventure Time characters in 'LOGO' branding areas",
+    "Adventure Time thematic elements in 'LOGO' branding areas",
+    "Adventure Time background elements surrounding UI",
+    "Adventure Time landscapes surrounding UI",
+    "Adventure Time minor characters surrounding UI",
+    "Generic 'person' icons (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

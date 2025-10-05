@@ -1,0 +1,18 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "A segmentation map of mona lisa portrait.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A segmentation map of the Mona Lisa portrait, featuring distinct, flat, solid color regions for each segmented part with clear, sharp boundaries.",
+  "annotator": "maxku",
+  "objects": [
+    "Mona Lisa portrait",
+    "Segmentation map",
+    "Distinct, flat, solid color regions",
+    "Clear, sharp boundaries"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

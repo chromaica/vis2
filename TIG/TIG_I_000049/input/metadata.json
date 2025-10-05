@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "create a Martian surface map used by explorers, highlighting ancient ruins, rover trails, underground ice deposits, and high-risk dust storm zones with NASA-style interface overlay on top.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a highly detailed Martian surface map designed for explorers. The central map area should clearly display the Martian terrain, with prominent markings for ancient ruins, visible paths of rover trails, designated zones of underground ice deposits, and clearly demarcated high-risk dust storm zones. A futuristic, functional NASA-style interface overlay should frame the map, featuring digital readouts along the top and sides, and a comprehensive legend in the bottom-left corner.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Highly detailed Martian surface map",
+    "Martian terrain (displayed on the map)",
+    "Markings for ancient ruins on the map",
+    "Visible paths of rover trails on the map",
+    "Designated zones of underground ice deposits on the map",
+    "Demarcated high-risk dust storm zones on the map",
+    "Futuristic, functional NASA-style interface overlay",
+    "Digital readouts along the top and sides (of the interface)",
+    "Comprehensive legend in the bottom-left corner (of the interface)"
+  ]
+}

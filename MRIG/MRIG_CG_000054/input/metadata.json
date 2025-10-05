@@ -1,0 +1,29 @@
+{
+  "subtopic": "Game assets",
+  "prompt": "Create a 3D game asset: a stylized character based on the minifigure from image 1, rendered in the clean, glossy style seen in image 2, and positioned near large, simplified UI elements like those on the monitor in image 2.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748423107803,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a 3D rendered image of a stylized character that visually resembles the minifigure from image 1, adopting its distinct blocky proportions and primary color scheme (yellow, blue, red). The entire scene, including the character and any background elements, must be rendered in the clean, smooth, and highly glossy 3D style seen in image 2, characterized by soft, diffused lighting and vibrant, saturated colors. Position the character prominently within the composition alongside large, simplified, rounded user interface (UI) elements, which should be visually consistent with those displayed on the monitor in image 2. The overall image should evoke the aesthetic of a stylized game screen or interface.",
+  "annotator": "winston",
+  "objects": [
+    "A stylized character visually resembling the minifigure from image 1, with blocky proportions and primary color scheme (yellow, blue, red)",
+    "Prominently positioned character",
+    "Large, simplified, rounded user interface (UI) elements",
+    "Chat bubble UI icon",
+    "Gear UI icon",
+    "Mail UI icon",
+    "Code UI icon",
+    "Search bar UI element",
+    "Entire scene rendered in a clean, smooth, highly glossy 3D style with soft, diffused lighting and vibrant, saturated colors",
+    "Overall aesthetic of a stylized game screen or interface"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

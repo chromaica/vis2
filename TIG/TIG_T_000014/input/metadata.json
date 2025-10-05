@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Textile Art with Text",
+  "prompt": "Imagine 'Weave Your Story' brought to life with thick, textured yarn, each stitch conveying a handmade, charmingly imperfect quality. This textual art rests on a soft, woven fabric, evoking a rustic tapestry or contemporary fiber piece.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "The phrase 'Weave Your Story' rendered in thick, textured yarn letters. Each stitch is visibly handmade and charmingly imperfect. This yarn text is positioned on a background of soft, woven fabric. The overall image should evoke a rustic tapestry or a contemporary fiber art piece.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "The phrase \"Weave Your Story\"",
+    "Letters made of yarn",
+    "Thick yarn letters",
+    "Textured yarn letters",
+    "Visibly handmade stitches on yarn letters",
+    "Charming imperfections on yarn letters",
+    "Soft fabric background",
+    "Woven fabric background"
+  ]
+}

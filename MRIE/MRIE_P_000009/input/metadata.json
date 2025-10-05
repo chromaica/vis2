@@ -1,0 +1,24 @@
+{
+  "task": "MRIE",
+  "topic": "P",
+  "subtopic": "Wildlife & Nature Photography",
+  "prompt": "Add the hut from the second image to the foreground of the first image. Blur it. Also add some butterflies fom the third image to the scene.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 (the landscape with the lake) by adding elements from image 2 and image 3. Place the rustic wooden hut from image 2 in the bottom-left foreground of image 1, applying a strong blur to it to create a shallow depth-of-field effect. Additionally, introduce several butterflies, consistent in appearance with the orange and brown butterfly in image 3, to be flying or resting amongst the grass and wildflowers in the foreground of image 1.",
+  "annotator": "boris",
+  "objects": [
+    "landscape",
+    "lake",
+    "mountains",
+    "green hills and grass",
+    "roads",
+    "rustic wooden hut in the bottom-left foreground (blurred)",
+    "several orange and brown butterflies",
+    "wildflowers in the foreground"
+  ]
+}

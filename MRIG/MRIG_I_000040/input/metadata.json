@@ -1,0 +1,31 @@
+{
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Create a data visualization chart combining the radial layout and central value concept from image 2. Represent individual data using elements inspired by image 1's bar and pie charts, applying the clean gradient and shadow styling from image 1.",
+  "cond_images": [
+    "1.png",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "Modern charts and diagrams",
+  "searchQueryGeneratedTimestamp": 1752243708468,
+  "promptGeneratedTimestamp": 1752243828054,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "I",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a data visualization chart. The chart should adopt the radial layout and central value concept from image 2. Individual data should be represented by radiating segments that appear visually distinct and volumetric, drawing inspiration from the solid elements (bars and pie slices) of image 1. Apply the clean gradient fills and subtle shadow styling from image 1 to both the central element and all radiating segments. Ensure clear numerical values are displayed for the central aggregate and each individual data segment.",
+  "objects": [
+    "Radial data visualization chart layout",
+    "Central circular element",
+    "Clear numerical aggregate value in the central element",
+    "Multiple radiating data segments",
+    "Volumetric appearance for radiating segments",
+    "Clean gradient fills on the central element and radiating segments",
+    "Subtle shadow styling on the central element and radiating segments",
+    "Clear numerical values for each radiating segment",
+    "Visually distinct individual data segments",
+    "Text labels for individual data segments"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

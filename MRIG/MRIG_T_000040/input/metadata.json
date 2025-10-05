@@ -1,0 +1,20 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "Generate a poster for an imaginary film with the Tower in the first image as background and the person in the second in the center with text: 'Messi in Tehran'.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a film poster for an imaginary film. The Azadi Tower from image 1 should form the background. Lionel Messi from image 2 should be positioned in the center foreground. Include the title text 'Messi in Tehran' prominently on the poster.",
+  "annotator": "parnian",
+  "objects": [
+    "Azadi Tower as background",
+    "Lionel Messi in the center foreground",
+    "Text: 'Messi in Tehran'"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

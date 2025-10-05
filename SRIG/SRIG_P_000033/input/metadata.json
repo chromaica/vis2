@@ -1,0 +1,21 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Medical images",
+  "prompt": "Using the provided edge map of a brain, generate a CT scan showing anatomical detail.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic CT scan of a human brain, strictly adhering to the anatomical outlines provided in image 1. The resulting axial view should clearly depict detailed internal structures, including the skull, brain parenchyma, and cerebrospinal fluid spaces like the ventricles. The image must exhibit the realistic grayscale intensities characteristic of a medical CT scan, accurately rendering the different tissue densities.",
+  "annotator": "samin",
+  "objects": [
+    "human brain",
+    "skull",
+    "brain parenchyma",
+    "cerebrospinal fluid spaces",
+    "ventricles",
+    "axial view",
+    "realistic medical CT scan appearance"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Cultural or Heritage art",
+  "prompt": "Change the color palette of the first image to match that of the second image, and replace the three music symbols in the first image with the symbol from the third image.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Apply the color palette from image 2 (red, gold, cocoa brown, dartmouth green, and french blue) to the artwork. Replace each of the three music note symbols at the top of image 1 with the music note symbol from image 3, preserving their original positions.",
+  "annotator": "paria",
+  "objects": [
+    "Three stylized human figures",
+    "Guitar-like instrument",
+    "Background grid pattern",
+    "Rainbow-like element",
+    "Three music note symbols (specific design from image 3), at the top",
+    "Red color (applied to elements)",
+    "Gold color (applied to elements)",
+    "Cocoa brown color (applied to elements)",
+    "Dartmouth green color (applied to elements)",
+    "French blue color (applied to elements)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

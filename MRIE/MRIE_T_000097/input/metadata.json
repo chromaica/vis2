@@ -1,0 +1,28 @@
+{
+  "subtopic": "Comics",
+  "prompt": "Apply the layered, colorful text style from image 3 to the speech bubbles in image 1. Change the caption text below the comic panels in image 1 to the decorative, script-like font style seen in image 2.",
+  "cond_images": [
+    "1.png",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1750178589587,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "T",
+  "prompt_refined": "Edit image 1. For all speech bubbles in image 1, apply the layered, colorful, sans-serif font style, including its 3D appearance and outlines, as exemplified by the words 'WORDS' and 'PAGES' in image 3. Additionally, modify the 'DEPAUL + MANLEY' caption text located at the bottom center of the comic panels in image 1, replacing its current style with the ornate, flowing script font, including its characteristic flourishes and thick-thin strokes, as demonstrated by the words 'Design' and 'Visual' in image 2.",
+  "annotator": "winston",
+  "objects": [
+    "comic strip layout",
+    "Phantom character",
+    "speech bubble with layered, colorful, sans-serif text \"THERE MAY BE OTHERS...\"",
+    "speech bubble with layered, colorful, sans-serif text \"TAKE THE WOMAN AND GO, PHANTOM!\"",
+    "speech bubble with layered, colorful, sans-serif text \"IT'S BETTER IF YOU GO, OLD FRIEND...\"",
+    "speech bubble with layered, colorful, sans-serif text \"TAKE SAVARNA WITH YOU.\"",
+    "\"DEPAUL + MANLEY\" caption text in ornate, flowing script font",
+    "woman character",
+    "male characters",
+    "dog character"
+  ]
+}

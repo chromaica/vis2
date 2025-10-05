@@ -1,0 +1,17 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "An artful collage blending forest scenes with geometric patterns and black-and-white photography, creating visual depth.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A multi-layered artistic collage seamlessly blending photorealistic forest landscapes with intricate geometric patterns and stark black-and-white photographic elements, achieving a profound sense of visual depth and dimensionality.",
+  "annotator": "cwhsu",
+  "objects": [
+    "artistic collage",
+    "multi-layered composition",
+    "photorealistic forest landscapes",
+    "intricate geometric patterns",
+    "stark black-and-white photographic elements"
+  ]
+}

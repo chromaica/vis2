@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "Apply the Japanese style to the UI mockup.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 (the UI mockup). Using image 2 (the Japanese landscape art) as a style reference, apply its vibrant, illustrative Japanese aesthetic to all visual elements of the UI, including backgrounds, buttons, and graphical components. Retain the original layout and text content of the UI.",
+  "annotator": "Johnny",
+  "objects": [
+    "Desktop UI layout",
+    "Mobile UI layout",
+    "\"LOGO\" text",
+    "Navigation menu (Home, About, Gallery, Blog, Contact, search icon)",
+    "Hamburger menu icon",
+    "\"Enjoy Your Style.\" text",
+    "\"SEE MORE\" buttons",
+    "Main hero image (woman with sunglasses)",
+    "Event section text (headlines, descriptions)",
+    "Event section image (woman in suit)"
+  ]
+}

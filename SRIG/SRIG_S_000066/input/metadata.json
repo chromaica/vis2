@@ -1,0 +1,26 @@
+{
+  "subtopic": "Websites",
+  "prompt": "Recreate this social media profile page for a famous historical figure, using the same layout but populating it with historically accurate posts, images, and information.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://cdn.prod.website-files.com/6242172a7e2e2ede634bba2f/6711068f8c5d07680e831623_65771fbf0678f93e588af93d_PROFIL.png",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a new image of a mobile social media profile page. The overall layout, user interface elements, and visual styling of the Instagram profile shown in image 1 must be precisely maintained.\n\nPopulate this page with content for a famous historical figure. Specifically:\n- Replace the circular profile picture (left side, currently 'Bella') with a portrait of the historical figure.\n- Change the username (top left, currently 'bellafoxwell') to an appropriate name for the historical figure.\n- Update the 'Posts', 'Followers', and 'Following' numbers (currently '336', '4,756', '681') to reflect the historical figure's significance.\n- Rewrite the entire bio section (below the stats), including the main description, any linked accounts, and the website URL, with historically accurate details, achievements, or quotes relevant to the figure. Maintain the formatting (e.g., line breaks, emojis if applicable to the historical context).\n- Replace the existing highlight covers (the three circular elements above the post grid, currently labeled 'Newsletter...', 'Testimonials', 'New') and their labels with content relevant to the historical figure's life or work.\n- Fill the main content grid (below the tabs) with image thumbnails depicting historically accurate events, artifacts, or portraits related to the historical figure.\n- All other static UI elements (e.g., top bar icons, navigation buttons like 'Edit profile', 'Share profile', 'Email', the 'Professional dashboard' box, and bottom navigation bar icons) should remain identical to image 1 in appearance and position.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Mobile phone top status bar (including 'No SIM', Wifi, time, battery icon)",
+    "Instagram top header UI elements (username, plus icon, menu icon)",
+    "Circular profile picture of a historical figure on the left side",
+    "Updated 'Posts', 'Followers', and 'Following' numbers and labels",
+    "Bio section with historical content (description, linked accounts, website URL)",
+    "\"Professional dashboard\" box",
+    "'Edit profile', 'Share profile', 'Email' buttons",
+    "Three circular highlight covers with historical content and labels",
+    "Main content grid with image thumbnails depicting historical events, artifacts, or portraits",
+    "Instagram bottom navigation bar icons"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

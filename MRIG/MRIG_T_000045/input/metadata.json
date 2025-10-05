@@ -1,0 +1,23 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Create a smart toy brand identity by merging the futuristic symbol from Image 3 and the playful animals in Image 2.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a smart toy brand logo. The logo should feature the playful, cute 3D cartoon animals from image 2 (the giraffe and zebra-like character) as the central subject. Integrate visual elements from the futuristic circuit board style of image 1 (the blue and purple lion head), such as subtle glowing lines, tech patterns, or a vibrant blue-purple gradient applied to the animals or forming their background. Ensure the animals maintain their friendly, rounded, and approachable appearance, while incorporating a sense of advanced technology. The overall composition should be a cohesive and modern emblem.",
+  "annotator": "parnian",
+  "objects": [
+    "Playful 3D cartoon giraffe",
+    "Playful 3D cartoon zebra-like character",
+    "Subtle glowing lines",
+    "Tech patterns",
+    "Vibrant blue-purple gradient",
+    "Futuristic circuit board aesthetic",
+    "Friendly and rounded animal shapes",
+    "Modern emblem composition"
+  ]
+}

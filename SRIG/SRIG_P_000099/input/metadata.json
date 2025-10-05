@@ -1,0 +1,22 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "a dense asteroid field formed after a collision, with asteroid positions guided by the fracture in the plate in the reference image.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic image of a dense asteroid field. The arrangement and spatial distribution of the asteroids should precisely replicate the fracture pattern of the broken plate in image 1. Asteroids should form clusters mirroring the shapes of the individual plate fragments, with prominent radial lanes of asteroids corresponding to the major cracks. A noticeable void or sparser region of asteroids should occupy the center, reflecting the origin point of the plate's breakage.",
+  "annotator": "samin",
+  "objects": [
+    "Photorealistic asteroid field",
+    "Asteroid clusters (shaped like plate fragments)",
+    "Radial lanes of asteroids",
+    "Central void of asteroids",
+    "Individual asteroids",
+    "Space background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

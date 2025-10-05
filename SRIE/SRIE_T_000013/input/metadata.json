@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Add extra small fires around the dog\u2019s laptop.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Add multiple small fires around the table in front of the dog, specifically on the tabletop surface and around its base. These fires should match the distinct smooth, glowing style and red-orange-yellow gradient of image 2, complementing the existing cartoon aesthetic.",
+  "annotator": "matina",
+  "objects": [
+    "dog",
+    "chair",
+    "table",
+    "mug on the table",
+    "speech bubble with \"THIS IS FINE\" text",
+    "large cartoon fires",
+    "green room interior",
+    "smoke or burnt ceiling",
+    "small smooth glowing fires with red-orange-yellow gradient on the tabletop surface",
+    "small smooth glowing fires with red-orange-yellow gradient around the table's base"
+  ]
+}

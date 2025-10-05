@@ -1,0 +1,16 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "A close-up of a vintage camera resting on a wooden table, surrounded by film rolls and photographs.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A sharp close-up, photorealistic image of a classic vintage camera, well-preserved, resting centrally on a rustic wooden table with distinct grain. Several film rolls are loosely scattered to the left and in front of the camera, while a small stack of old, sepia-toned photographs are placed to its right, with some prints partially overlapping.",
+  "annotator": "cwhsu",
+  "objects": [
+    "classic vintage camera (resting centrally)",
+    "rustic wooden table (with distinct grain)",
+    "film rolls (scattered to the left and in front of the camera)",
+    "small stack of old, sepia-toned photographs (placed to the right of the camera, with some prints partially overlapping)"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "Edit image 1. Modify the alien inside the UFO, giving it the head shape and large dark eyes of the alien icon in image 2. Add a downward searchlight beam from the UFO, styled like the light cone in image 3.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Modify the alien visible within the UFO's cockpit, replacing its head with the distinct head shape and large, dark, almond-shaped eyes of the alien icon depicted in image 2. Additionally, add a downward searchlight beam originating from the center underside of the UFO, styled to resemble the conical, light-colored beam illustrated in image 3.",
+  "annotator": "maxku",
+  "objects": [
+    "UFO",
+    "Alien body within UFO's cockpit",
+    "Alien head with distinct shape",
+    "Large, dark, almond-shaped alien eyes",
+    "Downward, conical, light-colored searchlight beam originating from the center underside of the UFO",
+    "Original alien head (should not be present)"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "Generate a semantic segmentation visualization of different office supplies scattered on a desk, applying colorful segmentation masks like those in the reference image, for computer vision analysis.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://www.mvtec.com/fileadmin/_processed_/4/9/csm_deep-learning-semantic-segmentation-vegetables-example_556056102f.png",
+  "promptGeneratedTimestamp": 1748769033664,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a semantic segmentation visualization depicting various office supplies scattered on a desk. Apply distinct, vibrant, and opaque segmentation masks to each item, capturing the clear object boundaries and solid color style, similar to the masks and top-down perspective shown in image 1. The resulting visualization should be suitable for computer vision analysis.",
+  "annotator": "ishengfang",
+  "objects": [
+    "a desk",
+    "various office supplies",
+    "segmentation masks (on the office supplies)",
+    "distinct colors for masks",
+    "vibrant colors for masks",
+    "opaque masks",
+    "clear object boundaries for masks",
+    "solid color style for masks",
+    "top-down perspective"
+  ]
+}

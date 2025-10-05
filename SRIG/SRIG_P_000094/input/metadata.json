@@ -1,0 +1,26 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Medical images",
+  "prompt": "an MRI scan of the lungs, where areas of TB infection are represented with heatmap patterns.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic MRI scan of the human chest, with a detailed focus on the lungs. Overlay a heatmap pattern, similar to the one depicted in image 1, to highlight areas of tuberculosis infection. The heatmap should display high-intensity red and orange regions indicating severe infection in the upper and middle zones of the right lung, and the mid and lower zones of the left lung. Less severe or surrounding areas should transition through yellow to cyan, illustrating a gradient of infection severity over the lung parenchyma.",
+  "annotator": "samin",
+  "objects": [
+    "Photorealistic MRI scan of the human chest",
+    "Detailed lungs",
+    "Heatmap pattern overlaying the lungs",
+    "High-intensity red heatmap regions in the upper and middle zones of the right lung",
+    "Orange heatmap regions in the upper and middle zones of the right lung",
+    "High-intensity red heatmap regions in the mid and lower zones of the left lung",
+    "Orange heatmap regions in the mid and lower zones of the left lung",
+    "Yellow heatmap regions transitioning from severe areas",
+    "Cyan heatmap regions illustrating a gradient of infection",
+    "Lung parenchyma displaying infection severity gradient"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

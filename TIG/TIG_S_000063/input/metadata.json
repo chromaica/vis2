@@ -1,0 +1,23 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": "Mock up a cozy coffee shop chain website with warm brown and cream colors, steam animations, coffee bean particle effects, interactive store locator with brewing time estimates, and loyalty program rewards visualization",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a website mockup for a cozy coffee shop chain, rendered in warm brown and cream colors. The design should subtly feature wisps of steam rising from implied coffee elements and soft coffee bean particle effects scattered throughout. A prominent, interactive store locator module, centrally placed, should display a map interface with clickable store locations, each clearly showing a 'brewing time estimate'. Additionally, include a clear loyalty program rewards visualization section, perhaps in the top-right, detailing points, tiers, or redeemable items.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Website mockup",
+    "Warm brown and cream color scheme",
+    "Wisps of steam",
+    "Coffee bean particle effects",
+    "Prominent, centrally placed store locator module",
+    "Map interface",
+    "Clickable store locations on map",
+    "'Brewing time estimate' display",
+    "Loyalty program rewards visualization section (top-right)",
+    "Points/tiers/redeemable items display"
+  ],
+  "human_annotation": true
+}

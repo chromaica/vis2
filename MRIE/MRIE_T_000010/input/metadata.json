@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "T",
+  "subtopic": "Meme",
+  "prompt": "Make the chart and the text more clear. Then, turn the last row into the chicken toy instrument from the second image, and make the corresponding man surrounded by multiple males. Finally, change the second row to the instrument from the third image.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit Image 1.\nFirst, enhance the overall resolution and sharpness of the entire chart, ensuring all text, including the top title 'Very accurate musician chart...' and the bottom text 'Millions of people love FUNsubstance.com', along with all graphics, are crisp and clearly legible.\n\nNext, in the second row of Image 1, replace the electric guitar instrument with the violin and bow depicted in Image 3.\n\nFinally, in the fifth (last) row of Image 1:\n1. Replace the keyboard instrument with the yellow rubber chicken toy from Image 2.\n2. On the right side of the equation, replace the two black cat icons with additional blue male icons, so that the original blue male icon is surrounded by a group consisting solely of multiple blue male figures.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "\"Very accurate musician chart...\" text",
+    "\"Millions of people love FUNsubstance.com\" text",
+    "Chart background and lines",
+    "Blue male icons (multiple instances)",
+    "Pink female icons (multiple instances)",
+    "Drum set",
+    "Microphone",
+    "Bass guitar",
+    "Violin with bow (in the second row)",
+    "Yellow rubber chicken toy (in the fifth row)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,27 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "Generate a digital image of the man from image 1 talking with the woman from image 2 in front of a school.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a digital anime-style image depicting the young man from image 1, characterized by his dark messy hair and dark hoodie with orange lining, positioned on the left. He is conversing with the young woman from image 2, identifiable by her long dark hair and blue-grey hoodie, positioned on the right. Both characters are standing in front of a school building, with the scene set during the daytime.",
+  "annotator": "samin",
+  "objects": [
+    "Digital anime art style",
+    "Young man from image 1 (on the left)",
+    "Dark messy hair on the young man",
+    "Dark hoodie with orange lining on the young man",
+    "Young woman from image 2 (on the right)",
+    "Long dark hair on the young woman",
+    "Blue-grey hoodie on the young woman",
+    "Two characters conversing",
+    "School building background",
+    "Daytime scene"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

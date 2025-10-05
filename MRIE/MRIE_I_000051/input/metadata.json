@@ -1,0 +1,27 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Edit image 1's stacked area charts by changing the color of the 'TH' series area to the solid color from image 2, the 'GN' series area using the color from image 3, and the 'EM' series area using the color from image 4.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png",
+    "4.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the information graphics presented in image 1. Modify the fill color for the 'TH' series area in both the left and right stacked charts to match the solid color from image 2. Apply the color from image 3 to the 'GN' series area, and the color from image 4 to the 'EM' series area in both charts.",
+  "annotator": "maxku",
+  "objects": [
+    "Left stacked area chart",
+    "Right stacked area chart",
+    "'TH' series area with color from image 2",
+    "'GN' series area with color from image 3",
+    "'EM' series area with color from image 4",
+    "Chart grid lines",
+    "Y-axis labels",
+    "X-axis labels (years)",
+    "Legend (TH, GN, EM)",
+    "Series labels (TH, GN, EM) within the right chart"
+  ]
+}

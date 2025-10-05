@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": "Create a smart home technology showcase with sleek glass interfaces, IoT device connectivity diagrams, ambient lighting controls, energy consumption charts, and voice command demonstrations",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A futuristic smart home dashboard screenshot, featuring sleek, transparent glass interfaces with a dark, minimalist background. In the center, a detailed IoT device connectivity diagram visually links various smart devices with glowing data lines. To the left, an ambient lighting controls module displays a color palette and intensity sliders. On the right, an energy consumption chart presents real-time power usage as a dynamic line graph. At the bottom, a subtle voice command demonstration is active, showing a microphone icon and a processed command text.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Futuristic smart home dashboard screenshot",
+    "Sleek, transparent glass interfaces",
+    "Dark, minimalist background",
+    "Detailed IoT device connectivity diagram in the center",
+    "Glowing data lines",
+    "Ambient lighting controls module on the left",
+    "Color palette",
+    "Intensity sliders",
+    "Energy consumption chart on the right",
+    "Voice command demonstration at the bottom"
+  ]
+}

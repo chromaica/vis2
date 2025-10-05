@@ -1,0 +1,28 @@
+{
+  "subtopic": "3D renders",
+  "prompt": "Change the upholstery color of all the dining chairs from brown to a vibrant, deep navy blue.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751815377353,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1 by changing the upholstery color of all the dining chairs from brown to a vibrant, deep navy blue.",
+  "annotator": "edisy",
+  "objects": [
+    "white dining table",
+    "dining chairs with vibrant, deep navy blue upholstery",
+    "pendant lights",
+    "framed wall art",
+    "sideboard cabinet",
+    "vase with greenery",
+    "decorative items on dining table",
+    "large windows with outdoor view",
+    "light-colored curtains",
+    "grey floor"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

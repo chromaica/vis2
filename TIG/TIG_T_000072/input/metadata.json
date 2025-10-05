@@ -1,0 +1,18 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": "A classic comic book cliffhanger: the text 'To Be Continued', colored red with a bold white outline, angled dynamically on a graphic element resembling a torn paper edge.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a classic comic book style image. The central element is the red text 'To Be Continued' with a bold white outline, dynamically angled. This text is positioned on a graphic element that visually resembles a jagged, torn paper edge.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Red text 'To Be Continued'",
+    "Bold white outline around the text",
+    "Dynamically angled text",
+    "Jagged, torn paper edge graphic element",
+    "Text positioned on the jagged, torn paper edge graphic element",
+    "Classic comic book style (overall aesthetic)"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "A dreamlike collage of celestial bodies and ancient ruins, seamlessly blending cosmic and terrestrial elements.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A dreamlike artwork depicting a surreal collage where ancient, crumbling ruins (e.g., overgrown stone arches, broken pillars) emerge from or are intertwined with vast celestial phenomena. Distant planets and swirling nebulae softly illuminate the terrestrial structures, which may appear to float among stars or have cosmic energy flowing through them. The composition should seamlessly blend these cosmic and terrestrial elements, creating an ethereal, otherworldly atmosphere with deep cosmic colors and soft, diffused light.",
+  "annotator": "cwhsu",
+  "objects": [
+    "ancient, crumbling ruins",
+    "overgrown stone arches",
+    "broken pillars",
+    "distant planets",
+    "swirling nebulae",
+    "stars",
+    "cosmic energy flow"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": "Replace the character at the back with the character in the second image. Then, edit the speech among those characters to - Left character: 'Hey sweetheart <3'; Right character: 'Who is this?'; Left character: 'Where is my light saber?'. The line 'Hey sweetheart <3' should be in the font and style of the third image.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the provided comic panel (image 1) as follows:\n\n1.  **Character Replacement:** Replace the character positioned on the left side of the panel, behind the main character (Leia Organa), with the character depicted in image 2 (Deadpool). Integrate Deadpool seamlessly into the scene, maintaining a natural pose and perspective consistent with the original panel.\n2.  **Dialogue Modification:** Modify the existing speech bubbles and add a new one to display the following dialogue sequence:\n    *   The speech bubble originating from the character on the left (now Deadpool) should contain the text: 'Hey sweetheart <3'.\n    *   The speech bubble originating from the character on the right (Luke Skywalker) should contain the text: 'Who is this?'.\n    *   Add a new speech bubble, also originating from the character on the left (Deadpool), containing the text: 'Where is my light saber?'.\n3.  **Text Styling:** The text 'Hey sweetheart <3' (from Deadpool's first line) must adopt the exact font, style, and visual appearance of the word 'SURPRISE' as presented in image 3. This includes the specific typeface, outline, shading, and any graphic elements embedded within the text, but without replicating the starburst speech bubble shape from image 3.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Comic panel background and architectural setting",
+    "Luke Skywalker character (on the right)",
+    "Deadpool character (on the left)",
+    "Speech bubble originating from Deadpool containing text",
+    "Text 'Hey sweetheart <3' (styled with font, outline, shading, and graphic elements from image 3's 'SURPRISE')",
+    "Speech bubble originating from Luke Skywalker containing text",
+    "Text 'Who is this?'",
+    "Speech bubble originating from Deadpool containing text",
+    "Text 'Where is my light saber?'",
+    "Character Leia Organa (should not be present)"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Generate a screenshot of a web browser's homepage. Use the visual theme and color scheme from the first image, and the personalized news feed's design and content display from the second image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a full screenshot of a web browser's homepage. The browser's overall user interface (UI), including the window frame, tabs, and general chrome elements, should adopt the pastel pink, cloud-themed aesthetic and color scheme from image 1. The main content area of the homepage should feature a comprehensive personalized news feed. This news feed should incorporate the top search bar, navigation tabs (e.g., 'Discover', 'Following'), grid layout, article card design (including image thumbnails, headlines, sources, and interaction counts), and the 'Markets' sidebar, all as presented in image 2. The news content should be diverse, reflecting the various topics displayed in image 2.",
+  "annotator": "paria",
+  "objects": [
+    "Full web browser window frame",
+    "Pastel pink browser user interface (UI)",
+    "Cloud-themed browser background",
+    "Personalized news feed content area",
+    "News feed top search bar",
+    "News feed navigation tabs (e.g., 'Discover', 'Following')",
+    "Grid layout of article cards",
+    "Article cards (including image thumbnails, headlines, sources, and interaction counts)",
+    "'Markets' sidebar",
+    "Diverse news content"
+  ],
+  "human_annotation": true
+}

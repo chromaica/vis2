@@ -1,0 +1,27 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "Edit image 1 by replacing the \u201cBinance\u201d exchange name with the BOSCH logo from image 3, keeping the font size and alignment. Add the Starbucks QR code from image 2 directly beneath the \u201cTotal Value\u201d field, scaled to fit in the empty space above the \u201cContinue\u201d button. Do not modify prices or other text.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Replace the 'Binance' text, located under the 'EXCHANGE' heading, with the BOSCH logo from image 3. Scale the BOSCH logo to fit the exact footprint of the original 'Binance' text, maintaining its horizontal alignment. Additionally, integrate the Starbucks QR code from image 2 into the empty dark space directly below the 'Total Value' amount and above the 'CONTINUE' button. Scale the QR code to maximize its size within this available vertical space while preserving its aspect ratio and ensuring horizontal center alignment. Do not modify any other text or numerical values, including prices or quantities, in image 1.",
+  "annotator": "parnian",
+  "objects": [
+    "Dark application UI background",
+    "Top bar elements (Back arrow, \"TRANSACTION\" heading)",
+    "Trading pair and Exchange information section (including \"TRADING PAIR\", \"BTC / USD\", Bitcoin logo, \"EXCHANGE\" heading)",
+    "BOSCH logo (under EXCHANGE heading)",
+    "\"BUY\", \"SELL\", \"WATCH\" action tabs",
+    "Financial numerical details section (including 'CURRENT PRICE', 'TRADE PRICE', 'ENTER QUANTITY', 'TOTAL VALUE', and all associated monetary and quantity values)",
+    "Starbucks QR code (in the dark space below 'Total Value' and above 'CONTINUE' button)",
+    "\"CONTINUE\" button (orange/red gradient)",
+    "Binance text (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

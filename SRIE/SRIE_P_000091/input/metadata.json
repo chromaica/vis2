@@ -1,0 +1,22 @@
+{
+  "task": "SRIE",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "Overlay the comet and its tail onto the image, positioned above the Earth's surface.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the view of Earth from space. Integrate a photorealistic comet and its tail into the scene. Use image 2 as a reference for the comet's appearance, including its luminous head and trailing tail. Position the comet and its tail in the upper dark space of image 1, clearly above the Earth's atmosphere and horizon.",
+  "annotator": "nimajamali",
+  "objects": [
+    "View of Earth from space",
+    "Earth's atmosphere",
+    "Dark space",
+    "Photorealistic comet, positioned in the upper dark space",
+    "Comet's luminous head",
+    "Comet's trailing tail"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Visual instructions and manuals",
+  "prompt": "A medieval illuminated manuscript-style guide for setting up a home Wi-Fi network, with ornate borders and monk-scripted annotations",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "An illuminated medieval manuscript page illustrating a guide for setting up a home Wi-Fi network. The central artwork depicts robed monks interacting with glowing, anachronistic devices that symbolize modern networking components, rendered in a flat, detailed medieval art style. The entire page is encircled by highly ornate gold leaf borders featuring intricate foliate patterns and fantastical creatures. Monk-scripted annotations in a classic medieval hand are meticulously lettered around the illustrations on the aged parchment, explaining the setup process. The image should capture the rich colors and textures of an authentic medieval codex.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Illuminated medieval manuscript page",
+    "Robed monks",
+    "Glowing, anachronistic devices symbolizing modern networking components",
+    "Highly ornate gold leaf borders",
+    "Intricate foliate patterns",
+    "Fantastical creatures",
+    "Monk-scripted annotations in a classic medieval hand",
+    "Aged parchment"
+  ]
+}

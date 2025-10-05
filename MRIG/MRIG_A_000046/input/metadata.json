@@ -1,0 +1,24 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "A digital painting in the vibrant art style of image 2, depicting the girl from the image performing the dynamic jumping pose seen in image 1, set against a softly blurred urban background.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a vibrant digital painting in the distinct art style of image 2. The central subject is the long-haired girl from image 2, dressed in her characteristic black hoodie and headphones. She is captured mid-air, performing the dynamic, arms-raised jumping pose from image 1. The setting is a softly blurred urban background, consistent with the street scene elements visible in image 2.",
+  "annotator": "samin",
+  "objects": [
+    "Long-haired girl",
+    "Black hoodie",
+    "Headphones",
+    "Mid-air jumping pose with arms raised",
+    "Softly blurred urban background",
+    "Street scene elements (consistent with image 2)",
+    "Vibrant digital painting art style (as seen in image 2)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

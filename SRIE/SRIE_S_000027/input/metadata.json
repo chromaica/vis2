@@ -1,0 +1,24 @@
+{
+  "subtopic": "Games",
+  "prompt": "Edit image 1: Add the pixelated character portraits and UI bar from the bottom of image 2 as a retro game overlay at the bottom of the modern screenshot, contrasting the styles.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1750759068121,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit image 1: Overlay the pixelated character portraits and user interface (UI) bar from the bottom of image 2 onto the entire bottom edge of image 1, creating a distinct retro game interface that visually contrasts with the modern screenshot.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Ninja character",
+    "Japanese temple/castle",
+    "Japanese village landscape",
+    "Red bridge",
+    "Night/dusk sky",
+    "Pixelated character portraits (at the bottom)",
+    "Retro game UI bar (at the bottom)"
+  ]
+}

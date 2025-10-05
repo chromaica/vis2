@@ -1,0 +1,22 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Surrealism",
+  "prompt": "Make the bridge looks more modern and populate some cars on it. Maintain the surreal style.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Transform the existing arched bridge into a more modern and sleek structure, utilizing contemporary materials. Add several modern cars traveling across the bridge's deck. Ensure all modifications seamlessly integrate and maintain the surreal, dreamlike, and painterly aesthetic, as well as the distinctive blue and white color palette of the original artwork.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "modern and sleek bridge",
+    "modern cars",
+    "sailing ships",
+    "ocean water",
+    "waves",
+    "sky",
+    "clouds"
+  ],
+  "human_annotation": true
+}

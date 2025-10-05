@@ -1,0 +1,26 @@
+{
+  "task": "SRIG",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "help me imagine what would it look like for a zen like bar with the style found in the given image",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a zen-like bar interior. The design should incorporate the visual style from image 1, specifically featuring the warm, ambient glow and intricate patterns of the illuminated lanterns. Include the vibrant colors (orange, red, blue, white, green) and delicate floral and scenic motifs seen on the lanterns in image 1 to create a serene and tranquil atmosphere within the bar.",
+  "annotator": "theblackcat",
+  "objects": [
+    "zen-like bar interior",
+    "numerous illuminated lanterns",
+    "warm, ambient glow",
+    "lanterns with intricate floral motifs",
+    "lanterns with intricate scenic motifs",
+    "orange lanterns",
+    "red lanterns",
+    "blue lanterns",
+    "white lanterns",
+    "green lanterns"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

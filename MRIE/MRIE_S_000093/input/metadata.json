@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": "In image 1, add the red \u201c30%\u201d discount badge from image 4 to the top-left corner of the chair image, slightly overlapping the edge. Insert the delivery truck icon from image 3 below the \u201cADD TO CART\u201d button, aligned left and matching the style. Finally, place the Instagram icon from image 2 in the top-right corner of the page, beside the shopping cart icon. Keep spacing and layout intact.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg",
+    "4.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Add the red '30%' discount badge from image 4 to the top-left corner of the large product image (the chair), ensuring it slightly overlaps the image's top and left edges. Insert the delivery truck icon from image 3 directly below the 'ADD TO CART' button, aligning its left edge with the button's left edge, and ensure its style integrates seamlessly. Finally, place the Instagram icon from image 2 in the top-right corner of the page, positioned immediately to the left of the existing shopping cart icon. Maintain the overall layout and spacing of the original image throughout the edits.",
+  "annotator": "parnian",
+  "objects": [
+    "Website page layout",
+    "CH07 Shell Chair product image",
+    "CH07 Shell Chair White product name",
+    "Product price ($599.00)",
+    "ADD TO CART button",
+    "WOODLY logo",
+    "Navigation menu",
+    "Shopping cart icon",
+    "red '30%' discount badge",
+    "delivery truck icon",
+    "Instagram icon"
+  ]
+}

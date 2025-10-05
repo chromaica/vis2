@@ -1,0 +1,23 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "generate a microservices architecture diagram with API gateways, container orchestration, message queues, and database connections with real-time monitoring indicators",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a microservices architecture diagram. Clearly depict API Gateways, Container Orchestration components (e.g., Kubernetes clusters), Message Queues, and Database Connections. Integrate real-time monitoring indicators visually, such as small performance graphs, colored status lights (green, yellow, red), or alert symbols, associated with the relevant system components.",
+  "annotator": "theblackcat",
+  "objects": [
+    "API Gateways",
+    "Container Orchestration components (e.g., Kubernetes clusters)",
+    "Message Queues",
+    "Database Connections",
+    "Databases",
+    "Microservices",
+    "Small performance graphs",
+    "Colored status lights (green, yellow, red)",
+    "Alert symbols",
+    "Data flow arrows/lines connecting components"
+  ],
+  "human_annotation": true
+}

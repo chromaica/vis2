@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "one large circle containing smaller circles that represent sound waves, limited to coral and navy",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a minimalist information graphic featuring a large circle. This large circle is centrally positioned and contains an arrangement of multiple smaller, concentric circles that visually represent sound waves expanding from the center. The entire image must exclusively use coral and navy blue colors, with no other hues present.",
+  "annotator": "theblackcat",
+  "objects": [
+    "large circle",
+    "multiple smaller circles",
+    "concentric arrangement of smaller circles",
+    "coral color",
+    "navy blue color",
+    "any color other than coral (should not be present)",
+    "any color other than navy blue (should not be present)",
+    "centrally positioned large circle",
+    "minimalist aesthetic"
+  ]
+}

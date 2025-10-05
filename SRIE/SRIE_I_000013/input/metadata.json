@@ -1,0 +1,26 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Put the bar and line chart into the bottom right of the scatter plot.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the provided scatter plot (image 2) by inserting the bar and line chart from image 1 into its bottom-right corner. The inserted chart should replicate the style and content of image 1.",
+  "annotator": "Johnny",
+  "objects": [
+    "scatter plot",
+    "black data points",
+    "blue regression line",
+    "scatter plot x-axis with \"Sepal.Length\" label",
+    "scatter plot y-axis with \"Petal.Length\" label",
+    "bar and line chart in the bottom-right corner",
+    "blue bars",
+    "red trend line",
+    "inserted chart x-axis labels",
+    "inserted chart y-axis labels"
+  ],
+  "human_annotation": true
+}

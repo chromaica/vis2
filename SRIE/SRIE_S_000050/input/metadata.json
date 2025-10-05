@@ -1,0 +1,26 @@
+{
+  "subtopic": "Websites",
+  "prompt": "Edit image 1: Apply a multi-column layout concept from image 2. Add a right-hand sidebar navigation panel listing key Morweb links, matching the styling and structure seen in image 2.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751006575108,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit image 1: Transform the overall layout to a multi-column structure, adopting the organized, sectioned approach seen in image 2. Specifically, introduce a prominent right-hand sidebar navigation panel. This sidebar must visually match the styling and structure of the 'All Microsoft Sites' panel in image 2, including its distinct background, subtle borders, and prominent header. Populate it with a hierarchical, scrollable list of key Morweb links (e.g., Morweb CMS, Solutions, Modules, Services), emulating the simple text link appearance and clear organization of image 2's navigation.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Multi-column website layout",
+    "Morweb branding and main navigation bar (from original image 1)",
+    "Prominent right-hand sidebar navigation panel",
+    "Sidebar header matching 'All Microsoft Sites' panel style",
+    "Hierarchical, scrollable list of Morweb links (e.g., Morweb CMS, Solutions, Modules, Services) within the sidebar",
+    "Sidebar with distinct background and subtle borders matching 'All Microsoft Sites' panel style",
+    "\"FIND YOUR WEBSITE ZEN\" main heading and descriptive text (from original image 1)",
+    "CMS editor screenshot with \"Hello, Morweb\" (from original image 1)",
+    "Goldfish and water lily background elements (from original image 1)"
+  ]
+}

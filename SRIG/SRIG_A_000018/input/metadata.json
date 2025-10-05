@@ -1,0 +1,20 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Stylized art",
+  "prompt": "A stylized art of an ancient Egyptian cat",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a new image of a stylized ancient Egyptian cat, using the precise head shape and front-facing orientation from image 1 as the primary visual guide. The artwork should reflect the iconic aesthetic of ancient Egyptian art, featuring bold outlines, symbolic patterns, and a regal appearance. Colors should be reminiscent of ancient Egyptian palettes, such as gold, deep blue, and terracotta.",
+  "annotator": "Johnny",
+  "objects": [
+    "stylized ancient Egyptian cat",
+    "bold outlines",
+    "symbolic patterns",
+    "gold color",
+    "deep blue color",
+    "terracotta color"
+  ]
+}

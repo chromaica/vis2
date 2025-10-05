@@ -1,0 +1,29 @@
+{
+  "subtopic": "UI mockups",
+  "prompt": "Create a UI mockup screen combining the clean, structured diagram layout and conceptual icons from image 2 with the dynamic, futuristic neon data visualizations and glowing style from image 1.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "Information graphics UI design mockup",
+  "searchQueryGeneratedTimestamp": 1750575179393,
+  "promptGeneratedTimestamp": 1750575295663,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "I",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a futuristic UI dashboard mockup with a dark background. The design should integrate the clean, structured, and interconnected diagram layout from image 2, using its node-and-branch organization for core information sections. Render the conceptual icons from image 2 with the vibrant, glowing neon lines and colors found in image 1. Within this structured framework, strategically place dynamic data visualizations such as glowing line graphs, radar charts, radial gauges, and circular percentage indicators, all rendered in the luminous, high-tech style of image 1. Ensure the overall composition balances the clarity and organization of image 2 with the vivid, digital dynamism of image 1.",
+  "objects": [
+    "Futuristic UI dashboard mockup",
+    "Dark background",
+    "Clean, structured, interconnected diagram layout",
+    "Node-and-branch organization",
+    "Conceptual icons (from image 2, restyled with glowing neon lines)",
+    "Vibrant, glowing neon lines and colors",
+    "Glowing line graphs",
+    "Radar charts",
+    "Radial gauges",
+    "Circular percentage indicators"
+  ]
+}

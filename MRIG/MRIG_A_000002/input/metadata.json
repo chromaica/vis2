@@ -1,0 +1,27 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "Create a digital painting featuring the silhouette character from image 1, placed within the neon-lit cyberpunk street environment shown in image 2. Incorporate the atmospheric lighting and wet reflections characteristic of image 2.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a digital painting. Place the full-body female silhouette wielding a katana from image 1, prominently within the rain-slicked cyberpunk street environment depicted in image 2. The scene must incorporate the distinctive deep blue, magenta, and cyan neon lighting and the glossy, wet ground reflections characteristic of image 2.",
+  "annotator": "samin",
+  "objects": [
+    "full-body female silhouette",
+    "katana",
+    "rain-slicked cyberpunk street environment",
+    "deep blue neon lighting",
+    "magenta neon lighting",
+    "cyan neon lighting",
+    "glossy, wet ground reflections",
+    "Japanese-style neon signs",
+    "city buildings",
+    "digital painting style"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

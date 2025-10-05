@@ -1,0 +1,24 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "A surreal collage merging elements of the ocean and desert, featuring waves flowing into sand dunes, under a sky split between sunny and starry night.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A surreal, dreamlike collage where elements of a vast ocean seamlessly merge with an expansive desert. Towering waves appear to flow directly into and transform into golden sand dunes, creating a single, continuous, impossible landscape. Above this merged terrain, the sky is sharply bisected, with one half portraying a bright, sunny daytime and the other half a deep, star-filled night.",
+  "annotator": "cwhsu",
+  "objects": [
+    "vast ocean elements",
+    "expansive desert elements",
+    "seamless merge/transition of ocean and desert",
+    "towering waves",
+    "golden sand dunes",
+    "impossible landscape (formed by merged waves and dunes)",
+    "sky",
+    "sharply bisected sky",
+    "bright, sunny daytime sky (one half)",
+    "deep, star-filled night sky (other half)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

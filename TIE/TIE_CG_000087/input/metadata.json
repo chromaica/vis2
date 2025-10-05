@@ -1,0 +1,24 @@
+{
+  "subtopic": "Shader Programming",
+  "prompt": "Apply a physically based shader to change the rendered head's material to highly reflective polished gold with strong specular highlights and environmental reflections.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751811861514,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1: Change the material of the rendered head bust to highly reflective polished gold, displaying strong specular highlights and environmental reflections, as if rendered with physically based properties.",
+  "annotator": "edisy",
+  "objects": [
+    "head bust",
+    "polished gold material",
+    "strong specular highlights",
+    "environmental reflections",
+    "dark studio background",
+    "surface beneath the bust",
+    "shadows cast by the bust"
+  ],
+  "human_annotation": true
+}

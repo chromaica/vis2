@@ -1,0 +1,24 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Create a harpy where the human upper body (head, arms, and torso) mirrors the style, features, and attire (e.g., tattered robes) of the human in the first reference image, and the bird-like lower body and wings match the feathers, colors, and texture of the bird in the second reference image. Ensure a smooth transition at the waist. Set the harpy flying over a misty cliffside, rendered in a gothic fantasy style.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic image of a harpy. The harpy's human upper body (head, arms, and torso) should meticulously replicate the distinctive facial features, long flowing hair, and overall aesthetic of the woman in image 1. Her attire should reflect the specific style, light-colored fabric, and textured appearance of the dress worn by the woman in image 1. The harpy's bird-like lower body and expansive wings must precisely match the crisp white feathers, detailed texture, and subtle yellow crest elements observed on the cockatoo in image 2. Ensure a seamless and natural transition at the waist where the human torso meets the avian lower body. Depict the harpy in mid-flight, soaring dramatically over a misty cliffside, rendered with a gothic fantasy aesthetic.",
+  "objects": [
+    "A harpy",
+    "Harpy's human upper body replicating the woman in image 1",
+    "Harpy's long flowing hair",
+    "Harpy's light-colored, textured dress in the style of image 1",
+    "Harpy's bird-like lower body with crisp white feathers and subtle yellow crest elements",
+    "Harpy's expansive wings with crisp white feathers and subtle yellow crest elements",
+    "Harpy in mid-flight, soaring dramatically",
+    "Misty cliffside",
+    "Gothic fantasy aesthetic"
+  ]
+}

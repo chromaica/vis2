@@ -1,0 +1,14 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "Game assets",
+  "prompt": "A stylized dragon attack animation, 64x64 pixels per frame, with 4 frames showing a fire breath sequence, painted in a semi-realistic fantasy style.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A single image depicting a stylized dragon, mid-attack, exhaling a powerful stream of fire. The image is rendered as a low-resolution 64x64 pixel art frame, capturing a dynamic moment from a fire breath sequence. The style is semi-realistic fantasy painting.",
+  "annotator": "maxku",
+  "objects": [
+    "stylized dragon",
+    "powerful stream of fire"
+  ]
+}

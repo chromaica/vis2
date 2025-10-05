@@ -1,0 +1,22 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Convert pixels into a colored 3D point cloud, projecting each pixel forward in Z per depth, then render from a slightly shifted viewpoint.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Transform its pixels into a colored 3D point cloud. Utilize image 2 as a depth map, interpreting yellow regions as foreground (shallower Z-depth) and purple regions as background (deeper Z-depth). Project each pixel of image 1 into this 3D space according to its corresponding depth, preserving its original color. Render the resulting colored point cloud from a viewpoint subtly shifted to the right of the original camera, generating a soft parallax effect. Ensure the white text overlays ('CARBS', 'ME', '...ALSO ME') are also integrated as volumetric elements within this 3D point cloud.",
+  "annotator": "matina",
+  "objects": [
+    "Woman in red, rendered as a colored 3D point cloud",
+    "Man in plaid shirt, rendered as a colored 3D point cloud",
+    "Woman in blue top, rendered as a colored 3D point cloud",
+    "Urban background elements, rendered as a colored 3D point cloud",
+    "Volumetric white text \"CARBS\"",
+    "Volumetric white text \"ME\"",
+    "Volumetric white text \"...ALSO ME\""
+  ]
+}

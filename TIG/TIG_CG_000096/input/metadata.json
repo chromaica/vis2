@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "CAD models",
+  "prompt": "A CAD model of a four-rotor UAV drone.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A highly detailed CAD model rendering of a four-rotor UAV drone, depicted with sharp, clean lines, precise geometric forms, and a professional shaded finish, isolated against a simple, light studio background.",
+  "annotator": "maxku",
+  "objects": [
+    "Four-rotor UAV drone",
+    "CAD model rendering",
+    "Sharp lines",
+    "Clean lines",
+    "Precise geometric forms",
+    "Professional shaded finish",
+    "Simple background",
+    "Light studio background"
+  ]
+}

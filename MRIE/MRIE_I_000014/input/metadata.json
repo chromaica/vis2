@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "In image 1, which contains the web design wireframes, replace the sketch play button with the vibrant red play button from image 2. Additionally, substitute the four squares in the 'Our Team' section with the Ironman in image 3.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, which displays web design wireframes. In the top-left wireframe, replace the centrally located sketched play button with the vibrant red play button from image 2. Additionally, in the 'Our Team' wireframe located in the bottom-left section of image 1, replace the four sketched avatar icons with the Ironman bust from image 3.",
+  "annotator": "maxku",
+  "objects": [
+    "Web design wireframe layout",
+    "Top-left wireframe",
+    "Vibrant red play button in the top-left wireframe",
+    "Sketched play button (should not be present)",
+    "\"Our Team\" wireframe in the bottom-left",
+    "Four Ironman busts in the \"Our Team\" wireframe",
+    "Four sketched avatar icons (should not be present)",
+    "\"OUR PORTFOLIO\" wireframe",
+    "\"OUR SERVICES\" wireframe",
+    "\"CONTACT US\" wireframe"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "Object detection visuals",
+  "prompt": "A forest scene showing bounding boxes around animals such as deer, rabbits, and birds. Each box should be color-coded and labeled with the class name.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A vibrant forest scene populated with multiple animals, including deer, rabbits, and various birds. Each animal in the scene must be precisely outlined by a distinct rectangular bounding box. These bounding boxes should be color-coded, with each specific animal class (e.g., deer, rabbit, bird) assigned a unique color. Additionally, a clear text label displaying the corresponding animal's class name must be visible directly on or immediately next to each bounding box.",
+  "annotator": "maxku",
+  "objects": [
+    "vibrant forest scene",
+    "multiple deer",
+    "multiple rabbits",
+    "multiple birds",
+    "rectangular bounding boxes (around each animal)",
+    "color-coded bounding boxes (for different animal classes)",
+    "text labels (for animal classes)",
+    "\"Deer\" text (on or next to deer bounding boxes)",
+    "\"Rabbit\" text (on or next to rabbit bounding boxes)",
+    "\"Bird\" text (on or next to bird bounding boxes)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

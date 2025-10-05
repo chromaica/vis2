@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "In image 1, replace the 'Press A to Start' text with the blue 'Start' button from image 3 (in the middle), positioning it centrally below 'The Sims 4' logo while maintaining consistent scale and alignment. Additionally, insert the EA Games logo from image 2 in the top-right corner as a branding mark. All other elements should remain unchanged.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Modify image 1. Replace the 'Press A to Start' text with the blue 'START' button found in image 3. Position this button centrally below 'The Sims 4' logo in image 1, ensuring its scale and alignment are consistent with the original interface. Additionally, insert the EA Games logo from image 2 into the top-right corner of image 1, integrating it as a branding mark. All other elements in image 1 must remain unchanged.",
+  "annotator": "parnian",
+  "objects": [
+    "The Sims 4 logo",
+    "Houses",
+    "Trees",
+    "River",
+    "Bridge",
+    "Sky with distant plumbob/rocket",
+    "People",
+    "'Press A to Start' text (should not be present)",
+    "Blue 'START' button centrally below 'The Sims 4' logo",
+    "EA Games logo in the top-right corner"
+  ]
+}

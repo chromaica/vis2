@@ -1,0 +1,21 @@
+{
+  "task": "MRIE",
+  "topic": "P",
+  "subtopic": "Wildlife & Nature Photography",
+  "prompt": "Replace the giraffe from the first image with the 2 rhinos from the third image. Then add the 2 elephants from the second image to the background of the first image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the prominent giraffe in the foreground with the two rhinos from image 3, positioning them where the giraffe previously stood and ensuring they are naturally integrated into the grassy environment. Additionally, incorporate the two elephants from image 2 into the distant background of image 1, placing them subtly on the left side of the frame, amidst the distant hills and trees. The final image must be photorealistic.",
+  "annotator": "boris",
+  "objects": [
+    "Two rhinos in the foreground",
+    "Grassy foreground environment",
+    "Two elephants in the distant background, on the left side",
+    "Distant hills and trees in the background",
+    "Giraffe (should not be present)"
+  ]
+}

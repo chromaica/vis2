@@ -1,0 +1,22 @@
+{
+  "subtopic": "Icons and symbols",
+  "prompt": "Generate 8 different flat icons that are medical-relevant, with text description in the icon bottom. Make sure the icon theme is aligned with the referenced icon provided.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://static-00.iconduck.com/assets.00/drug-and-syringe-icon-1024x997-h4n2xzrm.png",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate 8 distinct medical-themed flat icons. Each icon should strictly follow the visual style of image 1, featuring a clean, flat design with dark outlines and a primary color palette of blue, orange, and white, similar to the syringe, medicine bottle, and pills shown in image 1. For each icon, include a brief, relevant text description positioned centrally at its bottom. Arrange these 8 icons in a clear, organized grid or row layout, ensuring sufficient spacing for individual readability.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "8 medical-themed flat icons",
+    "Brief text description for each icon",
+    "Grid layout or row layout",
+    "Dark outlines (on icons)",
+    "Blue color (in icons)",
+    "Orange color (in icons)",
+    "White color (in icons)",
+    "Sufficient spacing between icons"
+  ]
+}

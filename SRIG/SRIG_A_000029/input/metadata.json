@@ -1,0 +1,23 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "Create a surreal forest with glowing flora.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a surreal forest landscape, drawing inspiration from image 1. The scene features a stylized, dark forest with tall, pointed trees prominently on both the left and right sides. In the foreground and mid-ground, vibrant reddish-orange flora clusters are scattered along the winding light grey river. The sky above transitions from a deep grey at the top to a warm, peachy orange near the horizon. Include the unique, wavy cloud shapes visible in the upper background of image 1.",
+  "annotator": "Johnny",
+  "objects": [
+    "Surreal forest landscape",
+    "Stylized, dark forest",
+    "Tall, pointed trees on both the left and right sides",
+    "Vibrant reddish-orange flora clusters",
+    "Winding light grey river",
+    "Sky transitioning from deep grey at the top to warm, peachy orange near the horizon",
+    "Unique, wavy cloud shapes in the upper background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

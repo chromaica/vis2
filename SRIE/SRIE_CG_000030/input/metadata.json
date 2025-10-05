@@ -1,0 +1,20 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "CAD models",
+  "prompt": "Match the rendering style and material texture from the reference image.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the source image depicting a grey robotic arm. Transfer the rendering style and material texture from image 2, the reference image, onto image 1. The robotic arm in image 1 should visually emulate the surface appearance, lighting, and ambient environment, including the background, as seen in image 2.",
+  "annotator": "nimajamali",
+  "objects": [
+    "Robotic arm",
+    "Light grey textured surface",
+    "Soft, diffused lighting",
+    "Uniform dark grey background",
+    "Subtle cast shadows"
+  ]
+}

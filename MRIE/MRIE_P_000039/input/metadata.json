@@ -1,0 +1,26 @@
+{
+  "subtopic": "Wildlife & Nature Photography",
+  "prompt": "Edit image 1 by incorporating King Penguins similar to those in image 2 into the snowy foreground near the cabin. Apply the bright, hazy, sunlit winter atmosphere and lighting effects from image 3 to the entire scene.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748571533119,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "P",
+  "prompt_refined": "Edit image 1 by integrating King Penguins, consistent in appearance and typical grouping with those found in image 2, into the snowy foreground immediately surrounding the cabin. Apply the bright, hazy, sunlit winter atmosphere and distinctive lighting effects, including soft sun glare, from image 3 across the entire scene.",
+  "annotator": "boris",
+  "objects": [
+    "wooden cabin with snowy roof",
+    "snowy foreground",
+    "evergreen forest in the background",
+    "King Penguins in typical groupings, in the snowy foreground immediately surrounding the cabin",
+    "bright winter atmosphere",
+    "hazy atmosphere",
+    "sunlit scene",
+    "soft sun glare"
+  ]
+}

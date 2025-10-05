@@ -1,0 +1,27 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Re-envision a medieval wooden shield from the first reference Image as a futuristic defense device. Keep the heraldic emblem as a glowing hologram, merging it with the energy barrier technology and sleek metallic frame from the second reference image. The shield projects a translucent force field.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic image of a futuristic defense device. This device should be circular in shape, drawing inspiration from the medieval shield shown in Image 2. It should primarily consist of a translucent, multi-layered energy force field, similar in style, vibrant color, and luminescence to the one depicted in Image 1. The heraldic emblem from Image 2 should appear as a brightly glowing, ethereal hologram, positioned centrally within or projected by this energy field. The device itself should feature a sleek, dark metallic frame, echoing the futuristic aesthetic of Image 1, from which the force field emanates. The projected force field should be actively deflecting an unseen force, showing subtle energy impacts and ripples, similar to Image 1's dynamic display.",
+  "objects": [
+    "Futuristic defense device",
+    "Circular-shaped device",
+    "Translucent, multi-layered energy force field",
+    "Vibrant color on the force field",
+    "Luminescent force field",
+    "Heraldic emblem (from Image 2) as a hologram",
+    "Brightly glowing, ethereal hologram",
+    "Centrally positioned or projected hologram",
+    "Sleek, dark metallic frame",
+    "Energy impacts and ripples on the force field"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

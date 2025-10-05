@@ -1,0 +1,25 @@
+{
+  "subtopic": "Websites",
+  "prompt": "Generate Tesla home page screenshot with a clean, minimalist interface, displayed on a tablet. Use the black and white color palette and overall composition from the reference image, placed against a subtle background.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://media.designrush.com/tinymce_images/363662/conversions/10-content.jpg",
+  "promptGeneratedTimestamp": 1749426712862,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a Tesla home page screenshot featuring a clean, minimalist interface, displayed prominently on a black tablet. The tablet is positioned similarly to image 1, viewed from a slightly elevated, close-up angle, dominating the foreground. The screen's layout should emulate the composition of image 1, including a brand logo (Tesla) on the top-left, navigation links on the top-right, and a large, centrally aligned headline. The color scheme must be a strict black and white grayscale, with high-contrast elements and typography, directly inspired by image 1's palette. The overall scene should be set against a soft, light grey, subtly blurred background.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Black tablet (dominating the foreground, viewed from a slightly elevated, close-up angle)",
+    "Tablet screen (displaying a screenshot)",
+    "Tesla home page screenshot (on the tablet screen)",
+    "Clean, minimalist interface (of the screenshot)",
+    "Tesla brand logo (on the top-left of the screenshot)",
+    "Navigation links (on the top-right of the screenshot)",
+    "Large, centrally aligned headline (on the screenshot)",
+    "Black and white grayscale color scheme (of the screenshot, with high-contrast elements and typography)",
+    "Soft, light grey, subtly blurred background"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "subtopic": "Visual instructions and manuals",
+  "prompt": "Based on the food ordering app UI style, generate a guide to show the whole food ordering process with screenshots in each step, from restaurant selection to confirming order.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/70/4e/bc/704ebc0a-c664-00c6-2bce-162db6bc089a/2b8649f6-56b6-4ad6-ab75-eadd98de321a_IOS_1290x2796px_06_pick_up.png/300x0w.jpg",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate a multi-panel information graphic depicting the complete food ordering process within a mobile application, strictly adhering to the vibrant pink and clean UI style exemplified by image 1. Each panel must present a distinct app screenshot, including the mobile phone frame, and progress sequentially through the ordering flow.\n\nPanel 1 (top-left): The initial restaurant selection screen, identical in layout and visual style to image 1, featuring the \"Explore restaurants around you\" heading, search bar, promotional banners (e.g., panda character, pick-up bag), map section, and initial restaurant listings (e.g., Italian Restaurant, Pastry Shop).\n\nPanel 2 (top-right): A detailed restaurant menu screen. Display various food items with clear images, names, descriptions, prices, and an 'Add to Cart' button prominent for each item. Maintain the app's clean, organized layout and bright pink aesthetic.\n\nPanel 3 (middle-left): The shopping cart summary screen. Clearly show a list of selected food items with their quantities and individual prices. Include a subtotal, potential discounts, and a grand total at the bottom, along with a prominent 'Proceed to Checkout' button.\n\nPanel 4 (middle-right): The checkout and payment screen. Feature sections for confirming delivery address, selecting payment methods (e.g., credit card, digital wallet), and a final review of the order summary. A large, clearly visible 'Confirm Order' button should be positioned at the bottom.\n\nPanel 5 (bottom-center): The order confirmation screen. Display a clear success message such as 'Order Confirmed!' or 'Your order has been placed!', along with an order number and an estimated delivery time. The design should be minimalist, reflecting the app's overall clean and user-friendly interface.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Multi-panel information graphic layout",
+    "Mobile phone frames around each app screenshot",
+    "Vibrant pink and clean UI design aesthetic",
+    "Panel 1: Restaurant selection screen including search bar, map section, and restaurant listings",
+    "Panel 1: \"Explore restaurants around you\" heading",
+    "Panel 1: Promotional banners featuring a panda character and a pick-up bag graphic",
+    "Panel 2: Detailed restaurant menu screen displaying food items with images, names, prices, and 'Add to Cart' buttons",
+    "Panel 3: Shopping cart summary screen showing a list of selected items, totals, and a 'Proceed to Checkout' button",
+    "Panel 4: Checkout and payment screen with sections for delivery address, payment methods, and a 'Confirm Order' button",
+    "Panel 5: Order confirmation screen displaying a success message (e.g., 'Order Confirmed!'), order number, and estimated delivery time"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

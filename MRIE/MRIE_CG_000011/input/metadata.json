@@ -1,0 +1,31 @@
+{
+  "subtopic": "Object detection visuals",
+  "prompt": "Edit image 1 to overlay object detection bounding boxes and labels. Adopt a general detection visual style similar to environmental object detection (image 2). Apply a bounding box and label to the dog using a detection style influenced by the street scene objects (image 3). Add detection boxes and labels to the ribbons/award area based on the electronic item concept (image 4) and to the table/stand based on the household item concept (image 5). Include confidence score indicators near detected objects, inspired by the numbered tag in image 1.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg",
+    "4.jpeg",
+    "5.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749067339407,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Modify `image 1` by adding object detection bounding boxes and corresponding labels. The overall visual style of the bounding boxes and labels should resemble the robust, real-world object detection aesthetics seen in `image 2`. Place a bounding box and label over the dog in the center of `image 1`. The detection style for the dog, including its box and label, should be influenced by the appearance of objects detected in a street scene, similar to the style found in `image 3`. Add a detection box and label to the blue and white ribbons and award items held by the woman on the left side of `image 1`. This detection element should reflect a clean, modern electronic device interface style, similar to that seen in `image 4`. Additionally, apply a detection box and label to the green table or stand supporting the dog at the bottom of `image 1`. This detection style should be inspired by the representation of a common household item, referencing `image 5`. For each detected object, include a clear confidence score indicator next to its bounding box. These indicators should visually resemble the simple numbered tag seen on the dog's leg in `image 1`, perhaps as a small, distinct numeric label.",
+  "annotator": "winston",
+  "objects": [
+    "Original `image 1` content (people, dog, ribbons, green stand, background)",
+    "Bounding box over the dog in the center of `image 1`",
+    "Label for the dog's bounding box",
+    "Confidence score indicator next to the dog's bounding box",
+    "Bounding box over the blue and white ribbons and award items held by the woman on the left side of `image 1`",
+    "Label for the ribbons and award items bounding box",
+    "Confidence score indicator next to the ribbons and award items bounding box",
+    "Bounding box over the green table or stand supporting the dog at the bottom of `image 1`",
+    "Label for the green table or stand bounding box",
+    "Confidence score indicator next to the green table or stand bounding box"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": "A dynamic comic book sound effect: 'ZAP!' rendered in bold, jagged electric blue letters, featuring a lightning bolt outline, all against a backdrop of vibrant speed lines.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a dynamic comic book style image. The central element is the sound effect 'ZAP!' The text 'ZAP!' must be rendered in bold, jagged, electric blue letters, sharply outlined with a distinct lightning bolt shape. The background behind the text should be filled with vibrant, energetic speed lines radiating outwards.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "The text \"ZAP!\"",
+    "Bold rendering of \"ZAP!\" text",
+    "Jagged letter styling for \"ZAP!\" text",
+    "Electric blue color for \"ZAP!\" text",
+    "Sharp outline for \"ZAP!\" text",
+    "Lightning bolt shape integrated with the \"ZAP!\" text outline",
+    "Background area behind the \"ZAP!\" text",
+    "Speed lines",
+    "Vibrant coloring for the speed lines",
+    "Outwardly radiating pattern for the speed lines"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "Place the Barbie doll from image 2 sitting on the pink flower in the bottom left corner of image 1. Additionally, remove the sunflower from image 1 and replace it with the flower with the silhouette from image 3.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Integrate the Barbie doll from image 2, ensuring she is sitting on the large pink hibiscus flower in the bottom-left corner. Remove the prominent yellow sunflower from the mid-right and replace it with the black outline of the rose from image 3, maintaining a similar scale and position.",
+  "annotator": "paria",
+  "objects": [
+    "Barbie doll sitting on the large pink hibiscus flower in the bottom-left corner",
+    "Black outline of the rose in the mid-right",
+    "Prominent yellow sunflower (should not be present)",
+    "Blue sky",
+    "Grassy field",
+    "Large cream-yellow flower in the top-right",
+    "Pink and white carnation flower in the top-left",
+    "Orange poppy flowers with a person in the mid-left",
+    "Person in white dress jumping in the upper center",
+    "White lily flower with a person in the bottom-right"
+  ]
+}

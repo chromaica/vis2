@@ -1,0 +1,25 @@
+{
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Create an exploded-view technical diagram of a futuristic spacecraft. The individual components (engine, cockpit, wings) should be arranged based on the layout of countries in the provided world map.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "https://leopardaviation.com/wp-content/uploads/2024/03/Parts-of-an-Airplane.jpg",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate an exploded-view technical diagram of a futuristic spacecraft. The diagram should clearly depict the spacecraft's individual components (e.g., engine, cockpit, wings) separated from the main body, in a similar style to the detailed airplane parts illustration in image 1. This includes using clean lines, distinct shading, and clear textual labels for each component. The spatial arrangement of these separated parts should conceptually mimic the geographical layout of countries on a world map, placing them relative to each other as if they were landmasses on a globe.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Futuristic spacecraft main body",
+    "Separated futuristic spacecraft cockpit",
+    "Separated futuristic spacecraft engine(s)",
+    "Separated futuristic spacecraft wings/fins",
+    "Multiple other distinct separated futuristic spacecraft components (e.g., thrusters, landing gear, power core)",
+    "Clear textual labels for each component",
+    "Lines connecting textual labels to components",
+    "Clean lines as the drawing style for all components",
+    "Distinct shading as the rendering style for all components",
+    "Spatial arrangement of separated components resembling a world map layout"
+  ],
+  "human_annotation": true
+}

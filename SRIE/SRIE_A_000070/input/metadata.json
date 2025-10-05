@@ -1,0 +1,24 @@
+{
+  "subtopic": "Cultural or Heritage art",
+  "prompt": "Edit Image 1: Integrate the distinctive carved leaf motif from Image 2. Place this leaf onto the David statue's lower torso, appearing as a symbolic adornment.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748653163286,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit Image 1 (the David statue). Integrate the distinctive carved leaf motif from Image 2 onto the David statue's lower torso. The leaf should appear as a symbolic adornment, seamlessly integrated with the statue's marble texture.",
+  "annotator": "kellycyy",
+  "objects": [
+    "David statue",
+    "Carved leaf motif",
+    "David statue's lower torso",
+    "Marble texture",
+    "Museum background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

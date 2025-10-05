@@ -1,0 +1,16 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "ASCII Art",
+  "prompt": "Illustrate using ASCII characters: the word \"CODE\" composed of glowing green symbols, appearing on the dark screen of a computer monitor.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A dark computer monitor screen displaying the word \"CODE\" composed of glowing green ASCII characters.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Dark computer monitor screen",
+    "The word \"CODE\"",
+    "Glowing green text",
+    "ASCII characters"
+  ]
+}

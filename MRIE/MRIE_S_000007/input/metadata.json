@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "QR Code",
+  "prompt": "Edit image 1 by replacing the black-and-white square QR code with the red star-shaped QR from image 3, scaled to match the size and centered in the same location, and changing the entire white background of the boarding pass area in image 1 to the solid yellow tone from image 2. Keep all other details such as seat, gate, and boarding time unchanged.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 by replacing the black-and-white square QR code with the red star-shaped QR from image 3. Scale the new QR code to match the original's size and center it in the same location. Change the entire white background of the boarding pass section in image 1 to the solid yellow tone from image 2. All other elements, including the flight details, gate, boarding time, and seat number, must remain unchanged.",
+  "annotator": "parnian",
+  "objects": [
+    "red star-shaped QR code (scaled to original size, centered in original QR code's location)",
+    "solid yellow background (in the boarding pass section)",
+    "black-and-white square QR code (should not be present)",
+    "white background of boarding pass section (should not be present)",
+    "\"BODI/DAWNS\" and confirmation text",
+    "\"TSA Pre\u2713\" logo",
+    "\"GATE E6\" and associated location text",
+    "boarding times (8:53AM, 9:03am)",
+    "\"Boarding Group 5\" and \"Seat 10B\"",
+    "flight information section (including UA 4712, scheduled times, airports, \"On time\" badge)"
+  ]
+}

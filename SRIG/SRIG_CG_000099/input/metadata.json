@@ -1,0 +1,25 @@
+{
+  "subtopic": "Facial estimation and analysis",
+  "prompt": "Generate an image mimicking the composition and setting of the reference photo with a seated crowd. Apply computer graphics overlays depicting facial estimation and analysis results like bounding boxes and labels on individual faces.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://live.staticflickr.com/4853/46235238432_00737e7d78_b.jpg",
+  "promptGeneratedTimestamp": 1748772518713,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate an image mimicking the indoor conference setting and seated crowd composition seen in image 1. Apply computer graphics overlays to all visible individual faces within the image. Each face should have a distinct bounding box drawn around it, with a textual label positioned adjacent to or directly above the bounding box. These labels should represent estimated facial analysis results, such as age, gender, or emotion.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Indoor conference setting",
+    "Seated crowd of people",
+    "Visible individual faces of attendees",
+    "Computer graphics overlays on visible faces",
+    "Distinct bounding boxes drawn around each visible face",
+    "Textual labels positioned adjacent to or above bounding boxes",
+    "Facial analysis results (age, gender, or emotion) as content for labels"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

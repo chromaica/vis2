@@ -1,0 +1,19 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Color the silhouette in pastel pink, set the sky behind it to a sunset gradient, and make the script sparkle.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Change the primary color of the Disney castle to pastel pink. Rework the sky behind the castle into a distinct sunset gradient with warm hues. Enhance the 'Disney' logo text at the bottom of the image to make it visibly sparkle.",
+  "annotator": "matina",
+  "objects": [
+    "Disney castle (pastel pink)",
+    "Sunset gradient sky (with warm hues)",
+    "'Disney' logo text (visibly sparkling)",
+    "Water body",
+    "Landscape/ground"
+  ]
+}

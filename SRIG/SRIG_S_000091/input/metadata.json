@@ -1,0 +1,26 @@
+{
+  "subtopic": "Websites",
+  "prompt": "Take this modern, minimalist blog layout and redesign it in the 'Memphis' design style of the 1980s, featuring squiggly lines, geometric shapes, and clashing pastel colors.",
+  "cond_images": [
+    "1.jpeg"
+  ],
+  "remarks": "https://cdn.hostadvice.com/2022/11/final-the-best-wordpress-blogger-themes-you-should-consider-3.jpeg",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a new image depicting a blog layout. Take the modern, minimalist blog layout from image 1 and entirely redesign it in the 'Memphis' design style of the 1980s. The new design must prominently feature characteristic Memphis elements: playful squiggly lines, bold geometric shapes (like circles, triangles, and irregular forms), and a vibrant palette of clashing pastel colors. Preserve the general sectioning and content flow as seen in image 1, including the top navigation, the main hero section with its text, and the lower content blocks. For instance, the hero background in image 1 should become a dynamic Memphis pattern, and overall textures should be graphic and patterned, not flat or subtle.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Blog layout with distinct sections",
+    "Top navigation bar",
+    "\"M\" logo in the navigation bar",
+    "Hero section with large text \"We crush minimal design.\"",
+    "Hero section background with a dynamic Memphis pattern",
+    "Lower content section with heading \"We build experience.\"",
+    "Three content blocks (DESIGN, CONTENT, STRATEGY)",
+    "Playful squiggly lines (as a design element)",
+    "Bold geometric shapes (e.g., circles, triangles, irregular forms)",
+    "Vibrant palette of clashing pastel colors"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

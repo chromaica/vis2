@@ -1,0 +1,17 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "CAD models",
+  "prompt": "A CAD model of a 4 wheel square chassis frame, red colored.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A highly detailed CAD render of a four-wheel square chassis frame, red, presented in an isometric view on a clean white background.",
+  "annotator": "maxku",
+  "objects": [
+    "A highly detailed four-wheel square chassis frame",
+    "Red color for the chassis",
+    "CAD render style",
+    "Isometric view",
+    "Clean white background"
+  ]
+}

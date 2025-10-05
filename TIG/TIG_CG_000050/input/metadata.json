@@ -1,0 +1,24 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "Object detection visuals",
+  "prompt": "A busy intersection at night, with bounding boxes around vehicles, road signs, crosswalks, and street lamps. Annotations should glow or be color-coded for clarity.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate an image depicting a busy urban intersection at night. The scene should prominently feature various vehicles, road signs, crosswalks, and street lamps. Overlay precise, rectangular bounding boxes around each instance of these specific objects. The bounding box annotations should be distinct and clearly visible, either glowing or color-coded to differentiate between the object types (vehicles, road signs, crosswalks, street lamps).",
+  "annotator": "maxku",
+  "objects": [
+    "Busy urban intersection",
+    "Various vehicles",
+    "Road signs",
+    "Crosswalks",
+    "Street lamps",
+    "Nighttime ambiance",
+    "Precise, rectangular bounding boxes around vehicles",
+    "Precise, rectangular bounding boxes around road signs",
+    "Precise, rectangular bounding boxes around crosswalks",
+    "Precise, rectangular bounding boxes around street lamps"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

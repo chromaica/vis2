@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Change the title 1989 into 2025, copy the 2025 from the second image. The subtitle 'Taylor Swift' should remain on top of the title. Finally, add some birds from the third image onto the vinyl. Those birds should remain white, and keep the texture as in the third image. Keep the birds subtle and not too prominent. Adjust the size of the birds accordingly to fit in naturally. The bird patterns should be evenly distributed and placed in a circular pattern around the center of the vinyl.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the provided source image (image 1) as follows:\n\n1.  Replace the '1989' title on the album cover with '2025'. The new '2025' should replicate the exact font, style, and brushstroke texture from image 2. Ensure the 'Taylor's Version' subtitle remains positioned directly above this new '2025' title, maintaining its original appearance and placement relative to the new title.\n2.  Add multiple small bird silhouettes onto the surface of the visible vinyl records (on the right side of the image). These birds should be stylized and textured precisely like the bird examples in image 3.\n3.  The added birds should appear white in color while retaining the distinct brushstroke texture from image 3.\n4.  Distribute these white bird silhouettes evenly in a subtle, circular pattern around the central hub of each vinyl record. Adjust their size to fit naturally and subtly within the vinyl's surface, ensuring they are not overly prominent.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "album cover",
+    "Taylor Swift on the album cover",
+    "sky background on the album cover",
+    "seagulls on the album cover",
+    "'1989' title (should not be present)",
+    "'2025' title (on the album cover, replicating exact font, style, and brushstroke texture from image 2)",
+    "'Taylor's Version' subtitle (on the album cover, positioned directly above '2025')",
+    "two vinyl records (on the right side of the image)",
+    "album sleeve/packaging",
+    "multiple small white bird silhouettes (on the surface of the visible vinyl records, stylized and textured like the bird examples in image 3, in a subtle, circular pattern)"
+  ]
+}

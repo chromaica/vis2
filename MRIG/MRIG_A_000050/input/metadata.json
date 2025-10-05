@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Cultural or Heritage art",
+  "prompt": "A vibrant miniature painting in the style of image 2, showing a narrative scene with multiple figures from image 1. Use the color palette and ornate details of image 2, while capturing the compositional feel of image 1.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Create a vibrant miniature painting that merges the detailed, ornate style and rich color palette of image 2 with the narrative content and multi-figure composition from image 1. The scene should depict numerous figures engaged in a dynamic horizontal arrangement, reminiscent of the bas-relief's storytelling and dense human activity in image 1, all rendered with the intricate details and vivid colors typical of image 2.",
+  "annotator": "samin",
+  "objects": [
+    "Miniature painting format",
+    "Numerous human figures",
+    "Figures engaged in dynamic activity",
+    "Horizontal arrangement of figures",
+    "Vibrant and rich color palette",
+    "Intricate details",
+    "Ornate patterns on elements (e.g., clothing, background)",
+    "Elements or objects carried by figures",
+    "Dense composition of figures",
+    "Narrative storytelling scene"
+  ],
+  "human_annotation": true
+}

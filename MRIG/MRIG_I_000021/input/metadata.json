@@ -1,0 +1,30 @@
+{
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Create a data visualization graphic featuring smooth, flowing area charts with the vibrant color palette from image 2, annotated with clear data percentages following the style of image 1, presented on a dark background.",
+  "cond_images": [
+    "1.png",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "Information Graphics Diagrams Charts Graphs",
+  "searchQueryGeneratedTimestamp": 1751989603312,
+  "promptGeneratedTimestamp": 1751989753468,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "I",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a data visualization graphic featuring smooth, flowing stacked area charts. Utilize the vibrant color palette of bright pink, blue, teal, and yellow as seen in image 2. Annotate the data points or areas with clear percentages, following the legible and well-positioned annotation style from image 1. The graphic should be presented on a dark background, similar to image 1.",
+  "objects": [
+    "Smooth, flowing stacked area charts",
+    "Bright pink area chart layer",
+    "Blue area chart layer",
+    "Teal area chart layer",
+    "Yellow area chart layer",
+    "Percentage annotations on data areas",
+    "Legible annotation text style",
+    "Well-positioned annotations",
+    "Dark background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

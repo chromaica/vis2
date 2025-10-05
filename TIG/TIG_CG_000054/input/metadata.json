@@ -1,0 +1,19 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "Object detection visuals",
+  "prompt": "A street crowd scene with bounding boxes around each person\u2019s full body, labeled as \u2018person\u2019. Include distinct colors for overlapping boxes.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate an image of a street crowd scene. Each person's full body must be enclosed by a bounding box, with each box labeled 'person'. Any overlapping bounding boxes should be rendered in distinct, clearly visible colors.",
+  "annotator": "maxku",
+  "objects": [
+    "street scene",
+    "crowd of people",
+    "full-body view of each person",
+    "bounding box enclosing each person",
+    "text label 'person' on each bounding box",
+    "distinct, clearly visible colors on overlapping bounding boxes"
+  ],
+  "human_annotation": true
+}

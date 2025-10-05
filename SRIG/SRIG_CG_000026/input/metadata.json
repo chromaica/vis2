@@ -1,0 +1,28 @@
+{
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "Using the reference's computer graphics visualization style, generate an image showing semantic segmentation for automated driving data. Depict a busy street scene with vehicles and pedestrians outlined by colored masks, illustrating object detection and classification.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://theaisummer.com/static/8b58a02198e13d2e29a41b40e7c6a035/8e1fc/semseg.jpg",
+  "promptGeneratedTimestamp": 1748766694499,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate an urban street scene in the computer graphics visualization style of image 1, displaying semantic segmentation for automated driving data. The busy scene should feature vehicles and pedestrians prominently outlined by colored masks. Specifically, vehicles should have blue masks, pedestrians red masks, the road a solid purple mask with a distinct lighter crosswalk in the foreground, sidewalks a pink mask, and trees green masks. Include yellow-masked street signs, such as a speed limit sign on the right. A prominent red-masked pedestrian should be walking across the foreground crosswalk on the left, with multiple blue-masked vehicles and additional red-masked pedestrians visible on the road and right-side sidewalk, clearly illustrating object detection and classification.",
+  "annotator": "ishengfang",
+  "objects": [
+    "urban street scene",
+    "computer graphics visualization style of image 1",
+    "semantic segmentation overlay",
+    "prominent red-masked pedestrian walking across the foreground crosswalk on the left",
+    "multiple blue-masked vehicles on the road",
+    "multiple red-masked pedestrians on the road and right-side sidewalk",
+    "solid purple-masked road with a distinct lighter crosswalk in the foreground",
+    "pink-masked sidewalks",
+    "green-masked trees",
+    "yellow-masked street signs, including a speed limit sign on the right"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

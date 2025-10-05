@@ -1,0 +1,27 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "Recolor the masked headline to neon pink (#FF00FF) and add an outer glow.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Recolor the main headline text \"Electric Dreams,\" located in the upper central part of the poster, to neon pink (#FF00FF) and add an outer glow around it. The exact area for editing is indicated by the masked region in image 2.",
+  "annotator": "matina",
+  "objects": [
+    "neon pink \"Electric Dreams\" text with outer glow",
+    "\"The Most Unusual Triangle in the History of Love!\" text",
+    "\"A Boy, A Girl, And A Computer.\" text",
+    "Man reaching out",
+    "Woman looking to the right",
+    "Computer monitor with a pink face",
+    "Keyboard",
+    "Railing structures on both sides",
+    "Blue sky background",
+    "City skyline in the background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

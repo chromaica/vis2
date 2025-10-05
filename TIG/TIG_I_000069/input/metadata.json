@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "A kawaii pastel pet care app UI featuring rounded corners, soft pink gradients, animated pet avatars, and cloud-shaped notification bubbles for feeding reminders",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A kawaii pastel pet care mobile application UI screen. The interface design prominently features rounded corners on all buttons, cards, and interactive elements. Soft pink gradients provide a gentle background and fill various UI components. The screen displays multiple animated pet avatars as part of user profiles or status updates. Cloud-shaped notification bubbles, clearly indicating feeding reminders, are visible, gently appearing or floating within the layout.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Mobile application UI screen",
+    "Soft pink gradient background",
+    "Buttons with rounded corners",
+    "Cards with rounded corners",
+    "Interactive UI elements with rounded corners",
+    "Multiple animated pet avatars",
+    "Cloud-shaped notification bubbles",
+    "Feeding reminder text/icons within bubbles"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,28 @@
+{
+  "subtopic": "Urban & Street Photography",
+  "prompt": "Edit image 1 to enhance its urban street photography aesthetic. Introduce a denser arrangement of traffic cones, grouping them similarly to image 2. Add clear, white parking bay lines and numerical labels on the asphalt in the foreground, styled after the markings in image 2. Apply striking, directional light and cast strong, elongated shadows across the ground and objects, mimicking the dramatic lighting effect from image 3.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748657791149,
+  "promptLengthUsed": "long",
+  "task": "MRIE",
+  "topic": "P",
+  "prompt_refined": "Edit image 1 by introducing a significantly denser arrangement of yellow and white traffic cones in the foreground and midground areas of the asphalt, grouping them closely together as seen in image 2. Additionally, add clear, crisp white parking bay lines and numerical labels (e.g., 'B1', 'B2') on the asphalt in the foreground, replicating the precise style, thickness, and clarity of the markings, including their numerical labels, as seen in image 2; ensure these new markings integrate naturally with any existing partial lines. Finally, transform the overall lighting to a striking, highly directional style across the entire scene, similar to the dramatic illumination in image 3, resulting in strong, long, and well-defined shadows cast by objects and structures across the ground, mimicking the deep contrast and distinct light/shadow areas observed in image 3.",
+  "annotator": "boris",
+  "objects": [
+    "Asphalt ground",
+    "Dense grouping of yellow and white traffic cones in the foreground and midground",
+    "White parking bay lines on the asphalt in the foreground",
+    "Numerical parking labels (e.g., 'B1', 'B2') on the asphalt in the foreground",
+    "Large multi-story building",
+    "Smaller building/structure (red/beige)",
+    "Utility poles and wires",
+    "Trees and foliage",
+    "Strong, long, and well-defined shadows cast by objects and structures",
+    "Distinct light and shadow areas"
+  ]
+}

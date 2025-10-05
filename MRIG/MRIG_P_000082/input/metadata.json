@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "A cute Bulbasaur referenced in the first image waddling in a lush forest, but its bulb is replaced with a giant, fluffy char siu bao referenced in the second image. The bao-bulb is soft and white with a golden-brown baked top, slightly cracked to reveal a hint of savory barbecue pork filling. Vines made of dough extend from the bao-bulb, curling playfully.",
+  "cond_images": [
+    "1.png",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic image of a cute Bulbasaur, visually consistent with image 1, waddling through a lush, verdant forest. Its traditional back bulb is replaced by a giant, fluffy char siu bao, inspired by image 2. This bao-bulb is soft, predominantly white, with a golden-brown baked top that is slightly cracked, revealing a hint of savory barbecue pork filling. From the bao-bulb, vines made of dough extend, curling playfully.",
+  "objects": [
+    "cute Bulbasaur",
+    "lush, verdant forest",
+    "Bulbasaur's traditional back bulb (should not be present)",
+    "giant, fluffy char siu bao (replacing Bulbasaur's back bulb)",
+    "soft, predominantly white char siu bao",
+    "golden-brown baked top on the char siu bao",
+    "cracked top on the char siu bao",
+    "hint of savory barbecue pork filling",
+    "dough vines (extending from the char siu bao)",
+    "playfully curling dough vines"
+  ]
+}

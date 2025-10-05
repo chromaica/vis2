@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": "Illustrate a powerful comic sound: 'THWACK!' in vibrant emerald green comic-style font, angled dramatically and outlined with a thick purple border. The background is a clean, bright orange with subtle radiating lines.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate an image of the word 'THWACK!' in a vibrant emerald green, comic-style font. The text is dramatically angled and outlined with a thick purple border. The background is a clean, bright orange with subtle radiating lines.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "The text \"THWACK!\"",
+    "Emerald green color (for the text)",
+    "Comic-style font (for the text)",
+    "Dramatically angled text",
+    "Thick purple outline (for the text)",
+    "Bright orange background",
+    "Subtle radiating lines (on the background)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,19 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Textile Art with Text",
+  "prompt": "Create a textile graphic focusing on 'Softness', depicted in white Sashiko stitching upon indigo fabric. The word should be centered, with subtle traditional Japanese patterns surrounding it, viewed in close-up.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A close-up view of a textile graphic featuring the word 'Softness' rendered in white Sashiko stitching on indigo fabric. The word 'Softness' is centered, with subtle traditional Japanese patterns surrounding it.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Indigo fabric",
+    "The word 'Softness'",
+    "White Sashiko stitching",
+    "Traditional Japanese patterns",
+    "Close-up view",
+    "Centered word 'Softness'",
+    "Patterns surrounding the word 'Softness'"
+  ]
+}

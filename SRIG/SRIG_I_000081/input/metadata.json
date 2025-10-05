@@ -1,0 +1,20 @@
+{
+  "subtopic": "Visual instructions and manuals",
+  "prompt": "Generate a photorealistic image for showing a fully-assembled bicycle, by following the given bicycle shape in the manual.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://www.cruzee.com/wp-content/uploads/2016/04/USA-Cruzee-Manual-RS1-Page-1-800x1067.jpg",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate a photorealistic image of a fully-assembled Cruzee balance bike. Use image 1 as a precise visual guide for the design, shape, and specific components of the bicycle. The image should depict the handlebar set, seat (attached using one of the provided seatposts), frame, and wheel, all accurately connected to form a complete, functional balance bike, consistent with the disassembled parts shown in image 1.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "A fully assembled Cruzee balance bike",
+    "Handlebar set",
+    "Bike seat with seatpost",
+    "Bike frame",
+    "Bike wheel",
+    "Seat quick clamp"
+  ]
+}

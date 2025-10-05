@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Exploded Views",
+  "prompt": "Highlight the motor component by changing its color to bright red.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. In the exploded diagram, locate the electric motor component (labeled '11' in the top-right section) and change its color to bright red.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Exploded diagram",
+    "Bright red electric motor",
+    "Blue main housing/casing",
+    "Black rectangular box",
+    "Metal bracket",
+    "Mounting bracket",
+    "Impeller/fan-like part",
+    "Front plate with screws",
+    "Numerical labels and connecting lines",
+    "White background"
+  ]
+}

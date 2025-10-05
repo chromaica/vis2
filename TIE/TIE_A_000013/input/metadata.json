@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "Add thick white outline to each piece of the collage. The outline should be uniform in thickness and stay at the same layer as the collage pieces.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Using image 1 as the source, add a prominent, uniform white outline to the external edge of each distinct paper cut-out piece within the collage. The outline should precisely trace the contour of each element and maintain a consistent thickness throughout.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Collage of various paper cut-out images",
+    "Prominent, uniform white outlines around the external edge of each individual paper cut-out piece",
+    "Paper cut-out image of a woman in a brown dress holding a blue bag",
+    "Paper cut-out image of a woman with dark curly hair and a green coat",
+    "Paper cut-out image with \"THE NEW CLASSICS\" text",
+    "Paper cut-out image of a woman on the phone",
+    "Paper cut-out image of a woman with long dark braids",
+    "Paper cut-out image of a woman in a black dress",
+    "Paper cut-out image of hands wearing a watch",
+    "Paper cut-out image of a woman reclining in a patterned dress"
+  ]
+}

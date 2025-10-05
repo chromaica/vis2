@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": "Transform the \"Start free or get a demo\" button into a 3D button pulsating with light.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Locate the \"Start free or get a demo\" button in the top-right corner of the screenshot. Transform this button into a three-dimensional object with visible depth and realistic shading, appearing to pulsate by radiating a vibrant light from its surface and edges.",
+  "annotator": "cwhsu",
+  "objects": [
+    "HubSpot webpage screenshot",
+    "HubSpot logo",
+    "Navigation menu",
+    "Top light blue banner",
+    "Main orange content section",
+    "Dashboard screenshot",
+    "Bottom white content section",
+    "Three-dimensional \"Start free or get a demo\" button in the top-right",
+    "Pulsating vibrant light radiating from the button",
+    "Realistic shading on the three-dimensional button"
+  ]
+}

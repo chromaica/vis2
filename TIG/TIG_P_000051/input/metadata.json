@@ -1,0 +1,17 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Medical images",
+  "prompt": "An x-ray image of a chest cavity, focusing on the detailed structure of the lungs and ribs, captured in grayscale with clarity and precision.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A photorealistic x-ray image of a human chest cavity, highlighting the intricate details of the lung tissue and individual rib bones. The image is rendered entirely in grayscale tones, featuring exceptional clarity, sharp contours, and high-resolution precision.",
+  "annotator": "cwhsu",
+  "objects": [
+    "human chest cavity",
+    "lung tissue with intricate details",
+    "individual rib bones",
+    "x-ray image appearance",
+    "grayscale tones"
+  ]
+}

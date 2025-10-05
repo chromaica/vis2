@@ -1,0 +1,25 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Futurism",
+  "prompt": "Take the center as a mirror line, and make the left side symmetrical to the right side. Then, make the mirrored left side more warm-toned and the right side more cold-toned.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Using image 1 as the source, edit the image by vertically mirroring its right half onto its left half, such that the entire image becomes symmetrical along its central vertical axis. After this transformation, apply warm color tones to the entire left half of the image and cold color tones to the entire right half of the image.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Symmetrical cityscape",
+    "Symmetrical waterfall",
+    "Symmetrical river",
+    "Lush green landscape",
+    "Symmetrical trees with green and red leaves",
+    "Symmetrical red flowers",
+    "Two groups of three people, mirrored",
+    "Symmetrical broken stone arms with mirrored symbols",
+    "Symmetrical birds flying"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,22 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "Render the segmentation map from the source image using the color and texture style of the painting.",
+  "cond_images": [
+    "1.png",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Render Image 1 (the segmentation map) into a detailed image by applying the artistic style, vibrant color palette, and characteristic impasto brushstrokes found in Image 2 (the painting).",
+  "annotator": "nimajamali",
+  "objects": [
+    "Multiple saluting figures",
+    "Equipment/bags (behind figures)",
+    "Detailed background",
+    "Impasto brushstrokes",
+    "Vibrant color palette",
+    "Swirling patterns in the sky/background"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,25 @@
+{
+  "subtopic": "Software interfaces",
+  "prompt": "Create a version of this messaging app's UI that looks like it's carved from wood and stone, for a fantasy or prehistoric setting.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://images.clevguard.com/en/images/screenshot-whatsapp-messages.png",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Transform the messaging app UI from image 1 into a version that appears carved from wood and stone, suitable for a fantasy or prehistoric setting.\n\nThe main chat background should be a large, rough-hewn stone slab, like granite or slate, with the faint background doodle patterns from image 1 deeply etched into its surface.\n\nThe top header bar, including the time, system icons (Wi-Fi, battery, signal), the back arrow (left), and the video and call icons (right), should be carved into a sturdy, dark wooden beam. The profile image of 'Zuk' should be a circular wooden carving or stone medallion embedded within this beam.\n\nChat bubbles (green for sent messages, white for received messages) should be thick, chiseled stone tablets: use a lighter, smoother sandstone for sent messages and a darker, rougher basalt for received messages. All text, emojis, timestamps, and checkmarks within should be deeply carved or etched into the stone, maintaining original colors.\n\nDate separators (e.g., 'Tue, Sep 10', 'Thursday') should appear as weathered wooden planks with their text carved into them.\n\nThe bottom input bar should be a solid, flat piece of dark, polished wood. The '+' symbol on the left, the text input area, and the paperclip, camera, and microphone icons on the right should all be distinct, carved wooden buttons or recessed elements within this bar.\n\nMaintain the overall layout and content of the original UI from image 1, ensuring the material transformation evokes an ancient, robust, and handcrafted feel.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Rough-hewn stone chat background with etched patterns",
+    "Dark wooden top header bar",
+    "Zuk's profile image as a circular wooden carving or stone medallion",
+    "Lighter sandstone chat bubbles for sent messages",
+    "Darker basalt chat bubbles for received messages",
+    "Deeply carved text, emojis, and checkmarks within stone chat bubbles",
+    "Weathered wooden plank date separators",
+    "Dark polished wooden bottom input bar",
+    "Carved '+' symbol on the input bar",
+    "Carved paperclip, camera, and microphone icons on the input bar"
+  ],
+  "human_annotation": true
+}

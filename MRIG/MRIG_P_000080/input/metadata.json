@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Create an Arleigh Burke-class destroyer referenced in the first image reimagined as an orca referenced in the second image. The destroyer\u2019s sleek, angular hull is clad in black-and-white metallic panels mimicking an orca\u2019s distinctive pattern. The deck is streamlined, with a single smokestack resembling a dorsal fin that vents exhaust. Propulsion is driven by two powerful gas turbine-driven propellers at the stern, glowing with blue-white energy to mimic an orca\u2019s tail flukes. The bridge is shaped like an orca\u2019s head, with large, expressive windows as eyes.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic image of an Arleigh Burke-class destroyer, drawing structural inspiration from the vessel in image 1, but entirely reimagined with the distinct visual elements and pattern of the orca from image 2. The destroyer's sleek, angular hull is clad in high-gloss black and matte white metallic panels, mimicking the orca's characteristic coloration: the upper hull and superstructure are predominantly black, while the lower hull and a large, oval white patch on each side, positioned roughly where the bridge structure meets the hull, are white. The main deck is exceptionally streamlined. A singular, prominent smokestack, centrally located on the main superstructure, rises sharply to resemble the dorsal fin of the orca from image 2, actively venting a plume of exhaust. At the stern, two powerful gas turbine-driven propellers are visible beneath the water surface, glowing with intense blue-white energy, their appearance and effect designed to mimic the powerful tail flukes of the orca from image 2. The vessel's forward bridge structure is distinctly shaped like the head of the orca from image 2, featuring large, dark, expressive windows positioned symmetrically to function as its eyes.",
+  "objects": [
+    "Photorealistic Arleigh Burke-class destroyer",
+    "Orca-patterned hull with high-gloss black and matte white metallic panels",
+    "Upper hull and superstructure predominantly black",
+    "Lower hull and large, oval white patches on each side",
+    "Streamlined main deck",
+    "Singular, prominent smokestack resembling an orca dorsal fin",
+    "Plume of exhaust from the smokestack",
+    "Two gas turbine-driven propellers beneath the water, glowing with blue-white energy",
+    "Forward bridge structure shaped like an orca head",
+    "Large, dark, expressive windows on the bridge, positioned symmetrically"
+  ]
+}

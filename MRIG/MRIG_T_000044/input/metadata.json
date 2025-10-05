@@ -1,0 +1,27 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Typography-not-english",
+  "prompt": "Fill the kiwi slice from image 2 using the Hangul word '\uc11c\uc6b8' repeated in the shape of the fruit segments, maintaining the word layout style from image 1 and the black stroke balance of image 3.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a new image depicting a kiwi slice cross-section. The green fleshy segments of the kiwi should be entirely composed of repetitions of the Hangul word '\uc11c\uc6b8' (Seoul). Each instance of '\uc11c\uc6b8' must vary in size, orientation, and curvature to precisely fill and collectively form the shape of the individual fruit segments, mirroring the intricate typographic art style shown in image 1. The '\uc11c\uc6b8' characters should be rendered in solid black, maintaining the bold and balanced stroke weight consistent with the Hangul word in image 3.",
+  "annotator": "parnian",
+  "objects": [
+    "Kiwi slice cross-section",
+    "Kiwi's brown outer rind",
+    "Kiwi's pale central core",
+    "Black kiwi seeds",
+    "The Hangul word '\uc11c\uc6b8' (Seoul)",
+    "Multiple repetitions of '\uc11c\uc6b8' forming the shapes of the kiwi's fleshy segments",
+    "Solid black color for the '\uc11c\uc6b8' characters",
+    "Varied size, orientation, and curvature for each instance of '\uc11c\uc6b8'",
+    "Bold and balanced stroke weight for the '\uc11c\uc6b8' characters"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

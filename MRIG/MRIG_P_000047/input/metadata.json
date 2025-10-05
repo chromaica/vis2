@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "Use the Tesla logo depicted in the first reference image as a cosmic lens to distort a portion of the provided astronomical image of a star field in the second reference image. Apply the Tesla logo\u2019s shape as a gravitational lens effect, warping the starlight within and around the \u2018T\u2019 to create magnified arcs and stretched star patterns. The logo itself should not be directly visible but should influence the star field with a faint electric-blue glow that reflects the Tesla brand\u2019s aesthetic.",
+  "cond_images": [
+    "1.png",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic image by applying the shape of the Tesla logo from image 1 as an invisible gravitational lens over the central portion of the astronomical star field from image 2. The lens should warp the starlight within and immediately around the 'T' shape, creating pronounced magnified arcs and stretched star patterns. The Tesla logo itself must not be directly visible; instead, its influence should manifest as a subtle, pervasive electric-blue glow emanating from the distorted stellar region, reflecting the Tesla brand's futuristic aesthetic.",
+  "objects": [
+    "photorealistic image",
+    "astronomical star field",
+    "central portion of the star field",
+    "starlight warped into a 'T' shape",
+    "magnified arcs of starlight",
+    "stretched star patterns",
+    "electric-blue glow emanating from the distorted stellar region",
+    "Tesla logo (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

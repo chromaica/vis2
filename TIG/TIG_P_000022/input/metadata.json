@@ -1,0 +1,17 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "A panoramic view of Saturn with its iconic rings glimmering against a star-studded dark sky backdrop.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic, wide-angle image of the gas giant Saturn, centrally positioned. Its magnificent, expansive rings, composed of countless icy particles, brilliantly shimmer and glimmer as they reflect distant starlight. The surrounding deep space backdrop is intensely dark and densely populated with myriads of sparkling, pinprick stars, creating a breathtaking celestial panorama.",
+  "annotator": "cwhsu",
+  "objects": [
+    "gas giant Saturn (centrally positioned)",
+    "magnificent, expansive rings (of Saturn)",
+    "intensely dark deep space backdrop",
+    "myriads of sparkling, pinprick stars"
+  ],
+  "human_annotation": true
+}

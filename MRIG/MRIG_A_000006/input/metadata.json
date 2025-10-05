@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "Create a collage artwork combining the central spiral shape from image 1, decorated with the vibrant colors and polished textures of the gemstones in image 2, all layered onto the vintage paper background with script from image 3.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Create a collage artwork. The central element is the spiral form from image 1. Its surface should display the vibrant blue and green colors and the polished, varied textures (including mottled and veined patterns) characteristic of the gemstones in image 2. This distinctly colored and textured spiral should be prominently layered onto the vintage brown paper background from image 3, which features faded handwritten script and ornate borders.",
+  "annotator": "samin",
+  "objects": [
+    "collage artwork",
+    "spiral form",
+    "vibrant blue colors",
+    "vibrant green colors",
+    "polished texture",
+    "mottled texture",
+    "veined patterns",
+    "vintage brown paper background",
+    "faded handwritten script",
+    "ornate borders"
+  ]
+}

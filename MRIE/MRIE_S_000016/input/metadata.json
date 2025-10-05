@@ -1,0 +1,30 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": "In image 1, replace the beige background with the orange gradient from image 3, preserving all text and layout spacing. Add the phone and email icons from image 2 to the top-right corner, next to the \"EMAIL\" link, spaced evenly and scaled to match the text height. Do not modify any other elements.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Modify image 1. Replace the existing beige background of image 1 with the orange gradient from image 3, preserving all existing text, styling, and layout spacing. Additionally, integrate the phone icon (from top-left of image 2) and the email envelope icon (from top-middle of image 2) into the top-right section of image 1. These icons should be placed immediately to the left of the \"EMAIL\" link, evenly spaced from each other and from the link, and scaled to match the height of the \"EMAIL\" text. Ensure no other elements in image 1 are altered.",
+  "annotator": "parnian",
+  "objects": [
+    "orange gradient background",
+    "\"HZ.\" text",
+    "\"WORK\" text link",
+    "\"ABOUT\" text link",
+    "\"DRIBBBLE\" text link",
+    "\"EMAIL\" text link",
+    "\"Hello, I'm Haoran.\" text",
+    "\"I am a UX designer, I recently completed an intensive, two-year STEM-based graduate program earning a Master's degree with a focus on UX Design.\" text",
+    "3D character with laptop",
+    "\"Check out my work\" text with arrow icon",
+    "Phone icon, placed immediately to the left of the \"EMAIL\" link",
+    "Email envelope icon, placed immediately to the left of the \"EMAIL\" link"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,28 @@
+{
+  "subtopic": "Game assets",
+  "prompt": "Generate a dark pixel art screenshot demonstrating new game assets for a dungeon crawler. Include a character sprite, unique monster asset, environment tiles, and UI elements, similar to the reference image's style and composition.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://media.indiedb.com/images/members/4/3827/3826399/profile/Pixel_Art_001.jpg",
+  "promptGeneratedTimestamp": 1748771902077,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a dark pixel art screenshot for a dungeon crawler game, showcasing new game assets while strictly adhering to the overall style and top-down isometric composition of image 1.\n\nPosition a new, distinct character sprite in the left-center foreground, holding a weapon. In the deep background, prominently feature a unique, menacing monster asset, visually different from the statue in image 1 but occupying a similar central, imposing position. Design new environment tiles for the dungeon walls and floor, maintaining the gritty, stone-and-tile aesthetic seen in image 1, illuminated by new scattered light sources like candles or glowing runestones.\n\nIntegrate a complete set of UI elements: a character portrait and health bar in the top-left, a detailed mini-map in the top-center, a weapon display and resource bar in the top-right, and an inventory/action bar populated with new item icons along the bottom-center. All UI elements must strictly follow the pixel art style and precise layout of image 1.",
+  "annotator": "ishengfang",
+  "objects": [
+    "New, distinct character sprite in the left-center foreground",
+    "Weapon held by the character",
+    "Unique, menacing monster in the deep background (central, imposing position)",
+    "New dungeon environment tiles (walls and floor, gritty stone-and-tile aesthetic)",
+    "Scattered light sources (candles or glowing runestones)",
+    "Character portrait and health bar in the top-left",
+    "Detailed mini-map in the top-center",
+    "Weapon display and resource bar in the top-right",
+    "Inventory/action bar along the bottom-center populated with new item icons",
+    "Statue from image 1 (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

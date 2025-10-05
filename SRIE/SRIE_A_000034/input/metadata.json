@@ -1,0 +1,22 @@
+{
+  "subtopic": "Cultural or Heritage art",
+  "prompt": "Edit Image 1: Recolor the four background quadrants using the distinct colors from Image 2's palette. Apply the top-left color from Image 2 to Image 1's top-left quadrant, and similarly for all four.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748494998927,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit Image 1: Recolor the four distinct background quadrants within the artwork. Use the color palette from Image 2 as a reference. Apply the color from each quadrant in Image 2 to its geometrically corresponding quadrant in Image 1. Specifically, the top-left color from Image 2 should replace the top-left background color in Image 1, and this direct positional mapping should be applied to all four quadrants.",
+  "annotator": "kellycyy",
+  "objects": [
+    "Buddha figure",
+    "top-left background quadrant",
+    "top-right background quadrant",
+    "bottom-left background quadrant",
+    "bottom-right background quadrant"
+  ]
+}

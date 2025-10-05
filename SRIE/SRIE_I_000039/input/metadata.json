@@ -1,0 +1,20 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "Apply the UI mockup elements on the computer screen.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Display the user interface (UI) design from image 2 onto the blank screen of the computer monitor in image 1. Arrange the three mobile UI screens from image 2 clearly on the desktop display, as a unified multi-pane desktop application or related windows, maintaining their original style and content.",
+  "annotator": "Johnny",
+  "objects": [
+    "computer monitor",
+    "first mobile UI screen (Explore)",
+    "second mobile UI screen (Product details with pink chair)",
+    "third mobile UI screen (Cart)",
+    "desktop application window elements (framing the UI screens)"
+  ]
+}

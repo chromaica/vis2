@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "Edit image 1 by replacing the dollar sign next to the \"Current Balance\" with the Bitcoin symbol from image 2. Add the green checkmark from image 3 next to the \u201c$972 Actual\u201d value in the Expenses section to indicate it\u2019s verified. Keep layout and all original values unchanged",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Perform image editing on image 1. Replace the dollar sign ($) located to the left of '$24,847 Current Balance' with a white Bitcoin symbol extracted from image 2. Additionally, insert the green checkmark from image 3 to the right of the '$972 Actual' value within the 'Expenses' section, indicating it is verified. Maintain the original layout and all other numerical values in image 1.",
+  "annotator": "parnian",
+  "objects": [
+    "White Bitcoin symbol to the left of '$24,847 Current Balance'",
+    "Green checkmark to the right of '$972 Actual'",
+    "'$24,847 Current Balance'",
+    "Expenses section with '$972 Actual' and '$1,429 Planned'",
+    "Income section with '$1,751 Actual' and '$3,836 Monthly Income'",
+    "Goal (3) section with '$0 Save' and '$35,962 Total Amount'",
+    "Plus sign buttons",
+    "Progress bars",
+    "Finance app title and navigation bar",
+    "Phone status bar (top of screen)"
+  ]
+}

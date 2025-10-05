@@ -1,0 +1,23 @@
+{
+  "subtopic": "Games",
+  "prompt": "Generate a game screenshot capturing the distinct artistic style of The Sims 4. Depict two stylised characters interacting in an outdoor environment like park, featuring visible UI elements like dialogue boxes and menus. Focus on a medium shot composition.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://sm.ign.com/t/ign_za/photo/default/sims-socialising-1722034583691_68ng.1080.jpg",
+  "promptGeneratedTimestamp": 1748793256806,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a game screenshot for The Sims 4, replicating its distinctive 3D stylized, vibrant, and slightly cartoonish artistic style, as demonstrated in image 1. The scene should feature two human-like Sims characters, presented in a medium shot composition, standing and conversing in an outdoor environment such as a residential area or park. Prominently display various user interface (UI) elements typical of The Sims 4: include a character status bar (e.g., mood, current activity) positioned above one character's head in the top-center, an action or goal prompt box in the top-left, a main navigation bar with icons across the top-right, a character portrait panel with moodlets and needs information in the bottom-left, and game control buttons (play, pause, fast forward) along with a time display in the bottom-center. All UI elements should be consistent in appearance and placement with a typical Sims 4 interface, akin to those visible in image 1.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "two human-like Sims characters",
+    "outdoor environment (residential area or park)",
+    "character status bar above one character's head in the top-center",
+    "action or goal prompt box in the top-left",
+    "main navigation bar with icons across the top-right",
+    "character portrait panel with moodlets and needs information in the bottom-left",
+    "game control buttons (play, pause, fast forward) with time display in the bottom-center"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "task": "MRIE",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Change the font color of the Chinese words in the neon light sign to a bright pink, and English words in the sign to bright blue. Add the fish from the second image above the chinese words, and one of the crabs from the third image at the left side of the sign. Make sure the fish and crab are in a style that matches the neon light sign.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Change the neon light glow of the Chinese characters '\u91d1\u8a18' on the main sign to a bright pink. Change the neon light glow of the English words 'CHUEN KEE SEAFOOD RESTAURANT' on the same sign to a bright blue. Add the fish from image 2 as a new neon light element positioned directly above the '\u91d1\u8a18' characters. Add one of the crabs from image 3 as a new neon light element on the left side of the large neon sign. Ensure both the added fish and crab are rendered in a neon style that perfectly matches the existing aesthetic of the sign.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Street scene at night with buildings",
+    "Main neon sign",
+    "Chinese characters '\u91d1\u8a18' with bright pink neon glow",
+    "English words 'CHUEN KEE SEAFOOD RESTAURANT' with bright blue neon glow",
+    "Fish neon light element positioned directly above the '\u91d1\u8a18' characters",
+    "Crab neon light element on the left side of the large neon sign",
+    "Cars on the street",
+    "Glowing lanterns and other building lights",
+    "People on the street",
+    "Street lights"
+  ],
+  "human_annotation": true
+}

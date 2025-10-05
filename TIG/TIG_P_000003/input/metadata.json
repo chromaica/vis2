@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "A bustling city street at twilight, neon signs reflecting in puddles after rain, capturing urban energy.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Photorealistic image of a bustling city street at twilight. The wet asphalt and pavements, glistening from recent rain, feature large puddles in the foreground that vividly reflect the vibrant, multicolored neon signs from shops and billboards lining the tall, modern buildings on both sides of the street. Numerous pedestrians, some with umbrellas, populate the sidewalks on the left and right, contributing to the dynamic urban energy. Yellow taxis and red buses move through the street, their headlights and taillights creating subtle light streaks, enhancing the sense of activity and motion.",
+  "annotator": "cwhsu",
+  "objects": [
+    "bustling city street",
+    "twilight atmosphere",
+    "wet asphalt and pavements",
+    "large puddles in the foreground",
+    "reflections of neon signs in puddles",
+    "vibrant, multicolored neon signs on buildings",
+    "tall, modern buildings on both sides of the street",
+    "numerous pedestrians on sidewalks",
+    "yellow taxis and red buses in the street",
+    "headlights and taillights light streaks"
+  ]
+}

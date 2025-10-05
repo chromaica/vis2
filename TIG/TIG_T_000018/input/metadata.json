@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "Poster design: The command 'EXPLORE' is presented in a rugged, textured sans-serif typeface, colored a deep forest green. Its backdrop is an abstract representation of a geological map.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A professional poster design featuring the word 'EXPLORE' prominently centered. The text is rendered in a rugged, textured sans-serif typeface, colored a deep forest green. The background is an abstract representation of a geological map.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "The word 'EXPLORE'",
+    "Rugged texture (on the word 'EXPLORE')",
+    "Deep forest green color (for the word 'EXPLORE')",
+    "Sans-serif typeface (for the word 'EXPLORE')",
+    "Abstract geological map background",
+    "Centered position (for the word 'EXPLORE')",
+    "Professional poster design (overall style)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

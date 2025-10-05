@@ -1,0 +1,19 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "the dashboard of a 6th gen fighter jet",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A futuristic, high-tech dashboard for a 6th generation fighter jet, featuring multiple large digital displays, interactive holographic readouts, and sleek, minimalist physical controls. The design is ergonomic, crafted from advanced composite materials, and illuminated with subtle accent lighting.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Futuristic fighter jet dashboard",
+    "Multiple large digital displays",
+    "Interactive holographic readouts",
+    "Sleek, minimalist physical controls",
+    "Dashboard crafted from advanced composite materials",
+    "Subtle accent lighting"
+  ],
+  "human_annotation": true
+}

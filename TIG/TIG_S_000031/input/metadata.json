@@ -1,0 +1,24 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "generate a photorealistic receipt torn in half from a long-lost convenience store after a fictional apocalypse. Barely legible, it lists \u201cWater (rationed)\u201d, \u201cBatteries\u201d, \u201cCanned beans\u201d, and ends with \u201cGood luck out there.\u201d",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic image of a single, old, and heavily weathered paper receipt. The receipt is distinctly torn unevenly down the vertical center, and its edges are frayed, suggesting significant decay and neglect. The paper itself is discolored, stained with water marks and dirt smudges, and shows prominent creases and crumples. The ink on the receipt is significantly faded in places, making much of the text barely legible. However, three specific item names are clearly discernible despite the wear: \"Water (rationed)\", \"Batteries\", and \"Canned beans\". At the very bottom of the receipt, the concluding phrase \"Good luck out there.\" is also clearly visible. The overall aesthetic should evoke a relic found in a long-abandoned, post-apocalyptic convenience store.",
+  "annotator": "theblackcat",
+  "objects": [
+    "single, old, heavily weathered paper receipt",
+    "receipt torn unevenly down the vertical center",
+    "frayed edges of the receipt",
+    "discolored, water-marked, dirt-smudged, creased, and crumpled paper of the receipt",
+    "faded ink on the receipt",
+    "\"Water (rationed)\" text on receipt",
+    "\"Batteries\" text on receipt",
+    "\"Canned beans\" text on receipt",
+    "\"Good luck out there.\" text at the bottom of the receipt",
+    "long-abandoned, post-apocalyptic convenience store background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

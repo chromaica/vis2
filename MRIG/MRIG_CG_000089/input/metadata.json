@@ -1,0 +1,29 @@
+{
+  "subtopic": "Object detection visuals",
+  "prompt": "Generate a computer graphic visual demonstrating object detection. Use the aerial beach scene from image 1 as the background image being processed. Overlay object detection bounding boxes and labels, stylized with the color palette and clean look found in image 2.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748424392041,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a computer graphic image demonstrating object detection. The primary background should be the aerial beach scene from image 1, featuring the ocean, sand, and adjacent buildings. Overlay distinct object detection bounding boxes and their corresponding labels on elements within this scene. These bounding boxes and labels must incorporate the color palette (pastel pink, white, green, black) and the clean, minimalist aesthetic observed in image 2.",
+  "annotator": "winston",
+  "objects": [
+    "computer graphic image",
+    "aerial beach scene",
+    "ocean",
+    "sand",
+    "adjacent buildings",
+    "object detection bounding boxes",
+    "object detection labels",
+    "pastel pink colored elements",
+    "white colored elements",
+    "green colored elements"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

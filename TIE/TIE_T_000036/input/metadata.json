@@ -1,0 +1,21 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Keep his face but change the background to scrolling terminal logs in neon green.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Preserve the man's face and the overlying meme text 'When you're about to leave work and your boss says \"Before you go.....\"'. Replace the entire background behind the man in both panels with dynamic, scrolling terminal logs in vivid neon green.",
+  "annotator": "matina",
+  "objects": [
+    "The man's face (in the left panel)",
+    "The man's face (in the right panel)",
+    "Overlying meme text \"When you're about to leave work and your boss says \"Before you go.....\"\"",
+    "Dynamic, scrolling terminal logs (as background behind the man in both panels)",
+    "Vivid neon green color (for the terminal logs)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

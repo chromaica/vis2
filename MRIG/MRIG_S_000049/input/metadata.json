@@ -1,0 +1,28 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": "Create a screenshot of a blog homepage, featuring blog post titles from the first image and a comment section from the second image.",
+  "cond_images": [
+    "1.png",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a screenshot of a blog homepage. The main content area should display a vertically stacked list of blog post entries, adopting the design, typography, and informational elements (titles, descriptions, dates, view counts, comment counts) visible in image 1. Positioned below this main blog post list, include a distinct comment section that accurately reflects the visual style, threaded reply structure, user avatars, and input field shown in image 2. Ensure the comment section has a header similar to 'View comments' with a comment count, as depicted in image 2.",
+  "annotator": "paria",
+  "objects": [
+    "Blog homepage layout",
+    "Vertically stacked list of blog post entries",
+    "Blog post titles",
+    "Blog post descriptions",
+    "Blog post metadata (dates, view counts, comment counts, and associated icons)",
+    "Comment section (positioned below blog post list)",
+    "Comment section header (e.g., 'View comments')",
+    "Comment count in comment section header",
+    "Threaded comment replies",
+    "User avatars in comment section",
+    "Comment input field"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

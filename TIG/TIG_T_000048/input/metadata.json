@@ -1,0 +1,19 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": "Visualize a comic book impact: 'CRASH!' in deep purple with an electric yellow, jagged outline. The font is blocky and angled, set against a background of a broken concrete wall with spreading cracks.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a comic book-style image. The central element is the word 'CRASH!' rendered in a deep purple color with a jagged, electric yellow outline. The font is blocky and angled. The background features a broken concrete wall with extensive, spreading cracks.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Comic book style",
+    "The word 'CRASH!'",
+    "Deep purple color for the word 'CRASH!'",
+    "Jagged, electric yellow outline for the word 'CRASH!'",
+    "Blocky and angled font for the word 'CRASH!'",
+    "Broken concrete wall",
+    "Extensive, spreading cracks on the concrete wall"
+  ]
+}

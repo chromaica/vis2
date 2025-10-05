@@ -1,0 +1,24 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Design a dining table based on the first provided images of a snake and the second provided images of a rectangular dining table. Integrate the snake\u2019s sleek, scaly texture and green or bronze coloration into the tabletop, with a glossy finish. The table legs should mimic the coiled, sinuous form of a snake, providing both stability and elegance. Ensure the design is sophisticated, functional, and suitable for a contemporary dining room.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic image of a sophisticated and functional contemporary dining table. This rectangular dining table, inspired by the overall form and bright modern setting of the table in image 2, should feature a tabletop that integrates the sleek, scaly texture and the distinctive green and bronze coloration found on the snake in image 1, finished with a high gloss. The table's four legs should elegantly mimic the coiled, sinuous movement and shape of the snake from image 1, providing both stability and a sculptural form suitable for a modern dining room.",
+  "objects": [
+    "Rectangular dining table",
+    "Tabletop with sleek, scaly texture",
+    "Tabletop with green and bronze coloration",
+    "High gloss finish on tabletop",
+    "Four table legs mimicking coiled snake shape",
+    "Modern dining room setting",
+    "Bright lighting"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

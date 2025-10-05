@@ -1,0 +1,28 @@
+{
+  "subtopic": "Branding and visual identity",
+  "prompt": "Edit image 1: Arrange the brands into a dense, scattered collage like image 5 and image 3. Add a textual graphic \"Top Brands\" in the style of image 4, referencing the context of image 2's list.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg",
+    "4.jpeg",
+    "5.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749712301513,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "T",
+  "prompt_refined": "Edit image 1. Rearrange the existing brand logos (Alibaba, Amazon, TikTok, Apple, Meituan, Pampers) to form a dense, scattered collage across the canvas. This collage should mimic the overlapping arrangement, varied orientations, and high density of logos observed in image 5, while also capturing the comprehensive and compact nature of image 3. Prominently display a textual graphic reading 'Top Brands'. This graphic should adopt the bubbly, rounded, white font style and overall visual aesthetic of image 4, and its presentation should evoke the theme of high-value or prestigious brands as suggested by the list context in image 2. Position the 'Top Brands' graphic clearly visible within the collage, for example, centered or at the top of the image.",
+  "annotator": "winston",
+  "objects": [
+    "Alibaba brand logo",
+    "Amazon brand logo",
+    "TikTok brand logo",
+    "Apple brand logo",
+    "Meituan brand logo",
+    "Pampers brand logo",
+    "A dense, scattered collage of brand logos",
+    "'Top Brands' textual graphic in a bubbly, rounded, white font style"
+  ]
+}

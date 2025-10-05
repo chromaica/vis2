@@ -1,0 +1,25 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Cultural or Heritage art",
+  "prompt": "Make the battle look more intense and dramatic. Keep the non-battling characters unchanged.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 to significantly increase the intensity and drama of the central battle scene. Focus on the armored warriors and the commanding figure, making their poses more dynamic and action-oriented to convey greater force and active combat. Crucially, leave the non-battling characters on the far left (the two figures with the amphora and the musician with the aulos and lyre) and the figure on the far right (holding fans) completely unaltered.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Ancient Greek artwork style with silhouette figures",
+    "Decorative border along the image",
+    "Two figures on the far left carrying an amphora",
+    "Musician figure on the far left playing an aulos",
+    "Lyre on a pedestal",
+    "Commanding figure in the central battle scene",
+    "First armored warrior with shield and spear in the central battle scene",
+    "Second armored warrior with shield and spear in the central battle scene",
+    "Figure on the far right holding fans",
+    "Shields and spears in the central battle scene"
+  ],
+  "human_annotation": true
+}

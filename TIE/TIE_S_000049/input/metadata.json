@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Add a 'Dark Mode' toggle switch in the top right corner of the interface.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, a screenshot of a music application interface. Add a functional 'Dark Mode' toggle switch UI element in the top-right corner of the interface. The switch should seamlessly integrate with the existing dark user interface design.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Music application interface",
+    "Left navigation sidebar",
+    "Main content area with song list",
+    "Music playback controls at the bottom",
+    "Window control buttons (red, yellow, green)",
+    "Functional 'Dark Mode' toggle switch UI element in the top-right corner",
+    "User profile icon in the top-right area",
+    "Song album art thumbnails",
+    "Song titles and artist names",
+    "Playlist items in the sidebar"
+  ]
+}

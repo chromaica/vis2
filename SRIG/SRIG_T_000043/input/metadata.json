@@ -1,0 +1,25 @@
+{
+  "subtopic": "Comics",
+  "prompt": "Create a vintage comic book cover for 'Textual Graphics: Comics', featuring the bold silhouette of the reference image's small tractor, filled with dynamic text titles and vibrant comic art details.",
+  "cond_images": [
+    "1.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1750705607110,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "T",
+  "annotator": "winston",
+  "prompt_refined": "Generate a vintage comic book cover titled 'Textual Graphics: Comics'. The main design element is a bold, prominent silhouette of the yellow Cub Cadet tractor from image 1. This entire silhouette must be filled with a vibrant, energetic collage of comic art details, such as pop art patterns, halftone dots, and action lines, interwoven with diverse and dynamic text titles and phrases. Ensure the overall aesthetic strongly conveys a classic, vintage comic book style.",
+  "objects": [
+    "Vintage comic book cover format",
+    "Title: \"Textual Graphics: Comics\"",
+    "Bold, prominent silhouette of a yellow Cub Cadet tractor",
+    "Vibrant, energetic collage filling the tractor silhouette",
+    "Pop art patterns within the silhouette",
+    "Halftone dots within the silhouette",
+    "Action lines within the silhouette",
+    "Diverse and dynamic text titles and phrases within the silhouette",
+    "Classic, vintage comic book aesthetic"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": "Generate a comic panel where a colorful cat sits next to a ringing phone on a table, using the cat design from the second image, the table and phone from the first image, and the ringing sound style from the third image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a comic panel featuring a colorful cat sitting next to a ringing phone on a table. The cat's unique cubist style and multi-colored design must be replicated from image 2. The rotary phone and the table, specifically its blue surface and comic book aesthetic, should visually match the elements presented in image 1. The ringing sound of the phone should be depicted using the textual graphic \"DRRRING DRRRING DRRRING\" along with radiating lines, consistent with the style shown in image 3.",
+  "annotator": "parnian",
+  "objects": [
+    "comic panel",
+    "colorful, cubist style cat sitting next to a phone",
+    "ringing rotary phone",
+    "table with a blue surface and comic book aesthetic",
+    "textual graphic \"DRRRING DRRRING DRRRING\"",
+    "radiating lines depicting sound"
+  ]
+}

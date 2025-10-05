@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "create a scatter plot matrix comparing sleep quality vs. productivity metrics across remote workers, with regression lines, confidence intervals, and data points styled as tiny moon phases",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a scatter plot matrix comparing various sleep quality metrics (e.g., hours slept, deep sleep percentage) against different productivity metrics (e.g., tasks completed, focus duration) for remote workers. Each individual subplot in the matrix must display data points, an associated regression line, and its confidence interval. All data points should be intricately styled as tiny, illustrative representations of different moon phases (e.g., new moon, crescent, half moon, gibbous, full moon).",
+  "annotator": "theblackcat",
+  "objects": [
+    "Scatter plot matrix",
+    "Individual scatter plots",
+    "Data points",
+    "Regression lines",
+    "Confidence intervals",
+    "Tiny moon phase illustrations",
+    "X-axis labels (e.g., productivity metrics)",
+    "Y-axis labels (e.g., sleep quality metrics)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

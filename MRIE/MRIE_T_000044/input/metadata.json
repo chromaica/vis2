@@ -1,0 +1,27 @@
+{
+  "task": "MRIE",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Rename the bakery to 'NEVER FALL BAKERY'. Keep the same font and style as the original logo. Match the light and shadow on the sign. All occurrences of the original bakery name should be replaced with the new name. After that, add the scene from the second image to the front door of the bakery in the first image. Ensure window reflections and lighting matches the original image. Next, replace the bottom wall with the texture from the third image. Finally, make the image align with a 0-degree horizontal perspective.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the provided image (image 1) by applying the following modifications:\n\n1.  **Bakery Name Change:** Replace all instances of the bakery name 'THE UPRISING BAKE SHOP' on the storefront (including the main overhead sign, the smaller circular signs, and any window decals) with 'NEVER FALL BAKERY'. Maintain the original font style, size, 3D metallic appearance, and any existing effects like reflections or distressed textures for the new text. Ensure the lighting, shadows, and perspective of the new text on each sign perfectly match the original sign's integration with the building and environment.\n2.  **Add Door Scene:** Integrate the two individuals and the immediate background scene from image 2 onto the main glass entrance door of the bakery in image 1. Position them naturally as if they are interacting just outside the door. Ensure that the reflections, transparency, and overall lighting on the glass door remain consistent with the original image (image 1), making the added scene appear as a natural part of the environment.\n3.  **Replace Wall Texture:** Replace the dark tiled wall section located directly below the large storefront windows in image 1 with the stone texture provided in image 3. Ensure the new stone texture seamlessly blends with the existing building facade, matching the lighting, shadows, and perspective of the surrounding architecture.\n4.  **Adjust Perspective:** Correct the overall perspective of the edited image to achieve a 0-degree horizontal alignment, making the entire storefront appear perfectly straight-on, as if viewed from a direct front angle without any tilt or rotation.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Bakery storefront building",
+    "'NEVER FALL BAKERY' text on storefront signage (main overhead, circular, window decals)",
+    "Two individuals from image 2 (on the main glass entrance door)",
+    "Immediate background scene from image 2 (on the main glass entrance door)",
+    "Stone textured wall section (below storefront windows)",
+    "Main glass entrance door (with reflections and transparency)",
+    "Large storefront windows",
+    "Sidewalk and surrounding environment",
+    "'THE UPRISING BAKE SHOP' text (should not be present)",
+    "Dark tiled wall section (should not be present)"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,22 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Stylized art",
+  "prompt": "In the first image, place the dog from the second image on the back of the black horse, and place the butterfly from the third image on the mane of the white horse.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Modify image 1. Place the geometric dog from image 2 onto the back of the black horse, which is located on the right. Additionally, incorporate the geometric butterfly from image 3 onto the mane of the white horse, located on the left. Ensure these additions seamlessly match the geometric art style of image 1.",
+  "annotator": "paria",
+  "objects": [
+    "geometric black horse on the right",
+    "geometric white horse on the left",
+    "geometric background",
+    "geometric dog on the back of the black horse",
+    "geometric butterfly on the mane of the white horse"
+  ],
+  "human_annotation": true
+}

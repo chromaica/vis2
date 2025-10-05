@@ -1,0 +1,27 @@
+{
+  "subtopic": "Collage",
+  "prompt": "Edit image 1: Transform the goose collage into a vibrant fabric collage. Apply the colourful fabric textures, patterns, and overall style from the fish collage in image 2 to recreate the goose.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748489623730,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1: Transform the goose, depicted as a paper collage, into a vibrant fabric collage. Apply the colorful fabric textures, patterns, and overall handcrafted style from the fish collage in image 2 to recreate the goose.",
+  "annotator": "kellycyy",
+  "objects": [
+    "goose",
+    "fabric collage",
+    "colorful fabrics",
+    "diverse patterns",
+    "fabric textures",
+    "handcrafted appearance",
+    "goose's head",
+    "goose's orange and yellow beak",
+    "goose's blue eye",
+    "light background with yellow splatters"
+  ]
+}

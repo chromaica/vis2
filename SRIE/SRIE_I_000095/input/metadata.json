@@ -1,0 +1,23 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "Put three different UI mockups similar to the first image, but with different colors: web, mobile, and tablet, in the second image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 2. Populate the three white silhouettes with distinct UI mockups, each with a unique color scheme, while maintaining the overall design style, layout, and 'yoga' branding consistent with image 1.\n\nSpecifically:\n- Fill the leftmost, portrait-oriented silhouette with a mobile UI mockup.\n- Fill the middle, tall portrait silhouette with a web UI mockup.\n- Fill the rightmost, desktop monitor-shaped silhouette with a tablet UI mockup.\n\nEnsure each UI mockup is clearly distinguishable by its new color palette.",
+  "annotator": "Johnny",
+  "objects": [
+    "Leftmost mobile UI mockup",
+    "Middle web UI mockup",
+    "Rightmost tablet UI mockup",
+    "UI elements (e.g., navigation bars, buttons, text fields) within each mockup",
+    "Unique color scheme for each UI mockup",
+    "'yoga' branding",
+    "Yoga-related imagery within the UIs",
+    "Overall clean and minimalist design style"
+  ]
+}

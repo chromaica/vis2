@@ -1,0 +1,26 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Transform the upward and downward arrows into stylized rocket and anchor symbols respectively to represent growth and decline.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the 'Sales QoQ' chart. Transform each green upward-pointing arrow (including its vertical line) into a stylized green rocket symbol. Ensure each rocket symbol is vertically oriented and its length corresponds to the original arrow's length, representing growth. Similarly, transform each red downward-pointing arrow (including its vertical line) into a stylized red anchor symbol. Ensure each anchor symbol is vertically oriented and its length corresponds to the original arrow's length, representing decline.",
+  "annotator": "cwhsu",
+  "objects": [
+    "\"Sales QoQ\" chart title",
+    "\"Period\" filter and its checkbox list",
+    "Green stylized rocket symbol representing +140% growth",
+    "Green stylized rocket symbol representing +78% growth",
+    "Red stylized anchor symbol representing -81% decline",
+    "Red stylized anchor symbol representing -5% decline",
+    "Red stylized anchor symbol representing -24% decline",
+    "Red stylized anchor symbol representing -3% decline",
+    "Numerical values for growth and decline (e.g., percentages and M values)",
+    "X-axis labels (Velo, Montana, Carretera, VTT, Paseo, Amarilla)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

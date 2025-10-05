@@ -1,0 +1,27 @@
+{
+  "subtopic": "Software interfaces",
+  "prompt": "Generate a screenshot of gantt chart interface, with a clean, modern software interface, inspired by the reference layout.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/68a964e6-cc0b-4ede-93e0-668c8bab9cb4.png?auto=format&q=50",
+  "promptGeneratedTimestamp": 1748793544461,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a screenshot of a modern Gantt chart interface. The design should adopt the clean, minimalist aesthetic and professional layout of image 1, featuring a light color scheme, clear typography, and flat design elements. Include a top navigation bar with application branding, main menu items, search, and user profile details, similar to the top section of image 1. A left sidebar, akin to image 1, should contain project-specific navigation icons and labels. The primary Gantt chart view, displaying tasks, dependencies, and timelines, should occupy the main content area.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Screenshot of a modern Gantt chart interface",
+    "Top navigation bar",
+    "Application branding in top navigation",
+    "Main menu items in top navigation",
+    "Search bar in top navigation",
+    "User profile details in top navigation",
+    "Left sidebar",
+    "Project-specific navigation icons in left sidebar",
+    "Project-specific navigation labels in left sidebar",
+    "Primary Gantt chart view displaying tasks, dependencies, and timelines"
+  ],
+  "human_annotation": true
+}

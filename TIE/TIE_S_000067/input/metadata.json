@@ -1,0 +1,22 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Add a floating, holographic 3D equalizer above the tracks, pulsating in sync with the audio waves.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Add a floating, translucent, glowing blue holographic 3D equalizer, positioned centrally within the main grid area above the audio waveform tracks. Its bars should visibly pulsate, mimicking real-time synchronization with the displayed audio waves.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Floating, translucent, glowing blue holographic 3D equalizer (positioned centrally within the main grid area above the audio waveform tracks, with visibly pulsating bars mimicking real-time synchronization with audio waves)",
+    "Audio waveform tracks (purple and green segments)",
+    "Music software user interface",
+    "Track control panels (sliders, buttons, and track names)",
+    "Main grid background",
+    "Top status/menu bar (with time, service, battery)",
+    "Left navigation panel (My Songs, Instruments)",
+    "Track icons (e.g., microphone, drum kit, guitar, person)"
+  ]
+}

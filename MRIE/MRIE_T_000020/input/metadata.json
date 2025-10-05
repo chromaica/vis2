@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Redesign the logo for PATHFINDER. Use the textual logo from the second image as a reference, and add the grappling hook from the third image to the logo. The grappling string should be a horizontal line underlining the text. Then, place the redesigned logo onto the back of the car in the first image, replacing the existing Pathfinder logo. Add glow effects to the logo like there is LED lighting behind it.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the car. Replace the existing 'PATHFINDER' logo on its tailgate with a redesigned version. This new 'PATHFINDER' textual logo should adopt the font and style presented in image 2. Integrate the grappling hook from image 3 into this logo: the grappling hook's string must form a horizontal line, accurately underlining the entire 'PATHFINDER' text, while the hook itself should be cohesively incorporated with the text to form a unified emblem. Finally, apply a luminous glow effect to the redesigned logo, resembling LED backlighting.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Beige Nissan Pathfinder SUV",
+    "Tailgate of the SUV",
+    "(Existing 'PATHFINDER' logo on tailgate) (should not be present)",
+    "Redesigned 'PATHFINDER' textual logo on the tailgate",
+    "Logo displaying font and style of image 2",
+    "Grappling hook from image 3 integrated with the logo",
+    "Grappling hook's string forming a horizontal line underlining the text",
+    "Luminous glow effect on the redesigned logo",
+    "LED backlighting appearance on the logo",
+    "Grassy slope and cloudy sky background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

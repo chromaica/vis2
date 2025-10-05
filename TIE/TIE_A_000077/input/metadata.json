@@ -1,0 +1,21 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Statue",
+  "prompt": "Move the camera 90 degrees anticlockwise pivoting around the statue, such that the output shows the side view of the statue.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Rotate the viewpoint around the statue by 90 degrees anticlockwise to present a clear side profile of the statue's head and shoulders.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "male statue bust",
+    "curly hair",
+    "beard",
+    "marble texture",
+    "side profile viewpoint of the statue",
+    "indoor background",
+    "grayscale color scheme"
+  ]
+}

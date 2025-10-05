@@ -1,0 +1,26 @@
+{
+  "subtopic": "Receipts",
+  "prompt": "Generate a clean digital screenshot of share ride trip receipt, matching the gradient purple/pink color palette and minimalist layout style of the reference invoice document.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://marketplace.canva.com/EAGAl6k_fpU/1/0/1131w/canva-purple-gradient-elegant-freelance-invoice-JwchkkkE940.jpg",
+  "promptGeneratedTimestamp": 1749441299986,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a clean digital screenshot of a ride-share trip receipt. The receipt should strictly adhere to the visual style of image 1, featuring its soft gradient purple and pink color palette and minimalist layout. Apply the subtle purple/pink gradient background as seen in image 1. Adopt a clean, structured arrangement for ride details, fare breakdown, and payment information, similar to the organized text columns and sections in image 1. Ensure the typography is clear and digital, mirroring the legibility and font simplicity of image 1.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Subtle purple/pink gradient background",
+    "Ride-share receipt title",
+    "Ride details section (e.g., pickup/drop-off locations, date, time)",
+    "Passenger information section",
+    "Itemized fare breakdown list",
+    "Total fare amount",
+    "Payment method section",
+    "Structured text columns for details and breakdown",
+    "Clear, digital typography",
+    "Stylized geometric graphic (like the starburst)"
+  ]
+}

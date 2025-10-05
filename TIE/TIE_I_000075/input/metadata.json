@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "Integrate steampunk elements, adding gears and cogs around the map for an industrial fantasy style.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Integrate steampunk elements into the scene by adding a prominent arrangement of brass and copper gears, cogs, and intricate clockwork mechanisms. These elements should surround the central world map, forming an elaborate, industrial-fantasy-style framework that appears to power or enclose the infographic.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Central world map",
+    "Brass gears surrounding the map",
+    "Copper gears surrounding the map",
+    "Cogs surrounding the map",
+    "Intricate clockwork mechanisms surrounding the map",
+    "Elaborate, industrial-fantasy-style framework surrounding the map",
+    "Continent/country labels (e.g., Alaska, Canada, Europe, Russia, United States, South America, Africa, Asia, Australia)",
+    "Dotted lines connecting labels to map regions",
+    "\"CONTINENT.WORLD EDUCATION INFOGRAPHICS\" text",
+    "Small globe infographic icon"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "3D renders",
+  "prompt": "A 3d render of kirby sitting on star",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A high-detail 3D render of Kirby, the cheerful pink spherical character, comfortably sitting atop a bright, stylized five-pointed yellow star. Kirby has large blue eyes and rosy cheeks, depicted with a happy expression. The star emits a soft, warm glow. The scene is centrally composed against a whimsical, pastel-colored background, with soft, volumetric lighting enhancing depth.",
+  "annotator": "maxku",
+  "objects": [
+    "Kirby",
+    "Pink spherical character (Kirby)",
+    "Large blue eyes (Kirby)",
+    "Rosy cheeks (Kirby)",
+    "Happy expression (Kirby)",
+    "Bright, stylized five-pointed yellow star",
+    "Kirby sitting atop the star",
+    "Soft, warm glow around the star",
+    "Whimsical, pastel-colored background",
+    "Soft, volumetric lighting"
+  ],
+  "human_annotation": true
+}

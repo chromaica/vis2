@@ -1,0 +1,19 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Use the waveform\u2019s shape and green color to fill the letterforms.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 (the 'Spotify' logo). Fill the interior of the grey letterforms with the vibrant green color and chaotic waveform texture derived from image 2.",
+  "annotator": "matina",
+  "objects": [
+    "Spotify logo",
+    "Vibrant green fill within the logo letters",
+    "Chaotic waveform texture within the logo letters",
+    "White background"
+  ]
+}

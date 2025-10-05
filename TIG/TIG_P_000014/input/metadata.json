@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "Close-up view of a single human hair magnified, highlighting scales and texture.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Photorealistic, extreme close-up of a single human hair, highly magnified to clearly show its intricate, overlapping cuticle scales and distinct surface texture in sharp detail. The hair should be centrally positioned against a clean, out-of-focus background.",
+  "annotator": "cwhsu",
+  "objects": [
+    "single human hair",
+    "highly magnified view of the human hair",
+    "intricate, overlapping cuticle scales on the hair",
+    "distinct surface texture on the hair",
+    "centrally positioned human hair",
+    "clean background",
+    "out-of-focus background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

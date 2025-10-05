@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Illuminated Manuscripts",
+  "prompt": "An example of illuminated manuscript art: the word 'Grace'. Its initial 'G' is a large, ornate capital lavishly detailed with gold leaf and intricate knotwork. The subsequent letters are in gothic script, black ink with red and blue flourishes, on aged parchment, framed by a vibrant border of scrolling foliage and small bird miniatures.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "An illuminated manuscript illustration featuring the word 'Grace'. The initial 'G' is a prominent, ornate capital letter, extensively detailed with gold leaf and intricate knotwork. The subsequent letters, 'race', are rendered in black gothic script, adorned with red and blue flourishes. The entire text is placed upon aged parchment, bordered by a vibrant frame of scrolling foliage and small bird miniatures.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "illuminated manuscript illustration",
+    "word 'Grace'",
+    "prominent, ornate capital letter 'G'",
+    "gold leaf on capital letter 'G'",
+    "intricate knotwork on capital letter 'G'",
+    "letters 'race' in black gothic script",
+    "red flourishes",
+    "blue flourishes",
+    "aged parchment",
+    "vibrant frame with scrolling foliage and small bird miniatures"
+  ]
+}

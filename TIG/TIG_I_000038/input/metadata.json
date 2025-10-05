@@ -1,0 +1,18 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "cube icon with sprouting leaf corner, forest-green background, white negative-space linework, modern skeuo-flat mix, this icon is for an eco delivery app",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a modern app icon: A geometric cube, designed with subtle skeuomorphic 3D depth and clean, flat design principles. A single leaf sprouts naturally from one corner of the cube. The background is a solid forest-green. All outlines, details, and the sprouting leaf's features are rendered in crisp white linework, creating a distinct negative-space effect. The overall style should be professional, minimalist, and emblematic of an eco-delivery service.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Geometric cube with subtle skeuomorphic 3D depth",
+    "Single leaf sprouting from one corner of the cube",
+    "Solid forest-green background",
+    "Crisp white linework outlining the geometric cube",
+    "Crisp white linework for details on the geometric cube",
+    "Crisp white linework for features on the single leaf"
+  ]
+}

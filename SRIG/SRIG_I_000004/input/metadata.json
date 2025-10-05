@@ -1,0 +1,23 @@
+{
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Illustrate the provided decision tree for 'what to eat for dinner' as a literal, enchanted tree in a forest, where each branch leads to a different food item represented as a magical fruit.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://miro.medium.com/v2/resize:fit:1400/1*fX-R6cKOu1_aMZo913anVg.jpeg",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate an image of an enchanted decision tree in a mystical forest, based on the structure of the decision tree and food items presented in image 1.\n\nThe central trunk of the enchanted tree, positioned where the red square is in image 1, branches into two primary paths. The upper path, corresponding to 'Roulette's Tacos', leads to a cluster of magical fruits. This cluster includes three distinct magical fruits visually resembling the tacos in image 1, and one magical fruit resembling the salad in image 1. These fruits should appear to grow directly from the branches.\n\nThe lower path, corresponding to 'Reliable Randy's Pizzaria', leads to another cluster of magical fruits. This cluster contains one magical fruit resembling the pepperoni pizza in image 1, and one magical fruit resembling the cheese pizza in image 1.\n\nEach food item from image 1 must be transformed into a unique, vibrant, and magical fruit while retaining key visual characteristics (e.g., colors, textures, toppings) as part of its fruit design. The tree's overall branching structure should clearly convey the 'what to eat for dinner' decision flow, set against a lush, fantastical forest backdrop.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Enchanted tree with a central trunk",
+    "Branches forming a decision flow structure",
+    "Mystical forest backdrop",
+    "Three magical fruits resembling tacos",
+    "One magical fruit resembling a salad",
+    "One magical fruit resembling pepperoni pizza",
+    "One magical fruit resembling cheese pizza"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

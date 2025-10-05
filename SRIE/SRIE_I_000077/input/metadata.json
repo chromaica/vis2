@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Making the line chart using only blue color.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, a black-and-white line chart. Recolor all lines and data points in image 1 to be a uniform blue color. Change the background from black to white. The overall style of the line chart, including line thickness and data point markers, should be clean and crisp, referencing the aesthetic of image 2.",
+  "annotator": "Johnny",
+  "objects": [
+    "line chart",
+    "multiple data series lines (three)",
+    "uniform blue lines",
+    "data points",
+    "uniform blue data points",
+    "white background",
+    "clean and crisp line thickness",
+    "clean and crisp data point markers",
+    "dark vertical dashed grid lines",
+    "dark horizontal dotted lines at the bottom"
+  ]
+}

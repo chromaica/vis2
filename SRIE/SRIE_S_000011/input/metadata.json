@@ -1,0 +1,30 @@
+{
+  "subtopic": "Games",
+  "prompt": "Edit Image 1: Apply the bright, luminous, ethereal atmosphere and turquoise/cyan/yellowish color grading from Image 2 to the background environment of the cyberpunk scene.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "High quality game screenshots",
+  "searchQueryGeneratedTimestamp": 1750757066639,
+  "promptGeneratedTimestamp": 1750757101805,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit Image 1: Apply the atmospheric and color grading from Image 2 to the background environment of the cyberpunk scene. Specifically, transform the lighting and colors of the distant cityscape and sky in Image 1 to match the bright, luminous, ethereal atmosphere and the prominent turquoise, cyan, and yellowish color grading seen in Image 2.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Man in the foreground",
+    "Foreground counter",
+    "Midground stairs",
+    "Background figures",
+    "Distant cyberpunk cityscape",
+    "Sky",
+    "Bright, luminous background atmosphere",
+    "Ethereal background atmosphere",
+    "Turquoise color grading in the background",
+    "Cyan color grading in the background"
+  ],
+  "human_annotation": true
+}

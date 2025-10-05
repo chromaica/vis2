@@ -1,0 +1,21 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Object detection visuals",
+  "prompt": "Reduce the number of pedestrians in high-density areas of the image, according to the reference heatmap.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the street crossing scene, to reduce the number of pedestrians. Use image 2 as a reference heatmap to identify the high-density areas for pedestrian reduction. Specifically, decrease the pedestrian count in the regions of image 1 that spatially correspond to the yellow and blue rectangular areas shown in image 2. Implement a more significant reduction in the areas corresponding to the blue-colored regions of image 2, as these indicate the highest pedestrian density.",
+  "annotator": "nimajamali",
+  "objects": [
+    "street crossing",
+    "zebra stripes",
+    "pedestrians (reduced in number)",
+    "person on a bicycle"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

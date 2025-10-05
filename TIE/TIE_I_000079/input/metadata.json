@@ -1,0 +1,25 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Tables",
+  "prompt": "Replace all instances of \u201cLifestyle\u201d in the \u201cSegments Reached\u201d with \u201cTech Enthusiasts\u201d.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. In the table within image 1, locate the row labeled 'Segments Reached'. For the cells under the 'Blogs', 'Forums', 'Video', and 'Social Media' columns in this row, replace every instance of the word 'Lifestyle' with 'Tech Enthusiasts'. Ensure that any other text already present in these cells (e.g., 'Civil', 'Students', 'Sports') remains unchanged and is correctly separated by commas.",
+  "annotator": "cwhsu",
+  "objects": [
+    "\"MARKETING REPORT\" title",
+    "\"[ Q2 2025 ] - PERFORMANCE & RESULTS\" subtitle",
+    "Main data table",
+    "Table cell containing \"Tech Enthusiasts, Civil, Students\" in the 'Blogs' column of the 'Segments Reached' row",
+    "Table cell containing \"Tech Enthusiasts, Civil, Sports\" in the 'Forums' column of the 'Segments Reached' row",
+    "Table cell containing \"Tech Enthusiasts, Civil, Sports\" in the 'Video' column of the 'Segments Reached' row",
+    "Table cell containing \"Tech Enthusiasts, Civil, Students\" in the 'Social Media' column of the 'Segments Reached' row",
+    "\"GROWTH METRICS\" heading",
+    "Bar charts for 'BLOG'",
+    "Bar charts for 'VIDEO'"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": "Generate a freelance marketplace homepage screenshot using the search interface from the first image at the top, with job category cards from the second image displayed below it.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a screenshot for a freelance marketplace homepage. At the top, incorporate the dark-themed search interface from image 1, including its 'Find talent' / 'Browse jobs' toggle, central 'Search by role, skills, or keywords' input field with a 'Search' button, and the row of company logos below it (e.g., Microsoft, Airbnb). Directly beneath this, display the light-themed job category cards from image 2, such as 'Programming & Tech' and 'Graphics & Design', arranged in a horizontal row.",
+  "annotator": "paria",
+  "objects": [
+    "dark-themed search interface at the top",
+    "'Find talent' / 'Browse jobs' toggle",
+    "'Search by role, skills, or keywords' input field",
+    "'Search' button",
+    "row of company logos",
+    "Microsoft logo",
+    "Airbnb logo",
+    "light-themed job category cards",
+    "'Programming & Tech' job category card",
+    "'Graphics & Design' job category card"
+  ]
+}

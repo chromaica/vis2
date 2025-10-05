@@ -1,0 +1,20 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "A majestic mystical horse stands silently amidst the dappled sunlight of a serene forest.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate an artwork depicting a majestic mystical unicorn, specifically referencing the shape, pose, and lower-middle placement of the creature from image 1. The unicorn should be standing silently, slightly to the left of center, facing right. The scene is a serene, ancient forest filled with lush green foliage. Bright, dappled sunlight filters through the dense tree canopy, creating radiant patterns of light on the forest floor around the unicorn.",
+  "annotator": "Johnny",
+  "objects": [
+    "Majestic mystical unicorn (with shape, pose, and lower-middle placement referencing image 1, standing silently, slightly to the left of center, facing right)",
+    "Serene ancient forest",
+    "Lush green foliage",
+    "Dense tree canopy",
+    "Bright, dappled sunlight",
+    "Radiant patterns of light on the forest floor around the unicorn"
+  ]
+}

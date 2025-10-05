@@ -1,0 +1,24 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "Replacing the boat icons in the lake map with the boat icon in the second image.",
+  "cond_images": [
+    "1.png",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit Image 1. Replace any existing boat icons on the Lake Superior map with multiple instances of the boat icon from Image 2. Distribute these new boat icons across the surface of Lake Superior.",
+  "annotator": "Johnny",
+  "objects": [
+    "Lake Superior map (with bathymetry)",
+    "Surrounding landmass (Canada, USA)",
+    "Grid lines (latitude and longitude)",
+    "Depth color scale bar",
+    "Distance scale bars",
+    "Geographic text labels (e.g., \"Lake Superior\", \"Canada\", \"USA\", \"deepest point (x)\")",
+    "Multiple yellow boat icons with blue waves, distributed across Lake Superior"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

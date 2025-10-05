@@ -1,0 +1,26 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Transform the UI to a sleek, monochrome aesthetic, featuring thin, elegant icons and crisp typography for a modern minimalist look.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Transform the user interface (UI) to a sleek, modern, and minimalist monochrome aesthetic. Redesign the vertical sidebar icons on the left to be thin and elegant. Update all text elements, including the 'Stranger Things' title, its description, the 'Play' and 'More Info' button labels, the 'Trending Now' heading, and the movie/show titles beneath the thumbnails, to use crisp, minimalist typography. Style all interactive UI components, such as buttons and selection highlights, and UI backgrounds (excluding the main poster art and movie thumbnail images themselves), using shades of black, white, and gray. Ensure the Netflix logo on the top-left also aligns with this monochrome theme, creating a clean, uncluttered, and sophisticated overall appearance for the UI overlay.",
+  "annotator": "cwhsu",
+  "objects": [
+    "main poster art (Stranger Things)",
+    "Netflix logo on the top-left",
+    "vertical sidebar icons on the left",
+    "'Stranger Things' title",
+    "description text below 'Stranger Things' title",
+    "'Play' button",
+    "'More Info' button",
+    "'Trending Now' heading",
+    "movie/show thumbnails",
+    "movie/show titles below thumbnails"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

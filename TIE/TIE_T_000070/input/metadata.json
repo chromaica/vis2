@@ -1,0 +1,21 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "Re-render the name as neon tubes\u2014bright pink glow, subtle flicker, glass reflections.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 by transforming the existing text graphic, which reads 'DON'T DIE WITH DREAMS INSIDE', into vibrant neon tubes. The neon tubes should glow bright pink, display a subtle flickering effect, and feature realistic glass reflections.",
+  "annotator": "matina",
+  "objects": [
+    "\"DON'T DIE WITH DREAMS INSIDE\" text",
+    "Neon tubes",
+    "Bright pink glowing effect",
+    "Subtle flickering effect",
+    "Realistic glass reflections",
+    "Black background"
+  ],
+  "human_annotation": true
+}

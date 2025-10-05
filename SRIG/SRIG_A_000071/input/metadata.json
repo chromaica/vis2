@@ -1,0 +1,25 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "A futuristic robot meditating in a zen garden",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a serene artwork depicting a futuristic humanoid robot, whose form and meditative posture are inspired by and similar to the silhouette in image 1. This robot, with a sleek, brushed metal exterior and subtle, integrated light accents, is centrally positioned within a meticulously raked zen garden. The garden features pristine white gravel, several smooth, large grey rocks arranged intentionally, and minimalist green foliage like moss or a small bonsai tree. The scene is bathed in soft, diffused natural light, emphasizing tranquility and balance.",
+  "annotator": "Johnny",
+  "objects": [
+    "Futuristic humanoid robot, centrally positioned, with form and meditative posture inspired by image 1",
+    "Sleek, brushed metal exterior on robot",
+    "Subtle, integrated light accents on robot",
+    "Meticulously raked zen garden",
+    "Pristine white gravel",
+    "Several smooth, large grey rocks, intentionally arranged",
+    "Moss",
+    "Small bonsai tree",
+    "Soft, diffused natural light"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

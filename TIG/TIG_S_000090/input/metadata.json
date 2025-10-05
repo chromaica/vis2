@@ -1,0 +1,24 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": "Design a romantic wedding planning website with blush pink and rose gold accents, floating flower petals, elegant script fonts, venue gallery carousels, and interactive planning timeline with milestone celebrations",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a full screenshot of a romantic wedding planning website homepage. The visual design is dominated by soft blush pink and elegant rose gold accents, used for buttons, borders, and highlight elements. Delicate, translucent blush pink and white flower petals are subtly animated, floating across the background layer. Main titles and key navigation links are rendered in elegant script fonts. A prominent section in the central area showcases multiple venue gallery carousels, each featuring a large image and navigation controls. Directly below this gallery section, an interactive planning timeline is displayed horizontally, clearly marking milestone celebrations with distinct icons or progress indicators. The overall layout is clean, sophisticated, and conveys a sense of romance and luxury.",
+  "annotator": "theblackcat",
+  "objects": [
+    "full screenshot of a website homepage",
+    "soft blush pink dominant color",
+    "elegant rose gold accents",
+    "delicate, translucent blush pink and white flower petals floating in background",
+    "main titles in elegant script fonts",
+    "key navigation links in elegant script fonts",
+    "multiple venue gallery carousels in central area",
+    "large images within gallery carousels",
+    "navigation controls for gallery carousels",
+    "interactive horizontal planning timeline"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

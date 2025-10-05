@@ -1,0 +1,27 @@
+{
+  "subtopic": "Collage",
+  "prompt": "Edit image 1, a collage artwork. Modify the central circular cardboard element and single hand to resemble a collage version of the clock face and hands from image 2, incorporating the clean clock numbers and distinct hands into the existing textures.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748497832391,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1, a collage artwork. Transform the central circular cardboard element and the existing single hand into a functional clock face. The clock face should incorporate the clear, bold numbers and distinct black hour/minute hands, and the red second hand from image 2. Ensure these new clock elements appear seamlessly integrated as a collage, maintaining the textures and artistic style of image 1.",
+  "annotator": "kellycyy",
+  "objects": [
+    "Collage artwork",
+    "Functional clock face",
+    "Central circular cardboard element (as part of the clock face)",
+    "Clear, bold clock numbers",
+    "Distinct black hour hand",
+    "Distinct black minute hand",
+    "Red second hand",
+    "Pig figure/toy",
+    "Assorted paper and cardboard textures",
+    "Wooden frame"
+  ]
+}

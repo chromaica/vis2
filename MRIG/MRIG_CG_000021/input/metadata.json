@@ -1,0 +1,27 @@
+{
+  "subtopic": "3D renders",
+  "prompt": "A 3D render depicting high-quality headphones (from image 1), designed with the cartoonish style, bold outlines, and vibrant colors found in image 2.",
+  "cond_images": [
+    "1.jpeg",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748422162863,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a 3D render depicting headphones visually based on the design of the headphones in image 1, rendered in the distinct cartoonish art style, featuring prominent bold outlines and vibrant, flat colors, as exemplified by image 2.",
+  "annotator": "winston",
+  "objects": [
+    "3D render",
+    "Headphones",
+    "Cartoonish art style",
+    "Prominent bold outlines",
+    "Vibrant, flat colors",
+    "Earcup design from Image 1",
+    "Control buttons (volume, sub bass, etc.) on earcup",
+    "Sennheiser logo on earcup",
+    "Headband design from Image 1",
+    "Plush ear pads from Image 1"
+  ]
+}

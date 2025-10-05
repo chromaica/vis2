@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "In the first image, replace the seagull in the top left with the plane from the second image, and replace the yellow planet in the top left with the flying angel from the third image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the provided source image (image 1). Replace the seagull located in the top left of the source image with the airplane from image 2. Additionally, replace the yellow planet (Venus) in the top right of the source image with the cherubic angel holding flowers from image 3.",
+  "annotator": "paria",
+  "objects": [
+    "Person",
+    "Airplane in top left",
+    "Cherubic angel holding flowers in top right",
+    "Seagull (should not be present)",
+    "Yellow planet (Venus) (should not be present)",
+    "Large building",
+    "City skyline",
+    "Gramophone",
+    "Vintage car",
+    "Road"
+  ]
+}

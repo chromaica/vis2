@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "Conjure a whimsical vintage sepia cosmos, where retro spaceships and jovial aliens dance among stars and planets, echoing nostalgic sci-fi adventures.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 to create a whimsical, vintage sepia-toned cosmos. Transform the individual space icons \u2013 including the UFO (top-left), rocket (bottom-right), planets (top-middle, top-right), and constellation (bottom-right) \u2013 into elements within a dynamic scene. Make the alien figure (bottom-left) jovial and animated. The retro spaceships, jovial alien, and celestial bodies should appear to be dancing playfully amidst stars and planets, evoking a nostalgic sci-fi adventure in this unified sepia cosmos.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Whimsical, vintage sepia-toned cosmos",
+    "Retro spaceship (UFO) dancing playfully",
+    "Retro spaceship (rocket) dancing playfully",
+    "Orange planet dancing playfully",
+    "Ringed planet dancing playfully",
+    "Jovial and animated alien figure dancing playfully",
+    "Constellation dancing playfully",
+    "Comet dancing playfully",
+    "Stars",
+    "Other celestial bodies"
+  ]
+}

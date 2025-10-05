@@ -1,0 +1,23 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "Populate these empty plant cells wall with versions of live plant cells",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. The image displays a microscopic view of plant cell walls, which currently appear largely empty or translucent. Populate the interior of these visible plant cell walls with photorealistic elements of live plant cells, including visible cytoplasm, distinct nuclei, and vacuoles. Maintain the overall light blue coloration and the microscopic aesthetic of the original image, ensuring the newly added cellular components appear naturally within the existing cell wall structures throughout the circular field of view.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Plant cell walls",
+    "Cytoplasm",
+    "Distinct nuclei",
+    "Vacuoles",
+    "Microscopic view",
+    "Circular field of view",
+    "Dark background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

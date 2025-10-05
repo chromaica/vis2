@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Concrete Poetry",
+  "prompt": "A concrete poetry visualization: the word 'ECHO' repeats, its form gradually fading and blurring into a subtle haze, all on a clean background.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A concrete poetry visualization of the word 'ECHO'. The word 'ECHO' appears multiple times, arranged in a linear, trailing sequence. The first instance of 'ECHO' is sharp and distinct. Subsequent repetitions progressively fade, blur, and dissolve into a subtle, ethereal haze, creating a visual reverberation effect. The background is plain, clean, and uncluttered.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "First instance of the word 'ECHO' (sharp and distinct)",
+    "Trailing sequence of multiple 'ECHO' instances",
+    "Progressive fading effect on subsequent words",
+    "Progressive blurring effect on subsequent words",
+    "Dissolving effect on subsequent words",
+    "Subtle ethereal haze",
+    "Plain background",
+    "Clean background",
+    "Uncluttered background"
+  ]
+}

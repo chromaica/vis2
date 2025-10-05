@@ -1,0 +1,24 @@
+{
+  "task": "SRIE",
+  "topic": "P",
+  "subtopic": "Medical images",
+  "prompt": "Overlay a red highlight on the masked tumor regions while dimming the unmasked areas.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 by applying a translucent red highlight overlay specifically on the tumor regions defined by the masks in image 2. Concurrently, dim the brightness of all areas in image 1 that are not encompassed by these masked tumor regions. The output should be a single photorealistic medical image.",
+  "annotator": "nimajamali",
+  "objects": [
+    "photorealistic medical image",
+    "axial MRI scan of an abdomen",
+    "internal organs",
+    "tumor regions",
+    "translucent red highlight overlay on tumor regions",
+    "dimmed areas (outside tumor regions)",
+    "spine",
+    "abdominal wall"
+  ],
+  "human_annotation": true
+}

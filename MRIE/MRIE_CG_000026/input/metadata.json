@@ -1,0 +1,28 @@
+{
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "Edit image 1 by segmenting the laptop and replacing it with the laptop and music production setup from image 3. Additionally, segment the content of the tablet screen and replace its display with the Earth view from image 2.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748455339001,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1. Identify the laptop in the top-right of image 1 and replace it with the complete music production setup from image 3, which includes the laptop, turntable, headphones, and speakers, ensuring the new elements are seamlessly integrated onto the desk surface while maintaining the overhead perspective and relative scale. Additionally, locate the tablet in the top-left of image 1, segment its screen, and replace its current display content with the Earth view from image 2, fitting it accurately within the tablet's screen area.",
+  "annotator": "winston",
+  "objects": [
+    "laptop in top-right of image 1 (should not be present)",
+    "laptop from image 3 (as part of the new music setup)",
+    "turntable",
+    "headphones",
+    "speakers",
+    "mouse",
+    "tablet in top-left of image 1",
+    "Earth view on tablet screen",
+    "newspaper",
+    "smartphone"
+  ]
+}

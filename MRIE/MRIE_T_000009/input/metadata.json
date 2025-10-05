@@ -1,0 +1,27 @@
+{
+  "task": "MRIE",
+  "topic": "T",
+  "subtopic": "Newspaper",
+  "prompt": "Replace the picture at the top right of the newspaper next to the title about Glenn Frey with the musician with his toy chicken from the second image. Change the name Glenn Frey to the name John Doe. Finally, change the headline below the title to be about the launch of iPhone 10000, with the image of the iPhone in the third image.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the newspaper image (Image 1) by performing the following modifications:\n\n1.  Replace the existing picture of Glenn Frey, located in the top-left section of the newspaper alongside the 'GLENN FREY: A MUSICAL LEGEND' article, with the image of the musician holding his toy chicken from Image 2. Ensure the new image is appropriately scaled and positioned to fit the designated area on the newspaper.\n2.  Change the name 'Glenn Frey' appearing in the text immediately below the newly placed image and article title to 'John Doe'.\n3.  Modify the prominent main headline on the left side, currently 'Vancouver School Board staff report calls for closure of up to 13 schools', to reflect the launch of 'iPhone 10000'. Incorporate the distinctive 'iPhone 10000' graphic (the iPhone as a toilet paper roll) from Image 3 as a visual element accompanying this new headline.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Newspaper",
+    "Musician holding a toy chicken image (in the top-left section)",
+    "Text 'John Doe' (below the top-left image and article title)",
+    "Main headline 'iPhone 10000' (on the left side)",
+    "iPhone as a toilet paper roll graphic (accompanying the 'iPhone 10000' headline)",
+    "'VANCOUVER SUN' masthead",
+    "Article title 'GLENN FREY: A MUSICAL LEGEND' (in the top-left section)",
+    "Picture of Glenn Frey (should not be present)",
+    "Text 'Glenn Frey' (original name, should not be present)",
+    "Headline 'Vancouver School Board staff report calls for closure of up to 13 schools' (should not be present)"
+  ],
+  "human_annotation": true
+}

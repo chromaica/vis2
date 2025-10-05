@@ -1,0 +1,19 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "3D renders",
+  "prompt": "A 3D render of a green triangle on top of a blue square with a dark red background, phong shading.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A 3D render depicting a green triangle placed directly on top of a blue square. The scene features a dark red background and is rendered with Phong shading.",
+  "annotator": "maxku",
+  "objects": [
+    "3D green triangle",
+    "3D blue square",
+    "Green triangle placed directly on top of the blue square",
+    "Dark red background",
+    "Visual characteristics consistent with Phong shading"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

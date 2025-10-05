@@ -1,0 +1,24 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Illuminated Manuscripts",
+  "prompt": "Visualize an illuminated manuscript page for 'Tempus Fugit'. The initial 'T' is a large, exceptionally ornate capital, heavily decorated with gleaming gold leaf and intricate, swirling vine patterns. The remaining text is in elegant black gothic script, accented with striking red and blue flourishes, all on heavily textured, aged parchment. A wide, vibrant border encloses the text, filled with lush green leaves, tiny detailed clockwork gears woven into the foliage, and small golden hourglass miniatures.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "An illuminated manuscript page displaying the text 'Tempus Fugit'. The large, exceptionally ornate capital 'T' at the beginning of 'Tempus' is heavily decorated with gleaming gold leaf and intricate, swirling vine patterns. The subsequent text, 'empus Fugit', is rendered in elegant black gothic script, accented with striking red and blue flourishes. All text is positioned centrally on a heavily textured, aged parchment background. A wide, vibrant border encloses the entire text block, filled with lush green leaves, tiny detailed clockwork gears interwoven into the foliage, and small golden hourglass miniatures.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Illuminated manuscript page",
+    "Ornate capital 'T' with gleaming gold leaf and intricate, swirling vine patterns",
+    "Black gothic script for 'empus Fugit'",
+    "Red flourishes",
+    "Blue flourishes",
+    "Heavily textured, aged parchment background",
+    "Wide, vibrant border",
+    "Lush green leaves",
+    "Tiny detailed clockwork gears",
+    "Small golden hourglass miniatures"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

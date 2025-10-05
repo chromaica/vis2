@@ -1,0 +1,25 @@
+{
+  "task": "MRIE",
+  "topic": "P",
+  "subtopic": "Scenic Nature Parks",
+  "prompt": "Add the goose from the second image to the lower right part of the pond from the first image, and add the boat from the third image to the middle left part of the pond from the first image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Integrate the goose from image 2 into the lower right section of the pond. Place the boat from image 3, including the two people inside it, into the middle-left area of the pond.",
+  "annotator": "boris",
+  "objects": [
+    "pond",
+    "wooden pier",
+    "trees surrounding the pond",
+    "sky",
+    "reeds on pond banks",
+    "goose in the lower right section of the pond",
+    "boat in the middle-left area of the pond",
+    "two people in the boat"
+  ],
+  "human_annotation": true
+}

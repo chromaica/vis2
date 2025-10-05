@@ -1,0 +1,28 @@
+{
+  "subtopic": "Software interfaces",
+  "prompt": "Edit Image 1: Apply the retro, pastel color palette and pixelated interface style from Image 2 to the Snagit editor layout. Transform the buttons, windows, and icons into vintage operating system GUI elements.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751005049830,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit Image 1, the Snagit editor screenshot. Transform its entire graphical user interface into a vintage operating system aesthetic by applying the visual style and characteristics from Image 2. Specifically:\n1.  **Color & Texture:** Replace Image 1's current dark theme with the retro, pastel color palette and distinct pixelated textures exemplified in Image 2.\n2.  **Window Elements:** Convert the main Snagit editor window frame, its title bar (e.g., 'Snagit Editor'), and any visible scrollbars (e.g., on the right panel) to match the blocky, pixelated window and scrollbar style of Image 2.\n3.  **Buttons & Controls:** Redesign all interactive buttons (e.g., 'File', 'Edit', 'Library', 'Capture', 'Arrow', 'Text', 'Copy All', 'Share', 'Buy Now' within the embedded content) and input fields to resemble the simplified, prominent, pixelated buttons and controls typical of Image 2's interface.\n4.  **Icons:** Transform all existing icons (e.g., 'Library', various tool icons like 'Stamp', and the diverse 'Quick Styles' icons on the right-hand panel) into vintage, pixelated operating system-style icons, similar to the folders and application icons found in Image 2.\n5.  **Panels & Layout:** Adapt the 'Quick Styles' and 'Tool Properties' panels on the right side of Image 1, and the 'Hide Recent' pane at the bottom, to seamlessly integrate into this retro GUI, adopting pixelated borders and the pastel color scheme.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Snagit Editor main window with a vintage operating system aesthetic",
+    "Pixelated Snagit Editor title bar",
+    "Retro-themed menu bar (File, Edit, Image, Share, View, Help)",
+    "Pixelated top toolbar buttons (e.g., Library, Capture, Arrow, Stamp, Copy All, Share)",
+    "Vintage operating system-style embedded content area (with text, video display, and \"Buy Now\" buttons)",
+    "Pixelated 'Quick Styles' panel",
+    "Pixelated 'Tool Properties' panel",
+    "Retro-styled 'Hide Recent' pane with image thumbnails",
+    "Vintage pixelated icons (e.g., Library, various tool icons, Quick Styles icons)",
+    "Blocky, pixelated scrollbars"
+  ],
+  "human_annotation": true
+}

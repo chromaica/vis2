@@ -1,0 +1,23 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": " Generate a digital scene where trees have trunks of gears from image 1, branches from the jungle in image 2, and leaves formed from circuit patterns in image 3.",
+  "cond_images": [
+    "1.jpg",
+    "2.png",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a digital scene featuring trees with distinct hybrid elements. The tree trunks should be robust and intricately formed from interlocking brass and silver gears, directly inspired by the mechanical details in image 1. The branches should display the lush, dense foliage and organic forms characteristic of the jungle environment from image 2. The leaves on these branches should be distinctly composed of glowing bright blue circuit patterns adorned with small white circular nodes, reflecting the visual style of image 3.",
+  "annotator": "samin",
+  "objects": [
+    "digital scene",
+    "trees",
+    "tree trunks formed from interlocking brass and silver gears",
+    "branches displaying lush, dense foliage",
+    "organic forms characteristic of a jungle environment",
+    "leaves composed of glowing bright blue circuit patterns",
+    "small white circular nodes on the leaves"
+  ]
+}

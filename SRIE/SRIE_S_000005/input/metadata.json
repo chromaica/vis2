@@ -1,0 +1,29 @@
+{
+  "subtopic": "Receipts",
+  "prompt": "Edit image 1: Add the distinctive 'KINGSMAN' logo and barcode graphic from image 2 to the header section of the receipt, incorporating its branded style.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "screenshot of receipt example",
+  "searchQueryGeneratedTimestamp": 1751004413181,
+  "promptGeneratedTimestamp": 1751004438129,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit image 1 by adding the distinctive 'KINGSMAN' logo and the barcode graphic from image 2 to the header section of the receipt. Place these elements in the top-left area, directly above the existing 'East Repair Inc.' company name and address. Ensure the logo and barcode maintain their original scale, proportions, and 'branded style' as depicted in image 2, including their relative horizontal positioning.",
+  "annotator": "ishengfang",
+  "objects": [
+    "KINGSMAN logo and accompanying \"kingsman\" text",
+    "Barcode graphic",
+    "Receipt document structure",
+    "\"RECEIPT\" header text",
+    "\"East Repair Inc.\" company name",
+    "Company address (1912 Harvest Lane, New York, NY 12210)",
+    "Bill To and Ship To sections",
+    "Itemized list table (QTY, DESCRIPTION, UNIT PRICE, AMOUNT, and rows)",
+    "Subtotal, Sales Tax, and TOTAL amounts",
+    "\"John Smith\" signature"
+  ]
+}

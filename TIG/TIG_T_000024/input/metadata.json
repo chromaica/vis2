@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": "A comic book exclamation: 'WHAM!' in bold yellow text, sharply outlined in black, with radiating lines. The font is pure action comic style, on a bright red field patterned with classic comic dots.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A comic book exclamation: 'WHAM!' centered, in bold yellow text with a sharp black outline. Radiating lines emanate from the text. The font is a pure action comic style. The background is a bright red field patterned with classic comic dots.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "'WHAM!' text",
+    "Centered text",
+    "Bold text",
+    "Yellow text color",
+    "Sharp black outline on text",
+    "Radiating lines from text",
+    "Pure action comic style font",
+    "Bright red background",
+    "Classic comic dots pattern on background"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "A pink receipt from 'Meow Mart' with cat-head-shaped bullet points. Items: 'Laser Pointer XL', 'Organic Catnip Cloud Pillow', 'Premium Salmon P\u00e2t\u00e9 Tins'. Total: $68.32. Includes paw print as a signature.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A pink paper receipt. 'Meow Mart' is centered at the top. Below, a list of three items: 'Laser Pointer XL', 'Organic Catnip Cloud Pillow', and 'Premium Salmon P\u00e2t\u00e9 Tins', each preceded by a cat-head-shaped bullet point. At the bottom, 'Total: $68.32' is displayed. A paw print signature is positioned just below the total.",
+  "annotator": "theblackcat",
+  "objects": [
+    "pink paper receipt",
+    "\"Meow Mart\" text (centered at top)",
+    "cat-head-shaped bullet point (preceding \"Laser Pointer XL\")",
+    "\"Laser Pointer XL\" text",
+    "cat-head-shaped bullet point (preceding \"Organic Catnip Cloud Pillow\")",
+    "\"Organic Catnip Cloud Pillow\" text",
+    "cat-head-shaped bullet point (preceding \"Premium Salmon P\u00e2t\u00e9 Tins\")",
+    "\"Premium Salmon P\u00e2t\u00e9 Tins\" text",
+    "\"Total: $68.32\" text (at bottom)",
+    "paw print signature (below total)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

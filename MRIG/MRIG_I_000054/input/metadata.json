@@ -1,0 +1,27 @@
+{
+  "task": "MRIG",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Generate a vertical bar chart showing the average ratings of four books (Image 1: 4.7, Image 2: 4.2, Image 3: 3.9, Image 4: 4.5), placing each book cover below its corresponding bar as the x-axis label.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpeg",
+    "3.jpg",
+    "4.png"
+  ],
+  "remarks": "",
+  "annotator": "matina",
+  "prompt_refined": "Generate a vertical bar chart displaying the average ratings for four books. The y-axis should represent ratings from 0 to 5. Each bar's height should correspond to its specific rating, and its respective book cover should be placed directly below it as the x-axis label. Arrange the bars and their labels from left to right on the x-axis in the following sequence:\n1.  'Anna Karenina' (image 1) with a rating of 4.7.\n2.  'Harry Potter and the Deathly Hallows' (image 2) with a rating of 4.2.\n3.  'To Kill a Mockingbird' (image 3) with a rating of 3.9.\n4.  'The Adventures of Oliver Twist' (image 4) with a rating of 4.5.",
+  "objects": [
+    "Y-axis with 0-5 rating scale",
+    "X-axis",
+    "Vertical bar representing 4.7 rating",
+    "'Anna Karenina' book cover (image 1) as leftmost x-axis label",
+    "Vertical bar representing 4.2 rating",
+    "'Harry Potter and the Deathly Hallows' book cover (image 2) as x-axis label",
+    "Vertical bar representing 3.9 rating",
+    "'To Kill a Mockingbird' book cover (image 3) as x-axis label",
+    "Vertical bar representing 4.5 rating",
+    "'The Adventures of Oliver Twist' book cover (image 4) as rightmost x-axis label"
+  ]
+}

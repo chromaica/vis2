@@ -1,0 +1,19 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "Transform beach sunset to match urban dusk lighting.",
+  "cond_images": [
+    "1.png",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, a stylized graphic of a sun setting over water, to reflect urban dusk lighting. The vibrant orange sun and blue water should be re-rendered with cooler, desaturated tones such as deep blues, purples, and grays, characteristic of city twilight, while maintaining its graphic style. Use image 2, a realistic beach sunset photograph, as a reference to inform the atmospheric and lighting properties of a sunset scene during this transformation.",
+  "annotator": "Johnny",
+  "objects": [
+    "stylized sun",
+    "stylized water",
+    "horizon line",
+    "stylized reflections on water"
+  ]
+}

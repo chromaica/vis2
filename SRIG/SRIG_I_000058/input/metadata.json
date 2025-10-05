@@ -1,0 +1,25 @@
+{
+  "subtopic": "UI mockups",
+  "prompt": "Design the dashboard of a luxury car, rendered in high-end materials like leather, carbon fiber, and brushed aluminum. The layout of the speedometer, infotainment screen, and controls must follow the wireframe for a analytics dashboard.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://landing.moqups.com/img/templates/wireframes/admin-dashboard-wireframe.png",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate a luxury car dashboard. Render it with high-end materials like fine leather, sleek carbon fiber, and elegant brushed aluminum. The overall layout of the dashboard, including the placement of the speedometer, infotainment screen, and various controls, must precisely follow the structural wireframe presented in image 1. Specifically, the speedometer and digital gauges should occupy the spatial areas corresponding to the data cards and charts shown in image 1. The main infotainment display should align with the central content area of image 1. Physical and digital controls should be integrated into the side and bottom sections, mirroring the navigation bar and lower panels of image 1.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Luxury car dashboard",
+    "Speedometer",
+    "Digital gauges",
+    "Main infotainment display",
+    "Side panel physical controls",
+    "Side panel digital controls",
+    "Bottom panel physical controls",
+    "Bottom panel digital controls",
+    "High-end material textures (fine leather, sleek carbon fiber, elegant brushed aluminum)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

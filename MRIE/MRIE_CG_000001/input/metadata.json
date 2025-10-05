@@ -1,0 +1,28 @@
+{
+  "subtopic": "Object detection visuals",
+  "prompt": "Edit image 1: Modify the laptop screen to show object detection visuals with bounding boxes and labels, using image 2's screen UI structure as inspiration. Add the gear from image 3 to the desk as a tool symbol.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748425875524,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1.\n1.  **Modify the laptop screen:** Replace the current code display on the laptop screen in image 1 with a dynamic view of object detection. This view should prominently feature a visual scene (e.g., a street or indoor environment) with clearly defined rectangular bounding boxes surrounding detected objects, each accompanied by precise text labels (e.g., \"car\", \"person\", \"chair\"). The overall user interface layout and clean aesthetic of this object detection display should draw inspiration from the prominent visual area and UI elements on the laptop screen shown in image 2.\n2.  **Add the gear:** Place the grey gear icon, as depicted in image 3, onto the desk in image 1. Position it on the right side of the desk, adjacent to the yellow mug, to serve as a tool or an engineering symbol.",
+  "annotator": "winston",
+  "objects": [
+    "Person (sitting at desk)",
+    "Desk",
+    "Laptop",
+    "Laptop screen displaying a dynamic object detection view with a visual scene (e.g., street or indoor environment), rectangular bounding boxes, and text labels (e.g., \"car\", \"person\", \"chair\")",
+    "Grey gear icon on the right side of the desk, adjacent to the yellow mug",
+    "Yellow mug",
+    "Plant in pot",
+    "Chair",
+    "Speech bubble",
+    "Profile icon bubble"
+  ]
+}

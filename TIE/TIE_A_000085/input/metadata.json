@@ -1,0 +1,26 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Painting",
+  "prompt": "Make the scene more windy. Add some motion to the parachuting army and the grass.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Introduce strong wind effects throughout the scene. Enhance the visual motion of the numerous parachuting soldiers and their parachutes in the sky, showing them being affected by the wind. Additionally, depict the grass in the foreground and midground swaying and bending in response to the wind.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Blue sky with clouds",
+    "Numerous parachuting soldiers, visibly affected by strong wind",
+    "Parachutes, visibly affected by strong wind",
+    "Swaying and bending grass in the foreground",
+    "Swaying and bending grass in the midground",
+    "Soldier in foreground pointing pistol",
+    "Soldier in foreground with raised hand",
+    "Soldier in midground aiming pistol",
+    "Ground/terrain",
+    "Distant tropical foliage/trees"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,23 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "Futuristic digital portrait of a human face, composed entirely of interconnected circuitry and glowing binary codes.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A futuristic digital portrait of a human face, intricately composed entirely of glowing, interconnected circuitry and pulsing binary codes.",
+  "annotator": "cwhsu",
+  "objects": [
+    "human face",
+    "circuitry",
+    "binary codes",
+    "glowing effect",
+    "interconnected elements",
+    "pulsing effect",
+    "digital art style",
+    "futuristic aesthetic",
+    "portrait composition"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

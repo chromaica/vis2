@@ -1,0 +1,23 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "A brutalist concrete-textured UI for a meditation app, where the harsh design ironically promotes inner peace",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A user interface (UI) for a meditation application, rendered with a brutalist aesthetic. The design prominently features raw, unfinished concrete textures and monolithic, block-like forms. The overall layout is intentionally stark and minimalist, presenting a clean, uncluttered visual space. Despite its harsh, industrial materials, the UI's precise and simple composition is designed to paradoxically promote a sense of calm and inner peace, perhaps with a single, serene element at its core.",
+  "annotator": "theblackcat",
+  "objects": [
+    "User interface (UI)",
+    "Meditation application UI",
+    "Brutalist design aesthetic",
+    "Raw concrete textures",
+    "Unfinished concrete textures",
+    "Monolithic forms",
+    "Block-like forms",
+    "Stark UI layout",
+    "Minimalist UI layout",
+    "Single, serene element at the UI's core"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,17 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Traditional art",
+  "prompt": "A pastoral scene with shepherds tending sheep in a rolling landscape under an expansive, cloud-streaked sky.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "An idyllic pastoral landscape painting depicting several shepherds guiding a large flock of sheep across gentle, rolling green hills. The scene is set under a vast, expansive sky, prominently featuring long, wispy, streaked clouds stretching across the horizon.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Several shepherds",
+    "Large flock of sheep",
+    "Gentle, rolling green hills",
+    "Vast, expansive sky",
+    "Long, wispy, streaked clouds stretching across the horizon"
+  ]
+}

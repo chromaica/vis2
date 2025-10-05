@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "Create a microscopic-style image inspired by the bone marrow cells in the first reference image, replacing the cells with the purple and red glass beads from the second reference image. Arrange the beads in a dense, heterogeneous cluster to mimic the diversity of marrow cells, with some beads slightly overlapping or cracked for realism. Set the scene against a dark crimson background with faint, web-like structures to suggest the bone marrow matrix. Vary the bead sizes and add subtle light reflections or micro-scratches, incorporating a faint bioluminescent glow to evoke a high-resolution microscopy effect.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic, high-resolution microscopic-style image. The composition should replicate the dense, heterogeneous cellular arrangement observed in image 1 (bone marrow tissue). Replace the various cellular elements from image 1 with the small, round glass beads found in image 2, specifically incorporating their distinct purple, violet, amber, and reddish-brown hues. Arrange these beads to mimic both the tightly packed small cells and the larger, more open fat cells evident in image 1, ensuring a wide variation in bead sizes. Enhance realism by including beads that are slightly overlapping or cracked, along with subtle micro-scratches and visible internal imperfections similar to those in image 2. The background should be a dark crimson, featuring faint, web-like structures that suggest the bone marrow matrix. Integrate subtle light reflections across the beads and a pervasive faint bioluminescent glow to achieve a high-resolution microscopy effect.",
+  "objects": [
+    "photorealistic, high-resolution microscopic-style image",
+    "small, round glass beads",
+    "beads in purple, violet, amber, and reddish-brown hues",
+    "beads arranged to mimic dense, heterogeneous cellular arrangement with tightly packed small cells and larger, more open fat cells",
+    "wide variation in bead sizes",
+    "slightly overlapping or cracked beads",
+    "subtle micro-scratches on beads",
+    "visible internal imperfections in beads",
+    "dark crimson background with faint, web-like structures",
+    "subtle light reflections across beads and faint bioluminescent glow"
+  ]
+}

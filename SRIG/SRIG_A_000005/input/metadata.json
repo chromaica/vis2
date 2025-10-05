@@ -1,0 +1,19 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "A futuristic cityscape with this skateboard",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate an artwork depicting a vibrant futuristic cityscape, prominently featuring the black skateboard with white wheels from image 1 in the foreground, integrated naturally within the urban environment.",
+  "annotator": "Johnny",
+  "objects": [
+    "vibrant futuristic cityscape",
+    "black skateboard",
+    "white wheels",
+    "skateboard in the foreground"
+  ],
+  "human_annotation": true
+}

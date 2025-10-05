@@ -1,0 +1,23 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Traditional art",
+  "prompt": "Create a woodblock print of a samurai standing under cherry blossoms.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "https://collections.artsmia.org/art/8743/young-samurai-viewing-cherry-blossoms-as-a-mitate-of-prince-kaoru-suzuki-harunobu",
+  "prompt_refined": "Generate a Japanese woodblock print, consistent with the artistic style and composition of image 1, depicting a samurai figure standing under cherry blossoms. The samurai, dressed in traditional attire with two swords at their waist, stands centrally, with a saddled horse to their right and a squatting attendant figure to their left. A cherry tree with delicate white blossoms is visible on the left side of the scene, its branches extending across the upper portion of the frame.",
+  "annotator": "Johnny",
+  "objects": [
+    "Samurai figure standing centrally",
+    "Traditional attire on samurai",
+    "Two swords at samurai's waist",
+    "Saddled horse to samurai's right",
+    "Squatting attendant figure to samurai's left",
+    "Cherry tree on the left side of the scene",
+    "Delicate white cherry blossoms",
+    "Cherry tree branches extending across the upper portion of the frame"
+  ],
+  "human_annotation": true
+}

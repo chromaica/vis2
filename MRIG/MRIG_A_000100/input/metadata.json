@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "Generate a collage featuring the garden gate from image 1 as the entry point, surrounded by floral elements from image 2 and leaf clusters from image 3, with a translucent overlay of the child\u2019s silhouette from image 4 emerging through the scene.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.png",
+    "4.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a layered garden artwork. Center the rustic, arched gate from image 1 as the focal point. Surround it abundantly with the diverse floral elements from image 2 and the translucent, layered leaf clusters from image 3, creating a lush, organic border. Overlay the entire scene with the translucent silhouette of the child from image 4, positioned to appear subtly emerging from within the composition, blowing dandelion seeds.",
+  "annotator": "samin",
+  "objects": [
+    "layered garden artwork",
+    "rustic, arched gate (centered as focal point)",
+    "lush, organic border surrounding the gate",
+    "diverse floral elements (from image 2)",
+    "translucent, layered leaf clusters (from image 3)",
+    "translucent silhouette of a child (from image 4)",
+    "child subtly emerging from within the composition",
+    "dandelion seeds being blown by the child"
+  ]
+}

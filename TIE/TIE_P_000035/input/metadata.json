@@ -1,0 +1,26 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Medical images",
+  "prompt": "generate a version of this image with solid mass found in the upper left lungs and the lower parts in the right lungs",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://www.radiologymasterclass.co.uk/gallery/chest/lung_cancer/cavitated_lung_mass",
+  "prompt_refined": "Edit image 1 to depict a solid mass in the upper left lung and in the lower region of the right lung.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Chest X-ray image",
+    "Human chest skeletal structure (ribs, clavicles, spine)",
+    "Left lung",
+    "Right lung",
+    "Heart shadow",
+    "Diaphragm",
+    "Abdominal region (lower part of the frontal view)",
+    "Lateral chest view",
+    "Solid mass in the upper left lung",
+    "Solid mass in the lower region of the right lung"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

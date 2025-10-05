@@ -1,0 +1,27 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "Edit image 1 by modifying the three UI screens. Apply the friendly, pink/white aesthetic and character style of image 2's robot to the first screen's elements. Restyle the second screen (sign-up) using the cool blue color accents and sleek lines of image 3's robot. Update the third screen (unlock) with the mechanical details and yellow/orange color palette from image 4's robot.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png",
+    "4.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the user interface (UI) screens displayed within image 1 by modifying the following:\n\n1.  **Leftmost Screen (Salad Bowl UI):** Restyle all elements, including the bowl illustration, text, and the 'Lorem' button, to adopt the friendly, rounded aesthetic, character style, and the dominant pink and white color palette observed in image 2's robot.\n2.  **Central Screen (Sign-Up Form):** Modify the sign-up form elements, such as the header, input fields, toggle switch, and 'Sign up' button, to incorporate the cool blue color accents and the sleek, clean lines characteristic of image 3's robot.\n3.  **Rightmost Screen (Unlock Keypad):** Update the unlock keypad interface, including the facial recognition icon and the numeric buttons, with mechanical details and integrate the distinct yellow and orange color palette from image 4's robot.",
+  "annotator": "maxku",
+  "objects": [
+    "Leftmost phone UI",
+    "Restyled salad bowl illustration",
+    "Restyled 'Lorem' button",
+    "Central phone UI",
+    "Modified sign-up form header",
+    "Modified sign-up form input fields",
+    "Modified 'Sign up' button",
+    "Rightmost phone UI",
+    "Updated facial recognition icon",
+    "Updated numeric keypad buttons"
+  ]
+}

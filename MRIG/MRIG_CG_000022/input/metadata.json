@@ -1,0 +1,28 @@
+{
+  "subtopic": "Game assets",
+  "prompt": "Create a 3D game asset character texture, combining the facial structure from image 1 with the expressive blue eyes and decorative partial face covering style seen in image 2.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748422158396,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a 3D game asset character texture. The character should feature the facial structure, skin tone, and overall bone definition of the individual shown in image 1. Integrate the vibrant blue eyes, complete with their prominent dark eyebrows and long, full eyelashes, from image 2. The lower face, from the nose downwards, must be concealed by a decorative partial face covering that mirrors the distinct style, ornate pattern, and rich fabric texture seen in image 2, leaving only the eyes visible.",
+  "annotator": "winston",
+  "objects": [
+    "Character (3D game asset texture)",
+    "Base facial appearance (derived from image 1)",
+    "Vibrant blue eyes",
+    "Prominent dark eyebrows",
+    "Long, full eyelashes",
+    "Decorative partial face covering",
+    "Distinct style of face covering",
+    "Ornate pattern on face covering",
+    "Rich fabric texture of face covering",
+    "Lower face (from nose downwards) (should not be present)"
+  ],
+  "human_annotation": true
+}

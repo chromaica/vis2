@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": "Replace the 'Washington Post' logo with a fictional newspaper name in similar style.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. In the webpage screenshot, replace the prominent 'The Washington Post' masthead logo, located at the top center, with a fictional newspaper name. The new name should be rendered in a similar classic, serif font style and maintain the overall visual aesthetic of the original logo.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Browser window and interface elements",
+    "Webpage's top black navigation bar",
+    "Fictional newspaper masthead logo at the top center, in classic serif style",
+    "\"Democracy Dies in Darkness\" tagline",
+    "Main news article headlines and body text",
+    "News article image of men in suits",
+    "News article image of a cheering crowd",
+    "Video section with Donald Trump thumbnail",
+    "\"Post REPORTS\" ad banner",
+    "Webpage navigation bar below the masthead"
+  ]
+}

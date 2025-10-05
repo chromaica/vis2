@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "Edit image 1 (the floor plan) by changing the background color to the pastel pink from image 2. Replace the texture of the two large white rug areas with the fluffy white rug texture shown in image 3.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the floor plan. Change its dark grey background to the pastel pink color from image 2. Replace the texture of the two large white rug areas within the floor plan, specifically the rectangular rug under the sofa in the upper-left section and the rectangular rug under the dining table in the lower-left section, with the fluffy white rug texture from image 3.",
+  "annotator": "maxku",
+  "objects": [
+    "Pastel pink background",
+    "Fluffy white rug under the sofa in the upper-left section",
+    "Fluffy white rug under the dining table in the lower-left section",
+    "Sofa",
+    "Dining table and chairs",
+    "Bedroom area with bed",
+    "Kitchen and bathroom fixtures",
+    "Wooden floor texture",
+    "Plants and decorative objects",
+    "Dark grey background (should not be present)"
+  ]
+}

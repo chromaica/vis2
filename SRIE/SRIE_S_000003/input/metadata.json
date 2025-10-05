@@ -1,0 +1,29 @@
+{
+  "subtopic": "Games",
+  "prompt": "Edit image 1: Add visual evidence of intense combat shown in image 2. Apply realistic blood splatters and environmental damage effects to the street and character in image 1, suggesting a recent battle.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "best game screenshots",
+  "searchQueryGeneratedTimestamp": 1750756571943,
+  "promptGeneratedTimestamp": 1750756610442,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit image 1. Transform the scene to depict the immediate aftermath of an intense combat encounter. Use image 2 as a reference for the visual style and type of destruction, including the intensity of gunfire and general chaos. Specifically, add realistic blood splatters and detailed environmental damage, such as visible bullet impacts, scattered debris, and distressed ground textures, across the dirt road in the foreground and midground of image 1. Additionally, apply realistic blood splatters and subtle signs of wear or damage to the character's backpack and clothing, visible from behind, to reinforce the impression of a recent, fierce battle.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Realistic blood splatters on the dirt road in the foreground and midground",
+    "Detailed environmental damage on the dirt road in the foreground and midground",
+    "Visible bullet impacts on the dirt road in the foreground and midground",
+    "Scattered debris on the dirt road in the foreground and midground",
+    "Distressed ground textures on the dirt road in the foreground and midground",
+    "Realistic blood splatters on the character's backpack",
+    "Realistic blood splatters on the character's clothing",
+    "Subtle signs of wear on the character's backpack",
+    "Subtle signs of damage on the character's backpack",
+    "Subtle signs of wear or damage on the character's clothing"
+  ]
+}

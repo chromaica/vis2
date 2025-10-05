@@ -1,0 +1,19 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "A segmentation mask of a billiard table scene. The table covers the lower two-thirds of the image. The green felt surface is labeled as one class. The wooden rails are outlined around the table edges. Pockets are labeled as small rounded regions located at the four corners and midpoints of the long rails. A large cue ball is positioned at the bottom center foreground, labeled as a separate class. A triangular rack of colored balls is placed at the upper center background of the table, each ball labeled as an individual instance or collectively as a colored balls class. A cue stick is placed diagonally along the left side rail, starting from the bottom-left and pointing toward the table center, labeled as its own class.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate an image depicting a detailed billiard table scene. The billiard table occupies the lower two-thirds of the image, featuring a vibrant green felt surface and wooden rails around its edges. Small, rounded pockets are visible at all four corners and at the midpoints of the long rails. A large white cue ball is positioned prominently in the bottom center foreground. A triangular rack of brightly colored billiard balls is neatly arranged at the upper center background of the table surface. A brown wooden cue stick lies diagonally along the left side rail, extending from the bottom-left corner of the image and pointing towards the table's center.",
+  "annotator": "maxku",
+  "objects": [
+    "billiard table (occupying the lower two-thirds of the image)",
+    "vibrant green felt surface (of the billiard table)",
+    "wooden rails (around the edges of the billiard table)",
+    "small, rounded pockets (at all four corners and midpoints of the long rails of the billiard table)",
+    "large white cue ball (positioned prominently in the bottom center foreground)",
+    "triangular rack of brightly colored billiard balls (neatly arranged at the upper center background of the table surface)",
+    "brown wooden cue stick (lying diagonally along the left side rail, extending from the bottom-left corner and pointing towards the table's center)"
+  ]
+}

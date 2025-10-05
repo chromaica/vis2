@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Cultural or Heritage art",
+  "prompt": "Generate a cultural illustration that fuses the architectural grandeur of image 1 with intricate floral embellishments from image 2.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate an illustrative artwork that fuses the grand, white marble architecture and symmetrical layout of image 1 with the intricate, colorful floral embellishments from image 2. The stylized botanical motifs and flowing vine patterns from image 2 should intricately adorn the exterior surfaces, arches, and the central dome of the architectural structure from image 1, creating a visually rich and culturally resonant design.",
+  "annotator": "samin",
+  "objects": [
+    "illustrative artwork style",
+    "grand white marble architectural structure",
+    "symmetrical layout",
+    "central dome",
+    "arches",
+    "minarets",
+    "intricate colorful floral embellishments",
+    "stylized botanical motifs",
+    "flowing vine patterns",
+    "reflecting pool"
+  ]
+}

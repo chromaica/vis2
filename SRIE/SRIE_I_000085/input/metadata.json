@@ -1,0 +1,24 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "Update login screen with modern gradient background",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 2, the login screen, by replacing its current background with a modern gradient background. The style, color palette (pink and red tones), and abstract curved shapes of the new background should be guided by image 1. Ensure all existing foreground elements of the login screen from image 2, including the 'COMPANY LOGO', 'EXPLORE YOUR LIMITS' text, login fields ('NAME', 'PASSWORD'), 'ENTRY' button, and bottom information bar, remain visible and in their original positions on top of the new gradient background.",
+  "annotator": "Johnny",
+  "objects": [
+    "Modern gradient background with pink and red tones and abstract curved shapes",
+    "'COMPANY LOGO' text",
+    "'EXPLORE YOUR LIMITS' text",
+    "'LOGIN' text",
+    "'NAME' input field",
+    "'PASSWORD' input field",
+    "'ENTRY' button",
+    "Bottom information bar (including 'FROM', 'TO', 'START DATE', 'END DATE', 'START NOW' button, 'designed by freepik' text)",
+    "Login screen UI frame/outline"
+  ]
+}

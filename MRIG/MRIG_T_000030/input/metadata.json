@@ -1,0 +1,29 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "Create a food festival poster featuring a collage of Iranian dishes shown in the 4 reference images, 1.jpg, 2.jpg, 3.jpg, and 4.jpg. Design the layout like a professional culinary poster with the main title: Persian Table: A Taste of Iran and the subtitle: Location: Tehran Cultural Center, Date: March 10th\u201312th.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg",
+    "4.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a vibrant food festival poster in a professional culinary style. The poster should feature a rich, visually appealing collage of diverse Iranian dishes and culinary elements, drawing inspiration and specific food items from image 1, image 2, image 3, and image 4.\n\n**Collage Details:**\n*   Prominently display the large platter of Baghali Polo (rice with fava beans and dill) and the golden Tahchin (saffron rice cake) from image 1 as central elements within the collage.\n*   Integrate the Chelow Kebab platter with white and saffron rice, grilled tomatoes, and peppers from image 4, positioned as a key complementary dish.\n*   Include the Koofteh (meatball) platter and the stack of Lavash flatbread from image 3, arranged harmoniously with the other main dishes.\n*   Intersperse smaller elements from the reference images around the main dishes to enrich the collage, such as: fresh herbs and radishes (from image 1 and image 3), bowls of olives (from image 1, 3, and 4), the traditional tea set and sliced oranges (from image 2), and bowls of pickled garlic (Seer Torshi from image 4) or various pickles (from image 3). Ensure the individual dishes are clearly discernible within the collage's arrangement.\n\n**Text Elements:**\n*   The main title, 'Persian Table: A Taste of Iran,' should be prominently displayed at the top of the poster, centered for maximum visibility.\n*   The subtitle, 'Location: Tehran Cultural Center, Date: March 10th\u201312th,' should be clearly visible, positioned either directly below the main title or at the bottom of the poster.\n\nThe overall composition should be inviting, well-organized, and reflect the cultural richness of Iranian cuisine, possibly with subtle traditional Persian patterns in the background, referencing the aesthetic found in the conditioning images.",
+  "annotator": "parnian",
+  "objects": [
+    "'Persian Table: A Taste of Iran' title at the top, centered",
+    "'Location: Tehran Cultural Center, Date: March 10th\u201312th' subtitle",
+    "Large platter of Baghali Polo (rice with fava beans and dill)",
+    "Golden Tahchin (saffron rice cake)",
+    "Chelow Kebab platter with white and saffron rice, grilled tomatoes, and peppers",
+    "Koofteh (meatball) platter",
+    "Stack of Lavash flatbread",
+    "Fresh herbs and radishes",
+    "Bowls of olives",
+    "Subtle traditional Persian patterns in the background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

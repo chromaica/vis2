@@ -1,0 +1,27 @@
+{
+  "task": "MRIE",
+  "topic": "T",
+  "subtopic": "Magazine",
+  "prompt": "Use the first image as a magazine cover design template. Replace the image with the second image, but keep the text and layout. The model should be centered and mask out some of the text. Finally, replace the title 'Fashion' with the 'Fashion' text from the third image. Make sure the layer of the text and image matches the first image.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, utilizing it as a magazine cover template. Replace the central model (Lana Del Rey) with the image of the male model (Tom Cruise) from image 2. Position the male model centrally on the cover, ensuring his body partially overlaps and 'masks out' specific text elements such as 'SUMMER STYLE GUIDE' and 'FIGHT THAT CELLULITE', replicating the depth and layering of the original image. Retain all other existing text elements from image 1, including their original fonts, colors, and precise positions (e.g., 'SUMMER 2013', 'CANADA\\'S N\u00b01 FASHION & BEAUTY MAGAZINE', and all sidebar headlines like 'LANA DEL REY 10-Page Special'). Replace the prominent red 'FASHION' title at the top of the cover with the word 'Fashion' derived from image 3, adopting its distinctive script font and white color. The layering of all textual graphics and the central model must perfectly match the original composition of image 1.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "magazine cover background (beach scene)",
+    "Lana Del Rey (should not be present)",
+    "red 'FASHION' title (should not be present)",
+    "Tom Cruise (central male model)",
+    "white script 'Fashion' title at the top",
+    "'SUMMER 2013' text",
+    "'CANADA\\'S N\u00b01 FASHION & BEAUTY MAGAZINE' text",
+    "'SUMMER STYLE GUIDE' text (partially masked by Tom Cruise)",
+    "'Fight That Cellulite' text (partially masked by Tom Cruise)",
+    "'LANA DEL REY 10-Page Special' text"
+  ],
+  "human_annotation": true
+}

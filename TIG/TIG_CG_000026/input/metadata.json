@@ -1,0 +1,19 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "Texture Map",
+  "prompt": "A normal map of rough tree bark, with irregular ridges and fine grain details.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A normal map of rough tree bark. The surface should be deeply textured with pronounced, irregular, and meandering ridges, and exhibit intricate fine grain patterns.",
+  "annotator": "maxku",
+  "objects": [
+    "normal map representation",
+    "tree bark",
+    "deeply textured surface",
+    "pronounced ridges",
+    "irregular ridges",
+    "meandering ridges",
+    "intricate fine grain patterns"
+  ]
+}

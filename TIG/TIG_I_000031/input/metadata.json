@@ -1,0 +1,23 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "A periodic table layout for organizing a fashion designer's color palette and fabric management system",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A modern, highly detailed periodic table layout designed as a comprehensive color palette and fabric management system for a fashion designer. The grid features distinct 'element' cells, each containing a small, labeled swatch. Color swatch cells display a color block with its Hex/RGB code, while fabric swatch cells show a miniature texture sample with its material type (e.g., silk, denim, wool). The rows and columns (groups and periods) systematically categorize these elements by properties like color family, fabric weight, or collection. The visual style is clean, functional, and professional, suitable for a large digital display or studio wall.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Modern periodic table layout grid",
+    "Distinct 'element' cells",
+    "Color swatch cells",
+    "Color blocks within cells",
+    "Hex/RGB code labels",
+    "Fabric swatch cells",
+    "Miniature texture samples within cells",
+    "Material type labels (e.g., silk, denim, wool)",
+    "Row labels for categories (e.g., color family, fabric weight, collection)",
+    "Column labels for categories (e.g., color family, fabric weight, collection)"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,28 @@
+{
+  "subtopic": "Depth maps",
+  "prompt": "Create a grayscale depth map image featuring the zebra from image 1 positioned within a dense field of the colorful balls seen in image 2. The map should precisely illustrate depth variations of both the zebra's form and the multiple ball surfaces.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748423087987,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a grayscale depth map image depicting the zebra from image 1, centrally placed within a dense field of the colorful plastic balls from image 2. The depth map must precisely illustrate the three-dimensional form and depth variations of the zebra's body, alongside the distinct spherical shapes and varying depths of all the individual colorful balls.",
+  "annotator": "winston",
+  "objects": [
+    "Grayscale output image",
+    "Depth map representation",
+    "Zebra (from image 1)",
+    "Plastic balls (from image 2)",
+    "Zebra centrally placed",
+    "Dense field of plastic balls",
+    "Three-dimensional form of the zebra's body (as depicted by depth)",
+    "Depth variations of the zebra's body (as depicted by depth)",
+    "Distinct spherical shapes of the plastic balls (as depicted by depth)",
+    "Varying depths of individual plastic balls (as depicted by depth)"
+  ],
+  "human_annotation": true
+}

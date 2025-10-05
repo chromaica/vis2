@@ -1,0 +1,20 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "Add color gradients to each icon, creating a vibrant, dynamic effect while retaining their original shapes and simplicity.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Apply vibrant, dynamic color gradients to the interior of each of the 24 black outline icons. Ensure that the original shapes and the overall simplicity of the icons are strictly retained.",
+  "annotator": "cwhsu",
+  "objects": [
+    "24 distinct icon shapes",
+    "Black outlines on all icons",
+    "Vibrant color gradients filling the interior of each icon",
+    "White background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

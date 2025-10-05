@@ -1,0 +1,19 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Stylized art",
+  "prompt": "A fantasy forest in stylized art, featuring tall, twisted trees and luminescent creatures dancing under the moonlight.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a mystical fantasy forest scene featuring towering, gnarled trees with deeply twisted branches. Bioluminescent creatures are gracefully dancing amidst the trees, bathed in the soft glow of moonlight. Render the entire image in a stylized art style.",
+  "annotator": "cwhsu",
+  "objects": [
+    "mystical fantasy forest scene",
+    "towering, gnarled trees",
+    "deeply twisted tree branches",
+    "bioluminescent creatures",
+    "creatures gracefully dancing",
+    "soft glow of moonlight",
+    "stylized art style"
+  ]
+}

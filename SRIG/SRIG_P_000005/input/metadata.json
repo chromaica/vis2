@@ -1,0 +1,24 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Using the depth map in the image, generate a picture of a snowy mountain",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic image of a mountainous landscape. Use image 1 as a guide for the terrain's topography and snow distribution: areas shown in blue in image 1 should appear heavily covered in snow, while areas in red or yellow should appear as less snow-covered or exposed rock. The scene should portray a vast, rugged mountain range.",
+  "annotator": "samin",
+  "objects": [
+    "Photorealistic image",
+    "Vast mountain range",
+    "Rugged mountains",
+    "Prominent mountain peaks",
+    "Deep mountain valleys",
+    "Steep mountain slopes",
+    "Areas with heavy snow cover",
+    "Areas with less snow cover",
+    "Exposed rock formations",
+    "Terrain topography matching image 1"
+  ]
+}

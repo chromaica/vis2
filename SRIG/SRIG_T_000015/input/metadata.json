@@ -1,0 +1,24 @@
+{
+  "task": "SRIG",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "generate a poster following the visual style and layout structure of the reference image, featuring the text 'SIN MIEDO' with similar typography treatment and design aesthetics",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a vertical poster prominently featuring the text 'SIN MIEDO', centrally affixed to a weathered urban wall. The background wall should include torn and distressed blue posters, consistent with the environment in image 1. The text 'SIN MIEDO' on the new poster must be rendered in a bold, sans-serif, uppercase font, bright red in color. Apply the typography treatment and design aesthetics of image 1, replicating the stacked, repeated, and inverted arrangement of the text on the poster.",
+  "annotator": "theblackcat",
+  "objects": [
+    "vertical poster",
+    "text \"SIN MIEDO\"",
+    "weathered urban wall",
+    "torn blue posters on wall",
+    "distressed blue posters on wall",
+    "bright red text color",
+    "bold, sans-serif, uppercase font",
+    "stacked text arrangement",
+    "repeated text arrangement",
+    "inverted text arrangement"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "subtopic": "Computer Animation or Stylized Rendering",
+  "prompt": "Edit image 1 by transforming the origami animals into stylized representations. Apply the cute, simple illustrative style and soft color palette inspired by image 2 to the forms. Replace some figures with new animal and bird shapes derived from the diverse silhouettes in image 3, rendered in the same style. Add a soft background color.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748455576277,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit the image: image 1. Transform all the origami animal figures into stylized, simplified illustrations. Apply the cute, simple illustrative style, featuring bold outlines and a soft color palette, as observed in image 2, to these transformed figures. Selectively replace a portion of the original stylized animal figures with new animal and bird shapes derived from the diverse silhouettes in image 3. Ensure all figures, both original and newly introduced, are consistently rendered in the aforementioned cute, simple illustrative style and soft color palette. Finally, change the current white background of image 1 to a soft, consistent background color, similar to the light peach hue present in image 2.",
+  "annotator": "winston",
+  "objects": [
+    "Soft, consistent light peach background",
+    "Stylized, simplified animal illustrations",
+    "Stylized, simplified bird illustrations",
+    "Bold outlines on figures",
+    "Soft color palette on figures",
+    "Stylized rabbit figure",
+    "Stylized whale figure",
+    "Stylized turtle figure",
+    "Stylized deer figure",
+    "Stylized eagle figure"
+  ]
+}

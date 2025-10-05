@@ -1,0 +1,26 @@
+{
+  "subtopic": "Posters",
+  "prompt": "Design a poster for Textual Graphics, structuring its layout by mapping text and images onto the distinct components and adjustable areas seen in the reference neck brace.",
+  "cond_images": [
+    "1.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1750705599752,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "T",
+  "annotator": "winston",
+  "prompt_refined": "Generate a poster for 'Textual Graphics'. The poster's layout should be structured by visually mapping its text and images onto the distinct components and adjustable areas of the neck brace shown in image 1. For instance, textual content could be placed on surfaces corresponding to the main white plastic frame, the grey padded sections, or the existing blue label on the left side. Graphic elements should be integrated into regions that emulate the adjustable features, such as the vertical colored scale and its slider on the right, or the prominent blue circular button.",
+  "objects": [
+    "A poster for 'Textual Graphics'",
+    "A visual structure mimicking the neck brace from image 1",
+    "Textual content on the main white plastic frame (of the neck brace)",
+    "Textual content on the grey padded sections (of the neck brace)",
+    "Textual content on the blue label area on the left side (of the neck brace)",
+    "Graphic elements on the vertical colored scale on the right (of the neck brace)",
+    "Graphic elements on the slider on the vertical colored scale (of the neck brace)",
+    "Graphic elements on the prominent blue circular button (of the neck brace)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

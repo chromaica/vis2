@@ -1,0 +1,25 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "Change the slogan to \u2018We Can Code It\u2019, add a sleek laptop balanced on her bicep and have her sleeve rolled up to reveal circuit-board tattoos.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Change the slogan text inside the blue speech bubble at the top from 'We Can Do It!' to 'We Can Code It!'. Add a sleek, modern laptop balanced on the woman's flexed right bicep. The rolled-up sleeve on her right arm should remain rolled, and the exposed skin of her right bicep and upper arm should prominently display detailed circuit-board tattoos.",
+  "annotator": "matina",
+  "objects": [
+    "Rosie the Riveter (woman)",
+    "Red polka dot bandana",
+    "Blue work shirt",
+    "Blue speech bubble at the top",
+    "Slogan text \"We Can Code It!\"",
+    "Yellow background",
+    "Sleek, modern laptop balanced on the woman's flexed right bicep",
+    "Rolled-up sleeve on the woman's right arm",
+    "Exposed skin of the woman's right bicep and upper arm displaying detailed circuit-board tattoos"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

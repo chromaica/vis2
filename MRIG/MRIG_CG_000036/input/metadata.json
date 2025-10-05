@@ -1,0 +1,22 @@
+{
+  "subtopic": "Depth maps",
+  "prompt": "Generate a computer graphics scene featuring the car from image 1, placed in front of a wall textured with the green tile pattern from image 2. Compose the image to clearly show depth.",
+  "cond_images": [
+    "1.png",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748422627839,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a computer graphics scene featuring the yellow sports car from image 1. Position the car in the foreground, in front of a wall textured with the distressed green square tile pattern from image 2. Compose the image with clear perspective to emphasize depth.",
+  "annotator": "winston",
+  "objects": [
+    "yellow sports car (in foreground)",
+    "wall (in background)",
+    "distressed green square tile pattern (on the wall)",
+    "computer graphics style",
+    "scene with depth perspective"
+  ]
+}

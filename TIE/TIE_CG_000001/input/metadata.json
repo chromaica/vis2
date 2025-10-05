@@ -1,0 +1,24 @@
+{
+  "subtopic": "Object detection visuals",
+  "prompt": "Change the bounding box color for the bicycle to blue, the dog to green, and the truck to purple to visually distinguish them better.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751761097793,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1. Change the bounding box color for the bicycle to blue, the dog to green, and the truck to purple.",
+  "annotator": "edisy",
+  "objects": [
+    "bicycle with a blue bounding box",
+    "dog with a green bounding box",
+    "truck with a purple bounding box",
+    "porch",
+    "trees",
+    "road"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

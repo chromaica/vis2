@@ -1,0 +1,23 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Replace all the manager's headshots with icons representing different job roles, such as a briefcase, handshake, and lightbulb.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace all six existing headshots located in the 'Manager' role boxes of the organizational chart with distinct icons that visually represent different professional job roles or concepts. Examples of suitable icons include a briefcase, a handshake, or a lightbulb. Ensure the new icons maintain a consistent size, position, and minimalist graphic style similar to the original headshots within their respective green boxes.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Organizational chart structure (boxes and connecting lines)",
+    "President role box with existing headshot and text content",
+    "VP Marketing role box with existing headshot and text content",
+    "VP Sales role box with existing headshot and text content",
+    "VP Production role box with existing headshot and text content",
+    "Six manager role boxes",
+    "Text content within the six manager boxes (names, phone numbers, emails)",
+    "Six distinct professional concept icons (replacing manager headshots)",
+    "Existing headshots of Alice Johnson, Mike Fox, Lou Silva, Kate Bush-White, Cassie Bonne, Lydia Chance (should not be present)"
+  ]
+}

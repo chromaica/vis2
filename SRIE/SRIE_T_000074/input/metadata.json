@@ -1,0 +1,27 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": "Cover this wall with the same graffiti shapes, drips, and spray-can textures.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit Image 1: Cover all visible brick wall surfaces with the vibrant, multi-layered graffiti style, including the distinctive shapes, paint drips, and spray-can textures, as seen in Image 2.",
+  "annotator": "matina",
+  "objects": [
+    "man in a hat and coat",
+    "dark alleyway",
+    "graffiti-covered brick walls",
+    "vibrant, multi-layered graffiti style",
+    "distinctive graffiti shapes",
+    "graffiti paint drips",
+    "graffiti spray-can textures",
+    "pipes on the walls",
+    "neon \"PUB\" sign",
+    "other neon signs"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,20 @@
+{
+  "task": "SRIE",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "Replace the asteroid in the source image with a rescaled instance of the planet in the reference.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the large asteroid visible on the left side of image 1 with a rescaled, photorealistic instance of the planet from image 2. The newly inserted planet should be appropriately sized relative to the Earth and sun present in image 1, maintaining a realistic space scene.",
+  "annotator": "nimajamali",
+  "objects": [
+    "large asteroid (should not be present)",
+    "rescaled photorealistic planet (from image 2, on the left)",
+    "Earth (on the right)",
+    "sun",
+    "space background"
+  ]
+}

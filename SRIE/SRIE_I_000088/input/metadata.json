@@ -1,0 +1,27 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "Control the second image to minimal design style of the first image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 2. Re-envision its design using the minimal aesthetic of image 1. Replace all photographic elements and detailed imagery with simplified line-art illustrations or subtle abstract shapes, consistent with image 1. Adopt a clean, light-colored background and the limited, cool-toned color palette of image 1, creating a more open and uncluttered layout.",
+  "annotator": "Johnny",
+  "objects": [
+    "Light-colored user interface background",
+    "Simplified line-art illustrations (replacing photographic elements)",
+    "UI navigation elements (menu, search bar, links)",
+    "Main headline text (e.g., \"Enjoy Your Style.\")",
+    "Call-to-action buttons (e.g., \"SEE MORE\", \"READ MORE\")",
+    "Blocks of placeholder text (Lorem Ipsum)",
+    "Limited, cool-toned color palette (blues, purples, greys)",
+    "Simplified logo/brand element",
+    "Arrows for navigation/pagination",
+    "Photographic elements (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

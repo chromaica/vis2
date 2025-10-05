@@ -1,0 +1,24 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Graffiti (Text-based)",
+  "prompt": "Imagine a weathered concrete wall tagged with 'Express Yourself' in bold graffiti. The lettering is in vibrant electric blue and hot pink bubble style, with paint drips and thick white outlines.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate an image of a weathered concrete wall. Prominently displayed on the wall is large, bold graffiti spelling out 'Express Yourself'. The lettering is rendered in a vibrant electric blue and hot pink bubble style, featuring thick white outlines. Realistic paint drips are visible, trailing downwards from the graffiti.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Weathered concrete wall",
+    "Large, bold graffiti",
+    "Graffiti spelling 'Express Yourself'",
+    "Graffiti lettering in vibrant electric blue",
+    "Graffiti lettering in hot pink",
+    "Bubble style lettering",
+    "Thick white outlines on lettering",
+    "Realistic paint drips",
+    "Paint drips trailing downwards",
+    "Paint drips from the graffiti"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

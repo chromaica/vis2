@@ -1,0 +1,25 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "Replace the glasses and the smoothie in image 1 with the sunglasses from image 2 and the Starbucks Frappuccino from image 3, respectively.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Replace the colorful sunglasses on the giraffe's face with the red and white polka dot sunglasses from image 2. Simultaneously, replace the vibrant, dripping smoothie below the giraffe's head with the pink Starbucks Frappuccino cup from image 3. Ensure the new elements are accurately positioned and seamlessly integrated into the artwork.",
+  "annotator": "paria",
+  "objects": [
+    "giraffe",
+    "red and white polka dot sunglasses on the giraffe's face",
+    "pink Starbucks Frappuccino cup below the giraffe's head",
+    "colorful sunglasses (should not be present)",
+    "vibrant, dripping smoothie (should not be present)",
+    "colorful paint splashes",
+    "dark background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,23 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Make the photo in this image looks like the figure in the 'Prints depicting mushrooms' book",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Enhance the photorealistic appearance of the small mushrooms on moss, making them resemble a high-quality photographic figure found in a 'Prints depicting mushrooms' book. Focus on maximizing clarity, sharpness, and detail of the mushroom caps, stems, and gills, along with the surrounding moss. Adjust the lighting to optimally highlight the morphological features of the fungi, presenting them as exemplary botanical specimens.",
+  "annotator": "theblackcat",
+  "objects": [
+    "small mushrooms",
+    "mushroom caps",
+    "mushroom stems",
+    "mushroom gills",
+    "green moss",
+    "water droplets on moss",
+    "blurred green foliage background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

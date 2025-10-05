@@ -1,0 +1,19 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "a realistic microscopic image of neuron dendrites branching similarly to the tree limbs",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic, high-resolution microscopic image of neuron dendrites. The dendrites should exhibit the precise branching structure, rugged texture, and organic curvature observed in image 1, presenting a biological interpretation of the tree branch's form. The main dendrite should extend from the upper-left, mirroring the primary branch in image 1.",
+  "annotator": "samin",
+  "objects": [
+    "photorealistic neuron dendrites",
+    "precise branching structure (like a tree branch)",
+    "rugged texture (on the dendrites)",
+    "organic curvature (of the dendrites)",
+    "main dendrite extending from the upper-left"
+  ]
+}

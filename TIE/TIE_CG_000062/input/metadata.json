@@ -1,0 +1,21 @@
+{
+  "subtopic": "CAD models",
+  "prompt": "Apply a brushed metal texture to the mechanical part.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751762148040,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1. Apply a brushed metal texture to the entire mechanical component shown in the image.",
+  "annotator": "edisy",
+  "objects": [
+    "brushed metal mechanical component",
+    "holes in the mechanical component",
+    "white background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

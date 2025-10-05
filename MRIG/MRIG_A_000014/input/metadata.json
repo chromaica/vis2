@@ -1,0 +1,27 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "A digital art illustration featuring the character from image 1, holding the weapon from image 3. Render the image using the distinct line art and shading style found in image 2, incorporating the material rendering and lighting techniques from image 3.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a digital art illustration featuring the character from image 1 (Jinx), prominently holding the oversized, paint-splattered handgun from image 3. The artwork should be rendered in the distinctive thick line art and high-contrast, cel-shading style observed in image 2. Additionally, integrate the detailed material rendering (e.g., worn metal, wood, fabric wraps) and the dramatic, defined lighting and shadow techniques from image 3, applied to both the character and the weapon.",
+  "annotator": "samin",
+  "objects": [
+    "Jinx character",
+    "Oversized handgun",
+    "Paint splatters on handgun",
+    "Jinx holding the handgun",
+    "Thick line art style",
+    "High-contrast cel-shading style",
+    "Worn metal texture",
+    "Wood texture",
+    "Fabric wrap texture",
+    "Dramatic and defined lighting and shadows"
+  ],
+  "human_annotation": true
+}

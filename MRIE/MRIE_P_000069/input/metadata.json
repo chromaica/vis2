@@ -1,0 +1,24 @@
+{
+  "subtopic": "Astronomical images",
+  "prompt": "Edit image 1: enhance contrast under the mask of image 2, replace background with image 3's Moon.",
+  "cond_images": [
+    "1.jpeg",
+    "2.png",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749222713059,
+  "promptLengthUsed": "short",
+  "task": "MRIE",
+  "topic": "P",
+  "prompt_refined": "Edit image 1: Enhance the contrast of the space station structure, applying this effect only to the regions specified by the bright areas of image 2's mask. Replace the original Earth and space background of image 1 with the full Moon from image 3.",
+  "annotator": "boris",
+  "objects": [
+    "space station structure",
+    "full Moon",
+    "Earth (should not be present)",
+    "original space background (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

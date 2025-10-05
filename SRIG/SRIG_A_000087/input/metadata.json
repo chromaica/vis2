@@ -1,0 +1,24 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "A collage style of reference image with a brighter color style.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate an image in a vibrant and brightly colored collage style, replicating the composition and elements of image 1. Maintain the central monochromatic portrait of the older woman, surrounded by a lively arrangement of other elements. Include the stack of old photographs with the child's boat drawing in the top-left, the smiling young girl and postage stamp on the right, the wooden rocking horse toy and handwritten paper scraps in the bottom-left, the vintage alarm clock at the bottom, and the colorful spinning top toy on the bottom-right. Incorporate the teal watercolor leaves and torn paper elements, preserving the overall layered, vertical, and somewhat circular structure from image 1. Transform the muted and desaturated tones of image 1 into a distinctly brighter and more colorful palette for all non-monochromatic components and the background.",
+  "annotator": "Johnny",
+  "objects": [
+    "Central monochromatic portrait of the older woman",
+    "Stack of old photographs with a child's boat drawing in the top-left",
+    "Smiling young girl on the right",
+    "Postage stamp on the right",
+    "Wooden rocking horse toy in the bottom-left",
+    "Handwritten paper scraps in the bottom-left",
+    "Vintage alarm clock at the bottom",
+    "Colorful spinning top toy on the bottom-right",
+    "Teal watercolor leaves",
+    "Torn paper elements"
+  ]
+}

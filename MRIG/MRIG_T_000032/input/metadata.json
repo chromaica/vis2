@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": "Fill the comic layout from the second image with six frames showing the robot from the first image waking up, waving, cooking, dancing, recharging, and sleeping, with no extra text.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a new image structured as a six-panel comic strip, adhering precisely to the panel layout presented in image 2. Each of the six distinct panels must feature the white and black, round robot with glowing blue eyes from image 1. The panels should depict the robot performing the following actions: waking up, waving, cooking, dancing, recharging, and sleeping. Ensure there is no additional text, speech bubbles, or captions within any of the comic panels.",
+  "annotator": "parnian",
+  "objects": [
+    "Six-panel comic strip layout (as in image 2)",
+    "White and black, round robot with glowing blue eyes (from image 1)",
+    "Robot waking up scene",
+    "Robot waving scene",
+    "Robot cooking scene",
+    "Robot dancing scene",
+    "Robot recharging scene",
+    "Robot sleeping scene",
+    "Text (should not be present)",
+    "Speech bubbles (should not be present)"
+  ]
+}

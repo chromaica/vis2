@@ -1,0 +1,24 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": "Create a screenshot of an online auction website, showing the auction item from the first image and the bidding panel design and timer style from the second image.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a screenshot of an online auction website. Display the Argentina football jersey from image 1 as the main auction item. Integrate the bidding panel from image 2, maintaining its distinctive purple and white theme. This panel should clearly show the 'Latest Bid', 'Guide Price', 'My Offer' section, and the 'My Bid' input field with '+' and '-' buttons, along with the 'Submit Bid' button. Ensure the 'Auction Ends In' countdown timer precisely replicates the style from image 2, with separate, distinct boxes for days, hours, minutes, and seconds.",
+  "annotator": "paria",
+  "objects": [
+    "Online auction website interface",
+    "Argentina football jersey (from image 1) as the main auction item",
+    "Purple and white bidding panel (from image 2)",
+    "'Latest Bid' section",
+    "'Guide Price' section",
+    "'My Offer' section",
+    "'My Bid' input field with '+' and '-' buttons",
+    "'Submit Bid' button",
+    "'Auction Ends In' countdown timer (from image 2 style, with distinct boxes for days, hours, minutes, and seconds)"
+  ]
+}

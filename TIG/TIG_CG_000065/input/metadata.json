@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "VFX and Particles",
+  "prompt": "A futuristic plasma blast, with glowing blue and purple energy spheres surrounded by particle emissions.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a vivid, high-resolution depiction of a futuristic plasma blast. It prominently features multiple intensely glowing energy spheres, colored in brilliant electric blue and deep neon purple, clustered centrally. These spheres are encircled by a chaotic yet mesmerizing cloud of radiating, fine particle emissions, creating dynamic streaks of light and shimmering dust, all emanating outwards from the core.",
+  "annotator": "maxku",
+  "objects": [
+    "intensely glowing energy spheres",
+    "multiple energy spheres",
+    "electric blue colored spheres",
+    "deep neon purple colored spheres",
+    "centrally clustered spheres",
+    "chaotic cloud",
+    "radiating fine particle emissions",
+    "dynamic streaks of light",
+    "shimmering dust",
+    "outwardly emanating light and dust"
+  ]
+}

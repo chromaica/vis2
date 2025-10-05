@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": "Design a screenshot of a website for doctor appointment scheduling, displaying the calendar layout from the first image and the doctor profile card design from the second image placed side by side.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a website screenshot for doctor appointment scheduling. The left panel should feature the calendar interface from image 1, including the \"Schedule doctor appointment\" title, month navigation (e.g., 'August 2021'), and highlighted date styling. The right panel should display the doctor profile card design from image 2, complete with the doctor's image, name (e.g., 'Dr. Vijay Sharma'), specialization, star rating, and the 'Book Appointment' button. Present these two distinct vertical layouts side-by-side within the same website view.",
+  "annotator": "paria",
+  "objects": [
+    "Website screenshot layout",
+    "Left panel with calendar interface",
+    "\"Schedule doctor appointment\" title in the left panel",
+    "Month navigation in the left panel (e.g., 'August 2021')",
+    "Highlighted date styling in the calendar",
+    "Right panel with doctor profile card design",
+    "Doctor's image in the right panel",
+    "Doctor's name (e.g., 'Dr. Vijay Sharma') in the right panel",
+    "Star rating in the right panel",
+    "'Book Appointment' button in the right panel"
+  ],
+  "human_annotation": true
+}

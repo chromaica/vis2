@@ -1,0 +1,25 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Add a real-time weather widget in the top-right corner displaying local conditions.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 by adding a real-time weather widget in the top-right corner of the dashboard interface. The widget should display local weather conditions such as current temperature, a relevant weather icon (e.g., sun, clouds, rain), and potentially a city name, all designed to seamlessly integrate with the existing UI's style and color scheme.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Dashboard interface",
+    "Navigation sidebar",
+    "Welcome Back, Lucy Lure header area",
+    "\"Want some EXTRA Money?\" section",
+    "\"Total Product\" statistics card",
+    "\"Total Earning\" statistics card",
+    "\"Top Products\" list",
+    "Real-time weather widget in the top-right corner",
+    "Current temperature in the weather widget",
+    "Weather icon in the weather widget"
+  ],
+  "human_annotation": true
+}

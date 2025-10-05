@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Transform the first input image of a biological cell into a steaming hotpot dish referenced in the second Image. The cell\u2019s membrane becomes a shimmering, round ceramic pot filled with bubbling, spicy red broth. The organelles (nucleus, mitochondria, etc.) morph into hotpot ingredients: the nucleus as a large, tender meatball, mitochondria as slices of beef, and endoplasmic reticulum as wavy noodles. Add floating green onions, tofu cubes, and chili flakes in the broth. Steam rises from the pot, with chopsticks dipping in, set against a cozy wooden table. Render in a hyper-realistic style.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic image combining visual elements from image 1 (a biological cell) and image 2 (a steaming hotpot).\n\nThe image should depict a steaming hotpot, where its structure and components are transformed from image 1. Specifically:\n*   Image 1's outer cell membrane (the blue, irregular boundary) should transform into a shimmering, round ceramic hotpot, prominently displayed.\n*   The pot should be filled with bubbling, spicy red broth.\n*   Image 1's nucleus (the large central purple structure) should become a large, tender meatball floating in the broth.\n*   The convoluted brown structure from image 1 (endoplasmic reticulum) should morph into wavy noodles within the pot.\n*   Image 1's smaller blue and yellow oval organelles (representing structures like mitochondria) should appear as slices of beef, partially submerged in the broth.\n*   Additionally, floating green onions, tofu cubes, and chili flakes should be visible in the broth.\n\nSteam rises visibly from the pot, mirroring the vapor present in image 2. A pair of chopsticks, similar to those in image 2, should be actively dipping into the broth, lifting one of the beef slices. The entire hotpot should be centrally placed on a cozy wooden table. Render the image in a hyper-realistic style with rich textures and vibrant colors.",
+  "objects": [
+    "Shimmering, round ceramic hotpot, prominently displayed",
+    "Bubbling, spicy red broth",
+    "Large, tender meatball floating in the broth",
+    "Wavy noodles within the pot",
+    "Slices of beef partially submerged in the broth",
+    "Visible steam rising from the pot",
+    "A pair of chopsticks actively dipping into the broth, lifting a beef slice",
+    "Cozy wooden table (hotpot centrally placed on it)",
+    "Floating green onions",
+    "Tofu cubes"
+  ]
+}

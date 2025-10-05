@@ -1,0 +1,25 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "Edit image 1: Replace the wings with the style of wings in image 2. Replace the snakes with the style and olive green color of the snake in image 3, maintaining the two-snake configuration.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the Caduceus symbol. Replace the wings at the top of the central staff with the stylized, geometric wing design from image 2. For the two snakes wrapped around the staff, adopt the distinct visual style and olive green color of the snake from image 3, ensuring both new snakes maintain their original intertwined configuration and symmetrical arrangement, precisely replicating the head shape, body texture, and specific olive green hue of the reference snake.",
+  "annotator": "maxku",
+  "objects": [
+    "Caduceus central staff",
+    "Stylized, geometric wings",
+    "Two olive green snakes",
+    "Intertwined configuration of snakes",
+    "Symmetrical arrangement of snakes",
+    "Snake head shape from image 3",
+    "Snake body texture from image 3"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

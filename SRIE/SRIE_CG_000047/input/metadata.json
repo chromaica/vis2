@@ -1,0 +1,24 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Object detection visuals",
+  "prompt": "Highlight every occurrence of the reference object in the source image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit Image 1. For every instance of a traffic cone matching the style of Image 2, apply a clear visual highlight. This highlight should make each cone prominently stand out, such as through a distinct outline or a subtle glow, without altering the cone's original form or position. Ensure all traffic cones in Image 1, including the large cone in the immediate foreground on the right and the series of smaller cones further down the road, are highlighted uniformly.",
+  "annotator": "nimajamali",
+  "objects": [
+    "Highlighted orange and white traffic cones",
+    "White car",
+    "Asphalt road",
+    "Green road markings",
+    "White road markings",
+    "Buildings in background",
+    "Trees in background",
+    "Cloudy sky",
+    "Streetlight"
+  ]
+}

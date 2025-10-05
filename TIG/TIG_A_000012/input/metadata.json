@@ -1,0 +1,19 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "Surreal digital portrait of a woman with butterfly wings emerging from a colorful geometric background.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a highly detailed, surreal digital portrait featuring a woman's upper body centrally positioned. Large, iridescent butterfly wings, meticulously detailed with intricate patterns, organically emerge from and unfurl against a vibrant, complex geometric background. This background consists of interlocking, glowing abstract shapes in a rich palette of blues, purples, and oranges, subtly blending with the woman's form to create a dreamlike, high-resolution artwork.",
+  "annotator": "cwhsu",
+  "objects": [
+    "woman's upper body (centrally positioned)",
+    "large, iridescent butterfly wings (with intricate patterns)",
+    "vibrant, complex geometric background",
+    "interlocking, glowing abstract shapes",
+    "blue color palette",
+    "purple color palette",
+    "orange color palette"
+  ]
+}

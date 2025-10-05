@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Chat and Social Messaging",
+  "prompt": "In image 1, update the chat screen with the dark background and pink/grey message bubble style from image 2, keeping all bubble positions and texts intact; add the grey offline status circle from image 3 to the bottom-right edge of the profile picture; and replace all grey double checkmarks with the blue read checkmark from image 4; all edits should be scaled to match the original layout sizes in image 1.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.png",
+    "4.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, a WhatsApp chat screenshot, by applying the following modifications while preserving original message texts, bubble positions, and overall layout scale:\n\n1.  **Chat Style Update:** Change the background of the chat screen in image 1 to a dark color. For the message bubbles, apply the pink style from image 2 to the existing green (sender) bubbles on the right, and the dark grey style from image 2 to the existing grey (recipient) bubbles on the left.\n2.  **Profile Picture Status:** Add the solid grey circle from image 3 to the bottom-right edge of the user's profile picture located at the top-right of image 1.\n3.  **Read Receipt Update:** Replace the grey double checkmark next to the \"12:59 PM\" timestamp on the second message bubble from the top right in image 1 with the blue 'Read' checkmark icon from image 4.",
+  "annotator": "parnian",
+  "objects": [
+    "Dark chat screen background",
+    "Pink message bubbles on the right",
+    "Dark grey message bubbles on the left",
+    "Original WhatsApp message texts",
+    "User's profile picture at top-right",
+    "Solid grey circle on the bottom-right edge of the user's profile picture",
+    "Blue 'Read' checkmark icon next to \"12:59 PM\" timestamp",
+    "Grey double checkmark (should not be present)",
+    "iPhone status bar",
+    "WhatsApp chat navigation bar with \"Chris Designer\" title"
+  ],
+  "human_annotation": true
+}

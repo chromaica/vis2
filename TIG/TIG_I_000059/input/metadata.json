@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "visualize a conversion funnel chart for an e-learning platform: 100K website visitors \u2192 15K trial signups \u2192 8K course starts \u2192 3K completions \u2192 1.2K paid subscriptions. Style as an inverted pyramid with percentage drop-offs and conversion rates between each stage",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a detailed information graphic: an inverted pyramid conversion funnel chart for an e-learning platform. The chart should visually represent the following stages, flowing from the wide top to the narrow bottom: 100,000 website visitors at the top, transitioning to 15,000 trial signups, then 8,000 course starts, followed by 3,000 completions, and culminating in 1,200 paid subscriptions at the bottom. Between each consecutive stage, clearly display both the percentage drop-off and the conversion rate.",
+  "annotator": "theblackcat",
+  "objects": [
+    "inverted pyramid conversion funnel chart structure",
+    "top section representing \"100,000 website visitors\"",
+    "second section representing \"15,000 trial signups\"",
+    "third section representing \"8,000 course starts\"",
+    "fourth section representing \"3,000 completions\"",
+    "bottom section representing \"1,200 paid subscriptions\"",
+    "numerical labels for each stage (100,000, 15,000, 8,000, 3,000, 1,200)",
+    "descriptive text labels for each stage (e.g., \"website visitors\", \"trial signups\")",
+    "percentage drop-off labels displayed between each consecutive stage",
+    "conversion rate labels displayed between each consecutive stage"
+  ]
+}

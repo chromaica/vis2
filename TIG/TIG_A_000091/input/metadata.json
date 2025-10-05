@@ -1,0 +1,17 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "An artistic collage of sliced fruits, their vibrant sections arranged in an intricate mandala pattern against a plain white background.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "An artistic collage featuring vibrant, precisely sliced fruits arranged in an intricate, symmetrical mandala pattern. The composition is set against a clean, plain white background.",
+  "annotator": "cwhsu",
+  "objects": [
+    "artistic collage",
+    "vibrant, precisely sliced fruits",
+    "intricate, symmetrical mandala pattern",
+    "clean, plain white background"
+  ],
+  "human_annotation": true
+}

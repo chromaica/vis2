@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "add a hiking cabin on top of this rock with vertical ladders down the mountains",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 to add a photorealistic hiking cabin positioned on top of the large, snow-dusted red rock formation in the foreground. From this rock, include vertical ladders descending down the steep cliff face into the expansive canyon below.",
+  "annotator": "theblackcat",
+  "objects": [
+    "photorealistic hiking cabin on top of the red rock formation",
+    "vertical ladders descending down the cliff face",
+    "large, snow-dusted red rock formation in the foreground",
+    "steep cliff face",
+    "expansive canyon below",
+    "snow on the rock formation and ground",
+    "overcast sky with clouds",
+    "distant canyon landscape",
+    "snow-dusted bushes and trees"
+  ],
+  "human_annotation": true
+}

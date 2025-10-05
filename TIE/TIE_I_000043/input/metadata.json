@@ -1,0 +1,27 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Enhance with vibrant gradients and add icons representing images, graphics, and text in each segment of the Venn diagram.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, a three-circle Venn diagram. Apply vibrant radial gradients to the three main circles: the top 'Images' circle (transitioning from a lighter to darker cyan/blue), the bottom-left 'Graphics' circle (transitioning from a lighter to darker pink/red), and the bottom-right 'Text' circle (transitioning from a lighter to darker purple/violet). Ensure these gradients blend smoothly within the overlapping regions. Additionally, add small, simple icons within each of the Venn diagram's seven distinct segments. Place a generic image icon (e.g., a landscape or photo frame) in all segments belonging to the 'Images' circle, a generic graphics icon (e.g., a bar chart or pie chart) in all segments belonging to the 'Graphics' circle, and a generic text icon (e.g., an 'A' symbol or lines of text) in all segments belonging to the 'Text' circle. Overlapping segments should feature all relevant icons (e.g., the central 'Visual Communication' area will contain an image, graphics, and text icon).",
+  "annotator": "cwhsu",
+  "objects": [
+    "Three-circle Venn diagram structure",
+    "Top 'Images' circle with vibrant cyan/blue radial gradient",
+    "Bottom-left 'Graphics' circle with vibrant pink/red radial gradient",
+    "Bottom-right 'Text' circle with vibrant purple/violet radial gradient",
+    "Smoothly blended gradients in the overlapping regions",
+    "Generic image icons (e.g., landscape, photo frame) within all segments belonging to the 'Images' circle",
+    "Generic graphics icons (e.g., bar chart, pie chart) within all segments belonging to the 'Graphics' circle",
+    "Generic text icons (e.g., 'A' symbol, lines of text) within all segments belonging to the 'Text' circle",
+    "Text label \"Images (shapes photographs, illustrations)\"",
+    "Text label \"Graphics (charts, infographics)\"",
+    "Text label \"Text (fonts, layout)\"",
+    "Text label \"Visual Communication\""
+  ],
+  "human_annotation": true
+}

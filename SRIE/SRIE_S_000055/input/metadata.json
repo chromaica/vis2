@@ -1,0 +1,26 @@
+{
+  "subtopic": "Games",
+  "prompt": "Edit image 1: Change the camera perspective to first-person. Re-render the scene looking out over the clouds, adopting the first-person viewpoint and camera style characteristic of image 2's genre.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1750833444980,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit image 1 to change the camera perspective to a first-person view. Re-render the scene looking out over the vast cloud sea from the cliff edge, adopting the immersive first-person viewpoint and camera characteristics (such as the presence of foreground elements like hands or a weapon) typical of image 2's first-person shooter genre.",
+  "annotator": "ishengfang",
+  "objects": [
+    "vast cloud sea",
+    "cliff edge",
+    "foreground hands",
+    "weapon (held by hands)",
+    "sky",
+    "green grass on cliff edge",
+    "stone wall/fence (on cliff edge)",
+    "characters from Image 1 (should not be present)",
+    "UI elements from Image 1 (should not be present)"
+  ]
+}

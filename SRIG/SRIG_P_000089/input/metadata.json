@@ -1,0 +1,23 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "an astronomical image of a dark nebula spreading across a star field, mimicking the ink flow in the reference image.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "A photorealistic astronomical image featuring a dark nebula spreading across a dense star field. The nebula's form and intricate flow should precisely mimic the fluid, swirling patterns of the black ink shown in image 1. Position the main, dense mass of the nebula on the center-right, echoing the large ink blob in image 1, while lighter, wispy tendrils extend dynamically towards the left across the stars, reflecting the delicate ink trails. Emphasize varying densities within the nebula, from opaque to translucent, creating a strong contrast against the luminous star field, similar to the ink's visual against the white background.",
+  "annotator": "samin",
+  "objects": [
+    "Dark nebula",
+    "Dense star field",
+    "Main, dense mass of the nebula on the center-right",
+    "Lighter, wispy tendrils of the nebula extending towards the left",
+    "Opaque parts of the nebula",
+    "Translucent parts of the nebula",
+    "Luminous stars"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

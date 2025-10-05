@@ -1,0 +1,23 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Stylized art",
+  "prompt": "Generate a stylized art of a streampunk spaceship",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a stylized artwork depicting a steampunk spaceship. Its design should closely follow the distinctive silhouette of image 1, featuring a large, rounded top section and an elaborate, multi-component structure suspended below. Focus on rendering intricate mechanical details and a symmetrical composition.",
+  "annotator": "Johnny",
+  "objects": [
+    "Steampunk spaceship",
+    "Large, rounded top section",
+    "Elaborate multi-component structure (suspended below the top section)",
+    "Multiple vertical supports (as part of the suspended structure)",
+    "Lower main platform or gondola (as part of the suspended structure)",
+    "Intricate mechanical details",
+    "Symmetrical composition"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

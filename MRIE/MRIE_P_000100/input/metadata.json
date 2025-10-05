@@ -1,0 +1,23 @@
+{
+  "subtopic": "Microscopic imagery",
+  "prompt": "Transform image 1's skin texture by combining the smoothness of image 2 and the scale pattern of image 3.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749307730814,
+  "promptLengthUsed": "short",
+  "task": "MRIE",
+  "topic": "P",
+  "prompt_refined": "Edit image 1 to transform its skin texture. The new texture should combine the epidermal smoothness of image 2 with the distinct, interlocking scale pattern from image 3, replacing the existing wrinkles and fine lines with this integrated surface.",
+  "annotator": "boris",
+  "objects": [
+    "Skin",
+    "Epidermal smoothness",
+    "Interlocking scale pattern",
+    "Wrinkles (should not be present)",
+    "Fine lines (should not be present)"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "change the word 'reflection' in a way that it can be read from a mirror",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. On the store sign 'NORTHERN REFLECTIONS' visible above the entrance, modify the word 'REFLECTIONS'. Replace it with a horizontally flipped version of the text, so that it appears correctly readable when viewed in a mirror. Use image 2 as the mask to apply these changes specifically to the sign area.",
+  "annotator": "matina",
+  "objects": [
+    "Storefront entrance",
+    "Store sign",
+    "\"NORTHERN\" text on the sign",
+    "The word \"REFLECTIONS\" on the sign (should not be present)",
+    "A horizontally flipped version of the word \"REFLECTIONS\" on the sign",
+    "Store window display with clothing",
+    "Mannequins",
+    "Clothing racks with merchandise",
+    "Store interior",
+    "\"SALE\" sign inside the store"
+  ],
+  "human_annotation": true
+}

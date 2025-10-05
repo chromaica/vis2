@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Weather forecast interface designed as a living terrarium, with animated weather patterns inside glass domes, wooden frame aesthetics, miniature landscapes that change with conditions, and soft ambient lighting",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A digital weather forecast interface, artfully designed as a collection of interconnected living terrariums. Each distinct glass dome houses a miniature landscape that dynamically transforms and displays animated weather patterns reflecting its forecast: a sun-drenched desert with clear skies, a lush rainforest with simulated rain falling, or a snow-capped mountain amidst swirling blizzards. Subtle digital readouts for temperature and precipitation are integrated on small wooden plaques positioned beneath each terrarium. The entire display is encased within an elegant, polished wooden frame, illuminated by soft, warm ambient lighting to create a serene atmosphere.",
+  "annotator": "theblackcat",
+  "objects": [
+    "interconnected living terrariums",
+    "glass domes",
+    "miniature sun-drenched desert landscape with clear skies",
+    "miniature lush rainforest landscape with simulated rain",
+    "miniature snow-capped mountain landscape with swirling blizzards",
+    "subtle digital readouts for temperature",
+    "subtle digital readouts for precipitation",
+    "small wooden plaques positioned beneath each terrarium",
+    "elegant, polished wooden frame",
+    "soft, warm ambient lighting"
+  ]
+}

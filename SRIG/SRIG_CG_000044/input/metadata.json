@@ -1,0 +1,21 @@
+{
+  "subtopic": "Depth maps",
+  "prompt": "Generate a detailed computer graphics render. Use the reference image as a depth map to define the spatial relationships and arrangement of organic forms in a realistic 3D scene, simulating real-world depth with intricate details.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://lh3.googleusercontent.com/proxy/PyQh38iPDszgW9LrNFaLrHo213ECUn6kmqyvTCbqlHhGB_iJZ_4q7uNZWTMPbOJlT4aHPewaCwNznw7qdfZxNlaiFSAjlIMSL0eWV-1fmul15AfGVHRvlpoa5vILUwe5C0YHx0ia4egOJeGjsvTwovxKVQ8n-ON8SMlm5NA",
+  "promptGeneratedTimestamp": 1748767707513,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a detailed computer graphics render of a realistic 3D scene. Utilize image 1 as a depth map to precisely define the spatial relationships and arrangement of organic botanical forms. Ensure the large, prominent foreground shapes indicated by the bright areas in image 1 are rendered as intricate floral elements, while the darker, less defined background areas are rendered as distant foliage or other organic mass, simulating real-world depth and intricate details throughout the scene.",
+  "annotator": "ishengfang",
+  "objects": [
+    "detailed computer graphics render",
+    "realistic 3D scene",
+    "intricate floral elements in the foreground",
+    "distant foliage in the background",
+    "organic mass in the background"
+  ]
+}

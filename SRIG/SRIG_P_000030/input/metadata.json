@@ -1,0 +1,23 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "a fluorescence microscopy image showing cellular structure and nuclear details following the reference image.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic fluorescence microscopy image, using image 1 as a precise guide for the irregular shapes and relative positions of two distinct cell bodies and their central nuclei. The upper cell should appear in the top-right of the image, and the lower cell in the bottom-left, both displaying intricate cellular structure and nuclear details characteristic of fluorescence microscopy.",
+  "annotator": "samin",
+  "objects": [
+    "Photorealistic fluorescence microscopy image",
+    "Two distinct cell bodies",
+    "Irregular shapes of cell bodies (as per image 1)",
+    "Upper cell in the top-right of the image",
+    "Lower cell in the bottom-left of the image",
+    "Two central nuclei",
+    "Relative positions of cell bodies and nuclei (as per image 1)",
+    "Intricate cellular structure",
+    "Nuclear details"
+  ]
+}

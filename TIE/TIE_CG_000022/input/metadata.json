@@ -1,0 +1,23 @@
+{
+  "subtopic": "Facial estimation and analysis",
+  "prompt": "Update the text label within the blue bounding box to display \"Gender: Male\" instead of the current age estimate.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751761526073,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "In image 1, edit the text label 'Age (45-50)' located at the top of the blue bounding box surrounding the man's face, changing it to 'Gender: Male'.",
+  "annotator": "edisy",
+  "objects": [
+    "Man with grey hair and beard",
+    "Glasses on the man's face",
+    "Suit jacket and white shirt on the man",
+    "Blue bounding box surrounding the man's face",
+    "Text label 'Gender: Male' at the top of the blue bounding box",
+    "Network pattern background"
+  ],
+  "human_annotation": true
+}

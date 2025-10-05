@@ -1,0 +1,19 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "make the young penguin look at towards the camera, the left penguin is standing side by side with the young penguin",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Modify the fuzzy brown young penguin chick to look directly towards the camera. The large adult King Penguin positioned immediately to the chick's left should remain standing side by side with it.",
+  "annotator": "theblackcat",
+  "objects": [
+    "fuzzy brown young penguin chick looking towards the camera",
+    "large adult King Penguin immediately to the chick's left",
+    "other King Penguins in the background",
+    "ground",
+    "sky"
+  ]
+}

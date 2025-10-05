@@ -1,0 +1,27 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Edit image 1: Transform the human heart diagram into a detailed mechanical heart from image 2, but keep the original art style. Then color the mechanical heart using the color palette provided in image 3, while maintaining its diagrammatic layout and labels.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Transform the biological human heart diagram into a detailed mechanical heart. The mechanical heart should incorporate intricate components and a structure inspired by image 2, but rendered in the clean, illustrative diagrammatic art style of image 1, maintaining its white background and clear outlines. Re-color this mechanical heart using only the specific color palette from image 3, which includes dark gray, black, white, orange, and bright orange. Ensure the overall diagrammatic layout from image 1 is precisely maintained, retaining all existing anatomical labels and directional flow arrows in their original positions relative to the transformed mechanical heart.",
+  "annotator": "maxku",
+  "objects": [
+    "Detailed mechanical heart structure",
+    "White background",
+    "Black anatomical labels",
+    "Red directional flow arrows",
+    "Blue directional flow arrows",
+    "Dark gray components of the mechanical heart",
+    "Black components of the mechanical heart",
+    "White components of the mechanical heart",
+    "Orange components of the mechanical heart",
+    "Bright orange components of the mechanical heart"
+  ],
+  "human_annotation": true
+}

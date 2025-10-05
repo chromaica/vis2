@@ -1,0 +1,26 @@
+{
+  "subtopic": "Software interfaces",
+  "prompt": "Generate a screenshot of a productivity app interface. Adopt the layout from the reference fitness app, showing a main circular status, key metrics, a progress graph, and bottom navigation. Use a clean UI style with a similar teal and blue color palette.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://storage.googleapis.com/support-forums-api/attachment/thread-51223556-9307523795716703439.png",
+  "promptGeneratedTimestamp": 1749460188426,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a screenshot of a productivity app interface, adopting the layout and clean UI style from image 1. In the upper central area, include a prominent circular status display for a productivity metric (e.g., tasks completed or project progress) with a large numerical value inside, mirroring the placement and visual emphasis of image 1's main circle. Below this, arrange three horizontal key metrics (e.g., 'Completed Tasks', 'Active Hours', 'Focus Sessions') with their numerical values and concise labels. In the mid-section, incorporate a large, rectangular progress graph or chart, similar in size and position to the map in image 1, visually representing workflow, project milestones, or task progression over time. At the very bottom, include a clean navigation bar with three distinct icons and text labels (e.g., 'Dashboard', 'Schedule', 'Insights'). The interface should primarily use a white background with a teal and blue accent color palette, consistent with image 1.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Productivity app interface",
+    "White background",
+    "Circular status display in the upper central area",
+    "Large numerical value inside the circular status display",
+    "Three horizontal key metrics with numerical values and labels",
+    "Large rectangular progress graph or chart in the mid-section",
+    "Navigation bar at the very bottom",
+    "Three distinct navigation icons",
+    "Three navigation text labels",
+    "Teal and blue accent color palette"
+  ]
+}

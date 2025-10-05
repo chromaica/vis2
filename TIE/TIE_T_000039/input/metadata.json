@@ -1,0 +1,20 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "Redraw the header in a messy, hand-sketched chalk font with smudges and eraser marks.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Redraw the 'me & you' text present in the image. The redrawn text should appear in a messy, hand-sketched chalk font, complete with visible smudges and eraser marks.",
+  "annotator": "matina",
+  "objects": [
+    "'me & you' text",
+    "messy chalk font",
+    "hand-sketched appearance",
+    "visible smudges",
+    "eraser marks",
+    "light, plain background"
+  ]
+}

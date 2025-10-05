@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Generate a line graph showing weekly sales trends for two phone models: iPhone and Sony. Use Image 1 (iPhone) and Image 2 (Sony) as product icons, placing them next to the legend.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "matina",
+  "prompt_refined": "Generate a line graph visualizing weekly sales trends for two phone models. The graph should feature two distinct lines: one for iPhone sales and one for Sony phone sales. Include a clear legend that identifies each sales line. For the iPhone sales entry in the legend, use a small visual of image 1 (a blue iPhone) as its product icon, positioned directly alongside its label. Similarly, for the Sony phone sales entry, use a small visual of image 2 (a grey Sony phone) as its product icon, placed directly alongside its respective label within the legend.",
+  "objects": [
+    "line graph",
+    "line representing iPhone sales",
+    "line representing Sony phone sales",
+    "clear legend",
+    "iPhone sales label in legend",
+    "small visual of blue iPhone (from image 1) as product icon in legend",
+    "Sony phone sales label in legend",
+    "small visual of grey Sony phone (from image 2) as product icon in legend",
+    "X-axis representing weeks",
+    "Y-axis representing sales"
+  ]
+}

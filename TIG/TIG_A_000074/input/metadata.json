@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "oil paintings",
+  "prompt": "A close-up oil portrait of an elderly sailor, his weathered face and deep-set eyes painted with rich earth tones and careful attention to detail.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "An oil painting, close-up portrait of an elderly sailor, featuring his deeply weathered face and deep-set eyes. The portrait should display meticulous attention to detail and a palette dominated by rich earth tones.",
+  "annotator": "cwhsu",
+  "objects": [
+    "oil painting aesthetic",
+    "close-up portrait",
+    "elderly sailor",
+    "deeply weathered face",
+    "deep-set eyes",
+    "rich earth tones (color palette)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

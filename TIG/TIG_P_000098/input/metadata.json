@@ -1,0 +1,18 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "An extreme magnification of textile fibers from a cotton shirt, showing the interwoven threads and natural fibrous texture in white and blue.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Photorealistic extreme close-up of interwoven textile fibers from a cotton shirt. The highly magnified view reveals individual white and blue threads forming the fabric's natural fibrous texture, with a shallow depth of field.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Interwoven textile fibers",
+    "White threads",
+    "Blue threads",
+    "Natural fibrous texture",
+    "Shallow depth of field",
+    "Highly magnified view"
+  ]
+}

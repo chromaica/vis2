@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "Edit image 1, transforming its colorful game UI aesthetic into a stylized metallic design. Apply the sleek, metallic button and icon style from image 2 to all corresponding elements in image 1. Furthermore, incorporate metallic framing elements, inspired by the circular and rectangular frames in image 3, around selected UI components or panels within image 1.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 to transform its vibrant game UI aesthetic into a stylized metallic design, drawing inspiration from image 2 and image 3.\n\n1.  **Metallic Style Application (from image 2):** Apply the sleek, metallic button and icon style from image 2 to all interactive and illustrative elements within image 1. This includes:\n    *   The four main rectangular buttons (\"Play!\", \"Settings\", \"Shop\", \"Credits\") on the left panel.\n    *   All small circular action/social media icons located on the right.\n    *   The 'x' close icon on the top banner.\n    *   The larger decorative icons (crown, heart, lightning bolt, stars, and trophy cup) on the right.\n    *   Ensure numeric displays next to the currency/resource icons (crown, heart, lightning bolt) adopt a complementary metallic or sleek visual style.\n\n2.  **Metallic Framing Integration (from image 3):** Incorporate metallic framing elements, inspired by the circular and rectangular frames in image 3, around key UI components in image 1.\n    *   Add a fitting rectangular metallic frame (similar to those in image 3) around the entire main vertical 'Game UI kit' panel on the left.\n    *   Integrate smaller metallic frames or outlines, consistent with image 3's style, around logical groupings of icons or individual prominent elements on the right side of the UI, such as the currency/resource display group (crown, heart, lightning bolt, stars) or the trophy cup.",
+  "annotator": "maxku",
+  "objects": [
+    "Main Game UI kit panel with metallic rectangular frame",
+    "Metallic \"Game UI kit\" banner",
+    "Metallic 'x' close icon",
+    "Four metallic rectangular buttons (Play!, Settings, Shop, Credits) on the left panel",
+    "Metallic crown icon with sleek numeric display and metallic frame",
+    "Metallic heart icon with sleek numeric display and metallic frame",
+    "Metallic lightning bolt icon with sleek numeric display and metallic frame",
+    "Metallic currency star icon with sleek numeric display and metallic frame",
+    "Metallic small circular action and social media icons",
+    "Metallic large decorative stars and trophy cup with metallic frame"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

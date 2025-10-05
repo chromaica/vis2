@@ -1,0 +1,21 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Medical images",
+  "prompt": "Generate a chest X-ray of the lung from the mask image, with a nodule in the upper lobe.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic chest X-ray image. Utilize the lung segmentation mask provided in image 1 to precisely define the anatomical shape and boundaries of both lungs. The X-ray should feature a solitary, well-defined nodule located within an upper lobe of one of the lungs.",
+  "annotator": "samin",
+  "objects": [
+    "Left lung (with anatomical shape and boundaries defined by image 1)",
+    "Right lung (with anatomical shape and boundaries defined by image 1)",
+    "Solitary, well-defined nodule located within an upper lobe of one of the lungs",
+    "Ribs (as typically seen in a chest X-ray)",
+    "Heart shadow (as typically seen in a chest X-ray)",
+    "Diaphragm (as typically seen in a chest X-ray)",
+    "Spinal column (as typically seen in a chest X-ray)"
+  ]
+}

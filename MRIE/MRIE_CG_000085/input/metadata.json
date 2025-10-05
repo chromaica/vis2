@@ -1,0 +1,26 @@
+{
+  "subtopic": "3D renders",
+  "prompt": "Edit image 1: Replace the camera setup with a professional camera resembling the one in image 2. Render the entire scene in a vibrant 3D art style, applying the smooth textures and bright, contrasting colors characteristic of the render in image 3.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748456438078,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1: Replace the smartphone and GoPro on the selfie stick held by the person with a professional DSLR camera, matching the type and scale shown in image 2. Re-render the entire scene, including the person, waterfall, and environment, in a vibrant 3D art style, applying the characteristic smooth, polished textures and bright, contrasting colors evident in image 3.",
+  "annotator": "winston",
+  "objects": [
+    "Person",
+    "Selfie stick",
+    "Professional DSLR camera (on the selfie stick)",
+    "Waterfall",
+    "Natural environment (e.g., rocks, mist)",
+    "Smartphone (should not be present)",
+    "GoPro (should not be present)"
+  ],
+  "human_annotation": true
+}

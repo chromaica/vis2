@@ -1,0 +1,22 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Mobile software interfaces",
+  "prompt": "Introduce a rain of colorful abstract geometric shapes falling gently over the entire image.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Introduce a gentle, continuous fall of numerous vibrant, abstract geometric shapes. These shapes should be varied in color and form, subtly overlaying the entire content of image 1, drifting downwards across all three distinct screenshot panels.",
+  "annotator": "cwhsu",
+  "objects": [
+    "First screenshot panel",
+    "Second screenshot panel",
+    "Third screenshot panel",
+    "Numerous vibrant abstract geometric shapes (drifting downwards, overlaying all three panels)",
+    "Woman with long dark hair (in first panel)",
+    "Person with Bratz-like makeup (in second panel)",
+    "Two women with champagne (in third panel)"
+  ],
+  "human_annotation": true
+}

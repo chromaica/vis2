@@ -1,0 +1,24 @@
+{
+  "subtopic": "Depth maps",
+  "prompt": "Create a scene featuring the two Minion figures from image 2. Arrange them at different distances from the camera. Place the net with balls from image 1 closer to the foreground, illustrating clear depth in the composition.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748423175791,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate an image depicting the two Minion figures from image 2, positioned at distinct depths relative to the camera. The blue net filled with colorful balls, as seen in image 1, should be placed prominently in the foreground. The overall composition must clearly convey depth.",
+  "annotator": "winston",
+  "objects": [
+    "Minion figure (from image 2, with two eyes)",
+    "Minion figure (from image 2, with one eye and spiky hair)",
+    "Blue net (from image 1)",
+    "Colorful balls (inside the blue net)",
+    "Blue net positioned prominently in the foreground",
+    "Two Minion figures positioned at distinct depths",
+    "Overall composition clearly conveying depth"
+  ]
+}

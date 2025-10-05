@@ -1,0 +1,29 @@
+{
+  "subtopic": "Receipts",
+  "prompt": "Edit image 1: Add a map section below the item list, before the notes. Use the style and placement of the map element from image 2 as a reference for the new map, showing the location of the address listed in image 1's header.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751006844981,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit image 1: Insert a map section directly below the itemized product list and above the 'NOTES' section. Referencing the visual style, aspect ratio, and seamless integration of the map element from image 2, this new map should accurately depict the location of '123 Innovation Blvd, Techville, CA, 54321', as specified in image 1's header.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Payment Receipt header",
+    "TechWave Solutions company name",
+    "Company address and contact information",
+    "Sold To recipient details",
+    "Payment Date section",
+    "Receipt Number section",
+    "Itemized product list table",
+    "Map section (depicting '123 Innovation Blvd, Techville, CA, 54321', styled like reference image 2's map, located below the product list)",
+    "Notes section",
+    "Financial summary section (Subtotal, Tax Rate, Tax Amount, Total Amount Due)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Pop art",
+  "prompt": "Replace the text in the message bubble of the first image with the text from the second image, and place the heart-shaped glasses from the third image on the eyes of the character in the first image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the text 'I'M OVER IT!' within the thought bubble of image 1 with the text 'OH, JEFF... I LOVE YOU, TOO... BUT...' from the speech bubble of image 2. Additionally, place the red heart-shaped glasses from image 3 onto the eyes of the woman depicted in image 1.",
+  "annotator": "paria",
+  "objects": [
+    "Pop art style woman",
+    "Thought bubble",
+    "'OH, JEFF... I LOVE YOU, TOO... BUT...' text within the thought bubble",
+    "Red heart-shaped glasses on the woman's eyes",
+    "Blue background with halftone dots",
+    "Blond hair",
+    "Red lips",
+    "Polka dot dress",
+    "'I'M OVER IT!' text (should not be present)"
+  ],
+  "human_annotation": true
+}

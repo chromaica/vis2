@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "T",
+  "subtopic": "Magazine",
+  "prompt": "Change the image of the cover to the second image, but keep the text and layout. Change the title to the logo from the third image.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit Image 1. Replace the Mark Zuckerberg portrait with the likeness and posture of Mark Zuckerberg from Image 2. Retain all other textual elements (e.g., 'ZUCK GROWS UP', headlines, body text) and the overall magazine cover layout of Image 1. Replace the 'Forbes' masthead at the top of Image 1 with the 'Forbes' logo from Image 3.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Mark Zuckerberg's portrait (likeness and posture from Image 2)",
+    "Forbes logo (from Image 3)",
+    "Magazine cover layout (black background)",
+    "\"ZUCK GROWS UP\" text",
+    "\"THE $93 TRILLION WEALTH TRANSFER\" headline",
+    "\"THE 50 MOST INFLUENTIAL CREATORS\" headline",
+    "\"Meta Master Mark Zuckerberg\" text",
+    "\"GETTING HIT IN THE FACE DOESN'T HURT MUCH.\" quote",
+    "Body text at the bottom of the cover",
+    "\"FREE 30-DAY DIGITAL MEMBERSHIP TRIAL\" graphic with QR code and barcode/price information"
+  ]
+}

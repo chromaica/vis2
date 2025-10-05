@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Enhance the graph with labels showcasing monthly user trends across operating systems, highlighting growth patterns and key insights from February to August 2019.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the stacked area chart. Add specific numerical data labels for the monthly user counts of Windows, macOS, and Other operating systems from February to August 2019, placing them directly on or adjacent to their respective areas for each month. Additionally, include concise textual annotations with arrows or pointers to highlight significant growth patterns, declines, or key insights related to the user trends for each operating system, positioning them clearly near the relevant data points on the graph.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Stacked area chart",
+    "X-axis with monthly labels (Feb - Aug) and year (2019)",
+    "Y-axis with numerical labels (0K, 10K, 20K) and \"Users\" label",
+    "Chart title \"Operating system\"",
+    "Legend showing Windows, macOS, and Other operating systems",
+    "Numerical data labels for Windows operating system",
+    "Numerical data labels for macOS operating system",
+    "Numerical data labels for Other operating system",
+    "Concise textual annotations",
+    "Arrows or pointers for annotations"
+  ]
+}

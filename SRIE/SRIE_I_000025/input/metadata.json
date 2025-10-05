@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "Transform the map to a vintage parchment style",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the digital blue world map, to transform its entire aesthetic into a vintage parchment style. Apply the textures, aged appearance, and warm brown color palette from image 2 directly to the map's landmasses and background, ensuring the geographic details remain clearly visible.",
+  "annotator": "Johnny",
+  "objects": [
+    "world map",
+    "landmasses",
+    "background (map's ocean/surrounding area)",
+    "vintage style",
+    "parchment texture",
+    "aged appearance",
+    "warm brown color palette",
+    "clearly visible geographic details",
+    "digital blue color palette (should not be present)",
+    "glowing light points (should not be present)"
+  ]
+}

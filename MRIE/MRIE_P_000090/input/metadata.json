@@ -1,0 +1,26 @@
+{
+  "subtopic": "Medical images",
+  "prompt": "Visualize image 1 as the detailed side profile from image 2 with the realistic skin texture. Change the colour of the skin to match image 3. Add injuries to the neck similar to those displayed in image 4.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg",
+    "4.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749229486038,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "P",
+  "prompt_refined": "Edit image 1 (a side profile X-ray of a head and neck) by transforming its skeletal representation into a photorealistic human side profile. Ensure the skin incorporates the detailed appearance and realistic texture from image 2. Apply the specific skin color and tone seen in image 3. Add injuries to the neck area that are visually consistent in type and appearance with the abrasions and redness displayed in image 4.",
+  "annotator": "boris",
+  "objects": [
+    "Photorealistic human side profile",
+    "Human skin (with detailed appearance and realistic texture)",
+    "Skin color and tone (as seen in image 3)",
+    "Hair (pulled back, as indicated by image 2)",
+    "Abrasions on the neck",
+    "Redness on the neck",
+    "X-ray skeletal representation (should not be present)"
+  ]
+}

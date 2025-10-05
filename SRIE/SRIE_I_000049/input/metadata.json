@@ -1,0 +1,20 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "Add the teacup in the bottom right corner of the UI mockup.",
+  "cond_images": [
+    "1.png",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 2, the mobile UI mockup composite, by inserting the white teacup and saucer from image 1 into its bottom right corner.",
+  "annotator": "Johnny",
+  "objects": [
+    "Mobile UI mockup composite",
+    "White teacup in the bottom right corner",
+    "White saucer in the bottom right corner"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

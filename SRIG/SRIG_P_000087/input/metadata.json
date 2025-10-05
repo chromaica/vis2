@@ -1,0 +1,24 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Medical images",
+  "prompt": "Given this ultrasound image of a kidney, produce a higher-resolution MRI-style view.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic, high-resolution MRI-style image of the kidney, precisely transforming the anatomical details and spatial orientation of the right kidney depicted in image 1 (the ultrasound scan). The generated image should exhibit the characteristic clarity, contrast, and anatomical detail of an MRI, rendering the kidney's internal and external structures with significantly higher resolution than the input ultrasound, while preserving its relative size and central placement within the view.",
+  "annotator": "samin",
+  "objects": [
+    "Right kidney",
+    "Renal cortex",
+    "Renal medulla",
+    "Renal pelvis and calyces",
+    "Perirenal fat/adipose tissue",
+    "Adjacent abdominal muscles",
+    "Abdominal wall",
+    "Ultrasound text overlays (should not be present)",
+    "Ultrasound measurement markers (should not be present)",
+    "Ultrasound scale bars or technical displays (should not be present)"
+  ]
+}

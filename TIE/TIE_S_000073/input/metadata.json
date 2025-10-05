@@ -1,0 +1,26 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Transform the toolbar icons to evoke a nostalgic, retro charm with classic vintage aesthetics.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Transform the toolbar icons located in the top ribbon of the Microsoft Excel screenshot to evoke a nostalgic, retro charm with classic vintage aesthetics. The redesign should draw inspiration from early personal computer interfaces of the 1980s or 1990s, incorporating visual cues such as simplified graphics, pixelated details, or a more skeuomorphic style.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Microsoft Excel application window",
+    "Top ribbon/toolbar",
+    "Toolbar icons with retro, pixelated, or skeuomorphic style",
+    "File menu/tab",
+    "Home tab",
+    "Insert tab",
+    "Page Layout tab",
+    "Formulas tab",
+    "Data tab",
+    "Excel spreadsheet grid"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

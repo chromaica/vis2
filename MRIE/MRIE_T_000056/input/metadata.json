@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Based on the template in the first image, change the two texts at the top to 'Capnip' and 'Purrfect Touch'. Add the third image above 'Catnip' and the fourth image above 'Purrfect Touch'. Finally, place the second image on the woman's face in the first image.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png",
+    "4.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. On the white paper held in the left hand, replace the text 'WORKDAY' with 'Capnip'. On the white paper held in the right hand, replace the text 'EVENING or WEEKEND' with 'Purrfect Touch'. Place image 3 (a catnip plant) directly above the 'Capnip' text on the left paper. Place image 4 (a happy gray cat being petted) directly above the 'Purrfect Touch' text on the right paper. Finally, superimpose image 2 (a white cat's face) onto the woman's face in image 1, replacing her facial features.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Woman's upper body and hands",
+    "White cat's face (replacing woman's face)",
+    "White paper in left hand",
+    "White paper in right hand",
+    "Text 'Capnip' on left paper",
+    "Text 'Purrfect Touch' on right paper",
+    "Catnip plant above 'Capnip' text on left paper",
+    "Happy gray cat being petted above 'Purrfect Touch' text on right paper",
+    "Text box: \"Corporate needs you to find the differences between this picture and this picture.\"",
+    "Text box: \"They're the same picture.\""
+  ],
+  "human_annotation": true
+}

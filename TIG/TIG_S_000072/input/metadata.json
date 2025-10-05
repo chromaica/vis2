@@ -1,0 +1,24 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": "Create a luxury real estate website with black and gold marble textures, 360-degree property tours, animated property cards, neighborhood heat maps, and elegant typography with shadow effects",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a screenshot of a luxury real estate website. The design heavily features black and gold marble textures throughout its backgrounds and prominent UI elements. The central display area presents an interactive 360-degree property tour interface with a panoramic view. Below this, a grid of animated property cards is arranged, each showcasing a high-end property with a preview image and key details, with subtle visual cues indicating animation. A dedicated module, possibly in a sidebar or lower section, prominently displays a colorful neighborhood heat map. All website typography is elegant, with subtle shadow effects, rendered in gold or white against the dark marble.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Luxury real estate website interface",
+    "Black and gold marble textures (on backgrounds and UI elements)",
+    "Central 360-degree property tour interface with panoramic view",
+    "Grid of animated property cards (below central display)",
+    "Property preview images on cards",
+    "Key property details text on cards",
+    "Colorful neighborhood heat map module (in sidebar or lower section)",
+    "Elegant gold typography",
+    "Elegant white typography",
+    "Typography with subtle shadow effects"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

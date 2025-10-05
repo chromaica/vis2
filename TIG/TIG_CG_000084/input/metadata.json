@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "3D renders",
+  "prompt": "A 3D render of a multilane urban highway, viewed from a high drone perspective, showing road markings, lane dividers, traffic, and cityscape in the background. Realistic materials for asphalt, concrete barriers, and dynamic lighting.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a high-angle drone view of a multilane urban highway. The scene should clearly display road markings, lane dividers, and traffic. A detailed cityscape is present in the background. Render this image in a realistic 3D style, featuring accurate material textures for asphalt and concrete barriers, under dynamic lighting conditions.",
+  "annotator": "maxku",
+  "objects": [
+    "multilane urban highway",
+    "road markings",
+    "lane dividers",
+    "traffic",
+    "detailed cityscape in the background",
+    "asphalt with accurate material textures",
+    "concrete barriers with accurate material textures"
+  ],
+  "human_annotation": true
+}

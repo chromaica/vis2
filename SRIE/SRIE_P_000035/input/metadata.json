@@ -1,0 +1,22 @@
+{
+  "task": "SRIE",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Change the foliage in the source image to reflect the vibrant autumn colors from the reference image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Transform the green-yellow foliage of the large tree in image 1 to exhibit the vibrant red, orange, and yellow autumn colors found on the leaves of the tree in reference image 2, maintaining a photorealistic style.",
+  "annotator": "nimajamali",
+  "objects": [
+    "large tree with vibrant red, orange, and yellow autumn foliage",
+    "blue sky",
+    "grass ground",
+    "person standing under the tree",
+    "path/road in the background",
+    "smaller trees in the background",
+    "tree shadow on the grass"
+  ]
+}

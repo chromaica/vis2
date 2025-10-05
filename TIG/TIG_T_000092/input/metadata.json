@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "A futuristic typographic statement: the single word 'ELEVATE'. Render this in a sharp, modern 3D sans-serif font with a polished chrome-silver finish and subtle internal blue and purple light effects. The text should appear to float slightly above an abstract, dark polygonal ground plane, set against a background of deep space filled with faint nebulae and distant stars, conveying ambition and upward movement.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate an image of a futuristic typographic statement: the single word 'ELEVATE'. This word is rendered in a sharp, modern 3D sans-serif font with a polished chrome-silver finish and subtle internal blue and purple light effects. The text floats slightly above an abstract, dark polygonal ground plane. The background is deep space, filled with faint nebulae and distant stars. The overall composition conveys ambition and upward movement.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "The word 'ELEVATE'",
+    "3D sans-serif font rendering",
+    "Polished chrome-silver finish",
+    "Subtle internal blue light effects",
+    "Subtle internal purple light effects",
+    "Abstract, dark polygonal ground plane",
+    "Deep space background",
+    "Faint nebulae",
+    "Distant stars"
+  ]
+}

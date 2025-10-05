@@ -1,0 +1,21 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Add a sleeve, and insert the green mermaid logo on the sleeve, and add subtle condensation droplets on the cup surface.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, which features a white coffee cup with a green Starbucks mermaid logo. Add a standard coffee sleeve around the central portion of the cup. Place the green mermaid logo, identical in design to the one already on the cup, onto the front-center of this new sleeve. Finally, introduce subtle condensation droplets onto the white surface of the cup itself, specifically on the areas not covered by the sleeve or the lid.",
+  "annotator": "matina",
+  "objects": [
+    "white coffee cup",
+    "white lid",
+    "standard coffee sleeve around the central portion of the cup",
+    "green Starbucks mermaid logo on the front-center of the sleeve",
+    "subtle condensation droplets on the white surface of the cup (not covered by sleeve or lid)",
+    "blurred background",
+    "blurred surface under the cup"
+  ]
+}

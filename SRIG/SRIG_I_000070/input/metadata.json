@@ -1,0 +1,21 @@
+{
+  "subtopic": "Icons and symbols",
+  "prompt": "Using the food apple 3D icon, design fruit icons for banana, grapes, orange, and watermelon matching the style.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "https://static.vecteezy.com/system/resources/previews/035/855/980/non_2x/3d-red-apple-fruit-in-hand-isolated-on-white-render-apple-fresh-ripe-with-leaf-icon-fresh-fruit-food-symbol-element-healthy-food-concept-realistic-illustration-vector.jpg",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate an image featuring four distinct 3D fruit icons: a banana, a bunch of grapes, an orange, and a watermelon. Each icon should precisely replicate the illustrative, smooth, and glossy 3D rendering style, vibrant color palette, soft lighting, and overall iconic aesthetic observed in the apple icon shown in image 1. The new fruit icons should be presented individually, maintaining a clean and clear appearance suitable for information graphics.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "3D banana icon",
+    "3D bunch of grapes icon",
+    "3D orange icon",
+    "3D watermelon icon",
+    "Clean and clear background (e.g., blue gradient)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

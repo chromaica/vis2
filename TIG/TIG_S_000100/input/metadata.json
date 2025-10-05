@@ -1,0 +1,23 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "An elegant receipt from \"Kruger Safari Lodge\" in South Africa, printed on handmade paper with wildlife watermarks, listing game drive and traditional braai in rand, with acacia tree silhouettes as borders",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate an elegant, vintage-style receipt for \"Kruger Safari Lodge\" in South Africa. The receipt is on textured handmade paper with subtle wildlife watermarks. It features an itemized list for \"Game Drive\" and \"Traditional Braai,\" with prices clearly stated in South African Rand (ZAR). The entire receipt is framed by a decorative border composed of acacia tree silhouettes.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Vintage-style receipt",
+    "Textured handmade paper",
+    "Subtle wildlife watermarks",
+    "\"Kruger Safari Lodge\" name",
+    "Itemized list",
+    "\"Game Drive\" item",
+    "\"Traditional Braai\" item",
+    "Prices in South African Rand (ZAR)",
+    "Decorative border",
+    "Acacia tree silhouettes"
+  ],
+  "human_annotation": true
+}

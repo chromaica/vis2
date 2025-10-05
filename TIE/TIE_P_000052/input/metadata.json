@@ -1,0 +1,17 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "remove the white blood cell from the image",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "the fuzzy ball one is white",
+  "prompt_refined": "Edit image 1 by removing the large, irregularly textured white blood cell located near the center of the image. Seamlessly fill the area it occupied, maintaining the appearance of surrounding red blood cells and the granular background texture.",
+  "annotator": "theblackcat",
+  "objects": [
+    "red blood cells",
+    "granular background texture",
+    "large, irregularly textured white blood cell (should not be present)"
+  ]
+}

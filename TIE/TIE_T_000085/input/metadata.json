@@ -1,0 +1,19 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Change the car into a rack-mounted server, label the roof \u2018High Availability\u2019, and make the salesman wear a cap.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the car with a rack-mounted server. Add the label 'High Availability' to the top of the server. Have the salesman (the man in the suit) wear a baseball cap.",
+  "annotator": "matina",
+  "objects": [
+    "rack-mounted server",
+    "'High Availability' label on top of the server",
+    "salesman wearing a baseball cap",
+    "customer (man in light shirt)",
+    "car (should not be present)"
+  ]
+}

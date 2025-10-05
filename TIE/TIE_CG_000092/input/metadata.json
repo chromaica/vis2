@@ -1,0 +1,24 @@
+{
+  "subtopic": "Physics Simulation",
+  "prompt": "Apply a strong motion blur effect to the particles to enhance the sense of movement and fluidity.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751801663734,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1 to apply a strong motion blur. Focus this blur effect on the dynamic splashing body of red, teal, and purple particles and all the individual dispersed droplets throughout the composition. The blur should be prominent enough to significantly enhance the visual sense of rapid movement and overall fluidity of the particle simulation.",
+  "annotator": "edisy",
+  "objects": [
+    "dynamic splashing body of particles",
+    "red particles",
+    "teal particles",
+    "purple particles",
+    "individual dispersed droplets",
+    "light blue background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

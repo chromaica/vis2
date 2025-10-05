@@ -1,0 +1,27 @@
+{
+  "subtopic": "VFX and Particles",
+  "prompt": "Edit image 1: Place the Minion character into the clean interior environment from image 2. Add dynamic VFX particles around the net, simulating a CG rendering process like that implied by image 3, applying image 2's bright lighting to the scene.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748454576479,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1: Place the Minion character from image 1, including its net and colorful balls, standing on the wooden floor in the center of the clean, spacious interior environment from image 2. Apply the bright, natural lighting conditions of image 2 to illuminate the entire scene. Around the Minion's net, add dynamic visual effects (VFX) particles that simulate a computer graphics (CG) rendering process, drawing inspiration from the digital elements and context displayed on the monitor in image 3, such as glowing polygons, wireframe structures, or shimmering data fragments, as if the Minion or its elements are being digitally rendered into existence.",
+  "annotator": "winston",
+  "objects": [
+    "Minion character",
+    "Net",
+    "Colorful balls",
+    "Wooden floor",
+    "Clean, spacious interior environment",
+    "Dynamic VFX particles",
+    "Glowing polygons",
+    "Wireframe structures",
+    "Shimmering data fragments"
+  ]
+}

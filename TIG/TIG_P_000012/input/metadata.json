@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "A detailed view of microscopic pollen grains, showing their diverse shapes and textured surfaces.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic scanning electron microscope (SEM) image of various microscopic pollen grains, showcasing their diverse and intricate shapes, and highly textured surfaces.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Microscopic pollen grains (multiple)",
+    "Pollen grains with diverse overall shapes",
+    "Pollen grains with intricate surface patterns and forms",
+    "Pollen grains with highly textured surfaces",
+    "High contrast",
+    "Grayscale or monochromatic color scheme",
+    "Sharp focus on surface details",
+    "Dark, plain background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

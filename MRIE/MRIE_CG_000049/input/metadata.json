@@ -1,0 +1,27 @@
+{
+  "subtopic": "Stylized Rendering or 3D renders",
+  "prompt": "Edit image 1: Replace the blackbird object with a pair of blue tits positioned like those in image 2. Enhance the eyes of these birds with the intense orange glow from image 3's gorilla eyes, and deepen the background contrast.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748455745196,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit the provided image (image 1). Replace the blackbird perched on the central branch with a pair of blue tits. Position these two blue tits on the branch, mirroring the specific arrangement and interactive posture of the birds depicted in image 2. Infuse the eyes of these blue tits with the intense orange glow and distinct coloration found in the gorilla's eyes in image 3. Finally, enhance the overall contrast of the background in image 1.",
+  "annotator": "winston",
+  "objects": [
+    "Blackbird (should not be present)",
+    "Central branch with leaves and white flowers",
+    "Pair of blue tits",
+    "Two blue tits in an interactive posture (as in image 2)",
+    "Intense orange glowing eyes on the blue tits (like gorilla eyes)",
+    "Blurred green and pink background (from image 1)",
+    "Enhanced contrast in the background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

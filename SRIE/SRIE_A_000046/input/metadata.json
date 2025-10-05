@@ -1,0 +1,26 @@
+{
+  "subtopic": "Traditional art",
+  "prompt": "Add a horizontal image frame like image 2 into image 1 drawing",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748497499238,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1. Add a thin, black, horizontal frame around the entirety of the artwork, drawing inspiration for its minimalist style from the frame in image 2.",
+  "annotator": "kellycyy",
+  "objects": [
+    "Japanese artwork",
+    "Golden background of the artwork",
+    "Painted mountains",
+    "Painted flowers",
+    "Painted birds",
+    "Thin black frame",
+    "Frame surrounding the artwork"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

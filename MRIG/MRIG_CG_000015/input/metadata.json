@@ -1,0 +1,27 @@
+{
+  "subtopic": "CAD models",
+  "prompt": "Generate a CAD model render depicting a simple figure wearing the green tunic from image 1 and the blue fedora hat from image 2. Clean technical presentation.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748421796500,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a CAD model render of a simple figure wearing the green tunic from image 1, including its blue belt and light pink buckle. The figure should also wear the blue fedora hat from image 2, complete with its black hatband. Maintain a clean, technical presentation.",
+  "annotator": "winston",
+  "objects": [
+    "CAD model render",
+    "Simple figure",
+    "Green tunic",
+    "Blue belt",
+    "Light pink buckle",
+    "Blue fedora hat",
+    "Black hatband",
+    "Clean, technical presentation"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

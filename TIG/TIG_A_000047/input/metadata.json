@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Pixel Art",
+  "prompt": "An isometric pixel art scene depicting a medieval village, complete with cobblestone pathways and villagers in traditional attire.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "An isometric pixel art scene depicting a medieval village under bright daylight. Winding cobblestone pathways extend from the foreground, leading towards a modest market square in the midground. Traditional timber-framed houses with thatched roofs are neatly arranged along both sides of the pathways. Several villagers in authentic traditional attire are strolling along the paths and gathered around the market square, which features a central well.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Isometric pixel art scene",
+    "Medieval village",
+    "Bright daylight",
+    "Winding cobblestone pathways (extending from the foreground)",
+    "Modest market square (in the midground)",
+    "Traditional timber-framed houses with thatched roofs (arranged along pathways)",
+    "Villagers in authentic traditional attire",
+    "Central well (in the market square)"
+  ],
+  "human_annotation": true
+}

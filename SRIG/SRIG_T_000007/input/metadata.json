@@ -1,0 +1,23 @@
+{
+  "task": "SRIG",
+  "topic": "T",
+  "subtopic": "Website",
+  "prompt": "Generate a website that populates like the template found in the skeleton design for a social network website",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a social network website interface. Use the wireframe layout from image 1 as a template. Replace the generic placeholder elements (circles for avatars, horizontal lines for text) with specific UI components: profile pictures, usernames, timestamps, detailed post text, and interaction buttons (e.g., like, comment, share). Maintain the overall three-column structure depicted in image 1: a user profile panel on the left, a main feed composed of multiple distinct posts in the center, and a narrow activity or suggestion sidebar on the right.",
+  "annotator": "theblackcat",
+  "objects": [
+    "User profile panel on the left",
+    "Main feed with multiple distinct posts in the center",
+    "Narrow activity or suggestion sidebar on the right",
+    "Profile pictures",
+    "Usernames",
+    "Timestamps",
+    "Detailed post text",
+    "Interaction buttons (e.g., like, comment, share)",
+    "Generic placeholder elements (circles for avatars, horizontal lines for text) (should not be present)"
+  ]
+}

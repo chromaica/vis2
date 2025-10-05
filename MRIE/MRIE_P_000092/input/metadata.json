@@ -1,0 +1,25 @@
+{
+  "subtopic": "Microscopic imagery",
+  "prompt": "Edit image 1: make the content fit into the shape outline in image 2. Make the cellular structures within image 1 glow with the vibrant orange light and spherical appearance depicted in image 3.",
+  "cond_images": [
+    "1.jpeg",
+    "2.png",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749306898094,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "P",
+  "prompt_refined": "Edit image 1, a microscopic view of plant cells, by cropping and re-scaling its content to precisely fit and fill the area defined by the black trapezoidal outline in image 2. Furthermore, modify the small, green, spherical structures (chloroplasts) within the cells of image 1, making them glow with the vibrant orange light and exhibit the spherical, slightly irregular appearance seen in image 3.",
+  "annotator": "boris",
+  "objects": [
+    "Microscopic plant cells",
+    "Plant cell walls",
+    "Cytoplasm",
+    "Glowing orange, spherical, slightly irregular structures",
+    "Black trapezoidal outline",
+    "Green background"
+  ],
+  "human_annotation": true
+}

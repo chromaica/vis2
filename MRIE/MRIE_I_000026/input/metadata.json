@@ -1,0 +1,33 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "Modify image 1 by replacing the pictures in the central UI with the nine images (images 2 to 10).",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png",
+    "4.png",
+    "5.png",
+    "6.png",
+    "7.png",
+    "8.png",
+    "9.png",
+    "10.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the mobile phone UI, by replacing the existing 2x2 grid of red and dark blue user icon squares located below the 'Popular' heading in the central section. Reshape this area into a 3x3 grid and populate it entirely with the content from images 2 through 10.",
+  "annotator": "maxku",
+  "objects": [
+    "Mobile phone UI frame",
+    "\"Enter your heading here\" text",
+    "Search bar",
+    "\"Cancel\" text",
+    "\"Popular\" heading",
+    "Text Input field",
+    "Button",
+    "Bottom circular button",
+    "2x2 grid of red and dark blue user icon squares (should not be present)",
+    "3x3 grid populated with content from images 2 through 10"
+  ]
+}

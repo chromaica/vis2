@@ -1,0 +1,24 @@
+{
+  "subtopic": "VFX and Particles",
+  "prompt": "Edit image 1 with dynamic VFX particle streams from the camera. Represent 'Impossible' and 'Possible' from image 2 as separate streams. The 'Possible' stream forms the eagle from image 3 with feather particles, set against a sky background.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748456601541,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1 (the digital camera) by introducing dynamic, vibrant VFX particle streams emanating forward from its lens. Two distinct particle streams should emerge:\n\n1.  **The 'Impossible' Stream**: This stream should conceptually represent the word \"IMPOSSIBLE\" from the upper text sign in image 2. Its visual characteristics (e.g., color, density, motion) should be distinct from the 'Possible' stream.\n2.  **The 'Possible' Stream**: This stream should conceptually represent the word \"POSSIBLE\" from the lower text sign in image 2. As this stream extends outward from the camera, its particles should coalesce and dynamically form the shape of the bald eagle shown in image 3. This formed eagle should be composed entirely of intricate, individual feather-like particles, mirroring the texture and details of the eagle in image 3.\n\nThe composite scene, where the particle streams and the formed eagle are prominent, should be set against a clear blue sky background with scattered white clouds, similar to the sky visible in image 2.",
+  "annotator": "winston",
+  "objects": [
+    "digital camera",
+    "dynamic, vibrant VFX particle stream representing \"IMPOSSIBLE\" emanating from the camera lens",
+    "dynamic, vibrant VFX particle stream representing \"POSSIBLE\" emanating from the camera lens",
+    "bald eagle formed from coalescing particle stream, composed of intricate feather-like particles",
+    "clear blue sky background",
+    "scattered white clouds"
+  ]
+}

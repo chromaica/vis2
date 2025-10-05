@@ -1,0 +1,24 @@
+{
+  "subtopic": "UI mockups",
+  "prompt": "Create an infographic that visualizes how a neural network works, using the layout and components from the provided UI design system. The buttons, cards, and input fields are repurposed to represent neurons, layers, and data inputs.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://view.subpage.app/app/company/C532b8873cc5442e2b1f2265b77a7d7dc/domain/MTiT0jFlGh/page/Ma9aQb2DGh/article/M7329d3de83302b2bafab52cdee13a2c21695278085279/file/M8a3930b52ba074f1e7719cc246a93c881695287527658.webp",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate an infographic that visually explains the working principles of a neural network. The infographic must be composed using the UI design system components from image 1, re-purposed as follows:\n\n*   Sequential layers of the neural network (input, hidden, output) should be represented by 'Card' elements, such as the rounded rectangles containing lists or checkboxes found in image 1.\n*   Individual neurons within these layers should be visualized using 'Button' elements, including standard buttons, grouped buttons (e.g., 'Button 1-4'), or segmented buttons from image 1.\n*   Initial data inputs to the network should be depicted by 'Input Field' elements (like the 'Select' dropdown in image 1), positioned on the left side of the infographic.\n\nShow clear connections and data flow between these re-purposed neurons and layers to illustrate the processing path, adhering to the clean and structured layout style demonstrated in image 1.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "'Select' dropdown input field, positioned on the left side",
+    "A rounded rectangle 'Card' element, visually similar to the 'Checkbox' list or 'Radio' list from image 1, representing the Input Layer",
+    "A rounded rectangle 'Card' element, visually similar to the 'Item 1-4' list from image 1, representing a Hidden Layer",
+    "A rounded rectangle 'Card' element, visually similar to the 'Item 1-4' list from image 1, representing the Output Layer",
+    "Multiple standard 'Button' elements or 'Button 1-4' grouped button elements from image 1, representing individual neurons within each layer",
+    "Lines or arrows connecting the 'Select' input field to the neurons in the Input Layer",
+    "Lines or arrows connecting neurons from the Input Layer to neurons in the Hidden Layer",
+    "Lines or arrows connecting neurons from the Hidden Layer to neurons in the Output Layer",
+    "Text labels indicating \"Input Layer\", \"Hidden Layer\", and \"Output Layer\"",
+    "Text labels for data inputs and outputs, associated with the 'Select' field and Output Layer"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "a visualization of stellar density in a galaxy core, with star-like points rendered according to the reference pattern, set against a dark cosmic backdrop.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic image depicting a galaxy core. The stellar density in this core should be visualized by numerous star-like points, arranged to precisely form the distinct circular pattern presented in image 1. This arrangement should create a prominent, concentrated ring-like structure of stars. The entire core should be set against a vast, dark cosmic backdrop.",
+  "annotator": "samin",
+  "objects": [
+    "Galaxy core",
+    "Numerous star-like points",
+    "Prominent, concentrated circular ring-like structure of stars",
+    "Vast, dark cosmic backdrop"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

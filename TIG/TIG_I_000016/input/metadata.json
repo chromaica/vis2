@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "create a UI of a map which in a web app offering a user-friendly, privacy-focused, and feature-rich navigation and mapping platform. This app will differentiate itself by emphasizing offline capabilities, real-time updates, and personalized route planning while addressing common criticisms of Google Maps, such as privacy concerns and data dependency.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a modern, clean web application user interface (UI) for a comprehensive map and navigation platform. The design should emphasize user-friendliness, privacy, and feature richness.\n\nThe central area prominently displays an interactive map with detailed road networks, points of interest, and real-time traffic overlays indicated by color-coded congestion.\n\nOn the left, a distinct sidebar features:\n1.  A clear search bar for destination input at its top.\n2.  Intuitive options for personalized route planning, including input fields for origin and destination, selectable transport modes (car, public transit, walk, bike), and advanced preferences (e.g., 'avoid tolls', 'fastest route').\n3.  An 'Offline Maps' section or button, clearly indicating robust offline capabilities.\n4.  Visual indicators for real-time updates, such as small icons for road incidents or dynamic re-routing suggestions integrated into the map or route display.\n\nThe UI should visually communicate a strong privacy focus, devoid of intrusive advertisements and featuring a clean, minimal display of user-related data. A subtle 'Privacy Settings' or 'Data Control' icon should be accessible, ideally in the top-right corner of the overall interface or within the sidebar. Standard map controls (zoom in/out, current location, compass) should be clearly visible. The overall aesthetic should convey a reliable, user-centric, and data-independent mapping solution.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Web application user interface (UI)",
+    "Interactive map in central area with detailed road networks, points of interest, and color-coded traffic overlays",
+    "Sidebar on the left",
+    "Search bar at top of sidebar",
+    "Route planning options in sidebar (including transport mode selectors for car, public transit, walk, bike)",
+    "Offline Maps button in sidebar",
+    "Visual indicators for real-time updates (e.g., road incidents icons)",
+    "Privacy Settings / Data Control icon (e.g., in top-right corner or sidebar)",
+    "Standard map controls (zoom in/out, current location, compass)",
+    "Intrusive advertisements (should not be present)"
+  ]
+}

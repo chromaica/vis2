@@ -1,0 +1,27 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Create a two-panel meme. Use the cartoon-style text from image 2 and apply it over image 1. Caption: 'Work hard only to forget your personal life.' Keep the font style bright and flat like the cartoon, but apply it over the real office scene.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a new image structured as a two-panel meme.\nThe top panel should contain a full rendition of image 1 (the office meeting scene).\nThe bottom panel should also contain a full rendition of image 1.\nOverlay the text 'Work hard only to forget your personal life.' onto the bottom panel.\nThe overlaid text's font style, bright and flat color, and cartoonish aesthetic must precisely match the text visible in image 2 ('Dream big only to escape your miserable existence').\nPosition the text prominently within the bottom panel, ensuring readability and avoiding obscuring key subjects in the office scene.",
+  "annotator": "parnian",
+  "objects": [
+    "Top panel displaying the office meeting scene",
+    "Bottom panel displaying the office meeting scene",
+    "People in an office meeting",
+    "Office meeting table",
+    "Laptop",
+    "Coffee cups",
+    "Whiteboard",
+    "Windows in the office background",
+    "Text overlay: \"Work hard only to forget your personal life.\" on the bottom panel",
+    "Overlaid text styled with a bright, flat color and cartoonish font"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

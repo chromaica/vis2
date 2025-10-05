@@ -1,0 +1,22 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Image Transformation",
+  "prompt": "Add random jitter noise to low-gradient areas to simulate texture, while keeping high-gradient edges clean.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 (the flower) by adding random jitter noise. Apply this noise exclusively to the low-gradient areas, which correspond to the darker regions identified in reference image 2. Ensure that the high-gradient edges, represented by the brighter lines in image 2, remain sharp and clean. The purpose of this edit is to simulate a subtle texture within the smooth areas of the image.",
+  "annotator": "nimajamali",
+  "objects": [
+    "A flower",
+    "Purple flower petals",
+    "Yellow flower center",
+    "Subtle texture on the smoother areas of the petals",
+    "Sharp edges on the flower petals",
+    "Sharp details on the flower center"
+  ],
+  "human_annotation": true
+}

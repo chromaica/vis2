@@ -1,0 +1,21 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Transform the interface layout to mimic a transparent augmented reality display.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Transform the Photoshop user interface elements into a transparent augmented reality display. Make all visible UI components, including the top menu bar, the left-side toolbar, the top options bar, and the right-side panels (Color, Swatches, Layers), appear semi-transparent and give them a futuristic, holographic glow. Ensure the main image content of the dog remains completely unchanged.",
+  "annotator": "cwhsu",
+  "objects": [
+    "main image content of the dog",
+    "top Photoshop menu bar, semi-transparent with holographic glow",
+    "left-side Photoshop toolbar, semi-transparent with holographic glow",
+    "top Photoshop options bar, semi-transparent with holographic glow",
+    "right-side Photoshop Color panel, semi-transparent with holographic glow",
+    "right-side Photoshop Swatches panel, semi-transparent with holographic glow",
+    "right-side Photoshop Layers panel, semi-transparent with holographic glow"
+  ]
+}

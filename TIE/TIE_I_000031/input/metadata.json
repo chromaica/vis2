@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Transform into a graph with a handwritten style.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 to re-render the existing mind map as a graph in a handwritten style. All elements, including the circular nodes, connecting lines, and text labels, should appear as if drawn and written by hand. Specifically, render the circles with slightly imperfect, hand-drawn shapes, the lines as irregular and sketchy, and all text with a consistent handwritten typeface. Maintain the original layout, node positions, and color scheme.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Hand-drawn blue \"Sports\" node",
+    "Hand-drawn yellow \"Individual Sports\" node",
+    "Hand-drawn green \"Water Sports\" node",
+    "Hand-drawn green \"Contact Sports\" node",
+    "Hand-drawn yellow \"Team Sports\" node",
+    "Hand-drawn grey circular nodes (e.g., \"Cycling\", \"Golf\", \"Tennis\", \"Diving\", \"Basketball\", \"Hockey\", \"Rugby\", \"Soccer\")",
+    "Hand-drawn light orange circular nodes (\"Track\", \"Baseball\")",
+    "Hand-drawn light green circular nodes (\"Football\", \"Swimming\", \"Water Aerobics\", \"Water Polo\")",
+    "Irregular and sketchy connecting lines",
+    "All text labels with a consistent handwritten typeface"
+  ]
+}

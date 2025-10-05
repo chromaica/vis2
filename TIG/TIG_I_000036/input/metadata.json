@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "kketch a retro 8-bit-style flowchart of an LLM agent loop (Prompt->Planning->Tool-Use->Reflection->Answer). Use pixelated fonts, chunky arrows, and a CRT-monitor vignette effect",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a retro 8-bit pixel art style flowchart illustrating the LLM agent loop. The flowchart should sequentially depict the following steps: 'Prompt', 'Planning', 'Tool-Use', 'Reflection', and 'Answer'. Use blocky, pixelated fonts for all text elements. Connect the flowchart nodes with thick, chunky pixel arrows. The entire image should include a distinct CRT monitor screen effect, featuring a subtle screen curve, visible scanlines, and a dark, rounded vignette around the edges.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Flowchart diagram",
+    "'Prompt' node",
+    "'Planning' node",
+    "'Tool-Use' node",
+    "'Reflection' node",
+    "'Answer' node",
+    "Blocky, pixelated text",
+    "Thick, chunky pixel arrows",
+    "CRT monitor screen effect"
+  ]
+}

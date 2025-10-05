@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "Place the old-fashioned train from the reference image onto the modern railway tracks in the source image, ensuring that the train aligns with the perspective and scale of the environment.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 by integrating the old-fashioned train from image 2 onto the railway tracks. Place the train on the main tracks extending into the mid-ground, ensuring its perspective and scale are accurately aligned with the railway environment in image 1.",
+  "annotator": "nimajamali",
+  "objects": [
+    "old-fashioned train on the main tracks",
+    "railway tracks",
+    "train station platform",
+    "train station building",
+    "overhead canopy/roof structure",
+    "support pillars",
+    "distant bridge/overpass",
+    "sky",
+    "smoke/steam from the train",
+    "station signage"
+  ]
+}

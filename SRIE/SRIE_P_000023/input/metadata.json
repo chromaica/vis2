@@ -1,0 +1,20 @@
+{
+  "task": "SRIE",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "Add Saturn-like rings around Earth using the structure of the reference rings, but recolor the rings to match Earth's palette.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 (Earth) by adding a system of photorealistic rings around it. The structure, width, and inclination of these rings should be guided by the prominent rings visible in image 2 (Saturn). However, recolor the newly added rings to predominantly match the natural color palette of image 1, incorporating the blues of Earth's oceans, the whites of its clouds, and the browns/tans of its continents.",
+  "annotator": "nimajamali",
+  "objects": [
+    "Photorealistic Earth",
+    "Photorealistic rings around Earth",
+    "Rings with structure, width, and inclination similar to Saturn's rings",
+    "Rings predominantly colored with blues, whites, and browns/tans",
+    "Deep space background"
+  ]
+}

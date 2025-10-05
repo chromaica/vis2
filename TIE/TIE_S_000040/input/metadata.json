@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Integrate a real-time weather overlay on the map, showing sun, clouds, and precipitation along the route.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Integrate a real-time weather overlay onto the map display within image 1, specifically along the white indicated route from Jersey City to Brooklyn. The overlay should visually depict sun, clouds, and precipitation as appropriate along the journey, blending seamlessly with the existing map interface.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Car display interface",
+    "Map display",
+    "White indicated route from Jersey City to Brooklyn",
+    "Car outline display",
+    "Music player interface",
+    "Control buttons interface",
+    "Real-time weather overlay along the route",
+    "Sun symbols on the weather overlay",
+    "Cloud symbols on the weather overlay",
+    "Precipitation symbols on the weather overlay"
+  ]
+}

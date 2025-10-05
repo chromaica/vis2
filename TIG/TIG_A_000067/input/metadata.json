@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "A collage of eyes from various animal species, overlapped in circles, creating a mysterious and captivating tableau on a shadowy forest green background.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate an artwork depicting a collage of diverse animal eyes (e.g., feline, avian, reptilian, insectoid). Each eye is distinctly enclosed within a circular frame, and these circular frames are layered and overlapped to create a mysterious and captivating visual tableau. The entire composition is set against a deep, shadowy forest green background.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Diverse animal eyes",
+    "Feline eye",
+    "Avian eye",
+    "Reptilian eye",
+    "Insectoid eye",
+    "Circular frames",
+    "Overlapped circular frames",
+    "Deep, shadowy forest green background"
+  ]
+}

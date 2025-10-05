@@ -1,0 +1,21 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Traditional art",
+  "prompt": "Create a traditional woodcut print showing the dynamic horse silhouette from image 1, with the flying bird silhouettes from image 2 surrounding it, rendered in a classic black and white woodcut style.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a traditional black and white woodcut print featuring the dynamic, rearing horse silhouette from image 1 as the central element. Around it, incorporate the flying bird silhouettes from image 2, depicted in various positions as if in flight. The image should exhibit the bold lines and high contrast typical of classic woodcut art.",
+  "annotator": "samin",
+  "objects": [
+    "traditional woodcut print style",
+    "black and white color palette",
+    "high contrast",
+    "bold lines",
+    "dynamic, rearing horse silhouette",
+    "flying bird silhouettes"
+  ]
+}

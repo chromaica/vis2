@@ -1,0 +1,27 @@
+{
+  "subtopic": "Receipts",
+  "prompt": "Edit image 1: Redesign the top section to display 'Payment Successful' with the amount and date. Incorporate the green checkmark icon and clean design style from Image 2's success status section.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "receipt screenshot",
+  "searchQueryGeneratedTimestamp": 1750758150213,
+  "promptGeneratedTimestamp": 1750758177580,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit image 1. Redesign the entire top section, currently displaying 'Credit Transfer' and transaction details, to reflect a 'Payment Successful' status. Within this redesigned section, clearly present the amount 'N 6,400.00' and the date '24th Apr 2018' from image 1. Incorporate the distinctive green checkmark icon from the 'Payment Successful' status section of image 2, positioning it immediately adjacent to the displayed amount. Ensure the new top section adopts the clean, modern design style of image 2's 'Payment Successful' block, including its centered alignment and overall layout.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Mobile phone status bar",
+    "Orange navigation bar with \"Back\" button and \"Transaction Details\" title",
+    "Redesigned top section block with clean, modern style",
+    "\"Payment Successful\" status text (centered)",
+    "Amount \"N 6,400.00\"",
+    "Green checkmark icon (immediately adjacent to the amount)",
+    "Date \"24th Apr 2018\"",
+    "Remaining transaction details section (e.g., TRANSACTION TYPE, CHANNEL, REMARK)"
+  ]
+}

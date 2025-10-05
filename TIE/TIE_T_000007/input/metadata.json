@@ -1,0 +1,26 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "Have each character appear sequentially in dot-dash Morse-code.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. For each character in the existing text 'The ARCHER' and '601 MEETING ST', visually represent its corresponding dot-dash Morse code sequence. Place the Morse code for each character directly beneath it, aligning with the character's horizontal position. The Morse code symbols should be distinct and legible, appearing in sequence from left to right, following the order of the original text.",
+  "annotator": "matina",
+  "objects": [
+    "dark teal background",
+    "orange text \"The ARCHER\"",
+    "orange text \"601 MEETING ST\"",
+    "Morse code sequence for 'T' (of 'The') beneath it",
+    "Morse code sequence for 'h' (of 'The') beneath it",
+    "Morse code sequence for 'e' (of 'The') beneath it",
+    "Morse code sequence for 'A' (of 'ARCHER') beneath it",
+    "Morse code sequence for 'R' (of 'ARCHER') beneath it",
+    "Morse code sequence for 'C' (of 'ARCHER') beneath it",
+    "Morse code sequence for 'H' (of 'ARCHER') beneath it"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

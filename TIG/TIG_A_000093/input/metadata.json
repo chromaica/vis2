@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Stylized art",
+  "prompt": "An abstract cityscape, buildings morph into musical instruments under the twilight, with a whimsical moon playing a melody on a grand piano.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "An abstract cityscape where the architectural forms seamlessly transform into classical musical instruments like violins, cellos, and trumpets. The scene is bathed in the atmospheric light of twilight, with the sky transitioning from deep blues to soft oranges. In the foreground, a whimsical crescent moon is prominently positioned, seemingly playing a melody on the keys of a majestic grand piano.",
+  "annotator": "cwhsu",
+  "objects": [
+    "abstract cityscape",
+    "architectural forms transforming into violins",
+    "architectural forms transforming into cellos",
+    "architectural forms transforming into trumpets",
+    "twilight atmospheric light",
+    "sky transitioning from deep blues to soft oranges",
+    "whimsical crescent moon in the foreground",
+    "majestic grand piano in the foreground",
+    "grand piano keys"
+  ]
+}

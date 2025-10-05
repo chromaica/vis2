@@ -1,0 +1,22 @@
+{
+  "subtopic": "Facial estimation and analysis",
+  "prompt": "Visualize facial analysis overlays, like a wireframe mesh or keypoint tracking, applied to a face similar to the reference image, demonstrating computer graphics facial estimation.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://img.freepik.com/free-photo/serious-young-african-man-standing-isolated_171337-9633.jpg?semt=ais_hybrid&w=740",
+  "promptGeneratedTimestamp": 1748684508276,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate an image of a person's face, closely resembling the appearance, expression, and frontal pose of the face in image 1. Overlay this face with computer graphics facial analysis elements, specifically a detailed, semi-transparent wireframe mesh precisely following the facial contours and distinct keypoint tracking markers (e.g., small illuminated points) accurately positioned on key facial landmarks like the eyes, nose, mouth, and jawline. The image should visually demonstrate a computer graphics facial estimation or 3D face reconstruction process.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Person's face (resembling the appearance, expression, and frontal pose of the face in image 1)",
+    "Semi-transparent wireframe mesh (precisely following facial contours)",
+    "Small illuminated keypoint tracking markers on eyes",
+    "Small illuminated keypoint tracking markers on nose",
+    "Small illuminated keypoint tracking markers on mouth",
+    "Small illuminated keypoint tracking markers on jawline"
+  ]
+}

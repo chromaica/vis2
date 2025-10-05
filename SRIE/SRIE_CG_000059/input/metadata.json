@@ -1,0 +1,21 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Image Transformation",
+  "prompt": "Crop around the person and insert it into the group, scaling to match height.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 by inserting the man from image 2 into the group of men on the far right side. Scale him to match the height of the other men in image 1, ensuring consistent lighting and overall photographic style.",
+  "annotator": "nimajamali",
+  "objects": [
+    "Six men in tuxedos from the original image",
+    "Man from the reference image 2, in a black tuxedo, inserted into the group on the far right side",
+    "Building with large arched window",
+    "Dark doors",
+    "Green foliage on the building",
+    "Paved outdoor ground"
+  ]
+}

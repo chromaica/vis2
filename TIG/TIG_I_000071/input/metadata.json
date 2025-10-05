@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "Music streaming icon using only perfect circles",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a minimalist icon for a music streaming service. The entire visual design of the icon must be composed exclusively of perfect geometric circles of varying sizes and arrangements. These circles should be strategically positioned to form a recognizable symbol associated with music or audio, such as an abstract representation of sound waves or a play/pause motif. The icon should have a clean, modern aesthetic and be displayed against a solid, contrasting background.",
+  "annotator": "theblackcat",
+  "objects": [
+    "minimalist icon",
+    "perfect geometric circles (multiple, varying sizes)",
+    "arrangement of circles forming a symbol",
+    "abstract representation of sound waves (formed by circles)",
+    "play/pause motif (formed by circles)",
+    "solid background",
+    "contrasting background"
+  ],
+  "human_annotation": true
+}

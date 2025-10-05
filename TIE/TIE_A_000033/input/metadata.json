@@ -1,0 +1,22 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Paintings",
+  "prompt": "Add a shark below the little boat. Make the shark fade-in as if the water is deep. Create a horrific atmosphere. Maintain details to the waves and texture of the painting.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Introduce a shark submerged directly below the boat, appearing to fade into the deep water. Ensure the addition creates a horrific atmosphere for the overall scene while perfectly matching the watercolor painting's blue monochrome style, detailed water texture, and existing wave patterns.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Boat",
+    "Person in boat",
+    "Water",
+    "Mountains",
+    "Sky",
+    "Shark submerged directly below the boat"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

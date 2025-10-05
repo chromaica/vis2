@@ -1,0 +1,26 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Medical images",
+  "prompt": "remove the nail from this image",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Remove the surgical nail and all its associated screws from the tibia bone depicted in both the left (lateral) and right (anterior-posterior) X-ray views. The final image should show the bone naturally, as if the implants were never present.",
+  "annotator": "theblackcat",
+  "objects": [
+    "X-ray film",
+    "Hand holding X-ray film",
+    "Left X-ray view of human leg (lateral)",
+    "Right X-ray view of human leg (anterior-posterior)",
+    "Tibia bone (naturally healed appearance)",
+    "Fibula bone",
+    "Knee joint",
+    "Ankle joint",
+    "Surgical nail (should not be present)",
+    "Surgical screws (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

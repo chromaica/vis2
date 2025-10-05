@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Create a side-by-side two-panel meme. first image as the left panel with caption: 'MONDAY MORNING ENERGY'. second image as the right panel with the label the list: 1) Cry 2)Procrastinate 3)Existential dread. Use handwritten-style black font on the to-do list, and meme-style white text top-aligned in each panel.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a side-by-side two-panel meme. The left panel should feature the visual elements of image 1, depicting Mona Lisa with messy hair, and have the white, top-aligned, meme-style text 'MONDAY MORNING ENERGY'. The right panel should incorporate the visual elements of image 2, showing Patrick Star holding a 'To-Do List' paper. On this 'To-Do List' paper, add a vertical, numbered list in a handwritten-style black font: '1) Cry', '2) Procrastinate', '3) Existential dread'.",
+  "annotator": "parnian",
+  "objects": [
+    "side-by-side two-panel meme structure",
+    "left panel",
+    "Mona Lisa with messy hair",
+    "landscape background (left panel)",
+    "white, top-aligned, meme-style text 'MONDAY MORNING ENERGY'",
+    "right panel",
+    "Patrick Star's hands holding paper",
+    "'To-Do List' paper",
+    "light green/yellow background (right panel)",
+    "vertical, numbered list in handwritten-style black font: '1) Cry', '2) Procrastinate', '3) Existential dread' on the 'To-Do List' paper"
+  ]
+}

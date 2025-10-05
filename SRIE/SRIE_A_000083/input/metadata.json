@@ -1,0 +1,25 @@
+{
+  "subtopic": "Stylized art",
+  "prompt": "Edit image 1 by applying the bold, graphic artistic style and color palette (blue, pink, navy, beige) found in image 2 to the stylized burger illustration.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748668305955,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1. Restyle the stylized burger illustration within image 1 by adopting the bold, graphic artistic style and distinct color palette present in image 2. Specifically, use the blue, pink, and navy colors from image 2 for the burger's elements, and apply the beige color from image 2 to the background.",
+  "annotator": "kellycyy",
+  "objects": [
+    "stylized burger",
+    "burger bun",
+    "burger patty",
+    "lettuce",
+    "cheese",
+    "sesame seeds",
+    "beige background",
+    "shadow beneath burger"
+  ]
+}

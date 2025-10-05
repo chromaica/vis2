@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "Generate a dungeon crawler-style map, top-down view, showing traps, loot chambers, monster lairs, and rotating stairwells \u2014 hand-sketched in black ink on a battle-worn scroll.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a top-down view of a dungeon crawler map. The map should depict various traps, clearly marked loot chambers, distinct monster lairs, and interconnected rotating stairwells. The entire map is rendered as a detailed black ink hand-sketch, appearing on a textured, battle-worn scroll with visible creases and frayed edges.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Dungeon crawler map",
+    "Traps (on map)",
+    "Loot chambers (on map)",
+    "Monster lairs (on map)",
+    "Rotating stairwells (on map)",
+    "Black ink hand-sketch style",
+    "Scroll",
+    "Battle-worn scroll appearance",
+    "Visible creases on scroll",
+    "Frayed edges on scroll"
+  ]
+}

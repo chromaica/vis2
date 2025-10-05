@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "draw me a map for a space colony map of Mars settlements, showing terraformed areas, mining operations, transportation tubes, atmospheric processors, and Earth communication stations",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A detailed, futuristic map of Mars settlements. The map must clearly show distinct terraformed areas, visible mining operations, an interconnected network of transportation tubes, prominent atmospheric processors, and Earth communication stations. Ensure the map is well-labeled and designed in an informative infographic style.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Futuristic map of Mars",
+    "Mars settlements",
+    "Distinct terraformed areas",
+    "Visible mining operations",
+    "Interconnected network of transportation tubes",
+    "Prominent atmospheric processors",
+    "Earth communication stations",
+    "Labels on the map",
+    "Infographic design elements"
+  ]
+}

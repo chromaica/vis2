@@ -1,0 +1,28 @@
+{
+  "subtopic": "Games",
+  "prompt": "Edit image 1: Incorporate dynamic gameplay UI elements such as the HUD, minimap, and score displays from image 2 onto the scene, making it appear as an intense live multiplayer match screenshot.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1752237278674,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "annotator": "ishengfang",
+  "prompt_refined": "Edit image 1 to transform it into an intense live multiplayer match screenshot by integrating dynamic gameplay UI elements from image 2. Specifically:\n- Place the player's heads-up display (HUD), including health bar, ability icons, and ammunition count, in the bottom-left corner of image 1.\n- Add a detailed minimap, stylistically consistent with image 2, to the bottom-right corner.\n- Integrate team score displays and player avatars (for both friendly and enemy teams) across the top-center of image 1, mirroring the layout seen in image 2.\n- Include an objective tracker or kill feed in the top-right corner, similar to the 'Training Goals' section of image 2.\n- Overlay an enemy health bar above the large monster on the right, consistent with the UI style from image 2.\nEnsure all added UI elements are seamlessly integrated and appear functional for a live gameplay experience.",
+  "objects": [
+    "Player's HUD (health bar, ability icons, ammunition count) in bottom-left",
+    "Minimap in bottom-right",
+    "Team score displays and player avatars in top-center",
+    "Objective tracker or kill feed in top-right",
+    "Enemy health bar above the large monster on the right",
+    "Female character with shotgun",
+    "Large monster on the right",
+    "\"CYBAR CONNECT\" building",
+    "Moon and night sky"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

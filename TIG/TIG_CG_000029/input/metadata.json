@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "Texture Map",
+  "prompt": "A roughness map of wet cobblestones, showing patches of wetness and dry areas.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A detailed grayscale roughness map of cobblestones, featuring irregular patches of wet and dry areas. The wet areas should be represented by darker, smoother values, while the dry areas are depicted with lighter, rougher values.",
+  "annotator": "maxku",
+  "objects": [
+    "Grayscale color scheme",
+    "Roughness map (visual type)",
+    "Cobblestones",
+    "Wet areas",
+    "Dry areas",
+    "Irregular patches",
+    "Dark values (for wet areas)",
+    "Smooth values (for wet areas)",
+    "Light values (for dry areas)",
+    "Rough values (for dry areas)"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Facial estimation and analysis",
+  "prompt": "Apply a beard to the source image, matching the style of the beard in the reference image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 by applying a beard to the person's face. The beard should precisely match the style, length, and reddish-brown color of the beard depicted in image 2.",
+  "annotator": "nimajamali",
+  "objects": [
+    "Person's face",
+    "Reddish-brown beard",
+    "Baseball cap with Colorado flag patch",
+    "Person's hair",
+    "Green eyes",
+    "Person's nose",
+    "Person's mouth/lips",
+    "Person's shirt/jacket",
+    "Blurred background"
+  ]
+}

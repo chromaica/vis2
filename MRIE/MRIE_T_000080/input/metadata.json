@@ -1,0 +1,32 @@
+{
+  "subtopic": "Typography",
+  "prompt": "Edit image 1: Transform the text forms using the 3D blocky style from image 2. Apply image 3's high-contrast black and white aesthetic. Add image 4's anaglyph glitch effect. Incorporate image 5's interlocking textured structure into the typography design.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg",
+    "4.jpeg",
+    "5.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749711889574,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "T",
+  "prompt_refined": "Edit image 1, the portrait composed of textual forms. Transform the individual text forms to adopt the bold, extruded 3D blocky style, including the sense of depth and distinct shadows, as seen in image 2. Apply a stark, high-contrast black and white aesthetic to the entire image, similar to the crisp definition found in image 3, ensuring no shades of gray remain. Introduce the red and cyan anaglyph glitch effect, characterized by chromatic aberration and channel displacement, as demonstrated in image 4. Finally, incorporate the interlocking, rounded, and horizontally striped textured structure into the typography design, emulating the interwoven appearance from image 5.",
+  "annotator": "winston",
+  "objects": [
+    "Portrait composed of textual forms",
+    "Bold, extruded 3D blocky text forms",
+    "Sense of depth",
+    "Distinct shadows",
+    "Stark, high-contrast black and white aesthetic",
+    "Absence of shades of gray",
+    "Red and cyan anaglyph glitch effect",
+    "Chromatic aberration",
+    "Channel displacement",
+    "Interlocking, rounded, horizontally striped textured typography"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

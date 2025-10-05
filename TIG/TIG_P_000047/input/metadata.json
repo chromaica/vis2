@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Long exposure",
+  "prompt": "A bustling traffic circle, cars leaving bright, swirling light trails under a starry night",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A photorealistic long-exposure photograph of a bustling urban traffic circle at night, with vibrant, swirling light trails from numerous cars. Above, a clear, deep starry night sky.",
+  "annotator": "cwhsu",
+  "objects": [
+    "bustling urban traffic circle",
+    "nighttime setting",
+    "vibrant light trails",
+    "swirling light trails",
+    "cars",
+    "clear night sky",
+    "deep night sky",
+    "starry sky"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

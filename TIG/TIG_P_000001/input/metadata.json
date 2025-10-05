@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Medical images",
+  "prompt": "Give me an MRI image of a full body of a patient.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A high-resolution, photorealistic diagnostic MRI scan of a full human body, depicted in a clear, comprehensive view from head to toe.",
+  "annotator": "cwhsu",
+  "objects": [
+    "MRI scan imagery",
+    "Full human body",
+    "Human head",
+    "Human torso",
+    "Human arms",
+    "Human legs",
+    "Human internal organs",
+    "Human bones",
+    "Human tissues"
+  ]
+}

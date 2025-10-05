@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "QR Code",
+  "prompt": "Edit image 1 by replacing the question mark inside the QR code with the Mickey Mouse silhouette from image 2, with same size proportional and centered like the question mark. Then place the green checkmark from image 3 in the top-right corner of the card section, aligned with the edge and scaled down to be a subtle approval badge. All other layout elements must remain unchanged.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the mobile screen image (image 1).\n\nReplace the purple question mark icon located at the center of the QR code in image 1 with the black Mickey Mouse silhouette from image 2. The Mickey Mouse silhouette should be precisely centered within the QR code and scaled proportionally to match the size of the original question mark.\n\nFurthermore, integrate the bright green checkmark from image 3 into the top-right corner of the white card section containing the QR code. This checkmark should be subtly scaled down to function as an approval badge and precisely aligned with the top and right edges of the card.\n\nAll other layout elements and visual content in image 1 must remain unchanged.",
+  "annotator": "parnian",
+  "objects": [
+    "Mobile screen UI",
+    "White overlay card",
+    "QR code",
+    "Black Mickey Mouse silhouette",
+    "Bright green checkmark",
+    "\"Save\" button with download icon",
+    "\"Messages\" button with green speech bubble icon",
+    "\"More\" button with upload icon",
+    "\"Birthday Party!\" text",
+    "Purple question mark icon (should not be present)"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "create an image of a circular dendrogram of world language families. Outer leaves sized by number of native speakers, branch colors cycling through a pastel rainbow for readability",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A circular dendrogram illustrating world language families. Each outer leaf node is sized proportionally to the number of native speakers. Branches are colored with a cycling pastel rainbow palette for distinctness.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Circular dendrogram structure",
+    "Dendrogram branches",
+    "Dendrogram outer leaf nodes",
+    "Pastel rainbow colored branches",
+    "Varying sizes of outer leaf nodes",
+    "Text labels for language families and individual languages"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "change the kind of virus into shape of the kind of helic virus like ebola",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Transform all visible spherical virus particles into long, filamentous, helical shapes, similar to the appearance of the Ebola virus, maintaining the photorealistic microscopic style.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Three long, filamentous, helical virus particles",
+    "Photorealistic microscopic style",
+    "Blue-grey microscopic background"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "CAD models",
+  "prompt": "A CAD model of three M12 nuts stacked on top of each other.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A professional CAD model rendering of three M12 nuts stacked vertically and perfectly aligned on top of each other. The composition is centered on a plain white background, illuminated by soft studio lighting.",
+  "annotator": "maxku",
+  "objects": [
+    "three M12 nuts stacked vertically and perfectly aligned",
+    "plain white background",
+    "soft studio lighting"
+  ],
+  "human_annotation": true
+}

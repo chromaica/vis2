@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": " Mock up a classic late-90s finance portal in rich teal and mustard, complete with beveled buttons, GIF animations of spinning dollar signs, ticker-tape marquee, and a table-heavy layout featuring \u201cNEW!\u201d blink tags for IPO tips.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a classic late-1990s finance portal screenshot. The design should feature a rich teal and mustard color scheme. Include prominent beveled buttons, a horizontal ticker-tape marquee at the top displaying financial news, and a table-heavy content layout. Within the tables, incorporate 'NEW!' blink tags next to sections detailing IPO tips. Place small, spinning dollar sign GIF animations as decorative elements throughout the interface.",
+  "annotator": "theblackcat",
+  "objects": [
+    "A finance portal user interface",
+    "Beveled buttons",
+    "Horizontal ticker-tape marquee at the top",
+    "Scrolling financial news text",
+    "Data tables",
+    "Text sections detailing IPO tips",
+    "'NEW!' blink tags",
+    "Small, spinning dollar sign GIF animations",
+    "Teal color scheme elements",
+    "Mustard color scheme elements"
+  ]
+}

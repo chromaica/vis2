@@ -1,0 +1,23 @@
+{
+  "subtopic": "Comics",
+  "prompt": "Generate a comic strip (Textual Graphics, Comics) featuring characters based on the bat and pirate skull carvings from the reference image, depicted in a spooky setting.",
+  "cond_images": [
+    "1.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1750705610144,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "T",
+  "annotator": "winston",
+  "prompt_refined": "Generate a comic strip (Textual Graphics, Comics) featuring two distinct characters: one character based on the bat carving seen on the left pumpkin in image 1, and the other character based on the pirate skull carving with an eye patch and bandana seen on the right pumpkin in image 1. Both characters should be depicted interacting within a spooky setting, such as a haunted house interior or a moonlit graveyard.",
+  "objects": [
+    "Comic strip",
+    "Character based on bat carving",
+    "Character based on pirate skull carving",
+    "Eye patch on pirate skull character",
+    "Bandana on pirate skull character",
+    "Interaction between characters",
+    "Spooky setting"
+  ]
+}

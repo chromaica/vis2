@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Referencing the second image, edit the first image by adding the text 'Me' to the man at the right side. Then, add the third image to the girl on the left. Finally, add the fourth image to the man at the bottom left side.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png",
+    "4.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, which features a split-screen scene with four people, by applying the following modifications:\n\n1.  **Man on the Right:** Add the text 'Me' as a graphic element. The style and appearance of this text should reference the 'Me' text present in image 2, positioned above the man in the gray t-shirt who is looking towards the right.\n2.  **Girl on the Left:** Insert the entire content of image 3 (the white Porsche car) as a superimposed graphic element. Position this car image near the upper body of the woman in the striped shirt, who is walking away on the left side of the image.\n3.  **Man at Bottom-Left:** Insert the entire content of image 4 (the text displaying \"Estimated Total Price: $349,564\" and related details) as a superimposed graphic element. Position this text block near the upper body of the man in the plaid shirt at the bottom-left of the image.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Split-screen scene",
+    "Woman in striped shirt (on the left)",
+    "Man in plaid shirt (at bottom-left)",
+    "Man in gray t-shirt (on the right)",
+    "Another man (at bottom-right)",
+    "Text graphic 'Me' (above the man on the right)",
+    "White Porsche car (near the upper body of the woman on the left)",
+    "Text block with \"Estimated Total Price: $349,564\" (near the upper body of the man at bottom-left)",
+    "Building interior/exterior background"
+  ]
+}

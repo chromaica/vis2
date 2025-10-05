@@ -1,0 +1,23 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "Generate a wizard school recruitment poster combining the first image's ogre face and the second image's Hogwarts castle as background and the logo in the third image in the top right of the poster, with the text 'Enroll Now at Hogwarts: Defense Against the Dark Ogres \u2013 Apply by June 30.'",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a wizard school recruitment poster. The poster should prominently feature the green, angry ogre face from image 1. The Hogwarts castle from image 2, with its dramatic lighting and sky, must serve as the main background. Position the Hogwarts crest logo from image 3 in the top-right corner of the poster. The poster's primary text should be: 'Enroll Now at Hogwarts: Defense Against the Dark Ogres \u2013 Apply by June 30.'",
+  "annotator": "parnian",
+  "objects": [
+    "Wizard school recruitment poster",
+    "Green, angry ogre face (prominently featured)",
+    "Hogwarts castle (as main background)",
+    "Dramatic lighting",
+    "Dramatic sky",
+    "Hogwarts crest logo (in top-right corner)",
+    "Text: \"Enroll Now at Hogwarts: Defense Against the Dark Ogres \u2013 Apply by June 30.\""
+  ]
+}

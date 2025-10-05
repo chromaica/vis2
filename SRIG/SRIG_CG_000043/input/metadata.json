@@ -1,0 +1,23 @@
+{
+  "subtopic": "Facial estimation and analysis",
+  "prompt": "Generate a computer graphic rendering based on the reference image, illustrating facial estimation landmarks and skin property analysis overlaid on the subject's face.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://freerangestock.com/sample/157161/a-woman-applying-cream-on-her-face.jpg",
+  "promptGeneratedTimestamp": 1748767673057,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a computer graphic rendering based on image 1. Display the face of the woman from image 1, overlaid with a visualization of facial estimation landmarks (such as points, lines, or meshes delineating eyes, nose, mouth, and jawline). Additionally, superimpose a graphical analysis of skin properties (e.g., color-coded regions, heatmaps, or contour lines indicating texture or hydration levels) on her face.",
+  "annotator": "ishengfang",
+  "objects": [
+    "woman's face (from image 1)",
+    "facial estimation landmarks (points, lines, or meshes) overlaid on the face",
+    "graphical analysis of skin properties (color-coded regions, heatmaps, or contour lines) superimposed on the face",
+    "woman's hair (from image 1)",
+    "woman's hand (from image 1)",
+    "cream dot on woman's face (from image 1)",
+    "blurred background (from image 1)"
+  ]
+}

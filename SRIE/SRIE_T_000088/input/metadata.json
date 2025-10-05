@@ -1,0 +1,26 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": "Infuse neon signage and ambient glow exactly like this reference.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Apply vibrant neon signage and a strong ambient glow to the building and its immediate surroundings in image 1. The style, colors (e.g., magenta, teal), and intensity of the neon lights and their atmospheric glow should precisely match those seen in image 2.",
+  "annotator": "matina",
+  "objects": [
+    "Building",
+    "Windows on the building",
+    "Vibrant neon signage on the building",
+    "Strong ambient glow around the building and its surroundings",
+    "Magenta-colored lights/glow",
+    "Teal-colored lights/glow",
+    "Comic book speech bubble",
+    "Comic book text within the speech bubble",
+    "Dark background affected by glow"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

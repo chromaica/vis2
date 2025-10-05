@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "Edit the park plan in image 1. Replace the building icon with one styled like the library in image 2. Apply the flat, outlined icon style and bright blue color of the swimming pool from image 3 to the existing pools in image 1.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the park plan in image 1. Replace the brown building icon located in the upper-middle section of the plan with a new icon that replicates the design, flat outlined style, yellow coloring, and open book element of the library depicted in image 2. Additionally, transform all three existing light blue pool shapes within image 1 to match the distinct flat, outlined icon style and bright blue water color of the swimming pool shown in image 3, ensuring they adopt the light grey border and black outline characteristic of image 3's pool while retaining their original shapes and positions.",
+  "annotator": "maxku",
+  "objects": [
+    "Park plan outline and paths",
+    "Green grassy areas",
+    "Yellow, flat-outlined library icon with an open book element (in the upper-middle section)",
+    "First bright blue, flat-outlined pool shape with light grey border and black outline (retaining original shape and position)",
+    "Second bright blue, flat-outlined pool shape with light grey border and black outline (retaining original shape and position)",
+    "Third bright blue, flat-outlined pool shape with light grey border and black outline (retaining original shape and position)",
+    "Soccer field icon",
+    "Tennis court icon",
+    "Playground-like icon",
+    "Brown building icon (should not be present)"
+  ]
+}

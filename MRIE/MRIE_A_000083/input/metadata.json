@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "In image 1, replace the Mona Lisa\u2019s face with the Barbie face from image 2, and replace Van Gogh\u2019s face with the Ken face from image 3.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the face of Mona Lisa, visible in the car's side mirror on the left, with the Barbie doll's face from image 2. Simultaneously, replace the face of Van Gogh, seated on the right, with the Ken doll's face from image 3.",
+  "annotator": "paria",
+  "objects": [
+    "Starry Night style background",
+    "Red car",
+    "Car's side mirror on the left",
+    "Barbie doll's face, visible in the car's side mirror on the left",
+    "Mona Lisa's body, visible in the car's side mirror on the left",
+    "Cigarette held by the figure in the car's side mirror",
+    "Ken doll's face, seated on the right",
+    "Van Gogh's body, seated on the right",
+    "Cigarette held by the figure on the right",
+    "Man's shirt and tie on the right"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

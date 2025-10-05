@@ -1,0 +1,28 @@
+{
+  "subtopic": "Medical images",
+  "prompt": "Introduce inflamed, bumpy patches from image 2 on the skin near the jaw. Add the scaly, patterned texture of the skin in image 3 to the skin of the neck, creating a detailed view of multiple skin conditions.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749229365040,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "P",
+  "prompt_refined": "Edit the provided Source Image (image 1). Introduce inflamed, bumpy skin patches, replicating the appearance from Reference Image 2, onto the skin near the subject's jawline. Additionally, apply the distinctive scaly and patterned texture from Reference Image 3 to the skin of the subject's neck. The final output should be a photorealistic image clearly displaying these multiple skin conditions on the subject.",
+  "annotator": "boris",
+  "objects": [
+    "Subject's head (profile view)",
+    "Subject's jawline",
+    "Subject's neck",
+    "Inflamed, bumpy skin patches on the jawline",
+    "Scaly and patterned skin texture on the neck",
+    "Hair tied back",
+    "Ear",
+    "Nose",
+    "Lips",
+    "Plain background"
+  ]
+}

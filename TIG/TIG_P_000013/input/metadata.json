@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "Microscopic insect wing revealing detailed patterns and iridescent colors, resembling stained glass.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A photorealistic, extreme macro photograph of an insect wing. The wing exhibits intricate, microscopic patterns and iridescent, shimmering colors. Its delicate, translucent membrane strikingly resembles a piece of vibrant stained glass, with light illuminating its jewel-toned, patterned sections.",
+  "annotator": "cwhsu",
+  "objects": [
+    "insect wing",
+    "extreme macro perspective",
+    "intricate microscopic patterns",
+    "iridescent colors",
+    "shimmering colors",
+    "delicate membrane",
+    "translucent membrane",
+    "vibrant stained glass appearance",
+    "jewel-toned sections",
+    "light illumination"
+  ]
+}

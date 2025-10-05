@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "In image 1, replace the background with the sky and clouds in image 2, and replace the microphone icon (in the bottom center of the source image), with the green microphone in image 3. Make sure the microphone replacement is scaled proportionally to match surrounding UI elements. All other aspects of the source image should remain unchanged.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the existing orange background of image 1 with the sky and cloud pattern from image 2. Replace the black microphone icon at the bottom center of image 1 with the green circular microphone icon from image 3. Scale the new microphone icon proportionally to match the size of adjacent UI elements. All other aspects of image 1 should remain unchanged.",
+  "annotator": "parnian",
+  "objects": [
+    "orange background (should not be present)",
+    "black microphone icon (should not be present)",
+    "sky and cloud pattern",
+    "green circular microphone icon",
+    "Pou! character (brown, with pink dress, glasses, and bow)",
+    "top-left UI element (green coin icon and \"674\")",
+    "top row of UI icons (pen, plus, eye, lightning bolt within green rectangles, and \"29\" counter)",
+    "\"HALL\" text",
+    "\"POU!\" text (top right)",
+    "bottom-left UI element (brown door icon with \"Afuera\" text)",
+    "bottom-right UI element (shop icon with \"Tienda\" text)"
+  ],
+  "human_annotation": true
+}

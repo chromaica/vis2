@@ -1,0 +1,26 @@
+{
+  "subtopic": "CAD models",
+  "prompt": "Generate a realistic CAD model render in computer graphics, depicting a historical warship similar in design to the reference image, showcasing detailed engineering.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://cdn2.picryl.com/photo/1910/12/31/protected-cruiser-hms-thetis-iwn-q-75433-9ce3aa-640.jpg",
+  "promptGeneratedTimestamp": 1748771915554,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a photorealistic CAD model render, in a computer graphics style, depicting a historical warship that mirrors the general design and configuration of image 1. The vessel should be shown afloat on calm water, presented from a broadside or slight three-quarter view. Emphasize intricate engineering details, including visible hull plating, complex superstructure elements, detailed funnels, and rigging, to clearly showcase its mechanical and structural aspects.",
+  "annotator": "ishengfang",
+  "objects": [
+    "historical warship mirroring the general design and configuration of image 1",
+    "calm water",
+    "visible hull plating",
+    "complex superstructure elements",
+    "detailed funnels",
+    "rigging",
+    "masts",
+    "flags",
+    "smoke emanating from funnels",
+    "sky"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Make the fox statue head cleaner and the facial cute like the ones seen in anime",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Cleanse the entire head of the fox statue, removing any visible dirt, dust, or imperfections from its surface. Additionally, rework the fox's face to portray a cute, anime-like expression, featuring larger, more expressive eyes and a softer, less aggressive muzzle, contrasting with its current stern and somewhat fanged look.",
+  "annotator": "theblackcat",
+  "objects": [
+    "fox statue",
+    "fox statue head free of dirt, dust, or imperfections",
+    "fox statue face with a cute, anime-like expression, featuring larger, expressive eyes and a softer, less aggressive muzzle",
+    "red cape on fox statue",
+    "stone pedestal for fox statue",
+    "torii gates",
+    "Japanese characters on torii gates",
+    "visible dirt, dust, or imperfections on the fox statue head (should not be present)",
+    "stern and somewhat fanged look on the fox's face (should not be present)"
+  ]
+}

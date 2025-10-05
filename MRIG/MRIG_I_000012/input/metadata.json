@@ -1,0 +1,31 @@
+{
+  "subtopic": "Icons and symbols",
+  "prompt": "Create a set of icons for information graphics. Use the outline style and colored background shapes from image 2, applied to subjects such as charts, progress, and goals found in image 1.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "Infographic Icons Symbols Vector",
+  "searchQueryGeneratedTimestamp": 1750582593247,
+  "promptGeneratedTimestamp": 1750582750753,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "I",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a new set of distinct icons for information graphics. Each icon should depict subjects representing charts (e.g., pie charts, bar charts), progress indicators (e.g., checklists, stopwatches), and goals (e.g., a flag), drawing inspiration from the visual concepts found in image 1. Apply the specific visual style from image 2, where subjects are rendered with a thin black outline and no internal fill, and are centrally placed within a solid, circular colored background shape.",
+  "objects": [
+    "set of distinct icons",
+    "pie chart icon",
+    "bar chart icon",
+    "checklist icon",
+    "stopwatch icon",
+    "flag icon",
+    "thin black outline (for icon subjects)",
+    "no internal fill (for icon subjects)",
+    "centrally placed icon subjects",
+    "solid circular colored background shapes"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Pop art",
+  "prompt": "In the first image, replace the hamburger with the pizza slice from the second image, and change the background to the French fries pattern from the third image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the hotdog located at the top center with the pizza slice from image 2. Change the current blue halftone background of image 1 to the French fries pattern from image 3.",
+  "annotator": "paria",
+  "objects": [
+    "pizza slice (at top center)",
+    "\"FOOD AS ART AS FOOD\" text",
+    "red lips",
+    "white teeth",
+    "neck/chin",
+    "\"ISLAND6\" logo",
+    "QR code",
+    "French fries pattern background",
+    "cream/beige border",
+    "hotdog (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

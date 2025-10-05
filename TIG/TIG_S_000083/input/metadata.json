@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "Create a 2D fighting game battle screen showing two martial artists in mid-combat",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A classic 2D pixel art fighting game battle screen. Two distinct martial artists are in mid-combat; one on the left performing an aggressive attack, and the other on the right reacting defensively. The screen features a complete fighting game user interface (UI), including a red health bar for the left character and a blue health bar for the right character, both positioned at the top. A central digital timer is displayed below the health bars, and individual special move meters are visible beneath each character's health bar. The background is a detailed, stylized urban street stage with subtle parallax scrolling. Visual effects such as impact sparks, motion blur, and action lines emphasize the intense combat.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Martial artist on the left (performing aggressive attack)",
+    "Martial artist on the right (reacting defensively)",
+    "Red health bar at the top",
+    "Blue health bar at the top",
+    "Central digital timer below health bars",
+    "Special move meter below left character's health bar",
+    "Special move meter below right character's health bar",
+    "Detailed, stylized urban street stage background",
+    "Impact sparks",
+    "Motion blur"
+  ]
+}

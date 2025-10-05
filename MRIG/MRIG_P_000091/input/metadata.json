@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Create a photorealistic portrait based on the provided base image referenced in the first image, subtly integrating the fragmented, geometric forms and angular perspectives of the Cubist painting style from the second reference image. Maintain hyper-realistic facial features, skin textures, and lifelike lighting. The Cubist effect should manifest as faint, geometric overlays and subtle shifts in perspective, carefully blended to ensure the final image remains photorealistic, resembling a high-quality photograph with a hint of abstract structure.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic portrait of the individual depicted in image 1. Integrate fragmented, geometric forms and angular perspectives characteristic of the Cubist style, drawing inspiration specifically from image 2. Crucially, maintain hyper-realistic facial features, skin textures, and lifelike lighting throughout the portrait. The Cubist influence should manifest as faint, subtle geometric overlays and slight shifts in perspective, carefully blended to ensure the final image retains its overall photorealistic quality, resembling a high-quality photograph with a hint of abstract structure.",
+  "objects": [
+    "Photorealistic portrait of the individual from image 1",
+    "Hyper-realistic facial features",
+    "Hyper-realistic skin textures",
+    "Lifelike lighting",
+    "Fragmented geometric forms (subtle)",
+    "Angular perspectives (subtle)",
+    "Faint geometric overlays",
+    "Slight shifts in perspective",
+    "Overall high-quality photograph appearance"
+  ],
+  "human_annotation": true
+}

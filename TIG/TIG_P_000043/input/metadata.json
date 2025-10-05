@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Long exposure",
+  "prompt": "A crowded city intersection at dusk, long streams of headlights and tail lights blending together.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A crowded, bustling city intersection at dusk, captured with a long exposure photography effect. The urban landscape is filled with a dense flow of vehicles and pedestrians. Luminous, blurred white and yellow headlight trails intertwine with vibrant red taillight streams, stretching across the reflective wet asphalt. Tall, modern city skyscrapers line the street on all sides, their numerous windows beginning to glow with interior lights, creating a sense of dynamic urban energy.",
+  "annotator": "cwhsu",
+  "objects": [
+    "City intersection",
+    "Dusk",
+    "Vehicles",
+    "Pedestrians",
+    "Blurred white headlight trails",
+    "Blurred yellow headlight trails",
+    "Red taillight streams",
+    "Reflective wet asphalt",
+    "Tall, modern city skyscrapers",
+    "Glowing skyscraper windows"
+  ]
+}

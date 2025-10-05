@@ -1,0 +1,26 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "Apply the pixel art style to the UI mockup.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Transform the user interface (UI) mockup in image 2 into a pixel art style, using image 1 as a reference for the pixelated visual aesthetic, blocky graphics, and color palette.",
+  "annotator": "Johnny",
+  "objects": [
+    "Smart home dashboard interface",
+    "Left-aligned navigation sidebar",
+    "\"Welcome to smart home\" text area",
+    "Room selection tabs",
+    "Multiple device control cards",
+    "Light intensity gauge with percentage",
+    "Circular temperature display dial",
+    "Digital humidity percentage display",
+    "On/Off toggle switches",
+    "On/Off buttons"
+  ],
+  "human_annotation": true
+}

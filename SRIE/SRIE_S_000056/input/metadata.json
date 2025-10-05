@@ -1,0 +1,26 @@
+{
+  "subtopic": "Software interfaces",
+  "prompt": "Edit image 1: Apply the visual styling of the toolbars and menus from image 2 to the Snip & Sketch bar and the Windows taskbar. Incorporate image 2's color palette, button shapes, and overall theme onto image 1's interface elements.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751006788306,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit image 1. Re-style the Snip & Sketch application's top toolbar and the Windows taskbar at the bottom of the screen. Adopt the visual styling from the toolbars and menus of image 2, applying its distinctive metallic gray color palette, gradient effects, and rounded button shapes. All interface elements within these two areas, including icons, buttons, and backgrounds, should be transformed to reflect the skeuomorphic and professional theme of image 2's user interface.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Snip & Sketch application window frame",
+    "Snip & Sketch application's top toolbar with metallic gray, gradient, and rounded button styling",
+    "Windows taskbar at the bottom of the screen with metallic gray, gradient, and rounded button styling",
+    "Desktop background showing the beach, ocean, and mountains",
+    "Desktop icons",
+    "Snip & Sketch toolbar icons and buttons (re-styled)",
+    "Windows taskbar icons and buttons (re-styled)",
+    "Search bar on the Windows taskbar (re-styled)",
+    "System tray area on the Windows taskbar (re-styled)"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "A comet streaking across the night sky, with a radiant tail trailing behind against a starry expanse.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A brilliant, icy comet streaks dynamically across a deep black night sky, its long, luminous blue-green tail trailing extensively behind it. The background features a dense, glittering expanse of countless distant stars and faint nebulae, depicted with photorealistic detail.",
+  "annotator": "cwhsu",
+  "objects": [
+    "A brilliant, icy comet",
+    "Long, luminous blue-green comet tail",
+    "Deep black night sky",
+    "Countless distant stars",
+    "Faint nebulae"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

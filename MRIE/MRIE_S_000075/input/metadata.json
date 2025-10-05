@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "Edit image 1 by replacing the large yellow 'PLAY' button in the center with the blue 'Start' button from image 2 (in the  middle), keeping the size and center alignment unchanged. Replace the leftmost yellow circular icon (setting gear icon) on the bottom bar with the orange star icon from image 3 (bottom right). Also, Add the green pig head from image 4 to the bottom left grassy area and the red Angry Bird from image 5 to the bottom right grassy area. All added elements should be scaled and lit to match the original scene (image 1). Everything else in the image must remain as-is.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg",
+    "4.jpg",
+    "5.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the large yellow 'PLAY' button in the center of image 1 with the blue 'START' button from image 2 (the third button from the top), ensuring the size and central alignment remain unchanged. Replace the leftmost yellow circular gear icon on the bottom bar of image 1 with the orange star icon found at the bottom-right of image 3. Add the green pig head from image 4 to the bottom-left grassy area of image 1, and add the red Angry Bird from image 5 to the bottom-right grassy area of image 1. All newly added elements must be scaled and lit to seamlessly match the original scene in image 1. Everything else in image 1 must remain exactly as-is.",
+  "annotator": "parnian",
+  "objects": [
+    "ANGRY BIRDS HD logo",
+    "blue sky",
+    "grassy ground",
+    "background trees",
+    "large yellow 'PLAY' button (should not be present)",
+    "blue 'START' button in the center",
+    "leftmost yellow circular gear icon (should not be present)",
+    "orange star icon on the bottom bar",
+    "green pig head in the bottom-left grassy area",
+    "red Angry Bird in the bottom-right grassy area"
+  ]
+}

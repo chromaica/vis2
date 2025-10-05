@@ -1,0 +1,17 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "Change the apple icon to blue.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the image: Change the white Apple logo present in image 1 to a blue color. Use image 2 as a reference to ensure the precise shape and distinctive design of the Apple logo are retained.",
+  "annotator": "Johnny",
+  "objects": [
+    "Blue Apple logo",
+    "Black background"
+  ]
+}

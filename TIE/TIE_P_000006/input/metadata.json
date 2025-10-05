@@ -1,0 +1,21 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "convert the photo taken by james webb telescope and convert it into the photos taken by hubble",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "it should be less clear than this one with more black background due to hubble using visible light. advance score : if the number diffraction change from 6 to 4 due to different mirrors",
+  "prompt_refined": "Edit image 1, the James Webb Space Telescope image of the Pillars of Creation, to render it with the visual characteristics of a Hubble Space Telescope image. This involves adjusting the color palette towards bluer tones for the nebulosity and dust, making the dust structures appear more opaque, and transforming the prominent 8-pointed star diffraction spikes into the characteristic 4-pointed spikes seen in Hubble imagery.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Pillars of Creation",
+    "Nebulosity",
+    "Dust structures",
+    "Stars",
+    "4-pointed star diffraction spikes",
+    "8-pointed star diffraction spikes (should not be present)",
+    "Cosmic background"
+  ]
+}

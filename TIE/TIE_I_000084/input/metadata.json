@@ -1,0 +1,26 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Floor Plan",
+  "prompt": "Transform the circular dining tables into hexagonal shapes while maintaining the same number of seats.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit Image 1. Locate all circular dining tables in the image. For each identified table, transform its shape from circular to hexagonal, ensuring the exact same number of chairs remains around each table. Specifically, modify the large circular table with 12 chairs located in the upper-right section of the image, and the two smaller circular tables each with 8 chairs, located in the middle-right and lower-right sections respectively.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Hexagonal table with 12 chairs",
+    "Hexagonal tables with 8 chairs",
+    "Straight sofas",
+    "L-shaped sofas",
+    "Curved sofas",
+    "Armchairs",
+    "Non-circular dining/meeting tables with chairs",
+    "Office desks and workstations with chairs",
+    "Standalone individual chairs",
+    "Rugs and plant symbols"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

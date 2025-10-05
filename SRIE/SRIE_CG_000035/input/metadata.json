@@ -1,0 +1,26 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "3D renders",
+  "prompt": "Place the laptop from the reference image onto the table in the source image, rotated naturally to match the scene\u2019s perspective.",
+  "cond_images": [
+    "1.png",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Place the laptop depicted in image 2 onto the small rectangular table in front of the sofa. The laptop should be rotated and scaled naturally to match the perspective and lighting of the scene.",
+  "annotator": "nimajamali",
+  "objects": [
+    "sofa",
+    "small rectangular table in front of the sofa",
+    "laptop on the small rectangular table",
+    "floor lamp",
+    "plants",
+    "geometric architectural elements (arches, pillars, stairs, panels)",
+    "large sphere",
+    "smaller sphere",
+    "platform/stage",
+    "purple and blue lit background"
+  ],
+  "human_annotation": true
+}

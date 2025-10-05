@@ -1,0 +1,25 @@
+{
+  "subtopic": "Websites",
+  "prompt": "Edit the website screenshot in image 1. Add the mobile phone mockup from image 2, featuring the 'NEW ARRIVALS' banner, placing it in the lower left corner as an overlaid design element on the main website view.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1750758116487,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit image 1, the website screenshot. Integrate the mobile phone mockup from image 2, ensuring its screen displays the 'NEW ARRIVALS' banner. Place this phone mockup in the lower-left corner of image 1 as an overlaid design element.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Transpoco website layout",
+    "White van (rear view)",
+    "Mountainous background",
+    "Mobile phone mockup (in the lower-left corner)",
+    "\"NEW ARRIVALS\" banner on the phone screen",
+    "\"Fleet and Safety Excellence\" headline",
+    "Green \"BOOK DEMO\" button",
+    "Green and blue light streaks design element"
+  ]
+}

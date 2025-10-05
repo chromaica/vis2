@@ -1,0 +1,19 @@
+{
+  "task": "SRIG",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Create branding for an artisanal pottery studio with the handcrafted ceramic bowl.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a brand identity visual for an artisanal pottery studio. The image should centrally feature the handcrafted ceramic bowl from image 1. Integrate a brand logo and studio name typography (textual graphics) around the bowl, harmonizing with its distinct terracotta base, teal interior, and intricate, organic textural patterns. The overall composition should evoke a unique, handcrafted, and earthy aesthetic suitable for artisanal ceramics.",
+  "annotator": "Johnny",
+  "objects": [
+    "handcrafted ceramic bowl (from image 1, centrally featured)",
+    "brand logo (around the bowl)",
+    "studio name typography (textual graphics, around the bowl)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

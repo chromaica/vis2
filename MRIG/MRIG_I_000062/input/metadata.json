@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "Generate a UI mockup for a food delivery app. Use Image 1 for menu thumbnails and Image 2 for delivery status indicators.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "annotator": "matina",
+  "prompt_refined": "Generate a modern UI mockup for a food delivery application. The main content area should feature a scrollable grid of menu item thumbnails, each displaying a high-quality, appetizing photographic representation of a food dish, visually inspired by Image 1. In the upper section of the interface, include a clear set of delivery status indicators. These indicators should be designed as stylized, flat icons, echoing the aesthetic of Image 2, to visually represent different stages of an order's delivery progress.",
+  "objects": [
+    "Modern UI mockup",
+    "Food delivery application interface",
+    "Scrollable grid",
+    "Menu item thumbnails",
+    "High-quality, appetizing photographic food dishes",
+    "Food dish with melted cheese",
+    "Upper section of the interface",
+    "Delivery status indicators",
+    "Stylized delivery status icons",
+    "Flat design icons for delivery stages"
+  ]
+}

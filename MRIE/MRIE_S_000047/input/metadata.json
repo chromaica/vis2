@@ -1,0 +1,25 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Online Meeting Interfaces",
+  "prompt": "In image 1, replace the top-left participant (Howard Almond, old man with white hair) with exactly the girl in image 2 and add the green Facetime logo from image 3 in the top-right corner of the screen as watermark, keeping all other visual elements unchanged.",
+  "cond_images": [
+    "1.png",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the participant in the top-left video panel, identified as Howard Almond (the old man with white hair), with the girl from image 2, ensuring an exact replacement of the subject. Additionally, place the green Facetime logo from image 3 into the top-right corner of the screen, functioning as a watermark. All other visual elements in image 1 must remain unchanged.",
+  "annotator": "parnian",
+  "objects": [
+    "Girl from image 2 in the top-left video panel",
+    "Green Facetime logo in the top-right corner",
+    "Howard Almond (should not be present)",
+    "Zoom Meeting application window interface (including top bar, menus, and controls)",
+    "Grid of 24 video panels displaying other meeting participants",
+    "Windows 10 taskbar (including start button, search, icons, and clock)",
+    "Windows 10 desktop background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

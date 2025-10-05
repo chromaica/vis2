@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "Edit image 1 by adding the Zelle logo from image 3 just above the 'Money sent' heading, aligned left. Then insert the '25% OFF' discount tag from image 2 in the lower-right corner above the 'Done' button to suggest a cashback reward. Do not alter any existing text or amounts.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, a screenshot displaying a 'Money sent' confirmation screen.\nFirst, incorporate the Zelle logo from image 3. Place this logo directly above the 'Money sent' heading in image 1, ensuring it is horizontally aligned with the left edge of the 'Money sent' text.\nNext, insert the '25% OFF' discount tag from image 2. Position this tag in the lower-right corner of image 1, above the 'Done' button, to suggest a cashback reward.\nDo not alter any existing text or monetary amounts within image 1.",
+  "annotator": "parnian",
+  "objects": [
+    "Zelle logo above 'Money sent' heading",
+    "'Money sent' confirmation screen UI",
+    "'Money sent' heading",
+    "Green checkmark icon in a circle",
+    "'$120.00' monetary amount",
+    "'Dog Sitting' text",
+    "'25% OFF' discount tag in the lower-right corner",
+    "'Done' button",
+    "Bottom navigation bar",
+    "Top status bar"
+  ]
+}

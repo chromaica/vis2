@@ -1,0 +1,28 @@
+{
+  "subtopic": "Collage",
+  "prompt": "Edit image 1 by adding the vibrant, abstract intertwined lines from image 2 as a new collage layer, weaving them to shape out the face of image 1 while maintaining the original artwork's layered feel.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748494834109,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1. Integrate the vibrant, abstract intertwined lines from image 2 as a new collage layer, meticulously weaving them to form the contours and features of the woman's face within her profile, while maintaining the original artwork's layered, mixed-media aesthetic.",
+  "annotator": "kellycyy",
+  "objects": [
+    "Woman's profile",
+    "Vibrant, abstract intertwined lines",
+    "Woman's facial contours and features formed by lines",
+    "Collage layers",
+    "Mixed-media artwork aesthetic",
+    "Newspaper text background",
+    "Brown patterned paper collage element",
+    "Flower element near the woman's ear",
+    "Leopard-like figure at bottom left",
+    "Torn paper edges"
+  ],
+  "human_annotation": true
+}

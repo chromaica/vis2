@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Generate a cityscape where nature has reclaimed an abandoned metropolis. Use the first image as a reference for the cityscape's shape, structure, and layout, including the design and arrangement of skyscrapers and streets. Use the second image as a reference for the overgrown aesthetic, capturing the style and density of vegetation such as vines, moss, and wildflowers. Depict towering skyscrapers with cracked facades draped in dense vines, and streets overtaken by lush moss and vibrant wildflowers, blending urban decay with natural overgrowth.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic image of an abandoned metropolis where nature has dramatically reclaimed the urban environment. Reference Image 1 for the wide panoramic composition, the modern architectural style of the towering skyscrapers, their dense arrangement, and the inclusion of water with city reflections in the foreground. Integrate the dense, wild, and overgrown aesthetic of the vegetation from Image 2: depict skyscrapers with visibly cracked and crumbling facades extensively draped in thick, climbing vines and lush foliage, mirroring the density of the tree canopy in Image 2. Show streets and ground-level areas entirely overtaken by a rich carpet of moss and vibrant wildflowers, similar to the natural ground cover and density within Image 2. The scene should blend profound urban decay with vibrant natural resurgence.",
+  "objects": [
+    "Wide panoramic composition",
+    "Towering skyscrapers (modern architectural style)",
+    "Dense arrangement of skyscrapers",
+    "Water in the foreground with city reflections",
+    "Cracked and crumbling skyscraper facades",
+    "Thick, climbing vines on skyscrapers",
+    "Lush foliage on skyscrapers",
+    "Moss covering streets and ground-level areas",
+    "Vibrant wildflowers on streets and ground-level areas",
+    "Abandoned metropolis aesthetic"
+  ],
+  "human_annotation": true
+}

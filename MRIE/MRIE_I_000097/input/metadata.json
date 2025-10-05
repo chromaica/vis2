@@ -1,0 +1,22 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "Edit image 1 by replacing the state logos with colorful, illustrative icons inspired by the style of image 2's puzzle pieces. Apply the blue gradient background and subtle grid pattern from image 3 behind the map layout.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Modify image 1. Replace the existing brand logos within each U.S. state boundary with distinct, colorful, illustrative icons. These new icons should emulate the playful and outlined style of the small illustrations found on the puzzle pieces in image 2. Subsequently, position the entire U.S. map from image 1 onto a new background that mirrors the blue gradient and subtle grid pattern observed in image 3, ensuring this background is situated entirely behind the map layout.",
+  "annotator": "maxku",
+  "objects": [
+    "U.S. map",
+    "U.S. state boundaries",
+    "Distinct colorful illustrative icons (within each U.S. state)",
+    "Blue gradient background (behind the U.S. map)",
+    "Subtle grid pattern (on the blue gradient background)",
+    "Existing brand logos (should not be present)"
+  ]
+}

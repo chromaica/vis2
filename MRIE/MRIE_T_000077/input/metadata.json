@@ -1,0 +1,31 @@
+{
+  "subtopic": "Typography",
+  "prompt": "Edit image 1: Transform the text overlay into a chaotic burst similar to image 2. Apply the red/black palette and text-filled shapes from image 3. Integrate the face composition technique from image 5 using text. Draw diverse text style inspiration from image 4 for the various characters used.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg",
+    "4.jpeg",
+    "5.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749711885931,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "T",
+  "prompt_refined": "Edit image 1: Replace the current text overlay on the subject's head with a dynamic, chaotic burst of individual characters and words, radiating outwards from the head's center, mirroring the style of image 2. All text elements should adopt the bold red and black color palette from image 3, mimicking how text forms abstract patterns and fills within shapes in that reference. Simultaneously, integrate the detailed text-based facial composition technique from image 5, using varying characters and text sizes to define the contours and features of the face within the overall head silhouette. The entire textual graphic should incorporate a diverse range of font styles, weights, and sizes, drawing inspiration from the varied typography examples in image 4.",
+  "annotator": "winston",
+  "objects": [
+    "subject's head silhouette",
+    "current text overlay (should not be present)",
+    "dynamic, chaotic burst of characters and words",
+    "text radiating outwards from the head's center",
+    "red text elements",
+    "black text elements",
+    "text forming abstract patterns and fills",
+    "detailed text-based facial composition",
+    "varying characters and text sizes",
+    "diverse font styles and weights"
+  ],
+  "human_annotation": true
+}

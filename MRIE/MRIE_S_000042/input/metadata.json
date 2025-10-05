@@ -1,0 +1,27 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "Edit image 1 by replacing the green checkmark with the Bitcoin icon from image 2 to indicate payment was made in cryptocurrency. Also, replace all dollar signs with the sign from image 3, ensuring size and alignment match the original text formatting. Leave everything else unchanged.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the prominent green checkmark icon, located at the top center within the circular dashed outline, with the Bitcoin icon from image 2. Furthermore, replace all three dollar signs ('$') visible on the right side of the screen (associated with 'Previous balance', 'Today's payment', and 'New balance') with the pound sterling sign ('\u00a3') from image 3. For these replacements, ensure the new symbols precisely match the original dollar signs' size, color, and alignment within the text. Maintain all other elements of image 1 exactly as they are.",
+  "annotator": "parnian",
+  "objects": [
+    "Green progress bar at top",
+    "Circular dashed outline (top center)",
+    "Bitcoin icon (inside circular outline)",
+    "Green checkmark icon (should not be present)",
+    "\"Your payment was successful.\" text",
+    "\"Previous balance\", \"Today's payment\", \"New balance\" text labels",
+    "Three dollar signs ($) (should not be present)",
+    "Three pound sterling signs (\u00a3)",
+    "Numerical balance values (e.g., 60.02, 0.00)",
+    "\"Print receipt\" and \"Email receipt\" sections (including icons, text field, button)",
+    "Bottom browser navigation elements"
+  ]
+}

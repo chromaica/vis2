@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Depth maps",
+  "prompt": "Generate a realistic indoor scene where objects closer to the camera are brighter.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, a realistic indoor scene depicting a modern bedroom, by adjusting its lighting. Ensure that objects positioned closer to the camera, such as the bed and the foreground floor, are distinctly brighter. Conversely, objects further from the camera, including the back wall and the city view through the window, should appear progressively darker. Use image 2 as a precise depth map reference, where lighter pixel values in image 2 correspond to areas that should be brighter in image 1, and darker pixel values correspond to areas that should be darker.",
+  "annotator": "nimajamali",
+  "objects": [
+    "modern bedroom scene",
+    "bed",
+    "foreground floor",
+    "window",
+    "city view through window",
+    "back wall",
+    "desk with computer setup",
+    "curtains",
+    "ceiling",
+    "neon lighting strips"
+  ]
+}

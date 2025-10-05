@@ -1,0 +1,26 @@
+{
+  "subtopic": "Object detection visuals",
+  "prompt": "Visualize AI object detection: Create a scene with bounding boxes and text labels identifying various objects in a dynamic setting. Incorporate the computer graphics overlay style seen in the reference image.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://voxel51.com/wp-content/uploads/2023/01/open-images-v6-in-fiftyone.png",
+  "promptGeneratedTimestamp": 1748767617656,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate an image depicting a dynamic scene, such as an outdoor setting with moving subjects, overlaid with a computer graphics artificial intelligence object detection interface. This interface must display various identified objects marked by semi-transparent blue bounding boxes. Each primary bounding box should feature an opaque brown header at its top containing clear white text labels (e.g., 'RIDE', 'HAT', 'MAN', 'HORSE'), with some labels also including nested details (e.g., 'Label1: Man', 'Label2: Horse'). The detected objects themselves should be highlighted with a translucent purple-blue overlay. The overall visual style of this object detection interface, including its specific colors, font, box design, and transparency, must precisely replicate the appearance of the computer graphics overlay seen in image 1.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Dynamic outdoor scene with moving subjects",
+    "Computer graphics artificial intelligence object detection interface",
+    "Semi-transparent blue bounding boxes",
+    "Opaque brown bounding box headers",
+    "White text labels ('RIDE', 'HAT', 'MAN', 'HORSE')",
+    "Nested white text details ('Label1: Man', 'Label2: Horse')",
+    "Translucent purple-blue overlay on detected objects",
+    "Identified man/men",
+    "Identified horse/horses",
+    "Identified hat"
+  ]
+}

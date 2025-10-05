@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Medical images",
+  "prompt": "A detailed MRI scan showcasing the human brain with visible lobes, labeled areas, and gray-scale contrast, illustrating cognitive health.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A high-resolution, photorealistic sagittal MRI scan of a healthy adult human brain, clearly displaying distinct frontal, parietal, temporal, and occipital lobes. Anatomical labels for specific brain regions are precisely positioned and clearly legible, appearing as text overlays or alongside their corresponding areas without obscuring the brain's structure. The image features monochromatic grayscale contrast, with sharp distinctions between bright white matter, darker gray matter, and a deep black background, accurately representing a structurally normal brain consistent with optimal cognitive health.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Sagittal MRI scan of a healthy adult human brain",
+    "Frontal lobe",
+    "Parietal lobe",
+    "Temporal lobe",
+    "Occipital lobe",
+    "Anatomical labels",
+    "Bright white matter",
+    "Darker gray matter",
+    "Deep black background"
+  ]
+}

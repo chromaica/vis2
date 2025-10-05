@@ -1,0 +1,25 @@
+{
+  "subtopic": "Shader Programming",
+  "prompt": "Change the shader of the large sphere to a highly reflective metallic material, enhancing highlights and reflections.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751811915842,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1: Change the shader of the large central sphere to a highly reflective metallic material, enhancing its highlights and reflections.",
+  "annotator": "edisy",
+  "objects": [
+    "Large central metallic sphere with enhanced highlights and reflections",
+    "Smaller green sphere",
+    "Smaller off-white sphere",
+    "Dark background",
+    "Reflective surface",
+    "Colorful reflections on the surface",
+    "Shadows of the spheres"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,25 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "Modify image 1, an isometric floor plan diagram, by applying the soft, stylized 3D appearance and gentle color palette from image 3 to its internal layout, machinery, and figures. Also, place the logo from image 2 in the bottom left corner of the diagram.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, an isometric floor plan diagram, by applying the soft, stylized 3D aesthetic, rounded forms, and gentle pastel color palette (similar to the pink and cream tones) from image 3 to its internal layout, machinery, and figures. Additionally, incorporate the isometric 'AMAA' graphic, which forms the office layout in image 2, into the bottom left corner of the diagram.",
+  "annotator": "maxku",
+  "objects": [
+    "Isometric floor plan diagram",
+    "Internal walls and partitions of the floor plan, with a soft, stylized 3D aesthetic, rounded forms, and pastel colors",
+    "Machinery within the floor plan, with a soft, stylized 3D aesthetic, rounded forms, and pastel colors",
+    "Figures within the floor plan, with a soft, stylized 3D aesthetic, rounded forms, and pastel colors",
+    "Isometric 'AMAA' graphic from image 2, in the bottom left corner",
+    "Office layout elements (desks, chairs, figures) integrated into the 'AMAA' graphic",
+    "\"1st Floor\" text label",
+    "\"Finishing Dept\" text",
+    "\"RodHunt Illustration Studio\" text"
+  ]
+}

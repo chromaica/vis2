@@ -1,0 +1,27 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "Produce a microscopic-style image inspired by the plant cells the first reference image, but replace the chloroplasts with the green glass mosaic tiles from the second reference image. Arrange the tiles in a grid-like pattern to mimic the rigid cell walls, with some tiles slightly misaligned or cracked for organic variance. Use a pale yellow background with faint hexagonal patterns to suggest cell walls under a microscope. Add subtle light reflections and micro-scratches on the tiles to enhance realism and depth, creating a vibrant yet structured aesthetic.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic image depicting a microscopic view of plant cells. Model the overall structure and irregular grid-like arrangement of the cells after image 1. Within each cell, replace the bright green chloroplast-like elements with the texture and appearance of the green glass mosaic tiles from image 2. Arrange these mosaic tiles to fill the internal cell shapes, ensuring some individual tiles are slightly misaligned or show small cracks for organic variance. The background should be a pale yellow with faint hexagonal patterns, clearly delineating the cell walls, similar to the outlines in image 1. Incorporate subtle light reflections and micro-scratches on the mosaic tile surfaces to enhance realism and depth, resulting in a vibrant yet structured aesthetic.",
+  "objects": [
+    "Plant cells",
+    "Irregular grid-like cell arrangement",
+    "Green glass mosaic tiles (filling cell interiors)",
+    "Slightly misaligned mosaic tiles",
+    "Mosaic tiles with small cracks",
+    "Pale yellow background",
+    "Faint hexagonal patterns on background",
+    "Clearly delineated cell walls",
+    "Subtle light reflections on mosaic tiles",
+    "Micro-scratches on mosaic tiles"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,18 @@
+{
+  "task": "SRIE",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "Remove the masked leukemia cells and inpaint the background to fill in the removed areas.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Remove the leukemia cells precisely indicated by the white mask in image 2. Inpaint the vacated areas by seamlessly generating more of the surrounding background, which includes red blood cells and plasma, maintaining the photorealistic microscopic style of image 1.",
+  "annotator": "nimajamali",
+  "objects": [
+    "red blood cells",
+    "plasma",
+    "leukemia cells (should not be present)"
+  ]
+}

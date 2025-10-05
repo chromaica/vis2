@@ -1,0 +1,25 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "Increase torches along the path, add items to the bag, and slightly reduce health points.",
+  "cond_images": [
+    "1.jpeg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, a Minecraft screenshot. Add more torches along the visible dirt path bordered by wooden planks. Fill several of the empty inventory slots in the bottom-center UI with various items. Slightly reduce the player's health by removing two full heart icons from the health bar in the bottom-left UI.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Minecraft game environment",
+    "Dirt path bordered by wooden planks",
+    "Torches along the visible dirt path (more than original)",
+    "Wooden structures and walls",
+    "Blue sky with clouds",
+    "Stone structure with fire",
+    "Player's health bar with eight full heart icons",
+    "Player's inventory slots with some filled items",
+    "Player's hunger bar",
+    "Partially visible player's arm/hand"
+  ],
+  "human_annotation": true
+}

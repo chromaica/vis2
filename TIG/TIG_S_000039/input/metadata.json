@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "Side view of a puzzle platformer level where the player character, a robot penguin, must push slippery ice blocks to solve a path to the exit. Include buttons on-screen for 'Push', 'Jump', and 'Reset'. Background is a frozen cavern with light shafts coming from cracks. Clean minimalist UI with cartoon elements",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A side-view screenshot of a 2D puzzle platformer game level. The scene features a cute robot penguin player character standing on a frosty platform, facing several translucent, slippery ice blocks arranged as obstacles requiring manipulation to clear a path to the exit. The background is a frozen cavern with sharp ice formations, illuminated by bright light shafts streaming from cracks in the ceiling. In the bottom-right corner of the screen, there are three clean, minimalist, cartoon-style UI buttons clearly labeled 'Push', 'Jump', and 'Reset'. The overall image should maintain a vibrant, charming cartoon art style.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Cute robot penguin player character",
+    "Frosty platform",
+    "Translucent, slippery ice blocks arranged as obstacles",
+    "Frozen cavern background",
+    "Sharp ice formations",
+    "Bright light shafts streaming from cracks in the ceiling",
+    "'Push' UI button in bottom-right corner",
+    "'Jump' UI button in bottom-right corner",
+    "'Reset' UI button in bottom-right corner"
+  ]
+}

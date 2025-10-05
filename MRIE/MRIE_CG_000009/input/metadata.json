@@ -1,0 +1,28 @@
+{
+  "subtopic": "Object detection visuals",
+  "prompt": "Edit image 1 by adding the scene elements (laptop, coffee, person) from image 2 and the desk setup with person and pencils from image 3 into the room. Overlay object detection bounding boxes and classification labels on all detected items, reflecting a computer vision output.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748454588120,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1. Integrate the elements from image 2 by depicting a person casually seated on the existing sofa, holding a coffee cup with a laptop on their lap. Additionally, incorporate the complete desk setup from image 3, positioning the wooden desk against the right wall of the room. This desk should feature a person (as depicted in image 3) intently focused on a laptop, with a pencil holder containing colorful pencils visible on the desk surface. Finally, overlay precise object detection bounding boxes and corresponding classification labels for all identifiable objects within the entire modified scene, accurately reflecting a computer vision output.",
+  "annotator": "winston",
+  "objects": [
+    "Person casually seated on the sofa",
+    "Coffee cup held by the person on the sofa",
+    "Laptop on the lap of the person on the sofa",
+    "Wooden desk against the right wall",
+    "Person intently focused on a laptop at the desk",
+    "Laptop on the wooden desk",
+    "Pencil holder on the wooden desk",
+    "Colorful pencils in the pencil holder",
+    "Precise object detection bounding boxes",
+    "Corresponding classification labels"
+  ]
+}

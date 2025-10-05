@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Cultural or Heritage art",
+  "prompt": "Replace the temple architecture in the first image with the pagoda-style structure from the second image, and decorate it with the lanterns shown in the third image.",
+  "cond_images": [
+    "1.jpg",
+    "2.png",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Replace the central temple architecture with the multi-tiered, red and blue pagoda from image 2. Decorate this newly placed pagoda and its immediate surroundings with the glowing golden lanterns seen in image 3.",
+  "annotator": "paria",
+  "objects": [
+    "multi-tiered, red and blue pagoda (central)",
+    "glowing golden lanterns",
+    "steps/stairs",
+    "lush, colorful foliage",
+    "pink cherry blossom trees",
+    "sky",
+    "tree branch (on the left)",
+    "central temple architecture (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

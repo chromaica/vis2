@@ -1,0 +1,20 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Pop art",
+  "prompt": "Create a hole to the money bag, and paper money should be falling out of the bag.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Add a tear or hole to the brown money bag held by the Monopoly Man in his left hand on the left side of the artwork. From this opening, depict several paper banknotes visibly falling out of the bag and downwards towards the bottom of the image.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Monopoly Man character",
+    "Brown money bag held by Monopoly Man in his left hand on the left side",
+    "Tear or hole in the brown money bag",
+    "Several paper banknotes visibly falling out of the bag and downwards",
+    "Spray can held by Monopoly Man in his right hand",
+    "Artwork background with graffiti and newspaper texture"
+  ]
+}

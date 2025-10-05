@@ -1,0 +1,25 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Traditional art",
+  "prompt": "Generate an oil painting of a Venetian gondola at sunset",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Create an oil painting of a Venetian canal scene at sunset, drawing inspiration from image 1 for the architectural style, the arrangement of moored gondolas and wooden mooring poles, and the vintage textured aesthetic. The scene should be bathed in warm, golden sunset light, reflecting on the water and the historic buildings, including those with red awnings and green shutters as seen in image 1.",
+  "annotator": "Johnny",
+  "objects": [
+    "Venetian canal",
+    "Historic buildings",
+    "Moored gondolas",
+    "Wooden mooring poles",
+    "Water",
+    "Warm, golden sunset light",
+    "Buildings with red awnings",
+    "Buildings with green shutters",
+    "Vintage textured aesthetic",
+    "Reflections on water and buildings"
+  ],
+  "human_annotation": true
+}

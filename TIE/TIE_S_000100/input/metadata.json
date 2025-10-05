@@ -1,0 +1,25 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Change the progress bar colors to reflect different urgency levels: red for urgent, yellow for moderate, and green for on track.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. In each of the eight project cards displayed on the dashboard, modify the color of the grey horizontal progress bar. The color of each progress bar should reflect its urgency level: change the bar to red if the project is urgent, yellow if it is moderately urgent, and green if it is on track.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Dashboard user interface",
+    "Eight project cards",
+    "Horizontal progress bars (with colors reflecting urgency: red, yellow, or green)",
+    "Boardto branding",
+    "Left navigation sidebar",
+    "Search bar",
+    "User profile and notification icon",
+    "Project titles and details within cards",
+    "Numerical progress percentages within cards",
+    "Status filters (All, Started, Approval, Completed)"
+  ],
+  "human_annotation": true
+}

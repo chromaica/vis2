@@ -1,0 +1,23 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "generate a weather map reimagined as an emotional landscape, where storm systems represent anger, sunny areas show joy, fog indicates confusion, and rainbow bridges connect different mood territories",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate an image: A weather map conceptualized as an emotional landscape. On this map, raging storm systems embody anger. Expansive, brightly lit sunny zones depict joy. Areas of dense, swirling fog represent confusion. Vibrant rainbow bridges visually connect these distinct mood territories.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Weather map layout",
+    "Raging storm systems",
+    "Visual depiction of anger (associated with storms)",
+    "Expansive, brightly lit sunny zones",
+    "Visual depiction of joy (associated with sunny zones)",
+    "Dense, swirling fog areas",
+    "Visual depiction of confusion (associated with fog)",
+    "Vibrant rainbow bridges",
+    "Visual connections between distinct mood territories"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

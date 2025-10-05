@@ -1,0 +1,26 @@
+{
+  "task": "SRIG",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": "Create a DC Universe-style comic book cover inspired by the style of the reference image.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "https://www.adazing.com/marvel-comic-book-covers/",
+  "prompt_refined": "Generate a dynamic DC Universe-style comic book cover. The artwork should emulate the classic, vibrant comic book art style, bold linework, and overall composition of image 1. Feature multiple DC Universe superheroes in a heroic group arrangement, similar to the characters depicted on image 1, filling the majority of the cover. Include a prominent, bold comic title at the top, styled and positioned akin to 'AVENGERS ASSEMBLE!' from image 1, along with typical comic cover elements such as a publisher banner and issue details, all reflecting the vintage aesthetic of image 1.",
+  "annotator": "Johnny",
+  "objects": [
+    "DC Universe-style comic book cover",
+    "multiple DC Universe superheroes",
+    "heroic group arrangement of superheroes",
+    "prominent, bold comic title at the top",
+    "publisher banner",
+    "issue details (e.g., issue number, price)",
+    "classic comic book art style",
+    "vibrant comic book colors",
+    "bold linework",
+    "overall composition akin to image 1"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

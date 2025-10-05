@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": " Add the smiling fire character from image 2 to the left of the \u201cPOWER\u201d button in image 1, replacing the existing blue icon, but keeping the button size and text unchanged. Then add the battery icon from image 3 to the top-right corner of the screen. Everything else must stay as it is.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the existing blue icon to the left of the \"POWER\" button with the smiling fire character from image 2, ensuring the button's size and text remain unchanged. Additionally, add the battery icon located on the right side of image 3 to the top-right corner of the screen in image 1. All other elements in image 1 must remain untouched.",
+  "annotator": "parnian",
+  "objects": [
+    "Smiling fire character to the left of the \"POWER\" button",
+    "Battery icon in the top-right corner",
+    "\"POWER\" button",
+    "\"EXPLANATION\" button",
+    "\"WARM UP\" button",
+    "\"NEURO ATHLETIC\" button",
+    "\"FITNESS WORKOUT\" title with blue icon",
+    "Bottom navigation bar with \"My Favorites\", \"Home\", and \"Timer\" options",
+    "Dark background",
+    "Existing blue icon to the left of the \"POWER\" button (should not be present)"
+  ]
+}

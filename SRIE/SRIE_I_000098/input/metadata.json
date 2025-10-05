@@ -1,0 +1,23 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Project the line chart into the mobile interface.",
+  "cond_images": [
+    "1.png",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Using image 1 as the source image, edit the mobile phone screen to project the glowing green line chart from image 2 onto its display. Ensure the line chart appears as an integrated data visualization within the mobile interface.",
+  "annotator": "Johnny",
+  "objects": [
+    "hand",
+    "mobile phone",
+    "mobile phone screen",
+    "glowing green line chart (on the mobile phone screen)",
+    "grid lines (from the chart)",
+    "mobile interface elements (e.g., icons, buttons, navigation bars)",
+    "dark-themed phone interface",
+    "floating colorful UI elements"
+  ]
+}

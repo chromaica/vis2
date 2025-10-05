@@ -1,0 +1,26 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Transform this graph into a stacked area chart, with each area layered on top of another.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, which displays a line graph of social media traffic trends, by converting it into a stacked area chart. Each of the original lines (Facebook, Pinterest, Twitter, YouTube) should be transformed into a distinct, filled area, with these areas layered one on top of another to represent their cumulative sum, while retaining their original colors as shown in the legend.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Chart Title: \"Social Media Traffic Trends\"",
+    "Chart Subtitle: \"September 2012-September 2013\"",
+    "Y-axis with percentage labels",
+    "X-axis with monthly labels",
+    "Chart Legend with Facebook, Pinterest, Twitter, YouTube",
+    "Blue filled area representing Facebook data",
+    "Red filled area representing Pinterest data",
+    "Green filled area representing Twitter data",
+    "Orange filled area representing YouTube data",
+    "Source text"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

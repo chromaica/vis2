@@ -1,0 +1,24 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "create a visualize a bubble chart of 2025 SaaS startups: x-axis = monthly burn rate ($M), y-axis = ARR growth %, bubble size = employees, bubble hue = industry vertical (FinTech, HealthTech, AdTech, EdTech, ClimateTech)",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate an information graphic: A bubble chart visualizing 2025 SaaS startups. The x-axis is labeled 'Monthly Burn Rate ($M)', and the y-axis is labeled 'ARR Growth %'. Each bubble's size represents 'Employees', and its color (hue) indicates its 'Industry Vertical'. The industry verticals include FinTech, HealthTech, AdTech, EdTech, and ClimateTech, with each assigned a unique and distinct color. Ensure clear axis labels and include a legend mapping colors to their corresponding industry verticals.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Bubble chart layout",
+    "X-axis",
+    "Y-axis",
+    "X-axis label: 'Monthly Burn Rate ($M)'",
+    "Y-axis label: 'ARR Growth %'",
+    "Multiple data bubbles (varying sizes and colors)",
+    "Color legend",
+    "FinTech color (in bubbles and legend)",
+    "HealthTech color (in bubbles and legend)",
+    "AdTech color (in bubbles and legend)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

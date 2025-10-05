@@ -1,0 +1,16 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Medical images",
+  "prompt": "A close-up digital render of a human iris, with emphasis on its unique patterns and colors, set against a blurred background for focus.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic, extreme close-up image of a human iris. Emphasize the intricate and unique patterns, along with the vibrant colors, rendered in exceptional detail. The background should be heavily blurred to ensure the iris is the sharp and prominent focal point.",
+  "annotator": "cwhsu",
+  "objects": [
+    "human iris",
+    "intricate and unique patterns on the iris",
+    "vibrant colors on the iris",
+    "heavily blurred background"
+  ]
+}

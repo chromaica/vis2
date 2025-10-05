@@ -1,0 +1,23 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "generate a photo editing software interface with color palette wheels that spin like artist's brushes, tool icons that glow when selected, canvas area with subtle paper texture, and adjustment sliders shaped like paintbrushes",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a high-resolution screenshot of a sophisticated photo editing software interface. The central display area presents the image canvas with a distinct, subtle paper texture visible beneath the image. On the left side of the interface, a vertical toolbar contains a collection of minimalist tool icons; one or more of these icons are currently selected and emit a soft, vibrant glow. To the right of the canvas, a dedicated panel houses a set of interactive elements: two prominent color palette wheels are visually designed to appear as if they are constantly spinning, resembling the dynamic motion of artist's brushes during painting. Below these color wheels, a series of horizontal adjustment sliders are uniquely sculpted and detailed to resemble artistic paintbrushes, each with a small numerical value indicator.",
+  "annotator": "theblackcat",
+  "objects": [
+    "sophisticated photo editing software interface",
+    "central image canvas",
+    "subtle paper texture beneath the image on the canvas",
+    "vertical toolbar on the left side",
+    "minimalist tool icons within the left toolbar",
+    "selected tool icon(s) emitting a soft, vibrant glow on the left toolbar",
+    "dedicated panel on the right side of the canvas",
+    "two prominent color palette wheels appearing to spin within the right panel",
+    "horizontal adjustment sliders resembling artistic paintbrushes below the color wheels",
+    "small numerical value indicators on the paintbrush-like sliders"
+  ],
+  "human_annotation": true
+}

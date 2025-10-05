@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Reimagine a massive Icon-class cruise ship referenced in the first image as a blue whale referenced in the second image. The ship\u2019s enormous hull is sleek and streamlined, covered in smooth, blue-gray metallic panels mimicking a whale\u2019s skin, with bioluminescent accents along the sides. The deck is broad and curved like a whale\u2019s back, with multiple towering funnels resembling blowholes that emit misty exhaust. Propulsion comes from two colossal Azipod thrusters at the stern, glowing with blue energy to mimic a whale\u2019s powerful tail flukes. The bridge is shaped like a whale\u2019s head with large, rounded windows as eyes.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic image of a massive Icon-class cruise ship, inspired by the vessel in image 1, reimagined with the visual characteristics of a blue whale, referenced in image 2. The ship\u2019s enormous hull should be sleek and streamlined, covered in smooth, blue-gray metallic panels that mimic a whale\u2019s skin texture, with bioluminescent accents running horizontally along its sides. The broad top deck should curve like a whale\u2019s back, featuring multiple towering funnels redesigned to resemble whale blowholes, emitting misty exhaust. At the stern, two colossal Azipod thrusters, glowing with blue energy, should function as powerful whale tail flukes for propulsion. The bridge, located at the bow, should be shaped like a whale\u2019s head with large, rounded windows serving as eyes.",
+  "objects": [
+    "massive cruise ship",
+    "sleek, blue-gray hull with whale skin texture",
+    "bioluminescent accents along hull sides",
+    "top deck curving like a whale\u2019s back",
+    "funnels resembling whale blowholes",
+    "misty exhaust from blowholes",
+    "two colossal Azipod thrusters at stern",
+    "blue glowing energy from thrusters/tail flukes",
+    "bridge shaped like a whale\u2019s head at bow",
+    "large, rounded windows serving as eyes on bridge"
+  ]
+}

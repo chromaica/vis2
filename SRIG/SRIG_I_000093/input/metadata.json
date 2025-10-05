@@ -1,0 +1,26 @@
+{
+  "subtopic": "Visual instructions and manuals",
+  "prompt": "Based on the reference photo of a person in the Warrior II yoga pose, create an instructional graphic that breaks down the pose into three stages: feet placement, arm position, and head alignment.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "https://yogapractice.com/wp-content/uploads/2020/01/Why-You-Should-Practice-the-Warrior-Poses.jpg",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate a single instructional graphic of the Warrior II yoga pose, referencing the posture of the person in image 1. The graphic should be composed of three distinct, clearly labeled sections, each illustrating a specific aspect of the pose:\n\n1.  **Feet Placement:** An isolated visual demonstrating the precise positioning of the feet and legs on the yoga mat, replicating the stance from image 1.\n2.  **Arm Position:** An isolated visual highlighting the outstretched arms and the precise hand and finger alignment, as demonstrated in image 1.\n3.  **Head Alignment:** An isolated visual emphasizing the head's orientation and the direction of the gaze, consistent with image 1.\n\nArrange these three sections as individual panels within the overall graphic, either horizontally side-by-side or stacked vertically, to create a clear, step-by-step instructional layout suitable for an information graphic.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Three distinct visual panels",
+    "Feet and legs in Warrior II pose",
+    "Yoga mat",
+    "Label for \"Feet Placement\"",
+    "Outstretched arms in Warrior II pose",
+    "Hands with precise finger alignment",
+    "Label for \"Arm Position\"",
+    "Head in Warrior II pose",
+    "Direction of gaze",
+    "Label for \"Head Alignment\""
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

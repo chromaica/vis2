@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "3D renders",
+  "prompt": "A 3D render of a toll plaza at sunset, showing toll booths with reflective glass, vehicles waiting in line, and distant highway in the background. Rendered with warm lighting and realistic shadows.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A 3D render of a toll plaza at sunset. The image should depict multiple toll booths with highly reflective glass surfaces. Vehicles are queued in lines leading up to the booths. In the background, a highway stretches into the distance. The scene is illuminated by warm, golden hour lighting, casting long, realistic shadows.",
+  "annotator": "maxku",
+  "objects": [
+    "toll plaza",
+    "multiple toll booths",
+    "highly reflective glass surfaces",
+    "queued vehicles",
+    "highway stretching into the distance",
+    "sunset sky",
+    "warm, golden hour lighting",
+    "long, realistic shadows"
+  ],
+  "human_annotation": true
+}

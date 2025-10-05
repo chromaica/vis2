@@ -1,0 +1,24 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Create a meme by combining the face expression from image 1 with the setting from image 2. Replace the sleeping student\u2019s face in the image 2 with the Shrek-style smirk in the image 1. Add the caption: 'When I tell my group <I will do it later> knowing full well I won\u2019t'.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a meme image. Utilize the setting and the body of the sleeping student from image 2. Replace the sleeping student's face with the Shrek-style smirk expression from image 1, ensuring the new face is seamlessly integrated and matches the pose and lighting of the scene. Overlay the text caption 'When I tell my group <I will do it later> knowing full well I won\u2019t' at the bottom center of the image.",
+  "annotator": "parnian",
+  "objects": [
+    "Desk",
+    "Books",
+    "Papers",
+    "Sleeping person's body",
+    "Striped garment on person",
+    "Yellow/brown garment on person",
+    "Shrek-style smirk face",
+    "Text caption: 'When I tell my group <I will do it later> knowing full well I won\u2019t' at the bottom center",
+    "Sleeping student's original face (should not be present)"
+  ]
+}

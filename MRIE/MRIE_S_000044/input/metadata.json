@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "Edit image 1 by replacing the \u201cBeretun\u201d logo at the top with the H&M logo from image 3. Then replace the large gray checkmark icon beneath the heading with the classical bank building icon from image 2 resized to match the original icon. Keep everything else, including layout, address, and text unchanged.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit Image 1. Replace the 'Beretun' logo located in the top-left corner of Image 1 with the H&M logo from Image 3. Additionally, replace the large gray checkmark icon situated in the central section of Image 1, positioned directly above the 'Thank You For Your Order!' text, with the classical bank building icon from Image 2. Resize the bank icon to match the exact dimensions of the original checkmark icon. Maintain the original layout, all existing text, and all other visual elements of Image 1 unchanged.",
+  "annotator": "parnian",
+  "objects": [
+    "H&M logo in the top-left corner",
+    "Classical bank building icon in the central section, above 'Thank You For Your Order!' text",
+    "Beretun logo (should not be present)",
+    "Large gray checkmark icon (should not be present)",
+    "Dark blue header banner",
+    "\"Shop\" text and shopping cart icon",
+    "\"Thank You For Your Order!\" text",
+    "Order details table",
+    "Delivery Address and Estimated Delivery Date sections",
+    "Teal/green promotional banner with \"Get 25% off your next order.\""
+  ]
+}

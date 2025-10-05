@@ -1,0 +1,24 @@
+{
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "Edit image 1: Perform instance segmentation on the smartphone and replace it with the camera lens from image 3. Apply the high-contrast, dark background lighting style from image 2 to the background of image 1.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748456411698,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1: Replace the smartphone, held centrally by the hand in the foreground, with the black camera zoom lens and UV filter from image 3. Apply the high-contrast, dark background lighting style from image 2 to the bright, out-of-focus background of image 1.",
+  "annotator": "winston",
+  "objects": [
+    "Hand (in the foreground)",
+    "Black camera zoom lens (held by the hand)",
+    "UV filter (on the camera zoom lens)",
+    "Out-of-focus background with two blurred people",
+    "Dark, high-contrast lighting (applied to the background)",
+    "Smartphone (should not be present)"
+  ]
+}

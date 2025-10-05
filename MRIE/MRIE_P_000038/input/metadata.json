@@ -1,0 +1,26 @@
+{
+  "subtopic": "Scenic Nature Parks",
+  "prompt": "Edit image 1: Introduce the photorealistic penguin from image 2, having it swim gracefully amidst the water lilies in the foreground. Replace the background cityscape with the blend of traditional and modern buildings from image 3, retaining the sky. Incorporate the tall reeds from image 3's foreground along the water's edge, creating a unique blend of urban nature photography.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748571500450,
+  "promptLengthUsed": "long",
+  "task": "MRIE",
+  "topic": "P",
+  "prompt_refined": "Edit image 1: Introduce the photorealistic penguin from image 2, positioned swimming gracefully amidst the water lilies in the mid-foreground, slightly to the left of center. Replace the existing modern cityscape background of image 1 with the architectural blend of traditional and modern buildings from image 3, specifically integrating the distinctive traditional pavilion structure and the surrounding modern high-rises. Crucially, retain the original sky and the prominent upper architectural structure (the concrete overhang) of image 1 above the newly integrated background. Additionally, incorporate the tall, dense reeds from the foreground of image 3 along the water's edge in the middle ground of image 1, situated behind the water lilies. The final output should be a photorealistic image that uniquely blends urban and natural elements.",
+  "annotator": "boris",
+  "objects": [
+    "water lilies",
+    "photorealistic penguin swimming gracefully amidst the water lilies in the mid-foreground, slightly to the left of center",
+    "original sky",
+    "prominent upper architectural structure (concrete overhang)",
+    "water surface",
+    "distinctive traditional pavilion structure from image 3",
+    "modern high-rises from image 3",
+    "tall, dense reeds from image 3 along the water's edge in the middle ground, situated behind the water lilies"
+  ]
+}

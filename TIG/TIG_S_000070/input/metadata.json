@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": "Mock up a high-energy fitness gym website with bold red and black color scheme, dynamic workout video backgrounds, animated progress bars, before/after transformation sliders, and motivational quote overlays",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a high-energy fitness gym website user interface (UI) design. The interface prominently features a bold red and black color scheme. The main hero section includes a dynamic workout video as its background. Integrate an animated-style progress bar within a relevant section of the layout. Display a clear before/after transformation image slider with a movable vertical handle. Incorporate motivational quote overlays visible throughout different sections, potentially over images or in distinct text blocks.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Website user interface (UI) layout",
+    "Red and black color scheme",
+    "Hero section",
+    "Dynamic workout video background (in hero section)",
+    "Animated-style progress bar",
+    "Before/after transformation image slider",
+    "Movable vertical handle (on image slider)",
+    "Motivational quote overlays/text blocks"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,24 @@
+{
+  "subtopic": "Receipts",
+  "prompt": "Present this receipt's information as a simple, elegant infographic, using icons and charts to visualize the spending categories and total cost.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://eforms.com/images/2016/10/itemized-invoice-template.png",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a simple, elegant infographic based on the concept of an itemized invoice, drawing inspiration from the layout and clean aesthetic of image 1. The infographic should visually represent hypothetical spending categories and an example total cost. Use clear, distinct icons to represent each spending category, and visualize the cost breakdown using a suitable chart (e.g., a pie chart or bar chart). Position the overall total cost prominently, perhaps at the top or bottom center, with the spending category breakdown chart and associated icons clearly arranged below or beside it for easy readability.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Infographic title",
+    "Prominently displayed overall total cost",
+    "Cost breakdown chart (e.g., pie chart or bar chart)",
+    "Multiple spending category labels",
+    "Distinct icons for each spending category",
+    "Numerical values or percentages for each spending category",
+    "Clean, minimalist design elements (e.g., lines, boxes for organization)",
+    "Hierarchical arrangement of elements (total cost, then chart/icons)",
+    "White or light background"
+  ],
+  "human_annotation": true
+}

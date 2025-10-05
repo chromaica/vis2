@@ -1,0 +1,23 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "Top-down view of a fantasy tower defense game level. A twisting path crosses through grassy terrain with goblin waves advancing. Towers (archer, fire, ice) are placed at strategic points. UI displays gold, wave number, and tower upgrade buttons. Stylized, colorful fantasy look with isometric perspective",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A stylized, colorful fantasy tower defense game level rendered in an isometric top-down view. A winding path twists through vibrant green grassy terrain, with waves of goblins advancing along it. Archer, fire, and ice towers are strategically placed at key points beside the path. The user interface prominently displays a 'Gold' counter in the top-left corner, the 'Wave Number' in the top-right corner, and 'Tower Upgrade' buttons as a row along the bottom of the screen.",
+  "annotator": "theblackcat",
+  "objects": [
+    "stylized fantasy tower defense game level",
+    "winding path",
+    "vibrant green grassy terrain",
+    "goblins advancing along the path",
+    "archer towers",
+    "fire towers",
+    "ice towers",
+    "'Gold' counter in the top-left corner",
+    "'Wave Number' in the top-right corner",
+    "'Tower Upgrade' buttons as a row along the bottom of the screen"
+  ],
+  "human_annotation": true
+}

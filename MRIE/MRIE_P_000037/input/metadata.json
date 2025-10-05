@@ -1,0 +1,25 @@
+{
+  "subtopic": "Urban & Street Photography",
+  "prompt": "Edit image 1 by placing the green Bronco from image 2 photorealistically on the cobblestones. Apply the dark, dramatic nighttime lighting and bright glowing atmosphere from image 3 to illuminate the entire Colosseum scene.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748571452322,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "P",
+  "prompt_refined": "Edit image 1: Photorealistically integrate the green Ford Bronco from image 2 onto the cobblestones in the foreground. Apply the dark, dramatic nighttime lighting and the bright, warm glowing atmosphere from image 3 to illuminate the entire scene, including the Colosseum and the newly placed Bronco.",
+  "annotator": "boris",
+  "objects": [
+    "Colosseum",
+    "Cobblestones in the foreground",
+    "Green Ford Bronco",
+    "Dark, dramatic nighttime lighting",
+    "Bright, warm glowing atmosphere",
+    "Night sky",
+    "Trees"
+  ]
+}

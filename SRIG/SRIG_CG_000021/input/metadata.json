@@ -1,0 +1,25 @@
+{
+  "subtopic": "3D renders",
+  "prompt": "Generate a simple 3D render scene inspired by the reference. Depict basic geometric objects like cubes and spheres arranged on a plane. Apply flat shading and primary colors, showcasing fundamental computer graphics rendering principles.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://miro.medium.com/v2/resize:fit:1024/1*-tWcws_wwQyI8wLnOZNf1A.jpeg",
+  "promptGeneratedTimestamp": 1748766436462,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a simple 3D render scene inspired by image 1. The scene depicts basic geometric objects arranged on a flat, reflective grey plane. A blue sphere is positioned on the left, with its reflection visible on the plane. A red rectangular prism stands in the foreground, centrally placed and partially obscuring the blue sphere. To the right of the red prism and slightly behind it, a green L-shaped object, composed of two rectangular prisms, is present. All objects exhibit flat shading with clear primary colors (red, blue, green) and cast subtle shadows, set against a pure black background.",
+  "annotator": "ishengfang",
+  "objects": [
+    "flat, reflective grey plane",
+    "blue sphere positioned on the left",
+    "reflection of the blue sphere",
+    "red rectangular prism in the foreground, centrally placed, partially obscuring the blue sphere",
+    "green L-shaped object composed of two rectangular prisms, to the right of the red prism and slightly behind it",
+    "objects with flat shading",
+    "objects in primary colors (red, blue, green)",
+    "subtle shadows cast by objects",
+    "pure black background"
+  ]
+}

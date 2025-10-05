@@ -1,0 +1,29 @@
+{
+  "subtopic": "Object detection visuals",
+  "prompt": "Edit image 1 to visualise object detection results. Apply clear object masks to the detected beehives using the bright, distinct style of image 2. Highlight regions with object clusters using a transparent water effect reminiscent of image 3. Overlay contour lines and terrain coloring around objects based on the landscape style of image 4. Give each detected object a glowing, textured border inspired by the lava in image 5.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg",
+    "4.jpeg",
+    "5.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749067062588,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1, which depicts a field with beehives, to visualize object detection results. Apply clear, bright, and distinctly colored object masks to each detected beehive, inspired by the vibrant clarity and tones of image 2. Highlight regions where beehives cluster by overlaying a transparent, deep blue water effect, reminiscent of the clear lake water in image 3. Overlay detailed contour lines and arid terrain coloring onto the ground areas surrounding the beehives, mirroring the geological landscape style and subtle color variations of image 4. Finally, give each detected beehive a glowing, textured border that evokes the fiery appearance and rough surface texture of the lava in image 5.",
+  "annotator": "winston",
+  "objects": [
+    "field",
+    "beehives",
+    "clear, bright, distinctly colored object masks",
+    "transparent, deep blue water effect",
+    "detailed contour lines",
+    "arid terrain coloring",
+    "glowing, textured beehive borders",
+    "trees in the background"
+  ],
+  "human_annotation": true
+}

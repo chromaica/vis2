@@ -1,0 +1,19 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Cultural/heritage art",
+  "prompt": "Mesoamerican pyramid bathed in golden sunlight, with lush jungle surrounding ancient stone carvings and colorful parrots.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A magnificent Mesoamerican pyramid temple bathed in warm, golden sunlight. Dense, lush tropical jungle envelops the pyramid, where ancient stone carvings are partially revealed amidst the foliage. Vibrant, colorful parrots are visible, perched on branches and flying through the surrounding canopy.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Mesoamerican pyramid temple",
+    "Warm, golden sunlight",
+    "Dense, lush tropical jungle",
+    "Ancient stone carvings",
+    "Vibrant, colorful parrots",
+    "Parrots perched on branches",
+    "Parrots flying through the canopy"
+  ]
+}

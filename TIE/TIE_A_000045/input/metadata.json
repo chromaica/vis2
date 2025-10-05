@@ -1,0 +1,26 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Post-Impressionism",
+  "prompt": "Make this painting into the aspect ratio of 9:16 to post it on Instagram story. Capture the essence of the painting and adjust their composition accordingly such that the main subject remains prominent. Expand the background to fill the aspect ratio if needed.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the painting of women on a porch, to a 9:16 aspect ratio. Vertically expand the canvas by outpainting the existing scene. Extend the wooden floorboards at the bottom of the painting and the lush green landscape and any associated structural elements of the porch at the top. Ensure the composition keeps the main subjects, particularly the woman in the straw hat and the other figures, prominent and central within the new aspect ratio. Maintain the original painting's style, colors, and brushwork.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "woman in straw hat",
+    "woman in pink shirt",
+    "woman in maroon shirt",
+    "woman in orange dress",
+    "wooden floorboards",
+    "lush green landscape",
+    "porch pillars",
+    "porch structural elements",
+    "basket with fruit",
+    "white cloth/object on porch"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

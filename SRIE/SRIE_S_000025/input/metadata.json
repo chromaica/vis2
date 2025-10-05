@@ -1,0 +1,28 @@
+{
+  "subtopic": "Receipts",
+  "prompt": "Update Image 1, the American Airlines receipt screenshot, using the visual style of Image 2 (Google Play receipt). Adopt its clean layout, modern sans-serif font, and incorporate a 'Thank you' heading similar to Image 2.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1750758986509,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit Image 1, the American Airlines receipt screenshot, using the visual style of Image 2, the Google Play receipt. Reformat all content within Image 1, including the American Airlines logo, flight details, transaction information, and purchase items, to adopt Image 2's clean, minimalist layout and modern sans-serif typography. Additionally, integrate a prominent 'Thank you' heading into the receipt, positioned similarly to its placement below the logo in Image 2.",
+  "annotator": "ishengfang",
+  "objects": [
+    "American Airlines logo",
+    "'Thank you' heading (positioned below the logo)",
+    "Flight details (Flight: 1674, Date: 12/09/2013)",
+    "Transaction information (Transaction #: 4151757, Credit Card #: XXXXXXXXXXXX6948)",
+    "Inflight Purchases heading",
+    "Purchase item: 1 Clif Energy Bar",
+    "Item price ($2.89)",
+    "Total Amount ($2.89 USD)",
+    "Grand Total ($2.89 USD)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

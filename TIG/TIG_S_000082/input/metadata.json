@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "A fish-scale stained receipt from \"Bergen Fisketorv\" (Bergen Fish Market) in Norway, listing fresh salmon and king crab in Norwegian kroner, printed on waterproof paper with Nordic runes as decorative elements",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A close-up view of a well-worn, waterproof paper receipt, visibly stained with scattered, iridescent fish scales. At the top of the receipt, the text 'Bergen Fisketorv' is prominently displayed, with 'Bergen, Norway' positioned directly below it. The main body of the receipt features a clearly itemized list, including 'Fresh Salmon' and 'King Crab', each followed by an appropriate price indicated in Norwegian Kroner (kr), with prices aligned to the right. Subtle Nordic runes are incorporated as decorative elements, perhaps as a border around the text area or as a faint watermark within the paper's texture.",
+  "annotator": "theblackcat",
+  "objects": [
+    "well-worn, waterproof paper receipt",
+    "scattered, iridescent fish scales (on the receipt)",
+    "text: 'Bergen Fisketorv' (at the top of the receipt)",
+    "text: 'Bergen, Norway' (below 'Bergen Fisketorv')",
+    "itemized list (on the receipt)",
+    "text: 'Fresh Salmon' (in the list)",
+    "text: 'King Crab' (in the list)",
+    "prices in Norwegian Kroner (kr) (aligned right next to items)",
+    "subtle Nordic runes (as decorative elements or watermark)"
+  ]
+}

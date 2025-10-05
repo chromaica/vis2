@@ -1,0 +1,17 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "A young boy with tousled hair and wide eyes, watching a kite fly high against a backdrop of a clear blue sky.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A photorealistic image of a young boy, approximately 7 years old, with tousled light brown hair and wide, wonder-filled eyes. He is standing in an open, sunlit grassy field, looking intently upwards. High in the vast, clear azure blue sky, a vibrant, multi-colored diamond kite soars prominently in the upper-right section of the frame. A few soft, wispy clouds are scattered across the horizon.",
+  "annotator": "cwhsu",
+  "objects": [
+    "young boy (approx. 7 years old, tousled light brown hair, wide, wonder-filled eyes, looking upwards)",
+    "sunlit grassy field",
+    "vast, clear azure blue sky",
+    "vibrant, multi-colored diamond kite (in the upper-right section of the frame)",
+    "soft, wispy clouds (scattered across the horizon)"
+  ]
+}

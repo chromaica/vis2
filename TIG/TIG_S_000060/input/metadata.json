@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "A papyrus-textured receipt from \"Cairo Antiquities Bazaar\" written in Arabic and English, listing replica scarabs and miniature pyramids in Egyptian pounds, with sand dusting the corners and hieroglyphic decorative borders",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A papyrus-textured receipt, light brown in color, prominently featuring \"Cairo Antiquities Bazaar\" at the top. The receipt lists items like \"replica scarabs\" and \"miniature pyramids,\" with their prices clearly marked in Egyptian pounds. All text, including item descriptions and prices, is presented in both Arabic script and English. Fine, light-colored sand is gently dusted across the lower corners and along the bottom edge of the papyrus. Intricate hieroglyphic patterns form decorative borders along all four edges of the receipt.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Light brown, papyrus-textured receipt",
+    "\"Cairo Antiquities Bazaar\" text (at top of receipt)",
+    "Listed items (e.g., replica scarabs, miniature pyramids)",
+    "Prices (in Egyptian pounds)",
+    "Text in Arabic script",
+    "Text in English",
+    "Fine, light-colored sand (dusted on lower corners and bottom edge of receipt)",
+    "Intricate hieroglyphic patterns (as decorative borders along all four edges)"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,26 @@
+{
+  "subtopic": "Game assets",
+  "prompt": "Generate a set of isometric 3D game assets, drawing inspiration from the style and detail of the provided reference. Focus on varied jungle and ancient ruin elements like dense foliage, broken pillars, statues, and unique environmental props for computer graphics use.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://e7.pngegg.com/pngimages/376/713/png-clipart-isometric-graphics-in-video-games-and-pixel-art-savage-worlds-concept-art-asset-rpg-miscellaneous-game.png",
+  "promptGeneratedTimestamp": 1748767746786,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a diverse collection of isometric 3D game assets. Emulate the distinct stylized art style, vibrant color palette, and detailed rendering present in image 1. The assets should include a variety of jungle elements such as dense foliage, palm trees, and other tropical plants. Additionally, incorporate ancient ruin components like broken stone pillars, ruined structures, and intricately carved statues. Supplement these with unique environmental props, including specific items like monkey figures, totems, and other decorative or ceremonial objects. All assets must maintain a clear isometric perspective, suitable for computer graphics applications.",
+  "annotator": "ishengfang",
+  "objects": [
+    "dense foliage",
+    "palm trees",
+    "tropical plants",
+    "broken stone pillars",
+    "ruined structures",
+    "intricately carved statues",
+    "monkey figures",
+    "totems",
+    "decorative objects",
+    "ceremonial objects"
+  ]
+}

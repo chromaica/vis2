@@ -1,0 +1,27 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": "Generate a panel where a man drives through a burning city with sunglasses on, using the driver\u2019s face and glasses from the first image, the fire background from the second image, and the comic speech bubble style from the third image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a single comic panel depicting a man driving a vehicle through a burning city. The man's face, his determined expression, and his characteristic yellow-rimmed blue sunglasses should directly match the visual style of the driver in image 1. The city in the background should be engulfed in flames, adopting the distinct, stylized fire and color scheme prevalent throughout image 2. The panel should feature a speech bubble originating from the man, designed in the specific white oval style with bold black text, similar to the speech bubble shown in image 3.",
+  "annotator": "parnian",
+  "objects": [
+    "man driving a vehicle",
+    "man's face with determined expression",
+    "man's yellow-rimmed blue sunglasses (matching visual style of Image 1)",
+    "vehicle",
+    "city in the background, engulfed in flames",
+    "stylized flames (matching visual style and color scheme of Image 2)",
+    "speech bubble originating from the man",
+    "white oval speech bubble style (matching visual style of Image 3)",
+    "bold black text inside the speech bubble",
+    "comic panel format"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,23 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Portraits",
+  "prompt": "Remove the yellow turban from the second image and replace it with the orange hair from the girl in the first image. Also, add the folding hand fan from the third image to the second image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 2, the painting of the woman with the yellow turban. Remove the yellow turban and replace it with the orange hair and overall hairstyle of the woman depicted in image 1. Additionally, integrate the black folding hand fan from image 3, positioning it in image 2 as if held by the woman, partially covering her right shoulder and upper torso, consistent with its placement and scale in image 3.",
+  "annotator": "paria",
+  "objects": [
+    "Woman (main subject, from original image 2)",
+    "Orange hair and overall hairstyle (from reference image 1)",
+    "Black folding hand fan (from reference image 3)",
+    "Fan positioned partially covering the woman's right shoulder and upper torso",
+    "Yellow turban (should not be present)",
+    "Artistic painting style (from original image 2)",
+    "Background of the painting (from original image 2)"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "subtopic": "Object detection visuals",
+  "prompt": "Edit image 1 to create an object detection visualization. Add a styled bounding box and 'Vehicle' label around the car, using image 3's clean graphic style for the overlay. Render the car within the box in image 2's flat, illustrative style.",
+  "cond_images": [
+    "1.jpeg",
+    "2.png",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748456140493,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1 to transform it into an object detection visualization. Overlay a bounding box around the central red car, and place the text label 'Vehicle' directly above the bounding box. Both the bounding box and the 'Vehicle' label should adopt the clean, graphic style seen in image 3. Inside this bounding box, re-render only the red car with the flat, illustrative cartoon style evident in image 2, ensuring it retains its original position and scale.",
+  "annotator": "winston",
+  "objects": [
+    "red car (re-rendered in flat, illustrative cartoon style)",
+    "bounding box around the red car (in clean, graphic style)",
+    "'Vehicle' text label above the bounding box (in clean, graphic style)",
+    "dark blue/purple background",
+    "white numbers \"2025\"",
+    "\"HAPPY NEW YEAR\" text",
+    "white rectangular frame",
+    "golden confetti (stars and ribbons)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,22 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "QR codes",
+  "prompt": "Add a subtle shadow beneath the hand holding the phone to create a stronger sense of depth and realism.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Add a subtle, realistic cast shadow on the light pink background, directly beneath the hand holding the white smartphone. The shadow should enhance the perception of depth and make the phone and hand appear more grounded.",
+  "annotator": "cwhsu",
+  "objects": [
+    "hand",
+    "white smartphone",
+    "QR code on smartphone screen",
+    "\"QR Code\" text and \"URL\" field with \"www.canva.com\" on smartphone screen",
+    "\"Customise\" dropdown on smartphone screen",
+    "\"Generate code\" button on smartphone screen",
+    "light pink background",
+    "subtle, realistic cast shadow on the light pink background, directly beneath the hand and smartphone"
+  ]
+}

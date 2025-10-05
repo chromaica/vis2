@@ -1,0 +1,21 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "Fill the text with the stitch patterns and thread colors.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the text \"NOT HAPPY BUT IT'S OKAY\", by applying the multi-colored embroidered patch style and vibrant thread colors from image 2 to fill each letter.",
+  "annotator": "theblackcat",
+  "objects": [
+    "The phrase \"NOT HAPPY BUT IT'S OKAY\"",
+    "Letters with an embroidered texture",
+    "Multi-colored filling for each letter",
+    "Vibrant thread colors (e.g., light blue, mint green, light pink, yellow, lavender, white)",
+    "Patch-like appearance for the text",
+    "Dark background"
+  ]
+}

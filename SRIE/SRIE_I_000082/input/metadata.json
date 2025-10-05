@@ -1,0 +1,27 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "Apply the glass morphism effect from the second image to the UI mockup.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Apply the glass morphism effect, as demonstrated in image 2, to the distinct UI panels and information graphic elements within the main content area of the UI mockup.",
+  "annotator": "Johnny",
+  "objects": [
+    "Glass morphic UI panel with \"Ui/Ux\" text and icons",
+    "Glass morphic \"Font Aa\" UI panel",
+    "Glass morphic \"Income 245 USD\" UI panel",
+    "Glass morphic \"Graphic\" UI panel with line graph",
+    "Glass morphic \"Progress\" UI panel with donut charts",
+    "Top navigation bar",
+    "\"Ui / Ux Central\" heading",
+    "\"Easy build website\" heading",
+    "Abstract background shapes",
+    "\"learn more\" button"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

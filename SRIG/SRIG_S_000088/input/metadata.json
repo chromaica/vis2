@@ -1,0 +1,23 @@
+{
+  "subtopic": "Websites",
+  "prompt": "Generate a version of this travel website as if it were a vintage travel poster from the 1950s, using stylized illustrations and bold, optimistic typography.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "https://images.world-of-waterfalls.com/booking-com-search-results-example.jpg",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate an image that transforms the content and layout of the travel website shown in image 1 into a vintage travel poster from the 1950s. The poster should feature stylized illustrations and bold, optimistic typography.\n\nThe poster's design should adapt the website's two-column structure:\n-   The left 'Search' sidebar from image 1 should be reinterpreted as supplementary promotional text or design elements related to travel planning and booking, integrated seamlessly into the poster's overall aesthetic.\n-   The prominent 'Reykjav\u00edk: 199 properties found' banner from image 1 should be reinterpreted as a captivating main title for the destination.\n-   The property listings (e.g., 'Downtown Reykjavik,' 'Midgardur by Center Hotels,' 'Hotel \u00d3dinsv\u00e9') from image 1 should be depicted as distinct, stylized illustrations within the poster's main right area, replacing the photographic thumbnails. Each illustration should capture the essence of the building or scene from its respective image in image 1 (e.g., the clock tower building and city view for Downtown Reykjavik, the modern hotel facade for Midgardur, the grey residential-style building for Hotel \u00d3dinsv\u00e9).\n-   Key text elements like property names and location cues should be integrated using typography characteristic of 1950s travel posters.\n-   The overall aesthetic should be vibrant and optimistic, reflecting the vintage travel poster genre with a characteristic color palette.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Main title for the destination (Reykjavik), rendered in bold, optimistic 1950s typography",
+    "Supplementary promotional travel text or design elements (reflecting the content of the original left sidebar)",
+    "Stylized illustration of Downtown Reykjavik, featuring a clock tower building and city view (in the main right area of the poster)",
+    "Stylized illustration of Midgardur by Center Hotels, featuring a modern hotel facade (in the main right area of the poster)",
+    "Stylized illustration of Hotel \u00d3dinsv\u00e9, featuring a grey residential-style building (in the main right area of the poster)",
+    "Property name text (e.g., \"Downtown Reykjavik\", \"Midgardur by Center Hotels\", \"Hotel \u00d3dinsv\u00e9\"), rendered in 1950s typography",
+    "Location cue text for properties (e.g., \"Vesturb\u00e6r, Reykjavik\", \"Reykjavik 101\"), rendered in 1950s typography",
+    "Vibrant and optimistic color palette characteristic of 1950s travel posters"
+  ],
+  "human_annotation": true
+}

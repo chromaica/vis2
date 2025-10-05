@@ -1,0 +1,24 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Traditional art",
+  "prompt": "Generate a landscape oil painting with the trees from image 1 and the mountain background from image 2.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a majestic landscape oil painting. The foreground and midground should feature a dense, verdant forest composed of tall, coniferous trees, embodying the style and prominent central tree observed in image 1. In the background, incorporate a grand, snow-capped mountain range, mirroring the majestic peak and rugged lower slopes visible in image 2. The scene should be set under a bright blue sky dotted with white clouds.",
+  "annotator": "samin",
+  "objects": [
+    "majestic landscape",
+    "oil painting style",
+    "dense forest in foreground",
+    "verdant, tall coniferous trees in foreground and midground",
+    "prominent central tree (as observed in image 1)",
+    "grand, snow-capped mountain range in background",
+    "rugged lower mountain slopes (mirroring image 2)",
+    "bright blue sky",
+    "white clouds"
+  ]
+}

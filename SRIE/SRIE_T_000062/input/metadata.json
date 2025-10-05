@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "Warp the baseline of \u2018Midnight Jazz\u2019 so it flows exactly along the saxophone\u2019s curves.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Warp the baseline of the words 'MIDNIGHT JAZZ', located at the top of the poster as part of the first title line, to precisely follow the main curved shape of the saxophone shown in image 2. Ensure that the adjacent text '& BLUES' and all other text in image 1 remain unedited with their original straight baselines.",
+  "annotator": "matina",
+  "objects": [
+    "\"MIDNIGHT JAZZ\" text with curved baseline",
+    "\"& BLUES\" text with straight baseline",
+    "\"CONCERT ON THE PIER\" text",
+    "Man playing a piano",
+    "White cat",
+    "Black cat",
+    "Dark blue starry sky",
+    "City skyline",
+    "Pier / ground surface",
+    "Event details text (\"Sunday August 8th 9 p.m. - 1 a.m.\")"
+  ]
+}

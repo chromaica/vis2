@@ -1,0 +1,26 @@
+{
+  "subtopic": "Wildlife & Nature Photography",
+  "prompt": "Edit image 1: Apply the sharp focus and rich color saturation from the lemons in image 2 to the purple lilac flowers, enhancing their detail and vibrancy. Modify the background and foreground blur to achieve the very shallow depth of field and soft, bright bokeh effect seen in image 3, creating a luminous and dreamy photographic atmosphere.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748572295591,
+  "promptLengthUsed": "long",
+  "task": "MRIE",
+  "topic": "P",
+  "prompt_refined": "Edit image 1: Apply the sharp focus and rich color saturation from the lemons in image 2 directly to the main purple lilac flower cluster in the center-left of the image, enhancing its detail and vibrancy. Furthermore, modify the existing background and foreground blur to achieve the very shallow depth of field and soft, bright bokeh effect observed in image 3, creating a luminous and dreamy photographic atmosphere with prominent out-of-focus highlights.",
+  "annotator": "boris",
+  "objects": [
+    "main purple lilac flower cluster in the center-left",
+    "lilac leaves",
+    "background with soft, bright bokeh effect",
+    "foreground with soft, bright bokeh effect",
+    "prominent out-of-focus highlights",
+    "sunlight/light source"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

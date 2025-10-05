@@ -1,0 +1,16 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "Depth maps",
+  "prompt": "A depth map of a bunch of fruits on a table, showing a apple, bananas, an orange, and the table surface.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A depth map of an apple, a bunch of bananas, and an orange arranged on a table surface. The image should clearly represent the varying depths and spatial relationships of each fruit and the table surface.",
+  "annotator": "maxku",
+  "objects": [
+    "an apple",
+    "a bunch of bananas",
+    "an orange",
+    "a table surface"
+  ]
+}

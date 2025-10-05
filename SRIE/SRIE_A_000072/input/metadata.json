@@ -1,0 +1,29 @@
+{
+  "subtopic": "Digital arts",
+  "prompt": "Edit image 1: Introduce the durian fruit from image 2 into the composition, placing it among the existing fruits. Maintain the bold outline and flat color digital illustration style characteristic of both images.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748653449527,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1: Add the durian fruit from image 2 to the composition, positioning it on the table among the other fruits. Ensure the durian blends seamlessly with the existing artwork, adopting the bold outline and flat color digital illustration style characteristic of both image 1 and image 2.",
+  "annotator": "kellycyy",
+  "objects": [
+    "durian fruit on the table",
+    "melon",
+    "watermelon",
+    "bananas",
+    "mango",
+    "whole coconut",
+    "halved coconut",
+    "kiwi slices",
+    "table",
+    "striped background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

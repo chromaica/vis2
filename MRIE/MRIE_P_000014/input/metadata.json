@@ -1,0 +1,27 @@
+{
+  "task": "MRIE",
+  "topic": "P",
+  "subtopic": "Scenic Nature Parks",
+  "prompt": "Replace the dog in the first image with the dog from the second image, then add the butterfly from the third image to where the dog was staring at. Blur the butterfly slightly.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the central running dog with the reddish-brown Irish Setter from image 2, ensuring the new dog is positioned similarly in the frame but maintains its upward-gazing posture. Then, add the orange and black butterfly from image 3 to the upper part of the scene, positioned as if the new dog is looking at it. Slightly blur the added butterfly.",
+  "annotator": "boris",
+  "objects": [
+    "Central running dog (should not be present)",
+    "Reddish-brown Irish Setter",
+    "Irish Setter in a similar central position",
+    "Irish Setter with upward-gazing posture",
+    "Grassy field",
+    "Blurred background",
+    "Orange and black butterfly",
+    "Butterfly in the upper part of the scene",
+    "Butterfly positioned as if the Irish Setter is looking at it",
+    "Slightly blurred butterfly"
+  ],
+  "human_annotation": true
+}

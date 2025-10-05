@@ -1,0 +1,22 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Stylized art",
+  "prompt": "Surreal desert with floating islands of similar landscape",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a new image of a surreal desert landscape, strongly referencing the vibrant red sand dunes, dramatic sunset sky, and lone tree composition of image 1. Populate the sky above the desert with multiple floating islands of varying sizes. Each island should replicate the arid, red-sanded terrain and sparse vegetation seen in image 1, maintaining the overall color palette and atmospheric lighting.",
+  "annotator": "Johnny",
+  "objects": [
+    "surreal desert landscape",
+    "vibrant red sand dunes",
+    "dramatic sunset sky",
+    "lone tree",
+    "multiple floating islands",
+    "sparse desert vegetation",
+    "distant mountains",
+    "setting sun"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "subtopic": "Software interfaces",
+  "prompt": "Generate a modern sleeping tracking app interface screenshot on a smartphone mock-up. Displaying a task list, use a clean UI/UX design with gradient elements and the light background and purple, green, blue color palette inspired by the WalletSpace reference image.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://miro.medium.com/v2/resize:fit:2000/1*1MRLaL3JXhgyk3KiO-AGCQ.png",
+  "searchQueryGenerated": "Modern clean software UI screenshot example",
+  "searchQueryGeneratedTimestamp": 1749439809609,
+  "promptGeneratedTimestamp": 1749439894343,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a modern, minimalist sleeping tracking app interface screenshot displayed on a smartphone mock-up. The interface should feature a clean UI/UX design with ample whitespace and well-defined sections. Include a prominent, vertically aligned task list with checkable items, relevant to sleep habits (e.g., 'Go to bed by 10 PM', 'Avoid caffeine after 3 PM'). The overall screen background should be light. Incorporate gradient elements throughout the interface, specifically utilizing a color palette of purples, greens, and blues for UI components, accent colors, and subtle background effects, consistent with the aesthetic and gradient style seen in image 1.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Smartphone mock-up",
+    "Sleep tracking app interface",
+    "Light app screen background",
+    "Prominent, vertically aligned task list",
+    "Checkable items for sleep habits (e.g., 'Go to bed by 10 PM', 'Avoid caffeine after 3 PM')",
+    "UI components with purples, greens, and blues gradient palette",
+    "Subtle background effects with purples, greens, and blues gradient palette",
+    "Well-defined sections within the interface",
+    "Smartphone status bar (time, signal, battery icons)"
+  ]
+}

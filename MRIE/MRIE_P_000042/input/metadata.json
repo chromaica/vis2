@@ -1,0 +1,26 @@
+{
+  "subtopic": "Wildlife & Nature Photography",
+  "prompt": "Edit image 1: Replace the existing water background with the detailed water ripples and reflections from image 3. Incorporate the scattered flying insects from image 2 into the revised background scene.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748571793313,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "P",
+  "prompt_refined": "Edit image 1, which depicts a cormorant with outstretched wings. Replace its existing blurry, muted brown water background with a photorealistic water surface that captures the detailed ripples, reflections, and overall texture observed in image 3. Additionally, seamlessly integrate the scattered small flying insects, consistent in appearance and density with those seen above the water in image 2, into this newly rendered water background.",
+  "annotator": "boris",
+  "objects": [
+    "cormorant with outstretched wings",
+    "blurry, muted brown water background (should not be present)",
+    "photorealistic water surface",
+    "detailed water ripples",
+    "water reflections",
+    "water texture",
+    "scattered small flying insects",
+    "wooden surface where the cormorant stands"
+  ]
+}

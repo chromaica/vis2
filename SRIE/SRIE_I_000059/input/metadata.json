@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Apply the charcoal style to the flowchart.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 to transform the flowchart into a charcoal drawing. Use image 2 as a visual reference for the charcoal art style, including its monochromatic and textured qualities.",
+  "annotator": "Johnny",
+  "objects": [
+    "Flowchart diagram",
+    "Start node (with \"START\" text)",
+    "Rectangular flowchart nodes (e.g., \"FIRST TITLE GOES HERE\", \"SUCCESS!\")",
+    "Diamond flowchart nodes (e.g., \"#01\")",
+    "Circular letter nodes (\"A\", \"B\", \"C\")",
+    "Dashed \"EXTRA ELEMENT\" node",
+    "Connecting lines and arrows",
+    "Small 'YES', 'NO', and '?' labels",
+    "Charcoal drawing style on all elements",
+    "Monochromatic and textured qualities on all elements"
+  ]
+}

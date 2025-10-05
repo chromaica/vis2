@@ -1,0 +1,30 @@
+{
+  "subtopic": "Games",
+  "prompt": "Generate a realistic 3D game screenshot showing a ruined wartime building, like a bombed-out factory. Emulate the reference image's stark composition, dramatic overcast lighting, and realistic visual style.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://static1.pocketlintimages.com/wordpress/wp-content/uploads/141774-games-news-feature-best-screenshots-image1-8yjg5qavps.jpg",
+  "searchQueryGenerated": "High quality video game screenshot scene",
+  "searchQueryGeneratedTimestamp": 1749416411201,
+  "promptGeneratedTimestamp": 1749416453247,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a realistic 3D game screenshot of a ruined, bombed-out factory. The factory should be the prominent main subject, positioned in the mid-ground, mirroring the scale and imposing presence of the stone church in image 1. Set the scene within a desolate, rugged mountain landscape, evoking the war-torn environment seen in image 1, and include elements of destruction or debris in the foreground, similar to the graveyard details in image 1. Emulate the stark composition and dramatic overcast lighting from image 1, creating a somber mood. The overall visual style must be highly realistic, reflecting the detailed 3D rendering and atmospheric depth present in image 1.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "ruined, bombed-out factory (prominent, in mid-ground, large scale)",
+    "desolate, rugged mountain landscape",
+    "elements of destruction in the foreground",
+    "debris in the foreground",
+    "overcast sky",
+    "rocky terrain",
+    "barbed wire obstacles",
+    "sparse vegetation",
+    "war-torn ground",
+    "atmospheric depth"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

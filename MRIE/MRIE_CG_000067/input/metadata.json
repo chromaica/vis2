@@ -1,0 +1,22 @@
+{
+  "subtopic": "Stylized Rendering or 3D renders",
+  "prompt": "Edit image 1. Apply the futuristic design elements and atmospheric rendering style from image 2 to the red sedan. Introduce a character presenting the car, depicted in the clear line art and flat color cartoon style of image 3, placed beside the vehicle.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748456162917,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1. Transform the red sedan by incorporating the futuristic design elements and the atmospheric rendering style from image 2. Additionally, introduce a character presenting the car, positioned to the left of the vehicle, depicted in the clear line art and flat color cartoon style of image 3.",
+  "annotator": "winston",
+  "objects": [
+    "futuristic red sedan",
+    "character presenting the car, positioned to the left of the vehicle",
+    "stone wall background",
+    "ground surface"
+  ]
+}

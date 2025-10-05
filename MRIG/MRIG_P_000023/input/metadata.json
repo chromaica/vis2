@@ -1,0 +1,23 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Create an image of a coffee table based on the first provided images of an elephant and the second provided images of a minimalist wooden table. Integrate the elephant\u2019s rugged, wrinkled skin texture into the table\u2019s surface, with a muted gray color palette. The table legs should resemble sturdy elephant trunks, slightly curved for stability. Add subtle tusk-like accents as drawer handles or edge details. The design should be modern, robust, and suitable for a cozy living space.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic image of a unique coffee table. The design should fuse visual elements from the elephant in image 1 and the minimalist wooden table in image 2. The table's horizontal surface must prominently display the rugged, wrinkled skin texture of the elephant from image 1, rendered in a muted gray color palette. The four sturdy table legs should distinctly resemble the form of slightly curved elephant trunks from image 1, ensuring stability. Incorporate subtle, tusk-like accents, inspired by the tusks visible in image 1, as refined drawer handles or elegant edge details. The overall design should embody a modern and robust aesthetic, perfectly suited for a cozy living space.",
+  "objects": [
+    "Photorealistic unique coffee table",
+    "Table's horizontal surface with rugged, wrinkled elephant skin texture",
+    "Muted gray color palette (on table surface)",
+    "Four sturdy table legs resembling slightly curved elephant trunks",
+    "Tusk-like accents (as drawer handles or edge details)",
+    "Modern aesthetic (of the coffee table)",
+    "Robust aesthetic (of the coffee table)",
+    "Cozy living space (as the setting)"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "subtopic": "Stylized Rendering or 3D renders",
+  "prompt": "Edit image 1 by replacing the black cat with the hedgehog from image 2, rendered in the illustration style of image 1. Modify the girl's green coat and scarf, incorporating the textured, cozy aesthetic of the coat worn by the cat in image 3.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748455864098,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1, the source image. Replace the black cat positioned on top of the pumpkin with the hedgehog from image 2, ensuring it is rendered in the flat illustration style of image 1. Additionally, modify the girl's green coat and pink scarf to incorporate the textured, cozy aesthetic of the brown coat worn by the cat in image 3, specifically its thick, fabric-like appearance and warm impression.",
+  "annotator": "winston",
+  "objects": [
+    "black cat (should not be present)",
+    "hedgehog on top of the pumpkin",
+    "pumpkin",
+    "girl",
+    "girl's green coat with thick, fabric-like texture",
+    "girl's pink scarf with thick, fabric-like texture",
+    "falling leaves",
+    "orange and yellow background"
+  ]
+}

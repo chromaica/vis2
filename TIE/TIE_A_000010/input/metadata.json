@@ -1,0 +1,25 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Traditional art",
+  "prompt": "Change the tall tree into a modern skyscraper, while keeping the overall style and color scheme. Carefully integrate the skyscrapper into the existing landscape.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the prominent, dark cypress tree located on the far left of the image with a modern skyscraper. Ensure the skyscraper maintains the distinctive brushwork, textures, and color palette of the painting's style, integrating seamlessly and naturally into the existing landscape and the starry night sky.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "prominent, dark cypress tree (should not be present)",
+    "modern skyscraper (on the far left)",
+    "starry night sky",
+    "Moon",
+    "Stars",
+    "Mountains in the background",
+    "Village",
+    "Church steeple",
+    "Houses in the village"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

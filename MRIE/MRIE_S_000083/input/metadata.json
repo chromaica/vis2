@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "In image 1, replace the left-side restart icon with the anti-clockwise arrow icon from image 2, matching its size and position precisely. Then, recolor the entire interface, including the tiles, score boxes, background, and everything using only the five colors from the palette in image 3.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the left-facing curved arrow icon, located on the left of the two square buttons in the upper right of the interface, with the anti-clockwise arrow icon from image 2. Ensure the replacement icon matches the original icon's size and precise position within its button. Subsequently, recolor the entire 2048 game interface \u2013 including the background, score boxes (SCORE and HIGH SCORE), all game tiles (empty and numbered), and all other visible UI components \u2013 using exclusively the five colors provided in the palette of image 3. No other colors should be introduced into the recolored interface.",
+  "annotator": "parnian",
+  "objects": [
+    "Recolored 2048 game interface background",
+    "Recolored \"2048\" title",
+    "Recolored SCORE box with score",
+    "Recolored HIGH SCORE box with high score",
+    "Recolored 4x4 game grid",
+    "Recolored empty game tiles within the grid",
+    "Recolored numbered game tiles (e.g., 2, 4, 16, 32, 128, 4096)",
+    "Left-facing curved arrow icon (should not be present)",
+    "Anti-clockwise arrow icon (replacing the original left-facing curved arrow icon, matching its original size and precise position within its button)",
+    "Recolored right-facing curved arrow icon (on the right of the anti-clockwise arrow icon's button)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

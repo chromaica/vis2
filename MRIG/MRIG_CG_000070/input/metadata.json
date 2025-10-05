@@ -1,0 +1,28 @@
+{
+  "subtopic": "Game assets",
+  "prompt": "Create a stylized 3D game character asset based on the seagull from image 1, specifically texturing its model with the vibrant, geometric pattern seen in image 2.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748423473190,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a stylized 3D game character asset of a seagull, visually based on the seagull in image 1. The character's model must be fully textured with the vibrant, geometric, tribal-inspired pattern seen in image 2, emphasizing its rich blue, red, orange, and yellow hues.",
+  "annotator": "winston",
+  "objects": [
+    "Stylized 3D game character asset",
+    "Seagull (form based on image 1)",
+    "Fully textured model",
+    "Geometric pattern texture",
+    "Tribal-inspired pattern texture",
+    "Vibrant blue hues on texture",
+    "Vibrant red hues on texture",
+    "Vibrant orange hues on texture",
+    "Vibrant yellow hues on texture"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

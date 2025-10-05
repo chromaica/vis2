@@ -1,0 +1,19 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Generate a landscape scene that matches this topographic image.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic landscape image where the terrain accurately reflects the elevation contours and spatial layout presented in image 1. The scene should depict a single, gently sloped mound centrally located with its peak in the mid-right, and the surrounding ground gradually descending as indicated by the contour lines of image 1.",
+  "annotator": "samin",
+  "objects": [
+    "Photorealistic landscape scene",
+    "Single, gently sloped mound",
+    "Mound peak in the mid-right",
+    "Gradually descending ground surrounding the mound",
+    "Terrain with elevation contours and spatial layout accurately reflecting image 1"
+  ]
+}

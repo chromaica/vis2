@@ -1,0 +1,19 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "Edit image 1 by applying the metallic style from image 2. Add the glowing crescent moon element from image 3 to the design, positioning it outside the clock logo.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 (the clock logo) by applying the overall textured, light metallic style from image 2 to its entire structure. Additionally, integrate the glowing crescent moon with its integrated keyhole element from image 3, positioning it distinctly outside the circular boundary of the clock logo.",
+  "annotator": "maxku",
+  "objects": [
+    "Clock logo with textured, light metallic style",
+    "Glowing crescent moon, distinctly outside the clock logo's circular boundary",
+    "Keyhole element integrated with the crescent moon"
+  ]
+}

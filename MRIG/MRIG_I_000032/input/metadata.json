@@ -1,0 +1,30 @@
+{
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Generate a line graph using the structure and light grid style of image 2. Apply the vibrant color palette and slightly simplified infographic rendering approach found in image 1, with clear axis labels.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "Information graphics charts graphs examples",
+  "searchQueryGeneratedTimestamp": 1752242413473,
+  "promptGeneratedTimestamp": 1752242506292,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "I",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a line graph. Implement the structural layout and the subtle, light grey grid style found in image 2, spanning the entire plot area with a light background. Incorporate the vibrant color palette from image 1, using saturated hues such as teal, orange, and red for the data lines. Apply the slightly simplified, flat, and modern infographic rendering approach of image 1 to all elements, ensuring crisp edges and clear, legible typography for axis labels and numerical values.",
+  "objects": [
+    "Line graph structure",
+    "X-axis",
+    "Y-axis",
+    "Axis labels",
+    "Numerical values on axes",
+    "Teal data line",
+    "Orange data line",
+    "Red data line",
+    "Subtle, light grey grid",
+    "Light background for plot area"
+  ],
+  "human_annotation": true
+}

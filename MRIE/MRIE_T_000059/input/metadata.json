@@ -1,0 +1,27 @@
+{
+  "task": "MRIE",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Change the caption of the first image to 'when you joined a [3rd image] meeting after two weeks of vacation', where the placeholder refers to the logo in the third image. Then, place the UI from the fourth image under the caption, and the original images (the monkey) will replace the largest frame (the black woman) in the UI. Finally, use the girl's face in the second image to replace the face of the monkey.'",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png",
+    "4.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit Image 1.\n\n1.  Modify the existing text caption in Image 1 to: \"when you joined a Zoom meeting after two weeks of vacation\". The word \"Zoom\" should be derived from the logo visible in Image 3.\n2.  Remove the two side-by-side monkey panels from Image 1. In their place, insert the complete user interface (UI) from Image 4, positioning it directly beneath the newly updated caption.\n3.  Within this newly inserted UI (from Image 4), replace the content of the main video feed (the largest frame, which currently displays a black woman) with the two monkey panels originally from Image 1. Ensure these two monkey panels are placed side-by-side within this single large frame.\n4.  Finally, for each of the two monkey panels now inside the UI, replace the monkey's face with the face of the girl from Image 2, while maintaining the overall head shape and expression of the original monkeys.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Text caption: \"when you joined a Zoom meeting after two weeks of vacation\"",
+    "Stylized \"Zoom\" text within the caption (derived from Image 3)",
+    "Video conferencing user interface from Image 4 (overall window, control bar)",
+    "Participant thumbnails within the UI (from Image 4)",
+    "Large main video feed frame within the UI",
+    "First monkey body (from Image 1) inside the large main video feed",
+    "Second monkey body (from Image 1) inside the large main video feed",
+    "Face of the girl from Image 2 (on the first monkey body)",
+    "Face of the girl from Image 2 (on the second monkey body)",
+    "Original two monkey panels from Image 1 (should not be present)"
+  ]
+}

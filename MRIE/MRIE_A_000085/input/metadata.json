@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "In image 1, replace the phone with the phone from image 2, and change the woman\u2019s hair color to match the girl\u2019s hair color in image 3.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the black smartphone held by the woman with the white smartphone from image 2, including its distinct camera module design. Concurrently, change the woman's long blonde hair to match the vibrant pink and teal dual-tone hair color of the girl in image 3.",
+  "annotator": "paria",
+  "objects": [
+    "woman",
+    "white smartphone",
+    "distinct smartphone camera module design",
+    "vibrant pink and teal dual-tone hair",
+    "freckles",
+    "tongue sticking out",
+    "black crop top",
+    "orange bra straps",
+    "light-colored pants",
+    "black smartphone (should not be present)"
+  ]
+}

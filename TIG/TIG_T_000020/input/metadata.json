@@ -1,0 +1,18 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Textual Tattoos",
+  "prompt": "A photo-realistic tattoo concept: the word 'Wanderlust' etched in bold blackwork script onto the textured skin of a hand.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a photo-realistic image of the word 'Wanderlust' tattooed in bold blackwork script onto the textured skin of a hand.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "A hand",
+    "Textured skin",
+    "The word 'Wanderlust'",
+    "A tattoo",
+    "Bold blackwork script"
+  ],
+  "human_annotation": true
+}

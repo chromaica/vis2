@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Medical images",
+  "prompt": "A microscopic close-up of red and white blood cells traveling through a narrow blood vessel, emphasizing a stark color contrast.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Photorealistic microscopic close-up of red blood cells and distinct white blood cells traversing a narrow blood vessel. The scene should strongly emphasize a dramatic, stark color contrast between the vibrant red and the clear white components.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Red blood cells",
+    "Distinct white blood cells",
+    "Narrow blood vessel",
+    "Vibrant red components",
+    "Clear white components",
+    "Microscopic close-up perspective",
+    "Dramatic color contrast"
+  ],
+  "human_annotation": true
+}

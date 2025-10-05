@@ -1,0 +1,26 @@
+{
+  "subtopic": "Game assets",
+  "prompt": "Change the color of all tree and bush leaves to hues of red, orange, and yellow for an autumn setting.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751797929958,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1. Recolor all green foliage elements, including the leaves of the various trees (deciduous and conifer types) and the leaves of the bushes, small plants, and scattered ground foliage, to hues of red, orange, and yellow to represent an autumn setting.",
+  "annotator": "edisy",
+  "objects": [
+    "Deciduous trees with red, orange, and yellow leaves",
+    "Conifer trees with red, orange, and yellow needles",
+    "Bushes with red, orange, and yellow foliage",
+    "Small plants with red, orange, and yellow foliage",
+    "Grass with red, orange, and yellow hues",
+    "Scattered ground foliage with red, orange, and yellow hues",
+    "Rocks with red, orange, and yellow moss",
+    "Bare tree",
+    "Mushrooms",
+    "Wooden log"
+  ]
+}

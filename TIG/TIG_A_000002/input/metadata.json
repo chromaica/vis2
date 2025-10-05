@@ -1,0 +1,18 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Traditional art",
+  "prompt": "A vibrant still life depicting a classic fruit bowl, shaded with rich colors and intricate brushstroke details.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A vibrant still life painting of a classic fruit bowl. The bowl, centered in the frame, holds traditional fruits such as apples, grapes, and oranges. The scene is rendered with deep, rich, and saturated colors, showcasing intricate and highly visible brushstroke details.",
+  "annotator": "cwhsu",
+  "objects": [
+    "fruit bowl, centered in the frame",
+    "apples",
+    "grapes",
+    "oranges",
+    "deep, rich, and saturated colors",
+    "intricate and highly visible brushstroke details"
+  ]
+}

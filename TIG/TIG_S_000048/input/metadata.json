@@ -1,0 +1,24 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "An ornate printed receipt from \u201cKapal\u0131\u00e7ar\u015f\u0131 Baharat\u00e7\u0131\u201d (Grand Bazaar Spice Merchant) in Istanbul, Turkey. Items include: 100g Saffron: \u20ba120.00, 250g Sumac: \u20ba25.00, 1 Hand-carved spice jar: \u20ba65.00. Total: \u20ba210.00. The receipt uses both Turkish lira signs and intricate border art, printed on tan thermal paper with a gold foil shop logo. It rests on a colorful woven textile.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "An ornate printed receipt from 'Kapal\u0131\u00e7ar\u015f\u0131 Baharat\u00e7\u0131' (Grand Bazaar Spice Merchant) in Istanbul, Turkey. The receipt is on tan thermal paper, featuring a prominent gold foil shop logo at the top and intricate border art throughout. It clearly lists: 100g Saffron: \u20ba120.00, 250g Sumac: \u20ba25.00, and 1 Hand-carved spice jar: \u20ba65.00. The total is \u20ba210.00, with all prices using Turkish lira (\u20ba) signs. The receipt rests flat on a vibrantly colored, patterned woven textile.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Ornate printed receipt",
+    "'Kapal\u0131\u00e7ar\u015f\u0131 Baharat\u00e7\u0131' shop name on the receipt",
+    "Tan thermal paper texture on the receipt",
+    "Prominent gold foil shop logo on the top of the receipt",
+    "Intricate border art on the receipt",
+    "Text on receipt: \"100g Saffron: \u20ba120.00\"",
+    "Text on receipt: \"250g Sumac: \u20ba25.00\"",
+    "Text on receipt: \"1 Hand-carved spice jar: \u20ba65.00\"",
+    "Text on receipt: \"Total: \u20ba210.00\"",
+    "Vibrantly colored, patterned woven textile underneath the receipt"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,26 @@
+{
+  "subtopic": "Websites",
+  "prompt": "Generate a minimalist website screenshot inspired by the reference layout, which is to introduce ChatGPT service.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://deifkwefumgah.cloudfront.net/screenshots/thumbnail/shadcn-ui-taxonomy-thumbnail-2x.webp",
+  "promptGeneratedTimestamp": 1748771838107,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a minimalist website screenshot that introduces the ChatGPT service, adhering to the overall layout, spacing, and clean design style of image 1.\nThe page should feature a white background.\nThe top navigation bar should include a site logo/name on the left, followed by standard navigation links (e.g., Features, Pricing, Blog, Documentation) centrally, and a 'Login' button on the far right.\nThe main hero section should prominently feature a large, centered headline introducing ChatGPT, accompanied by a centered descriptive sub-headline. Below these, include two horizontally aligned, centered call-to-action buttons: one primary (dark) and one secondary (outlined).\nBelow the hero section, include a 'Key Features' section. This section should have a centered heading, a brief centered explanatory text, and three distinct feature cards arranged horizontally. Each card should present a relevant icon, a concise title, and a short description highlighting a core capability of ChatGPT.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "White background",
+    "Top navigation bar",
+    "Site logo/name on the left",
+    "Navigation links (e.g., Features, Pricing, Blog, Documentation) centrally",
+    "'Login' button on the far right",
+    "Large, centered headline introducing ChatGPT",
+    "Centered descriptive sub-headline",
+    "Primary (dark) call-to-action button",
+    "Secondary (outlined) call-to-action button",
+    "Three horizontally arranged feature cards, each with an icon, title, and description"
+  ]
+}

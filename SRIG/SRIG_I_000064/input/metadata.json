@@ -1,0 +1,26 @@
+{
+  "subtopic": "UI mockups",
+  "prompt": "Using the cinema seat selection interface mockup, design an airline seat-selection modal with seat map and price tiers.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "https://t3.ftcdn.net/jpg/03/32/93/56/360_F_332935688_Hutpam4x2e5egC8kpSRRlO8O9abFbgZj.jpg",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate a user interface image of an airline seat-selection modal. The modal should centrally display an airline seat map. This seat map should adapt the visual style and seat representation (e.g., small, colored square-like shapes for seats, row numbers on the side) from image 1, reconfiguring it for a typical airplane cabin layout with distinct aisles and various seating sections. Position a section with clearly labeled price tiers (e.g., 'Standard Economy', 'Premium Economy', 'Business Class') and their corresponding prices to the right of the seat map, or below it as a legend. The entire modal should have a clean, dark-themed, and organized appearance, mirroring the aesthetic of image 1.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Airline seat-selection modal",
+    "Airline seat map (centrally displayed)",
+    "Small, colored square-like seat representations",
+    "Row numbers on the side of the seat map",
+    "Distinct aisles within the seat map",
+    "Various seating sections within the seat map",
+    "Price tiers section (to the right of the seat map, or below it)",
+    "Labeled price tiers (e.g., 'Standard Economy', 'Premium Economy', 'Business Class')",
+    "Corresponding prices for tiers",
+    "Dark-themed user interface"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

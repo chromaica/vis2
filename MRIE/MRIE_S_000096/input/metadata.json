@@ -1,0 +1,27 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Chat and Social Messaging",
+  "prompt": "Replace the existing chat background in image 1 with the pink background from image 3, update every profile picture shown (left sidebar and top chat) to the Hermione image from image 4, and replace the microphone icon inside the voice message bar with the green mic icon from image 2, all edits should be scaled to match the original layout sizes.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.png",
+    "4.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit Image 1, a chat application screenshot, by performing the following modifications:\n1.  Replace the large dark gray chat background panel on the right side of the screen with the solid pink color from Image 3.\n2.  Update all circular profile pictures: replace the content of the smaller profile pictures in the left sidebar and the larger profile picture at the top of the chat panel (associated with 'Eva Summer') with the image of Hermione from Image 4. Ensure Hermione's image is scaled and centered to fit naturally within each existing circular frame.\n3.  Within the voice message bar located in the main chat area (which contains '0:07'), replace the circular icon on its right (currently a play button) with the green microphone icon from Image 2. The new icon must be scaled to fit precisely within its original circular outline.\nAll modified elements must seamlessly integrate and maintain their original scale, position, and layout within Image 1.",
+  "annotator": "parnian",
+  "objects": [
+    "Solid pink chat background panel",
+    "Circular profile pictures with Hermione's image",
+    "Green microphone icon in the voice message bar",
+    "Left sidebar with user contacts",
+    "Top header bar with search and settings icons",
+    "Chat message bubbles",
+    "Voice message bar with '0:07'",
+    "'Write a message' input field",
+    "Large dark gray chat background panel (should not be present)",
+    "Circular play button icon in the voice message bar (should not be present)"
+  ]
+}

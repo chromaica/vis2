@@ -1,0 +1,26 @@
+{
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "Edit image 1: Use semantic segmentation to identify the floor and steps. Populate the segmented floor area with the figurines from image 2, and place the blue creature from image 3 onto the segmented steps.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748455508446,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1: Populate the main wooden floor area with all the visible figurines from image 2, including the black No-Face, the girl in the red dress, and the small white spirits. Concurrently, place the detailed blue creature from image 3 onto the wooden steps located on the left side of the room.",
+  "annotator": "winston",
+  "objects": [
+    "Room interior (from image 1)",
+    "Main wooden floor area (from image 1)",
+    "Black No-Face figurine on the main wooden floor area",
+    "Girl in the red dress figurine on the main wooden floor area",
+    "Small white spirits figurines on the main wooden floor area",
+    "Wooden steps on the left side of the room (from image 1)",
+    "Detailed blue creature on the wooden steps on the left"
+  ],
+  "human_annotation": true
+}

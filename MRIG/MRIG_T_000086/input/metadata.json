@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Typography-not-english",
+  "prompt": "Design \u201c\u0628\u0644\u0647!\u201d (Yes! in Persian) with the font style in the first image and stacked three times vertically in different shades of red, using the playful size dynamics of the second image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate an image displaying the Persian word '\u0628\u0644\u0647!' (Yes!). The text should be rendered in the bold, stylized, and calligraphic font style observed in image 1. Repeat '\u0628\u0644\u0647!' three times, stacking them vertically. Each instance of the word should be colored in a distinct shade of red. Incorporate the playful, varied sizing and non-uniform vertical arrangement characteristic of the stacked 'YES!' graphics in image 2.",
+  "annotator": "parnian",
+  "objects": [
+    "Persian word '\u0628\u0644\u0647!'",
+    "Three instances of the word '\u0628\u0644\u0647!'",
+    "Calligraphic font style observed in image 1",
+    "Bold font style observed in image 1",
+    "Stylized font style observed in image 1",
+    "Vertically stacked arrangement of the three words",
+    "Playful, varied sizing of the words",
+    "Non-uniform vertical arrangement of the words",
+    "Each word colored in a distinct shade of red"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

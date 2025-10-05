@@ -1,0 +1,30 @@
+{
+  "subtopic": "Global Illumination",
+  "prompt": "Edit image 1: Using its inherent depth information from the computer graphics render, apply a strong, shallow depth of field blur like that in image 2. Adopt the dark, moody lighting and blue tones from image 2. Finally, apply a subtle sepia filter over the result, similar to the tone in image 3, enhancing the depth-driven composition.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748456428389,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1, the computer graphics render of chess pieces, by applying a strong, shallow depth of field blur. Sharply focus on the front-most chess pieces, such as the rook and knight on the left, while progressively blurring the mid-ground and background chess pieces and board, emulating the pronounced foreground focus and background blur seen in image 2. Re-light the scene to adopt the dark, moody ambiance and distinct blue color palette characteristic of image 2. Finally, apply a subtle sepia tone across the entire image, reminiscent of the warm, muted hues in image 3, ensuring this effect complements and enhances the newly established depth-driven composition.",
+  "annotator": "winston",
+  "objects": [
+    "Chess pieces",
+    "Chess board",
+    "Sharply focused rook on the left",
+    "Sharply focused knight on the left",
+    "Progressively blurred mid-ground chess pieces",
+    "Progressively blurred background chess pieces",
+    "Progressively blurred chess board",
+    "Dark, moody ambiance",
+    "Distinct blue color palette",
+    "Subtle sepia tone"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

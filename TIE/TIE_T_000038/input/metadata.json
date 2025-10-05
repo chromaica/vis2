@@ -1,0 +1,21 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Display Apple\u2019s latest iOS app screen on the phone.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 by rendering an Apple\u2019s latest iOS app screen onto the phone's blank display. The generated app interface should accurately fill the entire screen area of the phone shown in image 1.",
+  "annotator": "matina",
+  "objects": [
+    "iPhone device",
+    "Dynamic Island",
+    "iOS status bar (with time, signal, Wi-Fi, battery icons)",
+    "iOS home indicator bar",
+    "Apple iOS app interface"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

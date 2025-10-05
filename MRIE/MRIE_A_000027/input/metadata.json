@@ -1,0 +1,25 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Traditional art",
+  "prompt": "Replace the face of the woman in the first image with the face of the woman in the second image, and use the third image as the background.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the face of the woman in image 1 with the face of the woman from image 2, while maintaining her original posture, headwear, and attire. Replace the dark background of image 1 with the interior room scene from image 3, integrating the woman from image 1 naturally into the foreground of this new environment.",
+  "annotator": "paria",
+  "objects": [
+    "Woman's face (from image 2)",
+    "Woman's body posture (from image 1)",
+    "Blue and yellow headscarf",
+    "Green and white attire",
+    "Pearl earring",
+    "Interior room scene (from image 3)",
+    "Dark background (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,23 @@
+{
+  "subtopic": "3D renders",
+  "prompt": "A photorealistic 3D render of the chimpanzee from image 1, sitting at a cafe table with a laptop, adopting the lighting and environment style from image 2.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748423093668,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a photorealistic 3D render featuring the chimpanzee from image 1, seated at a long cafe table with a laptop. The scene should prominently reflect the bright, natural window lighting and the modern, airy cafe environment style observed in image 2.",
+  "annotator": "winston",
+  "objects": [
+    "Chimpanzee",
+    "Long cafe table",
+    "Laptop",
+    "Bright, natural window lighting",
+    "Modern, airy cafe environment",
+    "Windows"
+  ]
+}

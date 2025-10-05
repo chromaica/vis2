@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Medical images",
+  "prompt": "Give me a 8 months versions from the given image",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 to show an ultrasound scan of an 8-month-old fetus.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Ultrasound scan display",
+    "Fetus (8-month-old)",
+    "Fetal head",
+    "Fetal body",
+    "Fetal limbs",
+    "On-screen medical data (text and numbers)",
+    "Measurement scale (e.g., in cm)",
+    "Characteristic grayscale ultrasound texture",
+    "Dark screen background",
+    "Curved top boundary of the scan area"
+  ]
+}

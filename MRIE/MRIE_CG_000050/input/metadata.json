@@ -1,0 +1,20 @@
+{
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "Edit image 1: Segment the elephant instance. Modify its pose to mimic the 'See No Evil' gesture from image 2, having it cover its eyes. Apply the grayscale mask shape from image 3 as a visual effect layered over the segmented elephant instance.",
+  "cond_images": [
+    "1.jpeg",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748455756629,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1. Isolate the elephant instance from image 1. Adjust the elephant's pose to mimic the 'See No Evil' gesture from image 2, specifically showing it covering its eyes. Superimpose the grayscale mask shape from image 3 as a visual effect directly over the segmented elephant instance.",
+  "annotator": "winston",
+  "objects": [
+    "elephant",
+    "grayscale mask shape (from image 3) covering the elephant's eyes"
+  ]
+}

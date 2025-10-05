@@ -1,0 +1,24 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Stylized art",
+  "prompt": "Design a mosaic artwork showing a vibrant underwater coral reef scene.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a vibrant underwater coral reef scene, rendered as a mosaic artwork in the distinct, illustrative style of image 1. The image should feature a rich tapestry of colorful corals and sponges, including branched corals, rounded formations, and tube sponges in shades of orange, red, blue, purple, yellow, and green. Prominent marine life includes a hammerhead shark in the lower-left, a sea turtle in the lower-right, a school of small fish centrally located, and a second shark in the upper-middle. Ensure the composition is dense with clear, separate color blocks and scattered air bubbles, mirroring the aesthetic of image 1.",
+  "annotator": "Johnny",
+  "objects": [
+    "vibrant underwater coral reef scene",
+    "branched corals",
+    "rounded coral formations",
+    "tube sponges",
+    "hammerhead shark in the lower-left",
+    "sea turtle in the lower-right",
+    "school of small fish centrally located",
+    "second shark in the upper-middle",
+    "scattered air bubbles"
+  ],
+  "human_annotation": true
+}

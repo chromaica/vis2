@@ -1,0 +1,24 @@
+{
+  "subtopic": "Receipts",
+  "prompt": "Generate this receipt as if it were a secret agent's mission briefing, with 'redacted' text, a 'classified' stamp, and an official-looking government header.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://us-wd.gr-cdn.com/blog/2014/12/plaintextemail.png",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a secret agent's mission briefing document based on the content and layout of image 1. Transform the email interface into an official-looking government document. Replace the original email header with a formal government header at the top, featuring a generic agency name (e.g., 'Department of Special Operations' or 'Central Intelligence Agency') and a government seal or emblem positioned on the left side of this header. Redact specific sensitive information from image 1 by obscuring it with solid black bars: this includes all instances of the recipient's name ('Pamella Neely'), the sender's email ('ctf@coloradotrail.org'), the 'Invoice #' number ('000005096'), the full 'Item #' and 'Description' text ('CLBNDL | 2014 CT Collegiate Loop Package'), the 'Shipping Information' address ('2239 Vuelta San Marcos Santa Fe, NM 87505'), the phone number ('(303) 384-3729'), and all embedded URLs. Overlay a prominent 'CLASSIFIED' stamp, in a bold red color and slightly diagonal, across the top-right section of the document, as if stamped by hand.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Formal government document layout",
+    "Formal government header at the top",
+    "Generic agency name in the header",
+    "Government seal or emblem on the left side of the header",
+    "Recipient's name (Pamella Neely) obscured by solid black bars",
+    "Sender's email (ctf@coloradotrail.org) obscured by solid black bars",
+    "Invoice number (000005096) obscured by solid black bars",
+    "Item number and description (CLBNDL | 2014 CT Collegiate Loop Package) obscured by solid black bars",
+    "Shipping Information address obscured by solid black bars",
+    "Prominent 'CLASSIFIED' stamp in bold red and diagonal across the top-right"
+  ]
+}

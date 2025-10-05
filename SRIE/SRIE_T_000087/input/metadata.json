@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "change the image of the number 1 the wanted person in the poster to the provided image.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "On Image 1, the 'UNDESIRABLE N\u00b01' poster, replace the central portrait of Harry Potter. Insert the image of the man from Image 2 into this rectangular frame. The new portrait should accurately reflect the monochromatic style and details of Image 2, showing the man with long, wavy hair and a mustache, holding the 'AZKABAN PRISON' sign, and fitting precisely within the existing border.",
+  "annotator": "matina",
+  "objects": [
+    "'UNDESIRABLE N\u00b01' text",
+    "Harry Potter portrait (should not be present)",
+    "rectangular portrait frame",
+    "man with long, wavy hair and mustache",
+    "man holding an 'AZKABAN PRISON' sign",
+    "'AZKABAN PRISON' sign",
+    "'HARRY POTTER' text",
+    "contact information text block",
+    "reward section with text and graphics",
+    "poster background"
+  ]
+}

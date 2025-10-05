@@ -1,0 +1,20 @@
+{
+  "subtopic": "Medical images",
+  "prompt": "Edit image 1 (MRI of fetus) by using the grayscale gradient from image 2 to guide the overall tone mapping and contrast, and incorporating the distinctive grainy texture and visual characteristics of the ultrasound image from image 3 into the fetal representation, creating a hybrid medical imaging style.",
+  "cond_images": [
+    "1.jpeg",
+    "2.png",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749225651531,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "P",
+  "prompt_refined": "Edit image 1 (MRI of fetus) by precisely adjusting its overall tone mapping and contrast according to the horizontal grayscale gradient present in image 2 (transitioning from white on the left to black on the right). Simultaneously, apply the distinctive grainy texture, speckle noise, and visual characteristics of the ultrasound image from image 3 specifically onto the fetal representation within image 1. The aim is to create a single image with a hybrid medical imaging style, combining the structural detail of the MRI with the tonal range of image 2 and the textural qualities of the ultrasound.",
+  "annotator": "boris",
+  "objects": [
+    "Fetus",
+    "Surrounding maternal anatomical structures"
+  ]
+}

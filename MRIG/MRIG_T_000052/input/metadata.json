@@ -1,0 +1,21 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "Generate a retro travel poster with vintage style by combining the dancing couple illustration in the first image with the Hafiz tomb from the second image as the destination, and include the headline 'Sorrento to Shiraz' in large stylized lettering.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a retro travel poster in the stylized, flat-color, graphic illustration style reminiscent of image 1, with a vibrant color palette. The central figures should be the dynamically posed, stylized dancing couple from image 1, prominently placed in the foreground. In the background, render the octagonal Hafiz tomb from image 2, complete with its domed roof and columns, in the same vintage graphic style, serving as the destination landmark. The overall composition should embody a sense of travel and cultural blending. Overlay the poster with the headline 'Sorrento to Shiraz' in large, bold, stylized sans-serif lettering, positioned prominently at the bottom, similar to the 'SORRENTO' text in image 1.",
+  "annotator": "parnian",
+  "objects": [
+    "Retro travel poster composition",
+    "Stylized, flat-color, graphic illustration style",
+    "Vibrant color palette",
+    "Dynamically posed, stylized dancing couple in foreground",
+    "Octagonal Hafiz tomb in background (with domed roof and columns)",
+    "Text 'Sorrento to Shiraz' (large, bold, stylized sans-serif, positioned at the bottom)"
+  ]
+}

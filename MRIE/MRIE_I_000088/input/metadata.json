@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Edit image 1's spleen diagram by replacing the main organ shape and texture with the appearance of the orange segment from image 2. Render the internal vascular structure to resemble the branching pattern of the tree from image 3, keeping the diagram labels.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the spleen diagram in image 1. Reshape the main spleen organ to match the distinct curved outline of the orange segment from image 2, adopting its textured and somewhat translucent appearance throughout. Transform the internal red (Splenic Artery) and blue (Splenic Vein) vascular structures to mimic the intricate branching pattern of the bare tree from image 3. All existing labels (Spleen, Capsule, Trabecula, Splenic Vein, Splenic Artery, White Pulp, Vascular Sinusoid) must be retained and accurately positioned relative to the modified diagram.",
+  "annotator": "maxku",
+  "objects": [
+    "Spleen organ (with orange segment shape, texture, and translucency)",
+    "Red vascular structures (with intricate branching pattern)",
+    "Blue vascular structures (with intricate branching pattern)",
+    "Label: Spleen",
+    "Label: Capsule",
+    "Label: Trabecula",
+    "Label: Splenic Vein",
+    "Label: Splenic Artery",
+    "Label: White Pulp",
+    "Label: Vascular Sinusoid"
+  ]
+}

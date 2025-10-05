@@ -1,0 +1,27 @@
+{
+  "subtopic": "3D renders",
+  "prompt": "Edit image 1, transforming the scene into a detailed 3D render. Replace the fish object with a 3D model of the smartphone from image 2, held by the hands. Render the entire scene in a stark black and white, high-contrast style inspired by image 3.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748456573821,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1. Transform the entire scene into a detailed 3D render. Replace the fish object, which is centrally held by the hands, with a 3D model of the smartphone from image 2. Ensure the hands from image 1 maintain their current pose and realistically hold the new smartphone in the same central position. Apply a stark black and white, high-contrast visual style to the final rendered scene, inspired by the aesthetic of image 3.",
+  "annotator": "winston",
+  "objects": [
+    "hands (maintaining original pose from image 1)",
+    "smartphone (3D model, centrally held)",
+    "person's body/clothing (from image 1)",
+    "detailed 3D rendered scene",
+    "stark black and white visual style",
+    "high-contrast visual style",
+    "fish object (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

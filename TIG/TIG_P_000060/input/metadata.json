@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "The International Space Station orbiting Earth, with solar panels shining brightly, set against the planet's blue and white surface, and the dark expanse beyond.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A highly detailed, photorealistic image of the International Space Station (ISS) in low Earth orbit, with its large solar arrays brightly illuminated by the sun, their surfaces glinting. The station is positioned prominently against the vibrant blue and swirling white cloud patterns of Earth's surface below. The deep, dark expanse of outer space fills the background, providing a stark contrast to the illuminated station and planet.",
+  "annotator": "cwhsu",
+  "objects": [
+    "International Space Station (ISS)",
+    "Large solar arrays of the ISS",
+    "Solar arrays brightly illuminated by the sun",
+    "Glinting surfaces on the solar arrays",
+    "Earth's surface below the ISS",
+    "Vibrant blue color of Earth's surface",
+    "Swirling white cloud patterns on Earth",
+    "Deep, dark outer space in the background"
+  ]
+}

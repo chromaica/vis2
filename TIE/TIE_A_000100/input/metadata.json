@@ -1,0 +1,22 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Renaissance",
+  "prompt": "Crop the image such that I can post it on Instagram with the aspect ratio of 1:1. The cropped image should keep the most important details of the original image intact.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 by cropping it to a 1:1 square aspect ratio. The cropped image should prominently feature the Mona Lisa's face, upper torso, and hands, ensuring these key elements are well-composed and visible within the square frame, suitable for a social media post.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Mona Lisa's face",
+    "Mona Lisa's upper torso",
+    "Mona Lisa's hands",
+    "Mona Lisa's hair",
+    "Mona Lisa's dark dress",
+    "Part of the background landscape"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,24 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Illuminated Manuscripts",
+  "prompt": "Envision a medieval masterpiece: 'Veritas Lux' is inscribed. A magnificent 'V', gilded and intricately patterned, leads the eye to elegant gothic lettering accented with ruby and sapphire. The aged parchment canvas is framed by a lavish border teeming with colorful flora, fauna, and scrolling designs in rich medieval hues.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate an image of a medieval textual graphic. The inscription 'Veritas Lux' is prominently displayed on an aged parchment canvas. The letter 'V' in 'Veritas' is a magnificent, large initial capital, gilded and intricately patterned. The remaining letters 'eritas Lux' are rendered in an elegant Gothic script, subtly accented with small ruby and sapphire gemstones. The entire composition is framed by a lavish, ornate border, densely filled with colorful medieval flora, fauna, and scrolling designs, all rendered in rich, deep medieval hues.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "aged parchment canvas",
+    "inscription 'Veritas Lux'",
+    "magnificent, large, gilded, intricately patterned initial capital letter 'V'",
+    "letters 'eritas Lux' in elegant Gothic script",
+    "small ruby gemstones (accenting 'eritas Lux')",
+    "small sapphire gemstones (accenting 'eritas Lux')",
+    "lavish, ornate border",
+    "colorful medieval flora (within the border)",
+    "colorful medieval fauna (within the border)",
+    "scrolling designs (within the border)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

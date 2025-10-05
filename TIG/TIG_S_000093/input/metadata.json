@@ -1,0 +1,24 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "Match-3 puzzle game featuring magical gems in a mystical forest setting. Show cascading colorful crystals creating chain reactions with sparkle effects. Include score multiplier, moves remaining counter, special power-up gems (bomb, lightning, rainbow), level progress bar, and cute forest creature mascot cheering. Whimsical art style with glowing effects and enchanted tree backdrop",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a screenshot of a whimsical Match-3 puzzle game set in a mystical forest. The central game board is filled with vibrant, glowing magical crystals. Display a dynamic scene with cascading colorful gems forming chain reactions, highlighted by significant sparkle effects. In the top-left corner, show a prominent score multiplier. In the top-right corner, feature a clear 'moves remaining' counter. Integrated within the game board, depict distinct special power-up gems: a 'bomb' gem, a 'lightning' gem, and a 'rainbow' gem, each with unique visual enhancements. A level progress bar is positioned along the bottom edge of the screen, glowing softly. To the right of the game board, a cute forest creature mascot is cheering enthusiastically. The background features an enchanted tree backdrop, and the entire image should have an overall whimsical art style with pronounced glowing effects.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Whimsical Match-3 game board",
+    "Vibrant, glowing magical crystals and cascading gems with sparkle effects on the game board",
+    "Prominent score multiplier in the top-left corner",
+    "'Moves remaining' counter in the top-right corner",
+    "'Bomb' special power-up gem on the game board",
+    "'Lightning' special power-up gem on the game board",
+    "'Rainbow' special power-up gem on the game board",
+    "Level progress bar along the bottom edge of the screen",
+    "Cute forest creature mascot to the right of the game board",
+    "Enchanted tree backdrop"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

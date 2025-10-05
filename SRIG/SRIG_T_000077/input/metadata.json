@@ -1,0 +1,27 @@
+{
+  "subtopic": "Typography",
+  "prompt": "Generate a typographic graphic image with US map, formed entirely from repeated instances of the word \"US\". Use the black-and-white sticker style and dense text composition from the reference image.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://image.spreadshirtmedia.net/image-server/v1/products/T1459A839PA4459PT28D16110177W4772H10000/views/1,width=378,height=378,appearanceId=839,backgroundColor=F2F2F2/number-one-typography.jpg",
+  "promptGeneratedTimestamp": 1750500098526,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "T",
+  "prompt_refined": "Generate a typographic graphic image of a US map. The map should be entirely composed of densely packed, repeated instances of the word 'US'. The text within the map should vary in size and orientation, similar to the text composition and density seen in image 1. The overall graphic should have a black-and-white sticker aesthetic, with black text on a white background and a distinct white outline bordering the US map shape, consistent with the style of image 1.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "US map shape",
+    "Repeated instances of the word 'US'",
+    "Black text",
+    "White background",
+    "Text (word 'US') varying in size",
+    "Text (word 'US') varying in orientation",
+    "Dense text composition",
+    "Distinct white outline bordering the US map shape",
+    "Sticker aesthetic",
+    "Typographic graphic"
+  ],
+  "human_annotation": true
+}

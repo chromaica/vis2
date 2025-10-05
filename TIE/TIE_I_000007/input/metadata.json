@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "Replace the 'Featured Title' section with a colorful image slideshow highlighting trending news articles.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. In the upper part of the website interface, replace the entire large horizontal banner section currently labeled 'Featured Title' with a dynamic, colorful image slideshow. The slideshow should visually highlight trending news articles, displaying diverse images and possibly short titles or snippets related to current events.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Laptop",
+    "Website interface",
+    "Navigation bar",
+    "Lower content sections of the website",
+    "\"Featured Title\" banner section (should not be present)",
+    "Dynamic image slideshow in the upper part of the website",
+    "Colorful images within the slideshow",
+    "Short titles or snippets within the slideshow",
+    "Trending news visual content",
+    "Slideshow controls"
+  ]
+}

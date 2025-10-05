@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Word Clouds",
+  "prompt": "A layered typographic treatment for 'VISION', using varied bold fonts and sizes that overlap slightly, presented against a dark background for a striking word cloud effect.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A layered typographic composition of the word 'VISION', featuring multiple instances in diverse bold fonts and varying sizes. The text elements should subtly overlap, creating a sense of depth and a dynamic, striking word cloud effect. The entire arrangement should be prominently centered against a deep, dark background.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Layered typographic composition",
+    "Multiple instances of the word 'VISION'",
+    "Diverse bold fonts",
+    "Varying text sizes",
+    "Subtly overlapping text elements",
+    "Dynamic word cloud effect",
+    "Sense of depth (visual)",
+    "Centered composition",
+    "Deep background",
+    "Dark background"
+  ]
+}

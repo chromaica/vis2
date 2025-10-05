@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Expressionism",
+  "prompt": "Make those hands with five fingers.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. For each of the hands depicted in the artwork (top-left, top-right, bottom-left, and bottom-right), modify them to show five distinct fingers.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "blue background",
+    "dark silhouette of a head",
+    "yellow crown",
+    "white lines/beams",
+    "yellow lines/beams",
+    "hand (top-left) with five distinct fingers",
+    "hand (top-right) with five distinct fingers",
+    "hand (bottom-left) with five distinct fingers",
+    "hand (bottom-right) with five distinct fingers"
+  ],
+  "human_annotation": true
+}

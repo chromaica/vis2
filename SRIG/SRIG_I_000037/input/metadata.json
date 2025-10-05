@@ -1,0 +1,27 @@
+{
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Based on the figures of this pie chart provided, create a horizontal bar chart. The bar chart should use student icons to represent the percentage of different sport types.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://media.geeksforgeeks.org/wp-content/uploads/20220920123803/Piechartexample11.png",
+  "promptGeneratedTimestamp": 1749906504588,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate a horizontal bar chart based on the data presented in image 1, which is a pie chart titled 'Number of Students'. The bar chart must feature distinct horizontal bars for each sport type specified in image 1: Football (25%), Cricket (17%), Badminton (12%), Hockey (5%), and Other (41%). Each horizontal bar should be composed entirely of multiple student icons, where the aggregate visual length of these icons accurately represents the corresponding percentage of students for that sport. The bar chart should include a clear title, consistent with 'Number of Students' from image 1.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "\"Number of Students\" title",
+    "Horizontal bar chart frame",
+    "Horizontal bar representing Football",
+    "Horizontal bar representing Cricket",
+    "Horizontal bar representing Badminton",
+    "Horizontal bar representing Hockey",
+    "Horizontal bar representing Other",
+    "Multiple student icons (forming the bars)",
+    "Text labels for sport types (e.g., Football, Cricket)",
+    "Text labels for percentages (e.g., 25%, 17%)"
+  ],
+  "human_annotation": true
+}

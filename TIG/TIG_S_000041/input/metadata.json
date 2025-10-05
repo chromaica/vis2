@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "generate a receipt that looks like a slightly glowing thermal receipt printed in both English and Lunar Glyphs. Lists: 1 Oxygen Smoothie, 2 Gravity-Free Espresso Pods. Includes a digital signature and \u201cCarbon Offset: 0.02kg CO\u2082\u201d.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate an image of a thermal receipt that appears slightly glowing and has the characteristic texture of thermal paper. The text on the receipt must be printed in both English and distinct Lunar Glyphs, with both language versions present for each line item. Clearly list the following purchases in the main body of the receipt: '1 Oxygen Smoothie' and '2 Gravity-Free Espresso Pods'. Below the itemized list, include the line: 'Carbon Offset: 0.02kg CO\u2082'. At the very bottom of the receipt, include a clean, modern digital signature.",
+  "annotator": "theblackcat",
+  "objects": [
+    "thermal receipt",
+    "slightly glowing effect",
+    "thermal paper texture",
+    "English text",
+    "Lunar Glyphs",
+    "text line: '1 Oxygen Smoothie'",
+    "text line: '2 Gravity-Free Espresso Pods'",
+    "text line: 'Carbon Offset: 0.02kg CO\u2082'",
+    "clean, modern digital signature"
+  ]
+}

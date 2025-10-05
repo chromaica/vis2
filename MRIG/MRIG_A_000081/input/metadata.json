@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Stylized art",
+  "prompt": "Create a stylized artwork: a rabbit (subject from image 1) rendered in the geometric, bold, cubist style from image 2. Apply the vibrant watercolor splatter and colors from image 1.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a new stylized artwork featuring a rabbit. The rabbit should capture the close-up, front-facing composition of the subject from image 1. Render the rabbit using the distinctive geometric, segmented, and bold cubist art style observed in image 2, including its mosaic-like structure and strong outlines. Apply the vibrant, multi-colored watercolor wash and splatter effects from image 1 onto the rabbit's form, utilizing the bright color palette seen in image 1. The background should be clean and white, similar to image 1, to emphasize the stylized rabbit.",
+  "annotator": "samin",
+  "objects": [
+    "Rabbit",
+    "Close-up, front-facing composition (for the rabbit)",
+    "Cubist art style (for the rabbit)",
+    "Geometric and segmented form (for the rabbit)",
+    "Mosaic-like structure (on the rabbit)",
+    "Strong outlines (on the rabbit)",
+    "Vibrant, multi-colored watercolor wash (on the rabbit)",
+    "Splatter effects (on the rabbit)",
+    "Bright color palette (on the rabbit)",
+    "Clean white background"
+  ]
+}

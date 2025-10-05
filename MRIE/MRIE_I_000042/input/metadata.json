@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "Edit image 1 (the island map) by adding the compass from image 2 in bottom left corner to indicate direction on the map, and populate the surrounding water with a variety of the colorful cartoon fish from image 3.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the cartoon island map, by adding the compass from image 2 into its bottom-left corner to indicate direction. Additionally, populate the surrounding blue water with a variety of the colorful cartoon fish from image 3.",
+  "annotator": "maxku",
+  "objects": [
+    "Cartoon island map",
+    "Surrounding blue water",
+    "Compass in the bottom-left corner",
+    "Variety of colorful cartoon fish in the water",
+    "Pirate ship",
+    "Whale",
+    "Mountains on the island",
+    "Volcanoes on the island",
+    "Path on the island",
+    "Treasure chest on the island"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,23 @@
+{
+  "subtopic": "Receipts",
+  "prompt": "Redesign the given receipt to look like a scroll of parchment from a medieval fantasy world, with calligraphy fonts and wax seals.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "https://cdn.wpsimplepay.com/wp-content/uploads/2018/10/blue-bottle-email-receipt-e1540988585749.jpg",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a new image from image 1, transforming the modern digital receipt into a detailed medieval fantasy parchment scroll. The scroll should exhibit an aged, yellowed appearance with rough, slightly curled edges and a visible parchment texture. All textual content present in image 1, such as 'Order Confirmation', product names, quantities, prices, and address details, must be accurately rendered using an ornate, traditional calligraphy font. Include two prominent circular red wax seals, one affixed to the top-left corner and another to the bottom-right corner of the parchment, each featuring a distinct, subtle crest design. The final output should convey an authentic historical document from a fantasy realm.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "medieval fantasy parchment scroll with aged, yellowed appearance, rough, slightly curled edges, and visible parchment texture",
+    "all textual content from image 1 (e.g., \"Order Confirmation\", product names, quantities, prices, address details, gift message, payment details, order total, etc.) rendered in ornate, traditional calligraphy font",
+    "visual representation of Hario Buono Kettle",
+    "visual representation of Drip Coffee Tote Set",
+    "circular red wax seal on the top-left corner of the parchment",
+    "circular red wax seal on the bottom-right corner of the parchment",
+    "distinct, subtle crest design on the top-left wax seal",
+    "distinct, subtle crest design on the bottom-right wax seal"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,23 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Reimagine a medieval longsword as a futuristic weapon. Combine the ornate hilt and engraved blade from the first reference image with the sleek, neon-glowing circuits and holographic accents from the second reference image. The sword emits a soft plasma glow.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic image of a futuristic longsword. The foundational shape and design of the sword should be derived from the medieval longsword depicted in image 1, featuring an ornate hilt and an engraved blade. Integrate sleek, neon-glowing circuits and distinct holographic accents, drawing inspiration from the visual elements and vibrant colors of image 2, directly onto the blade and hilt of the sword. The entire futuristic longsword should emit a soft, ethereal plasma glow.",
+  "objects": [
+    "Futuristic longsword",
+    "Ornate hilt",
+    "Engraved blade",
+    "Sleek, neon-glowing circuits on the blade and hilt",
+    "Distinct holographic accents on the blade and hilt",
+    "Soft, ethereal plasma glow around the longsword"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

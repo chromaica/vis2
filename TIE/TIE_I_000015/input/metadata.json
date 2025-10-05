@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Enhance with labels showing average value lines for head length and body mass across both genders.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 to add lines representing the average values for head length and body mass, along with their respective numeric labels, within each gender's sub-plot.\n\nFor the 'female birds' panel (left side of image 1):\n- Add a horizontal line across the scatter plot at the average head length of the female birds. Label this line clearly with its calculated average value (e.g., 'Avg. Head Length: X mm').\n- Add a vertical line across the scatter plot at the average body mass of the female birds. Label this line clearly with its calculated average value (e.g., 'Avg. Body Mass: Y g').\n\nFor the 'male birds' panel (right side of image 1):\n- Add a horizontal line across the scatter plot at the average head length of the male birds. Label this line clearly with its calculated average value (e.g., 'Avg. Head Length: Z mm').\n- Add a vertical line across the scatter plot at the average body mass of the male birds. Label this line clearly with its calculated average value (e.g., 'Avg. Body Mass: W g').\n\nEnsure all lines are distinct and all labels are clearly readable and precisely indicate the derived average value for each dimension and gender.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Female birds scatter plot",
+    "Male birds scatter plot",
+    "Horizontal line in the female birds panel representing average head length",
+    "Numeric label for average head length in the female birds panel",
+    "Vertical line in the female birds panel representing average body mass",
+    "Numeric label for average body mass in the female birds panel",
+    "Horizontal line in the male birds panel representing average head length",
+    "Numeric label for average head length in the male birds panel",
+    "Vertical line in the male birds panel representing average body mass",
+    "Numeric label for average body mass in the male birds panel"
+  ]
+}

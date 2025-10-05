@@ -1,0 +1,25 @@
+{
+  "subtopic": "Facial estimation and analysis",
+  "prompt": "Generate a synthetic image for facial estimation, using the reference's clear, bright lighting and close-up side profile view. Focus on sharp facial features and a neutral or slightly expressive face suitable for analysis.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://freerangestock.com/photos/157594/a-woman-applying-a-face-cream.html",
+  "promptGeneratedTimestamp": 1748767164799,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a synthetic image of a human face for facial estimation. Emulate the clear, bright, even studio lighting and plain white background from image 1. The image should depict a close-up, three-quarter side profile view of the face, mirroring the angle in image 1. Focus on sharp, well-defined facial features and a neutral or subtly expressive facial expression suitable for analytical purposes, without the hand and cream present in image 1.",
+  "annotator": "ishengfang",
+  "objects": [
+    "synthetic human face",
+    "close-up view of the face",
+    "three-quarter side profile view of the face",
+    "clear, bright, even studio lighting",
+    "plain white background",
+    "sharp, well-defined facial features",
+    "neutral or subtly expressive facial expression",
+    "hand (should not be present)",
+    "cream (should not be present)"
+  ]
+}

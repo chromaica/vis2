@@ -1,0 +1,26 @@
+{
+  "subtopic": "Game assets",
+  "prompt": "Edit image 1: Transform the gecko into a detailed, realistic game asset by applying the rendering style and textures from the swan in image 2. Place the realistic gecko in a stylized, flat winter background inspired by image 3.",
+  "cond_images": [
+    "1.png",
+    "2.jpeg",
+    "3.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748455855573,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1: Transform the cartoon gecko into a highly detailed, realistic 3D game asset. Apply the realistic rendering style, intricate textures, and natural lighting characteristics observed on the swan in image 2 to the gecko. Replace the current background with a new, stylized, flat winter landscape scene, adopting the aesthetic, muted color palette, and simple geometric forms of the environment in image 3. Ensure the realistic gecko remains centrally positioned within the new winter scene.",
+  "annotator": "winston",
+  "objects": [
+    "Realistic gecko (centrally positioned)",
+    "Snowy ground",
+    "Stylized winter trees",
+    "Stylized background buildings/cityscape",
+    "Falling snow",
+    "Cartoon gecko (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

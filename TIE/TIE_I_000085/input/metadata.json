@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Floor Plan",
+  "prompt": "Replace the largest rectangular table with a grand piano, ensuring it maintains proportional scale to the rest of the furniture.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Locate the largest rectangular table in image 1, specifically the long conference table with twenty chairs around it, positioned horizontally in the mid-right section of the image. Replace this table with a grand piano. The grand piano must be depicted as a top-down outline, maintaining proportional scale and visual style consistent with the other furniture outlines in the image.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Long rectangular conference table with twenty chairs (should not be present)",
+    "Grand piano (top-down outline)",
+    "Round tables with chairs",
+    "Oval tables with chairs",
+    "Other rectangular tables with chairs",
+    "L-shaped office desks with chairs",
+    "Straight sofas",
+    "L-shaped and curved sofas",
+    "Individual chairs",
+    "Rug and plant outlines"
+  ]
+}

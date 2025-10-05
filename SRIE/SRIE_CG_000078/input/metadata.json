@@ -1,0 +1,22 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "3D renders",
+  "prompt": "Add the robot in the center of the corridor facing camera.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 (futuristic corridor) to add the robot from image 2 (sleek humanoid robot). Place the robot centrally within the corridor, appearing in the mid-ground, and ensure it is directly facing the viewer.",
+  "annotator": "nimajamali",
+  "objects": [
+    "futuristic corridor",
+    "sleek humanoid robot centrally placed in the mid-ground",
+    "robot directly facing the viewer",
+    "illuminated white lines within the corridor",
+    "illuminated orange elements within the corridor",
+    "green illuminated pattern at the end of the corridor",
+    "reflective floor"
+  ]
+}

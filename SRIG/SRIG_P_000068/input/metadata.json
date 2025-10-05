@@ -1,0 +1,19 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "A planet positioned in space according to the reference mask, surrounded by a galaxy with stars, nebulae, and cosmic dust.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic image of a planet positioned precisely at the location of the white circular mask in image 1. The planet should be enveloped by a vibrant, expansive galaxy, rich with glowing nebulae, countless twinkling stars, and swirling cosmic dust.",
+  "annotator": "samin",
+  "objects": [
+    "photorealistic planet (positioned at the location of the white circular mask)",
+    "vibrant galaxy",
+    "glowing nebulae",
+    "twinkling stars",
+    "swirling cosmic dust"
+  ]
+}

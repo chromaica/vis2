@@ -1,0 +1,27 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Create a minotaur where the human-like muscular torso and arms match the style, build, and attire (e.g., gladiator armor) of the human in the first reference image, and the bull\u2019s head and lower legs match the horns, fur, and texture of the bull in the second reference image. Ensure a cohesive blend. Set the minotaur in a labyrinth with torchlit stone walls, in a gritty, realistic style.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic image of a minotaur. The minotaur's muscular human-like torso and arms should replicate the defined musculature and powerful build of the man in image 1, incorporating gladiator-style armor on the torso and arms. The minotaur's bull head, including its horns, and its lower legs should precisely match the thick black fur and texture of the bull in image 2. Ensure a seamless and cohesive integration of these diverse anatomical elements. The minotaur should be depicted within a dimly lit, gritty labyrinth with rough, torchlit stone walls, emphasizing a realistic and intense atmosphere.",
+  "objects": [
+    "Minotaur",
+    "Muscular human-like torso",
+    "Muscular arms",
+    "Gladiator-style armor",
+    "Bull head with horns",
+    "Bull lower legs",
+    "Dimly lit labyrinth",
+    "Gritty labyrinth",
+    "Rough stone walls",
+    "Torchlit stone walls"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

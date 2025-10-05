@@ -1,0 +1,26 @@
+{
+  "subtopic": "Cultural or Heritage art",
+  "prompt": "Edit image 1: Replace the eyes of the mosaic figure with the blue mosaic style from the eye shown in image 2.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748655326968,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1. Replace the eyes of the mosaic figure with new eyes rendered in the distinct blue mosaic style and detailed composition of the eye depicted in image 2.",
+  "annotator": "kellycyy",
+  "objects": [
+    "mosaic figure's head",
+    "mosaic figure's hair",
+    "mosaic figure's face",
+    "mosaic figure's lips",
+    "mosaic background",
+    "two blue mosaic eyes",
+    "mosaic eyelashes",
+    "mosaic sclera",
+    "original mosaic figure's eyes (should not be present)"
+  ]
+}

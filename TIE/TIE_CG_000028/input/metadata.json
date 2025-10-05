@@ -1,0 +1,23 @@
+{
+  "subtopic": "Facial estimation and analysis",
+  "prompt": "Add a network of facial landmark points within the blue bounding box on the person's face.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751816465964,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1. Add a network of facial landmark points within the blue bounding box on the person's face.",
+  "annotator": "edisy",
+  "objects": [
+    "woman's face",
+    "blue bounding box",
+    "\"Happy\" text on bounding box",
+    "network of facial landmark points on the face",
+    "woman's shoulders and upper body",
+    "purple and orange gradient background with network pattern"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,22 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Traditional art",
+  "prompt": "A watercolor painting of a woman, using the binary mask from the first image as structure and the hat from the second image.",
+  "cond_images": [
+    "1.png",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a watercolor painting of a woman. The woman's silhouette and pose should be structured by the binary mask in image 1. She should be depicted wearing the straw fedora hat from image 2, incorporating its specific style and details.",
+  "annotator": "samin",
+  "objects": [
+    "watercolor painting style",
+    "woman",
+    "woman's silhouette matching image 1",
+    "woman's pose matching image 1",
+    "straw fedora hat",
+    "hat with black band",
+    "woman wearing the hat"
+  ]
+}

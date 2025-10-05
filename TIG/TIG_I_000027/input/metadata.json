@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "show a heat-map calendar of caffeine intake for a remote worker over 30 days: hours on the y-axis (00-23), days on the x-axis, with cell color intensity ranging from mint (0 mg) to crimson (400 mg).",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a heat-map calendar visualizing caffeine intake for a remote worker over a 30-day period. The horizontal x-axis displays the 30 days. The vertical y-axis, on the left, represents the 24 hours of a day, labeled from 00 to 23. Each cell in the grid should be colored based on caffeine intake, with a smooth gradient transitioning from mint green (0 mg) for no intake to crimson red (400 mg) for maximum intake.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Heat-map calendar",
+    "Grid of cells",
+    "Horizontal x-axis",
+    "Labels for 30 days on the x-axis",
+    "Vertical y-axis (on the left)",
+    "Labels for 24 hours (00 to 23) on the y-axis",
+    "Cells colored with a smooth gradient",
+    "Mint green color (for 0 mg intake)",
+    "Crimson red color (for 400 mg intake)",
+    "Color legend/scale (showing 0 mg and 400 mg values corresponding to colors)"
+  ]
+}

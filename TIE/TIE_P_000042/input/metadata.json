@@ -1,0 +1,23 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "add Comet NEOWISE into the photo I just taken",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Add a photorealistic Comet NEOWISE, featuring its bright nucleus and a distinct, long tail, prominently visible in the upper-left to mid-left area of the starry night sky.",
+  "annotator": "theblackcat",
+  "objects": [
+    "starry night sky",
+    "stars",
+    "Milky Way",
+    "tree branches",
+    "autumn leaves",
+    "photorealistic Comet NEOWISE in the upper-left to mid-left area",
+    "bright nucleus of Comet NEOWISE",
+    "distinct, long tail of Comet NEOWISE"
+  ],
+  "human_annotation": true
+}

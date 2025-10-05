@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "Edit image 1 by applying the vibrant color palette from the color wheel in image 2 to the social media icons, and replace the simple outline with a shiny, 3D version used in image 3.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Apply the vibrant color palette from the color wheel in image 2 to the social media icons, transforming their simple outlines into the shiny, 3D rendered style shown in image 3.",
+  "annotator": "maxku",
+  "objects": [
+    "\"SOCIAL MEDIA ICONS\" text",
+    "Vibrant, shiny, 3D rendered thumbs up icon",
+    "Vibrant, shiny, 3D rendered thumbs down icon",
+    "Vibrant, shiny, 3D rendered Wifi icon",
+    "Vibrant, shiny, 3D rendered chat bubble icon",
+    "Vibrant, shiny, 3D rendered star icon",
+    "Vibrant, shiny, 3D rendered map pin icon",
+    "Vibrant, shiny, 3D rendered bell icon",
+    "Vibrant, shiny, 3D rendered heart icon",
+    "Vibrant, shiny, 3D rendered dollar sign icon"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

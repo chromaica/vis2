@@ -1,0 +1,24 @@
+{
+  "subtopic": "Memes",
+  "prompt": "Generate a Textual Graphics meme using the focused, bent-over pose from the reference image, depicting someone struggling with meme text.",
+  "cond_images": [
+    "1.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1750705343029,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "T",
+  "annotator": "winston",
+  "prompt_refined": "Generate a Textual Graphics meme featuring a person in the focused, bent-over pose from image 1. The person's head should be bowed and their gaze directed downwards, depicted as intently struggling with visible meme text, as if deep in thought or effort to refine it.",
+  "objects": [
+    "Person",
+    "Bent-over posture of the person",
+    "Bowed head of the person",
+    "Downward gaze of the person",
+    "Glasses on the person",
+    "Visible meme text",
+    "Expression of deep thought or effort on the person's face/body"
+  ],
+  "human_annotation": true
+}

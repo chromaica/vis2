@@ -1,0 +1,21 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Medical images",
+  "prompt": "remove the dark dots found in the image and zoom in into the neuron cell in the image",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 by removing all small, dark purple, scattered cellular dots and seamlessly blending them into the light purple fibrous background. Then, zoom in on the large, centrally located neuron cell so that it fills the majority of the frame, highlighting its structure and processes.",
+  "annotator": "theblackcat",
+  "objects": [
+    "large neuron cell (filling the majority of the frame)",
+    "neuron cell structure",
+    "neuron cell processes",
+    "light purple fibrous background",
+    "small, dark purple, scattered cellular dots (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

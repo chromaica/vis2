@@ -1,0 +1,17 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "Transform the receipt into a vintage-style postcard with elegant borders and a handwritten thank you note.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, which displays a digital receipt, by transforming its entire content into a vintage-style postcard. The postcard should feature elegant decorative borders along its perimeter and prominently include a handwritten 'thank you' note within its design.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Vintage-style postcard",
+    "Elegant decorative borders",
+    "Handwritten 'thank you' note"
+  ]
+}

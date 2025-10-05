@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "create a scatterplot matrix comparing 8 variables across 200 cities: population density, median income, air quality index, crime rate, housing cost, education score, happiness index, and startup density. Use correlation coefficients in upper triangle and smooth regression lines in lower triangle",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a clean, professional, and modern 8x8 scatterplot matrix data visualization. This matrix should compare 8 distinct variables across 200 individual data points, representing cities. The variables are: 'population density', 'median income', 'air quality index', 'crime rate', 'housing cost', 'education score', 'happiness index', and 'startup density'. These variable names should clearly label the rows and columns of the matrix.\n\nIn the upper triangular section of the matrix (above the main diagonal), each cell must display the calculated numerical correlation coefficient between the corresponding row and column variables. In the lower triangular section of the matrix (below the main diagonal), each cell must contain a scatterplot showing 200 distinct data points for the corresponding variables, overlaid with a clearly rendered smooth regression line. The main diagonal cells should prominently display the name of the respective variable. Ensure all text and data points are legible.",
+  "annotator": "theblackcat",
+  "objects": [
+    "8x8 matrix grid structure",
+    "Text labels for matrix rows (variable names)",
+    "Text labels for matrix columns (variable names)",
+    "Main diagonal cells, each containing a prominent variable name",
+    "Upper triangular cells, each containing a numerical correlation coefficient",
+    "Lower triangular cells, each containing a scatterplot",
+    "Distinct data points (200 per plot) within each scatterplot",
+    "Smooth regression lines overlaid on each scatterplot",
+    "Clean, professional, and modern visual styling"
+  ]
+}

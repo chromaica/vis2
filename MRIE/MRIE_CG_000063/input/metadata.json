@@ -1,0 +1,29 @@
+{
+  "subtopic": "Object detection visuals",
+  "prompt": "Edit image 1 by applying object detection visualization. Display detected object labels and confidence scores in the digital text style from image 2. Draw bounding boxes around detected objects using the lace pattern from image 3. Overlay a network graphic inspired by the circuit board in image 4, connecting detected objects. Apply the golden color palette and a visually dense style from image 5 to the detection graphics.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg",
+    "4.jpeg",
+    "5.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749067387775,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1 by applying a detailed object detection visualization. For each detected object (e.g., dogs, people, stands), display its class label and confidence score using the distinct blocky, digital text style from the screen of image 2. Draw a rectangular bounding box around each detected object, rendering these boxes with the intricate lace pattern from the border of image 3. Overlay a connecting network graphic, inspired by the complex circuitry pattern from the green circuit board in image 4, spanning and linking the detected objects. All these new detection graphics (labels, scores, bounding boxes, and network) must adopt the reflective golden color palette and the visually dense, ornate aesthetic from the tinsel-decorated harps in image 5.",
+  "annotator": "winston",
+  "objects": [
+    "Dogs",
+    "People",
+    "Stands",
+    "Object class labels displayed in blocky, digital, reflective golden, ornate text",
+    "Confidence scores displayed in blocky, digital, reflective golden, ornate text",
+    "Rectangular bounding boxes with intricate lace pattern and reflective golden, ornate aesthetic",
+    "Connecting network graphic with complex circuitry pattern and reflective golden, ornate aesthetic",
+    "Grass and trees background"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,23 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Paintings",
+  "prompt": "Adjust and crop the whiteboard drawing in the first image to fill the output image. Ensure everything in the whiteboard drawing is retained. Then, Add lightbulbs above students who are paying attention to the teacher.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. First, precisely crop and scale image 1 so that the entire chalkboard drawing fills the output image, removing all surrounding elements such as the wall and clock. Ensure that no part of the artwork within the chalkboard drawing is cut off. After this, add a glowing lightbulb directly above the head of each student figure who is depicted as attentively looking towards the central teacher figure.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "chalkboard background",
+    "central teacher figure (chalk drawing)",
+    "student figures (chalk drawing)",
+    "student desks (chalk drawing)",
+    "large animal drawings (chalk drawing, including yellow fish, pink fish, blue fish, pink dinosaur)",
+    "other detailed chalkboard illustrations (including equations, musical notes, paper airplanes, flowers, cat figure)",
+    "glowing lightbulbs (directly above the head of each student figure depicted as attentively looking towards the central teacher figure)",
+    "wall (should not be present)",
+    "clock (should not be present)"
+  ]
+}

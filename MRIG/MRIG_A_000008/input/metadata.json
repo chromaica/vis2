@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "Create a digital portrait combining the clean facial structure and expression of image 1 with the vibrant, fantasy-inspired coloring, lighting, and painterly style of image 2.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a digital portrait. Adopt the clean, anime-inspired facial structure, large expressive eyes, and subtle, direct gaze from image 1. Apply the vibrant, multi-hued fantasy coloring, dynamic glowing illumination, and painterly digital art style characteristic of image 2.",
+  "annotator": "samin",
+  "objects": [
+    "digital portrait",
+    "anime-inspired facial structure",
+    "large expressive eyes",
+    "subtle, direct gaze",
+    "updo/bun hairstyle",
+    "bangs",
+    "vibrant, multi-hued coloring",
+    "dynamic glowing illumination",
+    "painterly digital art style"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

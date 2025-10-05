@@ -1,0 +1,29 @@
+{
+  "subtopic": "Icons and symbols",
+  "prompt": "Generate a set of icons. Use the minimal outline style from image 2. The icons should depict information graphics concepts like those in image 1. Incorporate the two-color palette seen in image 1 (blue/dark blue).",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "Information graphics icons symbols",
+  "searchQueryGeneratedTimestamp": 1752288958692,
+  "promptGeneratedTimestamp": 1752289043436,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "I",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a set of icons. Each icon should adopt the minimalist outline style characterized by thin, clean lines, similar to the aesthetic seen in image 2. The icons must represent various information graphics concepts, drawing inspiration from the themes and subjects illustrated in image 1 (e.g., data analytics, servers, cloud computing, networking, data charts). Crucially, the icons should exclusively utilize the two-tone blue color palette prominently featured in image 1, with one shade of blue used for the primary outlines and the other for subtle internal details or accents, ensuring the overall aesthetic remains predominantly line-based.",
+  "objects": [
+    "A collection of individual icons",
+    "Icon depicting data analytics concept",
+    "Icon depicting server concept",
+    "Icon depicting cloud computing concept",
+    "Icon depicting networking concept",
+    "Icon depicting data chart concept",
+    "All icons rendered in a minimalist outline style",
+    "All icons utilizing thin, clean lines",
+    "All icons exclusively using a two-tone blue color palette",
+    "One shade of blue used for primary outlines, the other for subtle internal details or accents"
+  ]
+}

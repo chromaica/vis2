@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Medical images",
+  "prompt": "A cross-section illustration of a healthy human lung, showing bronchioles and alveoli with vibrant blues and pinks for detail contrast.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A highly detailed cross-section illustration of a healthy human lung, prominently featuring bronchioles and alveoli. Use vibrant blue and pink colors to create strong contrast for all intricate details.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Cross-section of a human lung",
+    "Bronchioles",
+    "Alveoli",
+    "Larger bronchial tubes",
+    "Pulmonary blood vessels",
+    "Anatomical details colored with vibrant blue",
+    "Anatomical details colored with vibrant pink"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

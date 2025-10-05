@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "A futuristic bionic orca designed as a deep-sea submersible, inspired by the streamlined form of a Bluefin-21 AUV referenced in the second Image. The first reference give the general shape of a orca. The futuristic bionic orca body is a smooth, composite alloy with embedded teal bio-circuitry that pulses faintly. Its fins are articulated with micro-propellers for agile navigation, and its mouth houses a sonar array for mapping.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic image of a futuristic bionic orca, designed as a deep-sea submersible. This conceptual vessel should draw its distinctive organic silhouette and the iconic black and white coloration from the orca in image 1, while adopting the sleek, cylindrical, and highly streamlined form factor of the Bluefin-21 AUV shown in image 2. The submersible's body is composed of a smooth, dark composite alloy, subtly reflective, with faint, embedded teal bio-circuitry that emits a soft, pulsing glow. Its articulated pectoral fins and tail flukes are equipped with discreet micro-propellers for agile navigation. The front section, where the orca's mouth would be, seamlessly integrates a sophisticated sonar array for comprehensive deep-sea mapping.",
+  "objects": [
+    "Futuristic bionic orca submersible",
+    "Organic orca silhouette",
+    "Black and white orca coloration",
+    "Sleek, cylindrical, streamlined form factor",
+    "Smooth, dark composite alloy body",
+    "Subtly reflective surface",
+    "Faint, embedded teal bio-circuitry with pulsing glow",
+    "Articulated pectoral fins with discreet micro-propellers",
+    "Tail flukes with discreet micro-propellers",
+    "Integrated sophisticated sonar array at the front"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,27 @@
+{
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "Change the color of all segmented cars in the image to a bright red.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751817860897,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1 by changing the color of all the cars depicted in blue to a bright red.",
+  "annotator": "edisy",
+  "objects": [
+    "bright red cars",
+    "pedestrians",
+    "tram",
+    "road",
+    "sidewalk",
+    "traffic lights",
+    "street signs",
+    "buildings",
+    "trees",
+    "sky"
+  ],
+  "human_annotation": true
+}

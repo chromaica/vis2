@@ -1,0 +1,23 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "Add a cowboy as the driver. The cowboy should be wearing a traditional cowboy hat and have a rugged appearance. Also, he should be smoking a cigar. Follow the color scheme of the original image.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Insert a cowboy into the driver's seat of the prominent blue van. The cowboy should have a rugged appearance, be wearing a traditional cowboy hat, and be smoking a cigar. Ensure the added element seamlessly integrates with the existing blue and neon color scheme and the distinctive artistic style of image 1.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "blue van",
+    "cowboy in the driver's seat of the blue van",
+    "rugged appearance (of the cowboy)",
+    "traditional cowboy hat (on the cowboy)",
+    "cigar (smoked by the cowboy)",
+    "cockpit/dashboard with multiple screens",
+    "alien-like figures in the background",
+    "overall blue and neon color scheme",
+    "distinctive artistic style of image 1"
+  ]
+}

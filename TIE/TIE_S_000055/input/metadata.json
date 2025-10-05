@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Mobile software interfaces",
+  "prompt": "Change the theme to a light mode color scheme.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, changing the entire mobile app's current dark theme to a light mode color scheme. This involves converting the black background to a light color (e.g., white or light gray) and the white text and icons to a dark color (e.g., black or dark gray).",
+  "annotator": "cwhsu",
+  "objects": [
+    "Mobile phone frame",
+    "Mobile app background",
+    "Top status bar (with time, signal, battery icons)",
+    "App header with logo",
+    "User profile pictures/avatars",
+    "Usernames",
+    "Post text content (including timestamps and reply counts)",
+    "Post interaction icons (like, comment, share, bookmark)",
+    "App bottom navigation bar (home, search, create, likes, profile icons)",
+    "Android system navigation bar (bottom system buttons)"
+  ]
+}

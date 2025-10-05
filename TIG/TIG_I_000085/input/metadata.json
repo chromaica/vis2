@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "An organic, moss-textured UI for a forest biodiversity research platform with branch-like navigation trees and leaf-shaped data nodes",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A digital user interface (UI) for a forest biodiversity research platform, characterized by an deeply organic, overgrown aesthetic. The entire interface is textured with rich, plush green moss. Navigation elements are designed as intricate, gnarled, dark brown tree branches, forming a hierarchical 'navigation tree' likely on the left side of the screen. Data display nodes within the main content area are distinctly shaped like various sized leaves, appearing to rest on or emerge from the moss, some with subtle glowing veins or translucent qualities. The visual style should evoke an ancient, untouched forest ecosystem.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Digital user interface (UI)",
+    "Rich, plush green moss texture",
+    "Intricate, gnarled, dark brown tree branch navigation elements on the left side",
+    "Hierarchical navigation tree structure",
+    "Data display nodes shaped like various sized leaves",
+    "Leaves appearing to rest on or emerge from the moss",
+    "Leaves with subtle glowing veins",
+    "Leaves with translucent qualities",
+    "Ancient, untouched forest ecosystem visual style"
+  ]
+}

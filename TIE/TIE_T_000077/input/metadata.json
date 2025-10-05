@@ -1,0 +1,23 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Replace the panter with a rabit while keeping the same pose.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the black silhouette of the jumping panther logo on the left side of the image with a rabbit, while maintaining the exact jumping pose and orientation of the original panther.",
+  "annotator": "matina",
+  "objects": [
+    "black silhouette of a jumping rabbit (in the pose and orientation of the original panther logo)",
+    "\"PUMA\" text logo",
+    "pink sneaker",
+    "blue and white sneaker",
+    "cream and blue sneaker",
+    "orange sneaker",
+    "light beige background",
+    "black silhouette of the jumping panther logo (should not be present)"
+  ],
+  "human_annotation": true
+}

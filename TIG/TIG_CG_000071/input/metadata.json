@@ -1,0 +1,23 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "CAD models",
+  "prompt": "A CAD model of STM32 Nucleo-64 board, with all the components and connections.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A 3D CAD render of an STM32 Nucleo-64 development board, fully detailed with all electronic components, connectors, and PCB traces clearly visible.",
+  "annotator": "maxku",
+  "objects": [
+    "STM32 Nucleo-64 development board",
+    "PCB traces",
+    "Microcontroller chip (e.g., STM32)",
+    "USB port connector",
+    "Pin headers",
+    "SMD resistors",
+    "SMD capacitors",
+    "LED indicators",
+    "Crystal oscillator",
+    "Mounting holes"
+  ],
+  "human_annotation": true
+}

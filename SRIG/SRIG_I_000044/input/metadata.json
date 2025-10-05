@@ -1,0 +1,26 @@
+{
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Generate a modern organization chart diagram following the clean graphic style and connected node layout of the reference image, presented on a white background, depicting a simple company structure.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://upload.wikimedia.org/wikipedia/commons/2/2c/File_Hierarchy.png",
+  "promptGeneratedTimestamp": 1749908062636,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate an organization chart diagram following the clean graphic style and top-down hierarchical node layout of image 1. The diagram should feature simple rectangular nodes connected by thin lines, illustrating a basic company structure with the main department at the top, branching downwards. The entire diagram must be presented on a plain white background.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Plain white background",
+    "Rectangular nodes",
+    "Thin lines connecting nodes",
+    "Top-down hierarchical arrangement",
+    "Text labels representing company departments or roles within nodes",
+    "Main department node at the top",
+    "Branching department nodes",
+    "Blue color for rectangular nodes",
+    "Black color for text labels",
+    "Black color for connecting lines"
+  ]
+}

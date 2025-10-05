@@ -1,0 +1,21 @@
+{
+  "subtopic": "Depth maps",
+  "prompt": "Colorize the depth map using a smooth gradient from deep blue (far) to bright yellow (near) to visualize the depth information effectively.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751816029813,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1, a grayscale depth map. Apply a smooth color gradient to visualize depth: darkest regions (far) should be deep blue, gradually transitioning to bright yellow for the brightest regions (near).",
+  "annotator": "edisy",
+  "objects": [
+    "Teddy bear",
+    "Deep blue color",
+    "Bright yellow color",
+    "Smooth color gradient"
+  ],
+  "human_annotation": true
+}

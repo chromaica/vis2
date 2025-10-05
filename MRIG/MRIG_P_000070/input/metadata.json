@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Reenvision the soccer action shot referenced in the first image as a superhero-style comic book illustration, , using the second image as the art style. Transform the soccer player into a larger-than-life hero, with a dramatic pose and a vibrant costume, using bold colors and thick outlines. Add explosive motion lines and impact effects (e.g., \u2018POW!\u2019 or \u2018WHAM!\u2019) to emphasize the kick. Stylize the field with exaggerated perspective and comic-style crowd silhouettes, incorporating halftone dots and a high-energy, action-packed aesthetic.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a new image transforming the male soccer player in the orange jersey from image 1 into a larger-than-life superhero. Render the image as a superhero-style comic book illustration, drawing inspiration from the art style and character depiction found in image 2, which includes bold colors, thick outlines, and dynamic poses. The hero should be depicted in a dramatic, action-packed kicking pose, similar to the action in image 1, wearing a vibrant superhero costume. Emphasize the kick by adding explosive motion lines around the ball and stylized impact effects like \u2018POW!\u2019 or \u2018WHAM!\u2019 near the point of impact. The background should feature a soccer field with exaggerated perspective and incorporate comic-style crowd silhouettes. The overall aesthetic should be high-energy and action-packed, enhanced by the use of halftone dots.",
+  "objects": [
+    "larger-than-life superhero (male)",
+    "vibrant superhero costume",
+    "dramatic, action-packed kicking pose",
+    "soccer ball",
+    "explosive motion lines around the soccer ball",
+    "stylized impact effects (e.g., \u2018POW!\u2019, \u2018WHAM!\u2019)",
+    "soccer field with exaggerated perspective",
+    "comic-style crowd silhouettes",
+    "thick outlines (art style)",
+    "halftone dots"
+  ]
+}

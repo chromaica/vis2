@@ -1,0 +1,22 @@
+{
+  "subtopic": "Volume Rendering",
+  "prompt": "Change the volume rendering color scheme to use warmer tones, such as oranges and reds, emphasizing the internal vascular structure.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751762500426,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1, which displays a translucent volume rendering of lungs with an internal vascular structure. Change the color scheme of the existing internal vascular structure, currently rendered in blue and white tones, to warmer tones such as oranges and reds, to specifically emphasize and enhance its visibility.",
+  "annotator": "edisy",
+  "objects": [
+    "translucent volume rendering of lungs",
+    "internal vascular structure in oranges and reds",
+    "black background",
+    "\"Spin: 0\" text overlay",
+    "\"Tilt: 0\" text overlay",
+    "box with \"A\" text overlay"
+  ]
+}

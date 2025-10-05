@@ -1,0 +1,23 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Transform bars into vibrant rainbow colors with a glowing effect; add subtle shadow for a 3D appearance.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, which displays a horizontal bar chart. Transform each of the ten bars from their current green color into a vibrant rainbow gradient. Apply a luminous glowing effect to these rainbow-colored bars. Add subtle shadows beneath each bar to give them a distinct 3D appearance.",
+  "annotator": "cwhsu",
+  "objects": [
+    "horizontal bar chart",
+    "ten bars with vibrant rainbow gradient",
+    "luminous glowing effect on bars",
+    "subtle shadows beneath each bar",
+    "bar labels (e.g., region names)",
+    "numerical values next to bars",
+    "X-axis with numerical labels",
+    "chart title: \"MIDEM 2011 attendance by region of the world\"",
+    "white background"
+  ]
+}

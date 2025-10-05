@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "Edit image 1 by replacing the blue \u201cP\u201d PayPal logo at the top left with the green \u201cTD\u201d logo from image 2, keeping the original size and alignment. Then, add the logo from image 3 below the barcode, centered and scaled to fit the same width. Do not change any other cart items or background elements.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the blue PayPal logo in the top-left corner with the green TD logo from image 2, preserving its original size and alignment. Subsequently, add the TESCO logo from image 3 directly below the barcode on the receipt in image 1. This newly added logo should be horizontally centered and scaled to match the exact width of the barcode. Ensure no other text, items, or background elements of the receipt are altered.",
+  "annotator": "parnian",
+  "objects": [
+    "Receipt image",
+    "Green TD logo (top-left corner)",
+    "TESCO logo (below the barcode)",
+    "Barcode",
+    "Date \"25.04.2016\"",
+    "\"Vladyslav, Hi\" text",
+    "Shopping cart items list",
+    "\"Cart:\" text",
+    "\"TOTAL $95.00\" text",
+    "Blue PayPal logo (should not be present)"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": " Generate a blender with peacock style using the first reference image: a retro blender with a rounded base. Design it with the shape and style of the second reference image: a vibrant peacock with iridescent teal and gold feathers. The blender\u2019s base mimics the peacock\u2019s tail, with feather-like patterns on the controls, placed in a colorful bohemian kitchen.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic image of a blender. The blender's overall form should be inspired by image 1, but specifically designed as a retro blender with a distinctively rounded base. Apply the vibrant aesthetics and visual elements from the peacock in image 2, focusing on its iridescent teal and gold feather colors. The blender's base should intricately mimic the fanned tail of the peacock from image 2, and its controls should feature subtle feather-like patterns. The blender should be centrally positioned on a countertop within a colorful, brightly lit, bohemian-style kitchen.",
+  "objects": [
+    "Photorealistic blender",
+    "Retro design for the blender",
+    "Distinctively rounded base for the blender",
+    "Blender with iridescent teal and gold feather colors",
+    "Blender base intricately mimicking a fanned peacock tail",
+    "Blender controls with subtle feather-like patterns",
+    "Countertop (with blender centrally positioned)",
+    "Colorful kitchen interior",
+    "Brightly lit kitchen interior",
+    "Bohemian-style kitchen interior"
+  ],
+  "human_annotation": true
+}

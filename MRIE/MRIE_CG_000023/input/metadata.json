@@ -1,0 +1,28 @@
+{
+  "subtopic": "Object detection visuals",
+  "prompt": "Edit image 1 into object detection data: Outline the dog with a blue boundary like image 2. Apply honeycomb texture from image 3 to the snowy ground. Render the table/chairs in the grayscale style of image 4. Integrate image 5's warm color palette into the scene's presentation.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg",
+    "4.jpeg",
+    "5.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749067356669,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1 by applying the following modifications:\n\n1.  **Outline the dog:** Create a distinct blue boundary around the dog, precisely outlining its shape using the vibrant, solid blue color and clean edge style observed in image 2. This outline should clearly define the dog's form against the background.\n2.  **Texture the snowy ground:** Apply the intricate, natural honeycomb texture and the associated golden-brown, earthy hues from image 3 to all visible areas of the snowy ground in image 1.\n3.  **Style the furniture:** Render the wooden table and chairs located on the right side of image 1 in the grayscale aesthetic of image 4, replicating the strong contrast, sharp detail, and tonal range characteristic of image 4.\n4.  **Adjust overall color:** Integrate the warm color palette, specifically the rich yellows, oranges, and earthy browns, from image 5 into the entire scene of image 1, shifting its overall atmosphere from cold and muted to a distinctly warm presentation.",
+  "annotator": "winston",
+  "objects": [
+    "Dog with a blue outline",
+    "Ground with honeycomb texture and golden-brown hues",
+    "Wooden table in grayscale",
+    "Chairs in grayscale",
+    "Warm-toned bush/foliage",
+    "Warm-toned brick wall"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

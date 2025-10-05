@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": "Transform the entire webpage design to mimic an ancient scroll aesthetic with parchment textures and calligraphy fonts.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Modify the design of the Facebook webpage content shown in image 1 to resemble an ancient scroll. All text within the webpage should be rendered in a calligraphy font style. The background and various content sections of the webpage should incorporate parchment textures, giving the entire page an aged, historical appearance.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Facebook webpage content resembling an ancient scroll",
+    "Webpage background with parchment texture",
+    "Webpage content sections with parchment textures",
+    "Calligraphy font text throughout the webpage",
+    "Facebook layout structure (sidebars, feed, stories) maintained",
+    "Facebook icons stylized to an ancient theme",
+    "Profile pictures and embedded images/videos with aged appearance",
+    "Browser user interface (address bar, tabs)",
+    "Operating system taskbar"
+  ],
+  "human_annotation": true
+}

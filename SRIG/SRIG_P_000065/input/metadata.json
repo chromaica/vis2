@@ -1,0 +1,25 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "A scanning electron microscope (SEM) image of a tardigrade with high surface detail and a textured outer cuticle, matching the contour of the input binary mask.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic scanning electron microscope (SEM) image of a tardigrade. The tardigrade should exhibit high surface detail and a finely textured outer cuticle, precisely matching the contour of the white foreground shape provided in image 1. The background, corresponding to the black areas in image 1, should be depicted as a detailed, fibrous substrate. The overall image should maintain the monochromatic, high-resolution aesthetic typical of SEM imagery.",
+  "annotator": "samin",
+  "objects": [
+    "tardigrade",
+    "tardigrade with high surface detail",
+    "tardigrade with finely textured outer cuticle",
+    "tardigrade shape matching white foreground in image 1",
+    "detailed fibrous substrate background",
+    "fibrous substrate background shape matching black areas in image 1",
+    "monochromatic visual aesthetic",
+    "high-resolution visual aesthetic",
+    "SEM imagery aesthetic"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

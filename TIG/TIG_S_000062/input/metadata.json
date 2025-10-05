@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "A thermal receipt from \"Seoul Station Convenience Store\" with Korean text. Items: \ub77c\uba74 (Ramen): \u20a91,200, \ucf54\uce74\ucf5c\ub77c (Coca Cola): \u20a91,500, \uae40\ubc25 (Kimbap): \u20a92,500. Total: \u20a95,200. The receipt has Korean characters and is slightly faded, photographed on a subway platform with neon signs reflecting in the background.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A slightly faded thermal receipt from \"Seoul Station Convenience Store\" displayed centrally. The receipt features clear Korean text, listing '\ub77c\uba74 (Ramen): \u20a91,200', '\ucf54\uce74\ucf5c\ub77c (Coca Cola): \u20a91,500', and '\uae40\ubc25 (Kimbap): \u20a92,500'. The total amount, '\u20a95,200', is clearly visible at the bottom. The receipt rests on the grimy surface of a subway platform. In the out-of-focus background, vibrant neon signs cast colorful reflections onto the platform's surface.",
+  "annotator": "theblackcat",
+  "objects": [
+    "thermal receipt",
+    "\"Seoul Station Convenience Store\" text on receipt",
+    "Korean text on receipt",
+    "listed items (Ramen, Coca Cola, Kimbap) on receipt with prices",
+    "total amount '\u20a95,200' on receipt",
+    "grimy subway platform surface",
+    "neon signs in out-of-focus background",
+    "colorful reflections on platform surface"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "Generate a computer graphics visualization of instance segmentation applied to a dynamic sports scene. Depict athletes and objects with annotated bounding boxes, segmentation masks, and class labels, mirroring the style shown in the reference image for clarity.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs8_cNbg3n-MBrHvxfUQKBEZATRqFxde1Rg3a5h_UMU01r14_Fsor6kA3GHccoP9LWvq0&usqp=CAU",
+  "promptGeneratedTimestamp": 1748766112947,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a computer graphics visualization of a dynamic sports scene showcasing instance segmentation. The scene should depict multiple athletes in action and various sports objects. Overlay each identified athlete and object with distinct, translucent segmentation masks, precise rectangular bounding boxes, and clear text labels indicating their class (e.g., 'person', 'sports ball', 'equipment') along with confidence scores. The complete visualization, including the specific visual style, color palette for masks and boxes, font, and placement of annotations, must rigorously replicate the instance segmentation display shown in image 1.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Computer graphics visualization of a dynamic sports scene",
+    "Multiple athletes in action",
+    "Various sports objects",
+    "Translucent segmentation masks (with color palette from image 1)",
+    "Precise rectangular bounding boxes (with color palette from image 1)",
+    "Text labels indicating object class (e.g., 'person', 'sports ball', 'equipment')",
+    "Confidence scores accompanying text labels",
+    "Font style for text labels as seen in image 1",
+    "Placement of annotations (labels above bounding boxes) as seen in image 1"
+  ]
+}

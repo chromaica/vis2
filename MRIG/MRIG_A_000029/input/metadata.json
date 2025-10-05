@@ -1,0 +1,24 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Cultural or Heritage art",
+  "prompt": "Generate a cultural heritage artwork using the likeness of the woman from image 1, wearing the traditional attire and pose of the dancer in image 2, painted in the expressive watercolor style seen in image 2.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a cultural heritage artwork. This artwork should be a watercolor painting, depicting the woman from image 1. She should be wearing the traditional Apsara dancer attire, including the elaborate golden headdress and intricate jewelry, and strike the iconic pose with raised arms and specific hand gestures, all inspired by the dancer in image 2. The painting should be rendered entirely in the expressive watercolor style seen in image 2, with the woman depicted from the waist up and centered within the frame.",
+  "annotator": "samin",
+  "objects": [
+    "Woman with features from image 1",
+    "Traditional Apsara dancer attire",
+    "Elaborate golden headdress",
+    "Intricate jewelry",
+    "Pose with raised arms",
+    "Specific hand gestures",
+    "Watercolor painting style",
+    "Woman depicted from the waist up",
+    "Woman centered in the frame"
+  ]
+}

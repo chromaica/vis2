@@ -1,0 +1,27 @@
+{
+  "subtopic": "Games",
+  "prompt": "Transform the bright, fantastical scene in Image 1. Apply the dark, gritty atmosphere and realistic lighting style from the dramatic conversation scene in Image 2 to the Breath of the Wild landscape and characters.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1750832801878,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit Image 1, the bright, open-world Breath of the Wild scene, by applying the dark, gritty atmosphere and realistic, subdued lighting style from the dramatic indoor conversation scene depicted in Image 2. Specifically, re-render Link in the foreground, the blue Octorok enemies in the mid-ground, and the expansive green landscape with its distant rocky structures, to reflect the somber and grounded visual aesthetic of Image 2, while maintaining their original poses and positions within Image 1.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Link in the foreground",
+    "Blue Octorok enemies in the mid-ground",
+    "Green grassy ground",
+    "Green rolling hills",
+    "Distant mountains",
+    "Large rock formations",
+    "Ruined stone structures",
+    "Sky"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

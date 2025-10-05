@@ -1,0 +1,27 @@
+{
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "Generate an image in the style and composition of the reference, depicting a medical scan scene. Render the scene with clearly defined objects like patient, machine, and technician, suitable for semantic segmentation.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://upload.wikimedia.org/wikipedia/en/f/fe/UW_Medical_Center_PET-CT-Scan.jpg",
+  "promptGeneratedTimestamp": 1748772071517,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate an image with the visual style, lighting, and composition of image 1, depicting a medical CT scan scene. A female technician, wearing a white lab coat and glasses, is positioned on the left side of the frame, operating the large white CT scanner. She has one hand on the machine's control panel and is holding a small black device over the patient's chest with her other hand. A male patient is lying supine on the scanner bed on the right, with his head on a pillow and arms folded above his head, partially inserted into the CT scanner's opening. Ensure the patient, the technician, and the CT scan machine are all clearly defined and distinctly delineated for optimal semantic segmentation.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Female technician on the left side of the frame",
+    "White lab coat on technician",
+    "Glasses on technician",
+    "Large white CT scanner",
+    "CT machine's control panel",
+    "Small black device held over patient's chest",
+    "Male patient on the right, lying supine",
+    "Scanner bed",
+    "Pillow for patient's head",
+    "Patient's arms folded above head"
+  ],
+  "human_annotation": true
+}

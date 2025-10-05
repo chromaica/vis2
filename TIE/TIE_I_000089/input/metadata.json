@@ -1,0 +1,23 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Add data labels to show the percentage contribution of each category to total sales for each month.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, which is a stream graph displaying sales data by fiscal month and category. Add new data labels to each colored stream segment within the graph. These labels should display the percentage contribution of each individual category to the total sales for its respective month. Ensure these percentage labels are clearly legible and positioned directly within their corresponding colored stream segments for each month, such as '25%' or '10%'.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Stream graph",
+    "Colored stream segments (representing sales categories)",
+    "Percentage labels (e.g., '25%', '10%') positioned within each colored stream segment for each month",
+    "Fiscal month labels (Jan, Feb, Mar, etc.) on the horizontal axis",
+    "Graph title: \"This Year Sales by FiscalMonth and Category\"",
+    "Category legend (010-Womens, 020-Mens, 030-Kids, 040-Juniors, 060-Intimate, 070-Hosiery)",
+    "Existing sales labels ($0M, $1M) within the graph segments"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

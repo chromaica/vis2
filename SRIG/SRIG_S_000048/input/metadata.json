@@ -1,0 +1,30 @@
+{
+  "subtopic": "Software interfaces",
+  "prompt": "Generate a screenshot of cloud resource management system. Use the clean layout, navigation structure, and minimalist UI design style observed in the reference image.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://cdn.dribbble.com/userupload/4103662/file/original-154700852c6fd6f85f717846f0fc0af9.jpg?resize=1600x1200",
+  "searchQueryGenerated": "Modern software interface clean screenshots",
+  "searchQueryGeneratedTimestamp": 1749439944539,
+  "promptGeneratedTimestamp": 1749441103396,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a screenshot of a cloud resource management system dashboard. The interface should adopt the clean, minimalist UI design, crisp typography, and navigation structure observed in image 1.\n\nOn the left, a vertical sidebar should feature:\n*   A system logo at the top.\n*   A search bar positioned below the logo.\n*   A list of navigation links with clear icons, similar to image 1's 'Sales', 'Transactions', etc., but adapted for cloud management (e.g., 'Compute', 'Storage', 'Networking', 'Databases', 'Security', 'Monitoring', 'Billing', 'Users'). Include notification counts or indicators next to relevant links, matching the style in image 1.\n*   At the bottom of the sidebar, a condensed 'Recent activity' or 'Notifications' section with entries showing avatars and brief text, mirroring image 1's 'Recent messages'.\n\nThe main content area on the right should display a dashboard for cloud resources:\n*   A prominent title, such as 'Cloud Resources Overview' or 'Infrastructure Dashboard'.\n*   Key performance indicators (KPIs) presented in a large, bold number with a smaller percentage change indicator, similar to image 1's '$316,512.20' (e.g., 'Total Active Resources', 'Monthly Cloud Spend', 'CPU Utilization Avg.').\n*   A large bar chart or line graph visualizing resource usage trends over time (e.g., 'Network Traffic Volume', 'Storage Consumption History'), styled with the prominent blue bars as seen in image 1.\n*   Below the graph, include three summary cards or widgets, similar to image 1's 'Total customers', 'Recurring subscriptions', and 'Active now'. Adapt these for cloud metrics (e.g., 'Running Instances', 'Total Storage GB', 'Active Services'). Each card should have a title, a large metric, and a percentage change or status indicator.\n*   At the bottom, a 'Recent Events' or 'Alerts' table with columns such as 'Resource', 'Event Type', 'Timestamp', 'Severity', and relevant data, similar to the 'Recent transactions' table in image 1. Include search and filter options above the table, styled like the 'Primary account' and 'Filters' buttons.\n\nMaintain the overall aesthetic of image 1, including the white background, dark grey text, subtle use of blue for charts and active elements, and ample whitespace for a clean, modern, and professional look.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Vertical sidebar on the left",
+    "System logo at the top of the left sidebar",
+    "Search bar in the left sidebar",
+    "List of navigation links for cloud management with icons and notification counts in the left sidebar",
+    "'Recent activity' or 'Notifications' section with avatars and text entries at the bottom of the left sidebar",
+    "Prominent title for cloud resources dashboard in the main content area on the right",
+    "Key Performance Indicators (KPIs) with large numbers and percentage change in the main content area",
+    "Large bar chart or line graph with prominent blue bars visualizing resource usage trends in the main content area",
+    "Three summary cards or widgets for cloud metrics below the graph in the main content area",
+    "'Recent Events' or 'Alerts' table with search and filter options in the main content area"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

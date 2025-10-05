@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "Use the icon\u2019s position and style to replicate the placement and visual appearance shown in the reference images within the real-world office setting.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit Image 2 (the real-world office setting) by integrating a new information graphic icon. The icon's design should replicate the minimalist and solid black visual appearance suggested by Image 1. Position this icon clearly within the scene, for example, on the computer monitor or a visible wall surface, ensuring it appears as a coherent part of the office environment.",
+  "annotator": "Johnny",
+  "objects": [
+    "Office desk",
+    "Computer monitor",
+    "Keyboard",
+    "Mouse",
+    "Laptop",
+    "Office chair",
+    "Window with outdoor view",
+    "Potted plants",
+    "Minimalist solid black information graphic icon (on the computer monitor or a visible wall surface)",
+    "Wall surface"
+  ]
+}

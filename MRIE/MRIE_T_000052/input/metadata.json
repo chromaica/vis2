@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "Adjust the alignment of the title 'Peter Pan' as curved as the title 'Donald Duck' in the second image. Maintain the font style and layers. Then, replace the dog in the bottom left corner with the dog from the third image.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit Image 1 (the Peter Pan poster). Modify the alignment of the title 'PETER PAN' to feature a strong upward curve, emulating the curvature of the 'DONALD DUCK' title observed in Image 2. Crucially, maintain the exact font style, color, size, and general vertical-horizontal positioning of the 'PETER PAN' title within the poster. Additionally, replace the large brown dog situated in the bottom-left corner of Image 1 with the white Dalmatian puppy from Image 3, ensuring seamless integration, appropriate scale, and consistent lighting.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Peter Pan poster elements (general)",
+    "Peter Pan (character)",
+    "Text: \"PETER PAN\" with an upward curve, in original font, color, size, and general vertical-horizontal positioning",
+    "White Dalmatian puppy in the bottom-left corner",
+    "Large brown dog (should not be present)",
+    "Text: \"Walt Disney's\"",
+    "Text: \"It will live in your heart forever!\"",
+    "Captain Hook and pirate characters",
+    "Small fairy characters/elements (Tinker Bell, etc.)",
+    "Other characters from the bottom of the poster (e.g., Wendy, Michael, John, mermaids)"
+  ]
+}

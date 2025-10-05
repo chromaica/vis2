@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "T",
+  "subtopic": "Fonts",
+  "prompt": "Apply the effect from the word 'HORIZON' in the second image to the word 'FINISH' in the first image. Finally, add the party popper cannon from the third image to the front of the finish line.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 (the marathon finish line scene) as follows:\n1.  **Modify the word 'FINISH':** Update the typography of the word 'FINISH' prominently displayed on the large blue arch. Re-render this text to adopt the distinctive style, including the bold, blocky font and the orange-to-pink gradient color scheme, as seen on the word 'HORIZON' in image 2.\n2.  **Add a confetti cannon:** Integrate the black confetti cannon from image 3, actively firing a large burst of golden confetti, into the foreground of image 1. Position the cannon on the ground, just in front of the white finish line, to the left of the central runner.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Marathon finish line scene",
+    "Large blue arch",
+    "The word 'FINISH' on the arch, with a bold, blocky font and an orange-to-pink gradient color scheme",
+    "Black confetti cannon in the foreground, on the ground, just in front of the white finish line, to the left of the central runner",
+    "Large burst of golden confetti actively firing from the cannon",
+    "Central runner",
+    "White finish line",
+    "People/audience in the background",
+    "Standard Chartered branding",
+    "Digital timer on the arch"
+  ]
+}

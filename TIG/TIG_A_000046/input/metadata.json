@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Stylized art",
+  "prompt": "An expressive dancer in motion, captured in stylized art with fluid lines and bold, contrasting colors.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate an image of a dynamic and expressive dancer, captured mid-movement. The artwork should be stylized, characterized by fluid, sweeping lines and a vibrant palette of bold, contrasting colors. The dancer is the central subject.",
+  "annotator": "cwhsu",
+  "objects": [
+    "dancer",
+    "mid-movement depiction",
+    "stylized artwork",
+    "fluid lines",
+    "sweeping lines",
+    "vibrant colors",
+    "bold colors",
+    "contrasting colors"
+  ]
+}

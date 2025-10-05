@@ -1,0 +1,25 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "make the astronaut riding on a wild boar, also make the flag a texas flag",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "many models can make astronaut riding horse, but does it generalize to boar?",
+  "prompt_refined": "Edit image 1. Modify the astronaut to appear riding a wild boar on the lunar surface. Change the American flag on the flagpole to a Texas flag.",
+  "annotator": "theblackcat",
+  "objects": [
+    "astronaut riding a wild boar",
+    "wild boar",
+    "Texas flag",
+    "flagpole",
+    "lunar surface",
+    "dark sky",
+    "lunar lander",
+    "footprints on lunar surface",
+    "rocks on lunar surface"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

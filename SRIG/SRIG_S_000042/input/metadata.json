@@ -1,0 +1,30 @@
+{
+  "subtopic": "Websites",
+  "prompt": "Generate a screenshot of a modern website interface displaying products on machine learning experiment tracing platform. Use the clean digital style and dark blue/white color scheme inspired by the reference image composition.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://www.wordstream.com/wp-content/uploads/2022/07/saas-business-website-examples-chartbeat.png",
+  "searchQueryGenerated": "Diverse website screenshots high quality examples",
+  "searchQueryGeneratedTimestamp": 1749436138979,
+  "promptGeneratedTimestamp": 1749436554517,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a modern website interface screenshot for a machine learning experiment tracing platform. The design should utilize a clean, minimalist digital style with a dark blue background and white text, consistent with the color scheme and overall aesthetic of image 1. The layout should feature a top header bar with navigation, a prominent marketing headline on the left side, and a detailed UI dashboard on the right. This dashboard, resembling the interactive overlay in image 1, should visually represent elements like experiment runs, model metrics (e.g., accuracy, loss), data visualizations (e.g., performance charts), or versioning controls, all within a clear and structured interface.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "dark blue background",
+    "white text",
+    "top header bar",
+    "navigation elements",
+    "prominent marketing headline on the left side",
+    "detailed UI dashboard on the right",
+    "experiment runs (within dashboard)",
+    "model metrics (e.g., accuracy, loss) (within dashboard)",
+    "data visualizations (e.g., performance charts) (within dashboard)",
+    "versioning controls (within dashboard)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

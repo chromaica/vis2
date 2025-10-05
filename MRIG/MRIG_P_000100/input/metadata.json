@@ -1,0 +1,24 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "Create a textbook-style illustration of a fungal structure, focusing on hyphae and spore production, for a mycology or botany textbook. Use a watercolor-inspired style with soft, translucent colors (brown, green, orange, and violet) to depict the delicate, organic nature of fungi. Simplify the fibrous details from the first reference image into flowing, curved lines for hyphae, and stylize the spores from the second reference image as small, glowing orbs within a sporangium. Include a magnified inset of a spore showing surface texture. Place the illustration on a pale green background with subtle, organic swirls to suggest a forest floor.",
+  "cond_images": [
+    "1.png",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a textbook-style illustration of a fungal structure, emphasizing hyphae and spore production. Render in a watercolor-inspired style, using soft, translucent shades of brown, green, orange, and violet to convey the delicate, organic nature of fungi. Depict the main fungal body with hyphae as flowing, curved lines, simplifying the dense, intertwined network structure observed in image 1. Stylize the spores as small, glowing orbs, contained within a sporangium structure that resembles the dense, spherical cluster of spores shown in image 2. In the top-right corner, include a magnified inset showcasing a single spore with visible surface texture, drawing inspiration from the slightly granular appearance of the spores in image 2. Place the entire illustration on a pale green background with subtle, organic swirls, evoking the texture of a forest floor.",
+  "objects": [
+    "Fungal structure",
+    "Hyphae (as flowing, curved lines)",
+    "Spores (as small, glowing orbs)",
+    "Sporangium structure (resembling a dense, spherical cluster of spores)",
+    "Magnified inset (in top-right corner)",
+    "Single spore (with visible surface texture, within the inset)",
+    "Pale green background",
+    "Subtle, organic swirls on background"
+  ],
+  "human_annotation": true
+}

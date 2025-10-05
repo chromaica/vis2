@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "3D renders",
+  "prompt": "A 3D render of a winding mountain road viewed from a slightly elevated perspective. Guardrails run along the right foreground, the road curves into the midground where a red sedan is driving, and pine trees line both sides fading into the far background. Rendered with realistic lighting and atmospheric perspective.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A high-quality 3D render of a winding mountain road, viewed from a slightly elevated perspective. In the immediate right foreground, prominent guardrails stretch alongside the road. The asphalt road itself curves into the midground, where a red sedan is actively driving. Dense pine trees line both sides of the road, gradually receding into the far background with a strong sense of atmospheric perspective. The entire scene is illuminated with realistic, natural lighting.",
+  "annotator": "maxku",
+  "objects": [
+    "Winding mountain road",
+    "Guardrails in immediate right foreground",
+    "Red sedan on the road",
+    "Dense pine trees lining both sides of the road",
+    "Asphalt road surface",
+    "Mountainous landscape",
+    "Realistic natural lighting",
+    "Atmospheric perspective effect"
+  ]
+}

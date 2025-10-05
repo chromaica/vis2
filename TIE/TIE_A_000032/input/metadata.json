@@ -1,0 +1,22 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Sketches",
+  "prompt": "Add a rose tattoo to the neck of the person in the image. The tatto should blend witht the painting style and the neck of the person.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 by adding a single rose tattoo. Place the tattoo on the visible right side of the person's neck. The rose tattoo should be rendered in a black and white sketch or line art style, seamlessly blending with the existing drawing style and the shading of the person's neck in image 1.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Portrait of a person",
+    "Person's hair",
+    "Person's beard or stubble",
+    "Person's neck",
+    "Single rose tattoo on the visible right side of the person's neck",
+    "Black and white sketch or line art style",
+    "Shading consistent with the existing drawing"
+  ],
+  "human_annotation": true
+}

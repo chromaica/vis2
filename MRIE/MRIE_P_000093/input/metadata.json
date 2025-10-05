@@ -1,0 +1,28 @@
+{
+  "subtopic": "Microscopic imagery",
+  "prompt": "Edit image 1: Enhance the fly's compound eyes with the intense hexagonal detail and reflective lighting style from image 3. Apply the intricate texture and focused lighting of the face area shown in image 2 to the fly's head and mouthparts.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749306964832,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "P",
+  "prompt_refined": "Edit the provided close-up image of the fly (image 1). Modify its prominent compound eyes by incorporating the intense, pronounced hexagonal ommatidia pattern and the highly reflective, sharp lighting style from image 3. For the remaining areas of the fly's head, including its furry facial region and detailed mouthparts positioned below and between the eyes, apply the intricate, fine-grained texture and the soft, focused lighting conditions observed in image 2.",
+  "annotator": "boris",
+  "objects": [
+    "Close-up of a fly",
+    "Fly's head",
+    "Fly's prominent compound eyes",
+    "Pronounced hexagonal ommatidia pattern on compound eyes",
+    "Highly reflective lighting on compound eyes",
+    "Sharp lighting on compound eyes",
+    "Fly's furry facial region",
+    "Fly's detailed mouthparts, positioned below and between the eyes",
+    "Intricate, fine-grained texture on facial region and mouthparts",
+    "Soft, focused lighting on facial region and mouthparts"
+  ]
+}

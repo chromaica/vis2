@@ -1,0 +1,22 @@
+{
+  "subtopic": "Stylized art",
+  "prompt": "Combining image 2 into image 1. So the two animals will sit on the same tree branch",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1 by incorporating the character Totoro, referenced from image 2. Position Totoro on the same tree branch as the owl, ensuring both animals are sitting together on the branch.",
+  "annotator": "kellycyy",
+  "objects": [
+    "Totoro",
+    "owl",
+    "tree branch",
+    "tree leaves",
+    "yellow background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

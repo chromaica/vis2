@@ -1,0 +1,21 @@
+{
+  "subtopic": "Shader Programming",
+  "prompt": "Make the red sphere appear metallic and highly reflective, as if rendered with a glossy PBR shader.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751762590524,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1. Transform the red sphere, located centrally in the image, to appear metallic and highly reflective, as if it were rendered with a glossy Physically Based Rendering (PBR) shader.",
+  "annotator": "edisy",
+  "objects": [
+    "Metallic, highly reflective sphere (centrally located)",
+    "Gray plane/ground",
+    "Black background",
+    "Shadow cast by the sphere",
+    "Reflections on the sphere's surface"
+  ]
+}

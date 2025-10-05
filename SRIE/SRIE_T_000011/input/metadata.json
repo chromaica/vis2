@@ -1,0 +1,26 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "Change the baby bear to a panda",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the provided source image (`image 1`), which depicts a Banff National Park poster with an adult bear and a baby bear in water. Replace the baby bear, located to the right of the adult bear and precisely highlighted by the bounding box in `image 2`, with a baby panda. The newly generated baby panda must maintain the existing stylized, flat color illustration art style of `image 1` to seamlessly integrate with the water and the overall poster design.",
+  "annotator": "matina",
+  "objects": [
+    "Banff National Park poster layout",
+    "\"Parc national BANFF National Park\" text",
+    "Mountains",
+    "Sky",
+    "Water with reflections",
+    "Adult bear in water",
+    "Grass/reeds in foreground water",
+    "Baby panda in water (to the right of the adult bear)",
+    "baby bear (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

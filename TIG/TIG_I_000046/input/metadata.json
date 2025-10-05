@@ -1,0 +1,23 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "Design a split-view desktop UI: left column lists model layers as collapsible accordions; right pane shows animated node-and-edge graph where nodes pulse electric blue on data flow; glassmorphic header bar with temperature slider and 'Run' button.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a desktop user interface with a split-view layout. The left column displays a list of model layers, presented as collapsible accordion menus. The right pane features an animated node-and-edge graph where nodes pulse electric blue, indicating data flow. A glassmorphic header bar spans the top of the interface, containing a temperature slider and a 'Run' button.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Desktop user interface",
+    "Left column",
+    "Collapsible accordion menus displaying model layers",
+    "Right pane",
+    "Animated node-and-edge graph",
+    "Electric blue pulsing nodes",
+    "Glassmorphic header bar at the top",
+    "Temperature slider",
+    "'Run' button"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

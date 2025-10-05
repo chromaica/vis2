@@ -1,0 +1,22 @@
+{
+  "task": "SRIG",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "Make a poster based on the image provided. The poster should clearly indicate 'Utopia Gym' is providing a new 10-week yoga program. Choose a font that makes reader feel calm and hopeful.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "annotator": "donaldtsang",
+  "prompt_refined": "Generate a promotional poster incorporating the serene yoga studio scene from `image 1`. Overlay the text 'Utopia Gym' prominently at the top of the poster. Below 'Utopia Gym', clearly add the text 'New 10-Week Yoga Program'. All text should be highly legible and styled with a calm, hopeful, and clean font. Ensure the text is placed effectively, utilizing background space in `image 1` to avoid obscuring the yoga practitioners.",
+  "objects": [
+    "Yoga practitioners",
+    "Yoga studio scene",
+    "Yoga mats",
+    "Large windows",
+    "Cityscape background",
+    "Small potted plant",
+    "Text \"Utopia Gym\" prominently at the top",
+    "Text \"New 10-Week Yoga Program\" below \"Utopia Gym\""
+  ]
+}

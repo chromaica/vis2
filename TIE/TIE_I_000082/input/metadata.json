@@ -1,0 +1,25 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Floor Plan",
+  "prompt": "Convert the blueprint into a 3D rendered model with realistic textures and lighting.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Transform the architectural blueprint drawing of the building in image 1 into a photorealistic 3D rendered model. Apply realistic textures to the building's surfaces, including walls and roof, and render with appropriate, natural lighting to create a convincing three-dimensional representation.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Photorealistic 3D model of the building",
+    "Realistic textures on the building's walls",
+    "Realistic textures on the building's roof",
+    "Windows on the building",
+    "Roof structures on the building",
+    "Natural lighting and shadows",
+    "Architectural blueprint lines (should not be present)",
+    "Blueprint grid background (should not be present)",
+    "Dimension lines and markings (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

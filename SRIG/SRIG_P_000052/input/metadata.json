@@ -1,0 +1,24 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "Generate a photorealistic orbital view of asteroid Vesta based on its topographic map, showing craters, ridges, and surface texture with low-angle sunlight and a starry space background.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic orbital view of asteroid Vesta, accurately depicting its surface topography, including prominent craters, deep basins, and elevated ridges, based on the altitude data provided in image 1. The image should feature low-angle sunlight casting distinct shadows to emphasize the three-dimensional surface relief and texture, against a detailed starry deep space background.",
+  "annotator": "samin",
+  "objects": [
+    "asteroid Vesta",
+    "orbital view of Vesta",
+    "Vesta's surface topography",
+    "prominent craters on Vesta's surface",
+    "deep basins on Vesta's surface",
+    "elevated ridges on Vesta's surface",
+    "low-angle sunlight",
+    "distinct shadows (cast by topography)",
+    "three-dimensional surface relief",
+    "detailed starry deep space background"
+  ]
+}

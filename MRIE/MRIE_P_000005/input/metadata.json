@@ -1,0 +1,25 @@
+{
+  "task": "MRIE",
+  "topic": "P",
+  "subtopic": "Urban & Street Photography",
+  "prompt": "Add the swan from the second image and the boat, along with its passengers, from the third image to the river in the first image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Add the white swan from image 2 and the light blue rowboat with its two passengers from image 3 into the river. Position the swan gracefully floating on the water in the mid-left portion of the river, and the rowboat with its passengers slightly to the right of the swan, in the central-left area of the river. Ensure both elements are seamlessly integrated into the existing twilight lighting, color palette, and reflections of the river in image 1, maintaining a photorealistic appearance.",
+  "annotator": "boris",
+  "objects": [
+    "River",
+    "Stone bridge",
+    "Dome of St. Peter's Basilica",
+    "Twilight sky with clouds",
+    "Reflections on the river",
+    "White swan gracefully floating on the water in the mid-left portion of the river",
+    "Light blue rowboat slightly to the right of the swan, in the central-left area of the river",
+    "Two passengers in the light blue rowboat"
+  ],
+  "human_annotation": true
+}

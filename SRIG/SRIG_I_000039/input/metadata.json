@@ -1,0 +1,26 @@
+{
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Generate a technical diagram visualizing the UNet architecture. Use the 3D block style and color palette (orange, red, blue, green) from the reference image to represent on a clean background.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://miro.medium.com/v2/resize:fit:731/1*kQtbGWZgi3n35Qojkg8cFw.png",
+  "promptGeneratedTimestamp": 1749906893197,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate a technical diagram visualizing the UNet architecture. Render all layers and connections using the distinct 3D block style and color palette from image 1. Specifically, represent convolutional blocks (and similar feature processing stages in both encoder and decoder paths) with an orange hue and pooling layers with a red hue, in alignment with the legend in image 1. If the UNet incorporates fully connected layers or a final output layer akin to softmax, depict them using blue and green respectively, as defined by image 1's legend. Include clear labels for layer names (e.g., 'encoder block 1', 'decoder block 1') and feature map dimensions, mirroring the annotation style in image 1. Position a color-coded legend, consistent in style and content with image 1's legend (e.g., in the bottom-right corner), explaining the block types and their corresponding colors. Present the entire diagram on a clean, white background.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "UNet architecture diagram (including encoder, decoder, bottleneck, and skip connections)",
+    "3D orange convolutional blocks",
+    "3D red pooling blocks",
+    "3D blue fully connected blocks",
+    "3D green final output block (e.g., softmax)",
+    "Connections between layers",
+    "Clear labels for layer names (e.g., 'encoder block 1', 'decoder block 1')",
+    "Labels for feature map dimensions",
+    "Color-coded legend in the bottom-right corner",
+    "Clean white background"
+  ]
+}

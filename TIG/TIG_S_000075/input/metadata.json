@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "A blood-spattered emergency room receipt from \"St. Mary's Medical Center\" showing: Emergency Room Visit: $1,247.00, X-Ray (Right Arm): $89.00, Bandage Kit: $23.50. Insurance Pending. The receipt is partially torn and stained, lying on a stainless steel medical tray under harsh hospital lighting.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A single emergency room receipt from \"St. Mary's Medical Center\", blood-spattered, partially torn, and stained. The receipt clearly displays: \"Emergency Room Visit: $1,247.00\", \"X-Ray (Right Arm): $89.00\", \"Bandage Kit: $23.50\", and \"Insurance Pending\". It lies flat on a stainless steel medical tray, illuminated by harsh, sterile hospital lighting.",
+  "annotator": "theblackcat",
+  "objects": [
+    "emergency room receipt",
+    "blood spatter on receipt",
+    "partially torn receipt",
+    "stains on receipt",
+    "text details on receipt (including \"St. Mary's Medical Center\", \"Emergency Room Visit: $1,247.00\", \"X-Ray (Right Arm): $89.00\", \"Bandage Kit: $23.50\", \"Insurance Pending\")",
+    "stainless steel medical tray",
+    "harsh, sterile hospital lighting"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

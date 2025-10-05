@@ -1,0 +1,25 @@
+{
+  "subtopic": "3D renders",
+  "prompt": "Edit image 1 (squirrel) by simplifying its facial expression into a happy cartoon style inspired by image 2 (hippo), and apply the vibrant color and sharp detail of the eyes from image 3 (parrot) to the squirrel's eyes, rendered with computer graphics fidelity.",
+  "cond_images": [
+    "1.jpeg",
+    "2.png",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748455898934,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1 (squirrel). Transform its facial expression to a simplified, happy cartoon style, inspired by the cheerful and rounded features of the hippo in image 2. Apply the vibrant coloration and sharp, intricate details from the parrot's eyes in image 3 to the squirrel's eyes. The final edited image should be rendered with high computer graphics fidelity.",
+  "annotator": "winston",
+  "objects": [
+    "Squirrel",
+    "Simplified, happy cartoon-style squirrel facial expression",
+    "Vibrant, sharp, intricate squirrel eyes",
+    "Acorn",
+    "Autumn leaves",
+    "Grass",
+    "Blurred natural background"
+  ]
+}

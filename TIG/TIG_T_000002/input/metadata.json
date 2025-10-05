@@ -1,0 +1,18 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Textile Art with Text",
+  "prompt": "Close-up on textile craftsmanship: 'WEAVE' emerges from a rustic linen base, each letter a testament to detailed embroidery using a kaleidoscope of colorful threads, highlighting a handcrafted aesthetic.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A close-up shot of the word 'WEAVE' meticulously embroidered onto a rustic, textured linen fabric base. Each letter is rendered with detailed embroidery, utilizing a kaleidoscope of vibrant, colorful threads, highlighting intricate handcrafted textile craftsmanship.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "The word 'WEAVE'",
+    "Embroidered lettering",
+    "Rustic linen fabric base",
+    "Textured fabric base",
+    "Vibrant, colorful embroidery threads",
+    "Intricate textile craftsmanship details"
+  ]
+}

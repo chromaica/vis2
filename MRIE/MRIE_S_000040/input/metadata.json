@@ -1,0 +1,27 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Online Meeting Interfaces",
+  "prompt": "In image 1, replace the transparent masked video feed area with the waving woman from image 2 (wearing a black top and sitting on a yellow couch), keeping her proportions and lighting natural. Change the top-left label from 'User Name' to 'Parnian', with same white font, and insert the Skype logo from image 3 centered at the top of the frame. Keep all interface icons and layout unchanged.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the screenshot in image 1 as follows:\n1.  Replace the large checkered video feed area with the smiling woman from image 2, who is wearing a black top and waving, ensuring her proportions and lighting naturally blend into the surrounding screenshot environment.\n2.  Change the text label 'User Name' located in the top-left corner of the interface to 'Parnian', maintaining its existing white font style and size.\n3.  Integrate the Skype logo from image 3, placing it centered horizontally at the very top of the frame, above the current interface elements.\n4.  Ensure all other interface icons, buttons, and the overall layout of image 1 remain completely unchanged.",
+  "annotator": "parnian",
+  "objects": [
+    "Smiling woman in the video feed area",
+    "Text 'Parnian' in the top-left corner",
+    "Skype logo centered at the top of the frame",
+    "Dark gray interface frame/window",
+    "Profile icon (top-left)",
+    "Green '01:43' timer/label",
+    "Bottom row interface icons (three dots, microphone, chat bubble, red hang-up, video off)",
+    "Three horizontal lines icon (top-right)",
+    "Large checkered video feed area (should not be present)",
+    "Text 'User Name' (should not be present)"
+  ],
+  "human_annotation": true
+}

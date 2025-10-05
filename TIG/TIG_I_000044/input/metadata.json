@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "create a barchart visualizing the confusion matrix of iris flower dataset prediction results from xgboost model",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A grouped bar chart displaying the confusion matrix of prediction results for the Iris flower dataset from an XGBoost model. The chart's X-axis groups should represent the actual classes: Setosa, Versicolor, and Virginica. Within each X-axis group, there should be three distinct bars, each representing a predicted class (Setosa, Versicolor, Virginica) and its height corresponding to the count of samples. The Y-axis should be labeled 'Count'. The chart must have the title: 'Confusion Matrix of Iris Flower Dataset Prediction Results from XGBoost Model'. All labels and text should be clear and readable.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Grouped bar chart structure",
+    "Chart title: 'Confusion Matrix of Iris Flower Dataset Prediction Results from XGBoost Model'",
+    "X-axis",
+    "Y-axis",
+    "X-axis group labels: Setosa, Versicolor, Virginica",
+    "Y-axis label: 'Count'",
+    "Multiple bars arranged in groups, representing counts",
+    "Legend or color coding for predicted classes: Setosa, Versicolor, Virginica",
+    "Y-axis numerical tick marks",
+    "Text labels for all visual components"
+  ]
+}

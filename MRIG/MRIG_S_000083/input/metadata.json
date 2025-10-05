@@ -1,0 +1,27 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "Generate a screenshot of a ball pool game that features the player stats bar from the first image, and the table shape and color from the second image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a high-resolution screenshot of a ball pool game in progress. The top section of the screen must feature the player statistics bar from image 1, including player names (e.g., Tom, Kate), their levels, and currency indicators. The primary pool table in the center of the screenshot should adopt the distinctive irregular shape and green felt color, along with the brown-toned frame, as seen in image 2. Ensure the scene includes pool balls and a cue stick, maintaining the overall aesthetic of a digital pool game interface.",
+  "annotator": "paria",
+  "objects": [
+    "Player statistics bar (from image 1, in the top section of the screen)",
+    "Player names (e.g., Tom, Kate, within the player statistics bar)",
+    "Player levels (within the player statistics bar)",
+    "Currency indicators (within the player statistics bar)",
+    "Pool table (in the center of the screenshot)",
+    "Irregular shape for the pool table (as seen in image 2)",
+    "Green felt color for the pool table (as seen in image 2)",
+    "Brown-toned frame for the pool table (as seen in image 2)",
+    "Pool balls",
+    "Cue stick"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

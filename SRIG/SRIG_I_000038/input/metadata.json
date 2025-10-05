@@ -1,0 +1,26 @@
+{
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Illustrate the process of metamorphosis from a caterpillar to a butterfly as a sequence of futuristic bio-mechanical assembly stations, following the steps laid out in the provided cycle diagram.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://slidebazaar.com/wp-content/uploads/2020/06/4-Step-Circular-Diagram-1-jpg.webp",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate an infographic image depicting the metamorphosis of a caterpillar into a butterfly. The visual should be structured as a 4-step circular process, meticulously following the layout of the cycle diagram shown in image 1. Each of the four sections should represent a distinct futuristic bio-mechanical assembly station.\n\n- The station located in the top-right position (corresponding to 'OPTION-01' in image 1) illustrates the initial assembly or growth of a caterpillar.\n- The station in the bottom-right position (corresponding to 'OPTION-02' in image 1) showcases the transformation into a chrysalis, with bio-mechanical elements encasing the form.\n- The station in the bottom-left position (corresponding to 'OPTION-03' in image 1) depicts the emergence of a butterfly from its chrysalis, with the machinery facilitating the final stage.\n- The station in the top-left position (corresponding to 'OPTION-04' in image 1) displays a fully formed butterfly, presented as a finished product of the assembly line.\n\nThe entire composition should feature intricate glowing conduits connecting the stations, advanced robotic arms performing precise tasks, and sleek, high-tech machinery, all rendered in a clean, informational graphics style suitable for a modern presentation.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "A 4-step circular process infographic layout (as depicted in image 1)",
+    "Top-right futuristic bio-mechanical assembly station with a caterpillar",
+    "Bottom-right futuristic bio-mechanical assembly station with a chrysalis encased in bio-mechanical elements",
+    "Bottom-left futuristic bio-mechanical assembly station with a butterfly emerging from a chrysalis",
+    "Top-left futuristic bio-mechanical assembly station with a fully formed butterfly",
+    "Intricate glowing conduits connecting the stations",
+    "Advanced robotic arms performing precise tasks",
+    "Sleek, high-tech machinery within the stations",
+    "Clean, informational graphics style",
+    "Metamorphosis theme (caterpillar, chrysalis, butterfly stages)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

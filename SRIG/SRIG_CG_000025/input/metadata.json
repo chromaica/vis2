@@ -1,0 +1,27 @@
+{
+  "subtopic": "Object detection visuals",
+  "prompt": "An intersection scene, capturing multiple vehicles and pedestrians from a high angle like the reference, overlaid with colorful bounding boxes for object detection visualization.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://source.roboflow.com/bWH1XKrfXQhwAw9lYhAX5jXt8ND3/6q1MwIQTgXEfrk5OFkeG/original.jpg",
+  "promptGeneratedTimestamp": 1748766604894,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a high-angle view of a snowy urban intersection at dusk, resembling the perspective and lighting of image 1. The scene should feature multiple vehicles, including cars similar to the white and yellow taxis and the light-colored sedan seen in image 1, navigating the intersection. Include pedestrians walking on the visible crosswalks. The entire image must be overlaid with colorful, distinct bounding boxes around each detected object, such as vehicles, pedestrians, traffic lights, and road signs, for object detection visualization.",
+  "annotator": "ishengfang",
+  "objects": [
+    "snowy urban intersection",
+    "dusk lighting",
+    "high-angle view",
+    "multiple vehicles",
+    "white and yellow taxis",
+    "light-colored sedan",
+    "pedestrians",
+    "visible crosswalks",
+    "traffic lights",
+    "colorful, distinct bounding boxes"
+  ],
+  "human_annotation": true
+}

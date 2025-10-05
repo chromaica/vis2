@@ -1,0 +1,23 @@
+{
+  "task": "SRIG",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "generate a meme using the same visual action and format as the reference image but in the style of japanese anime, featuring the text 'Don't come' positioned similarly to maintain the humorous context and visual flow",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate an image of a character in the distinct style of Japanese anime, mimicking the visual action and composition of image 1. The character should be looking out from a partially opened, outward-angled modern building window, holding a white sign. On the sign, display the English text 'Don't come'. Position the sign clearly at the character's chest level, slightly to their right, maintaining the visual flow and humorous context seen in image 1.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Japanese anime character",
+    "Modern building window",
+    "Partially opened, outward-angled window",
+    "White sign",
+    "English text 'Don't come' on the sign",
+    "Character looking out from the window",
+    "Sign at character's chest level",
+    "Sign slightly to character's right",
+    "Blue sky background"
+  ]
+}

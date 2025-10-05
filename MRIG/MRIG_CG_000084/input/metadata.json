@@ -1,0 +1,26 @@
+{
+  "subtopic": "Depth maps",
+  "prompt": "Generate a computer graphics rendering showing two depth maps side-by-side. One map visualizes the shallow depth of the home scene (image 2), the other depicts the complex, multi-layered depth of the shop environment (image 1).",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748424309957,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a computer graphics rendering displaying two distinct depth maps arranged side-by-side. On the left, present a depth map derived from the shop environment depicted in image 1, highlighting its complex, multi-layered spatial information, including objects at varying distances such as the foreground figures, retail displays, and the distant street view through the window. On the right, generate a depth map based on the home scene from image 2, emphasizing its comparatively shallow depth, primarily focusing on the subject in the foreground and the simpler, less varied background elements like the wall and indoor plants.",
+  "annotator": "winston",
+  "objects": [
+    "Left depth map",
+    "Right depth map",
+    "Foreground figures (in left depth map)",
+    "Retail displays (in left depth map)",
+    "Distant street view through window (in left depth map)",
+    "Foreground subject (in right depth map)",
+    "Wall (in right depth map)",
+    "Indoor plants (in right depth map)"
+  ],
+  "human_annotation": true
+}

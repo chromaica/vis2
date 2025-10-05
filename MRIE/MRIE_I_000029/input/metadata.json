@@ -1,0 +1,21 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "Edit image 1: Apply the vertical rainbow gradient fill from image 2 to the black peace sign symbol, making the symbol colorful. Replace the white background of image 1 with the textured dark grey background from image 3, creating a stylized graphic.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit Image 1. Replace the existing white background with the textured dark grey background from Image 3. Fill the central black peace sign symbol with the vertical rainbow gradient from Image 2 to create a stylized graphic.",
+  "annotator": "maxku",
+  "objects": [
+    "peace sign symbol",
+    "textured dark grey background",
+    "vertical rainbow gradient",
+    "white background (should not be present)",
+    "black fill of peace sign (should not be present)"
+  ]
+}

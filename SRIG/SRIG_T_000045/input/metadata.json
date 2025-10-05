@@ -1,0 +1,25 @@
+{
+  "subtopic": "Comics",
+  "prompt": "A comic panel for 'Textual Graphics' featuring an hourglass inspired by the reference, where purple sand is replaced by flowing words and comic sound effects.",
+  "cond_images": [
+    "1.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1750705609668,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "T",
+  "annotator": "winston",
+  "prompt_refined": "Generate a single comic panel titled 'Textual Graphics'. The central focus of the panel is an hourglass, clearly derived from the design of image 1, featuring its distinctive heart-shaped light wooden frame and clear glass bulbs. Instead of the purple sand shown in image 1, the top bulb of the hourglass is depicted with a stream of flowing, legible words and phrases cascading down into the bottom bulb. Around the hourglass, dynamic, stylized comic book sound effects are visibly incorporated.",
+  "objects": [
+    "single comic panel",
+    "title 'Textual Graphics'",
+    "hourglass",
+    "heart-shaped light wooden frame",
+    "clear glass bulbs",
+    "flowing, legible words and phrases (cascading inside hourglass)",
+    "dynamic, stylized comic book sound effects",
+    "purple sand (should not be present)"
+  ],
+  "human_annotation": true
+}

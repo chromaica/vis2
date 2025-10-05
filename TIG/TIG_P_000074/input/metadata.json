@@ -1,0 +1,17 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Medical images",
+  "prompt": "An anatomical model of the human skeleton in an upright position with each bone labeled, placed against a plain white backdrop.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A photorealistic image of an anatomical human skeleton model, standing upright and centered against a plain, seamless white backdrop. Each bone is clearly and legibly labeled with its anatomical name. The lighting is even studio light, and the image is in sharp focus.",
+  "annotator": "cwhsu",
+  "objects": [
+    "anatomical human skeleton model",
+    "plain, seamless white backdrop",
+    "labels (anatomical names on bones)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

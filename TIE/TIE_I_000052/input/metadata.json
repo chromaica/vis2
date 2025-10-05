@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Modify this chart to include realistic data, such as the salaries of four different occupations.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, which displays a 3D bar chart with four bars and associated text placeholders. Transform this into an information graphic showing realistic salary data for four specific occupations.\n\nAdjust the heights of the existing bars to proportionally represent the following salaries, maintaining their current relative height order:\n- The tallest black bar (currently with a network icon) should represent Software Engineer with a salary of $120,000.\n- The second tallest gold bar (currently with a bar chart icon) should represent Registered Nurse with a salary of $80,000.\n- The third tallest blue bar (currently with a box icon) should represent Teacher with a salary of $60,000.\n- The shortest grey bar (currently with a truck icon) should represent Graphic Designer with a salary of $55,000.\n\nReplace the 'Sample Text' and 'This is a sample text. Insert your desired text here.' placeholders with the specific occupation names and their respective salaries. Map the data to the text blocks as follows:\n- Modify the text block positioned in the top-right of the image to 'Software Engineer: $120,000'.\n- Modify the text block positioned in the top-left of the image to 'Registered Nurse: $80,000'.\n- Modify the text block positioned in the mid-right of the image to 'Teacher: $60,000'.\n- Modify the text block positioned in the mid-left of the image to 'Graphic Designer: $55,000'.\n\nEnsure the overall visual style of the chart remains consistent with image 1, focusing on updating the data representation and associated text.",
+  "annotator": "cwhsu",
+  "objects": [
+    "3D bar chart with four proportionally adjusted bars (black, gold, blue, grey)",
+    "Network icon on the tallest black bar",
+    "Bar chart icon on the second tallest gold bar",
+    "Box icon on the third tallest blue bar",
+    "Truck icon on the shortest grey bar",
+    "Text block in the top-right containing 'Software Engineer: $120,000'",
+    "Text block in the top-left containing 'Registered Nurse: $80,000'",
+    "Text block in the mid-right containing 'Teacher: $60,000'",
+    "Text block in the mid-left containing 'Graphic Designer: $55,000'"
+  ],
+  "human_annotation": true
+}

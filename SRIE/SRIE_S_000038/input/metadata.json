@@ -1,0 +1,29 @@
+{
+  "subtopic": "Websites",
+  "prompt": "Edit image 1: Replace the clean white background within the browser window with the dramatic cloudy sky background from image 2. Keep the original website interface elements overlaid on this new background.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751005884458,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit image 1. Replace the entire white content area located within the browser window with the dramatic cloudy sky background from image 2. Specifically, use the background visible behind the 'iPhone 15' and 'WOW' text in image 2. Ensure all original website interface elements from image 1, such as the 'screen.guru' logo, the 'Website URL' input field, and all other text and UI elements, are accurately preserved and clearly overlaid on top of the new sky background.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Browser window frame",
+    "Dramatic cloudy sky background (within browser window)",
+    "`screen.guru` logo and text",
+    "\"Take clean screenshot of any websites\" text",
+    "\"Website URL\" input field",
+    "\"Create\" button",
+    "\"Pick the background color\" text",
+    "\"No background\" checkbox",
+    "Footer text (including \"Crafted by @premieroctet\", \"Code available on GitHub\", \"Bookmarklet\")",
+    "Yellow background (behind browser window)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

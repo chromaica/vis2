@@ -1,0 +1,27 @@
+{
+  "subtopic": "Websites",
+  "prompt": "Edit image 1: Incorporate the vibrant, colorful gradient background effect from image 2 into the design of the Adobe Stock screenshot.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751005265531,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit image 1: Replace the existing white background of the Adobe Stock screenshot with a vibrant, multi-color gradient, drawing inspiration from the background design of image 2. The gradient should feature similar hues, such as purple, pink, orange, and blue. Ensure all original foreground elements of image 1, including the top navigation bar, search interface, and the grid of search results, are preserved in their exact positions and remain clearly visible on top of the new gradient background.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Vibrant, multi-color gradient background",
+    "Adobe Stock top navigation bar",
+    "Adobe Stock search bar",
+    "\"Get 10 free Adobe Stock images\" banner",
+    "\"View panel\" button",
+    "\"Sort by Relevance\" dropdown",
+    "\"821,337 results for small businesses in all\" text",
+    "Suggestions links (e.g., small businesses owners)",
+    "Grid of six image search results",
+    "White background (should not be present)"
+  ]
+}

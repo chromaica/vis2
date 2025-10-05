@@ -1,0 +1,23 @@
+{
+  "subtopic": "Websites",
+  "prompt": "Generate a screenshot of a bakery website landing page displayed on a tablet, utilizing the warm golden brown color palette inspired by the bread in the reference image for its design elements.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://www.melskitchencafe.com/wp-content/uploads/french-bread2.jpg",
+  "promptGeneratedTimestamp": 1749425431078,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a screenshot of a bakery website landing page, displayed clearly on a tablet. The website's user interface and design elements, including backgrounds, buttons, banners, and decorative accents, should prominently utilize a warm golden-brown color palette. This palette should specifically derive its varying hues, rich undertones, and a subtle, baked-like sheen from the glossy crust and perfectly scored surfaces of the bread loaves visible in image 1.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Tablet displaying a screen",
+    "Screenshot of a bakery website landing page",
+    "Bakery website user interface",
+    "Website background with warm golden-brown hues",
+    "Website buttons with warm golden-brown hues",
+    "Website banners with warm golden-brown hues",
+    "Website decorative accents with warm golden-brown hues"
+  ]
+}

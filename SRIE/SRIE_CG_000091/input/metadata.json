@@ -1,0 +1,27 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "3D renders",
+  "prompt": "Replace the highlighted TV in the reference image with a blurred version",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 2. Replace the television on the central wall, highlighted in blue, with a significantly blurred version. Image 2 also serves as the reference for precisely locating the television for the edit.",
+  "annotator": "nimajamali",
+  "objects": [
+    "blurred television on the central wall",
+    "central wall unit",
+    "artwork above the television",
+    "orange armchair",
+    "coffee table",
+    "plant on coffee table",
+    "curtains",
+    "window",
+    "ceiling lights",
+    "vertical decorative screen"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

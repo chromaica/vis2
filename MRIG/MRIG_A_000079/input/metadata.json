@@ -1,0 +1,20 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "Create a collage where the silhouette of a woman's head from image 1 is filled with blooming flowers from image 2, and leaf sketches from image 3 gently flow outward like thoughts or memories.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a composite image featuring the black silhouette of a woman's head from image 1. The interior of this silhouette should be densely filled with the vibrant, blooming flowers and mixed foliage from image 2. Additionally, diverse leaf forms derived from image 3, rendered as delicate sketches, should gently radiate and flow outward from the perimeter of the head silhouette, creating an ethereal aura, suggestive of thoughts or memories.",
+  "annotator": "samin",
+  "objects": [
+    "Black silhouette of a woman's head",
+    "Vibrant blooming flowers filling the silhouette",
+    "Mixed foliage filling the silhouette",
+    "Diverse leaf forms as delicate sketches radiating from the silhouette perimeter"
+  ]
+}

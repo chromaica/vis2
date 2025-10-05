@@ -1,0 +1,26 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "Add more items to the receipt, adjusting the total payment accordingly.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Add two new items to the receipt list, positioned below 'Short Black' and above 'Subtotal (3 items)'. For each new item, include its name, quantity (e.g., 'x 1'), and individual price. After adding these items, recalculate and update the 'Subtotal', 'TOTAL', 'GST included in total', and the item count within 'Subtotal (X items)' to accurately reflect the new total cost and number of items. Ensure the 'CASH' amount matches the new 'TOTAL'.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Idealpos logo and \"TAX INVOICE\" header",
+    "Transaction date and time \"19 March 2020 at 8:52 am\"",
+    "\"CAPPUCCINO x 1 $3.50\" item line",
+    "\"FLAT WHITE x 1 $3.50\" item line",
+    "\"SHORT BLACK x 1 $3.00\" item line",
+    "First newly added receipt item line (name, quantity, price)",
+    "Second newly added receipt item line (name, quantity, price)",
+    "Updated \"Subtotal (X items)\" line with new item count and recalculated subtotal amount",
+    "Updated \"TOTAL\" line with recalculated total amount",
+    "Updated \"GST included in total\" and \"CASH\" lines with recalculated amounts"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

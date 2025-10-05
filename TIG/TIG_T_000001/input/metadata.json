@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Graffiti (Text-based)",
+  "prompt": "Urban rebellion captured: 'REVOLUTION' in fiery red aerosol, defined by sharp black outlines, bleeds down a dark, weathered brick canvas. Raw, immediate energy.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate an image featuring the word 'REVOLUTION' spray-painted in a vibrant, fiery red aerosol. The letters should be sharply outlined in black and appear to bleed or drip downwards onto a dark, heavily weathered brick wall. The overall visual should convey a raw, immediate, and rebellious urban energy.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "The word 'REVOLUTION'",
+    "Spray paint texture",
+    "Fiery red color",
+    "Black outlines on letters",
+    "Dripping paint effect",
+    "Dark brick wall",
+    "Heavily weathered appearance on wall"
+  ],
+  "human_annotation": true
+}

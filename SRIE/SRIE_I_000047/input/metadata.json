@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "Apply the watercolor style to this city map.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the grayscale city map, by applying the vibrant, blended watercolor art style of image 2, incorporating colorful washes and splatters.",
+  "annotator": "Johnny",
+  "objects": [
+    "City map layout",
+    "Roads",
+    "City blocks",
+    "Vibrant colors",
+    "Blended watercolor appearance",
+    "Colorful washes",
+    "Colorful splatters",
+    "Grayscale color (should not be present)",
+    "\"designed by freepik\" watermark (should not be present)"
+  ],
+  "human_annotation": true
+}

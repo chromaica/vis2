@@ -1,0 +1,27 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Generate a vacuum cleaner styled as a dolphin. The first reference image: a cylindrical vacuum cleaner. Shape it with the style of the second reference image: a dolphin with smooth silver skin and dynamic curves. The vacuum should have dolphin-like fins, a streamlined body, and water-ripple LED accents, placed in a high-tech living room.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic vacuum cleaner, primarily adopting the sleek form and dynamic curves of the dolphin in image 2. This vacuum should be designed with a streamlined, somewhat cylindrical main body, resembling the smooth grey aesthetic of the dolphin, and integrate distinct dolphin-like fins. Add subtle water-ripple LED accents along its surface. While maintaining the essential functionality and overall upright stance of the vacuum cleaner shown in image 1, its entire appearance must be reimagined as a sophisticated, high-tech dolphin appliance. Place this unique vacuum prominently within a modern, high-tech living room.",
+  "objects": [
+    "Photorealistic vacuum cleaner",
+    "Sleek, dolphin-like form and dynamic curves (for the vacuum)",
+    "Streamlined, somewhat cylindrical main body (for the vacuum)",
+    "Smooth grey aesthetic (for the vacuum)",
+    "Distinct dolphin-like fins (on the vacuum)",
+    "Subtle water-ripple LED accents (on the vacuum's surface)",
+    "Upright stance (of the vacuum cleaner)",
+    "Modern living room",
+    "High-tech living room elements",
+    "Vacuum cleaner prominently placed"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

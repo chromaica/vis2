@@ -1,0 +1,26 @@
+{
+  "subtopic": "Traditional art",
+  "prompt": "Place the peoples in image 2 only on the middle part of image 1 while remaining the other parts of image 1.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "Masterpieces of traditional art",
+  "searchQueryGeneratedTimestamp": 1748652720169,
+  "promptGeneratedTimestamp": 1748652765817,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1 by replacing the existing figures in its central region with the group of women from image 2. Ensure the inserted women are seamlessly integrated into the artistic style and gold background of image 1.",
+  "annotator": "kellycyy",
+  "objects": [
+    "gold background",
+    "group of women",
+    "white deity (should not be present)",
+    "green deity (should not be present)",
+    "stylized clouds/mist elements"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

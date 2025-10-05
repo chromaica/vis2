@@ -1,0 +1,19 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "Make the sun looks like its undergoing a extreme once in every 100 years superflare eruption",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the provided image of the Sun, to depict an extreme, once-in-a-century superflare eruption. The superflare should appear as a prominent, massive, and brilliant expulsion of plasma and intense energy radiating from the solar surface.",
+  "annotator": "theblackcat",
+  "objects": [
+    "The Sun",
+    "Prominent superflare eruption",
+    "Massive expulsion of plasma",
+    "Intense energy radiating from the superflare",
+    "Black background"
+  ]
+}

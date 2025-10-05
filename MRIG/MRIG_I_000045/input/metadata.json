@@ -1,0 +1,30 @@
+{
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Create a Sankey diagram using the vibrant color palette from image 1. Include numerical values and percentages displayed next to the category labels, similar to the style in image 2.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "Diagrams charts graphs",
+  "searchQueryGeneratedTimestamp": 1752289076677,
+  "promptGeneratedTimestamp": 1752289146190,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "I",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a Sankey diagram. Use a vibrant, multi-hued color palette for the flow paths, inspired by the distinct colors in image 1. On both the left and right sides of the diagram, display each category label. Directly below each category label, present its corresponding numerical value and percentage, formatted similarly to the stacked text style observed within the category blocks of image 2 (e.g., 'Category Name' on one line, followed by 'Value (Percentage)' on the next line).",
+  "objects": [
+    "Sankey diagram structure",
+    "Flow paths",
+    "Vibrant, multi-hued color palette for flow paths (inspired by blue, red, green, orange, yellow)",
+    "Category labels on the left side",
+    "Numerical values below category labels on the left side",
+    "Percentages below category labels on the left side",
+    "Category labels on the right side",
+    "Numerical values below category labels on the right side",
+    "Percentages below category labels on the right side",
+    "Stacked text style for category labels, values, and percentages (e.g., 'Category Name' on one line, followed by 'Value (Percentage)' on the next line)"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "Create a fitness tracker icon using a mountain peak made of stacked heartbeat lines, coral pink on deep navy, athletic minimalism",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate an athletic minimalist fitness tracker icon. The design features a mountain peak graphically composed of stacked, horizontal heartbeat lines. The entire icon is rendered in coral pink on a deep navy background.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Fitness tracker icon",
+    "Mountain peak shape",
+    "Stacked lines",
+    "Horizontal lines",
+    "Heartbeat lines",
+    "Coral pink color",
+    "Deep navy background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

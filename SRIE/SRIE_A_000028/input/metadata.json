@@ -1,0 +1,26 @@
+{
+  "subtopic": "Collage",
+  "prompt": "Edit image 1: Create a collage by integrating the white 'Reborn' blindfold element from image 2 onto the face area of the figure. Stylistically blend it into the existing artwork.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748492877567,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1: Integrate the distinctive white blindfold with the text 'Reborn' from image 2. Place this blindfold directly over the current obscured face area of the central figure in image 1. The integration should create a collage effect, blending stylistically to appear as an organic part of the existing abstract, painterly artwork.",
+  "annotator": "kellycyy",
+  "objects": [
+    "Abstract, painterly artwork",
+    "Central figure",
+    "Orange head/hair of the central figure",
+    "Gold/yellow textured body of the central figure",
+    "Multi-colored, abstract background",
+    "White blindfold positioned over the face area",
+    "\"Reborn\" text on the blindfold",
+    "Obscured face area with circles (should not be present)"
+  ],
+  "human_annotation": true
+}

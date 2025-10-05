@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Chat and Social Messaging",
+  "prompt": "Replace the background of the chat area in image 1 with the peach color from image 2, and update the 'Delivered' grey icon the lower-right corners of each green bubble with the 'Read' blue icon from image 3.",
+  "cond_images": [
+    "1.jpg",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Replace the background pattern of the chat conversation area with the solid peach color from image 2. Additionally, for all green message bubbles in image 1, update the 'Delivered' double grey checkmark icon, located in the lower-right corner of each bubble, to the 'Read' double blue checkmark icon as shown in image 3.",
+  "annotator": "parnian",
+  "objects": [
+    "Chat conversation area with a solid peach background",
+    "Green message bubbles",
+    "Grey/purple message bubbles",
+    "'Read' double blue checkmark icons in the lower-right corner of green message bubbles",
+    "'Delivered' double grey checkmark icons in the lower-right corner of grey/purple message bubbles",
+    "Text and emojis within message bubbles",
+    "Top status bar",
+    "Chat header bar",
+    "Message input bar",
+    "Original background pattern of the chat conversation area (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

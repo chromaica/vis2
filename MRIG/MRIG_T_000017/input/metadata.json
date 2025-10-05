@@ -1,0 +1,24 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Design a visual identity for a children\u2019s book publisher called 'Jungle Tales Press' by combining the cartoon-style animal characters in Image 1 with the colorful 3D text style in Image 2. ",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a logo for a children's book publisher called 'Jungle Tales Press'. The text 'Jungle Tales Press' should be rendered in the colorful, multi-layered 3D text style seen in Image 2, featuring its distinctive yellow-orange front, pink top, and blue side extrusions. Integrate the cute, rounded, and glossy 3D cartoon animal characters from Image 1, such as a giraffe and a zebra, into the logo composition. The animals should either be positioned alongside the text or playfully interacting with it, maintaining their vibrant style. The overall design should evoke a whimsical jungle theme, possibly incorporating elements like the lush blue and green leaves and yellow flowers from Image 1 as background or decorative accents.",
+  "annotator": "parnian",
+  "objects": [
+    "'Jungle Tales Press' text",
+    "Colorful, multi-layered 3D text style with yellow-orange front, pink top, and blue side extrusions",
+    "Cute, rounded, glossy 3D cartoon giraffe",
+    "Cute, rounded, glossy 3D cartoon zebra",
+    "Lush blue leaves",
+    "Lush green leaves",
+    "Yellow flowers"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

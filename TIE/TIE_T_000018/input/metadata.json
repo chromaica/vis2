@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "Overlay subtle horizontal scan lines and a slight chroma shift to make the text look like on old VHS.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Apply a subtle overlay of horizontal scan lines across the entire image. Introduce a slight chroma shift, creating subtle color fringing around the edges of all graphic elements and text. The final image should distinctly resemble a video frame from an old VHS recording.",
+  "annotator": "matina",
+  "objects": [
+    "\"San Antonio\" text",
+    "\"Best of the City\" text",
+    "\"Confluence Park\" text",
+    "\"2019\" text",
+    "Smaller textual elements (e.g., \"Jazz TX\", \"Artpace\", \"Feliz Modern\")",
+    "Graphic shapes and banners",
+    "Stars",
+    "Light blue background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

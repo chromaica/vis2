@@ -1,0 +1,21 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "Overlay the rust texture and green-blue patina onto the text fill.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Apply the detailed texture of deep reddish-brown rust and pale blue/green peeling paint, as seen in image 2, directly onto the white and grey fills of the large textual graphics in image 1.",
+  "annotator": "matina",
+  "objects": [
+    "Large textual graphics with a skewed perspective",
+    "Text: \"HOW MUCH DOES YOUR BUILDING WEIGH MR. FOSTER?\"",
+    "Text: \"DIRECTED BY NORBERTO LOPEZ AMADO & CARLOS CARCAS\"",
+    "Deep reddish-brown rust texture applied to the textual graphics",
+    "Pale blue/green peeling paint texture applied to the textual graphics",
+    "Black background"
+  ]
+}

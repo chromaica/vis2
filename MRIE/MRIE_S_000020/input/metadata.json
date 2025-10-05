@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "QR Code",
+  "prompt": "Edit image 3 by replacing its QR code with the stylized framed QR from image 1, keeping it the same size and position. Then insert the 'Scan me' cursive text from image 1 underneath the QR code, centered and scaled to fit without overlapping the existing text. Maintain all other flight information and layout structure exactly as in the original.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 3, which displays a mobile boarding pass. Replace the current QR code on the boarding pass with the stylized framed QR code from image 1, ensuring it maintains the exact same size and central position as the original QR code in image 3. Then, insert the 'Scan me' cursive text from image 1. Position this text horizontally centered in the space directly below the new QR code and above the 'PBCM4K:SEQ56' text. Scale the 'Scan me' text appropriately to fit this specific area without overlapping the 'PBCM4K:SEQ56' text or any other existing flight information. All other flight details, passenger information, and the overall layout structure of the boarding pass in image 3 must remain unchanged.",
+  "annotator": "parnian",
+  "objects": [
+    "Mobile phone interface with boarding pass display",
+    "Boarding pass card",
+    "Stylized framed QR code (from image 1), maintaining original size and central position",
+    "\"Scan me\" cursive text (from image 1), horizontally centered below the new QR code and above \"PBCM4K:SEQ56\" text",
+    "\"PBCM4K:SEQ56\" text",
+    "Flight details (PVD MYR, MX730 Jun 29, TERM -, GATE TBD)",
+    "Passenger information (Susan Beausoleil, Zone 2, Seat 20C)",
+    "Boarding and departure times (9:45 AM, 10:15 AM)",
+    "\"Print Boarding Passes\" button",
+    "Original QR code from image 3 (should not be present)"
+  ]
+}

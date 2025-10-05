@@ -1,0 +1,30 @@
+{
+  "subtopic": "Typography",
+  "prompt": "Edit image 1: Transform the large red letters 'SEMIOTEXT' into detailed textual graphics. Using the technique from images 2, 3, and 4, form the shape of each letter by filling it entirely with smaller, packed text. Apply the dynamic 3D rendering, texture, and illustrative style seen in image 5 to this text filling the letters.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg",
+    "4.jpeg",
+    "5.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749711891888,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "T",
+  "prompt_refined": "Edit image 1: On the left page, modify the large red letters forming 'SEMIOTEXT'. Replace the solid red fill of each letter with a densely packed arrangement of smaller text, creating the shape of the letters through this textual infill, as demonstrated in images 2, 3, and 4. The smaller text filling the letters should exhibit the dynamic 3D rendering, intricate texture, and illustrative quality seen in image 5.",
+  "annotator": "winston",
+  "objects": [
+    "Open book",
+    "Left page of the book",
+    "Right page of the book with text columns",
+    "Letters 'SEMIOTEXT' on the left page",
+    "Densely packed smaller text forming the fill of 'SEMIOTEXT' letters",
+    "Dynamic 3D rendering of the smaller text",
+    "Intricate texture of the smaller text",
+    "Illustrative quality of the smaller text"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

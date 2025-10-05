@@ -1,0 +1,23 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Generate an image of a centaur where the human upper body (torso, head, and arms) matches the visual style, details, and characteristics (e.g., skin tone and art style) of the human in the first reference image, and the horse lower body matches the visual style, color, and texture (e.g., fur, build, and art style) of the horse in the second reference image. Ensure the centaur appears seamlessly integrated, with consistent lighting, perspective, and proportions, set against a neutral background unless otherwise specified.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic image of a centaur. The human upper body (torso, head, and arms) should accurately replicate the visual style, physique, skin tone, hair color, facial features, and any visible body hair of the male human presented in image 1. The horse lower body (including the hindquarters, legs, and tail) should precisely match the specific bay color, fur texture, powerful build, and musculature of the horse in image 2, including its dark lower legs. Ensure a seamless and anatomically correct integration between the human and equine parts. The entire centaur must exhibit consistent photorealistic lighting, perspective, and proportions, set against a neutral, plain background.",
+  "objects": [
+    "Photorealistic centaur",
+    "Centaur's human upper body (replicating male in image 1's visual style, physique, skin tone, hair color, facial features, and body hair)",
+    "Centaur's horse lower body (matching horse in image 2's bay color, fur texture, powerful build, musculature, and dark lower legs)",
+    "Seamless and anatomically correct integration between human and equine parts",
+    "Consistent photorealistic lighting on the centaur",
+    "Consistent perspective for the centaur",
+    "Consistent proportions for the centaur",
+    "Neutral, plain background"
+  ]
+}

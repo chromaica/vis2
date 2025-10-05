@@ -1,0 +1,26 @@
+{
+  "subtopic": "Game assets",
+  "prompt": "Make the bare tree asset on the left appear full of lush, green leaves.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751762126156,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1. Transform the bare tree asset located on the top-left side of the image, so it appears full of lush, green leaves.",
+  "annotator": "edisy",
+  "objects": [
+    "lush, green tree (on the top-left side)",
+    "green tree",
+    "tree stump",
+    "wooden cart",
+    "scarecrow",
+    "hay bales",
+    "large rock formation",
+    "wooden door with chains",
+    "stone furnace",
+    "blue fountain"
+  ]
+}

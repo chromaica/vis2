@@ -1,0 +1,25 @@
+{
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "Create a computer graphics visualization resembling semantic segmentation. Generate a street scene with a person and cars, inspired by the reference image's composition, showing distinct objects and classes with clear color mapping.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://live.staticflickr.com/2428/4023814672_a133248283_b.jpg",
+  "promptGeneratedTimestamp": 1748772477900,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a semantic segmentation image of a street scene, precisely replicating the composition and object placement from image 1. The image should feature a person running prominently in the foreground from left to right, a large dark SUV positioned centrally behind the person, and a smaller purple car further in the background to the right. Include distinct environmental elements such as the road, sidewalk, a building on the left, and background foliage. Each identifiable object and class (person, large car, small car, road, sidewalk, building, tree/foliage) must be represented by a unique, flat, and clearly distinguishable color for semantic mapping.",
+  "annotator": "ishengfang",
+  "objects": [
+    "A person running prominently in the foreground from left to right",
+    "A large dark SUV positioned centrally behind the person",
+    "A smaller purple car further in the background to the right",
+    "Road",
+    "Sidewalk",
+    "A building on the left",
+    "Background foliage"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

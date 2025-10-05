@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "A collage of black and white photographs of famous cities layered creatively on a gradient blue background, giving a sense of nostalgia and travel.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A multi-layered collage featuring vintage-style black and white photographs of iconic landmarks from famous cities. The photographs are organically overlapped, with varied sizes and subtle rotations, creating a dynamic, artistic arrangement reminiscent of an old travel scrapbook. This entire composition rests on a vertical gradient blue background, transitioning smoothly from a light sky blue at the top to a deeper azure at the bottom. The overall scene should evoke a profound sense of nostalgia and the spirit of travel.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Multi-layered collage",
+    "Vintage-style black and white photographs",
+    "Photographs featuring iconic landmarks from famous cities",
+    "Overlapping photographs",
+    "Photographs with varied sizes",
+    "Photographs with subtle rotations",
+    "Vertical gradient blue background",
+    "Background transitioning from light sky blue at the top",
+    "Background transitioning to a deeper azure at the bottom",
+    "Arrangement reminiscent of an old travel scrapbook"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "subtopic": "Games",
+  "prompt": "Edit image 1: Overlay the glowing 'A' action prompt circle icon from image 2 onto the character in the center, suggesting an interactive moment from a different game genre.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "Video game screenshots reference",
+  "searchQueryGeneratedTimestamp": 1751004777581,
+  "promptGeneratedTimestamp": 1751004805088,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit image 1: Overlay the glowing red 'A' action prompt circular icon from image 2 onto the central character wearing red and black, located in the mid-ground. Position the icon to float slightly above and behind this character's head, simulating an interactive prompt from a distinct game genre's user interface.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Game user interface (UI)",
+    "Grassy terrain",
+    "Metal railing",
+    "Clouds",
+    "Trees",
+    "Character in light clothing (left)",
+    "Central character in red and black",
+    "Character in light blue and white (right)",
+    "Glowing red 'A' action prompt circular icon (floating slightly above and behind the central character's head)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

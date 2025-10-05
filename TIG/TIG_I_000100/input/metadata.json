@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "Ancient Egyptian hieroglyphic-style interface for a modern archaeological site management system, blending papyrus textures with digital elements",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a sophisticated user interface (UI) for a modern archaeological site management system. The design vividly blends Ancient Egyptian hieroglyphic style with contemporary digital elements. The UI features panels and backgrounds with authentic papyrus textures, upon which glowing digital readouts, interactive hieroglyph-icons, and translucent holographic displays are seamlessly layered. Envision a central site map, flanked by data panels showing artifact inventories and progress metrics, all rendered with a harmonious fusion of ancient artistry and futuristic technology.",
+  "annotator": "theblackcat",
+  "objects": [
+    "sophisticated user interface (UI)",
+    "Ancient Egyptian hieroglyphic style elements",
+    "contemporary digital elements",
+    "panels with authentic papyrus textures",
+    "backgrounds with authentic papyrus textures",
+    "glowing digital readouts",
+    "interactive hieroglyph-icons",
+    "translucent holographic displays",
+    "central site map",
+    "data panels showing artifact inventories and progress metrics"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "subtopic": "VFX and Particles",
+  "prompt": "Inspired by the reference, generate a computer graphics VFX asset. Simulate a dynamic fiery explosion burst with intense core light, trailing smoke, and scattering particles on black background, suitable for game engine use.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Muzzle_flash_VFX.png",
+  "promptGeneratedTimestamp": 1748772248160,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a computer graphics VFX asset, using image 1 as a visual reference. Create a dynamic fiery explosion burst, expanding horizontally from left to right across a pure black background. The explosion should feature an intensely bright, white-hot core, radiating into vibrant orange and red flames, with subtle trailing smoke and scattering fiery particles. The asset should be suitable for game engine implementation.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Fiery explosion burst",
+    "Pure black background",
+    "Intensely bright, white-hot core",
+    "Vibrant orange flames",
+    "Red flames",
+    "Subtle trailing smoke",
+    "Scattering fiery particles"
+  ],
+  "human_annotation": true
+}

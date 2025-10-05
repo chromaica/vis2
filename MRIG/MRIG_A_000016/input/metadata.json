@@ -1,0 +1,22 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "A digital painting portrait featuring the subject's hair, bare shoulders, and expression from image 1, rendered in the smooth digital art style and soft studio lighting of image 2, against a vibrant background.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a digital painting portrait. The subject should exhibit the curly dark hair, exposed shoulders, and neutral, direct gaze from image 1. Render the portrait with the smooth digital art style and soft studio lighting characteristics of image 2, set against a vibrant background.",
+  "annotator": "samin",
+  "objects": [
+    "digital painting portrait",
+    "subject with curly dark hair",
+    "subject with exposed shoulders",
+    "subject with neutral, direct gaze",
+    "smooth digital art style",
+    "soft studio lighting",
+    "vibrant background"
+  ]
+}

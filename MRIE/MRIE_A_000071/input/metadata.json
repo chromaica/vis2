@@ -1,0 +1,27 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Pop art",
+  "prompt": "In image 1, remove the Royal Crown Cola carton and replace it with the Coca-Cola carton from image 2. Also, add the soup can from image 3 in front of the bread in image 1.",
+  "cond_images": [
+    "1.png",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Remove the large Royal Crown Cola carton on the right side of image 1 and replace it with the red Coca-Cola six-bottle carton from image 2, maintaining its original position and scale. Additionally, add the red 'Whoop Ass Soup' can from image 3, placing it directly in front of the wrapped loaf of bread located on the left side of image 1.",
+  "annotator": "paria",
+  "objects": [
+    "Royal Crown Cola carton (should not be present)",
+    "red Coca-Cola six-bottle carton on the right side",
+    "red 'Whoop Ass Soup' can directly in front of the wrapped loaf of bread",
+    "wrapped loaf of bread on the left side",
+    "airplane",
+    "Libby's Pet Stew can",
+    "little girl",
+    "two lemons",
+    "blue background",
+    "orange foreground"
+  ],
+  "human_annotation": true
+}

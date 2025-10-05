@@ -1,0 +1,24 @@
+{
+  "task": "SRIG",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "make a poster but with the font : Comic Sans",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "all alphabet must look like comic sans and the Helvetica must be changed to Comic Sans",
+  "prompt_refined": "Generate a typographic poster, visually consistent with image 1, where all prominent text, including the large alphabet and the main title, is rendered in Comic Sans font. Maintain the minimalist design, black and orange text colors, and the depiction of the poster framed on a white wall, as shown in image 1.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Framed poster on a white wall",
+    "White poster background",
+    "Large alphabet (A-Z) in Comic Sans font (black color)",
+    "Main title text \"Helvetica\" in Comic Sans font (orange color)",
+    "Text \"Meet the cast:\" in Comic Sans font (black color)",
+    "Text \"Now see the movie:\" in Comic Sans font (black color)",
+    "Text \"A documentary film by Gary Hustwit\" in Comic Sans font (black color)",
+    "Smaller credits and additional text in Comic Sans font (black color)",
+    "Minimalist design",
+    "Black frame"
+  ]
+}

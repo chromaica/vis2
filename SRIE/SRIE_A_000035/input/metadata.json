@@ -1,0 +1,27 @@
+{
+  "subtopic": "Stylized art",
+  "prompt": "Edit image 1: Apply the distinctive geometric striped pattern found in image 2 to fill the areas of the butterfly's wings and the lavender plants. Create a stylized artwork with this unique geometric pattern.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748495113794,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1: Apply the black and white angular striped pattern from image 2 to fill the interior regions of the butterfly's wings and the leaves and flower clusters of the lavender plants. The resulting image should be a stylized artwork, retaining the original outlines of the butterfly and lavender while incorporating the geometric pattern.",
+  "annotator": "kellycyy",
+  "objects": [
+    "Butterfly",
+    "Lavender plants",
+    "Black and white angular striped pattern",
+    "Butterfly wings with black and white angular striped pattern",
+    "Lavender leaves with black and white angular striped pattern",
+    "Lavender flower clusters with black and white angular striped pattern",
+    "Stylized artwork aesthetic",
+    "Original outlines of butterfly",
+    "Original outlines of lavender",
+    "White background"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Morph the seagull\u2019s beak into a giant USB port and have green data streams flowing into it.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Transform the open yellow beak of the seagull in the upper portion of the image into a large, rectangular USB port. Depict vibrant green data streams actively flowing into the opening of this newly formed USB port.",
+  "annotator": "matina",
+  "objects": [
+    "seagull in the upper portion of the image",
+    "large, rectangular USB port (replacing the seagull's beak)",
+    "vibrant green data streams (flowing into the USB port)",
+    "background of the upper portion (e.g., green ledge, brown structure)",
+    "text \"And if they get me take this spike and\" (in the upper portion)",
+    "seagull in the lower portion of the image",
+    "red background of the lower portion",
+    "text \"YOU PUT THE SPIKE IN MY HEAAART\" (in the lower portion)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

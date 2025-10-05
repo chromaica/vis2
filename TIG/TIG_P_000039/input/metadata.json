@@ -1,0 +1,24 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "A quiet cobblestone alley in a European village, framed by ivy-clad stone buildings in the afternoon light.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A serene, empty cobblestone alley in a quaint European village, bathed in the warm, golden light of late afternoon. Tall, weathered stone buildings, densely covered with vibrant green ivy, rise on both sides, creating a natural frame for the narrow pathway. Long, soft shadows stretch across the textured cobblestones.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Cobblestone alley",
+    "Textured cobblestones",
+    "Empty alley (no people or vehicles)",
+    "European village architectural style",
+    "Warm golden light",
+    "Late afternoon lighting",
+    "Tall stone buildings",
+    "Weathered buildings",
+    "Vibrant green ivy on buildings",
+    "Long, soft shadows"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

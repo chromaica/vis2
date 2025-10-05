@@ -1,0 +1,27 @@
+{
+  "subtopic": "Receipts",
+  "prompt": "Edit image 1: Change the 'Amount' value '$24,000.00' to match the 'Total' amount of '$3.26' found in image 2, ensuring it blends naturally with the receipt format.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751005842578,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit image 1. Locate the 'Amount' value '$24,000.00' in the lower-middle section, positioned to the right of the 'Amount:' label. Replace this value with '$3.26', using the 'Total' amount found in the itemized list of image 2 as a reference. Ensure the new '$3.26' text in image 1 precisely matches the font style, size, color, and right-alignment of the original '$24,000.00' to seamlessly integrate with the receipt's visual format.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Green \"Paid\" section at the top of a screenshot interface",
+    "Main white transaction details block within a screenshot",
+    "\"From\" section with \"Westpac Choice\" and account number",
+    "\"To\" section with account number and \"AUSTRALIA NEW ZEALAND BANKING GROUP\"",
+    "\"Amount:\" label",
+    "\"$24,000.00\" (should not be present)",
+    "\"$3.26\" (value replacing \"$24,000.00\", styled to match the original \"$24,000.00\" font, size, color, and right-alignment)",
+    "\"Scheduled pymt date:\" label with \"12 Aug 2018\"",
+    "\"Payment ID:\" label with \"c9248b46-7e8c-4a4d-af34\"",
+    "Red \"Done\" button at the bottom"
+  ]
+}

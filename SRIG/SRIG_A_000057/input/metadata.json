@@ -1,0 +1,24 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Stylized art",
+  "prompt": "Generate a stained glass window design featuring a medieval castle at sunset.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a stained glass window design featuring a majestic medieval castle, visually inspired by image 1. The castle should be a grand, multi-towered structure with beige stone walls and distinct reddish-orange conical roofs, prominently situated on a rolling green hill with dark pine trees at its base. The background should depict a vibrant sunset, casting a warm golden glow over the scene with the sky showcasing a rich blend of orange, pink, and purple hues. The entire image should meticulously replicate the intricate leading and vivid colored glass characteristic of traditional stained glass artistry.",
+  "annotator": "Johnny",
+  "objects": [
+    "Medieval castle",
+    "Multi-towered castle structure",
+    "Beige stone castle walls",
+    "Reddish-orange conical castle roofs",
+    "Rolling green hill",
+    "Dark pine trees",
+    "Vibrant sunset sky",
+    "Orange, pink, and purple sky hues",
+    "Intricate stained glass leading",
+    "Vivid colored glass panels"
+  ]
+}

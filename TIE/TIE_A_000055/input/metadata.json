@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Romanticism",
+  "prompt": "Adjust the size of the people in the background to match the realistic proportions. Ensure they are not crowded and maintain a natural distance.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Resize all figures located in the mid-ground and background, specifically the group on horseback and walking near the lake, and the figures near the hut on the far left. Ensure these figures are adjusted to realistic human proportions relative to the overall landscape and the foreground characters, and that they maintain natural spacing without appearing crowded.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Mountainous landscape",
+    "Lake",
+    "Sky with clouds",
+    "Hut on the far left",
+    "Group on horseback near the lake",
+    "Figures walking near the lake",
+    "Figures near the hut on the far left",
+    "Large black horse in the foreground",
+    "Person milking the black horse in the foreground",
+    "Other foreground figures"
+  ]
+}

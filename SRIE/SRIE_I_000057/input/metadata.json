@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "Apply the cartoon style to the subway map.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 2, which is a subway map, by applying the cartoon style demonstrated in image 1.",
+  "annotator": "Johnny",
+  "objects": [
+    "subway lines (various colors)",
+    "subway stations (circular nodes)",
+    "station names (text labels)",
+    "map legend (line numbers and colors)",
+    "transfer station symbols",
+    "informational text (\"Bundang Jungang...\", \"www.smrico.kr\")",
+    "\"Not open\" text labels",
+    "map background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,27 @@
+{
+  "subtopic": "Digital arts",
+  "prompt": "Edit image 1: Transform the two boiled eggs into a single, realistic fried egg with a runny yolk, capturing the glossy texture and detail from image 2's reference while maintaining the digital art style.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748654888775,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1: Transform the two boiled eggs located in the ramen bowl into a single, realistic fried egg with a visible runny yolk. The fried egg should adopt the glossy texture and specific details from the reference fried egg in image 2, while the overall digital art style of image 1 must be maintained.",
+  "annotator": "kellycyy",
+  "objects": [
+    "ramen bowl",
+    "noodles",
+    "chopsticks",
+    "single fried egg with visible runny yolk",
+    "mushrooms",
+    "green leaves/vegetables in ramen",
+    "green onions on plate",
+    "scissors",
+    "small bowl with dark granular contents",
+    "small white flowers"
+  ]
+}

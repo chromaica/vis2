@@ -1,0 +1,25 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "Change the button labels to 'Start Event' and 'End Event' with a green background and white text.",
+  "cond_images": [
+    "1.jpeg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. In the central white dialog box, change the top button labeled 'Trigger Event 1' to 'Start Event' and the bottom button labeled 'Trigger Event 2' to 'End Event'. For both of these buttons, set their background color to green and their text color to white.",
+  "annotator": "cwhsu",
+  "objects": [
+    "iPhone status bar",
+    "Modal dialog box for \"Send screen capture\"",
+    "Close 'X' button",
+    "Central white dialog box",
+    "\"Trigger Events\" text",
+    "Button labeled 'Start Event' with green background and white text",
+    "Button labeled 'End Event' with green background and white text",
+    "Text input field with 'Name' label and 'Events' text",
+    "'Retry' button",
+    "'Send to builder' button"
+  ],
+  "human_annotation": true
+}

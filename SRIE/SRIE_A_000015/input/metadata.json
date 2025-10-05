@@ -1,0 +1,27 @@
+{
+  "subtopic": "Collage",
+  "prompt": "Directly change the background of image 1 as image 2 (to have the white border and be like an artwork done on a canvas).",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "Collage artwork",
+  "searchQueryGeneratedTimestamp": 1748488564602,
+  "promptGeneratedTimestamp": 1748488619607,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1 by transforming its background to match the presentation style of image 2. Retain the existing collage artwork of the figure from image 1, and ensure the surrounding background features a distinct white border, giving the impression of an artwork on a canvas or art paper, similar to the format seen in image 2.",
+  "annotator": "kellycyy",
+  "objects": [
+    "Collage artwork of a woman",
+    "Flowers in hair",
+    "Black top",
+    "Colorful collage pieces forming lower body/attire",
+    "Blue background",
+    "Green ground area",
+    "Distinct white border"
+  ],
+  "human_annotation": true
+}

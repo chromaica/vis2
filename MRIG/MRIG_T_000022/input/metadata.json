@@ -1,0 +1,28 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": "Generate a single comic panel showing a man in a car looking at a glowing symbol projected in the sky. Use the lighting style and symbol placement from the first image, the man's pose and outfit from the second image, and include the speech bubble font from the fourth image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a single comic panel depicting a man inside a car. The scene should feature a dark, starry night sky over a city skyline, with a large, bright, circular glowing symbol projected high in the sky by a visible light beam originating from below, mirroring the lighting style and the symbol's placement from image 1. The man's appearance, including his pose with hands on a steering wheel, his suit jacket, tie, collared shirt, and large circular sunglasses, should precisely reflect the style and details found in image 2. If a speech bubble is included in the panel, ensure its text font is bold, blocky, all-caps, sans-serif, and slightly italicized, consistent with the lettering style of image 3.",
+  "annotator": "parnian",
+  "objects": [
+    "A single comic panel",
+    "A man inside a car",
+    "Man's appearance: with hands on a steering wheel, wearing a suit jacket, tie, collared shirt, and large circular sunglasses (all reflecting the style and details from image 2)",
+    "Dark, starry night sky",
+    "City skyline",
+    "Large, bright, circular glowing symbol projected high in the sky",
+    "Visible light beam originating from below, projecting the symbol",
+    "Lighting style and symbol's placement consistent with image 1",
+    "Car interior",
+    "Optional: Speech bubble with bold, blocky, all-caps, sans-serif, slightly italicized text font (consistent with image 3's lettering style)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Textile Art with Text",
+  "prompt": "Detail-focused textile art: 'Thread by Thread' is meticulously embroidered with a rich palette of earthy greens, warm browns, and deep blues. A blend of satin stitch and French knots gives the letters a profound texture against a rustic, hand-woven fabric whose irregularities and tactile quality are highlighted in a close-up perspective.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A close-up, detail-focused image of textile art. The phrase 'Thread by Thread' is meticulously embroidered onto a rustic, hand-woven fabric. The embroidery features a rich palette of earthy greens, warm browns, and deep blues, employing a blend of satin stitch and French knots to give the letters a profound texture. The natural irregularities and tactile quality of the underlying fabric are prominently highlighted in this close-up perspective.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "The phrase \"Thread by Thread\"",
+    "Embroidered text",
+    "Rustic, hand-woven fabric",
+    "Embroidery in earthy green color",
+    "Embroidery in warm brown color",
+    "Embroidery in deep blue color",
+    "Satin stitch",
+    "French knots",
+    "Natural irregularities of fabric",
+    "Tactile quality of fabric"
+  ]
+}

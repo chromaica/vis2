@@ -1,0 +1,21 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "Surreal desert with floating rocks",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate an artwork that transforms the monochromatic, desolate desert landscape of image 1. Integrate multiple large, jagged rocks, levitating mysteriously above the terrain and against the clear sky, to create a surreal scene.",
+  "annotator": "Johnny",
+  "objects": [
+    "monochromatic color scheme",
+    "desert landscape",
+    "hills/mountains",
+    "sparse desert vegetation",
+    "clear sky",
+    "multiple large, jagged rocks",
+    "rocks levitating above the terrain"
+  ]
+}

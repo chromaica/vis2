@@ -1,0 +1,24 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "MMORPG dungeon raid scene showing a party of five diverse fantasy characters (tank, healer, mages, rogue) fighting a massive crystal golem boss in an ancient underground temple. Include party health/mana bars, aggro indicators, loot rolls, chat window, skill rotation timers, and boss mechanics warnings. Epic lighting with magical effects",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "An MMORPG dungeon raid scene, rendered as a game screenshot. A diverse party of five fantasy characters (a tank, a healer, two mages, and a rogue) are actively fighting a massive, glowing crystal golem boss within an ancient, crumbling underground temple. The scene features epic, dramatic lighting with dynamic magical spell effects emanating from characters and the boss.\n\nCrucial UI elements are overlaid:\n*   **Top-left:** Party frames displaying individual health and mana bars for all five characters.\n*   **Top-center:** A large boss health bar with a distinct aggro indicator.\n*   **Bottom-left:** A transparent chat window displaying recent messages.\n*   **Bottom-center:** An action bar showing skill cooldown timers for abilities in rotation.\n*   **Bottom-right:** A small pop-up window displaying loot roll results.\n*   **Near top-center:** A prominent on-screen warning alert for an incoming boss mechanic.",
+  "annotator": "theblackcat",
+  "objects": [
+    "MMORPG dungeon raid scene",
+    "Diverse party of five fantasy characters",
+    "Massive, glowing crystal golem boss",
+    "Ancient, crumbling underground temple",
+    "Dynamic magical spell effects",
+    "Top-left: Party frames with health and mana bars",
+    "Top-center: Large boss health bar with aggro indicator",
+    "Bottom-left: Transparent chat window",
+    "Bottom-center: Action bar with skill cooldown timers",
+    "Near top-center: Prominent on-screen warning alert"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

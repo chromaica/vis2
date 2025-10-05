@@ -1,0 +1,20 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Image Transformation",
+  "prompt": "Add the player in the reference image to the left of the source image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Add the player shown in image 2 to the left of the player already present in image 1. The added player should visually align with the style and appearance of the player in image 2.",
+  "annotator": "nimajamali",
+  "objects": [
+    "Player in a yellow Lakers jersey (from Image 1)",
+    "Player in a yellow Lakers jersey (from Image 2), positioned to the left of the first player",
+    "Basketball court",
+    "Spectators in the background",
+    "Distinctive physical appearance of the player from Image 2 (e.g., beard, tattoos, arm sleeves)"
+  ]
+}

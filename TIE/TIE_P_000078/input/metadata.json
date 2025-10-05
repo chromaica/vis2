@@ -1,0 +1,19 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "replace the salmon with toro slice",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Replace the salmon nigiri with a toro slice, maintaining its current position and the chopsticks holding it.",
+  "annotator": "theblackcat",
+  "objects": [
+    "toro slice",
+    "chopsticks",
+    "light-colored background with vertical lines",
+    "salmon nigiri (should not be present)"
+  ],
+  "human_annotation": true
+}

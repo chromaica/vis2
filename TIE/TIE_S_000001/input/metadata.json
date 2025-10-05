@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": "Replace the background of the website with plain white color.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the entire background of the Microsoft Bing homepage content area with a solid plain white color. All existing elements, including the search bar, logos, news tiles, browser top bar, and side bar, should remain unchanged.",
+  "annotator": "cwhsu",
+  "objects": [
+    "solid plain white background",
+    "leopards background image (should not be present)",
+    "browser top bar",
+    "side bar",
+    "Microsoft Bing logo",
+    "search bar",
+    "news tiles",
+    "top navigation links (e.g., Copilot, Images, Videos)",
+    "user profile and settings section",
+    "footer content elements (e.g., Discover, Celebrating motherhood feline style)"
+  ]
+}

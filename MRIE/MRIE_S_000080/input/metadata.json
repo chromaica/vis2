@@ -1,0 +1,27 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "Edit image 1 by replacing the first red bird (the most left bird) in the slingshot queue with the yellow bird from image 2 and replacing the pause circle button on the top left of the screen with the the dollar icon from image 3. Match all sizes and alignments to the perspective of the original layout. All other elements should remain as-is.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the red bird positioned at the front of the slingshot queue with the yellow bird from image 2. Additionally, replace the circular pause button located in the top-left corner of the screen with the dollar icon from image 3. Ensure the scale, perspective, and alignment of the new elements accurately match the original layout of image 1. All other elements within image 1 must remain unchanged.",
+  "annotator": "parnian",
+  "objects": [
+    "Yellow bird, at the front of the slingshot queue",
+    "Dollar icon, in the top-left corner",
+    "Red bird (should not be present)",
+    "Circular pause button (should not be present)",
+    "Slingshot",
+    "Blue bird in the slingshot",
+    "Grass",
+    "Dark blue ground",
+    "Sky",
+    "Highscore and Score text"
+  ],
+  "human_annotation": true
+}

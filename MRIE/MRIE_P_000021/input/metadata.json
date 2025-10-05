@@ -1,0 +1,24 @@
+{
+  "task": "MRIE",
+  "topic": "P",
+  "subtopic": "Wildlife & Nature Photography",
+  "prompt": "Replace the background horse with the black cat from the second image. Change the entire background to be like the third image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the horse in the background of image 1 with the dark-furred cat from image 2, ensuring it is realistically integrated behind the foreground horse. Then, change the entire background of image 1 to reflect the snowy forest road environment shown in image 3, including the bare trees and bright sunlit path.",
+  "annotator": "boris",
+  "objects": [
+    "foreground horse",
+    "horse in the background (should not be present)",
+    "dark-furred cat behind the foreground horse",
+    "snowy forest road environment",
+    "bare trees",
+    "bright sunlit path",
+    "snow",
+    "sunlight"
+  ]
+}

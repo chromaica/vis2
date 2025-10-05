@@ -1,0 +1,24 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "Chang ethe text to uppercase.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Ensure all textual elements, including the main headline 'We Can Do It!' at the top, the date 'POST FEB. 15 TO FEB. 20' at the bottom left, and the committee name 'WAR PRODUCTION CO-ORDINATING COMMITTEE' at the bottom right, are rendered entirely in uppercase characters. Maintain the original font style, size, and color for all text, referencing image 2 for the overall graphic style.",
+  "annotator": "matina",
+  "objects": [
+    "Rosie the Riveter character",
+    "Speech bubble graphic",
+    "Yellow background field",
+    "Blue surrounding border",
+    "Headline text \"WE CAN DO IT!\"",
+    "Date text \"POST FEB. 15 TO FEB. 20\"",
+    "Committee name text \"WAR PRODUCTION CO-ORDINATING COMMITTEE\"",
+    "Artist's signature in bottom left",
+    "Circular emblem/logo in bottom right"
+  ]
+}

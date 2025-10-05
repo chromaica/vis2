@@ -1,0 +1,24 @@
+{
+  "subtopic": "3D renders",
+  "prompt": "Add realistic landscaping elements including a lawn, flower beds, bushes, and a few trees around the building.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751814433714,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1. Transform the plain ground surrounding the white building into a realistic, vibrant landscape. Add a lush, manicured green lawn extending from the base of the building into the foreground. Integrate colorful flower beds and dense, varied bushes immediately around the building's foundation and along the edges of the lawn. Include a few tall, mature trees placed strategically to the left and right of the building, providing a natural backdrop and enhancing the overall realistic outdoor environment.",
+  "annotator": "edisy",
+  "objects": [
+    "white building",
+    "realistic landscape",
+    "lush, manicured green lawn",
+    "colorful flower beds",
+    "dense, varied bushes",
+    "tall, mature trees (placed to the left and right of the building)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

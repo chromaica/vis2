@@ -1,0 +1,23 @@
+{
+  "subtopic": "Digital arts",
+  "prompt": "In image 1, use the green, pink and red colors (from image 2) to be the layers of sun from outer to inner. Then, for the sea and wave, use the remaining two colors (black and brown) from image 2.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748668035270,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1. Apply colors from image 2 as follows:\nFor the concentric arc layers representing the sun in the upper part of image 1, use the light green (CEDD8B) for the outermost layer, the light pink (FFECE9) for the middle layer, and the dark red (B93752) for the innermost layer. For the horizontal layers representing the sea in the lower part of image 1, replace the existing blue with an alternating pattern using the dark grey (434343) and brown (B58A60) colors from image 2.",
+  "annotator": "kellycyy",
+  "objects": [
+    "Sun-like concentric arcs with a light green outermost layer",
+    "Sun-like concentric arcs with a light pink middle layer",
+    "Sun-like concentric arcs with a dark red innermost layer",
+    "Horizontal layers representing the sea with an alternating dark grey and brown pattern",
+    "Light grey background"
+  ],
+  "human_annotation": true
+}

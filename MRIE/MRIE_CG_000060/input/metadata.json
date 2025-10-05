@@ -1,0 +1,29 @@
+{
+  "subtopic": "Depth maps",
+  "prompt": "Edit image 1: Replace the fox with the realistic stag from image 2. Add the cartoon chickens from image 3 near the foreground trees. Adjust the scene's depth perception to highlight the new elements and enhance the foreground/background separation.",
+  "cond_images": [
+    "1.jpeg",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748455909236,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1: Remove the curled-up fox and replace it with the realistic stag from image 2, positioning the stag where the fox was located. Add the cartoon hen and chicks from image 3 to the left side of the foreground, at the base of the prominent golden tree on the left. Enhance the depth of field to sharply define the foreground elements, including the newly added stag and chickens, from the background, thereby increasing visual separation.",
+  "annotator": "winston",
+  "objects": [
+    "curled-up fox (should not be present)",
+    "realistic stag, positioned where the fox was",
+    "cartoon hen, on the left side of the foreground, at the base of the prominent golden tree",
+    "chicks, on the left side of the foreground, at the base of the prominent golden tree",
+    "prominent golden tree on the left",
+    "background trees and vegetation",
+    "sky",
+    "sharply defined foreground elements",
+    "visually separated background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

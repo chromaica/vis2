@@ -1,0 +1,23 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Add textured paper background and vintage font, creating an old manuscript feel for the narrative graph sections.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the solid blue background with a textured paper background. Change the font of all text elements on the graph, specifically 'Exposition', 'Inciting Incident', 'Rising Action', 'Midpoint', 'Climax', 'Denouement', 'ACT 1', 'ACT 2', and 'ACT 3', to a vintage font style. The overall aesthetic should convey the look and feel of an old manuscript.",
+  "annotator": "cwhsu",
+  "objects": [
+    "solid blue background (should not be present)",
+    "textured paper background",
+    "story arc graph (red/pink filled area)",
+    "horizontal baseline",
+    "white circular markers on the graph",
+    "dashed vertical dividing lines",
+    "arrows",
+    "text labels 'Exposition', 'Inciting Incident', 'Rising Action', 'Midpoint', 'Climax', 'Denouement' (in vintage font style)",
+    "text labels 'ACT 1', 'ACT 2', 'ACT 3' (in vintage font style)"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "Replace all the text with the font and style from the second image. Then, replace all the arrow heads with the arrow heads from the third image.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 (the technical diagram). Replace all existing textual graphics with the font and style demonstrated in image 2 (the 'Halifax' font sample). Subsequently, replace all arrowheads throughout image 1 with the solid, filled arrowhead style shown in image 3.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Technical diagram layout",
+    "Lines in the diagram",
+    "Circles in the diagram",
+    "Rectangular terminals numbered 1 through 20",
+    "Switches and contacts (momentary and maintained)",
+    "Numerical labels (e.g., 1-20, (1) to (5))",
+    "Textual graphics in Halifax font style (e.g., \"Figure 2.7 TB2 Designations\", \"Remote Pot\", \"Source\", \"Common\", etc.)",
+    "Solid, filled arrowheads",
+    "Wavy lines (for shielding/wires)",
+    "\"User Side\" label (in Halifax font, vertically oriented)"
+  ]
+}

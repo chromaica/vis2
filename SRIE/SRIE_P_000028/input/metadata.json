@@ -1,0 +1,23 @@
+{
+  "task": "SRIE",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Replace the cup in the source image with the cup from the reference image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the white cup containing coffee, located in the foreground between the hands and the book in image 1, with the design and appearance of the white cup shown in image 2. Ensure the replaced cup maintains the photorealistic style, current contents (coffee), and appropriate lighting and perspective from image 1.",
+  "annotator": "nimajamali",
+  "objects": [
+    "Hands holding an open book",
+    "Open book with text pages",
+    "Textured green surface",
+    "White cup with the design and appearance from image 2, located in the foreground between the hands and the book",
+    "Coffee inside the white cup",
+    "Photorealistic visual style",
+    "Lighting consistent with image 1",
+    "Perspective consistent with image 1"
+  ]
+}

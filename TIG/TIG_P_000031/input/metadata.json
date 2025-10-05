@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Minimalist Designs",
+  "prompt": "A serene landscape with a solitary tree at dawn, painted in soft pastel colors with a gradient sky.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A tranquil, photorealistic landscape at dawn. A solitary tree stands prominently in the middle ground. The scene is bathed in soft, diffused light, imbued with a delicate palette of pastel hues, and features a breathtaking gradient sky smoothly transitioning from gentle pinks and purples to soft blues and light yellows.",
+  "annotator": "cwhsu",
+  "objects": [
+    "photorealistic landscape",
+    "dawn light",
+    "solitary tree in the middle ground",
+    "soft, diffused light",
+    "pastel color palette",
+    "gradient sky",
+    "sky with gentle pink hues",
+    "sky with purple hues",
+    "sky with soft blue hues",
+    "sky with light yellow hues"
+  ]
+}

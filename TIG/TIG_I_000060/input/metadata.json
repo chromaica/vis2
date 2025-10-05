@@ -1,0 +1,24 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "visualize a decision tree for medical diagnosis with branching pathways, probability percentages at each node, colored outcome leaves (green=healthy, yellow=monitor, red=urgent), and stethoscope icons",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a top-down medical diagnosis decision tree diagram. The tree should feature clearly defined branching pathways connecting nodes. Each internal node (non-leaf) must include a medical diagnostic question/condition and display a numerical probability percentage directly below or within it. The terminal leaf nodes should be distinct shapes (e.g., rounded rectangles, circles) and color-coded: green labeled 'Healthy', yellow labeled 'Monitor', and red labeled 'Urgent'. Stethoscope icons should be subtly integrated throughout the diagram, emphasizing the medical context.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Top-down decision tree diagram",
+    "Internal nodes",
+    "Medical diagnostic questions/conditions (within internal nodes)",
+    "Numerical probability percentages (associated with internal nodes)",
+    "Branching pathways connecting nodes",
+    "Green leaf nodes labeled 'Healthy'",
+    "Yellow leaf nodes labeled 'Monitor'",
+    "Red leaf nodes labeled 'Urgent'",
+    "Rounded rectangle leaf nodes",
+    "Stethoscope icons"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

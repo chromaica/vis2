@@ -1,0 +1,26 @@
+{
+  "subtopic": "Collage",
+  "prompt": "Add the flowers in image 2 onto the empty space (near the shourlder and under the face of the person) in image 1.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748713630108,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1. Integrate the distinctive yellow coneflower-like blossoms and their green stems from image 2 into image 1. Place these elements in the light-colored space on the left side of the figure, specifically below the jawline and above the prominent red flowers, extending towards the shoulder area.",
+  "annotator": "kellycyy",
+  "objects": [
+    "Yellow coneflower-like blossoms",
+    "Green stems",
+    "Figure's profile (human head/face)",
+    "Light-colored space on the left side of the figure (below the jawline and above the prominent red flowers, extending towards the shoulder area)",
+    "Prominent red flowers",
+    "Abstract headpiece with mountains and architectural elements",
+    "Moon in the headpiece",
+    "Blue flower",
+    "Dark landscape base"
+  ]
+}

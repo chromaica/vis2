@@ -1,0 +1,24 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Stylized art",
+  "prompt": "Using the first image as the wonaman's face and the second image as a Cubist style reference, generate a stylized portrait that keeps the woman's identity but transforms it with geometric abstraction and bold shapes.",
+  "cond_images": [
+    "1.png",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a stylized portrait of the woman from image 1. Maintain her recognizable facial features and likeness while transforming the image using the Cubist artistic style, drawing inspiration specifically from image 2. The portrait should incorporate geometric abstraction, fragmented planes, bold outlines, and the characteristic color palette of image 2.",
+  "annotator": "samin",
+  "objects": [
+    "Stylized portrait of a woman",
+    "Facial features recognizable from image 1",
+    "Geometric abstraction",
+    "Fragmented planes",
+    "Bold outlines",
+    "Color palette featuring blues, grays, black, red, orange, and brown tones",
+    "Stylized dark brown hair",
+    "Blue eyes",
+    "Stylized flower or head accessory (inspired by image 2)"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "subtopic": "Microscopic imagery",
+  "prompt": "Edit image 1, a microscopic view of plant cells. Transform it by integrating areas with the dense cellularity and small, round nuclei from image 2. Also, incorporate sections featuring the elongated, striated fibers and spindle nuclei found in image 3. Apply a photorealistic color palette combining shades from both references.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749306773466,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "P",
+  "prompt_refined": "Edit image 1, a microscopic view of plant cells. Transform the image by integrating distinct areas: In the upper-left region, incorporate sections exhibiting the dense cellularity and small, round nuclei characteristic of image 2. In the lower-right region, introduce sections featuring the elongated, striated fibers and spindle nuclei found in image 3. The edits should maintain a photorealistic microscopic appearance. Apply a unified color palette that combines the dominant pink and purple shades from image 2 and image 3, ensuring these colors are integrated across the entire image while preserving the translucent, cellular structure of image 1.",
+  "annotator": "boris",
+  "objects": [
+    "Photorealistic microscopic appearance",
+    "Translucent cellular structures",
+    "Dense cellularity in the upper-left region",
+    "Small, round nuclei in the upper-left region",
+    "Elongated, striated fibers in the lower-right region",
+    "Spindle nuclei in the lower-right region",
+    "Pink color across the image",
+    "Purple color across the image"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

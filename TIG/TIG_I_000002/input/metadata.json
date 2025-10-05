@@ -1,0 +1,16 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "a symbol about alien beware icons : the alien looks like shrimp",
+  "cond_images": [],
+  "remarks": "make sure the alien head looks like a shrimp",
+  "prompt_refined": "A warning symbol featuring a stylized, shrimp-like alien, conveying caution or danger.",
+  "annotator": "theblackcat",
+  "objects": [
+    "warning symbol",
+    "stylized, shrimp-like alien"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

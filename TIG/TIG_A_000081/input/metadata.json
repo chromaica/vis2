@@ -1,0 +1,19 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "oil paintings",
+  "prompt": "An intimate oil painting of a cozy library, the warmth of candlelight flickering on ornate bookshelves filled with rich leather-bound books.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate an intimate oil painting depicting a cozy library, illuminated by the warm, flickering glow of candlelight. Ornate wooden bookshelves densely packed with rich, leather-bound books line the walls.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Library",
+    "Candlelight",
+    "Ornate wooden bookshelves",
+    "Leather-bound books",
+    "Books lining walls",
+    "Warm light",
+    "Flickering light"
+  ]
+}

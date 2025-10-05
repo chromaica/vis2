@@ -1,0 +1,27 @@
+{
+  "subtopic": "UI mockups",
+  "prompt": "Generate a UI mockup screen displaying information for a deep-sea submarine based on the provided image style. Make sure you should display relevant information about submarine in the dashboard.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://dillonbaird.io/articles/mutantDragon/1%2A5u59rZUvBdazKgDlc56oIA.png",
+  "promptGeneratedTimestamp": 1749893976053,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate a UI mockup screen for a deep-sea submarine dashboard, adopting the dark, modular, and high-tech interface style observed in image 1. The dashboard should display relevant submarine information and feature a central 3D model of a sleek, modern deep-sea submarine.\n\nEmulate image 1's layout and element types:\n-   **Top header:** Display \"SUBMARINE OVERVIEW\".\n-   **Left panel:** A vertical list of operational system status checks (e.g., \"Ballast Systems Check\", \"Propulsion Status\", \"Life Support Systems\").\n-   **Central top section:** Four large circular gauges with digital readouts for critical submarine parameters, such as \"Depth (m)\", \"Hull Pressure (PSI)\", \"Internal Temperature (C)\", and \"Oxygen Level (%)\".\n-   **Central mid-section:** Two smaller circular gauges for \"Battery Bank A (%)\" and \"Battery Bank B (%)\", accompanied by two power or motor RPM displays.\n-   **Right panel:** A vertical list displaying consumable or resource levels with horizontal progress bars and numerical values, including \"Primary Battery %\", \"Auxiliary Battery %\", \"Oxygen Supply (liters)\", and \"Ballast Water (tons)\".\n-   **Lower-middle section:** A \"Sensor Status\" panel listing active sensors (e.g., \"Sonar\", \"Lidar\", \"ROV Camera\").\n-   **Bottom bar:** Mimic the control panel from image 1, featuring \"FUNCTIONS\" and \"ALERTS\" buttons on the left, a horizontal row of submarine-specific icon-labeled controls (e.g., \"Navigation\", \"Sonar\", \"Life Support\", \"Emergency\"), and relevant status text like \"Current State: Deep Dive Exploration\" and \"Mode: Automated Navigation\".",
+  "annotator": "thomas-chong",
+  "objects": [
+    "UI mockup screen for a deep-sea submarine dashboard",
+    "Central 3D model of a sleek, modern deep-sea submarine",
+    "Top header displaying \"SUBMARINE OVERVIEW\"",
+    "Left panel with vertical list of operational system status checks",
+    "Four large circular gauges in the central top section for \"Depth (m)\", \"Hull Pressure (PSI)\", \"Internal Temperature (C)\", and \"Oxygen Level (%)\"",
+    "Central mid-section with two smaller circular gauges for \"Battery Bank A (%)\" and \"Battery Bank B (%)\", accompanied by two power or motor RPM displays",
+    "Right panel with vertical list displaying consumable or resource levels with horizontal progress bars",
+    "Lower-middle section \"Sensor Status\" panel listing active sensors",
+    "Bottom bar with \"FUNCTIONS\" and \"ALERTS\" buttons on the left",
+    "Bottom bar with a horizontal row of submarine-specific icon-labeled controls"
+  ],
+  "human_annotation": true
+}

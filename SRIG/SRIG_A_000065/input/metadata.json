@@ -1,0 +1,26 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Stylized art",
+  "prompt": "Looking down over a clockwork city according to city map",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate an immersive, high-angle aerial view of a sprawling clockwork city. The entire urban landscape, including its streets, districts, and major structures, should meticulously replicate the complex, gears-and-cogs-like layout and intricate patterns depicted in the vintage map in image 1. Visualize the city's architecture and infrastructure as if physically built directly from the detailed blueprint of image 1, seen from above.",
+  "annotator": "Johnny",
+  "objects": [
+    "sprawling clockwork city",
+    "high-angle aerial view",
+    "intricate street network",
+    "distinct city districts",
+    "large circular city structures",
+    "clockwork-themed architecture",
+    "gears and cogs integrated into the cityscape",
+    "detailed mechanical buildings",
+    "complex city infrastructure",
+    "patterned pathways and conduits"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

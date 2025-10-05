@@ -1,0 +1,27 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Create a new image where the individual from the second image is seamlessly integrated into the scene of the first image, as though they are visiting that location. Preserve the person's original appearance and attire, and ensure they are naturally positioned within the context of the first image's setting.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a new photorealistic image. Seamlessly place the man from image 2 into the scene of Merlion Park from image 1. Position him standing naturally on the steps or paved area near the water's edge, on the right side of the Merlion statue, as if he is a visitor observing the landmark. Preserve his exact appearance, including his blue jacket, grey shirt, and glasses as seen in image 2. Ensure his scale, lighting, and perspective are consistent with the surrounding environment of image 1 for a truly natural and integrated look.",
+  "objects": [
+    "The man from image 2",
+    "Blue jacket on the man",
+    "Grey shirt on the man",
+    "Glasses on the man",
+    "Merlion statue",
+    "Water with spray from Merlion",
+    "Steps or paved area near water's edge",
+    "Skyscrapers in the background",
+    "Blue sky",
+    "The man positioned on the right side of the Merlion statue"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

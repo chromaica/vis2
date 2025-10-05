@@ -1,0 +1,21 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "an image showing the cellular structure of the plant leaf in the provided reference. Visualize the leaf's epidermal cells, stomata, and trichomes, with fine details and textures. ",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic microscopic image showcasing the cellular structure of an oak leaf, consistent with the leaf type depicted in image 1. The image should clearly visualize the intricate epidermal cells, open stomata, and prominent trichomes, all rendered with exceptional fine details and biologically accurate textures.",
+  "annotator": "samin",
+  "objects": [
+    "Microscopic view of an oak leaf",
+    "Oak leaf cellular structure",
+    "Epidermal cells",
+    "Open stomata",
+    "Trichomes"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

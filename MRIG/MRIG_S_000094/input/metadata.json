@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "Generate a screenshot of a horror game scene where the horror character from the first image is present within the environment shown in the second image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a high-quality screenshot for a horror video game. The scene depicts the emaciated, multi-limbed humanoid creature with glowing eyes and exposed flesh, as seen in image 1. This creature is standing within the derelict, grimy operating room from image 2, specifically near the central surgical examination chair and medical equipment. The room features dirty tiled floors, dark, decaying walls, and a general atmosphere of eerie desolation, illuminated by the dim, cool light of the room with emphasis on strong shadows.",
+  "annotator": "paria",
+  "objects": [
+    "Emaciated, multi-limbed humanoid creature",
+    "Glowing eyes",
+    "Exposed flesh",
+    "Derelict, grimy operating room",
+    "Central surgical examination chair",
+    "Medical equipment",
+    "Dirty tiled floors",
+    "Dark, decaying walls",
+    "Dim, cool light",
+    "Strong shadows"
+  ]
+}

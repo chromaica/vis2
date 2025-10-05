@@ -1,0 +1,26 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Image Transformation",
+  "prompt": "Switch the position of the two selected cars, adjusting and scaling them according to their new positions.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 2, using image 1 as a visual reference for the scene's context and lighting. Swap the positions of the two cars highlighted with green boxes: move the silver car from its current position on the left foreground to the location currently occupied by the black car on the right mid-ground. Simultaneously, move the black car from its current position on the right mid-ground to the location currently occupied by the silver car on the left foreground. Ensure both cars are correctly scaled and adjusted for realistic perspective and seamless integration into their new positions.",
+  "annotator": "nimajamali",
+  "objects": [
+    "Street",
+    "Houses along the street",
+    "Trees and bushes along the street",
+    "Utility poles",
+    "Clear sky",
+    "Silver car on the right mid-ground",
+    "Black car on the left foreground",
+    "Dark grey pickup truck on the right foreground",
+    "Parked cars on the left",
+    "Parked cars further down the street"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,24 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": "A comic book panel ending: display the phrase 'TO BE CONTINUED...' in bold, classic comic book lettering. The text should have a bright white fill and a thick, dynamic red outline, slightly skewed as if part of an action scene. The background includes a subtle halftone dot pattern and faded visual elements hinting at the end of a dramatic story arc.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a comic book panel. The phrase 'TO BE CONTINUED...' is prominently displayed in the center, rendered in bold, classic comic book lettering. The text features a bright white fill with a thick, dynamic red outline, slightly skewed to suggest motion or action. The background behind the text exhibits a subtle halftone dot pattern and faded, atmospheric visual elements, hinting at the conclusion of a dramatic storyline.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "comic book panel",
+    "the phrase \"TO BE CONTINUED...\"",
+    "phrase displayed in the center",
+    "bold, classic comic book lettering",
+    "bright white text fill",
+    "thick, dynamic red text outline",
+    "slightly skewed text",
+    "subtle halftone dot pattern background",
+    "faded, atmospheric visual elements",
+    "visual elements hinting at a dramatic storyline conclusion"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

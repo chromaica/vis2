@@ -1,0 +1,26 @@
+{
+  "subtopic": "Comics",
+  "prompt": "Edit image 1: Replace the text in the top dialogue bubble with 'Look at that graphic style!' rendered using the colorful, geometric style from image 2. Replace the text in the bottom dialogue bubble with 'It's so complicated!' using a font similar to the script text in image 3.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1750178589114,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "T",
+  "prompt_refined": "Edit image 1, which depicts two figures conversing on a beach with speech bubbles. In the top-left speech bubble, replace the existing text with 'Look at that graphic style!'. Render this new text using the distinctive colorful, geometric, and layered graphic style from image 2. In the bottom-right speech bubble, replace the existing text with 'It's so complicated!'. Render this new text using a calligraphic or script font style similar to the word 'complicated' in image 3.",
+  "annotator": "winston",
+  "objects": [
+    "Beach landscape (including sand, ocean, sky, and vegetation)",
+    "Two conversing figures",
+    "Speech bubble in the top-left",
+    "Speech bubble in the top-right",
+    "Speech bubble in the bottom-right",
+    "Text \"Look at that graphic style!\" in colorful, geometric, layered style (in top-left speech bubble)",
+    "Text \"It's so complicated!\" in calligraphic/script style (in bottom-right speech bubble)",
+    "Text \"YES, THE FIRST PLAY I WROTE AS A GIFT FOR...YOUR FRIENDS...\" (in top-right speech bubble)"
+  ]
+}

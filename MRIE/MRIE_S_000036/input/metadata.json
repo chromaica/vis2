@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "Edit image 1 by overlaying the red '50% OFF' badge from image 2 on the upper right corner of the 'Expenses' section without covering the dollar amount. Then, replace the app name 'Finance' at the top with the TD logo from image 2 resized to match the original font height. Do not modify any numerical values or chart positions.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, which displays a finance application screenshot. Overlay the red '50% OFF' badge from image 2 onto the upper right corner of the 'Expenses' section, ensuring it does not obscure the '$1,429' dollar amount or the adjacent '+' button. Additionally, replace the 'Finance' app name located at the top center of image 1 with the green TD logo from image 3. The TD logo should be resized to match the original 'Finance' text height and maintain its aspect ratio. Do not modify any other numerical values, text, or chart positions within image 1.",
+  "annotator": "parnian",
+  "objects": [
+    "Red '50% OFF' badge on the upper right corner of the 'Expenses' section",
+    "Green TD logo at the top center",
+    "'Finance' app name (should not be present)",
+    "Finance application screenshot user interface (general layout, cards, icons)",
+    "App status bar (time, signal, battery)",
+    "\"$24,847 Current Balance\" text",
+    "'Expenses' section card with '$1,429' dollar amount and '+' button visible",
+    "'Income' section card",
+    "'Goal (3)' section card",
+    "\"LATEST TRANSACTIONS\" text"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Cultural or Heritage art",
+  "prompt": "Create a heritage-inspired image embedding the motifs from image 1 into the landscape of image 2, as if the land itself is woven with cultural memory.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a landscape image where the geographical features from image 2, including mountains and hills, are intrinsically textured and colored with the vibrant, geometric woven patterns found in image 1. Apply the distinct motifs and rich color palette (red, orange, yellow, blue, white, black, maroon) from image 1 directly onto the surfaces and contours of the landscape, making the terrain appear as if it is naturally formed from the intricate cultural patterns, akin to a vast, living textile.",
+  "annotator": "samin",
+  "objects": [
+    "landscape image",
+    "mountains textured with woven patterns",
+    "hills textured with woven patterns",
+    "vibrant, geometric woven patterns",
+    "distinct motifs from image 1",
+    "red color palette",
+    "orange color palette",
+    "yellow color palette",
+    "blue color palette",
+    "white, black, and maroon color palette"
+  ]
+}

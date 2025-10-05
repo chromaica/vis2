@@ -1,0 +1,21 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "Generate a animated girl with long, curly hair.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate an animated girl from image 1, depicted in a vibrant, artistic style. The image should feature the girl with very long, voluminous, curly hair that flows down around her head and shoulders, mirroring the striking silhouette and general composition of image 1.",
+  "annotator": "Johnny",
+  "objects": [
+    "animated girl",
+    "very long hair",
+    "voluminous hair",
+    "curly hair",
+    "hair flowing around head and shoulders",
+    "silhouette matching image 1"
+  ],
+  "human_annotation": true
+}

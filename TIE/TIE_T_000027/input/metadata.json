@@ -1,0 +1,20 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Replace background with lines of crashing CUDA logs, and overlay top text \u2018Not sure if GPU busy\u2019 and bottom text \u2018or driver issues\u2019.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the entire background with dense, chaotic lines of crashing CUDA logs. Replace the existing top text with 'Not sure if GPU busy'. Replace the existing bottom text with 'or driver issues'. Ensure the new text is overlaid in a white font with a black outline, positioned similarly to the original text at the top and bottom of the image, maintaining the character's central and clear visibility.",
+  "annotator": "matina",
+  "objects": [
+    "Character from the original image",
+    "Dense, chaotic lines of crashing CUDA logs background",
+    "Text \"Not sure if GPU busy\" in white font with black outline at the top",
+    "Text \"or driver issues\" in white font with black outline at the bottom",
+    "Existing top text \"Not sure if too genius to understand\" (should not be present)",
+    "Existing bottom text \"OR JUST DOESN'T MAKE SENSE\" (should not be present)"
+  ]
+}

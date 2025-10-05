@@ -1,0 +1,27 @@
+{
+  "subtopic": "Object detection visuals",
+  "prompt": "Create a visual for object detection, featuring objects like the brush and bottles from image 1. Use the clean, isolated presentation and solid background color concept from image 2.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748424788667,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate an image for object detection. Include the round wooden hairbrush and various toiletries and cosmetic bottles from image 1. Present these items individually isolated and clearly visible against a solid, uniform background, adopting the clean, minimalist, and uncluttered presentation style seen in image 2.",
+  "annotator": "winston",
+  "objects": [
+    "round wooden hairbrush",
+    "blue-green cosmetic bottle",
+    "orange cosmetic bottle",
+    "white cosmetic bottle",
+    "clear cosmetic bottle with white cap",
+    "purple cosmetic bottle",
+    "small clear cosmetic bottle with gold cap",
+    "individually isolated objects",
+    "clearly visible objects",
+    "solid, uniform background"
+  ]
+}

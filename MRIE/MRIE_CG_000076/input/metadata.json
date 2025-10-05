@@ -1,0 +1,26 @@
+{
+  "subtopic": "Depth maps",
+  "prompt": "Edit image 1, transforming the flat car outline into a realistically rendered 3D model. Using the depth cues, lighting, reflections, and material style of image 3, infer the volume and surface details. Incorporate feature complexity inspired by the outline in image 2, applying the realistic rendering aesthetic from image 3 to achieve a depth map guided output.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748456304771,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1, transforming the flat black silhouette of the car into a photo-realistic 3D rendered model. Adopt the realistic depth cues, lighting, reflections, and material style (e.g., metallic paint, glossy surfaces) from image 3 to infer the car's volume, surface details, and textures. Incorporate intricate feature complexity, such as detailed grilles, headlights, and contours, drawing inspiration from the level of detail present in the silhouette of image 2, while ensuring these details are consistent with the vintage car's original form from image 1. The final output must be a highly detailed 3D rendering that exhibits precise volume and photo-realistic depth, reflecting the overall aesthetic of image 3.",
+  "annotator": "winston",
+  "objects": [
+    "Photo-realistic 3D rendered vintage car",
+    "Metallic paint on the car",
+    "Glossy surfaces on the car",
+    "Detailed grilles on the car",
+    "Detailed headlights on the car",
+    "Reflections of the car",
+    "Reflective ground surface",
+    "Twilight sky (with purple/orange hues)"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "subtopic": "UI mockups",
+  "prompt": "Create an information graphic showing UI mockups on a screen (like image 2), incorporating specific concepts and icons related to UI design from the right side of image 1 (e.g., Layouts, Typography, Colors). Use the clean, minimalist illustration style of image 2.",
+  "cond_images": [
+    "1.jpeg",
+    "2.png"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "Information Graphics UI mockups",
+  "searchQueryGeneratedTimestamp": 1751989971577,
+  "promptGeneratedTimestamp": 1751990249730,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "I",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a new information graphic using the clean, minimalist illustration style of image 2. The central focus should be a computer screen, resembling the UI design illustration on the right side of image 2, displaying generic UI mockups (e.g., mobile phone interfaces). Around or clearly associated with this screen, incorporate the specific UI design concepts and their corresponding icons from the right side of image 1, such as 'Layouts', 'Typography', and 'Colors'. Ensure these conceptual elements are distinctly labeled and presented alongside their respective icons to form a cohesive information graphic.",
+  "objects": [
+    "computer screen (central focus)",
+    "generic UI mockups on the screen (including mobile phone interfaces)",
+    "hand interacting with the screen (similar to image 2)",
+    "'Layouts' text label",
+    "'Layouts' icon (from image 1)",
+    "'Typography' text label",
+    "'Typography' icon (from image 1)",
+    "'Colors' text label",
+    "'Colors' icon (from image 1)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

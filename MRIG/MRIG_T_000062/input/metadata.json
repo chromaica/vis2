@@ -1,0 +1,27 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Generate and design a fashion label logo using the floral outline in the first image and the bold monogram from the second image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a fashion label logo. The design should feature a bold, prominent monogram, similar in style to the 'LV' motif from image 2, positioned centrally. This monogram should be elegantly framed by or intricately intertwined with ornate, stylized floral elements, inspired by the detailed botanical patterns and flowing lines found within image 1.",
+  "annotator": "parnian",
+  "objects": [
+    "bold, prominent monogram",
+    "centrally positioned monogram",
+    "ornate floral elements",
+    "stylized botanical patterns",
+    "flowing lines and vines",
+    "floral elements framing monogram",
+    "floral elements intertwined with monogram",
+    "dark blue background",
+    "teal color accents",
+    "cream and gold color accents"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

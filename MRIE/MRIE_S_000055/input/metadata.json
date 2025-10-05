@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Forms and Authentication",
+  "prompt": "Edit image 1 by inserting the eye-off icon from image 2 inside the password field on the right end, aligned vertically with the field text scaled proportionally to match surrounding UI elements. Also, above the 'LOGIN' button, add the red error message box from image 3, keeping it full width and centered. Do not alter field spacing or button alignment. All other aspects of the source image should remain unchanged.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, which is a UI login screen. Insert the eye-off icon from image 2 into the right end of the 'Password' input field. Vertically align the icon with the 'Password' text and scale it proportionally to match surrounding UI elements. Additionally, above the 'LOGIN' button, add the red error message box from image 3. This error box should be centered horizontally and span the full width of the central login panel. Ensure no alterations are made to the existing field spacing or button alignment. All other aspects of image 1 must remain unchanged.",
+  "annotator": "parnian",
+  "objects": [
+    "Dark blue background",
+    "Central rounded rectangular login panel",
+    "User profile icon",
+    "\"Email ID\" input field with envelope icon",
+    "\"Password\" input field with lock icon",
+    "Eye-off icon in the 'Password' input field",
+    "Red error message box above the 'LOGIN' button",
+    "\"LOGIN\" button",
+    "\"Forgot Password?\" text",
+    "\"REGISTER\" button"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Traditional art",
+  "prompt": "In image 1, replace the white umbrella with the colorful rainbow from image 2, and set the background to image 3.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Replace the white umbrella, held by the woman over her right shoulder, with the colorful, multi-sectioned umbrella from image 2. Concurrently, transform the dark, plain background of image 1 into the vibrant, impressionistic outdoor market and festival scene depicted in image 3.",
+  "annotator": "paria",
+  "objects": [
+    "Woman in a white dress",
+    "Colorful, multi-sectioned umbrella",
+    "Vibrant, impressionistic outdoor market scene",
+    "Festival scene elements",
+    "Market stalls",
+    "Crowd of people",
+    "Festival lights",
+    "Flags and banners",
+    "Large spherical structure (e.g., hot air balloon or Ferris wheel)",
+    "Buildings in the market background"
+  ]
+}

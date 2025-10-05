@@ -1,0 +1,26 @@
+{
+  "subtopic": "Software interfaces",
+  "prompt": "Generate a chatbot system UI screenshot with a 3D cartoon avatar portrait profile view, using the clean rendering style and friendly expression from the reference image.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://www.awazthevoice.in/upload/news/1660973655mark.jpg",
+  "searchQueryGenerated": "professional software interface screenshot high resolution",
+  "searchQueryGeneratedTimestamp": 1749434596992,
+  "promptGeneratedTimestamp": 1749434655886,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a screenshot of a chatbot system user interface. The UI must include a 3D cartoon avatar, presented as a head-and-shoulders portrait, matching the slightly turned perspective, clean rendering style, and friendly, subtle smile of the avatar in image 1. The avatar should be clearly integrated within the UI, serving as a profile picture or primary chatbot persona.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Chatbot system user interface",
+    "3D cartoon avatar",
+    "Head-and-shoulders portrait of the avatar",
+    "Avatar with a slightly turned perspective",
+    "Avatar with a clean rendering style",
+    "Avatar with a friendly, subtle smile",
+    "Avatar integrated within the UI as a profile picture or primary chatbot persona"
+  ],
+  "human_annotation": true
+}

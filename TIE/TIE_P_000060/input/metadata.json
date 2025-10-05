@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "remove the 'A' labeled food from the image, keep C, D, F, B, E intact do not remove them",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Remove the oyster labeled 'A' located at the bottom-left of the large food bowl. Ensure that all other food items visible in the image, including those labeled 'B' (white fish), 'C' (scallop/squid), 'D' (textured food), 'E' (chawanmushi in a small bowl), and 'F' (salmon sashimi), remain completely intact and undisturbed.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Oyster labeled 'A' (should not be present)",
+    "White fish labeled 'B'",
+    "Scallop/squid labeled 'C'",
+    "Textured food labeled 'D'",
+    "Chawanmushi in a small bowl labeled 'E'",
+    "Salmon sashimi labeled 'F'",
+    "Large food bowl",
+    "Chopsticks",
+    "Wasabi in small black rectangular dish",
+    "Pickled ginger in large food bowl"
+  ]
+}

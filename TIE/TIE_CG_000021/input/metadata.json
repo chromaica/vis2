@@ -1,0 +1,25 @@
+{
+  "subtopic": "Facial estimation and analysis",
+  "prompt": "Add the estimated age range and predominant emotion detected for each person below their gender label in the facial analysis box.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751761334100,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1. For each person depicted, add a new text line for 'ESTIMATED AGE RANGE:' and another new text line for 'PREDOMINANT EMOTION:' below their existing 'GENDER:' label. Ensure these new labels are placed within the white L-shaped facial analysis boxes and maintain the same visual style, font, color, and alignment as the current 'GENDER:' text.",
+  "annotator": "edisy",
+  "objects": [
+    "Woman with glasses and yellow sweater",
+    "Man with glasses, yellow beanie, and yellow t-shirt",
+    "Yellow background",
+    "White L-shaped facial analysis box around woman's face",
+    "White L-shaped facial analysis box around man's face",
+    "\"GENDER: Female\" text",
+    "\"GENDER: Male\" text",
+    "\"ESTIMATED AGE RANGE:\" text line for each person",
+    "\"PREDOMINANT EMOTION:\" text line for each person"
+  ]
+}

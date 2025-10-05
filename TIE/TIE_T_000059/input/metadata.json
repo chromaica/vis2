@@ -1,0 +1,26 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "On the scroll, show a glowing 0.0001 FID score; then in the throw-away panel, have him angrily hurl a giant torch.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. In the bottom-left panel (panel 3), replace the text on the scroll with a glowing \"0.0001 FID score\". In the bottom-right panel (panel 4), depict the character in the brown hat angrily hurling a giant torch.",
+  "annotator": "matina",
+  "objects": [
+    "Character in brown hat",
+    "Cave environment with crystals",
+    "Speech bubbles",
+    "Scroll of truth",
+    "Hands holding a scroll",
+    "Glowing \"0.0001 FID score\" text on scroll",
+    "Character in brown hat angrily hurling",
+    "Giant torch",
+    "\"BILL CIPHER\" text",
+    "\"Minasota is real\" text on scroll (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

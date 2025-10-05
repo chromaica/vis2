@@ -1,0 +1,26 @@
+{
+  "subtopic": "Software interfaces",
+  "prompt": "Redesign this chat application's interface to resemble an old-fashioned telegram, using a monospaced font, all-caps text, and the word 'STOP' between sentences.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://i.imgur.com/7XFcVYD.png",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate an image that transforms the chat application interface from image 1 into an old-fashioned telegram style. All text throughout the interface, including channel names on the left sidebar, usernames and messages in the main chat area, and the user list on the right, must use a monospaced font and be in all-caps. For chat messages in the main feed, insert the word 'STOP' at the conclusion of each sentence or distinct thought within the message, replacing standard punctuation, and ensure single-sentence messages also end with 'STOP' (e.g., 'HELLO STOP THIS IS A CHAT MESSAGE STOP'). The overall color scheme should shift to sepia tones, muted off-whites, and dark text, evoking aged paper. Simplify and stylize all graphical elements, such as user avatars, server icons, and embedded content previews, to match this vintage, monochromatic telegram aesthetic.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Overall chat application interface with sepia tone and aged paper aesthetic",
+    "Left sidebar with stylized channel names",
+    "Main chat area with stylized messages (including 'STOP' and monospaced, all-caps text)",
+    "Right sidebar with stylized user list",
+    "Stylized user avatars",
+    "Stylized server icons on the far left",
+    "Stylized embedded content previews (e.g., community list, images)",
+    "Stylized message input bar",
+    "Stylized top bar elements (server name, channel name, search bar)",
+    "Stylized date separators within the chat feed"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

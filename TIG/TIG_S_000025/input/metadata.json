@@ -1,0 +1,23 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "create a ui of showcasing neural network visualization with nodes pulsing as data flows through",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A screenshot of a dark-themed user interface displaying a sophisticated neural network visualization. The interconnected nodes within the network are actively glowing and appear to pulse with energy, while vibrant data flows visibly along the pathways connecting them.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Screenshot visual style",
+    "Dark-themed user interface",
+    "Neural network visualization",
+    "Interconnected nodes",
+    "Glowing nodes",
+    "Nodes appearing to pulse with energy",
+    "Pathways connecting nodes",
+    "Vibrant data flows",
+    "Data flowing along pathways"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

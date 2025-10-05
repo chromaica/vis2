@@ -1,0 +1,24 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "A collage style made up with newspaper with a heart shape in the center.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a new image: An artwork in a newspaper collage style, specifically incorporating the layered, folded, and crumpled textures from image 1. A prominent heart shape, also constructed from these newspaper elements, should be centrally positioned within the composition.",
+  "annotator": "Johnny",
+  "objects": [
+    "artwork",
+    "newspaper collage style",
+    "newspaper elements (overall composition)",
+    "layered newspaper textures",
+    "folded newspaper textures",
+    "crumpled newspaper textures",
+    "prominent heart shape",
+    "heart shape centrally positioned",
+    "heart shape constructed from newspaper elements"
+  ],
+  "human_annotation": true
+}

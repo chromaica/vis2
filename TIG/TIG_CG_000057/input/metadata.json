@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "Facial estimation and analysis",
+  "prompt": "A sports field scene around players, ball, goalpost, and referee. Plot labels on the players and referee's facial features.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate an image of a sports field scene, featuring multiple players, a ball, a goalpost, and a referee. Distinct plot labels must be displayed directly on the facial features of all players and the referee.",
+  "annotator": "maxku",
+  "objects": [
+    "sports field",
+    "multiple players",
+    "a ball",
+    "a goalpost",
+    "a referee",
+    "distinct plot labels on players' faces",
+    "distinct plot labels on the referee's face"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

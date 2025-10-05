@@ -1,0 +1,26 @@
+{
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "Render the distinct objects from image 2 (seashells, rock). Show their instance segmentation, visualized with sharp boundaries or color masks evoking the visual style of the prominent line in image 1, presented in a clean computer graphics aesthetic.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748424399501,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a computer graphics image depicting the distinct objects from image 2 (seashells and rock). For each object, create a clear instance segmentation. Visualize these segmentations using either sharp boundaries or solid color masks that evoke the prominent red, sharply defined luminous quality of the line in image 1. The overall presentation should maintain a clean, precise computer graphics aesthetic.",
+  "annotator": "winston",
+  "objects": [
+    "Multiple seashells",
+    "A rock",
+    "Instance segmentation for each seashell",
+    "Instance segmentation for the rock",
+    "Red coloration for the segmentations",
+    "Sharply defined segmentations",
+    "Luminous quality for the segmentations",
+    "Computer graphics aesthetic",
+    "Clean and precise presentation"
+  ]
+}

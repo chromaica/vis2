@@ -1,0 +1,23 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Cubism",
+  "prompt": "Crop and enlarge the painting in the picture. Fill the output with the painting.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Identify the abstract cubist-style portrait artwork within its silver frame. Crop this artwork to exclude the frame and the surrounding white background. Enlarge the cropped artwork so that it entirely fills the resulting image.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "abstract cubist-style portrait",
+    "geometric human face",
+    "abstracted suit",
+    "abstracted tie",
+    "muted blue, brown, and yellow color palette",
+    "checkered background pattern (within the artwork)",
+    "artist's signature \"JOHN CONNOR. 1965.\"",
+    "silver frame (should not be present)",
+    "white background (should not be present)"
+  ]
+}

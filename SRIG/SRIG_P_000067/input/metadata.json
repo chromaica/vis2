@@ -1,0 +1,24 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "A realistic view of a distant planet orbiting a star, with the planet\u2019s surface shaped according to the provided reference.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic, distant view of an exoplanet orbiting a bright star. The planet's entire surface must precisely replicate the heavily cratered, rugged, beige-tan rocky texture detailed in image 1, giving it the appearance of a moon-like celestial body. The distant star should be visible in the background, casting realistic shadows and highlights across the planet from the top-left.",
+  "annotator": "samin",
+  "objects": [
+    "exoplanet",
+    "bright star",
+    "heavily cratered exoplanet surface",
+    "rugged exoplanet surface",
+    "beige-tan rocky exoplanet texture",
+    "moon-like exoplanet appearance",
+    "distant view of celestial bodies",
+    "star visible in background",
+    "shadows on exoplanet from top-left",
+    "highlights on exoplanet from top-left"
+  ]
+}

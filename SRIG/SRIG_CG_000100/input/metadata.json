@@ -1,0 +1,22 @@
+{
+  "subtopic": "Depth maps",
+  "prompt": "Using this grayscale depth map reference, generate a photorealistic computer graphics rendering. Create a detailed still life scene translating the spatial distances and 3D structure defined by the depth map into a vivid color image.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0avrkCvSwsSwAmzAH1iZuDqtgxo0FjO12Xg&s",
+  "promptGeneratedTimestamp": 1748772555477,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a photorealistic computer graphics rendering of a detailed still life scene. Use image 1 as a grayscale depth map reference to precisely translate the spatial distances and 3D structure into a vivid color image. The scene should feature a central bottle, a human skull positioned to its right and slightly behind, and various fruits including a partially eaten apple, an avocado, and grapes, all arranged on a surface in the foreground.",
+  "annotator": "ishengfang",
+  "objects": [
+    "central bottle",
+    "human skull (positioned to its right and slightly behind the bottle)",
+    "partially eaten apple",
+    "avocado",
+    "grapes",
+    "surface (in the foreground)"
+  ]
+}

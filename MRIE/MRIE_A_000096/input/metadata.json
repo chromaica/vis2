@@ -1,0 +1,27 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Traditional art",
+  "prompt": "In image 1, replace the flower vase with the one from image 3, and replace the mirror frame with the one from image 2.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the existing white and blue flower vase on the ornate side table to the left with the ornate golden urn-shaped flower vase and its full floral arrangement as depicted in image 3. Additionally, replace the large ornate gilded mirror frame of the standing mirror with the more rectangular, darker wooden mirror frame from image 2.",
+  "annotator": "paria",
+  "objects": [
+    "Woman in pink dress",
+    "Ornate side table to the left",
+    "Standing mirror",
+    "Blue patterned wallpaper",
+    "Wooden floor",
+    "Ornate golden urn-shaped flower vase on the side table",
+    "Full floral arrangement in the urn-shaped vase",
+    "Rectangular, darker wooden mirror frame",
+    "White and blue flower vase (should not be present)",
+    "Large ornate gilded mirror frame (should not be present)"
+  ],
+  "human_annotation": true
+}

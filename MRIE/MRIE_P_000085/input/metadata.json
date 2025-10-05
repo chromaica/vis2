@@ -1,0 +1,30 @@
+{
+  "subtopic": "Medical images",
+  "prompt": "Edit image 1's cervical spine X-ray for enhanced clarity and detail using image 2's high resolution. Render the bones with the intricate texture and shading style from image 3, creating a detailed anatomical view.",
+  "cond_images": [
+    "1.jpeg",
+    "2.png",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749229056560,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "P",
+  "prompt_refined": "Edit the lateral cervical spine X-ray in image 1. Enhance its overall clarity and detail to match the high resolution and sharpness observed in image 2, specifically for the cervical vertebrae, skull, and mandible. Apply the distinct, intricate bone texture and pronounced shading style from image 3 directly onto these skeletal structures within the X-ray. The final output should be a highly detailed anatomical view of the cervical spine, integrating the original X-ray's luminescence with the advanced textural and shading enhancements, maintaining a photorealistic appearance akin to a sophisticated medical visualization.",
+  "annotator": "boris",
+  "objects": [
+    "Lateral cervical spine X-ray image",
+    "Skull (lateral view, highly detailed)",
+    "Mandible (lateral view, highly detailed)",
+    "Cervical vertebrae (highly detailed)",
+    "Intricate bone texture (applied to skeletal structures)",
+    "Pronounced shading (applied to skeletal structures)",
+    "Original X-ray luminescence",
+    "Photorealistic medical visualization style",
+    "Green measurement line (should not be present)",
+    "R marker (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

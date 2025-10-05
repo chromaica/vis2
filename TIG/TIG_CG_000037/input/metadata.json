@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "A ground-truth label map of a kitchen, marking distinct regions for appliances, countertops, cabinets, floor, and utensils.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a computer graphics image depicting a kitchen as a ground-truth label map. Clearly segment and color distinct regions for appliances, countertops, cabinets, the floor, and utensils, using unique, solid colors for each category.",
+  "annotator": "maxku",
+  "objects": [
+    "Segmented region for appliances",
+    "Segmented region for countertops",
+    "Segmented region for cabinets",
+    "Segmented region for the kitchen floor",
+    "Segmented region for utensils",
+    "Unique solid color for the appliance region",
+    "Unique solid color for the countertop region",
+    "Unique solid color for the cabinet region",
+    "Unique solid color for the floor region",
+    "Unique solid color for the utensil region"
+  ]
+}

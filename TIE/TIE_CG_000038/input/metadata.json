@@ -1,0 +1,25 @@
+{
+  "subtopic": "Depth maps",
+  "prompt": "Convert the image into a grayscale depth map representation, with white indicating the closest points and black indicating the furthest points from the camera viewpoint.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751815922157,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1 to create a grayscale depth map. In this map, white should represent the closest points to the camera viewpoint, and black should represent the furthest points. Apply a continuous grayscale gradient for intermediate depths. Considering the 3D hollow cube in image 1, its front-facing surfaces should appear white or light gray, while internal surfaces and the background should gradually darken, with the deepest parts of the interior and the background being pure black.",
+  "annotator": "edisy",
+  "objects": [
+    "3D hollow cube",
+    "Front-facing surfaces of the hollow cube (white or light gray)",
+    "Internal surfaces of the hollow cube (darkening gray gradient)",
+    "Deepest parts of the hollow cube's interior (pure black)",
+    "Background (darkening gray gradient)",
+    "Furthest parts of the background (pure black)",
+    "White areas (representing closest points)",
+    "Black areas (representing furthest points)",
+    "Continuous grayscale gradient"
+  ]
+}

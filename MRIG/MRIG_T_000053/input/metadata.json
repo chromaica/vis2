@@ -1,0 +1,24 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Generate a meme with the first image of a man (Mozart) rolling his eyes placed above the second image sequence of SpongeBob from the second reading and burning a paper labeled (you should write this in the white paper in the bottom left of the second image) 'Chapter 2: Methodology \u2013 20 pages of nonsense'. Add the caption fo the meme: 'When you reread your thesis and realize setting it on fire is your most productive academic decision'.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a two-panel meme. The top panel should use image 1, featuring Mozart rolling his eyes. The bottom panel should use the entire 4-panel sequence from image 2, which depicts SpongeBob interacting with a paper. Specifically, superimpose the text \"Chapter 2: Methodology \u2013 20 pages of nonsense\" onto the blank white paper held by SpongeBob in the top-left sub-panel of image 2. Below the entire two-panel composite image, add the meme caption: \"When you reread your thesis and realize setting it on fire is your most productive academic decision\".",
+  "annotator": "parnian",
+  "objects": [
+    "Mozart rolling eyes (in the top panel)",
+    "SpongeBob (appearing in four distinct poses in the bottom panel's sequence)",
+    "Blank white paper (held by SpongeBob in the top-left sub-panel of the bottom panel)",
+    "Text \"Chapter 2: Methodology \u2013 20 pages of nonsense\" (superimposed on the blank paper)",
+    "Paper being torn/crumpled (in the bottom panel's sequence)",
+    "Flames/fire (in the bottom panel's sequence)",
+    "Two-panel composite structure (with top and bottom panels)",
+    "Four sub-panels (within the bottom panel)",
+    "Meme caption: \"When you reread your thesis and realize setting it on fire is your most productive academic decision\" (below the composite image)"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Add the pie chart to the right of the exclamation mark.",
+  "cond_images": [
+    "1.jpeg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 2, which features an orange exclamation mark, by adding the pie chart from image 1. Position the newly added pie chart to the right of the exclamation mark.",
+  "annotator": "Johnny",
+  "objects": [
+    "orange exclamation mark icon",
+    "pie chart to the right of the exclamation mark"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,24 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Transform a medieval warhorse referenced in the first Image into a hybrid four-legged robotic steed inspired by Boston Dynamics' Spot referenced in the second Image. Retain the warhorse's ornate barding and chainmail patterns, but integrate Spot's sleek metallic frame, glowing joints, and cybernetic enhancements.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic image of a unique four-legged robotic steed. This hybrid creature should incorporate the ornate barding and intricate chainmail patterns observed on the medieval warhorse in image 1. Simultaneously, its core structure and visual aesthetic should be inspired by the Boston Dynamics Spot robot from image 2, featuring its sleek metallic frame, distinctive yellow and black coloring, and prominent glowing joints and cybernetic components.",
+  "objects": [
+    "unique four-legged robotic steed",
+    "photorealistic image quality",
+    "ornate barding",
+    "intricate chainmail patterns",
+    "sleek metallic frame",
+    "distinctive yellow and black coloring",
+    "prominent glowing joints",
+    "cybernetic components",
+    "core structure inspired by Boston Dynamics Spot robot"
+  ]
+}

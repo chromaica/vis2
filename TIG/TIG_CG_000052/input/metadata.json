@@ -1,0 +1,18 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "CAD models",
+  "prompt": "A CAD model of an airplane, showing the fuselage, wings, and engines in wireframe.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A CAD model of an airplane, rendered completely in wireframe, distinctly showing its fuselage, wings, and engines.",
+  "annotator": "maxku",
+  "objects": [
+    "airplane",
+    "CAD model style",
+    "wireframe rendering style",
+    "fuselage",
+    "wings",
+    "engines"
+  ]
+}

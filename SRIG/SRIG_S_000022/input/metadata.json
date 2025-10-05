@@ -1,0 +1,26 @@
+{
+  "subtopic": "Websites",
+  "prompt": "Based on the home page of eBay website in 90s, generate a search result page screenshot with keyword search \"cartoon character figures\"",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://miro.medium.com/v2/resize:fit:1400/0*WT45ysX4N0SozZ0D.jpeg",
+  "promptGeneratedTimestamp": 1749423590103,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate an image of an eBay search result page screenshot, designed in the distinct visual style of the 1990s eBay homepage shown in image 1.\n\nThe page should prominently display search results for the keyword \"cartoon character figures.\"\n\nEnsure the following elements are present and consistent with image 1's aesthetic:\n-   **Top Header:** The eBay logo and navigation bar (Browse, Sell, Services, Search, Help, Community) at the very top.\n-   **Search Bar:** A visible search input field, similar in style to image 1, that clearly indicates the search term \"cartoon character figures\" has been entered.\n-   **Search Results Area:** The main content area of the page should list multiple search results. Each individual result entry should be presented as a simple, 90s-style listing, including:\n    -   A blue clickable title (e.g., \"Vintage Disney Mickey Mouse Figure\", \"Star Wars Action Figure Lot\").\n    -   A small, low-resolution image (or a placeholder for it) related to the cartoon character figure.\n    -   Essential details like price (e.g., \"$15.00\"), current bid count (e.g., \"5 bids\"), or time remaining (e.g., \"2 days left\").\n    -   These listings should be arranged vertically or in a basic table-like grid.\n-   **Overall Design:** Maintain the white background, blue hyperlinks, simple HTML table structures, and classic system fonts, mirroring the uncluttered and functional interface of image 1. Avoid any modern web design elements.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "White page background with classic system fonts",
+    "1990s eBay logo at the top",
+    "Top navigation bar (Browse, Sell, Services, Search, Help, Community)",
+    "Search input field prominently displaying \"cartoon character figures\"",
+    "Search button",
+    "Multiple individual search result listings",
+    "Blue clickable titles for each search result listing",
+    "Small, low-resolution images (or placeholders) within each listing",
+    "Price, bid count, or time remaining details within each listing",
+    "Blue hyperlinks throughout the page"
+  ]
+}

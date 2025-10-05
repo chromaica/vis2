@@ -1,0 +1,25 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Change the scatter plot dots to a sunset gradient, adding soft halos around each dot.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, a scatter plot. Recolor all the existing data points using a sunset gradient color scheme. Additionally, apply a soft, glowing halo around each individual dot.",
+  "annotator": "cwhsu",
+  "objects": [
+    "scatter plot",
+    "data points with sunset gradient color scheme",
+    "soft, glowing halo around data points",
+    "X-axis",
+    "Y-axis",
+    "\"Clicks\" axis label",
+    "\"Impressions\" axis label",
+    "X-axis numerical labels",
+    "Y-axis numerical labels",
+    "grid lines"
+  ],
+  "human_annotation": true
+}

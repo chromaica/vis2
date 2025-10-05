@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "3D renders",
+  "prompt": "A high-quality 3D render of a billiard table scene, featuring a polished green felt surface, a full set of 15 billiard balls arranged in a classic triangle rack at the far end of the table, and a white cue ball positioned at the near center. The table has realistic wooden rails with chrome accents, detailed leather pockets, and ambient lighting that casts soft shadows across the table. Render from a slightly elevated side angle, capturing the table, balls, and cue stick placed along the rail.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A photorealistic 3D render of a billiard table scene. The table features a polished, vibrant green felt surface, realistic wooden rails with chrome accents, and detailed leather pockets. A full set of 15 billiard balls is arranged in a classic triangle rack at the far end of the table. A white cue ball is positioned at the near center of the table. A cue stick lies along one of the side rails. Ambient lighting casts soft shadows across the table. The scene is viewed from a slightly elevated side angle, capturing the entire table, balls, and the cue stick.",
+  "annotator": "maxku",
+  "objects": [
+    "Billiard table",
+    "Polished, vibrant green felt surface",
+    "Realistic wooden rails with chrome accents",
+    "Detailed leather pockets",
+    "Full set of 15 billiard balls arranged in a classic triangle rack at the far end of the table",
+    "White cue ball positioned at the near center of the table",
+    "Cue stick lying along one of the side rails",
+    "Soft shadows across the table"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "subtopic": "Websites",
+  "prompt": "Edit image 1: Adopt the rounded, yellow button style from image 2 (like the 'Scroll Down' button) for the 'GET STARTED' and 'Learn More' buttons in image 1.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1752236631584,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "annotator": "ishengfang",
+  "prompt_refined": "Edit image 1. Redesign the 'GET STARTED' button (the prominent blue button in the main banner area) and the adjacent 'Learn More' button (the smaller, white outlined button) to adopt the visual style of the 'Scroll Down' button located in the bottom-right corner of image 2. Specifically, both buttons in image 1 should become:\n- Pill-shaped with fully rounded ends.\n- Solid yellow in color.\n- Outlined with a thin, dark border.\n- The original text labels ('GET STARTED' and 'Learn More') should be retained and centered, followed by a small, downward-pointing arrow icon to their right, consistent with the reference button in image 2.",
+  "objects": [
+    "Website interface",
+    "Main banner with people in an office setting",
+    "\"We Are Your Partners in Human Resource\" text",
+    "\"Farther away, behind the word mountains...\" text",
+    "Pill-shaped, solid yellow \"GET STARTED\" button with dark border and downward arrow icon",
+    "Pill-shaped, solid yellow \"Learn More\" button with dark border and downward arrow icon",
+    "Three content blocks (Corporate Collaboration, Strategic Partners, Infinite Possibilities)",
+    "\"Our Agency\" section with people",
+    "\"Why Us?\" section with text"
+  ]
+}

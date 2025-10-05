@@ -1,0 +1,20 @@
+{
+  "subtopic": "Depth maps",
+  "prompt": "Apply a realistic depth of field blur effect to the image. Focus sharply on the center of the rose, with blur increasing towards the outer petals and background.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751762928829,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1 to apply a realistic depth of field blur effect. Ensure the sharpest focus is on the central core of the white rose, with the blur gradually increasing outwards towards the surrounding petals and the black background.",
+  "annotator": "edisy",
+  "objects": [
+    "white rose",
+    "central core of the white rose (in sharp focus)",
+    "surrounding petals of the white rose (blurred)",
+    "black background (blurred)"
+  ]
+}

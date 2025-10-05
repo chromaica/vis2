@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "A 1920s Art Deco trading floor dashboard with geometric patterns, gold and black color scheme, and elegant typography displaying stock market data",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A 1920s Art Deco trading floor dashboard. It features intricate geometric patterns, a dominant gold and black color scheme, and elegant, custom-styled typography. The dashboard clearly displays stylized stock market data visualizations, including real-time quotes, charts, and indices, all integrated seamlessly into the distinct Art Deco design aesthetic.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Art Deco trading floor dashboard",
+    "Intricate geometric patterns",
+    "Gold color elements",
+    "Black color elements",
+    "Elegant, custom-styled typography",
+    "Stylized stock market data visualizations",
+    "Real-time stock quotes",
+    "Stock market charts",
+    "Stock market indices"
+  ]
+}

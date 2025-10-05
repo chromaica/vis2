@@ -1,0 +1,23 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "Generate a textbook-style illustration depicting the stages of mitosis (prophase, metaphase, anaphase, telophase) in animal cells, arranged in a circular layout. Use a clean, digital painting style with vibrant colors (blue, orange, purple, pink) to differentiate chromosomes, spindle fibers, and cell membrane. Simplify the grainy details from the first referenced image into smooth, bold outlines, and use the second referenced image to inform the variety of stages. Add clear labels with a modern sans-serif font and minimalistic arrows. Include a subtle glow effect around chromosomes for visual pop. Place the diagram on a white background with a faint radial gradient to draw focus to the center.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a textbook-style illustration depicting the four distinct stages of mitosis (prophase, metaphase, anaphase, telophase) in animal cells. Arrange these stages in a clear circular layout, with each stage positioned sequentially around a central point. Render the illustration in a clean, digital painting style using vibrant colors: specifically blue for chromosomes, orange for spindle fibers, purple for cell membranes, and pink for any remaining cellular structures. Simplify the granular details of the cell shapes observed in image 1 into smooth, bold outlines for the cell membranes of each mitotic stage. Utilize image 2 to inform the visual morphology and condensation patterns of the chromosomes within each stage, capturing their distinct appearance as seen in stained biological samples. Include clear labels for each stage using a modern sans-serif font, accompanied by minimalistic arrows to indicate progression. Apply a subtle glow effect around the chromosomes for visual emphasis. The complete diagram should be placed on a pure white background with a faint radial gradient emanating from the center, subtly drawing focus to the circular arrangement.",
+  "objects": [
+    "Mitosis diagram in a circular layout, depicting prophase, metaphase, anaphase, and telophase stages in animal cells",
+    "Blue chromosomes with subtle glow effect (morphology and condensation informed by Image 2)",
+    "Orange spindle fibers",
+    "Purple cell membranes with smooth, bold outlines (shapes informed by Image 1)",
+    "Pink remaining cellular structures",
+    "Labels for each mitotic stage in a modern sans-serif font",
+    "Minimalistic arrows indicating progression",
+    "Pure white background with a faint radial gradient"
+  ]
+}

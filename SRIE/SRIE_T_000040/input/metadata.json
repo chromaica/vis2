@@ -1,0 +1,18 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "replace the charactor from the refrence image to buzz lightyear in the source.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 2 by replacing the central character, Edna Mode, with Buzz Lightyear. Refer to image 1 for Buzz Lightyear's appearance and style, specifically the character standing on the letter 'A' on the right side of image 1.",
+  "annotator": "matina",
+  "objects": [
+    "Buzz Lightyear",
+    "Plain light blue background",
+    "Edna Mode (should not be present)"
+  ]
+}

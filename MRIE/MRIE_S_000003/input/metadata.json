@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": " Add the modern house from image 1 as the background of image 2, keeping all the text readable. Then, change the website colors in image 2 to match the palette in image 3.",
+  "cond_images": [
+    "1.jpg",
+    "2.png",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 2, the website screenshot, by performing two main modifications. First, replace its existing dark purple gradient background with the modern house from image 1 as a new, full-screen background image. Ensure that all original website text and UI elements remain perfectly visible and legible against this new background. Second, recolor the entire website interface using the palette from image 3: change the primary background color of UI elements to dark green (04361D); update accent elements such as buttons, navigation links, and the eye icon in the logo to Cambridge blue (76BA9D); modify the main heading text, specifically \"Welcome to Women in AI Research\", to Red (EF233C); and change all other primary text, including body text and navigation items, to Beige (F0F2D5).",
+  "annotator": "parnian",
+  "objects": [
+    "Modern house as a full-screen background",
+    "Website interface with dark green UI element backgrounds",
+    "Website logo with Cambridge blue eye icon",
+    "Navigation links with Cambridge blue text",
+    "Main heading text \"Welcome to Women in AI Research\" in red",
+    "Body text in beige",
+    "Subheading text in beige",
+    "Website buttons with dark green backgrounds, Cambridge blue accents, and beige text",
+    "Website title text \"Women in AI Research\" in beige",
+    "Original website layout and structure"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

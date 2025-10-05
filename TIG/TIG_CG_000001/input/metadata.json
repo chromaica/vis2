@@ -1,0 +1,23 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "Game assets",
+  "prompt": "A sprite sheet of a blonde little girl in a blue tunic and boots, holding a small sword, slashing forward. Pixel art style. Side view. Each frame is 128x128 pixels, arranged in a single horizontal row (total 4 frames). Transparent background. Consistent design across frames.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a 4-frame pixel art sprite sheet of a blonde little girl in a blue tunic and boots, holding a small sword, performing a side-view forward slash. Each frame measures 128x128 pixels, and all frames are arranged horizontally in a single row. Maintain consistent character design and art style throughout all frames. The background must be transparent.",
+  "annotator": "maxku",
+  "objects": [
+    "4-frame pixel art sprite sheet",
+    "blonde little girl",
+    "blue tunic",
+    "boots",
+    "small sword",
+    "side-view forward slash animation",
+    "horizontally arranged frames",
+    "pixel art style",
+    "transparent background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

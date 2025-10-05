@@ -1,0 +1,28 @@
+{
+  "subtopic": "Cultural or Heritage art",
+  "prompt": "Edit image 1: Apply the aged fresco texture and worn patina from Image 2 to the portrait, making it resemble an ancient, weathered cultural artwork.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748495715436,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1, the vibrant portrait of a figure with blue skin and red floral patterns. Apply the aged fresco texture and worn patina from image 2, the ancient icon with a halo and visible signs of degradation. Specifically, transfer the cracked, faded, and mottled surface characteristics present in image 2 onto the entire artwork of image 1. The goal is to transform image 1 into an ancient, weathered cultural artwork, showing signs of significant age and historical wear.",
+  "annotator": "kellycyy",
+  "objects": [
+    "Figure with blue skin",
+    "Red floral patterns",
+    "Light blue background",
+    "Gold hoop earring",
+    "Patterned garment",
+    "Cracked surface texture",
+    "Faded colors/appearance",
+    "Mottled surface texture",
+    "Aged fresco texture",
+    "Worn patina"
+  ],
+  "human_annotation": true
+}

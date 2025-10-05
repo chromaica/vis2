@@ -1,0 +1,25 @@
+{
+  "subtopic": "Games",
+  "prompt": "Edit image 1: Intensify the combat scene by adding chaotic elements like muzzle flashes, bullet tracers, and smoke effects based on the intense action visible in the game screenshot of image 2.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751006491480,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit image 1, a screenshot depicting a fantasy combat scene with characters fighting a large creature. Intensify the existing combat by adding chaotic gun-related elements, specifically incorporating prominent muzzle flashes, visible bullet tracers, and dense smoke effects. The intensity and visual style of these added elements should be directly inspired by and consistent with the intense, action-packed combat environment depicted in image 2.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Fantasy combat characters",
+    "Large creature/monster",
+    "Natural outdoor environment (grass, trees, mountains, distant buildings)",
+    "Prominent muzzle flashes",
+    "Visible bullet tracers",
+    "Dense smoke effects",
+    "Guns or gun-like weapons",
+    "Game user interface (UI) elements (minimap, HP bars, text overlays)"
+  ]
+}

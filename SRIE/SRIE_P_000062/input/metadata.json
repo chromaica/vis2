@@ -1,0 +1,20 @@
+{
+  "task": "SRIE",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "Blur all outside of the selected region in the reference mask.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Apply a strong blur to all regions outside of the white circular mask defined in image 2. The left circular biological structure in image 1, corresponding to the white mask area in image 2, should remain sharp and in focus, while the black background and the biological structure on the right in image 1 should be blurred.",
+  "annotator": "nimajamali",
+  "objects": [
+    "left circular biological structure (sharp and in focus)",
+    "right biological structure (blurred)",
+    "black background (blurred)",
+    "small orange/brown dots in background (blurred)"
+  ],
+  "human_annotation": true
+}

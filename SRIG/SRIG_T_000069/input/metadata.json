@@ -1,0 +1,21 @@
+{
+  "task": "SRIG",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Create a meme about Monday morning feelings using the same grumpy cat.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a meme image using the grumpy tabby cat from image 1. The meme should feature text conveying 'Monday morning feelings', positioned at the top and/or bottom of the image in a clear, bold meme font.",
+  "annotator": "Johnny",
+  "objects": [
+    "Grumpy tabby cat (from image 1)",
+    "Background (consistent with image 1)",
+    "Meme text overlay",
+    "Text: \"Monday morning feelings\"",
+    "Text positioned at the top of the image",
+    "Text positioned at the bottom of the image",
+    "Clear, bold meme font"
+  ]
+}

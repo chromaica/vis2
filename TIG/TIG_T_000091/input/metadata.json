@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "A classic internet meme visual: the central question **\"IS THIS REAL LIFE?\"** in bold, all-caps white impact font, defined by a thick black outline and a subtle drop shadow. Place the text large and centrally, or near the top. The background should be a slightly blurred, relatable yet disorienting image depicting a chaotic scene (e.g., messy desk, confusing street corner) to emphasize disbelief, replicating a viral meme format.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate an image in the style of a classic internet meme visual. The central element is the text **\"IS THIS REAL LIFE?\"** rendered in large, bold, all-caps white Impact font. This text must feature a thick black outline and a subtle drop shadow, positioned prominently and either centrally or slightly towards the upper half of the image. The background should be a slightly blurred, relatable yet disorienting chaotic scene, for example, a messy desk or a confusing street corner, to emphasize disbelief, replicating a viral meme format.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Text \"IS THIS REAL LIFE?\"",
+    "White text color",
+    "Large text size",
+    "All-caps text formatting",
+    "Thick black text outline",
+    "Subtle text drop shadow",
+    "Impact font style",
+    "Slightly blurred background",
+    "Chaotic background scene",
+    "Prominent text positioning (central or upper-half)"
+  ]
+}

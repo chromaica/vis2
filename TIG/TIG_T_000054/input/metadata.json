@@ -1,0 +1,24 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Word Clouds",
+  "prompt": "Assemble a vibrant word cloud from 'CREATIVITY IDEAS INNOVATION DESIGN ART VISION'. Use bold sans-serif fonts, densely clustered, on a crisp white background.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A vibrant word cloud featuring the words 'CREATIVITY', 'IDEAS', 'INNOVATION', 'DESIGN', 'ART', and 'VISION'. The text uses bold sans-serif fonts and is densely clustered. The background is crisp white.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "word cloud",
+    "the word 'CREATIVITY'",
+    "the word 'IDEAS'",
+    "the word 'INNOVATION'",
+    "the word 'DESIGN'",
+    "the word 'ART'",
+    "the word 'VISION'",
+    "bold sans-serif fonts",
+    "densely clustered text",
+    "crisp white background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

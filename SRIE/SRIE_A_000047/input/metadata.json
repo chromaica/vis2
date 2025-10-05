@@ -1,0 +1,24 @@
+{
+  "subtopic": "Digital arts",
+  "prompt": "Edit image 1: Replace the reflection in the woman's sunglasses with the expressive dog portrait from image 2. ",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748497640765,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1 by replacing the current reflection inside the woman's sunglasses with the expressive dog portrait from image 2.",
+  "annotator": "kellycyy",
+  "objects": [
+    "Woman's face",
+    "Sunglasses",
+    "Woman's hair",
+    "Woman's mouth",
+    "Expressive dog portrait inside the sunglasses",
+    "Teal background",
+    "Beach tents reflection (should not be present)"
+  ]
+}

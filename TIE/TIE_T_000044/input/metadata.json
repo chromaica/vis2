@@ -1,0 +1,21 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "Replace \u2018HOPE\u2019 with \u2018DEBUG\u2019 in the same stencil style, add subtle glitch artifacts around the edges and drop a tiny binary code watermark in the lower corner.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the large text 'HOPE' located at the bottom of the poster with the word 'DEBUG', ensuring it maintains the identical stencil font style and size. Apply subtle digital glitch artifacts around all four outer edges of the entire poster. Additionally, place a tiny binary code watermark in a lower corner of the poster.",
+  "annotator": "matina",
+  "objects": [
+    "poster",
+    "stylized portrait of Barack Obama",
+    "stylized US flag pin/badge",
+    "text 'DEBUG' in stencil font at the bottom",
+    "subtle digital glitch artifacts around the poster edges",
+    "tiny binary code watermark in a lower corner",
+    "'HOPE' text (should not be present)"
+  ]
+}

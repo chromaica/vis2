@@ -1,0 +1,21 @@
+{
+  "subtopic": "Skeletal Animation and Rigging",
+  "prompt": "Using the visible skeletal rig, adjust the character's pose by bending the joints to simulate the start of a powerful jump or leap.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751813220009,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1. Adjust the pose of the blue humanoid character within the image. Utilizing the visible green skeletal rig, bend the character's joints to simulate the initial crouched phase of a powerful jump or leap, as if poised for an upward launch. Ensure the updated pose is consistent across both the front and side views of the character presented in image 1.",
+  "annotator": "edisy",
+  "objects": [
+    "blue humanoid character in a crouched pose",
+    "green skeletal rig",
+    "grey background",
+    "front view of the character",
+    "side view of the character"
+  ]
+}

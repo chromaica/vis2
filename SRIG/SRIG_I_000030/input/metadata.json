@@ -1,0 +1,18 @@
+{
+  "subtopic": "Icons and symbols",
+  "prompt": "With the provided icon representing \"Google Cloud Storage\", please adopt the same icon style to generate \"Cloud Translation API\" icon.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://miro.medium.com/v2/resize:fit:250/1*UPYci8aQvCIZ_BbmLO_3vA.png",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Create a new icon for 'Cloud Translation API'. The icon must strictly follow the visual style of image 1, including its blue hexagonal shape with rounded corners and the long shadow effect. Replace the 'storage' glyphs (the two white server racks) from image 1 with a new white, minimalist glyph that represents 'translation'.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Blue hexagonal shape with rounded corners",
+    "Long shadow effect",
+    "White, minimalist glyph representing 'translation'",
+    "Two white server racks (should not be present)"
+  ]
+}

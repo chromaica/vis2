@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Change the background of the flow chart to neon blue color.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the colorful flowchart. Change the existing background to a solid neon blue color, ensuring the new background is uniform and flat as suggested by image 2.",
+  "annotator": "Johnny",
+  "objects": [
+    "colorful flowchart",
+    "orange \"START\" shape",
+    "pink rectangular flowchart steps",
+    "teal rectangular flowchart step",
+    "green \"SUCCESS!\" shape",
+    "pink hexagonal flowchart step",
+    "blue diamond flowchart step",
+    "small circular decision points",
+    "connecting lines and arrows",
+    "solid neon blue background"
+  ]
+}

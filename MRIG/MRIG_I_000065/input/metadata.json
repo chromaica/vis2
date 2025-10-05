@@ -1,0 +1,28 @@
+{
+  "task": "MRIG",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "Generate a UI mockup for a fine dining restaurant reservation app. Use Image 1 for food previews, Image 2 for the overall color scheme (dark, elegant tones), and Image 3 to guide typography and section headers.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "annotator": "matina",
+  "prompt_refined": "Generate a UI mockup for a fine dining restaurant reservation app. The interface should embody a dark and elegant aesthetic, primarily using deep charcoal, dark blue, and black tones as background elements, complemented by warm gold or amber accents for highlights and interactive elements, drawing inspiration from the sophisticated ambiance of image 2.\n\nProminently feature high-quality, artfully plated food photography, akin to the gourmet dish style in image 1, displayed in a scrollable gallery or carousel, ideally positioned near the top of the main screen.\n\nFor all primary section headers (e.g., \"Welcome\", \"Our Menu\", \"Make a Reservation\", \"Contact Us\"), utilize a distinctive, elegant handwritten script font, reminiscent of the chalk typography in image 3. For body text, descriptions, and input fields, use a clean, legible sans-serif typeface to ensure clarity.\n\nThe mockup should clearly display the restaurant name/logo at the top, followed by the food previews. Below this, include a user-friendly reservation form with input fields for date, time, and party size, and a prominent call-to-action button to confirm the reservation. Navigation elements should be easily accessible, possibly at the bottom or side of the screen.",
+  "objects": [
+    "UI mockup",
+    "Restaurant name/logo at the top",
+    "Scrollable food photography gallery/carousel near the top",
+    "Primary section headers (e.g., \"Welcome\", \"Make a Reservation\")",
+    "Reservation form",
+    "Date input field",
+    "Time input field",
+    "Party size input field",
+    "Confirm reservation button",
+    "Navigation elements at the bottom or side of the screen"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

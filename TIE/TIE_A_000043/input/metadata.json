@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Romanticism",
+  "prompt": "Decrease the height of the mountains and clouds in the background to create a sence that the position of the man is much higher.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Modify the background landscape by decreasing the visual height of the mountains and clouds, making the man standing on the rocky outcrop in the foreground appear to be at a significantly higher elevation above the surrounding mist and peaks.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Man",
+    "Rocky outcrop in the foreground",
+    "Mist",
+    "Mountains",
+    "Clouds",
+    "Walking stick",
+    "Trees on mountains",
+    "Sky"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

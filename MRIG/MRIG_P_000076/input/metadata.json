@@ -1,0 +1,23 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Design an Airbus A350 referenced in the first image reimagined as a hummingbird referenced in the second image. The wide-body fuselage is compact and agile, with iridescent green and blue panels that shift colors. The A350\u2019s sleek wings are short and oscillating, with one massive Rolls-Royce Trent XWB engine under each wing. The cockpit is small and rounded, resembling a hummingbird\u2019s head with a needle-like nose. The tail is fan-shaped with vibrant, multicolored accents and tiny thrusters.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic image of an Airbus A350, inspired by the aircraft in image 1, reimagined with biological features of the hummingbird in image 2. The aircraft's wide-body fuselage is rendered compact and agile, featuring iridescent green and blue panels that shimmer and shift colors, reminiscent of the hummingbird's plumage from image 2. Its sleek wings, characteristic of the A350 from image 1, are significantly shorter and appear to be oscillating rapidly, similar to the hummingbird's wings in image 2. Each wing retains one massive Rolls-Royce Trent XWB engine mounted underneath. The cockpit section is redesigned to be small and rounded, closely resembling the head of the hummingbird in image 2, complete with a distinct needle-like beak extending forward. The tail assembly is fan-shaped with vibrant, multicolored accents, mimicking the tail feathers of the hummingbird in image 2, and integrates tiny thruster nozzles.",
+  "objects": [
+    "Photorealistic Airbus A350",
+    "Compact and agile fuselage with iridescent green and blue shimmering panels",
+    "Short, rapidly oscillating sleek wings",
+    "Massive Rolls-Royce Trent XWB engine mounted underneath each wing",
+    "Small, rounded cockpit resembling a hummingbird's head",
+    "Needle-like beak extending forward from the cockpit",
+    "Fan-shaped tail assembly with vibrant, multicolored accents",
+    "Tiny thruster nozzles integrated into the tail"
+  ]
+}

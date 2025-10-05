@@ -1,0 +1,23 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "Generate a university open day poster using Image 1, the University's entrance, as the header and Image 2, a group of smiling students walking together, below it. Use the title: 'University Open Day: Explore, Connect, Discover'. Include the date 'September 15, 2025' in smaller font at the bottom.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a university open day poster. The poster should prominently feature Image 1, showcasing the university's distinctive architectural entrance, as the top header. Overlay the title 'University Open Day: Explore, Connect, Discover' in a large, clear font, centered on this header image. Directly beneath the header, integrate Image 2, depicting four diverse, smiling students walking outdoors, as the main visual element. At the bottom of the poster, include the date 'September 15, 2025' in a smaller, legible font, centered horizontally.",
+  "annotator": "parnian",
+  "objects": [
+    "University open day poster",
+    "University's distinctive architectural entrance as the top header",
+    "Text title: \"University Open Day: Explore, Connect, Discover\" centered on the header",
+    "Four diverse, smiling students walking outdoors as the main visual element",
+    "Trees and foliage",
+    "Pathway",
+    "Blue sky",
+    "Text date: \"September 15, 2025\" at the bottom"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "create a boxplot showing the accuracy of MMLU benchmarks from 'gpt-3-5-turbo' 'gpt-4', 'o4-mini', 'claude-4-sonnet' with a accuracy variance showing the difference from each subjects",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a boxplot visualizing the accuracy of MMLU benchmarks. The plot should display separate boxplots for each of the following large language models: 'gpt-3.5-turbo', 'gpt-4', 'o4-mini', and 'claude-4-sonnet'. Each boxplot must clearly show the median, interquartile range (IQR), and whiskers representing the full distribution and variance of accuracy scores for each model. Label the x-axis as 'Large Language Models' and the y-axis as 'Accuracy'.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Boxplot chart",
+    "X-axis",
+    "Y-axis",
+    "X-axis label: 'Large Language Models'",
+    "Y-axis label: 'Accuracy'",
+    "Four distinct boxplots (one for each model)",
+    "Median line for each boxplot",
+    "Interquartile range (IQR) box for each boxplot",
+    "Whiskers for each boxplot",
+    "Model labels on the x-axis: 'gpt-3.5-turbo', 'gpt-4', 'o4-mini', 'claude-4-sonnet'"
+  ],
+  "human_annotation": true
+}

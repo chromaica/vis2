@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "A digital painting of the character from image 1, rendered using the vibrant feather colors and striking textures found on the bird in image 2.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a digital painting of the female character from image 1, focusing on her head and upper torso. Render her using the vibrant feather colors\u2014lilac, turquoise, sapphire blue, and earthy browns\u2014and the distinct soft, fluffy textures and subtle iridescence characteristic of the bird in image 2.",
+  "annotator": "samin",
+  "objects": [
+    "female character",
+    "character's head",
+    "character's upper torso",
+    "lilac color",
+    "turquoise color",
+    "sapphire blue color",
+    "earthy brown color",
+    "soft textures",
+    "fluffy textures",
+    "subtle iridescence"
+  ]
+}

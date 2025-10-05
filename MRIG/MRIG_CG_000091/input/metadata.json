@@ -1,0 +1,23 @@
+{
+  "subtopic": "Facial estimation and analysis",
+  "prompt": "Create a computer graphic visualization of facial analysis: Use the abstract line style from image 2 for landmark points and lines. Apply the dramatic, high-contrast lighting of image 1 to illuminate a facial profile silhouette.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748424748378,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a computer graphic visualization of facial analysis. Depict a facial profile silhouette, strongly illuminated by the dramatic, high-contrast rim lighting and dark background reminiscent of image 1. Apply landmark points and lines to the profile using the thin, abstract, and minimalist line style seen in image 2.",
+  "annotator": "winston",
+  "objects": [
+    "computer graphic visualization",
+    "facial profile silhouette",
+    "dramatic, high-contrast rim lighting",
+    "dark background",
+    "landmark points on the profile",
+    "thin, abstract, and minimalist lines on the profile"
+  ]
+}

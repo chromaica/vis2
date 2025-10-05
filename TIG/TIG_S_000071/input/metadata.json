@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "A holographic receipt from \"Neo-Tokyo Cybernetics Corp\" in 2087, displaying purchases of neural implants and data crystals in both Japanese katakana and English, with animated QR codes and biometric authentication marks glowing softly in blue light",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A transparent, futuristic holographic receipt. The display prominently features transaction details from 'Neo-Tokyo Cybernetics Corp', dated 2087, specifically listing purchases of 'Neural Implants' and 'Data Crystals'. All text on the receipt, including the company name, date, and item descriptions, is rendered concurrently in both Japanese katakana and English. In the lower portion of the holographic display, multiple animated QR codes and biometric authentication marks are clearly visible. These interactive elements emit a soft blue glow.",
+  "annotator": "theblackcat",
+  "objects": [
+    "A transparent, futuristic holographic receipt",
+    "'Neo-Tokyo Cybernetics Corp' text in Japanese katakana and English",
+    "Date '2087' text in Japanese katakana and English",
+    "'Neural Implants' text in Japanese katakana and English",
+    "'Data Crystals' text in Japanese katakana and English",
+    "Multiple animated QR codes in the lower portion of the holographic display",
+    "Biometric authentication marks in the lower portion of the holographic display",
+    "Soft blue glow emitted by QR codes and biometric authentication marks"
+  ]
+}

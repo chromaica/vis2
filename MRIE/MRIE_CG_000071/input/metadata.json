@@ -1,0 +1,29 @@
+{
+  "subtopic": "Object detection visuals",
+  "prompt": "Edit image 1 by adding the birds from images 2, 3, 4, and 5 into the scene. Apply object detection visuals with bounding boxes and labels around all detected objects (people and birds), using a bold blue style inspired by image 4's bird colors.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg",
+    "4.jpeg",
+    "5.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749067209671,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1. Integrate the robin from image 2, perched in the upper-left background. Add the bulbul from image 3, perched in the upper-right background. Include the blue jay from image 4, flying in the mid-background, slightly right of the central figures. Place the two magpies from image 5 on the ground in the lower background, behind the people. Ensure all added birds are realistically scaled to the scene's depth. Apply a bold blue object detection overlay: Draw clear bounding boxes around the two people and all five newly added birds. Each bounding box must include a matching bold blue text label (e.g., 'Person', 'Robin', 'Bulbul', 'Blue Jay', 'Magpie'). The bold blue color for all detection visuals should be inspired by the prominent blue hues of the bird in image 4.",
+  "annotator": "winston",
+  "objects": [
+    "Two people playing flutes",
+    "Robin perched in the upper-left background",
+    "Bulbul perched in the upper-right background",
+    "Blue Jay flying in the mid-background, slightly right of the central figures",
+    "Two magpies on the ground in the lower background, behind the people",
+    "Original scene's background",
+    "Bold blue bounding boxes around people and birds",
+    "Bold blue text labels ('Person', 'Robin', 'Bulbul', 'Blue Jay', 'Magpie')"
+  ],
+  "human_annotation": true
+}

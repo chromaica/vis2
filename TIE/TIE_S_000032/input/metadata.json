@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "Censor the names and profile photos of all players.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Apply a censorship effect to all player names and their corresponding profile photos or icons within the screenshot. Specifically:\n- Censor the name 'june' and the gray circular profile icon, both located in the upper-middle section of the image.\n- Censor the name 'simone' and the circular profile photo of a woman, both located in the mid-left section.\n- Censor the name 'Storm' and the circular profile photo depicting a tornado, both located in the mid-right section.\n- Censor the name 'Josh' and the circular profile photo of a man with a cat, both located in the bottom-center section.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Green felt game board background",
+    "Dark gray scoreboard with game statistics (including 'You & [censored name]')",
+    "Censored player names (multiple instances)",
+    "Censored circular player profile photos and icons (multiple instances)",
+    "Player progress bars (blue and yellow)",
+    "Stacks of red-backed cards (next to players)",
+    "Playing cards in player's hand (bottom)",
+    "\"Click on card to play\" text",
+    "8-dot menu icon (top left)",
+    "Chat bubble icon, small red diamond icon, and check mark icon (bottom-center)"
+  ]
+}

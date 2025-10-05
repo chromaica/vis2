@@ -1,0 +1,22 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Medical images",
+  "prompt": "A colorful functional MRI image showing brain activity with a heatmap overlay, matching the structure and shape of the mask.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic functional MRI (fMRI) image of a brain cross-section. This image should perfectly align with the anatomical structure and outer shape provided by image 1. A colorful heatmap overlay, using a gradient from reds for high activity to blues for low activity, must clearly display neural activity within these brain regions.",
+  "annotator": "samin",
+  "objects": [
+    "fMRI brain cross-section",
+    "anatomical structure of the brain",
+    "outer shape of the brain",
+    "colorful heatmap overlay",
+    "red color (for high activity)",
+    "blue color (for low activity)",
+    "gradient color transition",
+    "neural activity display"
+  ]
+}

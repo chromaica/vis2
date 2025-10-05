@@ -1,0 +1,26 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "CAD models",
+  "prompt": "Place the clamp from the reference image on the workshop bench.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the photo of the workshop bench, by adding the 3D computer graphics model of the clamp from image 2. Place this clamp on the top wooden surface of the workshop bench, positioning it on the left side of the bench's top surface so it appears as a physical object integrated into the scene.",
+  "annotator": "nimajamali",
+  "objects": [
+    "wooden workshop bench",
+    "red brick wall",
+    "wooden floor",
+    "stool",
+    "red vise on the right side of the bench",
+    "3D computer graphics model of a clamp on the top wooden surface of the workshop bench, positioned on the left side",
+    "blue air compressor under the bench",
+    "yellow circular saw under the bench",
+    "orange extension cord under the bench",
+    "drill on the bench"
+  ],
+  "human_annotation": true
+}

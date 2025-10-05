@@ -1,0 +1,21 @@
+{
+  "subtopic": "Depth maps",
+  "prompt": "Generate a grayscale depth map of the Utah Teapot model, rendered from a similar high angle perspective as the reference bunny, using shades of gray to represent distance.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://blog.lookingglassfactory.com/depth-maps-how-software-encodes-3d-space/",
+  "promptGeneratedTimestamp": 1748766195068,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a grayscale depth map of the Utah Teapot model. Render the teapot from a high-angle, top-down perspective, mirroring the viewpoint and approximate framing of the bunny in image 1. In the depth map, use lighter shades of gray to indicate objects closer to the camera, and progressively darker shades for objects further away.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Utah Teapot model",
+    "Grayscale colors (representing depth)",
+    "Black background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

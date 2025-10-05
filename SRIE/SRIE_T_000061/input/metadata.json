@@ -1,0 +1,22 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Stamp the facepalm sticker at the end of the text.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 by adding the facepalm graphic from image 2. Position the graphic as an overlay immediately to the right of the word \"messages\" on the final line of text.",
+  "annotator": "matina",
+  "objects": [
+    "Profile picture",
+    "Username \"\u043c e g \u0572\"",
+    "Handle \"@notahorror\"",
+    "Text: \"unfortunately i do not need to be drunk to send insane text messages\"",
+    "Facepalm graphic, positioned immediately to the right of the word \"messages\"",
+    "White background"
+  ],
+  "human_annotation": true
+}

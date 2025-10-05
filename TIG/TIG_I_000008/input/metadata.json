@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "draw a violin plot showing reaction-time distributions for five age brackets (10s, 20s, 30s, 40s, 50s). Overlay dotted median lines and fill violins with a midnight-to-dawn gradient to evoke speed",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate an information graphic in the style of a violin plot. The plot should illustrate reaction-time distributions for five distinct age brackets: 10s, 20s, 30s, 40s, and 50s, with each bracket represented by a separate violin arranged horizontally. Each individual violin shape should be vertically filled with a gradient, transitioning from a dark midnight blue at the bottom to a vibrant, lighter dawn blue or purple at the top, visually conveying speed and dynamism. A clear, dotted line must be overlaid horizontally within each violin to precisely mark its median value.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Information graphic display",
+    "Five distinct violin shapes",
+    "Horizontally arranged violin shapes",
+    "Age bracket label for '10s'",
+    "Age bracket label for '20s'",
+    "Age bracket label for '30s'",
+    "Age bracket label for '40s'",
+    "Age bracket label for '50s'",
+    "Vertical gradient fill within each violin shape (dark midnight blue to lighter dawn blue or purple)",
+    "Horizontal dotted line within each violin shape"
+  ]
+}

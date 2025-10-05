@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "A vivid portrayal of a microscopic water droplet teeming with tiny aquatic microorganisms, encapsulating motion and diversity in a vibrant blue sphere.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Photorealistic, microscopic close-up of a vibrant blue spherical water droplet, centrally positioned. The droplet is teeming with numerous tiny aquatic microorganisms, showcasing their diverse forms and dynamic motion within its confines.",
+  "annotator": "cwhsu",
+  "objects": [
+    "a water droplet",
+    "spherical shape (of the droplet)",
+    "vibrant blue color (of the droplet)",
+    "central positioning (of the droplet)",
+    "numerous tiny aquatic microorganisms",
+    "diverse forms of aquatic microorganisms",
+    "dynamic motion of aquatic microorganisms",
+    "microscopic close-up perspective"
+  ]
+}

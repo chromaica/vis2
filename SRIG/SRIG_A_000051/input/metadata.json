@@ -1,0 +1,25 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "A surreal dreamscape with floating islands and waterfalls",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a surreal dreamscape, drawing on the dramatic sunset lighting and warm, earthy tones of image 1. Envision majestic floating islands, their forms echoing the organic curves of the dunes in image 1, suspended in a vast sky that transitions from deep twilight blue to fiery orange at the horizon. From these airborne landmasses, ethereal waterfalls cascade downwards, reflecting the magical glow of the setting sun.",
+  "annotator": "Johnny",
+  "objects": [
+    "surreal dreamscape",
+    "majestic floating islands",
+    "organic curves on islands",
+    "vast sky",
+    "deep twilight blue sky",
+    "fiery orange sky at the horizon",
+    "ethereal waterfalls",
+    "dramatic sunset lighting",
+    "warm, earthy tones",
+    "magical glow reflecting on waterfalls"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,26 @@
+{
+  "task": "SRIE",
+  "topic": "P",
+  "subtopic": "Medical images",
+  "prompt": "Stylize the dental X-ray using the sketch-like shading and bone texture from the reference skull illustration, while preserving anatomical structure.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 (the dental X-ray) by applying the distinct sketch-like shading and detailed bone texture observed in image 2 (the skull illustration). Ensure the original anatomical structure of the dental X-ray is fully preserved throughout the stylization.",
+  "annotator": "nimajamali",
+  "objects": [
+    "Human skull bones (as seen in dental X-ray)",
+    "Mandible",
+    "Maxilla",
+    "Upper teeth",
+    "Lower teeth",
+    "Zygomatic arches",
+    "Nasal cavity",
+    "Sinuses",
+    "Sketch-like shading",
+    "Detailed bone texture"
+  ],
+  "human_annotation": true
+}

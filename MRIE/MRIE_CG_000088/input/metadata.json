@@ -1,0 +1,28 @@
+{
+  "subtopic": "VFX and Particles",
+  "prompt": "Edit image 1 with vibrant light particle VFX. Particles should be intense, emanating from stage lights like the sun captured in image 2, and flow/spread through the air like the light over the landscape in image 3, enhancing the concert energy.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748456460779,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1 by adding vibrant light particle VFX. These particles should emanate intensely from the stage lights in the upper portion of image 1, possessing a concentrated, radiant glow similar to the sun captured in image 2. The particles must then flow and diffuse dynamically throughout the air, spreading across the stage area and above the crowd, mirroring the widespread atmospheric light distribution over the landscape in image 3. The overall effect should enhance the energetic atmosphere of the concert.",
+  "annotator": "winston",
+  "objects": [
+    "Concert stage",
+    "Stage lights (emitting light particles)",
+    "Vibrant light particle VFX",
+    "Performer on stage",
+    "Hand holding smartphone",
+    "Smartphone screen displaying concert",
+    "Audience / crowd",
+    "Diffused atmospheric light (from particles)",
+    "Radiant glow from particles",
+    "Guitar"
+  ]
+}

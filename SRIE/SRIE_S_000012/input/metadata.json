@@ -1,0 +1,27 @@
+{
+  "subtopic": "Software interfaces",
+  "prompt": "Edit image 1: Overlay the central 'Welcome to Program Options Dialog!' popup window from image 2 onto the main interface of image 1, simulating a dialog box appearing on the software.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751004729758,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit image 1: Overlay the 'Welcome to Program Options Dialog!' popup window, including its title bar and borders, from image 2 onto the center of the 'Bulk Rename Utility' interface in image 1. The dialog should appear as a newly opened window, centered both horizontally and vertically over the existing application.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Bulk Rename Utility application window",
+    "\"Welcome to Program Options Dialog!\" popup window",
+    "Popup window title bar",
+    "Popup window borders",
+    "\"Welcome to Program Options Dialog!\" text within the popup",
+    "Language selection dropdown within the popup",
+    "Checkboxes within the popup",
+    "OK button within the popup",
+    "Cancel button within the popup",
+    "Zappit logo/graphic within the popup"
+  ]
+}

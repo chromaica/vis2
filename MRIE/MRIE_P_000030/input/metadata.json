@@ -1,0 +1,23 @@
+{
+  "task": "MRIE",
+  "topic": "P",
+  "subtopic": "Scenic Nature Parks",
+  "prompt": "Add the butterfly from the second image to the first image, standing on the flower in focus. The change the background of the first image to the one in the third image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Integrate the butterfly from image 2, positioning it prominently on the in-focus purple lilac flower cluster in the mid-left foreground. Replace the entire existing background of image 1 with the scenic landscape from image 3, ensuring the tall foreground grass, the traditional building, and the distant modern city skyline are visible behind the lilac flowers and the newly added butterfly.",
+  "annotator": "boris",
+  "objects": [
+    "purple lilac flower cluster (in-focus, mid-left foreground)",
+    "butterfly (from image 2), on the lilac flowers",
+    "tall foreground grass (from image 3), behind the lilac flowers",
+    "traditional building (from image 3), behind the lilac flowers",
+    "modern city skyline (from image 3), behind the lilac flowers",
+    "original background of image 1 (should not be present)"
+  ],
+  "human_annotation": true
+}

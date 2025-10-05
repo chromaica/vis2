@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "create a handshake icon where the hands are made of puzzle pieces fitting together perfectly",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "An icon depicting a handshake. Both hands are uniquely formed by multiple, interlocking puzzle pieces. At the point of contact, the puzzle pieces from each hand interlock seamlessly, creating a perfectly unified and coherent symbol.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Icon",
+    "Two hands",
+    "Handshake gesture",
+    "Each hand formed by multiple puzzle pieces",
+    "Puzzle pieces interlocking seamlessly at the point of hand contact",
+    "Unified symbol"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,25 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "Delicate paint strokes overlay torn Chinese newspapers interwoven with elegant bird illustrations, forming a harmonious, textured, culturally rich collage.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a mixed-media artwork. Create a harmonious and richly textured collage, inspired by the fragmented composition, layered elements, and varied textures of image 1. The collage should specifically feature torn pieces of aged Chinese newspapers artfully interwoven with elegant illustrations of birds. Subtle, delicate paint strokes should be visibly layered over and integrated within these paper elements, forming a culturally profound and visually intricate tapestry.",
+  "annotator": "Johnny",
+  "objects": [
+    "Collage artwork",
+    "Fragmented composition",
+    "Layered elements",
+    "Varied textures",
+    "Torn pieces of aged Chinese newspapers",
+    "Elegant illustrations of birds",
+    "Subtle, delicate paint strokes",
+    "Paint strokes layered over paper elements",
+    "Paint strokes integrated within paper elements"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,16 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Pop art",
+  "prompt": "A pop art depiction of a cityscape at night, showcasing neon signs and skyscrapers, with a stylized starry sky.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A vibrant pop art depiction of a night cityscape. Towering skyscrapers fill the frame, illuminated by a multitude of bright, glowing neon signs. Above the urban scene, a stylized starry sky is visible.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Night cityscape",
+    "Towering skyscrapers",
+    "Bright, glowing neon signs",
+    "Stylized starry sky above the urban scene"
+  ]
+}

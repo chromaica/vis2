@@ -1,0 +1,19 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Insert this organizational chart under the company logo.",
+  "cond_images": [
+    "1.png",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Insert the organizational chart from image 2 directly below the company logo. Expand the canvas of image 1 downwards as needed to fully accommodate the chart, ensuring it is horizontally centered beneath the logo while maintaining its original aspect ratio and legibility.",
+  "annotator": "Johnny",
+  "objects": [
+    "Company logo",
+    "Organizational chart, directly below and horizontally centered relative to the company logo"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

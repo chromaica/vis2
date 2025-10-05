@@ -1,0 +1,20 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "Create an underwater adventure game environment inspired by the coral reefs in the first image and the submarine model from the second image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a 3D game environment screenshot for an underwater adventure. The scene should be dominated by a vibrant, extensive coral reef system, drawing inspiration from the varied textures and rich colors of image 1, including schools of small, bright fish swimming within. Sunlight rays should stream down from the surface into the clear blue water, mirroring the illumination in image 1. Position a sleek, grey submarine, consistent with the design in image 2, prominently navigating through or exploring this coral landscape. The overall image should evoke a sense of underwater exploration and discovery.",
+  "annotator": "paria",
+  "objects": [
+    "vibrant, extensive coral reef system",
+    "schools of small, bright fish",
+    "sunlight rays streaming down from the surface",
+    "clear blue water",
+    "sleek, grey submarine prominently navigating through the coral landscape"
+  ]
+}

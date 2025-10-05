@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Forms and Authentication",
+  "prompt": "Edit image 1 by replacing the circular pink login arrow with the red 'submit' button from image 2, scaled to fit the same location and size, and replacing the 'Register' text link with the button from image 3 scaled proportionally to match surrounding UI elements. Maintain background theme and headphone icons.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the login screen. Replace the circular pink login arrow button at the bottom center with the red 'SUBMIT' button from image 2. Scale the 'SUBMIT' button to fit the precise location and size of the original circular button. Furthermore, replace the 'Register' text link, positioned next to 'Haven't Account?' in image 1, with the 'REGISTER HERE' button from image 3. This 'REGISTER HERE' button should be scaled proportionally to match the surrounding UI elements. Ensure the existing background theme and headphone icons remain unchanged.",
+  "annotator": "parnian",
+  "objects": [
+    "Login text",
+    "Purple/dark background theme",
+    "Username input field with icon",
+    "Password input field with icon",
+    "\"Haven't Account?\" text",
+    "Headphone icons",
+    "Red 'SUBMIT' button at bottom center",
+    "'REGISTER HERE' button next to \"Haven't Account?\"",
+    "Circular pink login arrow button (should not be present)",
+    "'Register' text link (should not be present)"
+  ]
+}

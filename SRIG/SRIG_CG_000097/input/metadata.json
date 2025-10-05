@@ -1,0 +1,22 @@
+{
+  "subtopic": "Object detection visuals",
+  "prompt": "Using elements from the reference underwater scene, generate a computer graphics visualization for object detection. Show distinct starfish and sea urchins on a rocky seabed, emphasizing clear object boundaries despite the murky green water effect.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://source.roboflow.com/XlV1xUi0SkIciiwL8rRI/01Segezj4NcEosNe0oD6/original.jpg",
+  "promptGeneratedTimestamp": 1748772436485,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a computer graphics visualization for object detection. Using the visual style and environment of image 1, depict a murky green underwater scene with a rocky seabed. Feature a distinct blue starfish with orange markings prominently on the mid-right of the seabed, and multiple dark, spiky sea urchins scattered across the bottom-right. Crucially, ensure all object boundaries are sharp and clear, facilitating object detection, despite the overall murky green water effect.",
+  "annotator": "ishengfang",
+  "objects": [
+    "murky green underwater scene",
+    "rocky seabed",
+    "distinct blue starfish with orange markings prominently on the mid-right of the seabed",
+    "multiple dark, spiky sea urchins scattered across the bottom-right"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

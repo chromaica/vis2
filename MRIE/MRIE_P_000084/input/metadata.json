@@ -1,0 +1,28 @@
+{
+  "subtopic": "Medical images",
+  "prompt": "Edit image 1 by overlaying the transparent X-ray skeletal structure of the knees from image 2 onto the legs. Integrate the realistic medical surgical hardware from image 3 onto the knee joints as if present under the skin.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749228961988,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "P",
+  "prompt_refined": "Edit image 1. Superimpose a transparent, photorealistic X-ray view of the skeletal structure of the knees, using the X-ray style and bone detail from image 2, directly onto the corresponding knee areas of the legs in image 1. Within this transparent view, seamlessly integrate realistic medical surgical hardware, referencing the form and appearance of the metal plate and screws visible in image 3, onto both knee joints. The combined effect should be a clear visualization of the X-ray bones and the surgical hardware appearing as if present just beneath the skin.",
+  "annotator": "boris",
+  "objects": [
+    "Legs",
+    "Knees",
+    "Transparent X-ray view overlay",
+    "Photorealistic skeletal structure of knees",
+    "Medical X-ray style bones",
+    "Realistic surgical hardware",
+    "Metal plate integrated into knee X-ray view",
+    "Screws integrated into knee X-ray view"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

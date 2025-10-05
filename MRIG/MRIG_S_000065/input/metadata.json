@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "Design a text-based hacking sim with terminal commands and network graph. Use code style from the first image and glowing node map from the second.",
+  "cond_images": [
+    "1.png",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate an image of a text-based hacking simulation interface. The main element should be a terminal window, styled with the distinct green text, monospace font, and command prompt appearance from image 1. The terminal window itself should feature the macOS-like frame, title bar, and control buttons as seen in image 1. Behind or integrated with this terminal, include a dynamic, glowing blue network graph, consistent with the interconnected nodes and luminous lines from image 2. The overall scene should convey a high-tech, cyber security environment.",
+  "annotator": "paria",
+  "objects": [
+    "Terminal window",
+    "Text-based command prompt with green monospace styling",
+    "macOS-like terminal frame",
+    "Terminal title bar",
+    "Terminal control buttons",
+    "Dynamic glowing blue network graph, behind or integrated with the terminal",
+    "Network graph interconnected nodes",
+    "Network graph luminous lines"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Online Meeting Interfaces",
+  "prompt": "Change the entire top row of image 1 with three identical frames of the woman from image 2 waving and update the meeting platform logo (in the very top left of the image) from blue zoom icon to the Skype icon using image 3, keeping other UI elements the same.",
+  "cond_images": [
+    "1.png",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the three participant video frames in the top row with three identical frames of the woman from image 2, depicting her smiling and waving. Additionally, update the meeting platform logo in the very top-left corner of image 1 by replacing the existing blue Zoom icon with the Skype icon from image 3. Ensure all other user interface elements and text in image 1 remain unchanged.",
+  "annotator": "parnian",
+  "objects": [
+    "Video frame with woman from image 2 (smiling and waving) in top-left position",
+    "Video frame with woman from image 2 (smiling and waving) in top-middle position",
+    "Video frame with woman from image 2 (smiling and waving) in top-right position",
+    "Skype icon in the very top-left corner",
+    "Melanija Meli\u0107's video frame in the bottom-left position",
+    "Marko Bozak's video frame in the bottom-right position",
+    "Meeting chat panel on the right side",
+    "Windows taskbar at the bottom",
+    "\"Zoom Meeting\" text in the top-left",
+    "Meeting controls bar at the bottom of the meeting window"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Stylized art",
+  "prompt": "A magical forest with glowing mushrooms and fairies",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate an ethereal and vibrant magical forest artwork, using image 1 as a foundational structural guide for the forest's sculpted, stylized forms and layered depths. Integrate numerous bioluminescent mushrooms of various sizes, scattered across the undulating foreground ground and deeper among the trees, radiating a soft, otherworldly glow. Introduce several delicate, luminous fairies, some gracefully flitting through the gaps between the trees, and others subtly perched on mushroom caps, all illuminated by the ambient light of the glowing flora. The scene should convey an enchanting, mystical atmosphere.",
+  "annotator": "Johnny",
+  "objects": [
+    "Forest with sculpted, stylized forms and layered depths",
+    "Numerous bioluminescent mushrooms",
+    "Mushrooms of various sizes",
+    "Mushrooms scattered across undulating foreground ground",
+    "Mushrooms scattered deeper among the trees",
+    "Several delicate, luminous fairies",
+    "Fairies gracefully flitting through gaps between trees",
+    "Fairies subtly perched on mushroom caps",
+    "Soft, otherworldly glow radiating from mushrooms",
+    "Ambient light from glowing flora illuminating fairies"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

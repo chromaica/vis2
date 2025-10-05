@@ -1,0 +1,18 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Brand this sneaker with the Nike Swoosh in black on the outer side and \u2018AIR MAX\u2019 text on the heel tab, matching the shoe\u2019s stitching and curvature.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Add a black Nike Swoosh logo to the outer, visible side of the sneaker. Additionally, place the text \u2018AIR MAX\u2019 onto the heel tab. Both the Nike Swoosh and the \u2018AIR MAX\u2019 text should conform naturally to the shoe\u2019s existing stitching and curvature, appearing as integrated branding.",
+  "annotator": "matina",
+  "objects": [
+    "white sneaker",
+    "black Nike Swoosh logo on the outer, visible side of the sneaker",
+    "'AIR MAX' text on the heel tab",
+    "shadow of the sneaker"
+  ]
+}

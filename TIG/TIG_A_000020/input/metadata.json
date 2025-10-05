@@ -1,0 +1,18 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "Surreal digital waves cascading across a dark canvas, with luminous jellyfish swirling gracefully within the artwork.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Surreal digital waves, glowing and undulating with light and data, cascade across a deep, dark, void-like background, filling the entire frame. Several luminous jellyfish, their bioluminescence softly pulsing, gracefully drift and swirl through these digital currents.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Surreal digital waves",
+    "Glowing light (from waves)",
+    "Data elements (on waves)",
+    "Deep, dark, void-like background",
+    "Luminous jellyfish (several)",
+    "Pulsing bioluminescence (from jellyfish)"
+  ]
+}

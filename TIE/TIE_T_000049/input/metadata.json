@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Transform the fire into water ",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Transform the large fire engulfing the house in the background into powerful streams and sprays of water, as if the blaze is being actively extinguished. Replace all visible flames and smoke around the house with realistic cascades and pools of water, making the scene appear thoroughly doused by the firefighters and their equipment present.",
+  "annotator": "matina",
+  "objects": [
+    "girl in the foreground",
+    "house in the background",
+    "powerful streams and sprays of water",
+    "realistic cascades and pools of water",
+    "firefighters",
+    "fire truck",
+    "fire hydrant",
+    "yellow hose",
+    "visible flames (should not be present)",
+    "visible smoke (should not be present)"
+  ]
+}

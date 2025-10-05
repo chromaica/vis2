@@ -1,0 +1,24 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": "Create a neon-soaked cyberpunk restaurant website with glitching text effects, holographic menu items, purple and cyan gradients, floating food imagery, and a reservation system that looks like a terminal interface",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a digital screenshot of a neon-soaked cyberpunk restaurant website interface. The design features prominent purple and cyan gradients throughout the background and UI elements. Holographic 3D projections of futuristic food and drink items (e.g., glowing synth-sushi, iridescent cocktails) float freely as the main menu display. Text elements, especially headings and menu descriptions, exhibit dynamic glitching effects. A dedicated section, resembling a retro-futuristic terminal interface with green monospaced text and a blinking cursor, is visible on the right side of the screen, serving as the reservation system.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Cyberpunk restaurant website interface",
+    "Purple and cyan gradient background",
+    "Purple and cyan gradient UI elements",
+    "Holographic 3D projections of futuristic food and drink",
+    "Glowing synth-sushi",
+    "Iridescent cocktails",
+    "Text elements with dynamic glitching effects",
+    "Retro-futuristic terminal interface on the right side of the screen",
+    "Green monospaced text within the terminal",
+    "Blinking cursor within the terminal"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

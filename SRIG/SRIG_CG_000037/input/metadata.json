@@ -1,0 +1,26 @@
+{
+  "subtopic": "3D renders",
+  "prompt": "Generate a realistic 3D render of a detailed ceramic beast sculpture, similar to the reference dragon in material texture, composition, and studio lighting setup.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://commons.wikimedia.org/wiki/File:Stanford_Dragon.jpg",
+  "promptGeneratedTimestamp": 1748767215520,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a realistic 3D render of a detailed ceramic beast sculpture. The sculpture's material should be a light blue ceramic with a subtly speckled, semi-glossy finish, mirroring the texture of the dragon in image 1. Position the beast centrally, slightly to the right, on a dark wooden surface, replicating the composition, full-body view from a slightly low angle, and background blur seen in image 1. The scene should be lit with soft, diffused studio lighting, analogous to the setup in image 1, casting comparable highlights and shadows against a subtly lit, blurred grey background.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Detailed ceramic beast sculpture",
+    "Light blue, subtly speckled, semi-glossy finish on the sculpture",
+    "Dark wooden surface",
+    "Subtly lit, blurred grey background",
+    "Soft, diffused studio lighting",
+    "Full-body view of the beast sculpture",
+    "Slightly low camera angle",
+    "Beast sculpture positioned centrally, slightly to the right"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

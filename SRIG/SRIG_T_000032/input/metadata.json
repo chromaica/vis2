@@ -1,0 +1,25 @@
+{
+  "subtopic": "Memes",
+  "prompt": "Generate a Textual Graphics meme using the reference image composition as the background. Add classic bold meme text overlay, top and bottom, related to driving or speed humor.",
+  "cond_images": [
+    "1.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1750705347228,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "T",
+  "annotator": "winston",
+  "prompt_refined": "Generate a Textual Graphics meme by overlaying bold white meme text with a black outline onto the composition of image 1. Place one line of text prominently at the top of the image and another line prominently at the bottom. The text content should be humorous and related to driving or speed.",
+  "objects": [
+    "orange and black racing car",
+    "road surface",
+    "fields in background",
+    "hills in background",
+    "sky",
+    "bold white meme text at top of image",
+    "bold white meme text at bottom of image",
+    "black outline for text",
+    "motion blur effect"
+  ]
+}

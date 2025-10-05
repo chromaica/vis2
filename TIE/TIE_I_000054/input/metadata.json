@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Change the line colors to green, orange, and purple for Series 1, 2, and 3.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the line chart. Change the color of the 'Series 1' line (currently light blue) to green. Change the color of the 'Series 2' line (currently blue) to orange. Change the color of the 'Series 3' line (currently red) to purple. Ensure the corresponding color swatches and text labels for 'Series 1', 'Series 2', and 'Series 3' in the legend at the bottom of the chart are updated to match these new line colors.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Line Chart title \"Line Chart - Data Driven\"",
+    "Chart Title \"Chart Title\"",
+    "Y-axis",
+    "X-axis",
+    "Grid lines",
+    "Line for 'Series 1' (green)",
+    "Line for 'Series 2' (orange)",
+    "Line for 'Series 3' (purple)",
+    "Legend with 'Series 1' (green color swatch and label), 'Series 2' (orange color swatch and label), 'Series 3' (purple color swatch and label)",
+    "\"Your Logo\" text"
+  ]
+}

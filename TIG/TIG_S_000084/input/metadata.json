@@ -1,0 +1,19 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "A receipt from a Seoul PC bang (internet cafe) showing hourly computer rental and energy drink purchases, printed in Korean with gaming tournament brackets scribbled on the back and energy drink ring stains",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A crumpled paper receipt from a Seoul PC bang (internet cafe). The front prominently displays detailed line items for hourly computer rental and various energy drink purchases, with all text printed entirely in Korean. Hand-drawn gaming tournament brackets are faintly visible on the receipt, appearing as if scribbled on the reverse side and showing through the paper. Multiple distinct, circular energy drink ring stains are visible across the receipt's surface.",
+  "annotator": "theblackcat",
+  "objects": [
+    "crumpled paper receipt",
+    "detailed line items on receipt (for computer rental and energy drinks)",
+    "Korean text on receipt",
+    "hand-drawn gaming tournament brackets (faintly visible, showing through)",
+    "multiple distinct, circular energy drink ring stains"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

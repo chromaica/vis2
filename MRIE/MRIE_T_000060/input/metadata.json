@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "T",
+  "subtopic": "Signs",
+  "prompt": "Replace the sign in the first image with the second image. Then, add the car from the third image onto the road, and add a cow falling from the sky above the car. Add blur to the cow and car to show their motion. The cow shoule be upside down while falling.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the existing orange diamond-shaped road sign on the left side of the road with the yellow warning sign provided in image 2. Introduce the tan SUV from image 3 onto the road in image 1, positioning it in the mid-ground, further along the visible road segment past the initial curve. Directly above this newly placed SUV, add a cow falling from the sky, ensuring the cow is oriented upside down. Apply motion blur to both the falling cow and the SUV to illustrate their motion.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "road",
+    "coastal cliff",
+    "ocean",
+    "sky",
+    "guardrail",
+    "orange diamond-shaped road sign (should not be present)",
+    "yellow warning sign on the left side of the road",
+    "tan SUV on the road in the mid-ground",
+    "upside-down cow falling from the sky above the SUV",
+    "motion blur on the SUV and falling cow"
+  ]
+}

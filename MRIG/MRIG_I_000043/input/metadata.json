@@ -1,0 +1,29 @@
+{
+  "subtopic": "UI mockups",
+  "prompt": "Generate a clean UI mockup dashboard. Utilize the multi-section layout structure and list elements from image 1. Incorporate interactive widgets like toggles and gauges inspired by image 2, maintaining a soft, rounded design aesthetic seen in both.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "Dashboard UI mockup",
+  "searchQueryGeneratedTimestamp": 1752288855308,
+  "promptGeneratedTimestamp": 1752288917251,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "I",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a clean UI mockup dashboard. Employ a multi-section layout structure, inspired by image 1, featuring clearly defined content blocks for different information categories. Populate these sections with vertically arranged list elements, such as activity cards and progress displays, visually similar to those found in image 1. Integrate interactive widgets, drawing inspiration from image 2: include prominent toggle switches for on/off states, similar to those seen in image 2, and a central circular gauge element to display a numerical value with a progress indication, mirroring the style of the gauge in image 2. Ensure all UI components, including containers, buttons, and input fields, feature a soft, rounded corner design aesthetic, consistent with the visual style present in both image 1 and image 2.",
+  "objects": [
+    "Clean UI mockup dashboard",
+    "Multi-section layout structure",
+    "Clearly defined content blocks",
+    "Vertically arranged list elements",
+    "Activity cards",
+    "Progress displays",
+    "Prominent toggle switches",
+    "Central circular gauge element",
+    "UI containers with soft, rounded corners",
+    "UI buttons and input fields with soft, rounded corners"
+  ]
+}

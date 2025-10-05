@@ -1,0 +1,27 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Edit image 1: Apply the purple color palette from image 2 to the Earth's layers. Update the visible Earth surface with the stylized green and dark appearance from image 3. Add the white border from image 3 around the diagram.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1:\n- Apply the purple color palette from image 2 to the Earth's internal layers (Crust, Upper Mantle, Lower Mantle, Outer Core, Inner Core), ensuring each layer adopts a distinct shade from the palette.\n- Update the visible Earth surface on the left side of the diagram with the stylized dark green and dark purple appearance, including its subtle textures, as seen on the globe in image 3.\n- Add the prominent white circular border from image 3 around the entire Earth diagram.",
+  "annotator": "maxku",
+  "objects": [
+    "Earth's internal layers (Crust, Upper Mantle, Lower Mantle, Outer Core, Inner Core) with distinct shades from a purple color palette",
+    "Visible Earth surface on the left side, stylized dark green and dark purple with subtle textures",
+    "Prominent white circular border around the entire Earth diagram",
+    "Crust label",
+    "Upper Mantle label",
+    "Lower Mantle label",
+    "Outer Core label",
+    "Inner Core label",
+    "Lines connecting labels to respective layers"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

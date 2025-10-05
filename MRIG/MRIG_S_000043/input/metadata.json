@@ -1,0 +1,24 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Generate a screenshot of a Snapchat-like app interface showing a user (from the first image) taking a photo with a filter applied (from the second image)",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a full-screen screenshot of a mobile camera app interface, similar to Snapchat. The main camera view should prominently feature the person from image 1 (Brad Pitt) actively looking into the camera, with the animal ear and nose filter from image 2 precisely applied over his face. Include typical app UI elements such as a large circular shutter button centered at the bottom, and other functional icons for flash, camera flip, and filter selection positioned around the screen.",
+  "annotator": "paria",
+  "objects": [
+    "Mobile camera app interface",
+    "Brad Pitt actively looking into the camera",
+    "Animal ear filter applied over Brad Pitt's face",
+    "Animal nose filter applied over Brad Pitt's face",
+    "Main camera view",
+    "Large circular shutter button centered at the bottom",
+    "Flash icon",
+    "Camera flip icon",
+    "Filter selection icon"
+  ]
+}

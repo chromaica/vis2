@@ -1,0 +1,21 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Arrange this flow in a more linear, visually appealing layout.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Rearrange the 5-step flow diagram from its current question mark shape into a clear, vertical linear progression. Ensure that the numbered steps 01 through 05 are aligned vertically from top to bottom, maintaining their original blue circular icons and associated text labels. Preserve the title \"Effective use of charts, graphs, and infographics\" at the top of the image.",
+  "annotator": "cwhsu",
+  "objects": [
+    "\"Effective use of charts, graphs, and infographics\" title",
+    "Blue circular icon with \"01\" and \"Why Visualize Data?\"",
+    "Blue circular icon with \"02\" and \"Choosing the Right Chart or Graph\"",
+    "Blue circular icon with \"03\" and \"Design Principles\"",
+    "Blue circular icon with \"04\" and \"Infographics\"",
+    "Blue circular icon with \"05\" and \"Examples\"",
+    "Vertical linear progression connecting the 5 steps"
+  ]
+}

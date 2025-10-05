@@ -1,0 +1,27 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "QR Code",
+  "prompt": "Edit image 1 by replacing its QR code with the code from image 2, keeping the same alignment and size. Then change the background gradient of image 1 to a solid color taken from the blue palette in image 3. Keep other aspects including all text, buttons, and QR card layout unchanged.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the existing QR code within the central 'Scan QR Code' card with the QR code from image 2, ensuring it maintains the exact same position, alignment, and size as the original QR code in image 1. Subsequently, change the background of image 1, currently a soft gradient with transparent bubbles, to a solid blue color. This blue color should be precisely the '0074ff' shade found in the blue swatch of image 3's color palette. All other elements in image 1, including the browser frame, text content, buttons, and the layout of the 'Scan QR Code' card, must remain completely unchanged.",
+  "annotator": "parnian",
+  "objects": [
+    "Browser frame",
+    "'Scan QR Code' card",
+    "Text content within the card (e.g., \"Scan QR Code\", \"Scan this QR code in-app to verify device.\", \"Or enter the code manually\", \"ARHTR7828FHJI68\")",
+    "Input field with accompanying small blue button",
+    "\"Continue\" button",
+    "QR code with dinosaur (from image 2)",
+    "Solid blue background (color '0074ff')",
+    "Original QR code from image 1 (should not be present)",
+    "Soft gradient background with transparent bubbles (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

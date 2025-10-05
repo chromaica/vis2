@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "Emulate the neon tube glow, color halo, and slight tube bend reflections.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit Image 1, the typographic design, to render its colored elements and letters as glowing neon tubes. Apply a distinct neon tube glow and corresponding color halos to each segment. Additionally, incorporate subtle reflections characteristic of slightly bent neon glass tubes, drawing visual inspiration from Image 2 for the overall luminous and reflective quality.",
+  "annotator": "matina",
+  "objects": [
+    "Typographic design \"IMAGINATION RULES THE WORLD\"",
+    "Letters rendered as glowing neon tubes",
+    "Colored geometric shapes and patterns rendered as glowing neon tubes",
+    "Distinct neon tube glow around each segment",
+    "Color halos corresponding to each neon segment",
+    "Subtle reflections on the neon tubes",
+    "Slightly bent appearance of neon glass tubes",
+    "Original color scheme (red, yellow, teal/cyan, dark pink/magenta, white/cream) applied to neon elements",
+    "Dark grey background"
+  ],
+  "human_annotation": true
+}

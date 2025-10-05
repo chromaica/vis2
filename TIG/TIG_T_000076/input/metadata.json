@@ -1,0 +1,24 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Word Clouds",
+  "prompt": "Generate a vibrant word cloud graphic. The words 'LEARN GROW ADAPT EXPLORE EVOLVE PROGRESS' should appear in varied sizes using bold modern fonts, with dynamic blue and green colors, against a soft gradient background.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a vibrant, dynamic word cloud graphic. The words 'LEARN', 'GROW', 'ADAPT', 'EXPLORE', 'EVOLVE', and 'PROGRESS' are to be the primary elements, arranged in a dense, clustered formation. Each word should be rendered in a bold, modern sans-serif font, with varying sizes to create visual interest and hierarchy. The color palette for the text must consist of dynamic shades of blue and green, with different words or letters having distinct hues. The background should be a smooth, soft gradient, providing a subtle and complementary backdrop.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Word 'LEARN'",
+    "Word 'GROW'",
+    "Word 'ADAPT'",
+    "Word 'EXPLORE'",
+    "Word 'EVOLVE'",
+    "Word 'PROGRESS'",
+    "Bold, modern sans-serif font (for words)",
+    "Varying text sizes",
+    "Dynamic shades of blue and green text colors",
+    "Smooth, soft gradient background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

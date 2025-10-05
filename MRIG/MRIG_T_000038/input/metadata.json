@@ -1,0 +1,23 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": "Create a comic where lightning from the second image strikes behind the figure from the first image, who says 'Even art can\u2019t escape bad weather!' in comic-style font text in the third image",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a single comic panel. The panel should feature the Mona Bean figure from image 1. The background behind the Mona Bean figure should be the dark, cloudy sky and yellow lightning bolt from image 2, depicting the lightning striking vertically directly behind the figure. From the Mona Bean figure, include a speech bubble, styled exactly like the speech bubble in image 3, containing the text 'Even art can\u2019t escape bad weather!' rendered in a comic-style font consistent with image 3.",
+  "annotator": "parnian",
+  "objects": [
+    "Comic panel",
+    "Mona Bean figure",
+    "Dark, cloudy sky",
+    "Yellow lightning bolt striking vertically directly behind the Mona Bean figure",
+    "Speech bubble",
+    "Text: \"Even art can\u2019t escape bad weather!\"",
+    "Comic-style font"
+  ]
+}

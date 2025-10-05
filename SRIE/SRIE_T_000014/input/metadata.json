@@ -1,0 +1,23 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Change the font of the text to Times New Roman, set it to italic, and switch the weight from bold to regular",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the existing image 1 by transforming the text 'FedEx'. Using image 2 as a reference for the precise textual content and its original form, change the font of 'FedEx' to Times New Roman, set its style to italic, and adjust its weight from bold to regular.",
+  "annotator": "matina",
+  "objects": [
+    "The text \"FedEx\"",
+    "The text \"FedEx\" in Times New Roman font",
+    "The text \"FedEx\" in italic style",
+    "The text \"FedEx\" in regular weight",
+    "The text \"Fed\" in purple color",
+    "The text \"Ex\" in orange color",
+    "White background"
+  ],
+  "human_annotation": true
+}

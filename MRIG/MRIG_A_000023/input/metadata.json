@@ -1,0 +1,23 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Traditional art",
+  "prompt": "Create a traditional impressionistic painting of the white lily and its reflection from image 1, rendered with the soft texture, brushwork, and pastel color palette reminiscent of the style found in image 2.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a traditional impressionistic painting of the prominent white lily and its clear reflection directly below it, as depicted in image 1. Render this scene with the soft, visible brushwork, gentle texture, and muted pastel color palette characteristic of the art style in image 2.",
+  "annotator": "samin",
+  "objects": [
+    "Prominent white lily",
+    "Clear reflection of the lily directly below it",
+    "Lily stem and leaves",
+    "Traditional impressionistic painting style",
+    "Soft brushwork",
+    "Visible brushwork",
+    "Gentle texture",
+    "Muted pastel color palette"
+  ]
+}

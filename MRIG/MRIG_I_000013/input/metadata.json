@@ -1,0 +1,30 @@
+{
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Generate a concentric donut chart utilizing the layered structure from image 2. Apply the bold segment outlines and prominent percentage labels characteristic of image 1. Include a clear, simple title above the chart.",
+  "cond_images": [
+    "1.png",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "Diagrams charts graphs examples",
+  "searchQueryGeneratedTimestamp": 1750582787147,
+  "promptGeneratedTimestamp": 1750582878855,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "I",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a concentric donut chart. Utilize the two-layered structure from image 2. For all segments across both concentric rings, apply bold, thick black outlines, as characteristic of image 1. Place prominent percentage labels inside each segment; these should be large, centrally positioned, and highly visible, similar to the white labels in image 1. Include a clear, simple title centrally above the chart, mirroring the style and placement from image 1.",
+  "objects": [
+    "Concentric donut chart",
+    "Inner ring of segments",
+    "Outer ring of segments",
+    "Bold, thick black outlines on all segments",
+    "Percentage labels inside each segment",
+    "Large, centrally positioned percentage labels",
+    "Highly visible percentage labels",
+    "Clear, simple chart title",
+    "Chart title positioned centrally above the chart"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

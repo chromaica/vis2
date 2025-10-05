@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Create a children\u2019s AI brand mascot using the first image\u2019s friendly white-and-pink robot character, and design the brand name 'SmartBuddy' in the bold yellow cartoon font from the second image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a children's AI brand graphic featuring a mascot and text. The mascot should be the friendly, waving white-and-pink robot character from image 1. The brand name 'SmartBuddy' should be prominently displayed alongside or directly below the robot, rendered in the bold yellow cartoon font style from image 2, including its characteristic orange/pink inner shadow and blue outline.",
+  "annotator": "parnian",
+  "objects": [
+    "Friendly, waving white-and-pink robot mascot",
+    "The brand name 'SmartBuddy'",
+    "'SmartBuddy' text in bold yellow cartoon font style",
+    "'SmartBuddy' text with orange/pink inner shadow",
+    "'SmartBuddy' text with blue outline",
+    "Robot positioned alongside or directly above the 'SmartBuddy' text",
+    "'SmartBuddy' text positioned alongside or directly below the robot",
+    "Children's AI brand graphic aesthetic"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

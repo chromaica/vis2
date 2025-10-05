@@ -1,0 +1,27 @@
+{
+  "subtopic": "Traditional art",
+  "prompt": "Edit image 1: Replace the swords raised by the central figures with the magical staff from image 2, rendering it in the traditional painting style of the scene.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748489261469,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1: Replace the cluster of three swords held aloft by the central father figure with the magical staff from image 2. The staff must be rendered in the classical painting style of image 1, matching its light, shadow, and texture, while preserving the distinctive shape and the luminous quality of its crystal.",
+  "annotator": "kellycyy",
+  "objects": [
+    "Central father figure in red cloak",
+    "Magical staff (held aloft, with distinctive shape, luminous crystal, rendered in classical painting style)",
+    "Group of three sons (soldiers)",
+    "Group of women and children",
+    "Architectural background (arches and columns)",
+    "Stone floor/steps",
+    "Classical painting style (overall rendering)",
+    "Cluster of three swords (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

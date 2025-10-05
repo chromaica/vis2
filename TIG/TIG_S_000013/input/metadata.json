@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "generate a rain-soaked receipt from a Japanese convenience store, partially illegible with smeared ink, showing late-night purchases of instant ramen and energy drinks, photographed under neon street lights",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate an image of a rain-soaked receipt from a Japanese convenience store. The receipt is partially illegible, with its ink smeared by the rain. It clearly shows late-night purchases of instant ramen and energy drinks. The scene is lit by the distinctive light of neon street lights.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Rain-soaked receipt",
+    "Japanese convenience store receipt",
+    "Partially illegible and smeared ink on receipt",
+    "Instant ramen listed on receipt",
+    "Energy drinks listed on receipt",
+    "Neon street lights",
+    "Rain",
+    "Night scene"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "Generate a screenshot of a MMORPG game that uses character designs and armor style from the first image and the fantasy environment from the second image.",
+  "cond_images": [
+    "1.png",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate an in-game screenshot for a high-fidelity MMORPG. The scene should prominently feature two player characters in the foreground\u2014one male and one female\u2014wearing intricate, ornate fantasy armor that directly reflects the designs, textures, and aesthetic of the armored figures in image 1. These characters are situated within a sprawling, dark gothic environment, with towering, highly detailed architecture, dramatic lighting, and an atmospheric mood consistent with the setting depicted in image 2. The viewpoint should be reminiscent of an immersive third-person game perspective, highlighting both the characters and the grand scale of the environment.",
+  "annotator": "paria",
+  "objects": [
+    "male player character (in foreground)",
+    "female player character (in foreground)",
+    "intricate fantasy armor (reflecting Image 1 designs)",
+    "dark gothic environment",
+    "towering, highly detailed architecture (consistent with Image 2)",
+    "dramatic lighting",
+    "atmospheric elements (consistent with Image 2)",
+    "third-person game viewpoint",
+    "sprawling scale of the environment"
+  ],
+  "human_annotation": true
+}

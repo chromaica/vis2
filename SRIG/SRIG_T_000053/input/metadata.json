@@ -1,0 +1,20 @@
+{
+  "task": "SRIG",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "Create modern minimalist typography for a coffee shop logo using wooden letterpress blocks.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate modern minimalist typography for a coffee shop logo. The typography should visually resemble text produced by wooden letterpress blocks, incorporating the distinct wood grain textures and carved letter aesthetic observed in image 1.",
+  "annotator": "Johnny",
+  "objects": [
+    "Modern minimalist typography",
+    "Typography forming a coffee shop logo",
+    "Typography visually resembling text produced by wooden letterpress blocks",
+    "Typography incorporating distinct wood grain textures",
+    "Typography displaying a carved letter aesthetic"
+  ],
+  "human_annotation": true
+}

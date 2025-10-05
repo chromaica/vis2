@@ -1,0 +1,27 @@
+{
+  "subtopic": "Game assets",
+  "prompt": "Edit image 1: Transform the screen display into a detailed game environment inspired by the natural landscape of image 2. Add a dynamic character or object extending from the screen into the desk space, referencing the interactive element in image 2. Place the hand with a pen and notebook from image 3 onto the desk as if sketching game asset designs.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748455298195,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1: Transform the screen display of the computer into a detailed, expansive 3D game environment. This environment should depict a natural open savanna or grassland landscape, consistent in style and composition with the background scene in image 2, and rendered with a contemporary video game aesthetic. A dynamic character or object, such as a creature's limb or an interactive game prop, should emerge from the lower central portion of this game screen and extend outward onto the wooden desk surface, mirroring the interactive effect seen in image 2 where the elephant's trunk extends from the monitor. Additionally, on the wooden desk to the right of the drawing tablet, integrate the hand with the pen and open notebook from image 3. Position the hand as if actively sketching or writing, with the notebook displaying preliminary game asset designs or concept art.",
+  "annotator": "winston",
+  "objects": [
+    "Computer monitor",
+    "Wooden desk surface",
+    "Detailed, expansive 3D game environment on the monitor screen depicting a natural open savanna or grassland landscape with a contemporary video game aesthetic",
+    "Dynamic character or object emerging from the lower central screen onto the wooden desk",
+    "Hand with a pen, on the wooden desk to the right of the drawing tablet",
+    "Open notebook displaying preliminary game asset designs or concept art, on the wooden desk to the right of the drawing tablet",
+    "Keyboard on the wooden desk",
+    "Drawing tablet on the wooden desk",
+    "Mouse on the wooden desk"
+  ]
+}

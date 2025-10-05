@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": " Generate a refrigerator panda style with using the first reference image: a large refrigerator. Style it based on the second reference image: a chubby panda with black-and-white fur. The refrigerator should have panda-like rounded panels, bamboo-textured handles, and eye-like knobs, set in a playful pastel-colored kitchen.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic image of a refrigerator. Utilize image 1 as the structural and dimensional reference for a large, four-door, stainless steel refrigerator, complete with its external water and ice dispenser located on the upper left door. Infuse the entire appliance with the aesthetic of the chubby, black-and-white panda from image 2. Specifically, the refrigerator's front panels should be redesigned with soft, rounded contours, mimicking a panda's silhouette, and incorporate distinct black and white color blocking reminiscent of its fur patterns. Replace the existing handles with prominent, vertical, bamboo-textured bar handles on each of the four doors. Additionally, integrate two distinct, eye-like, circular black knobs on the upper half of the two main upper refrigerator doors, positioned symmetrically to resemble a panda's eyes. The transformed refrigerator should be centrally placed within a brightly lit, playful kitchen environment featuring pastel-colored cabinets and decor.",
+  "objects": [
+    "A large, four-door refrigerator",
+    "External water and ice dispenser on the upper left door",
+    "Refrigerator's front panels with soft, rounded contours mimicking a panda's silhouette",
+    "Refrigerator's front panels with distinct black and white color blocking reminiscent of panda fur patterns",
+    "Prominent, vertical, bamboo-textured bar handles on each of the four doors",
+    "Two distinct, eye-like, circular black knobs on the upper half of the two main upper refrigerator doors, positioned symmetrically",
+    "Refrigerator centrally placed",
+    "Brightly lit kitchen environment",
+    "Playful kitchen environment",
+    "Pastel-colored cabinets and decor"
+  ]
+}

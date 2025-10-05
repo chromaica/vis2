@@ -1,0 +1,32 @@
+{
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Illustrate multiple chart types, drawing inspiration from the variety presented in image 1, but execute them entirely in the vibrant, hand-sketched aesthetic, complete with handwritten labels, as depicted in image 2.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "Information Graphics Diagrams Charts Graphs",
+  "searchQueryGeneratedTimestamp": 1752242677894,
+  "promptGeneratedTimestamp": 1752242777061,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "I",
+  "annotator": "htwong",
+  "prompt_refined": "Generate an image displaying a collection of distinct information graphics and chart types, drawing inspiration from the variety presented in image 1. Each graphic should be rendered in a vibrant, hand-sketched aesthetic, complete with visible sketch lines, scribbled fills, and handwritten labels, as exemplified in image 2.",
+  "objects": [
+    "Collection of distinct information graphics and chart types",
+    "Hand-sketched bar chart",
+    "Hand-sketched line chart",
+    "Hand-sketched pie chart or donut chart",
+    "Hand-sketched bubble chart",
+    "Hand-sketched box plot",
+    "Hand-sketched radar chart",
+    "Hand-sketched area chart",
+    "Visible sketch lines on all graphics",
+    "Scribbled fills on all graphics",
+    "Handwritten labels on all graphics"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

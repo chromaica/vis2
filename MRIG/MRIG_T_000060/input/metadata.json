@@ -1,0 +1,24 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Design a brand identity for a preschool learning app using the cheerful characters from Image 1 and the soft pastel palette in Image 2.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate an app logo for a preschool learning application. The logo must prominently feature the cheerful, 3D-rendered giraffe and zebra characters from Image 1. All visual elements, including the characters, background, and any integrated text (e.g., a placeholder app name like 'Tiny Tots' in a playful, child-friendly font), must exclusively use the soft pastel color palette provided in Image 2. The overall composition should be inviting and cohesive, suitable for a brand identity icon.",
+  "annotator": "parnian",
+  "objects": [
+    "Cheerful 3D-rendered giraffe character",
+    "Cheerful 3D-rendered zebra character",
+    "\"Tiny Tots\" text",
+    "Playful, child-friendly font applied to text",
+    "Background for app logo",
+    "Soft pastel color palette applied to all elements",
+    "App logo overall composition"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

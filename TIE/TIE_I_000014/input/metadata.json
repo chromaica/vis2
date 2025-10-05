@@ -1,0 +1,25 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "Morph the flower icon into a rainbow spectrum, with each petal representing a different weather condition.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Transform the petals of the flower icon so that they collectively form a rainbow spectrum of colors. Additionally, ensure that each individual petal distinctly illustrates a different weather condition within its shape or surface. The overall style should be that of a clear and simplified information graphic.",
+  "annotator": "cwhsu",
+  "objects": [
+    "flower icon",
+    "petals forming a rainbow spectrum",
+    "petals illustrating distinct weather conditions",
+    "flower center",
+    "flower stem",
+    "flower leaves",
+    "sun weather graphic",
+    "cloud weather graphic",
+    "rain weather graphic",
+    "lightning weather graphic"
+  ],
+  "human_annotation": true
+}

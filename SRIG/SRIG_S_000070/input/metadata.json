@@ -1,0 +1,24 @@
+{
+  "subtopic": "Games",
+  "prompt": "Reimagine the heads-up display (HUD) from the reference game screenshot as if it were designed for a young child, using large, colorful, cartoonish icons and simple text.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://preview.redd.it/what-are-these-numbers-in-the-top-right-corner-of-the-hud-v0-7izxk9dzpe2f1.png?auto=webp&s=5b3a188aac3909ae7d6155253b1754911b3ee5a5",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate an updated version of the heads-up display (HUD) within image 1, redesigning it entirely for a young child. The transformation should apply to all visible HUD elements, including the mini-map and markers in the top-left, the compass and countdown timer in the top-center, the player and score counts in the top-right, the player list with names, health, and money in the bottom-left, the central crosshair, and the weapon, ammo, grenade, and button prompts in the bottom-right. All existing icons must be replaced with large, vibrant, and distinctly cartoonish graphics. All numerical and text information should be rendered in a simple, clear, and child-friendly font, emphasizing readability and a playful visual aesthetic across the entire interface.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Redesigned mini-map with large, vibrant, cartoonish graphics and markers in the top-left",
+    "Redesigned compass with large, vibrant, cartoonish graphics in the top-center",
+    "Redesigned countdown timer with simple, clear, child-friendly font in the top-center",
+    "Redesigned player and score counts with large, vibrant, cartoonish graphics and child-friendly font in the top-right",
+    "Redesigned player list with names, health, and money in simple, clear, child-friendly font in the bottom-left",
+    "Redesigned central crosshair emphasizing a playful visual aesthetic",
+    "Redesigned weapon display with large, vibrant, cartoonish graphics in the bottom-right",
+    "Redesigned ammo count in simple, clear, child-friendly font in the bottom-right",
+    "Redesigned grenade display with large, vibrant, cartoonish graphics in the bottom-right",
+    "Redesigned button prompts emphasizing a playful visual aesthetic in the bottom-right"
+  ]
+}

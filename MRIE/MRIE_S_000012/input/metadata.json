@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Forms and Authentication",
+  "prompt": "In image 1, replace the red 'LOGIN' button with the blue/red 'LOGIN' button from image 2, matching size and placement, and insert the reCAPTCHA box from image 3 below the login fields, keeping all alignment and spacing consistent with the original layout.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the login screen presented in image 1. Replace the existing solid red 'LOGIN' button with the glossy blue and red 'LOGIN' button from image 2, ensuring the new button precisely matches the size and horizontal center alignment of the original button. Furthermore, integrate the reCAPTCHA box from image 3 into the layout. Position this reCAPTCHA box centrally below the newly placed 'LOGIN' button and above the 'Forgot Password ?' text, maintaining consistent vertical spacing and overall alignment with the existing login form elements.",
+  "annotator": "parnian",
+  "objects": [
+    "Login screen form container",
+    "Red circle with person icon",
+    "User ID input field",
+    "User icon",
+    "Password input field",
+    "Lock icon",
+    "Glossy blue and red 'LOGIN' button",
+    "reCAPTCHA box",
+    "\"Forgot Password ?\" text",
+    "Solid red 'LOGIN' button (should not be present)"
+  ]
+}

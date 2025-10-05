@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Vector art",
+  "prompt": "Expand the cube but do not overflow the image. Populate the cube with appropriate objects but do not make them too crowded. Finally, make the ground and sand layers more textured and detailed.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Expand the isometric beach island scene, specifically extending the landmass and water features into the currently empty green area on the right, ensuring the overall composition remains within the image canvas. Populate the expanded areas of the island with appropriate objects like additional beach elements, small flora, or subtle structures, making sure the scene does not appear overly crowded. Furthermore, add rich texture and detail to the sandy beach ground and the land layers, including the mountain base.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "expanded isometric beach island scene",
+    "extended landmass to the right",
+    "extended water features to the right",
+    "sandy beach ground with rich texture and detail",
+    "land layers with rich texture and detail",
+    "mountain base with rich texture and detail",
+    "ocean waves",
+    "additional beach elements (e.g., beach chairs, umbrellas)",
+    "small flora in expanded areas",
+    "subtle structures in expanded areas"
+  ]
+}

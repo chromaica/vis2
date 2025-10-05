@@ -1,0 +1,22 @@
+{
+  "subtopic": "Object detection visuals",
+  "prompt": "Generate an image illustrating object detection visuals. Show bounding boxes and labels highlighting objects similar to the swan from image 1, presented on a screen or interface style reminiscent of the laptop view in image 2. Focus on clear graphical overlays.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748419967868,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate an image displaying an object detection interface. The primary visual should be a screen, presented with an angle and style reminiscent of the laptop in image 2. On this screen, show a natural scene where multiple white swans, similar in appearance to the swan in image 1, are clearly identified. Each swan must have a distinct bounding box overlaid, accompanied by a legible label such as 'SWAN' or 'Cygnus'. Ensure these graphical detection overlays are sharp, well-defined, and prominently displayed.",
+  "annotator": "winston",
+  "objects": [
+    "Laptop screen",
+    "Natural scene (displayed on screen)",
+    "Multiple white swans (on screen, similar to image 1)",
+    "Bounding boxes (overlaid on swans)",
+    "Labels (e.g., 'SWAN', 'Cygnus', overlaid on swans)"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "subtopic": "Object detection visuals",
+  "prompt": "Computer graphics visual: The hippo from image 2 shown alongside the person and cat from image 1. Each object is overlaid with a simple bounding box and class label, representing object detection output visuals in a clean style.",
+  "cond_images": [
+    "1.jpeg",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748420023329,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a clean computer graphics visual. Position the smiling purple hippo from image 2 to the left of the woman blowing dandelion seeds and the black and white cat in a yellow backpack, both sourced from image 1. Each of these three objects (the hippo, the woman, and the cat) must be clearly overlaid with a simple, clean bounding box and a corresponding class label (e.g., 'hippo', 'person', 'cat'). The overall composition should distinctly resemble an object detection output visualization.",
+  "annotator": "winston",
+  "objects": [
+    "smiling purple hippo",
+    "woman blowing dandelion seeds",
+    "black and white cat in a yellow backpack",
+    "hippo positioned to the left of the woman and cat",
+    "dandelion seeds",
+    "bounding box over hippo with label 'hippo'",
+    "bounding box over woman with label 'person'",
+    "bounding box over cat with label 'cat'",
+    "clean computer graphics visual style",
+    "object detection output visualization composition"
+  ],
+  "human_annotation": true
+}

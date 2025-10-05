@@ -1,0 +1,22 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Graffiti art",
+  "prompt": "Remove the red graffiti that is above the simpson character.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 to remove the red graffiti featuring the letter 'N' and a heart, located on the wall above the Bart Simpson character.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Bart Simpson character graffiti",
+    "three-eyed fish character graffiti",
+    "concrete wall",
+    "chain-link fence",
+    "ground",
+    "red graffiti featuring the letter 'N' and a heart (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

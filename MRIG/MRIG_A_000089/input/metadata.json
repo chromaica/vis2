@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "A digital painting merging the body and posture of the lion from image 1 with the vibrant, iridescent colors and patterns of the peacock's display in image 2, incorporating the detailed scale texture and intense blue hue from the viper in image 3.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a new digital painting. The creature should possess the full body and walking posture of the male lion from image 1, with its head slightly turned to the left. Its entire form should be covered with the distinct, finely detailed scale texture and intense aqua-blue coloration derived from the viper in image 3. Additionally, the creature's body should feature the vibrant, iridescent blue-green colors and prominent 'eye' patterns characteristic of the fanned tail display of the peacock in image 2, creating a fantastical, visually striking hybrid.",
+  "annotator": "samin",
+  "objects": [
+    "Digital painting",
+    "Fantastical hybrid creature",
+    "Full body and walking posture of a male lion (form)",
+    "Creature's head slightly turned to the left",
+    "Distinct, finely detailed aqua-blue scale texture (covering entire form)",
+    "Vibrant, iridescent blue-green colors (on creature's body)",
+    "Prominent 'eye' patterns (on creature's body)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,24 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Object detection visuals",
+  "prompt": "Place the reference object on the side of the street in the source image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Place the red octagonal 'STOP' sign, clearly visible and distinct in image 2, onto the side of the street in image 1. Position it on the sidewalk or grassy area adjacent to the road, integrating it naturally as a standing road sign.",
+  "annotator": "nimajamali",
+  "objects": [
+    "red octagonal 'STOP' sign",
+    "road sign pole",
+    "residential street",
+    "houses along the street",
+    "trees lining the street",
+    "sidewalk",
+    "grassy area adjacent to the road",
+    "parked cars"
+  ],
+  "human_annotation": true
+}

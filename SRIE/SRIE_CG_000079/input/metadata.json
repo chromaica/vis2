@@ -1,0 +1,23 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Facial estimation and analysis",
+  "prompt": "Render the source face in the artistic style of the reference.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Transform the face in image 1 into an artistic rendering, adopting the style of the oil painting depicted in image 2, including its characteristic visible brushstrokes.",
+  "annotator": "nimajamali",
+  "objects": [
+    "Boy's face",
+    "Blond hair",
+    "Green eyes",
+    "Oil painting style",
+    "Visible brushstrokes",
+    "Light blue collared shirt",
+    "Blurry light-colored background"
+  ],
+  "human_annotation": true
+}

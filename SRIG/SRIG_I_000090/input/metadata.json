@@ -1,0 +1,22 @@
+{
+  "subtopic": "Visual instructions and manuals",
+  "prompt": "Based on the reference photo of a completed bowline knot, create a four-step visual guide that illustrates how to tie the knot from start to finish. The visual guide should be in photorealistic style.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "https://www.timberlinetrails.com/sitebuilder/Photos/ClimbingInfo/Knots/Bowline%205x.jpg",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate a single image featuring a four-step visual guide on how to tie a bowline knot, presented in a 2x2 grid layout. The guide should illustrate the sequential process from an untied rope to the completed knot shown in image 1. The top-left panel should depict step one, the top-right panel step two, the bottom-left panel step three, and the bottom-right panel step four, showcasing the final knot. All steps should feature a rope consistent in appearance with the blue and red speckled rope from image 1, and the entire guide must be rendered in a photorealistic style, matching the visual fidelity of image 1.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "2x2 grid layout",
+    "Top-left panel depicting step one of tying a bowline knot (untied rope)",
+    "Top-right panel depicting step two of tying a bowline knot",
+    "Bottom-left panel depicting step three of tying a bowline knot",
+    "Bottom-right panel depicting the completed bowline knot (step four)",
+    "Blue and red speckled rope (consistent across all panels)",
+    "Wooden surface background (consistent across all panels)",
+    "Photorealistic rendering style"
+  ]
+}

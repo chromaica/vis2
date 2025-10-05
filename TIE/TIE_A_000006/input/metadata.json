@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Digital art",
+  "prompt": "Remove the watermark from the image. Then, Make the stroke of those two stickmen a bit thicker, and add a speech bubble to wrap the text.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "1.png source: Disney/Marvel; 2.png source: xkcd's What If?",
+  "prompt_refined": "Edit image 1. Remove the 'what if?' watermark and dinosaur logo located in the bottom-left corner. Thicken the stroke of the two stick figure characters on the right side of the image. Add a speech bubble around the text \"1 FLOOR DONE, ONLY 999,999,999 TO GO.\", ensuring the bubble originates from the rightmost stick figure.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "'what if?' watermark (should not be present)",
+    "dinosaur logo (should not be present)",
+    "Building structure with windows and scaffolding",
+    "Construction barriers",
+    "Left stick figure character",
+    "Right stick figure character",
+    "Hard hat on left stick figure",
+    "Hard hat on right stick figure",
+    "Clipboard held by right stick figure",
+    "Speech bubble containing the text \"1 FLOOR DONE, ONLY 999,999,999 TO GO.\", originating from the rightmost stick figure"
+  ]
+}

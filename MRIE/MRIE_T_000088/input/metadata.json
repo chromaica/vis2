@@ -1,0 +1,28 @@
+{
+  "subtopic": "Posters",
+  "prompt": "Edit image 1 into a vibrant textual graphics poster. Apply creative typographic styles from image 5 to the main quotes. Add supplementary text lists in the structured, color-blocked format of image 2. Render the background and graphic elements (butterfly, flowers) with the flowing artistic style and rich colors from image 3, enhanced by the bright palette of image 4.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg",
+    "4.jpeg",
+    "5.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749712052226,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "T",
+  "prompt_refined": "Edit image 1, the 'Whisper Words of Wisdom / Let It Be' poster, to transform it into a vibrant textual graphics poster. Replace the existing fonts for the main quotes, 'WHISPER WORDS OF WISDOM' and 'LET IT BE', with the bold, layered, and geometric creative typographic styles exemplified in image 5. Introduce supplementary text lists formatted in the structured, vertical, color-blocked columns, as depicted in image 2; these lists should be integrated along the vertical edges of the poster or subtly within the background without obscuring the central butterfly. Re-render the entire background, including the sheet music, along with the butterfly (both large and small) and the bottom floral graphics (dandelions), in the flowing, ethereal artistic style and rich, deep color palette of image 3, further enhanced by the bright, saturated, and contrasting colors visible in image 4.",
+  "annotator": "winston",
+  "objects": [
+    "\"WHISPER WORDS OF WISDOM\" text with bold, layered, geometric typography",
+    "\"LET IT BE\" text with bold, layered, geometric typography",
+    "Large central butterfly in ethereal, rich, deep, bright, saturated, contrasting colors",
+    "Small butterflies in ethereal, rich, deep, bright, saturated, contrasting colors",
+    "Bottom floral graphics (dandelions) in ethereal, rich, deep, bright, saturated, contrasting colors",
+    "Re-rendered background with sheet music elements in ethereal, rich, deep, bright, saturated, contrasting colors",
+    "Supplementary text lists in structured, vertical, color-blocked columns, integrated along vertical edges or subtly within the background"
+  ],
+  "human_annotation": true
+}

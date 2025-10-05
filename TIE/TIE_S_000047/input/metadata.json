@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Mobile software interfaces",
+  "prompt": "Apply a mosaic pattern to censor the profile photos and names.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 by applying a mosaic pattern to censor all profile photos and corresponding names visible across the three phone screens.\nSpecifically:\n- On the top of each screen (left, middle, right), mosaic the group chat profile icons next to 'Adventures'.\n- Mosaic all individual user profile avatars and their associated names (e.g., 'Colin', 'Taylor', 'Amy') appearing alongside chat messages on all three screens.\n- Mosaic the small profile icons located in the bottom right corner of each screen.\n- On the middle phone screen, additionally mosaic the two small profile icons embedded within the 'Sunday' button.\n- On the rightmost phone screen, additionally mosaic the four circular profile icons displayed on the map.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Three phone screens",
+    "Blue background",
+    "Mosaiced group chat profile icons (on top of each screen)",
+    "Mosaiced individual user profile avatars (alongside chat messages)",
+    "Mosaiced user names (e.g., Colin, Taylor, Amy)",
+    "Chat message bubbles",
+    "Mosaiced small profile icons (in the bottom right corner of each screen)",
+    "Map on the rightmost phone screen",
+    "Mosaiced circular profile icons on the map",
+    "'Sunday' button with mosaiced profile icons (on the middle phone screen)"
+  ]
+}

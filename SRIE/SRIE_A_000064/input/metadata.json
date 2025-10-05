@@ -1,0 +1,27 @@
+{
+  "subtopic": "Collage",
+  "prompt": "Edit the image 1 by directly pasting the image 2 (edged newpapers) on the top of image 1.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748652338491,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1. Superimpose the entire content of image 2 onto image 1, aligning the top edge of image 2 with the top edge of image 1. Image 2 features two sections of old newspapers with torn edges, one at the top and one at the bottom, separated by a wide blank white space in the center.",
+  "annotator": "kellycyy",
+  "objects": [
+    "Top section of old newspapers with torn edges",
+    "Bottom section of old newspapers with torn edges",
+    "Person's head and shoulders",
+    "Red sunglasses",
+    "Purple clothing/headwear",
+    "Collage art style",
+    "Torn paper textures",
+    "Newspaper text and headlines",
+    "Miscellaneous images and logos (e.g., Starbucks logo, pencils)",
+    "Various text snippets (e.g., \"brother\", \"Believe\")"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": "Generate a screenshot of a Google Scholar profile page for a university professor named \u201cPeter Pan,\u201d who specializes in natural language processing, using the profile photo from the first image and the citation table from the second image.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a screenshot of a Google Scholar profile page for a university professor named 'Peter Pan,' specializing in natural language processing. The profile photo on the upper left of the page must be the headshot from image 1. The entire 'Cited by' section, including the citation metrics (Citations, h-index, i10-index), the annual bar chart, and the public access information, should be incorporated exactly as presented in image 2, positioned in a prominent location within the profile layout, such as a right-hand sidebar or a main content block below the primary profile details.",
+  "annotator": "paria",
+  "objects": [
+    "Google Scholar profile page layout",
+    "Name \"Peter Pan\"",
+    "Text \"university professor\"",
+    "Text \"natural language processing\"",
+    "Headshot from Image 1, positioned on the upper left of the page",
+    "\"Cited by\" section title from Image 2",
+    "Citation metrics (Citations, h-index, i10-index with numerical values) from Image 2",
+    "Annual bar chart (showing years 2018-2025 and corresponding bars) from Image 2",
+    "Public access information (including \"Public access\" title, article counts, and \"Based on funding mandates\") from Image 2",
+    "The entire content from Image 2 positioned in a prominent location within the profile layout (e.g., right-hand sidebar or main content block)"
+  ],
+  "human_annotation": true
+}

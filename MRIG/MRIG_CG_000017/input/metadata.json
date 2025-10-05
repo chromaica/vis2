@@ -1,0 +1,27 @@
+{
+  "subtopic": "Object detection visuals",
+  "prompt": "A computer graphics visual demonstrating object detection: the boy from image 2, holding the camera from image 2, placed in the tall grass background environment of image 1, overlaid with AI detection bounding boxes and labels for the objects.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748421833834,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a computer graphics scene demonstrating object detection. Position the young boy from image 2, identifiable by his light blue shirt, jeans, and black newsboy cap, holding the vintage silver camera from image 2 with its brown leather case, within the tall, golden-brown, feathery grass environment seen in image 1. Overlay the generated scene with distinct AI detection bounding boxes and corresponding text labels for all identified objects, such as 'boy', 'camera', and 'grass'.",
+  "annotator": "winston",
+  "objects": [
+    "computer graphics scene",
+    "young boy",
+    "light blue shirt (on boy)",
+    "jeans (on boy)",
+    "black newsboy cap (on boy)",
+    "vintage silver camera",
+    "brown leather camera case",
+    "tall, golden-brown, feathery grass environment",
+    "AI detection bounding boxes",
+    "text labels ('boy', 'camera', 'grass')"
+  ]
+}

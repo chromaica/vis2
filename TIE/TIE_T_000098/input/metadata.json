@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": "Above each character\u2019s head, pop in a floating emoji that matches their emotion.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Above each character's head, add a floating emoji that reflects their emotion.\n- In the left comic panel: Place a mischievous or secretive emoji (e.g., \ud83d\ude09) above the girl's head, and an innocent or playful emoji (e.g., \ud83d\ude0a) above the purple monster's head.\n- In the right comic panel: Place a shocked or horrified emoji (e.g., \ud83d\ude31) above the girl's head, and a destructive or aggressive emoji (e.g., \ud83d\ude08) above the purple monster's head.",
+  "annotator": "matina",
+  "objects": [
+    "Girl character",
+    "Purple monster character",
+    "Left comic panel",
+    "Right comic panel",
+    "Speech bubbles",
+    "Mischievous or secretive emoji above the girl's head in the left comic panel",
+    "Innocent or playful emoji above the purple monster's head in the left comic panel",
+    "Shocked or horrified emoji above the girl's head in the right comic panel",
+    "Destructive or aggressive emoji above the purple monster's head in the right comic panel",
+    "\"CHOMP CHOMP\" text in the right comic panel"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Traditional art",
+  "prompt": "A blue wave crashing against a rocky shore at dawn",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate an artwork of a powerful blue wave, following the iconic shape and dynamic composition of the wave in image 1, as it crashes violently against a rugged rocky shore. The scene is illuminated by the soft, warm light of dawn, casting ethereal shadows.",
+  "annotator": "Johnny",
+  "objects": [
+    "powerful blue wave",
+    "iconic wave shape",
+    "dynamic wave composition",
+    "rugged rocky shore",
+    "crashing wave (action)",
+    "soft light",
+    "warm light",
+    "dawn (time of day)",
+    "ethereal shadows",
+    "artwork (style)"
+  ]
+}

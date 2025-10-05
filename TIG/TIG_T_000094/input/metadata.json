@@ -1,0 +1,18 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "A striking poster concept: the bold text 'EXPLORE' in a vibrant blue-to-purple gradient, using a modern sans-serif font. The background features a stylized, abstract representation of a cosmic mountain range.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A poster design featuring the word 'EXPLORE' prominently displayed in the foreground. The text uses a bold, modern sans-serif font and has a vibrant blue-to-purple gradient. The background is a stylized, abstract representation of a cosmic mountain range.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "The word 'EXPLORE'",
+    "'EXPLORE' prominently displayed in the foreground",
+    "Bold, modern sans-serif font for 'EXPLORE'",
+    "Vibrant blue-to-purple gradient on 'EXPLORE'",
+    "Background",
+    "Stylized, abstract cosmic mountain range in the background"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "create icon for an app call called the time-saver clock: clock face where the hour hand is a rocket, limited to steel-gray and lemon-yellow, ultrathin outline.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate an app icon featuring a minimalist clock face. The hour hand is uniquely designed as a rocket, while the minute hand appears as a standard thin line. The entire icon must be rendered with ultrathin outlines and strictly adhere to a color palette of steel-gray and lemon-yellow.",
+  "annotator": "theblackcat",
+  "objects": [
+    "App icon",
+    "Minimalist clock face",
+    "Hour hand designed as a rocket",
+    "Minute hand as a standard thin line",
+    "Ultrathin outlines",
+    "Steel-gray color",
+    "Lemon-yellow color"
+  ],
+  "human_annotation": true
+}

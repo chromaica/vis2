@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Integrate a voice command interface button next to the search bar for hands-free coding.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 to add a voice command interface button. This button, depicted as a microphone icon, should be positioned immediately to the left of the existing search bar, located in the top-right section of the Apache NetBeans IDE window. Its purpose is to enable hands-free coding.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Apache NetBeans IDE window",
+    "Project Explorer panel",
+    "Code editor panel",
+    "Output console panel",
+    "Toolbar",
+    "Search bar in the top-right",
+    "Voice command interface button (microphone icon) immediately to the left of the search bar",
+    "Status bar",
+    "\"HelloWorld.java\" tab",
+    "Java code in the editor"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "subtopic": "Websites",
+  "prompt": "Redesign this professional portfolio website to look like a MySpace profile from 2006, complete with a cluttered layout, custom cursor, and an embedded music player.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "https://px-web-images5.pixpa.com/zEEcLqbGAONzKpg8gik4p5E8JpjDEecBTxV_uqeGig0/rs:fit:640:0/q:90/aHR0cHM6Ly9waXhwYWNvbS1pbWcucGl4cGEuY29tL2ltYWdlcy9kZXNpZ25zLzE2NTk3MDA3NjMtY29sb3ItYS1waXhwYS10aGVtZS5qcGc=",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate an image that transforms the professional portfolio website in image 1 into a MySpace profile from 2006. The redesign should feature a highly cluttered layout with elements like the header, navigation, and content sections (including the image gallery) appearing misaligned and overlapping. Use a vibrant, garish color palette with clashing background patterns (e.g., tiled GIFs or textures) and multiple unprofessional font styles (e.g., Comic Sans, glitter text, pixel fonts). Integrate a prominently visible, custom-skinned music player, resembling an early 2000s media player, placed in the upper-right section of the page. Display a large, animated custom cursor, such as a sparkle trail or a quirky icon, hovering near the center of the screen.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Highly cluttered, misaligned, and overlapping website layout",
+    "Vibrant, garish color palette",
+    "Clashing background patterns (e.g., tiled GIFs or textures)",
+    "Multiple unprofessional font styles (e.g., Comic Sans, glitter text, pixel fonts)",
+    "Custom-skinned music player in the upper-right section",
+    "Large, animated custom cursor near the center of the screen",
+    "Transformed header element",
+    "Transformed navigation element",
+    "Transformed main content sections",
+    "Transformed image gallery"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "Generate a screenshot of a cartoonish cooking game UI that combines the ingredients from the first image with the chef character design from the second image.",
+  "cond_images": [
+    "1.png",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a cartoonish cooking game user interface (UI) screenshot. The UI should prominently display the various ingredients and cooking tools from image 1, such as the baskets of tomatoes, onions, and garlic, the raw meat, canned beans, flour, red pan, red pot, and yellow blender, neatly arranged in a game-like inventory or recipe preparation area. The distinctive chef character from image 2, with his white chef's hat, red scarf, white jacket, and silver serving cloche, should be a central figure within the UI, possibly positioned on one side of the screen, overseeing or interacting with the cooking elements. Maintain a vibrant, stylized cartoon aesthetic consistent with both reference images.",
+  "annotator": "paria",
+  "objects": [
+    "Distinctive chef character from image 2, with white chef's hat, red scarf, white jacket, and silver serving cloche, positioned on one side of the screen",
+    "Baskets of tomatoes",
+    "Baskets of onions",
+    "Baskets of garlic",
+    "Raw meat",
+    "Canned beans",
+    "Flour",
+    "Red pan",
+    "Red pot",
+    "Yellow blender"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

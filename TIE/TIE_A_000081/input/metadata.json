@@ -1,0 +1,21 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Futurism",
+  "prompt": "Add floating spheres to the scene. Do not make them too crowded, and those spheres should be populated throughout the depth of the scene.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 by adding multiple small, floating, golden spheres. These spheres should be distributed sparsely across the entire depth of the scene, from the immediate foreground to the distant background, ensuring they do not appear crowded.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Astronaut",
+    "Alien creatures/spaceships",
+    "Red alien landscape",
+    "Plant-like structures",
+    "Pink sky",
+    "Large celestial body",
+    "Multiple small, floating, golden spheres, distributed sparsely"
+  ]
+}

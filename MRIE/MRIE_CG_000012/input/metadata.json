@@ -1,0 +1,29 @@
+{
+  "subtopic": "Depth maps",
+  "prompt": "Using image 1 as the base, refine its depth map to emphasize the foreground laptop and hands with the close perspective suggested by image 2. Apply a selective depth-of-field blur effect similar to the background softness in image 3, highlighting the subject.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748455037959,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1 by refining its depth map. Adjust the perspective to emphasize the foreground laptop and the hands on its trackpad, making them appear closer and more prominent, similar to the close-up framing in image 2. Apply a selective depth-of-field blur effect to the background, mimicking the soft, diffused blur seen in image 3, ensuring the foreground laptop and hands remain sharply in focus.",
+  "annotator": "winston",
+  "objects": [
+    "laptop",
+    "hands on trackpad",
+    "desk surface",
+    "coffee cup",
+    "pen",
+    "notebooks/papers",
+    "window",
+    "potted plant",
+    "wall"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

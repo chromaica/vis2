@@ -1,0 +1,20 @@
+{
+  "task": "SRIE",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Add a photographer's signature overlay to the masked area in the source image, placing it within the outlined region.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit Image 1, the black and white photograph of a child playing on the beach. Add a subtle, photorealistic photographer's signature as an overlay. This signature must be precisely contained within the red rectangular masked area shown in Image 2, which defines the intended placement region in the bottom-right corner of the photograph. The signature should appear translucent, resembling a watermark, and blend photorealistically with the existing image.",
+  "annotator": "nimajamali",
+  "objects": [
+    "child playing on the beach",
+    "beach sand",
+    "ocean waves",
+    "cloudy sky",
+    "translucent photographer's signature in the bottom-right corner"
+  ]
+}

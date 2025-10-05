@@ -1,0 +1,23 @@
+{
+  "task": "SRIG",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "make a poster with similar style but change the NOUS@NEURIPS to Claude@ICML and the slogan to 'your privacy matters to us'",
+  "cond_images": [
+    "1.jpeg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a new image for a poster, replicating the black and white, high-contrast graphic novel art style and overall composition of image 1. At the top of the poster, replace the existing large text 'NOUS@NEURIPS' with 'Claude@ICML'. Below this main title, replace the curved slogan 'REBELLION TO TYRANTS IS OBEDIENCE TO GOD' with the new curved slogan 'your privacy matters to us'. Ensure the central figure with bob-cut hair and the two helmeted figures on either side are retained in their original positions and style, maintaining the visual impact of image 1.",
+  "annotator": "theblackcat",
+  "objects": [
+    "black and white, high-contrast graphic novel art style",
+    "overall poster composition from image 1",
+    "'Claude@ICML' text at the top of the poster",
+    "'your privacy matters to us' curved slogan",
+    "central figure with bob-cut hair",
+    "left helmeted figure",
+    "right helmeted figure",
+    "'NOUS@NEURIPS' text (should not be present)",
+    "'REBELLION TO TYRANTS IS OBEDIENCE TO GOD' slogan (should not be present)"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "generate a neighborhood treasure map from a child's perspective, where the local playground becomes a castle, the corner store is a magical shop, and secret hideouts are marked with colorful doodles",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a whimsical neighborhood treasure map, rendered from a child's imaginative perspective. The map should feature a hand-drawn aesthetic with vibrant, crayon-like colors and simplified forms. A prominent local playground is transformed into a fantastical, towering castle with turrets, flags, and an adventurous feel. A nearby corner store is depicted as an enchanting, magical shop, complete with whimsical details like glowing windows or a unique, storybook-like roof. Throughout the map, various secret hideouts are clearly marked with distinct, colorful doodles such as stars, arrows, or playful scribbles, indicating hidden treasures or adventures. The overall composition should evoke a sense of childhood discovery and fun.",
+  "annotator": "theblackcat",
+  "objects": [
+    "whimsical neighborhood treasure map",
+    "hand-drawn aesthetic",
+    "vibrant, crayon-like colors",
+    "simplified forms",
+    "fantastical, towering castle with turrets and flags (representing a playground)",
+    "enchanting, magical shop with glowing windows or a storybook-like roof (representing a corner store)",
+    "secret hideouts",
+    "colorful doodle markers (stars, arrows, scribbles)"
+  ]
+}

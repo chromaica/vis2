@@ -1,0 +1,24 @@
+{
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Visualize the provided flowchart of a coffee-making process as a whimsical, intricate illustration in the style of a Rube Goldberg machine. Each step in the flowchart should be a distinct, fantastical contraption.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://online.visual-paradigm.com/repository/images/0520d0d1-1b15-4453-911f-06631ca98bf6/flowchart-design/simple-coffee-machine.png",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate a whimsical and intricate Rube Goldberg machine illustration that visually interprets the coffee-making flowchart detailed in image 1. Each distinct step in the flowchart should be depicted as a unique, fantastical contraption within the machine.\n\nThe machine should begin at the top of the composition with a whimsical trigger representing 'Start', followed by the 'Power on' contraption. Below this, a complex branching mechanism, illustrating the 'Coffee selected' decision from image 1, should divide the flow into three main paths:\n1.  A path veering to the upper-left, representing 'Latte', which includes a contraption specifically for 'Add frother milk'.\n2.  A central path, representing 'Mocha', featuring distinct contraptions for 'Add Chocolate powder' followed sequentially by 'Add frother milk'.\n3.  A path veering to the upper-right, representing 'Espresso'.\n\nAll three paths must visually converge into a singular, central contraption for 'Add hot coffee' in the lower-middle section of the illustration. Following this, incorporate a 'Power pressed' contraption designed as an activated looping mechanism that visually redirects the process back upwards towards the 'Coffee selected' section. Finally, at the very bottom of the illustration, depict the 'Power off' contraption leading to a conclusive 'End' state.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Whimsical Rube Goldberg machine illustration",
+    "'Start' whimsical trigger at the top of the composition",
+    "'Power on' contraption",
+    "'Coffee selected' complex branching mechanism",
+    "'Add frother milk' contraption",
+    "'Add Chocolate powder' contraption",
+    "'Add hot coffee' singular, central contraption in the lower-middle section",
+    "'Power pressed' activated looping mechanism",
+    "'Power off' contraption at the very bottom",
+    "'End' state"
+  ]
+}

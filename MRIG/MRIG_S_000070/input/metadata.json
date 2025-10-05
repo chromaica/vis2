@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Design a note-taking app interface that combines the sidebar organization and layout structure from the first image with the background texture from the second image",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a note-taking application interface. The design should feature a left-aligned sidebar that replicates the hierarchical organization and overall layout structure of image 1, including its sections, nested items, and use of icons. For the main content area of the interface, apply the background texture from image 2, specifically incorporating its grid lines and the soft, wavy, pastel-colored abstract shapes.",
+  "annotator": "paria",
+  "objects": [
+    "Note-taking application interface",
+    "Left-aligned sidebar",
+    "Hierarchical organization of items in the sidebar",
+    "Sections within the sidebar",
+    "Nested items within the sidebar",
+    "Icons associated with sidebar items",
+    "Main content area",
+    "Grid lines background texture in the main content area",
+    "Soft, wavy, pastel-colored abstract shapes background in the main content area"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

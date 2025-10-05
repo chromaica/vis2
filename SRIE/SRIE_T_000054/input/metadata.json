@@ -1,0 +1,20 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Warp the letter shapes along these vectors to give a sense of high-speed airflow.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the BMW M logo. Distort the white 'M' letterform by warping it along the direction of the blue, dark blue, and red stripes to its left. The warping should visually convey a dynamic sense of high-speed airflow, similar to the streamlines and arrows depicted in image 2.",
+  "annotator": "matina",
+  "objects": [
+    "warped white 'M' letterform",
+    "blue stripe (left of 'M')",
+    "dark blue stripe (left of 'M')",
+    "red stripe (left of 'M')",
+    "gray background"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "subtopic": "Object detection visuals",
+  "prompt": "Edit image 1: Add objects and object detection overlays to the scene. Integrate the small sharks from image 2, the tiger shark from image 3, the black stingray from image 4, and the sandy stingray from image 5 into the theatre environment. Overlay bounding boxes and class labels ('shark', 'stingray') onto these added objects in a clear, computer-graphics style.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg",
+    "4.jpeg",
+    "5.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749067267962,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1 by integrating aquatic creatures and adding object detection overlays. Place one small shark from image 2 near the ticket booth on the left sidewalk, and the other small shark from image 2 on the right sidewalk near the main entrance. Position the large tiger shark from image 3 prominently in the mid-ground, appearing in front of the theatre's main entrance. Add the black stingray from image 4 to the foreground sidewalk on the left, and the sandy stingray from image 5 to the foreground sidewalk on the right. Overlay each added creature with a precise bounding box and a distinct class label ('shark' for all sharks, 'stingray' for all stingrays), rendered in a clear, computer-graphics style.",
+  "annotator": "winston",
+  "objects": [
+    "Stanford theatre building",
+    "Small shark near the ticket booth on the left sidewalk",
+    "Small shark on the right sidewalk near the main entrance",
+    "Large tiger shark in the mid-ground, in front of the theatre's main entrance",
+    "Black stingray on the foreground sidewalk on the left",
+    "Sandy stingray on the foreground sidewalk on the right",
+    "Bounding boxes for all sharks",
+    "Bounding boxes for all stingrays",
+    "'shark' class labels",
+    "'stingray' class labels"
+  ]
+}

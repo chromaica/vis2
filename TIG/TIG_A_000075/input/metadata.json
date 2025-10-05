@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "oil paintings",
+  "prompt": "A lavish oil painting of a grand banquet, showcasing ornate details of opulent tableware, sumptuous dishes, and elegantly dressed guests in a palatial hall.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A lavish oil painting of a grand banquet set within a vast, ornate palatial hall. Long, richly detailed tables, positioned centrally, are abundantly laden with opulent tableware and a sumptuous array of exquisitely prepared dishes. Elegantly dressed guests, in period attire, are seated around these tables, engaged in conversation. Soft, warm light from grand chandeliers illuminates the scene, highlighting gilded columns and high vaulted ceilings.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Vast, ornate palatial hall",
+    "Long, richly detailed tables (positioned centrally)",
+    "Opulent tableware",
+    "Exquisitely prepared dishes",
+    "Elegantly dressed guests in period attire",
+    "Grand chandeliers",
+    "Soft, warm light",
+    "Gilded columns",
+    "High vaulted ceilings",
+    "Lavish oil painting aesthetic"
+  ]
+}

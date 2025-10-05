@@ -1,0 +1,26 @@
+{
+  "subtopic": "3D Character Integration",
+  "prompt": "Edit image 1: Replace the seated character with the standing 3D character from image 2, positioned next to the desk. Introduce the gaming controller from image 3 onto the desk surface, indicating a change to a gaming setup.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748425883082,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1. Replace the seated character with the standing 3D character from image 2, positioning the new character standing to the right of the desk and facing the monitor, in place of the original character. On the desk surface, add the white gaming controller from image 3, placing it to the right of the keyboard and in front of the monitor. The completed edit should depict a gaming setup.",
+  "annotator": "winston",
+  "objects": [
+    "seated character from image 1 (should not be present)",
+    "standing 3D character from image 2, to the right of the desk and facing the monitor",
+    "desk",
+    "monitor",
+    "keyboard",
+    "white gaming controller from image 3, on the desk, to the right of the keyboard and in front of the monitor",
+    "plant in pot",
+    "yellow mug"
+  ]
+}

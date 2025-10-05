@@ -1,0 +1,16 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "A serene view of the Milky Way Galaxy, its dense cluster of stars creating a bright band of light amidst the deep darkness of space.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic image capturing a serene, breathtaking view of the Milky Way Galaxy. A luminous, dense band of countless stars spans the frame, contrasting sharply against the profound, inky blackness of deep space.",
+  "annotator": "cwhsu",
+  "objects": [
+    "luminous, dense band of countless stars spanning the frame",
+    "profound, inky blackness of deep space"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "Edit image 1: Change the main panel background color to the shade from image 4. Insert the star shape from image 3 as an important marker next to the 'Graphs widgets' title. Update the text color within the 'Log' panel to the blue color from image 2.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png",
+    "4.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Change the background color of the large left panel (titled 'ImgGui Demo') to the shade from image 4. Insert the star shape from image 3 immediately to the right of the 'Graphs widgets' title, functioning as an important marker. Update the text color of the log messages within the 'Example: Log' panel to the vibrant blue color from image 2.",
+  "annotator": "maxku",
+  "objects": [
+    "Large left panel (titled 'ImgGui Demo') with a new background color from image 4",
+    "Star shape from image 3, immediately to the right of the 'Graphs widgets' title",
+    "Log messages within the 'Example: Log' panel with vibrant blue text color from image 2",
+    "'Example: Property editor' panel",
+    "'Example: Log' panel",
+    "'Example: Custom rendering' panel",
+    "Graph widgets (lines, histograms, waveforms) within the 'ImgGui Demo' panel",
+    "GUI controls (sliders, listbox, color pickers) within the 'ImgGui Demo' panel",
+    "Text labels and input fields within the 'Example: Property editor' panel",
+    "Primitive shapes within the 'Example: Custom rendering' panel"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "I",
+  "subtopic": "Visual instructions and manuals",
+  "prompt": "Generate a step-by-step visual instruction for setting up a pop-up canopy. Use Image 1 to show the initiate state and Image 2 to show the assembled result.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "annotator": "matina",
+  "prompt_refined": "Generate a multi-panel visual instruction graphic illustrating the step-by-step setup of a pop-up canopy. The graphic should maintain the simple, illustrative style seen in Image 1 and Image 2, featuring a person in a red shirt and blue pants. The initial panel must depict the partially extended metal frame with the person interacting with it, as shown in Image 1. Subsequent panels should clearly illustrate the progression: fully extending the frame, attaching the red fabric canopy top, and extending the leg poles. The final panel should present the fully assembled red canopy with its legs extended and a weight bag visible, mirroring the complete state depicted in Image 2.",
+  "objects": [
+    "multi-panel instruction graphic",
+    "person in a red shirt and blue pants",
+    "partially extended metal frame",
+    "fully extended metal frame",
+    "red fabric canopy top (attached)",
+    "extended canopy leg poles",
+    "fully assembled red pop-up canopy",
+    "weight bag",
+    "person interacting with canopy components",
+    "simple, illustrative style"
+  ],
+  "human_annotation": true
+}

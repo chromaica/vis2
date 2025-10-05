@@ -1,0 +1,26 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "Extract the motion-vector direction from the blur and apply a directional smear to the text.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Apply a prominent directional smear effect to all text elements on the poster, including 'SKATE JAM', 'SATURDAY, AUGUST 21', and 'FREE EVENT!'. The specific motion-vector direction and visual style for this smear should be extracted from the prominent motion blur visible in reference image 2, guiding the application of the smear.",
+  "annotator": "matina",
+  "objects": [
+    "skateboarder in mid-air",
+    "cloudy sky background",
+    "\"SKATE JAM\" text with smear effect",
+    "black torn graphic element",
+    "white torn graphic element",
+    "\"SATURDAY, AUGUST 21\" text with smear effect",
+    "\"10.30AM-2.00PM\" text with smear effect",
+    "\"HARVARD SKATE PARK\" text with smear effect",
+    "\"FREE EVENT!\" text with smear effect",
+    "contact and registration details text (e.g., \"REGISTER NOW!\", website, phone number) with smear effect"
+  ],
+  "human_annotation": true
+}

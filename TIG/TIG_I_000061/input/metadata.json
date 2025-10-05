@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Visual instructions and manuals",
+  "prompt": "A comic strip-style visual guide explaining quantum physics concepts, with superhero characters demonstrating wave-particle duality and entanglement",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A vibrant, multi-panel comic strip serving as a visual guide to quantum physics concepts. It features two distinct superhero characters in dynamic action poses. One superhero visually demonstrates wave-particle duality by appearing as both a wave and a particle simultaneously. The second superhero visually explains quantum entanglement, depicting an instantaneous, mysterious connection between two separate objects or entities. The art style is classic superhero comic book, focused on clear visual storytelling.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Multi-panel comic strip layout",
+    "Vibrant color palette",
+    "First superhero character",
+    "Second superhero character",
+    "Dynamic action poses",
+    "First superhero simultaneously demonstrating wave and particle forms",
+    "Second superhero visually explaining quantum entanglement",
+    "Two separate objects or entities connected by a mysterious, instantaneous bond",
+    "Classic superhero comic book art style"
+  ]
+}

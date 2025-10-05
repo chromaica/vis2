@@ -1,0 +1,25 @@
+{
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Create an engaging infographic that explains what caffeine is, including its molecular structure, effects on the body, common sources, and daily recommended intake. Use a combination of icons, charts, and simple illustrations to make the information easily digestible, with the caffeine molecule structure prominently displayed.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://media.geeksforgeeks.org/wp-content/uploads/20220927110543/caf.jpg",
+  "promptGeneratedTimestamp": 1749481421962,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate a clear and engaging infographic explaining caffeine. The central and prominent element should be the caffeine molecular structure, rendered precisely as shown in image 1. Around this central structure, incorporate distinct sections using simple icons and illustrations to depict: (1) the effects of caffeine on the human body, (2) common sources of caffeine, and (3) the daily recommended intake, potentially using a simple chart or numerical display. Ensure the overall design is easily digestible and visually coherent, utilizing a combination of clean graphics and minimal text.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Caffeine molecular structure (rendered precisely as shown in image 1)",
+    "Distinct visual section for effects of caffeine on the human body",
+    "Icons and illustrations depicting effects of caffeine on the human body",
+    "Distinct visual section for common sources of caffeine",
+    "Icons and illustrations depicting common sources of caffeine",
+    "Distinct visual section for daily recommended intake",
+    "Simple chart or numerical display for daily recommended intake",
+    "Minimal text within the infographic"
+  ],
+  "human_annotation": true
+}

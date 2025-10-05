@@ -1,0 +1,27 @@
+{
+  "subtopic": "Game assets",
+  "prompt": "Edit image 1: Rerender the car in a top-down perspective like image 2, applying the dense particle rendering style from image 3 to create a distinctive abstract game asset.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748456188156,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1. Rerender the car from image 1 to adopt the precise top-down perspective shown in image 2. Apply the dense particle rendering style, including the specific green, yellow, and blue color scheme, as depicted by the car in image 3. The final image should represent a distinctive, abstract game asset of the car.",
+  "annotator": "winston",
+  "objects": [
+    "Car",
+    "Top-down perspective",
+    "Dense particle rendering style",
+    "Green color",
+    "Yellow color",
+    "Blue color",
+    "Abstract game asset style"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

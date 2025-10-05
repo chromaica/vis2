@@ -1,0 +1,25 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "Edit image 1 (floor plan). Add the black cat from image 2 as a stylized icon placed in the living room area. Incorporate the brown and white dog from image 3 as a separate stylized icon positioned within the larger bedroom in bottom left.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 (the floor plan). Add the black cat from image 2 as a stylized icon, placing it within the designated living room area. Separately, incorporate the brown and white dog from image 3 as a stylized icon, positioning it within the larger bedroom in the bottom-left.",
+  "annotator": "maxku",
+  "objects": [
+    "Floor plan layout",
+    "Stylized black cat icon, within the designated living room area",
+    "Stylized brown and white dog icon, within the larger bedroom in the bottom-left",
+    "Designated living room area with existing furniture",
+    "Larger bedroom in the bottom-left with existing furniture",
+    "Kitchen area with existing appliances and counters",
+    "Dining room area with existing table and chairs",
+    "Bathroom area with existing fixtures",
+    "Bedroom in the bottom-middle with existing furniture"
+  ]
+}

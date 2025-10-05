@@ -1,0 +1,22 @@
+{
+  "task": "SRIG",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "Make a poster that promotes the pancake special offers at 'Henry's Grill'. Customers can order pancakes with just $2.99 each if they order a breakfast set. The poster should include the image provided somewhere in the design.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "annotator": "donaldtsang",
+  "prompt_refined": "Generate a promotional poster for 'Henry's Grill' advertising their pancake special offer. The poster must prominently incorporate image 1, which showcases a stack of golden pancakes with syrup actively being poured over them, a pat of butter on top, and fresh strawberries and a coffee cup visible in the background. The poster must clearly display the following text: 'Pancakes: $2.99 each with any breakfast set!'.",
+  "objects": [
+    "stack of golden pancakes",
+    "syrup actively being poured over pancakes",
+    "pat of butter on top of pancakes",
+    "fresh strawberries",
+    "coffee cup",
+    "hand holding a creamer/pitcher pouring syrup",
+    "\"Henry's Grill\" promotional branding",
+    "text: 'Pancakes: $2.99 each with any breakfast set!'"
+  ]
+}

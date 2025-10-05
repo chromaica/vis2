@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "Create a collage artwork combining the flower from image 1 and the leaf sketches from image 2, artistically blended into the woman\u2019s face from image 3. Use the flower as a structural or decorative element and the leaves as flowing patterns around her features.",
+  "cond_images": [
+    "1.png",
+    "2.jpg",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a collage artwork. Integrate a significant floral element from image 1 (e.g., a rose or lily) as a structural or decorative accent on the woman's face from image 3, perhaps emerging from or framing her hair on one side and extending towards her cheek. Incorporate the various leaf sketches from image 2 as flowing, intricate patterns, gracefully swirling around her eyes, nose, and mouth, and subtly cascading along her jawline and neck. Ensure all elements are artistically blended into a cohesive botanical illustration style.",
+  "annotator": "samin",
+  "objects": [
+    "Collage artwork",
+    "Woman's face",
+    "Woman's hair",
+    "Significant floral element (e.g., rose or lily) from image 1, emerging from/framing hair and extending towards cheek",
+    "Various leaf patterns from image 2",
+    "Leaf patterns swirling around woman's eyes",
+    "Leaf patterns swirling around woman's nose",
+    "Leaf patterns swirling around woman's mouth",
+    "Leaf patterns cascading along woman's jawline",
+    "Leaf patterns cascading along woman's neck"
+  ]
+}

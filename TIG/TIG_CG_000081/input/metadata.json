@@ -1,0 +1,18 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "Depth maps",
+  "prompt": "A depth map of a six-lane freeway, with a red sports car in the center lane foreground (bright), a white truck in the left lane midground (mid-gray), overhead road signs in the top center (darker gray), and distant vehicles and sky in the background (black).",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a grayscale depth map of a six-lane freeway. A red sports car in the center lane of the foreground is represented as bright (closest). A white truck in the left lane of the midground is depicted as mid-gray. Overhead road signs in the top-center are rendered as darker gray. Distant vehicles and sky in the background are shown as black (farthest).",
+  "annotator": "maxku",
+  "objects": [
+    "six-lane freeway",
+    "red sports car in the center lane of the foreground",
+    "white truck in the left lane of the midground",
+    "overhead road signs in the top-center",
+    "distant vehicles in the background",
+    "sky in the background"
+  ]
+}

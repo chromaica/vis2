@@ -1,0 +1,16 @@
+{
+  "task": "SRIG",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "Design a poster for an independent film festival.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a poster for an independent film festival. The vintage Canon AE-1 camera from image 1 should be the primary visual focus. Incorporate the textual graphic 'Independent Film Festival' as a prominent design element, artistically integrated with or positioned near the camera. The poster's overall style should convey a classic, cinematic, or retro aesthetic.",
+  "annotator": "Johnny",
+  "objects": [
+    "vintage Canon AE-1 camera",
+    "textual graphic 'Independent Film Festival'"
+  ]
+}

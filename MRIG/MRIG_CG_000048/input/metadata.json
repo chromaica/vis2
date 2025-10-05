@@ -1,0 +1,28 @@
+{
+  "subtopic": "VFX and Particles",
+  "prompt": "Create a scene with the adorable mouse from image 1 interacting with the cheese wedge from image 2. Add dynamic VFX particle effects around the cheese, simulating an irresistible magical aroma attracting the mouse, rendered with detailed fur and surface textures.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748422987216,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a whimsical scene featuring the adorable, fluffy grey mouse from image 1, with its highly detailed fur and bright, curious eyes, positioned on the left side of the frame. The mouse is looking intently at the yellow cheese wedge from image 2, featuring realistic texture and characteristic holes, which is placed on the right. Dynamic, shimmering particle effects emanate from the cheese, visually forming an irresistible magical aroma that wafts towards and captivates the mouse, drawing it closer. The entire scene is rendered with intricate detail, set within a soft-focus natural environment with green grass and subtle floral elements, inspired by the background of image 1.",
+  "annotator": "winston",
+  "objects": [
+    "Adorable, fluffy grey mouse from image 1, positioned on the left side of the frame",
+    "Highly detailed fur on the mouse",
+    "Bright, curious eyes of the mouse",
+    "Yellow cheese wedge from image 2, placed on the right side of the frame",
+    "Realistic texture on the cheese",
+    "Characteristic holes in the cheese",
+    "Dynamic, shimmering particle effects emanating from the cheese",
+    "Magical aroma wafting towards the mouse",
+    "Soft-focus natural environment with green grass",
+    "Subtle floral elements"
+  ],
+  "human_annotation": true
+}

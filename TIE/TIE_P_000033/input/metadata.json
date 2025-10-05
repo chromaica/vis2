@@ -1,0 +1,26 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "add peranakan cuisine like keluak chicken on served on the table and some in the plate",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "should look something like this: https://en.wikipedia.org/wiki/Peranakan_cuisine",
+  "prompt_refined": "Edit image 1. Add a photorealistic serving bowl of Peranakan Ayam Buah Keluak (chicken with keluak nuts) to the center of the golden tablecloth. Additionally, place a portion of Ayam Buah Keluak onto the empty blue-and-white patterned dinner plate located in the lower-left foreground.",
+  "annotator": "theblackcat",
+  "objects": [
+    "golden tablecloth",
+    "serving bowl of Peranakan Ayam Buah Keluak in the center of the golden tablecloth",
+    "blue-and-white patterned dinner plate in the lower-left foreground with a portion of Ayam Buah Keluak on it",
+    "blue-and-white patterned dinner plate (upper-right)",
+    "wine glasses",
+    "water glasses",
+    "cutlery (fork, spoon, knife)",
+    "silver bowl",
+    "red curtains",
+    "wooden chairs in the background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

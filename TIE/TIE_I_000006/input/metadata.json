@@ -1,0 +1,26 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "Transform into a vintage, hand-drawn map with intricate, monochrome linework capturing the essence of each state's unique shape and character.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the colorful political map of the United States, into a vintage, hand-drawn map. All geographical features, including the precise unique shapes and borders of each state, coastlines, state names, capital cities, ocean names (Pacific Ocean, Atlantic Ocean, Gulf of Mexico), and surrounding country labels (Canada, Mexico), must be rendered using intricate, monochrome linework. The linework should have a fine pen-and-ink or detailed pencil sketch quality, incorporating subtle internal textures or varied line details within states to convey their unique character. The overall aesthetic should be that of an antique map, with all lines and text presented in a consistent single color (e.g., black, sepia, or deep brown) against an aged, paper-like background. Ensure the main title 'United States of America' and all other textual elements are also transformed to match this hand-drawn, vintage style.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Main title 'United States of America'",
+    "Political map of the United States (mainland, Alaska, Hawaii insets)",
+    "Precise shapes and borders of each US state",
+    "Coastlines",
+    "State names",
+    "Capital city markers and labels",
+    "\"Pacific Ocean\" label",
+    "\"Atlantic Ocean\" label",
+    "\"Gulf of Mexico\" label",
+    "\"Canada\" country label",
+    "\"Mexico\" country label",
+    "Aged, paper-like background"
+  ]
+}

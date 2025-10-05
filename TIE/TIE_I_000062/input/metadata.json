@@ -1,0 +1,21 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "Transform the pie chart into a vibrant mosaic with stained glass texture, adding subtle golden outlines for elegance.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Transform the existing pie chart into a vibrant mosaic with a distinct stained glass texture. Each segment of the pie chart, including the separated red segment, should be rendered as a unique stained glass piece, preserving its original color and shape. Incorporate subtle golden outlines around all the mosaic segments to add an elegant finish.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Stained glass mosaic pie chart",
+    "Red pie chart segment with stained glass texture (separated)",
+    "Blue pie chart segment with stained glass texture",
+    "Orange pie chart segment with stained glass texture",
+    "Yellow pie chart segment with stained glass texture",
+    "Green pie chart segment with stained glass texture",
+    "Golden outlines around all mosaic segments"
+  ]
+}

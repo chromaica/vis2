@@ -1,0 +1,20 @@
+{
+  "subtopic": "Games",
+  "prompt": "Generate a 'demake' of this modern game's start screen for the original Nintendo Game Boy, using its 4-color green-tinted palette and low-resolution pixel style.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://external-preview.redd.it/RnpZSAdwXjeDiqAF1E7NfVMGkYyxB9ArRssetVHzgP8.png?format=pjpg&auto=webp&s=92a2bfc9ed3cc2cb6385f7d107f7ea2c615cf227",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a demake of the 'Elden Ring' title screen from image 1, reimagined for the original Nintendo Game Boy. The output should feature a low-resolution pixel art style, utilizing a strict 4-color green-tinted monochrome palette. Replicate the central 'ELDEN RING' title, the distinctive ring symbol behind it, the 'PRESS ANY BUTTON' prompt, and the small copyright text at the bottom, all adapted to the pixel art constraints. The atmospheric luminous particles and background textures from image 1 should be stylized as pixelated dither patterns or simplified dots consistent with Game Boy graphics.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Central 'ELDEN RING' title",
+    "Distinctive ring symbol",
+    "'PRESS ANY BUTTON' prompt",
+    "Small copyright text at the bottom",
+    "Atmospheric luminous particles (stylized as pixelated dither patterns or simplified dots)",
+    "Background textures (stylized as pixelated dither patterns or simplified dots)"
+  ]
+}

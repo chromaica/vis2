@@ -1,0 +1,23 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Traditional art",
+  "prompt": "A realistic Japanese ukiyo-e print of Mount Fuji with cherry blossoms",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a single image, styled as a traditional Japanese ukiyo-e woodblock print, heavily inspired by the composition and aesthetic of image 1. The scene should prominently feature Mount Fuji in the distant background, its peak rising above a tranquil body of water that extends across the middle left of the frame. The foreground and mid-ground are dominated by lush, blooming cherry blossom trees, their soft pink flowers creating a vibrant contrast against the blue sky and green landscape. On the lower right, depict subtle elements of human presence, such as a few traditional village buildings or small figures, rendered with the characteristic bold outlines and flat, vibrant colors typical of ukiyo-e art.",
+  "annotator": "Johnny",
+  "objects": [
+    "Mount Fuji in the distant background",
+    "Tranquil body of water in the middle left",
+    "Blooming cherry blossom trees in the foreground and mid-ground",
+    "Soft pink cherry blossoms",
+    "Blue sky",
+    "Green landscape",
+    "Traditional village buildings on the lower right",
+    "Small human figures on the lower right"
+  ],
+  "human_annotation": true
+}

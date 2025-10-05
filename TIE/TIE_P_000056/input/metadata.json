@@ -1,0 +1,23 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "convert the scene in this image into a night time one",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 to transform the entire daylight scene into a photorealistic night view. Replace the bright blue sky with a dark night sky. Illuminate the brick buildings, their windows, and the area around the tents with realistic artificial lighting, including activated streetlights and glowing interior lights visible from the building and any boats in the distance. Ensure the overall lighting, shadows, and ambiance reflect a clear nighttime environment.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Brick buildings",
+    "Dark night sky",
+    "Windows of the brick buildings showing glowing interior lights",
+    "Tents",
+    "Illuminated area around the tents",
+    "Activated streetlights",
+    "Boats in the distance with glowing interior lights",
+    "Realistic artificial lighting",
+    "Nighttime shadows"
+  ]
+}

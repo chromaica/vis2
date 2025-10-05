@@ -1,0 +1,27 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Generate a screenshot of an AI chat assistant app that includes a model selection feature styled like the interface in the first image, and applies the overall theme and color scheme from the second image.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a screenshot of an AI chat assistant application. The app's overall interface, including its header, chat message bubbles, and background, must adopt the distinct theme and color scheme of image 2. This means an orange top bar with white text, orange user message bubbles with white text, and light gray AI response bubbles with dark text on a light background. Within this application, prominently display a model selection feature. This feature, designed as a dedicated section or a modal overlay, must visually replicate the categorized grid layout, individual icons, and naming conventions of the 'Official bots', 'Reasoning bots', and 'Apps' sections as presented in image 1.",
+  "annotator": "paria",
+  "objects": [
+    "AI chat assistant application interface",
+    "Orange top bar with white text",
+    "Orange user message bubbles with white text",
+    "Light gray AI response bubbles with dark text",
+    "Light background for the chat interface",
+    "Model selection feature as a dedicated section or modal overlay",
+    "Categorized grid layout of models/bots",
+    "Icons and names for 'Official bots'",
+    "Icons and names for 'Reasoning bots'",
+    "Icons and names for 'Apps'"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

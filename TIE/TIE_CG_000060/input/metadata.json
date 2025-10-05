@@ -1,0 +1,26 @@
+{
+  "subtopic": "Game assets",
+  "prompt": "Apply a cel-shaded rendering style to all the game assets to make them appear like they are from a comic book or anime.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751797851008,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1. Transform all individual game assets displayed in the image, including furniture, decorative items, statues, architectural pillars, rugs, plants, and the isometric room layout, by applying a cel-shaded rendering style. The transformation should result in visuals characterized by distinct dark outlines, flat color fills, and simplified, hard-edged shadows, making the assets appear as if they are from a comic book or anime.",
+  "annotator": "edisy",
+  "objects": [
+    "isometric room layout",
+    "chairs and sofas",
+    "tables",
+    "ottomans",
+    "animal statues",
+    "architectural pillars",
+    "rugs",
+    "potted plants",
+    "lamps",
+    "hourglasses"
+  ]
+}

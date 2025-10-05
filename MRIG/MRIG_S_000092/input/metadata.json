@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Create a collaborative coding environment screenshot using the split editor view from the first image and the coding theme from the second image.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a screenshot of a modern coding environment, reflecting a setup suitable for collaboration. Incorporate the three-panel split editor view from image 1, featuring a file explorer on the far left, a primary code editor in the center, and a narrower secondary editor pane to its right. The coding theme from image 2 should be applied throughout, characterized by a light background for all editor and sidebar areas, dark text, and syntax highlighting (e.g., blue/purple for keywords, orange/red for strings, green for comments) consistent with image 2. All user interface elements, including tabs and the status bar, should adhere to this light theme.",
+  "annotator": "paria",
+  "objects": [
+    "Modern coding environment screenshot",
+    "Three-panel split editor view",
+    "File explorer on the far left panel",
+    "Primary code editor in the center panel",
+    "Narrower secondary editor pane to its right panel",
+    "Light background for all editor and sidebar areas",
+    "Dark text throughout",
+    "Syntax highlighting (blue/purple for keywords, orange/red for strings, green for comments)",
+    "UI tabs with light theme",
+    "Status bar with light theme"
+  ]
+}

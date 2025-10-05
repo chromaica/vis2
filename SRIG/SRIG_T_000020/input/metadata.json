@@ -1,0 +1,18 @@
+{
+  "task": "SRIG",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "generate a meme following the style and format of the reference image, featuring the text 'AGI company raised 10B and' positioned appropriately within a similar visual layout",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate an image that replicates the meme format shown in image 1, featuring the surprised Pikachu character in the lower portion and a solid white background in the upper portion. Place the text 'AGI company raised 10B and' clearly visible and centered horizontally within the upper white background.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Surprised Pikachu character (in the lower portion)",
+    "Blurry green/brown background (behind Pikachu)",
+    "Solid white background (in the upper portion)",
+    "Text: 'AGI company raised 10B and' (centered horizontally in the upper white background)"
+  ]
+}

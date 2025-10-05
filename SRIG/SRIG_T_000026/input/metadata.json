@@ -1,0 +1,22 @@
+{
+  "task": "SRIG",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "make the word 'Sacrillegiouz' in the style of the given image",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "note it ends with z and 2 'l'",
+  "prompt_refined": "Generate an image featuring the word 'Sacrillegiouz' composed of white, three-dimensional block letters, consistent with the style of letters seen in image 1. These letters should be securely inserted into a dark grey, perforated pegboard, similar in appearance to the message board in image 1. Position the pegboard slightly angled on a plain, textured light beige surface, emulating the background and top-down perspective of image 1, including the subtle shadows cast by the letters and board.",
+  "annotator": "theblackcat",
+  "objects": [
+    "The word 'Sacrillegiouz' formed by white, three-dimensional block letters",
+    "Dark grey, perforated pegboard",
+    "Letters securely inserted into the pegboard",
+    "Plain, textured light beige surface",
+    "Pegboard positioned slightly angled on the surface",
+    "Subtle shadows cast by the letters and pegboard",
+    "Top-down perspective"
+  ],
+  "human_annotation": true
+}

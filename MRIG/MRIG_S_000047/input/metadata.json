@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Design a screenshot of an X (formerly Twitter) profile, including the profile picture from the first image and a post from the second image.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a full screenshot of an X (formerly Twitter) profile page. In the top-left section, include a circular profile picture featuring the woman with long brown hair and a red and white floral dress from image 1. Below the profile header, display a single post that matches the dark theme, layout, and text content (including 'Name', '@Username', 'Your tweet here!', '12:00 PM \u00b7 Jun 1, 2020', and action icons) of the example post provided in image 2.",
+  "annotator": "paria",
+  "objects": [
+    "Full X (formerly Twitter) profile page UI",
+    "Circular profile picture in top-left",
+    "Woman with long brown hair and red and white floral dress from image 1 (as content of profile picture)",
+    "Single X/Twitter post below profile header, matching dark theme and layout of image 2",
+    "Text: 'Name' (within the post)",
+    "Text: '@Username' (within the post)",
+    "Text: 'Your tweet here!' (within the post)",
+    "Text: '12:00 PM \u00b7 Jun 1, 2020' (within the post)",
+    "Action icons (reply, retweet, like, share - within the post)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

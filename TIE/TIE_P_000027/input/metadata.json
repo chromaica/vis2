@@ -1,0 +1,22 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "add beautiful green northern lights to this image",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Add vibrant, beautiful green northern lights across the night sky, appearing above the treeline and seamlessly integrating with the existing stars and Milky Way.",
+  "annotator": "theblackcat",
+  "objects": [
+    "vibrant green northern lights",
+    "night sky",
+    "stars",
+    "Milky Way",
+    "silhouetted treeline",
+    "dark foreground"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

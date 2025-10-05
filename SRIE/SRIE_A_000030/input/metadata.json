@@ -1,0 +1,26 @@
+{
+  "subtopic": "Stylized art",
+  "prompt": "Apply the vibrant purple, pink, and cosmic starry sky from image 2 into image 1.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748493050100,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1. Replace the pale upper background sky in image 1 with the vibrant purple and pink cosmic starry sky from image 2. Ensure the new sky, featuring a prominent Milky Way and scattered stars, appears seamlessly behind the existing house and trees in the foreground of image 1.",
+  "annotator": "kellycyy",
+  "objects": [
+    "house",
+    "trees in foreground",
+    "yellow vehicle",
+    "vibrant purple and pink cosmic starry sky",
+    "prominent Milky Way",
+    "scattered stars",
+    "moon",
+    "foreground landscape",
+    "pale upper background sky (should not be present)"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "task": "MRIE",
+  "topic": "P",
+  "subtopic": "Scenic Nature Parks",
+  "prompt": "Add the dear from the second image to the lower right corner of the first image, and add flowers from the third image to the field of the first image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Incorporate the young deer from image 2 into the lower right corner of image 1. Additionally, add the lilac flowers from image 3 throughout the grassy field area on the right side of image 1.",
+  "annotator": "boris",
+  "objects": [
+    "Historic house",
+    "Stone wall",
+    "Grassy field",
+    "Green hedge",
+    "Background trees",
+    "Sky with clouds",
+    "Young deer in the lower right corner",
+    "Lilac flowers throughout the grassy field area on the right side"
+  ]
+}

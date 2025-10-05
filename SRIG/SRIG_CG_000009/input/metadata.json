@@ -1,0 +1,26 @@
+{
+  "subtopic": "Object detection visuals",
+  "prompt": "Create a computer graphics image of a city street view applying object detection visualization. Incorporate colored bounding boxes and labels around detected objects like cars and people, similar to the reference image.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://miro.medium.com/v2/resize:fit:466/1*69eiyaohGpOT3ti05sw9ew.jpeg",
+  "promptGeneratedTimestamp": 1748765767411,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a computer graphics image depicting a daytime city street view, visualized as an object detection output. Following the style and details of image 1, incorporate colored bounding boxes and corresponding text labels around detected objects. Specifically, apply yellow bounding boxes and labels to vehicles like cars and buses, and to traffic lights; magenta bounding boxes and labels to people; and green bounding boxes and labels to objects such as handbags. The scene should feature multiple vehicles on the road, pedestrians on the right sidewalk, and urban buildings in the background, consistent with the composition and visual appearance of image 1.",
+  "annotator": "ishengfang",
+  "objects": [
+    "daytime city street view",
+    "object detection output style",
+    "yellow bounding boxes and labels for vehicles and traffic lights",
+    "magenta bounding boxes and labels for people",
+    "green bounding boxes and labels for handbags",
+    "multiple vehicles on the road",
+    "traffic lights",
+    "pedestrians on the right sidewalk",
+    "handbags",
+    "urban buildings in the background"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Generate a calendar view with events scheduled. The event period should follow the period shown in the image. Use the minimalistic UI style and the soft, flat color scheme found in the reference Gantt chart screenshot.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://cdn.prod.website-files.com/64f7711eb780b1a9e4b52ff1/682ca38245ae4430854c9297_65fc249bff8c51371ae12bac_Graphic-hero-chart-homepage%402x.png",
+  "promptGeneratedTimestamp": 1749907855933,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate a calendar view that displays scheduled events. The displayed period for events must span from January 17, 2019, to February 7, 2019, mirroring the date range visible in image 1. Render the calendar with a minimalistic user interface, similar to image 1, characterized by a clean layout, white background, simple thin gray lines as separators, and clear sans-serif text. The events within the calendar should utilize the soft, flat, and desaturated color scheme seen in the Gantt chart bars of image 1, including shades of blue, green, yellow, purple, and dark grey, devoid of gradients or complex textures.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Calendar grid layout",
+    "Dates from January 17, 2019, to February 7, 2019",
+    "Scheduled events with descriptive text",
+    "Events in soft, flat, and desaturated colors (blue, green, yellow, purple, dark grey)",
+    "Milestone markers (orange diamonds)",
+    "White background",
+    "Simple thin gray line separators",
+    "Clear sans-serif text"
+  ]
+}

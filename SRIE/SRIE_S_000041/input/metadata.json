@@ -1,0 +1,27 @@
+{
+  "subtopic": "Receipts",
+  "prompt": "Edit image 1, the Target receipt, by incorporating a key visual element from image 2. Modify the display of the total amount ($69.69) to be significantly larger, bolder, and centered, mimicking the prominent style of the \"$28.00\" display in image 2 to draw attention.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1750832703256,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit image 1, the Target receipt. Locate the total amount, '$69.69'. Reformat the display of this '$69.69' value to be significantly larger, bolder, and horizontally centered within the receipt's content area, replacing its current position. The visual style of this re-formatted '$69.69' should precisely emulate the prominent font size, weight, and overall presentation of the '$28.00' display in image 2, making the total stand out prominently.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Target receipt layout",
+    "Target logo",
+    "Receipt header (MOTTASVELLI, date, barcode)",
+    "Itemized purchase list (BELKIN SCREE, EMUTEC CASE)",
+    "Subtotal and tax details",
+    "Payment type (VISA CHARGE, VISA CREDIT)",
+    "Receipt footer (survey text, informtarget.com)",
+    "Large, bold, horizontally centered \"$69.69\" total amount",
+    "Original \"TOTAL\" label near payment details (should not be present)",
+    "Original \"$69.69\" value near payment details (should not be present)"
+  ]
+}

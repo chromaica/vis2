@@ -1,0 +1,25 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "Change the title to \u2018Miami by Night\u2019 in the same font, and swap the sky to a deep black night sky with firework.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Replace the title \"MIAMI\" at the top of the image with \"Miami by Night\", ensuring the new text uses the same font style and color. Transform the entire sky area, currently a sunset with clouds and a sun, into a deep black night sky with visible fireworks.",
+  "annotator": "matina",
+  "objects": [
+    "\"Miami by Night\" title",
+    "city skyline",
+    "bridge",
+    "water",
+    "boat",
+    "sailboats",
+    "islands with palm trees",
+    "deep black night sky",
+    "fireworks",
+    "\"MIAMI\" (should not be present)"
+  ],
+  "human_annotation": true
+}

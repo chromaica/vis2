@@ -1,0 +1,26 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Set username in this tweet to \u2018@ImaginHub.\u201d",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 by changing the Twitter username \"@RUFFLES\" in the top-left section of the tweet to \"@ImaginHub\".",
+  "annotator": "matina",
+  "objects": [
+    "Ruffles profile picture",
+    "RUFFLES (display name)",
+    "@ImaginHub (Twitter username)",
+    "Blue checkmark",
+    "Follow button",
+    "Tweet text: \"When your roommate eats all the Ruffles.\"",
+    "Image of Arthur's clenched fist",
+    "Tweet timestamp: 1:58 PM - 29 Jul 2016",
+    "Tweet engagement counts (28 Retweets, 49 Likes)",
+    "Row of user profile avatars"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

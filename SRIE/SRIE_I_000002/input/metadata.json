@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Apply the second image's 2D visualization pie chart style to the first image.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Convert the pie chart into a doughnut chart using the visual style of image 2. Apply the dark, glossy teal color palette, white segment outlines, and a dark background from image 2 to the chart in image 1. Ensure the percentage labels are white and positioned outside the segments.",
+  "annotator": "Johnny",
+  "objects": [
+    "Doughnut chart",
+    "Dark, glossy teal color palette for chart segments",
+    "White chart segment outlines",
+    "Dark background",
+    "Percentage labels (40%, 30%, 10%, 7%, 13%)",
+    "White percentage labels",
+    "Percentage labels positioned outside segments",
+    "Pie chart (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

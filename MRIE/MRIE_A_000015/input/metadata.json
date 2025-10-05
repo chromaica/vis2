@@ -1,0 +1,23 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Portraits",
+  "prompt": "Change the background of the portrait in the first image to the watercolor splash from the third image, and replace the flower bouquet in the girl's hands with the sunflowers from the second image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit Image 1, the portrait of the woman, by performing two specific modifications. First, replace the existing textured wall background behind the woman with the vibrant watercolor splash pattern and colors from Image 3. Second, remove the current mixed flower bouquet held in the woman's hands and replace it with the sunflowers from Image 2, ensuring they are naturally held in the same position as the original bouquet.",
+  "annotator": "paria",
+  "objects": [
+    "woman",
+    "vibrant watercolor splash pattern background",
+    "sunflowers held in the woman's hands",
+    "textured wall background (should not be present)",
+    "mixed flower bouquet (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

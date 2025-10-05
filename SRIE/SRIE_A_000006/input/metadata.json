@@ -1,0 +1,28 @@
+{
+  "subtopic": "Traditional art",
+  "prompt": "Extend the image 1 and put the two dogs in image 2 next to the girl in image 1. So the girl and dogs are looking each other. Keep the same artistic style as image 1.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "Classic traditional art examples",
+  "searchQueryGeneratedTimestamp": 1748483468511,
+  "promptGeneratedTimestamp": 1748483697848,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1 by extending the canvas to its left side. Add the two dogs from image 2 into this newly extended area, positioning them to the left of the girl. Ensure the girl and the dogs are facing and looking towards each other. Maintain the detailed oil painting style of image 1 throughout the composition.",
+  "annotator": "kellycyy",
+  "objects": [
+    "Girl",
+    "White lace cap (on the girl)",
+    "White lace dress detail (on the girl)",
+    "Canvas extended to the left",
+    "Large brown and white dog (positioned to the left of the girl)",
+    "Small black and white dog (positioned to the left of the girl)",
+    "Girl and dogs facing each other",
+    "Detailed oil painting style"
+  ],
+  "human_annotation": true
+}

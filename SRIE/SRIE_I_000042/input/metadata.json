@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "Show the UI mockup on the largest box in the poster.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 (the poster) by replacing the current image content within its largest central rectangular frame with one of the user interface (UI) mockups provided in image 2. The selected UI mockup from image 2 should be clearly visible and appropriately scaled to fit the designated area in image 1.",
+  "annotator": "Johnny",
+  "objects": [
+    "Poster main frame (black background, rounded corners)",
+    "\"POSTER A4 / FLYER A5\" text",
+    "\"Japan\" text at the top",
+    "Vertical \"City Tour Japan\" text",
+    "Decorative graphical elements (dots, triangles)",
+    "\"VISIT JAPAN\" heading",
+    "Placeholder text blocks (e.g., \"Lorem ipsum dolor sit amet...\")",
+    "\"2022\" text",
+    "\"www.japan.com\" URL and social media icons",
+    "UI mockup of a \"My Cart\" screen within the central frame"
+  ]
+}

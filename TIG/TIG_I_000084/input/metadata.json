@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Visual instructions and manuals",
+  "prompt": "Technical maintenance manual for a dragon, showing anatomical diagrams, feeding schedules, and troubleshooting charts in aviation manual format",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "An open technical maintenance manual for a dragon, presented in the precise style of an aviation engineering handbook. The left page prominently displays a detailed, labeled anatomical diagram of the dragon. The right page features a structured feeding schedule in a table format at the top, and a clear troubleshooting flowchart for common dragon malfunctions below it. The manual's aesthetic is clean, highly technical, with monochromatic line art diagrams and crisp sans-serif text, similar to a real-world aircraft maintenance manual.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Open technical maintenance manual",
+    "Left page of the manual",
+    "Detailed anatomical diagram of a dragon on the left page",
+    "Labels on the dragon diagram",
+    "Right page of the manual",
+    "Structured feeding schedule in a table format on the top of the right page",
+    "Troubleshooting flowchart for dragon malfunctions below the feeding schedule on the right page",
+    "Monochromatic line art diagrams",
+    "Crisp sans-serif text",
+    "Aviation engineering handbook aesthetic"
+  ]
+}

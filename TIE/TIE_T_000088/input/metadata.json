@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "Convert the poster to animation style.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the Pulp Fiction movie poster featuring Mia Wallace. Transform the entire image into a vibrant, cel-animation style. Render all existing elements, including Mia Wallace, her pose, the bed she is lying on, the cigarette smoke, and all textual graphics such as the 'Pulp Fiction' title, cast list, and Miramax logo, with clear, defined outlines, simplified textures, and saturated colors, while maintaining the original composition and layout of the poster.",
+  "annotator": "matina",
+  "objects": [
+    "Mia Wallace",
+    "Bed",
+    "Cigarette",
+    "Cigarette smoke",
+    "\"Pulp Fiction\" title text",
+    "Cast list text",
+    "Miramax logo text",
+    "High heels",
+    "\"From the creator of 'True Romance' & 'Reservoir Dogs'\" text",
+    "\"10\u00a2\" graphic"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "subtopic": "Stylized art",
+  "prompt": "Edit image 1 by applying the soft pastel color palette from image 2 to recolor the cubist painting. Transform the artwork's colors while preserving its stylized geometric forms and composition in this new palette.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "Stylized art style examples",
+  "searchQueryGeneratedTimestamp": 1748485690944,
+  "promptGeneratedTimestamp": 1748485945320,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Recolor the cubist still life painting in image 1. Apply the soft pastel color palette from image 2 to completely transform its existing colors. Ensure the artwork's original stylized geometric forms, lines, and overall composition are fully preserved.",
+  "annotator": "kellycyy",
+  "objects": [
+    "Cubist pitcher",
+    "Cubist fruit bowl",
+    "Cubist fruit",
+    "Cubist table",
+    "Cubist drinking glass",
+    "Geometric abstract background",
+    "Thick black outlines",
+    "Stylized geometric forms",
+    "Overall cubist composition",
+    "Soft pastel color scheme"
+  ],
+  "human_annotation": true
+}

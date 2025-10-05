@@ -1,0 +1,27 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Generate an image of a sofa inspired by the first provided images of a cheetah and the second provided images of a contemporary sectional sofa. Use the cheetah\u2019s spotted pattern for the fabric, with a soft, velvety texture in warm tan and black tones. The sofa\u2019s frame should reflect the cheetah\u2019s sleek, aerodynamic form, with smooth, curved edges and slender legs. The design should be stylish, comfortable, and suitable for a trendy urban apartment.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic image of a contemporary sectional sofa. This sofa should fuse design elements from the cheetah in image 1 and the sofa in image 2. For the upholstery, apply the distinct black spotted pattern and warm, sandy tan base color of the cheetah from image 1, rendered in a soft, velvety texture. The sofa's frame should adopt the comfortable, deep-seating structure of the sectional in image 2, while integrating the sleek, curved lines and slender proportions of the cheetah from image 1, featuring smooth, subtly curved edges and slender, minimalist legs. The overall design should be stylish, comfortable, and perfectly suited for a chic, modern urban apartment.",
+  "objects": [
+    "contemporary sectional sofa",
+    "upholstery with black spotted pattern",
+    "upholstery with warm, sandy tan base color",
+    "soft, velvety texture upholstery",
+    "comfortable, deep-seating sofa structure",
+    "sleek, curved lines for sofa frame",
+    "slender proportions for sofa frame",
+    "smooth, subtly curved edges for sofa frame",
+    "slender, minimalist sofa legs",
+    "chic, modern urban apartment setting"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

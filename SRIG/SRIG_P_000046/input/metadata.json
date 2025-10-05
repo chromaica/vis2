@@ -1,0 +1,21 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Medical images",
+  "prompt": "Generate a realistic X-ray image of a hand with the surgical instrument from the reference image placed inside the hand.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic X-ray image of a human hand. The surgical clamp from image 1 should be clearly visible and fully embedded within the hand's internal structure.",
+  "annotator": "samin",
+  "objects": [
+    "X-ray visual style",
+    "human hand",
+    "bones of the human hand",
+    "surgical clamp (from image 1)",
+    "surgical clamp fully embedded within the hand's internal structure"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

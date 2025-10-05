@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Change the caption of the meme to something related to me opens my snack in class. Add the snacks in the second and third image to the meme. Keep the snacks in the right side of portals, and adjust their size such that they do not block a lot of the army in the meme.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit `image 1` by:\n1.  Replacing the existing meme caption \"Me: Opens phone for 0.76 seconds / Every 7 year old within a 5 kilometer radius:\" with the new caption: \"Me: Opens my snack in class / Everyone in a 5-meter radius:\".\n2.  Adding the Lay's chip bags depicted in `image 2` and the Skittles candy pack from `image 3` into the scene of `image 1`.\n3.  Positioning these added snack items on the right side of the glowing circular portals in `image 1`.\n4.  Scaling the added snacks such that they are clearly visible but do not substantially obstruct the view of the army in the lower half of `image 1`.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "\"Me: Opens phone for 0.76 seconds / Every 7 year old within a 5 kilometer radius:\" (should not be present)",
+    "\"Me: Opens my snack in class / Everyone in a 5-meter radius:\" (text caption)",
+    "Lay's Classic chip bag on the right side of the glowing circular portals",
+    "Lay's Sour Cream & Onion chip bag on the right side of the glowing circular portals",
+    "Lay's Dill Pickle chip bag on the right side of the glowing circular portals",
+    "Lay's Barbecue chip bag on the right side of the glowing circular portals",
+    "Skittles candy pack on the right side of the glowing circular portals",
+    "Glowing circular portals",
+    "Army/crowd in the lower half of the scene",
+    "Flying ships/objects in the scene"
+  ]
+}

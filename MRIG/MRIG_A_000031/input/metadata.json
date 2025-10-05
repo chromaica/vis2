@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Traditional art",
+  "prompt": "a watercolor painting of the two referenced flowers arranged in a ceramic pitcher.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a watercolor painting featuring an arrangement that combines the style and appearance of the blue and purple blossoms from image 1 with the soft, clustered purple flower from image 2. All flowers should be artfully placed within a ceramic pitcher.",
+  "annotator": "samin",
+  "objects": [
+    "Watercolor painting style",
+    "Blue blossoms",
+    "Purple blossoms",
+    "Clustered purple flower",
+    "Green leaves",
+    "Green stems",
+    "Ceramic pitcher",
+    "Flower arrangement"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

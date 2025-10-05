@@ -1,0 +1,21 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "a realistic image of a celestial body following the orbit path specified in the provided reference image",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic image of a cosmic scene featuring multiple celestial bodies arranged according to specific orbital paths. The composition should accurately reflect the arrangement of the two large, orange suns, the blue planet, and its small purple moon, all positioned along the orbital trajectories depicted in image 1. The scene should convey a sense of deep space with subtle lighting and distant stars.",
+  "annotator": "samin",
+  "objects": [
+    "two large orange suns",
+    "a blue planet",
+    "a small purple moon",
+    "orbital paths (as depicted in image 1)",
+    "deep space background",
+    "distant stars"
+  ],
+  "human_annotation": true
+}

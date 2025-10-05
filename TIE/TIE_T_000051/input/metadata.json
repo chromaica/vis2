@@ -1,0 +1,25 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": "Redesign all outfits as medieval knights\u2019 armor\u2014complete with crests.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Redesign the clothing of all four individuals shown\u2014the man in the blue suit, the woman in the red dress, the woman in the black top and white skirt, and the man in the brown suit. Transform their current outfits into complete medieval knight armor, ensuring each suit includes a distinctive crest.",
+  "annotator": "matina",
+  "objects": [
+    "man in medieval knight armor with a distinctive crest",
+    "woman in medieval knight armor with a distinctive crest",
+    "woman in medieval knight armor with a distinctive crest",
+    "man in medieval knight armor with a distinctive crest",
+    "speech bubbles",
+    "tree trunk",
+    "green foliage",
+    "white picket fence",
+    "green ground",
+    "yellow sky"
+  ],
+  "human_annotation": true
+}

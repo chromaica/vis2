@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "An intriguing close-up of a rusty metal lock on an old wooden door, showcasing textures and subtle details with dramatic lighting.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A hyper-realistic close-up photograph of a heavily rusted, antique metal lock secured onto a weathered, dark wooden door. The scene features intricate textures of corroded metal and deep, gnarled wood grain, captured with sharp focus on every subtle detail. Illuminated by dramatic, high-contrast chiaroscuro lighting, casting pronounced shadows and accentuating the lock's weathered contours.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Heavily rusted, antique metal lock",
+    "Weathered, dark wooden door",
+    "Intricate textures of corroded metal",
+    "Deep, gnarled wood grain",
+    "Pronounced shadows",
+    "High-contrast chiaroscuro lighting"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

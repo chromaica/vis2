@@ -1,0 +1,29 @@
+{
+  "subtopic": "Websites",
+  "prompt": "Edit Image 1: Apply the light theme and pink accent colors from the user interface in Image 2 to the configuration panel and preview elements of Image 1, changing its dark theme.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751012587610,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit Image 1: Apply the overall light theme and specific pink accent colors from the user interface in Image 2 to transform Image 1's dark theme. Change the dark background of the left configuration panel, the top navigation bar, and the main content area (including the individual Instagram post cards) to a light or white background. Update all text, icons, and non-accent UI elements from white to dark gray or black for readability on the new light theme. Additionally, convert the primary accent elements, such as the 'Add to website for free' button in the bottom left and the progress bar below the Instagram posts, to the prominent pink color observed in Image 2.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Left configuration panel with light background",
+    "Top navigation bar with light background",
+    "Main content area with light background",
+    "Instagram post cards with light backgrounds",
+    "Dark gray or black text",
+    "Dark gray or black icons",
+    "Pink 'Add to website for free' button",
+    "Pink progress bar below Instagram posts",
+    "Instagram post images",
+    "UI elements (e.g., scrollbars, separators) in dark gray or black"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

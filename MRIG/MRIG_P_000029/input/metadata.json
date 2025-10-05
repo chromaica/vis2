@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Transform the first input image of a bustling harbor into a steaming seafood hotpot feast referenced in the second Image. The harbor\u2019s waterfront becomes a wide, shallow ceramic hotpot bowl, with the dock\u2019s wooden planks etched into its exterior as decorative patterns. The water in the harbor turns into a clear, shimmering seafood broth, bubbling gently. Boats floating in the harbor morph into ingredients: sailboats as slices of white fish, cargo ships as plump shrimp, and buoys as fish balls. Waves ripple as strands of glass noodles, with seaweed and green onions floating atop. Steam rises like morning fog over the harbor, with chopsticks and a ladle resting on the bowl\u2019s edge. Render in a photorealistic style ",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic image that transforms the scene depicted in Image 2 (a large harbor) into a steaming seafood hotpot feast, referencing the visual style and elements of the hotpot in Image 1.\n\nThe expansive harbor's waterfront from Image 2 should become a wide, shallow ceramic hotpot bowl. The wooden planks of the docks and piers within the harbor should be intricately etched as decorative patterns on the exterior surface of this new hotpot bowl, retaining their original layout and density.\n\nThe water within the harbor area transforms into a clear, shimmering seafood broth, gently bubbling. Visible boats in the harbor from Image 2 should morph into various hotpot ingredients: sailboats transform into delicate slices of white fish, larger vessels or cargo ships become plump shrimp, and buoys visible in the water convert into spherical fish balls.\n\nThe small ripples and waves on the water's surface from Image 2 should appear as translucent strands of glass noodles. Floating atop the broth, scatter vibrant green seaweed and finely chopped green onions, similar to those seen in Image 1.\n\nA gentle, voluminous steam, resembling morning fog, should rise atmospherically over the entire hotpot bowl, obscuring parts of the background. On the rim of the hotpot bowl, position a pair of chopsticks and a serving ladle, similar in style and placement to those seen in Image 1.",
+  "objects": [
+    "Wide, shallow ceramic hotpot bowl",
+    "Clear, shimmering, gently bubbling seafood broth",
+    "Delicate slices of white fish",
+    "Plump shrimp",
+    "Translucent strands of glass noodles",
+    "Vibrant green seaweed",
+    "Finely chopped green onions",
+    "Gentle, voluminous steam over the hotpot bowl",
+    "A pair of chopsticks on the hotpot rim",
+    "A serving ladle on the hotpot rim"
+  ]
+}

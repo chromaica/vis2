@@ -1,0 +1,24 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "Bold and enlarge words positioned over high-saliency zones.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Increase the font size and apply a bold font weight to all words positioned within the high-saliency zones, which are indicated by the red highlighted areas in image 2.",
+  "annotator": "matina",
+  "objects": [
+    "A textual portrait of Salvador Dal\u00ed",
+    "Words with increased font size and bold weight",
+    "Words with original font size and weight",
+    "Salvador Dal\u00ed's distinctive mustache",
+    "Salvador Dal\u00ed's eyes",
+    "Text forming Dal\u00ed's hair",
+    "Text forming Dal\u00ed's shoulder",
+    "A light-colored background"
+  ],
+  "human_annotation": true
+}

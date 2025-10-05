@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "Create a textbook-style illustration of a plant cell cross-section, designed for high school biology. Use a semi-realistic style with soft shading and pastel colors (green, purple, pink, and beige) to highlight organelles (chloroplasts, vacuole, nucleus, mitochondria, cell wall). Include concise labels with arrows in a serif font for a classic textbook feel. Simplify the textures from the first referenced image into smooth surfaces, and use the fluorescence colors from the second referenced image to inspire vibrant organelle hues. Add a subtle shadow effect to make organelles appear layered, and include a magnified inset of a chloroplast showing grana stacks. Place the cell in a light beige background with faint grid lines to evoke a lab notebook.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a new image: A textbook-style illustration of a plant cell cross-section, designed for high school biology. The illustration should be rendered in a semi-realistic style with soft shading, utilizing a pastel color palette of green, purple, pink, and beige to distinctly highlight key organelles including chloroplasts, vacuole, nucleus, mitochondria, and cell wall.\n\nFrom image 1, simplify the natural granular textures of the cell walls and internal structures into smooth, clean surfaces. Incorporate the vibrant fluorescent green and magenta colors from image 2 to inspire distinct and vivid pastel hues for the organelles \u2013 for example, a vibrant pastel green for chloroplasts and a vibrant pastel pink/purple for other highlighted structures.\n\nApply a subtle shadow effect to create a layered, three-dimensional appearance for the organelles. Include concise labels with arrows, using a classic serif font, placed clearly around the cell. In the top-right corner, add a magnified inset of a single chloroplast, distinctly showing its grana stacks. The entire cell should be positioned against a light beige background featuring faint grid lines, evoking the look of a lab notebook page.",
+  "objects": [
+    "Plant cell cross-section illustration",
+    "Chloroplasts (vibrant pastel green)",
+    "Vacuole (vibrant pastel pink/purple)",
+    "Nucleus (vibrant pastel pink/purple)",
+    "Mitochondria (vibrant pastel pink/purple)",
+    "Cell wall (smooth, clean surfaces)",
+    "Subtle shadow effect (creating layered 3D appearance for organelles)",
+    "Concise labels with arrows (classic serif font)",
+    "Magnified inset of a single chloroplast (in top-right corner, showing grana stacks)",
+    "Light beige background with faint grid lines"
+  ]
+}

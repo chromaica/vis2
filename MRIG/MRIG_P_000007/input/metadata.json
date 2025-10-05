@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Generate an image of a dragon styled to match the visual characteristics (e.g., color, texture, and art style) of the lizard in the first reference image, placed within the background of the second reference image. Ensure the dragon integrates naturally with the background's lighting, perspective, and environment.",
+  "cond_images": [
+    "1.png",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic image of a dragon, capturing the distinctive scale patterns and skin textures, and featuring the vibrant iridescent blue-green and earthy orange-brown colors observed on the lizard in image 1. Place this dragon flying gracefully within the expansive sunset sky of image 2, above the calm, reflective water. Ensure the dragon is seamlessly integrated into the scene, matching the wide perspective, soft, warm lighting, and the environmental reflections of image 2, with its form accurately reflected on the water's surface.",
+  "objects": [
+    "photorealistic dragon",
+    "dragon with distinctive scale patterns",
+    "dragon with distinctive skin textures",
+    "dragon with vibrant iridescent blue-green colors",
+    "dragon with earthy orange-brown colors",
+    "expansive sunset sky",
+    "calm, reflective water",
+    "dragon's reflection on the water's surface",
+    "soft, warm lighting"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

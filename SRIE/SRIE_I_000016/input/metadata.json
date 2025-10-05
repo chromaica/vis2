@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "Insert this painting similar to the icon above the fireplace.",
+  "cond_images": [
+    "1.png",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit `image 1` by replacing the television screen positioned above the fireplace. Insert a framed painting in its place. This painting should distinctly feature the minimalist art palette and brush icon from `image 2`, maintaining its graphic, monochrome style.",
+  "annotator": "Johnny",
+  "objects": [
+    "living room interior",
+    "fireplace",
+    "mantelpiece above the fireplace",
+    "framed painting above the fireplace",
+    "minimalist art palette and brush icon",
+    "television screen (should not be present)",
+    "sofa",
+    "coffee table",
+    "rug",
+    "plant"
+  ]
+}

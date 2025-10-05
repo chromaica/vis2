@@ -1,0 +1,22 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Reformat the flowchart by changing all flowchart elements from rectangle shapes to circle shapes.",
+  "cond_images": [
+    "1.png",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, reformatting the existing flowchart. Transform all seven rectangular flowchart elements in image 1 into circular shapes. The new circular elements and the overall composition should adopt the hand-drawn, 3D-like visual style and the lined paper background visible in image 2.",
+  "annotator": "Johnny",
+  "objects": [
+    "seven circular flowchart elements",
+    "hand-drawn style for elements",
+    "3D-like appearance for elements",
+    "lined paper background",
+    "flowchart arrows",
+    "hand-drawn style for arrows"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,23 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Stylized art",
+  "prompt": "Create a stylized artwork of a bird combining the vibrant, splashy coloring and expressive energy from image 1 with the intricate, patterned details and structured form from image 2.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a stylized artwork of a bird. The bird should incorporate the intricate, detailed patterns and structured, full-body form seen in image 2. Apply the vibrant, multi-colored, and splashy watercolor aesthetic along with the expressive, energetic brushwork from image 1 to render the bird's design.",
+  "annotator": "samin",
+  "objects": [
+    "stylized artwork",
+    "bird",
+    "full-body bird form",
+    "intricate detailed patterns on the bird",
+    "vibrant colors",
+    "multi-colored design",
+    "splashy watercolor aesthetic",
+    "expressive energetic brushwork"
+  ]
+}

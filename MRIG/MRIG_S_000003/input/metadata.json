@@ -1,0 +1,27 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": "Generate a login page using the background from the first image and the login form design from the second image",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a login page. Use the futuristic, dark blue, digital technology-themed background from image 1. Integrate the dark grey, rounded-corner login form panel from image 2, placing it centrally. Ensure the form includes all elements seen in image 2, such as the input fields for 'Email' and 'Password', the 'LOGIN' button, social media icons, and text links.",
+  "annotator": "paria",
+  "objects": [
+    "futuristic, dark blue, digital technology-themed background",
+    "dark grey, rounded-corner login form panel (centrally placed)",
+    "'LOGIN' title",
+    "\"Please enter your login and password!\" text",
+    "'Email' input field",
+    "'Password' input field",
+    "\"Forgot password?\" text link",
+    "'LOGIN' button",
+    "social media icons",
+    "\"Don't have an account? Sign Up\" text link"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

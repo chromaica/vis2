@@ -1,0 +1,20 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Using the provided mask picture, generate a realistic beach scene with the people placed according to the mask",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic image of a beach scene. Integrate four people into the scene, ensuring their positions, relative sizes, and shapes precisely match the colored silhouettes depicted in image 1. The scene should feature a primary figure centrally, another person positioned immediately to their right, and two partially visible individuals on the left side of the frame, consistent with the spatial arrangement in image 1.",
+  "annotator": "samin",
+  "objects": [
+    "beach scene",
+    "primary figure centrally with characteristics of the central green silhouette",
+    "person immediately to the right of the primary figure with characteristics of the right yellow/brown silhouette",
+    "partially visible person on the left side of the frame with characteristics of the red silhouette",
+    "partially visible person on the far left side of the frame with characteristics of the blue silhouette"
+  ],
+  "human_annotation": true
+}

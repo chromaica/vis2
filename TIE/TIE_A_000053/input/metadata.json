@@ -1,0 +1,23 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Impressionism",
+  "prompt": "Add reflections of the lights in the sky to the water surface. Ensure the reflections are correctly aligned with the light above.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Add reflections of the prominent bright yellow light source and the multi-colored light rays that emanate upwards from the horizon in the sky. Project these reflections onto the teal water surface, ensuring they are vertically aligned directly below their respective light sources in image 1.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "bright yellow light source",
+    "multi-colored light rays",
+    "sky with light rays",
+    "horizon line",
+    "teal water surface",
+    "green foreground / field",
+    "reflections of bright yellow light source on water",
+    "reflections of multi-colored light rays on water"
+  ],
+  "human_annotation": true
+}

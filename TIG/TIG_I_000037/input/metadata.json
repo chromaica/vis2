@@ -1,0 +1,24 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "A sleek UI mock-up of a streaming service's homepage featuring a dark background with bold white text and blue accents. Key elements include a horizontal top navigation bar with \u2018StreamHub\u2019 branding, a prominent \u2018Indie Spotlight\u2019 banner, content carousels for browsing titles, a 'Live Watch Party' chat panel, subscription-plan cards, and an intuitive collapsible sidebar menu",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a sleek UI mock-up for a streaming service's homepage. The design features a dark background with bold white text and vibrant blue accents.\n\nAt the very top of the page, a horizontal navigation bar stretches across the width, prominently displaying 'StreamHub' branding on its left side. Directly below this navigation, a prominent 'Indie Spotlight' banner is centrally placed.\n\nOn the far left of the screen, an intuitive collapsible sidebar menu is visible. The main central area of the page features multiple content carousels, showcasing title thumbnails for browsing. To the right of the main content, a 'Live Watch Party' chat panel is vertically arranged. Towards the bottom of the page, distinct subscription-plan cards are clearly laid out.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Dark background",
+    "Horizontal navigation bar (at the very top)",
+    "'StreamHub' branding (on navigation bar, left side)",
+    "'Indie Spotlight' banner (centrally placed, directly below navigation)",
+    "Collapsible sidebar menu (far left of the screen)",
+    "Multiple content carousels (main central area)",
+    "Title thumbnails (within carousels)",
+    "'Live Watch Party' chat panel (vertically arranged, to the right of main content)",
+    "Subscription-plan cards (towards the bottom of the page)",
+    "Vibrant blue accents"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

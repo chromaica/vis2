@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": "Design a virtual reality arcade website with glitch effects, holographic text, cyberpunk color schemes, 3D game previews, and interactive VR headset configurators with neon lighting",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a futuristic virtual reality arcade website homepage. The design should feature a dark cyberpunk color scheme, predominantly deep blues, purples, and blacks, sharply contrasted with vibrant neon accents in electric blue, pink, and lime green. Incorporate subtle digital glitch effects across the interface, especially on text elements and and content block borders. All main titles and navigation links should appear as shimmering, slightly transparent holographic text projections. In the central display area, showcase multiple high-fidelity 3D game previews with dynamic animations. Prominently placed, an interactive VR headset configurator should feature a customizable, rotating 3D model of a sleek headset, surrounded by neon-lit option buttons. Ensure neon lighting defines key interactive elements and provides an overall glow, enhancing the immersive cyberpunk atmosphere.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Futuristic virtual reality arcade website homepage layout",
+    "Dark cyberpunk color scheme",
+    "Neon accents (electric blue, pink, lime green)",
+    "Subtle digital glitch effects",
+    "Shimmering, slightly transparent holographic text projections (for main titles and navigation links)",
+    "Multiple high-fidelity 3D game previews (in central display area)",
+    "Interactive VR headset configurator",
+    "Customizable, rotating 3D model of a sleek VR headset",
+    "Neon-lit option buttons (surrounding headset)",
+    "General neon lighting and glow"
+  ]
+}

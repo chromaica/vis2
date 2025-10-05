@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "Generate a bookstore receipt that lists books and prices from the first image and includes a bookstore logo from the second image.",
+  "cond_images": [
+    "1.png",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a bookstore receipt. At the top of the receipt, prominently feature the bookstore logo from image 2, ensuring its visual style and text ('BOOK STORE', 'TAGLINE GOES HERE') are accurately reproduced. Below the logo, list all five book entries from image 1 as distinct line items. For each line item, include the book's title, author, and its corresponding price(s), specifying both the original and discounted prices when available in image 1.",
+  "annotator": "paria",
+  "objects": [
+    "Bookstore receipt layout",
+    "Bookstore logo graphic at the top",
+    "\"BOOK STORE\" text",
+    "\"TAGLINE GOES HERE\" text",
+    "Line item: \"Butter\" by \"Asako Yuzuki\" with prices \"\u00a39.99 \u00a38.49\"",
+    "Line item: \"There are Rivers in the Sky\" by \"Elif Shafak\" with prices \"\u00a39.99 \u00a38.49\"",
+    "Line item: \"A Case of Mice and Murder\" by \"Sally Smith\" with prices \"\u00a38.99 \u00a37.49\"",
+    "Line item: \"Orbital\" by \"Samantha Harvey\" with price \"\u00a39.99\"",
+    "Line item: \"We Solve Murders\" by \"Richard Osman\" with prices \"\u00a39.99 \u00a37.99\""
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

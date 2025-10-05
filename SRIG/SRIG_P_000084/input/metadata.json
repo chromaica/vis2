@@ -1,0 +1,19 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Generate a garden scene with a rabbit, guided by the spatial layout in the reference depth map",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic image of a vibrant outdoor garden scene. A rabbit should be prominently featured within this scene, its pose and exact spatial position faithfully reproduced according to the depth map provided in image 1.",
+  "annotator": "samin",
+  "objects": [
+    "rabbit (with pose and exact spatial position as in depth map)",
+    "garden scene",
+    "plants",
+    "flowers",
+    "natural light"
+  ]
+}

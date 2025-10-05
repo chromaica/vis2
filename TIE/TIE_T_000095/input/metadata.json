@@ -1,0 +1,22 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Fill each letter of \u2018Disney+\u2019 as a trail of glowing pixie-dust that scatters upward",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Transform the white text of 'Disney+' so that each letter is filled with a vibrant, iridescent trail of glowing pixie-dust, appearing to scatter and flow upwards from within its boundaries.",
+  "annotator": "matina",
+  "objects": [
+    "dark blue and teal gradient background",
+    "glowing arc",
+    "\"Disney\" text",
+    "\"+\" symbol",
+    "vibrant, iridescent, glowing pixie-dust filling the \"Disney\" text",
+    "vibrant, iridescent, glowing pixie-dust filling the \"+\" symbol",
+    "pixie-dust scattering within the text boundaries",
+    "pixie-dust flowing upwards from within the text boundaries"
+  ]
+}

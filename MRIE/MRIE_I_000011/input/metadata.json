@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Edit the visual instruction diagram in image 1: texture the particle labeled 't_n' using the appearance of Earth from image 2, and texture the particle labeled 't_{n+1}' using the appearance of Mars from image 3, retaining the original diagram style.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the information graphic shown in image 1. Apply the detailed surface appearance of Earth from image 2 as a texture to the circular particle labeled 't_n', located in the top-right portion of the diagram. Concurrently, apply the distinct surface features of Mars from image 3 as a texture to the circular particle labeled 't_{n+1}', positioned in the bottom-left portion of the diagram. Ensure the original diagrammatic style, including all lines, text labels, and the background of image 1, is preserved throughout the edits.",
+  "annotator": "maxku",
+  "objects": [
+    "Black background",
+    "Gray shaded vertical rectangle on the left",
+    "Orange vertical line labeled \"x = 0\"",
+    "Circular particle textured with Earth's surface (top-right)",
+    "Circular particle textured with Mars' surface (bottom-left)",
+    "Text label \"t_n\"",
+    "Text label \"t_{n+1}\"",
+    "White diagonal line connecting the two particles",
+    "Two green dashed lines",
+    "Two green vector labels with arrows"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

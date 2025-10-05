@@ -1,0 +1,28 @@
+{
+  "subtopic": "CAD models",
+  "prompt": "Edit image 1's clean desk setup into a computer graphics design workspace. Add a notebook and pen to the desk, suggesting design sketches or notes inspired by Image 2. Place documents or reference materials on the desk as seen in Image 3. Modify the computer screens to display design or CAD software interfaces.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748454564086,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit Image 1 to transform the clean desk setup into a computer graphics design workspace. On the wooden desk surface, place an open notebook with a pen resting on or beside it, resembling the style and content of the writing seen in Image 2, positioned in front of the keyboard. Additionally, arrange scattered documents or reference materials, including sticky notes, similar to the papers shown in Image 3, on the desk, particularly to the left of the keyboard. Finally, modify both the large main monitor and the laptop screen in Image 1 to display detailed user interfaces of 3D design or CAD software, such as modeling views, toolbars, and property panels, instead of the current time display.",
+  "annotator": "winston",
+  "objects": [
+    "Large main monitor displaying 3D design/CAD software UI",
+    "Laptop screen displaying 3D design/CAD software UI",
+    "Wooden desk surface",
+    "Open notebook in front of the keyboard",
+    "Pen resting on or beside the open notebook",
+    "Notebook content resembling the writing style of Image 2",
+    "Scattered documents on the desk, to the left of the keyboard",
+    "Sticky notes on the desk, to the left of the keyboard",
+    "Keyboard"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "Change the second image to the style of the first image, and replace the title from Mission Impossible to Avengers Endgame. The title design should stick with the original design, but the rest of the design should follow the first image. Finally, replace the man riding the bike and the explosion to the scene from the third image.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the poster in Image 1.\n\n1.  **Title Transformation:** Replace the \"MISSION: IMPOSSIBLE ROGUE NATION\" title at the bottom-center of Image 1 with \"AVENGERS ENDGAME\". The new title's typography, color, and overall design must precisely replicate the \"AVENGERS ENDGAME\" title from Image 2.\n2.  **Scene Replacement:** Remove the man on the motorcycle and the adjacent explosion in the lower-middle section of Image 1. Replace this specific area with the large-scale battle scene, including portals and spaceships, from Image 3, ensuring seamless integration into the poster's composition.\n3.  **Overall Style Adaptation:** Transform the entire poster's visual aesthetic, including its color palette, lighting, and background elements, to match the vibrant and epic style of Image 2. Maintain the general compositional layout and character placement from Image 1.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Tom Cruise (main character at top)",
+    "Rebecca Ferguson",
+    "\"MISSION: IMPOSSIBLE ROGUE NATION\" title (should not be present)",
+    "man on the motorcycle (should not be present)",
+    "explosion (should not be present)",
+    "\"AVENGERS ENDGAME\" title at bottom-center",
+    "large-scale battle scene in lower-middle section",
+    "portals within the battle scene",
+    "spaceships within the battle scene",
+    "Giant-Man within the battle scene"
+  ]
+}

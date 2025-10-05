@@ -1,0 +1,29 @@
+{
+  "subtopic": "Traditional art",
+  "prompt": "In image 1, change the scene background (above grass) with the same sky of image 2.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "Traditional art examples",
+  "searchQueryGeneratedTimestamp": 1748651051798,
+  "promptGeneratedTimestamp": 1748651096754,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1: Transform the entire upper background region, located above the grass line, to reflect the visual appearance and atmospheric conditions of the sky present in image 2.",
+  "annotator": "kellycyy",
+  "objects": [
+    "grass foreground",
+    "path through grass",
+    "fallen leaves",
+    "sunset sky",
+    "orange sky hues",
+    "yellow sky hues",
+    "blue sky hues",
+    "bell tower silhouette",
+    "dome silhouette",
+    "distant island silhouettes"
+  ]
+}

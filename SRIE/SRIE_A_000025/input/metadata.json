@@ -1,0 +1,27 @@
+{
+  "subtopic": "Cultural or Heritage art",
+  "prompt": "Transform image 1's watercolor artwork of the Taj Mahal into the 3D, vibrant, geometric illustration style seen in image 2.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748490419636,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1's watercolor artwork of the Taj Mahal into a 3D, vibrant, geometric illustration. Adopt the specific style seen in image 2, including its sharp edges, blocky forms, and saturated color palette.",
+  "annotator": "kellycyy",
+  "objects": [
+    "Taj Mahal",
+    "3D rendering",
+    "Geometric illustration style",
+    "Sharp edges",
+    "Blocky forms",
+    "Vibrant and saturated color palette",
+    "Main dome of Taj Mahal",
+    "Four minarets",
+    "Reflecting pool/pathway",
+    "Base platform of Taj Mahal"
+  ]
+}

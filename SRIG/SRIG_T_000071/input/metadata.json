@@ -1,0 +1,29 @@
+{
+  "subtopic": "Memes",
+  "prompt": "Generate a four-panel meme template inspired by the reference. The left hand side should be the text description. Please make a meme related to how AI researchers publish papers with using ChatGPT.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://cdn-useast1.kapwing.com/static/templates/expanding-brain-meme-template-full-b2968af6.webp",
+  "searchQueryGenerated": "High quality meme text overlay examples",
+  "searchQueryGeneratedTimestamp": 1750497706392,
+  "promptGeneratedTimestamp": 1750497842171,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "T",
+  "prompt_refined": "Generate a four-panel meme template structured as a 2x2 grid, inspired by the \"expanding brain\" progression depicted in image 1. The right column of the template must display the four distinct \"expanding brain\" visuals from image 1, with each image placed in its corresponding panel (top-right, second-right, third-right, bottom-right) in ascending order of enlightenment. The entire left column, spanning all four panels (top-left, second-left, third-left, bottom-left), must be rendered as blank white areas or text boxes clearly designated for adding text. The overall meme should visually represent a progression related to AI researchers publishing academic papers with the increasing use of ChatGPT.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "2-column, 4-row grid structure",
+    "Blank white area in top-left panel",
+    "Blank white area in second-left panel",
+    "Blank white area in third-left panel",
+    "Blank white area in bottom-left panel",
+    "Expanding brain visual (top-right panel, smallest brain in blue skull)",
+    "Expanding brain visual (second-right panel, brain with purple glowing points)",
+    "Expanding brain visual (third-right panel, brain with strong white glow)",
+    "Expanding brain visual (bottom-right panel, highly enlightened brain with radiating lines)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

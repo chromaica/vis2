@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "A mystical digital forest with glowing translucent trees, inhabited by ethereal creatures and soft, ambient light.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A digital painting of a mystical forest. Tall, slender trees with translucent forms glow softly from within, their branches reaching upwards. Several ethereal, translucent creatures, appearing as luminous forms of light or mist, are gracefully dispersed among the trees. The entire scene is bathed in a soft, ambient light, creating a serene and otherworldly atmosphere.",
+  "annotator": "cwhsu",
+  "objects": [
+    "mystical forest",
+    "tall, slender trees",
+    "translucent trees glowing softly from within",
+    "upward-reaching tree branches",
+    "ethereal, translucent creatures",
+    "luminous creatures (forms of light or mist)",
+    "creatures gracefully dispersed among the trees",
+    "soft ambient light"
+  ]
+}

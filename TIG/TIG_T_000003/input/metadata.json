@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Graffiti (Text-based)",
+  "prompt": "A grungy brick expanse serves as the canvas for 'STREET ART', boldly sprayed in electric blue and vivid orange, with characteristic paint drips enhancing its urban vibe.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A grungy brick wall with the words 'STREET ART' boldly sprayed across its center. The graffiti lettering is rendered in electric blue and vivid orange, featuring characteristic paint drips running down the wall, conveying an urban street art aesthetic.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Grungy brick wall",
+    "The words \"STREET ART\"",
+    "Bold graffiti lettering for \"STREET ART\"",
+    "Electric blue color for the graffiti",
+    "Vivid orange color for the graffiti",
+    "Paint drips running down the wall from the graffiti",
+    "The words positioned across the center of the wall"
+  ],
+  "human_annotation": true
+}

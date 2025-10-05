@@ -1,0 +1,23 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "Add players based on the reference match scene to the source field, preserving their depth-aware positions and scales.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 by adding new football players onto the field. The arrangement, depth-aware positions, and scales of these added players must be derived from image 2, the provided depth map of multiple players. Ensure the newly added players are rendered in the style and context of a realistic football match, blending seamlessly with the existing scene in image 1.",
+  "annotator": "nimajamali",
+  "objects": [
+    "Existing football players",
+    "New football players",
+    "Football field",
+    "Stadium crowd",
+    "Advertising hoardings",
+    "Football",
+    "Goalpost"
+  ],
+  "human_annotation": true
+}

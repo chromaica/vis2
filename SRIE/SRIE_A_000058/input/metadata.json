@@ -1,0 +1,26 @@
+{
+  "subtopic": "Stylized art",
+  "prompt": "Edit image 1 by applying the vibrant, swirling, outlined abstract art style from image 2. Transform the fields and sky of image 1 into the dynamic, wavy patterns seen in image 2's background and water, retaining the original landscape structure.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "Stylized Art Style",
+  "searchQueryGeneratedTimestamp": 1748651567696,
+  "promptGeneratedTimestamp": 1748651617579,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1. Apply the vibrant, fluid, and distinctly outlined abstract art style from image 2 throughout the scene. Specifically, transform the sky, foreground fields, and the central path in image 1 into the dynamic, colorful, and wavy patterns seen in image 2's background and water. Retain the original landscape structure of image 1, ensuring the shapes and positions of the hills and trees are preserved, rendered in the same outlined abstract style but without the wavy patterns.",
+  "annotator": "kellycyy",
+  "objects": [
+    "Sky with vibrant, fluid, outlined abstract wavy patterns",
+    "Foreground fields with vibrant, fluid, outlined abstract wavy patterns",
+    "Central path with vibrant, fluid, outlined abstract wavy patterns",
+    "Hills in outlined abstract style",
+    "Trees on hills in outlined abstract style",
+    "Individual foreground trees in outlined abstract style"
+  ],
+  "human_annotation": true
+}

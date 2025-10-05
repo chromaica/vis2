@@ -1,0 +1,19 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "3D renders",
+  "prompt": "A 3D render of a spiderman flying in the air, legs spread, with buildings on the left and right, and a cityscape in the background.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A high-quality 3D render of Spider-Man soaring dynamically through the air, his legs spread wide. He is flanked by tall buildings on both the left and right sides, with a sprawling cityscape visible in the distant background.",
+  "annotator": "maxku",
+  "objects": [
+    "Spider-Man",
+    "Spider-Man in a dynamic soaring pose",
+    "Spider-Man with legs spread wide",
+    "tall buildings on the left side",
+    "tall buildings on the right side",
+    "sprawling cityscape in the distant background",
+    "air/sky"
+  ]
+}

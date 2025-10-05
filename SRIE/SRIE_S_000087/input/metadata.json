@@ -1,0 +1,25 @@
+{
+  "subtopic": "Games",
+  "prompt": "Edit image 1: Replace the creature being attacked with the prominent large demon creature visible in the foreground of image 2, maintaining the isometric perspective and dark environment.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751013635928,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit image 1: Replace the glowing blue, kneeling creature in the bottom-right foreground with the large, skeletal demon with shoulder rockets from the foreground of image 2. Ensure the inserted demon maintains the isometric perspective and integrates seamlessly into the dark, ruins-filled environment of image 1, appearing as if it is being attacked by the blue energy beam.",
+  "annotator": "ishengfang",
+  "objects": [
+    "large, skeletal demon with shoulder rockets in the bottom-right foreground",
+    "blue energy beam attacking the skeletal demon",
+    "character firing the blue energy beam",
+    "dark, ruins-filled environment",
+    "ruined stone structures",
+    "water pools",
+    "isometric perspective",
+    "glowing blue, kneeling creature (should not be present)"
+  ]
+}

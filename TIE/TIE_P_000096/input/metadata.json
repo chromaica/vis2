@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "convert the scene to looks like its taken during summer",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Transform the entire scene to appear as if it were captured during the summer season. Replace all pink cherry blossoms on the trees with lush, dense green foliage. Ensure the large bare tree on the right also has full green leaves. Change the currently overcast sky to a bright summer sky, such as a clear blue sky or a brilliantly sunlit hazy sky, reflecting the warmth of the season. Adjust the overall lighting, shadows, and color palette to convey a vibrant, sunlit summer atmosphere, including the detailed reflections in the large puddle on the ground. Additionally, remove any fallen pink petals from the ground around the puddle.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Trees with lush green foliage",
+    "Bright summer sky",
+    "Large puddle on the ground",
+    "Detailed reflections in the large puddle",
+    "Ground around the puddle",
+    "Fallen pink petals (should not be present)",
+    "Vibrant, sunlit summer lighting and shadows",
+    "Warm summer color palette"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

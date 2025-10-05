@@ -1,0 +1,25 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Fill each neon tube letter of \u2018TikTok\u2019 with tiny tiktok logo in red.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the solid white fill of the 'TikTok' text with a dense, repeating pattern of tiny, red TikTok music note icons. Maintain the existing neon-like outlines and chromatic aberration effect that define each letter.",
+  "annotator": "matina",
+  "objects": [
+    "Black background",
+    "TikTok logo's initial music note icon (the 'J' shape)",
+    "Solid white fill within the initial TikTok music note icon",
+    "Letters \"TikTok\" (T, i, k, T, o, k)",
+    "Dense, repeating pattern inside the \"TikTok\" text",
+    "Tiny TikTok music note icons (forming the pattern)",
+    "Red color for the tiny TikTok music note icons",
+    "Neon-like outlines on the entire TikTok logo (icon and text)",
+    "Chromatic aberration effect on the entire TikTok logo (icon and text)",
+    "Solid white fill of the 'TikTok' text (should not be present)"
+  ],
+  "human_annotation": true
+}

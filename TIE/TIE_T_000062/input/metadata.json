@@ -1,0 +1,20 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Flip the logo to a mirror-image and fill it with animated soundwave bars.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Horizontally flip the green Spotify logo on the left side of the image to create a mirror image. Within this flipped logo, replace the existing curved lines with dynamic soundwave bars, resembling an active audio equalizer display.",
+  "annotator": "matina",
+  "objects": [
+    "Black background",
+    "White text \"DCFC Podcast, Now available on Spotify\"",
+    "Green Spotify logo on the left (horizontally flipped)",
+    "Dynamic soundwave bars (resembling an active audio equalizer display, within the flipped green Spotify logo)",
+    "White text \"Listen On Spotify\"",
+    "Curved lines within the Spotify logo (should not be present)"
+  ]
+}

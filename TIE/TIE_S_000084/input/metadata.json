@@ -1,0 +1,21 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Replace the plotted line graph with a 3D surface plot of a mathematical function.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. In the 'Figure 1' window, located in the top-right portion of the screenshot, replace the plotted 2D line graph with a 3D surface plot of a mathematical function.",
+  "annotator": "cwhsu",
+  "objects": [
+    "MATLAB application interface",
+    "File browser pane on the left",
+    "Code editor pane in the center",
+    "MATLAB ribbon and menus at the top",
+    "\"Figure 1\" window (its frame, title, menus, and toolbar)",
+    "3D surface plot (within the \"Figure 1\" window)",
+    "Plotted 2D line graph (should not be present)"
+  ]
+}

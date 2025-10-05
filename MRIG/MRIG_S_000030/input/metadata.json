@@ -1,0 +1,19 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "Design a music shop receipt using music symbols from the first image and a waveform pattern as a decorative border from the second.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a digital image of a music shop receipt. The receipt should integrate various music notation symbols from image 1 as decorative design elements throughout its content. Additionally, apply the distinct waveform pattern from image 2 as a continuous decorative border along the top and bottom edges of the receipt.",
+  "annotator": "paria",
+  "objects": [
+    "a music shop receipt",
+    "various music notation symbols from image 1, integrated as decorative design elements within the receipt content",
+    "the waveform pattern from image 2, applied as a continuous decorative border along the top edge of the receipt",
+    "the waveform pattern from image 2, applied as a continuous decorative border along the bottom edge of the receipt"
+  ]
+}

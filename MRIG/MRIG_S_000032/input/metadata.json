@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "Generate a football simulation game using the team uniforms and player lineups from the first image, and the stadium background from the second image.",
+  "cond_images": [
+    "1.png",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a realistic screenshot of a football simulation game. The scene should feature two opposing teams on the field: one team in white uniforms and the other in red uniforms, reflecting the color scheme from image 1. The players should be arranged in a typical football match formation, inspired by the tactical layout and player count shown in image 1. The background should be a modern, brightly lit football stadium at night, capturing the atmosphere and architecture depicted in image 2, including the illuminated pitch and filled spectator stands.",
+  "annotator": "paria",
+  "objects": [
+    "football pitch",
+    "players in white uniforms",
+    "players in red uniforms",
+    "modern football stadium architecture",
+    "bright stadium floodlights",
+    "filled spectator stands",
+    "night sky",
+    "football goalposts",
+    "a football"
+  ],
+  "human_annotation": true
+}

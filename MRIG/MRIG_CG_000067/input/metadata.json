@@ -1,0 +1,26 @@
+{
+  "subtopic": "Facial estimation and analysis",
+  "prompt": "Generate a computer graphics visualization for facial estimation: use the profile face and dramatic backlighting from image 2, textured with a pattern inspired by the water surface in image 1.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748423438295,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a computer graphics visualization for facial estimation, featuring a human face in clear profile. The face should be illuminated by the intense, warm backlighting and strong silhouette observed in image 2. The entire surface of the face should display an undulating pattern that mimics the subtle ripples and reflections of the water surface shown in image 1.",
+  "annotator": "winston",
+  "objects": [
+    "human face",
+    "face in clear profile",
+    "intense backlighting",
+    "warm backlighting",
+    "strong silhouette",
+    "undulating pattern on face",
+    "ripples (mimicked on face)",
+    "reflections (mimicked on face)"
+  ],
+  "human_annotation": true
+}

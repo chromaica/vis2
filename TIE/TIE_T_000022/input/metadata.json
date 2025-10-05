@@ -1,0 +1,21 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "Stylize each letter so they interlock like puzzle pieces.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Modify the styling of each large letter in the word 'CREATIVE' so that they interlock seamlessly with their adjacent letters, resembling the connection of puzzle pieces.",
+  "annotator": "matina",
+  "objects": [
+    "Interlocking letters forming the word 'CREATIVE'",
+    "Puzzle piece-like connections between the letters",
+    "Layered paper cut-out style within the letters",
+    "Pastel color palette within the letters",
+    "Handwritten text \"it's easy to be\"",
+    "Light textured background"
+  ],
+  "human_annotation": true
+}

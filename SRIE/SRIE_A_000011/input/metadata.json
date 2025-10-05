@@ -1,0 +1,29 @@
+{
+  "subtopic": "Cultural or Heritage art",
+  "prompt": "Put the flower in image 2 on the head of the mother (who is holding a baby) in image 1. I want the exact same flower in the same style as image 2.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "Cultural heritage artwork",
+  "searchQueryGeneratedTimestamp": 1748487802246,
+  "promptGeneratedTimestamp": 1748488091235,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1. Place the red rose from image 2 onto the head of the mother in image 1. The rose must retain its exact shape, vibrant red color, and the distinct flat, graphic artistic style as seen in image 2, appearing as an overlay rather than blending into the Madhubani style of image 1.",
+  "annotator": "kellycyy",
+  "objects": [
+    "Mother figure (in Madhubani style)",
+    "Child figure (in Madhubani style)",
+    "Tree (in Madhubani style)",
+    "Madhubani style background patterns",
+    "Red rose placed on the mother's head",
+    "Red rose with exact shape as seen in image 2",
+    "Red rose with vibrant red color as seen in image 2",
+    "Red rose with distinct flat, graphic artistic style as seen in image 2",
+    "Red rose appearing as an overlay"
+  ],
+  "human_annotation": true
+}

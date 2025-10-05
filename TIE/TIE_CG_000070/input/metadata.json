@@ -1,0 +1,25 @@
+{
+  "subtopic": "CAD models",
+  "prompt": "Apply a polished chrome finish to the main metal components of the CAD model to enhance their reflective properties.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751799024379,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1. Apply a polished chrome finish to the main metal components of the CAD model, including the suspension arms, shock absorbers, differential casing, and drive shafts, to enhance their reflective properties.",
+  "annotator": "edisy",
+  "objects": [
+    "CAD model of a vehicle rear assembly",
+    "left tire",
+    "right tire",
+    "left wheel",
+    "right wheel",
+    "suspension arms with polished chrome finish",
+    "shock absorbers with polished chrome finish",
+    "differential casing with polished chrome finish",
+    "drive shafts with polished chrome finish"
+  ]
+}

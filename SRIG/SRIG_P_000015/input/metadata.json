@@ -1,0 +1,21 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "A scene featuring a blossom tree, where the blossoms match those in the reference image.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic scene featuring a tree in full bloom. The blossoms on the tree should be white, four-petaled flowers with prominent yellow stamens, precisely reflecting the characteristics of the flowers depicted in image 1.",
+  "annotator": "samin",
+  "objects": [
+    "A tree",
+    "Numerous white blossoms on the tree",
+    "Four-petaled flowers",
+    "Prominent yellow stamens",
+    "Green foliage"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

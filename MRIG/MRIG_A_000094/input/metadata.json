@@ -1,0 +1,23 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Stylized art",
+  "prompt": "Generate a stylized doodle artwork. Use the simple child figures from image 1 but render them in the expressive, detailed doodle style and dense arrangement seen in image 2. Black and white line art.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a black and white line art image in a stylized doodle artwork. The composition should feature the simple stick figures from image 1, re-imagined with the expressive facial details and varied, organic shapes found in the doodle art style of image 2. Arrange the figures in a dense, interwoven composition that fills the entire frame, mirroring the full-canvas arrangement seen in image 2.",
+  "annotator": "samin",
+  "objects": [
+    "black and white line art",
+    "stylized doodle artwork",
+    "re-imagined stick figures",
+    "expressive facial details",
+    "varied organic shapes",
+    "dense composition",
+    "interwoven arrangement",
+    "full-frame coverage"
+  ]
+}

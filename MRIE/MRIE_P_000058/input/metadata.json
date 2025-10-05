@@ -1,0 +1,27 @@
+{
+  "subtopic": "Urban & Street Photography",
+  "prompt": "Edit image 1 by adding a small, personal item like a worn plush toy hanging from a ledge or pipe, inspired by the unexpected placement in image 2. Additionally, add handwritten signs or notes to a visible window or wall surface within the alley, replicating the style of text and placement from image 3.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748657838041,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "P",
+  "prompt_refined": "Edit the provided source image (image 1). Incorporate a small, worn plush toy, resembling the one in image 2, hanging from the metal structure of the pedestrian bridge spanning the alley. Position it clearly visible on the bridge's left side, mimicking the elevated and somewhat precarious placement seen in image 2. Additionally, add multiple handwritten signs to the window panes on the lower levels of both buildings flanking the alley. Specifically, place signs on the windows of the left-hand building below the 'LOCUST CIDER & BREWING CO' sign, and on the visible windows of the right-hand building. These signs should fully cover the window panes, featuring dense, dark handwritten text on a lighter background, replicating the precise style, density, and 'covered window' placement observed in image 3. Ensure all additions are seamlessly integrated to maintain the photorealistic quality of image 1.",
+  "annotator": "boris",
+  "objects": [
+    "Alley",
+    "Buildings flanking the alley",
+    "Pedestrian bridge",
+    "'LOCUST CIDER & BREWING CO' sign",
+    "'POST ALLEY' sign",
+    "'LA PERGOLA SEATTLE' sign",
+    "Small, worn plush toy hanging from the left side of the pedestrian bridge's metal structure",
+    "Handwritten signs fully covering lower windows of the left-hand building",
+    "Handwritten signs fully covering visible lower windows of the right-hand building"
+  ]
+}

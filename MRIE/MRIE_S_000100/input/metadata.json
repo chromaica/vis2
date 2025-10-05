@@ -1,0 +1,25 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Forms and Authentication",
+  "prompt": "In image 1, replace the password dots with the white asterisk style from image 2. Also, below the 'CONTINUE' button, insert the 'Sign in with Facebook' button from image 3 scaled proportionally to match surrounding UI elements. Keep the keyboard and rest of the layout intact.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the password dots displayed below 'My password is' with the white asterisk style provided in image 2. Additionally, insert the blue 'Sign in with Facebook' button (from the middle of image 3) directly below the 'CONTINUE' button. Ensure this new button is scaled proportionally to seamlessly match the existing UI elements. The keyboard and the overall layout of image 1 must remain intact.",
+  "annotator": "parnian",
+  "objects": [
+    "'My password is' text",
+    "Password input field",
+    "White asterisk password display",
+    "\"Your password is valid.\" text",
+    "\"CONTINUE\" button",
+    "Blue \"Sign in with Facebook\" button (below the CONTINUE button)",
+    "On-screen keyboard",
+    "White UI background with top bar and back arrow"
+  ],
+  "human_annotation": true
+}

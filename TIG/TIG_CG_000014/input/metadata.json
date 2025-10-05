@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "VFX and Particles",
+  "prompt": "Thundering particle effect sprite loop, pixelated, dark theme for horror atmosphere.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a pixelated sprite image depicting a voluminous, thundering particle effect, centrally positioned. The effect should appear as a dense, forceful burst of dark energy or smoke. Utilize a predominantly dark and ominous color palette against a simple, dark background. The overall visual outcome should evoke a stark and unsettling horror atmosphere, suitable for a game asset sprite.",
+  "annotator": "maxku",
+  "objects": [
+    "pixelated particle effect sprite",
+    "centrally positioned particle effect",
+    "voluminous particle effect",
+    "dense burst",
+    "forceful burst",
+    "dark energy (as part of the effect)",
+    "dark smoke (as part of the effect)",
+    "predominantly dark color palette",
+    "ominous color palette",
+    "simple dark background"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "Create a minimalist weather app icon using only three overlapping circles representing sun, cloud, and rain in pastel yellow, gray, and blue",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a minimalist weather app icon. The design must exclusively feature three overlapping circles. A pastel yellow circle should represent the sun, a pastel gray circle should represent a cloud, and a pastel blue circle should represent rain. The circles must overlap clearly to form a unified and simple icon.",
+  "annotator": "theblackcat",
+  "objects": [
+    "pastel yellow circle representing the sun",
+    "pastel gray circle representing a cloud",
+    "pastel blue circle representing rain",
+    "overlapping arrangement of the three circles"
+  ]
+}

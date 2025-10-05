@@ -1,0 +1,15 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "A semantic map of the Eiffel Tower, front view.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A semantic segmentation map depicting the Eiffel Tower from a head-on, front view, with distinct, uniformly colored regions for the tower structure, the sky, and the surrounding ground.",
+  "annotator": "maxku",
+  "objects": [
+    "Eiffel Tower",
+    "Sky",
+    "Ground"
+  ]
+}

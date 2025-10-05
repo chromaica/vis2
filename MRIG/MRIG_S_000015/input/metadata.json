@@ -1,0 +1,28 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Generate a photo editing software UI incorporating the tool icons from the first image, the layout from the second image, and the color palette from the third image.",
+  "cond_images": [
+    "1.jpg",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a user interface (UI) for a desktop photo editing software. The UI should adopt the overall layout structure presented in image 2, including its top menu bar, the secondary toolbar with tab-like sections, a large central 'Before & After' split view for image display, a right-hand adjustment sidebar, and a bottom control bar. Incorporate the minimalist white line-art tool icons from image 1 (such as Filters, Exposure, Contrast, and Crop) into the right-hand adjustment sidebar and relevant tool sections. Apply the soft, pastel pink and white color palette observed in image 3 to all UI elements, ensuring a clean, modern, and inviting aesthetic throughout the interface.",
+  "annotator": "paria",
+  "objects": [
+    "Desktop photo editing software window",
+    "Top menu bar",
+    "Secondary toolbar with tab-like sections",
+    "Large central 'Before & After' split view",
+    "Right-hand adjustment sidebar",
+    "Bottom control bar",
+    "Minimalist white line-art tool icons (e.g., Filters, Exposure, Contrast, Crop)",
+    "Image displayed within the 'Before & After' view",
+    "Soft, pastel pink and white color palette applied to UI elements",
+    "UI elements arranged with the layout structure of Image 2"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

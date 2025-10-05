@@ -1,0 +1,28 @@
+{
+  "subtopic": "Non-Photorealistic Rendering (NPR)",
+  "prompt": "Edit image 1: Color the vintage car using the green shade and illustration style from image 2, and replace its wheels with the detailed wheel design from image 3.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748456293552,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1, the outline drawing of the vintage car: Color the entire car body using the specific green shade and flat illustration style from image 2. Additionally, replace all existing wheels with the detailed wheel design found in image 3.",
+  "annotator": "winston",
+  "objects": [
+    "Vintage car (overall shape from image 1)",
+    "Green colored car body (using shade from image 2)",
+    "Flat illustration style applied to car body (from image 2)",
+    "Detailed wheels (design from image 3)",
+    "Existing wheels (should not be present)",
+    "Car windows",
+    "Car headlights",
+    "Car bumper",
+    "Car door handle(s)",
+    "Car roof"
+  ]
+}

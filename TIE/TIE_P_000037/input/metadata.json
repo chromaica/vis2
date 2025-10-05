@@ -1,0 +1,20 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "Convert the image found into a 3D modeling like illustration found in textbook",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, which depicts a microscopic view of blood cells, to transform it into a detailed 3D modeling illustration. The final image should resemble a clean, rendered scientific diagram, similar to illustrations found in a biology or medical textbook, emphasizing the three-dimensional forms of the cells.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Three-dimensional red blood cells",
+    "Three-dimensional white blood cells (neutrophils)",
+    "Clean, rendered scientific diagram style",
+    "Uniform, light background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

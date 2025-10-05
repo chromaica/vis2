@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Traditional art",
+  "prompt": "Create a traditional still life oil painting of the fruit arrangement from image 1, using the dramatic chiaroscuro lighting and textured background from image 2.",
+  "cond_images": [
+    "1.jpeg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a traditional oil painting still life of the fruit arrangement from image 1, featuring oranges and red apples in a wooden bowl, centrally composed. Apply the dramatic chiaroscuro lighting and dark, mottled, textured background from image 2, ensuring the strong light source originates from the upper-left as depicted in image 2.",
+  "annotator": "samin",
+  "objects": [
+    "Traditional oil painting",
+    "Still life",
+    "Oranges",
+    "Red apples",
+    "Wooden bowl",
+    "Centrally composed fruit arrangement",
+    "Dramatic chiaroscuro lighting",
+    "Dark background",
+    "Mottled textured background",
+    "Strong light source from upper-left"
+  ]
+}

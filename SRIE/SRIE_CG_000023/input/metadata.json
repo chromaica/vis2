@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Object detection visuals",
+  "prompt": "Blur all outside of the object boundaries.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit Image 1 to apply a strong background blur, creating a shallow depth-of-field effect. Keep the foreground objects, specifically the rider and the horse, in sharp focus. Use Image 2 as a precise reference to identify the boundaries of the rider and the horse; all areas outside these specified objects should be blurred.",
+  "annotator": "nimajamali",
+  "objects": [
+    "Rider",
+    "Horse",
+    "Water",
+    "Reflection of rider and horse",
+    "Patches of grass",
+    "Distant trees",
+    "Sky",
+    "Shallow depth-of-field effect"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

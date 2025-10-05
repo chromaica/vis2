@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "Digital illustration in the style of image 3, depicting a serene landscape. Place a large cherry blossom tree (type from image 2) near the water (like image 1), set within the mountainous terrain and structural elements from image 3.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a digital illustration depicting a serene landscape in the stylized manner of image 3. The scene should incorporate the characteristic mountainous terrain and distinctive structural elements, such as the long bridge and stylized pine trees, as seen in image 3. Prominently feature a large, mature cherry blossom tree, capturing the abundant, full bloom and robust form evident in image 2. Position this tree on a grassy bank immediately beside the tranquil water body that flows through the landscape, mirroring the solitary placement and clear water reflections of the tree in image 1. The overall image should maintain the distinctive clean lines and peaceful atmosphere of image 3.",
+  "annotator": "samin",
+  "objects": [
+    "mountainous terrain",
+    "long bridge",
+    "stylized pine trees",
+    "large, mature cherry blossom tree with abundant, full bloom and robust form",
+    "grassy bank immediately beside a tranquil water body",
+    "tranquil water body",
+    "clear water reflections of the cherry blossom tree"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

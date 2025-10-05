@@ -1,0 +1,23 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "Insert radial sun-burst rays behind the logo.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 to add radial sun-burst rays. The rays should emanate from the center of the pink and purple gradient circle, appearing behind the entire graphic and text presented in image 1.",
+  "annotator": "matina",
+  "objects": [
+    "Dancer silhouette",
+    "Light blue/teal flowing skirt",
+    "Pink and purple gradient circle",
+    "\"SDSM\" text",
+    "\"Coastal Competition Team\" text",
+    "Radial sun-burst rays (behind the entire graphic and text)",
+    "Light grey/white background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

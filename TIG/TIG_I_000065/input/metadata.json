@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Visual instructions and manuals",
+  "prompt": "A fold-out airline safety-card illustration for an interplanetary shuttle, using bright flat infographics to show zero-gravity brace positions and escape pods",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a multi-panel, fold-out airline safety card illustration for an interplanetary shuttle. The visual style should be bright, flat infographics, presenting diagrams of zero-gravity brace positions and representations of escape pods.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Multi-panel, fold-out safety card layout",
+    "Interplanetary shuttle visual elements",
+    "Diagrams of zero-gravity brace positions",
+    "Human figures depicted in brace positions",
+    "Representations of escape pods",
+    "Infographic-style symbols",
+    "Brightly colored graphic elements",
+    "Diagrammatic representation of zero-gravity environment",
+    "Numbered steps or sequence indicators"
+  ]
+}

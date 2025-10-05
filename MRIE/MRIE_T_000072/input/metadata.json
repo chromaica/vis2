@@ -1,0 +1,30 @@
+{
+  "subtopic": "Branding and visual identity",
+  "prompt": "Edit image 1, maintaining its grid structure but increasing element density within cells based on image 2 and 3's collage style. Frame each brand entry with the clean, bordered look of image 4, and apply the bold typography styles from image 5 to the text elements.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg",
+    "4.jpeg",
+    "5.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749712294805,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "T",
+  "prompt_refined": "Edit image 1, maintaining its 5x5 grid structure. For each of the 25 cells, generate a dense collage of multiple brand logos and graphic elements, filling the space with numerous overlapping and tightly packed visuals, consistent with the high-density style of image 2 and image 3. Enclose each of these newly collaged cells within a clean, rectangular frame featuring a solid background and a thin, distinct border with slightly rounded corners, similar to the elements in image 4. Finally, apply a variety of bold and distinctive typography styles, inspired by the diverse fonts shown in image 5, to all text elements present in image 1, including the main title, brand names, and associated financial data.",
+  "annotator": "winston",
+  "objects": [
+    "5x5 grid structure",
+    "25 cells",
+    "Dense collages of brand logos and graphic elements within each cell",
+    "Overlapping and tightly packed visuals within each cell",
+    "Rectangular frames enclosing each cell",
+    "Solid background within each cell's frame",
+    "Thin borders with slightly rounded corners around each cell's frame",
+    "Main title text (e.g., \"The World's 25 Most Valuable Brands 2025\")",
+    "Brand name text (e.g., \"Apple\", \"Microsoft\")",
+    "Financial data text (e.g., \"$304.3 Bn\", \"+17%\")"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "subtopic": "Icons and symbols",
+  "prompt": "Generate a 3D rendered abstract icon representing a user inputs prompts for generating AI videos, with matching the clean symbolic style and data flow concept from the reference image.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://image.deeptechchina.com/article/2024122118560294203.jpg?imageView2/2/w/504/h/280",
+  "searchQueryGenerated": "Modern professional diagrams charts graphs examples",
+  "searchQueryGeneratedTimestamp": 1749926385315,
+  "promptGeneratedTimestamp": 1749926489175,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate a 3D rendered abstract icon depicting the process of user inputting prompts for AI video generation. The visual should meticulously match the clean, symbolic style and data flow concept observed in image 1. Specifically, on the left, feature a glowing lime green abstract neural network structure. On the right, include a dark computer monitor displaying two chat bubble icons, one purple and one green. A vibrant, glowing lime green data pipeline, complete with small white data particles and a forward arrow, should visually connect the base of the monitor to the neural network, symbolizing data flowing from the input (monitor) to the AI model (neural network). Ensure the scene has a minimalist aesthetic with a dark, clean background and soft ambient lighting, consistent with image 1.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "glowing lime green abstract neural network structure (on the left)",
+    "dark computer monitor (on the right)",
+    "purple chat bubble icon (on the monitor)",
+    "green chat bubble icon (on the monitor)",
+    "vibrant, glowing lime green data pipeline",
+    "small white data particles (on the data pipeline)",
+    "forward arrow (on the data pipeline)",
+    "dark, clean background",
+    "soft ambient lighting"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,28 @@
+{
+  "subtopic": "UI mockups",
+  "prompt": "Use the same UI style from the image provided to generate a typhoon path tracking page.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://cdn.dribbble.com/userupload/11147466/file/original-29f898460597d282baa19a33be0c0a51.png?resize=752x&vertical=center",
+  "promptGeneratedTimestamp": 1749887208655,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate a mobile application screen for a typhoon path tracking page. The design must emulate the UI style of image 1, featuring its soft blue gradient background, rounded card elements with subtle translucency and gentle shadows, and distinct skeuomorphic 3D icons. The page should include: a top header (like image 1's location bar) for the typhoon's name; a large central map (like image 1's main weather card) displaying the typhoon's current and projected path; and a scrollable section below (like image 1's hourly/daily forecast cards) detailing forecasted path points with time, location, and intensity. All visual elements should maintain the aesthetic consistency of image 1.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Mobile application screen container",
+    "Soft blue gradient background",
+    "Top header bar for typhoon name",
+    "Typhoon name text",
+    "Large central map card",
+    "Typhoon's current and projected path on the map",
+    "Scrollable section with forecasted path point cards",
+    "Individual forecasted path point cards",
+    "Textual details (time, location, intensity) on forecast cards",
+    "Skeuomorphic 3D typhoon icons"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

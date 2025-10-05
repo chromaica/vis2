@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "Create an abstract typographic composition for 'Sync'. The text should be formed by vibrant, overlapping layered geometric shapes, slightly offset, evoking a modern digital aesthetic. The background features subtle glitch patterns and light trails.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate an abstract typographic composition for the word 'Sync'. The text is formed by vibrant, overlapping, layered geometric shapes that are slightly offset, evoking a modern digital aesthetic. The background features subtle glitch patterns and light trails.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Typographic composition of the word 'Sync'",
+    "Geometric shapes",
+    "Overlapping elements",
+    "Layered elements",
+    "Slightly offset elements",
+    "Vibrant color scheme",
+    "Background",
+    "Glitch patterns",
+    "Light trails"
+  ],
+  "human_annotation": true
+}

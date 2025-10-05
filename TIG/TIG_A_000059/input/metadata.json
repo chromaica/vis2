@@ -1,0 +1,19 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "A whimsical collage of cute cartoon animals with oversized eyes, set against a pastel pink background, forming a playful and cheerful scene.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A vibrant digital illustration of a whimsical collage, showcasing an assortment of cute cartoon animals. Each animal possesses distinctly oversized, expressive eyes. The composition features these charming creatures playfully arranged, some overlapping or peeking from different parts of the frame, all set against a soft, solid pastel pink background. The overall scene exudes a cheerful and lighthearted atmosphere.",
+  "annotator": "cwhsu",
+  "objects": [
+    "cute cartoon animals",
+    "animals with oversized, expressive eyes",
+    "animals playfully arranged",
+    "overlapping animals",
+    "animals peeking from different parts of the frame",
+    "soft, solid pastel pink background"
+  ],
+  "human_annotation": true
+}

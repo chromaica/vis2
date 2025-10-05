@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "A powerful poster design featuring 'RISE UP' in a bold, condensed gothic font that has a cracked, distressed concrete texture. The text should appear as if carved or embedded into this surface, with subtle shadows emphasizing its depth. The background is a gritty, urban wall with peeling paint and faint spray-painted tags, evoking resilience. The composition should be squarely focused on the impactful typography.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a powerful poster design. Centrally featured is the text 'RISE UP', rendered in a bold, condensed gothic font. This typography has a cracked, distressed concrete texture and appears deeply carved or embedded into that very surface, with subtle shadows emphasizing its three-dimensional depth. The background is a gritty urban wall, detailed with peeling paint and faint spray-painted tags, conveying a strong sense of resilience. The composition tightly focuses on the impactful typography.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Text 'RISE UP' (centrally featured)",
+    "Bold, condensed gothic font",
+    "Cracked, distressed concrete texture on the text",
+    "Deeply carved or embedded 3D appearance of the text",
+    "Subtle shadows emphasizing text depth",
+    "Gritty urban wall background",
+    "Peeling paint on the wall",
+    "Faint spray-painted tags on the wall"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

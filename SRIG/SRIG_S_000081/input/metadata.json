@@ -1,0 +1,24 @@
+{
+  "subtopic": "Games",
+  "prompt": "Generate a pop-art version of this game screenshot, using bold outlines, vibrant primary colors, and Ben-Day dots, in the style of Roy Lichtenstein.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/street-fighter-6/5/53/Street_Fighter_6_General_Tips.jpg",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate an image in the distinct pop-art style of Roy Lichtenstein, based on image 1. The output should feature bold outlines, vibrant primary colors, and prominent Ben-Day dots applied uniformly across all visual elements, including the characters (Luke and Ryu), the background grid, and the game's user interface (health bars, player names, move lists, and score display).",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Luke (character)",
+    "Ryu (character)",
+    "Background grid",
+    "Health bars",
+    "Player names (e.g., Luke, Ryu, Player 1, Player 2)",
+    "Move list",
+    "Score numbers (e.g., 3 and 0 at the bottom)",
+    "Round number (the large 2 in the center top)",
+    "Damage/Combo statistics display",
+    "Bottom game control options (e.g., Reset Battle, Watch Example, Command List)"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "subtopic": "Games",
+  "prompt": "Edit image 1: Transform the character's outfit and armor to adopt the distinct blue color and material texture seen on the Starfleet uniform worn by the character in image 2, blending game worlds.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "Beautiful game screenshots",
+  "searchQueryGeneratedTimestamp": 1751005905713,
+  "promptGeneratedTimestamp": 1751005932684,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit image 1: Transform the outfit and armor of the character standing on the wooden platform in image 1 to match the distinct blue color and specific material texture of the Starfleet uniform worn by the character in image 2.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Character from Image 1 with blue Starfleet-style outfit and armor",
+    "Wooden platform",
+    "Sword carried by the character",
+    "Snowy mountains",
+    "Green valleys and landscapes",
+    "Waterfalls",
+    "Distant wooden and metal structures/bridges",
+    "Cloudy sky",
+    "Floating dark cube in the sky"
+  ]
+}

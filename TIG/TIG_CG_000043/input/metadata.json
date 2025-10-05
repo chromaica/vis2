@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "CAD models",
+  "prompt": "A CAD model of a bike, showing the frame, wheels, handlebars, and seat.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A precise, fully rendered 3D CAD model of a bicycle, clearly showcasing its complete frame, both wheels, handlebars, and seat. The image should have a clean, engineering aesthetic with sharp details, presented in a studio setting.",
+  "annotator": "maxku",
+  "objects": [
+    "3D CAD model of a bicycle",
+    "complete bicycle frame",
+    "bicycle front wheel",
+    "bicycle rear wheel",
+    "bicycle handlebars",
+    "bicycle seat",
+    "studio setting"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "An intricate depiction of the Milky Way galaxy\u2019s spiral arms, set against a sparkling night sky.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic image of the Milky Way galaxy's intricate spiral arms, vividly illuminated against a deep cosmic night sky. The glowing arms should be clearly defined, detailed with dense star clusters, vibrant nebulae, and dark, swirling dust lanes. The background sky is profusely sparkling with countless individual stars and faint, distant galaxies.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Milky Way galaxy spiral arms",
+    "Deep cosmic night sky",
+    "Dense star clusters",
+    "Vibrant nebulae",
+    "Dark, swirling dust lanes",
+    "Countless individual stars",
+    "Faint, distant galaxies"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,24 @@
+{
+  "task": "SRIG",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "Create a typography design for a modern jazz festival poster inspired by the Art TypographyDeco era, incorporating geometric shapes, clean lines, and elegant symmetry as showcased in the reference image.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "https://www.lillicoco.com/pages/the-art-deco-era",
+  "prompt_refined": "Create a typography design for a modern jazz festival poster in a distinct Art Deco graphic style, drawing specific inspiration from image 1. The poster should feature bold, all-caps, geometric sans-serif typography for the main title, placed prominently at the top. A central, highly stylized graphic element, characterized by clean lines, elegant symmetry, and patterns similar to the radiating and shell-like motifs in image 1, should be integrated. The design must adhere to a limited color palette of black, a muted red (like the coral/terra cotta in image 1), and an off-white background. Include supporting text for dates and artists at the bottom, maintaining the overall symmetrical layout and the strong decorative border seen in image 1.",
+  "annotator": "Johnny",
+  "objects": [
+    "Art Deco poster design",
+    "Bold, all-caps, geometric sans-serif typography (main title at top)",
+    "Central, highly stylized graphic element",
+    "Radiating motifs (within central element)",
+    "Shell-like motifs (within central element)",
+    "Decorative border (similar to image 1)",
+    "Supporting text (dates and artists at bottom)",
+    "Off-white background",
+    "Black color elements",
+    "Muted red color elements"
+  ]
+}

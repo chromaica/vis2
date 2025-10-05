@@ -1,0 +1,30 @@
+{
+  "subtopic": "Maps",
+  "prompt": "Generate an infographic map showing a journey route based on image 1's style, enhanced with the data charts and red/grey color palette derived from image 2's infographic elements.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "Infographic map design",
+  "searchQueryGeneratedTimestamp": 1752288639054,
+  "promptGeneratedTimestamp": 1752288790941,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "I",
+  "annotator": "htwong",
+  "prompt_refined": "Generate an infographic map illustrating a multi-stage journey route. The map's layout, geographical detail, and route visualization (including key markers and text labels) should follow the distinct visual style of image 1. This infographic map must be enhanced by incorporating various data charts and design elements from image 2, such as line graphs, bar charts, and pie/donut charts. These accompanying data visualizations should predominantly utilize the red, orange, and grey color palette and clean design aesthetic found in image 2, appearing adjacent to the main map or strategically placed within the overall infographic layout to provide supplementary information about the journey.",
+  "objects": [
+    "Infographic map with geographical outline",
+    "Multi-stage journey route line on the map",
+    "Key markers along the journey route",
+    "Text labels for journey locations and stages",
+    "Line graphs utilizing a red, orange, and grey color palette",
+    "Bar charts utilizing a red, orange, and grey color palette",
+    "Pie charts or donut charts utilizing a red, orange, and grey color palette",
+    "Supplementary information text or captions",
+    "Clean design aesthetic for all infographic elements",
+    "Distinct visual style of Image 1 for map layout and route visualization"
+  ],
+  "human_annotation": true
+}

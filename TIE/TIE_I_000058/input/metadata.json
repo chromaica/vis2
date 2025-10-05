@@ -1,0 +1,26 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Swap the 2016 and 2018 pie charts and update the corresponding yearly rank chart on the right.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Swap the pie chart in the '2016' row with the pie chart in the '2018' row, both located on the left side of the image. Then, update the 'Rank of Sales Distribution for Category by Year' line chart on the right side of image 1, specifically the data points and lines for the years 2016 and 2018, to accurately reflect this swapped sales distribution.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Main chart title \"Rank of Sales Distribution for Category by Year\"",
+    "Category legend with blue, orange, red color blocks",
+    "Left section table with \"Before\" header and year labels (2015, 2016, 2017, 2018)",
+    "Right section line chart with \"After\" header, year labels (2015, 2016, 2017, 2018), and rank labels (Rank 1, Rank 2, Rank 3)",
+    "Pie chart in the 2015 row",
+    "Pie chart in the 2016 row (content from original 2018 pie chart)",
+    "Pie chart in the 2017 row",
+    "Pie chart in the 2018 row (content from original 2016 pie chart)",
+    "Line chart data points and lines for 2015 and 2017 categories",
+    "Updated line chart data points and lines for 2016 and 2018 categories"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

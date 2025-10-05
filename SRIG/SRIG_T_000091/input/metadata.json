@@ -1,0 +1,24 @@
+{
+  "task": "SRIG",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "By using the font style in the image, generate an invitation card for an engagement party. The host is 'John and Zoe'. The date is '5th November 2025'. The location is 'QE Park The Seasons Room'. The time is '6:00 PM'. The dress code is 'Formal Attire'.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "annotator": "donaldtsang",
+  "prompt_refined": "Create an elegant engagement party invitation card. The design should utilize the ornate, romantic serif font style with decorative flourishes and ligatures from image 1 for the prominent text elements. The color scheme should be a soft cream or light beige background with dark charcoal text, accented by subtle light brown/gold details, consistent with image 1.\n\nThe card should prominently feature the hosts' names, 'John and Zoe', centered towards the top. Below this, include the event details: '5th November 2025', 'QE Park The Seasons Room', '6:00 PM', and 'Formal Attire'. Arrange these details clearly and hierarchically, maintaining a sophisticated and legible presentation that matches the overall aesthetic of image 1.",
+  "objects": [
+    "Engagement party invitation card format",
+    "Soft cream or light beige background",
+    "Text: 'John and Zoe', centered towards the top",
+    "Text: '5th November 2025'",
+    "Text: 'QE Park The Seasons Room'",
+    "Text: '6:00 PM'",
+    "Text: 'Formal Attire'",
+    "Ornate, romantic serif font style applied to text elements",
+    "Dark charcoal color for main text elements",
+    "Subtle light brown/gold colored decorative accents"
+  ]
+}

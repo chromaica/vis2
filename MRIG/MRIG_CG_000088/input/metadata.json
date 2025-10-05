@@ -1,0 +1,25 @@
+{
+  "subtopic": "VFX and Particles",
+  "prompt": "Generate a computer graphics scene: abstract glowing particle effects similar to image 2, forming flowing paths and structures that represent the conceptual wireframes and sticky notes from the planning process shown in image 1, visualized as dynamic VFX elements.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748424372487,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a dynamic computer graphics scene. Abstract, glowing particle effects, similar in style, color (warm amber/orange), and fluid movement to image 2, should form the conceptual structures from image 1. Specifically, visualize the outlines of the UI/UX wireframes, flowchart elements, and the distinct shapes of the sticky notes from image 1 as intricate, shimmering particle constructs. The interconnecting lines and arrows seen in image 1 should manifest as energetic, flowing particle trails, creating a sense of digital evolution and dynamic VFX.",
+  "annotator": "winston",
+  "objects": [
+    "UI/UX wireframe outlines formed by intricate, shimmering particle constructs",
+    "Flowchart element outlines formed by intricate, shimmering particle constructs",
+    "Distinct sticky note shapes formed by intricate, shimmering particle constructs",
+    "Interconnecting lines manifesting as energetic, flowing particle trails",
+    "Arrows manifesting as energetic, flowing particle trails",
+    "Abstract glowing particle effects",
+    "Warm amber/orange color scheme",
+    "Fluid movement (of particles and trails)"
+  ]
+}

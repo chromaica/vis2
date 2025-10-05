@@ -1,0 +1,26 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Exploded views",
+  "prompt": "Colorize each component with distinct shades and add textured shading to enhance depth and detail.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Colorize each distinct component of the fan diagram with a unique shade. Additionally, apply textured shading to all components to enhance their depth, detail, and realistic appearance, transforming them from flat line art into three-dimensional objects.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Front Guard",
+    "Blade",
+    "Plastic Nut",
+    "Rear Guard",
+    "Motor Shaft",
+    "Oscillating mechanism",
+    "Fan Body",
+    "Piano-key buttons",
+    "Base",
+    "Spinner"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

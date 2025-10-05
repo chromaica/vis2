@@ -1,0 +1,22 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Add a watermark of a fictional research institute.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Add a subtle, semi-transparent text watermark representing a fictional research institute. Position the watermark in the bottom-right corner of the information graphic, ensuring it does not obscure any existing data points, labels, or axes. The watermark should feature the institute's name in a clean, professional font.",
+  "annotator": "cwhsu",
+  "objects": [
+    "3D scatter plot",
+    "Data points (multi-colored spheres and crosses)",
+    "Axes with labels (\"Urban Population Percentage\", \"Improved Drinking Water Coverage\", \"Improved Sanitation Coverage\")",
+    "Chart title (\"Relationships of Water Supply, Sanitation and Urban Population Rate\")",
+    "Country name labels (e.g., Brazil, USA, Haiti, India)",
+    "Population Density color bar legend",
+    "Grid lines",
+    "Subtle, semi-transparent text watermark in the bottom-right corner"
+  ]
+}

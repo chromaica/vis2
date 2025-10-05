@@ -1,0 +1,31 @@
+{
+  "subtopic": "Collage",
+  "prompt": "Edit image 1: Modify the collage technique by replacing the larger paper shapes with a mosaic of numerous small, colorful, geometric, and irregular pieces, adopting the vibrant color palette and style from image 2, while maintaining the subject of pickles in a jar.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "Collage Art Example",
+  "searchQueryGeneratedTimestamp": 1748651634084,
+  "promptGeneratedTimestamp": 1748651674124,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1: Transform the large paper shapes forming the pickles inside the jar into a mosaic. This mosaic should consist of numerous small, colorful, geometric, and irregular pieces, adopting the vibrant color palette and fragmented artistic style demonstrated in image 2. Ensure the original subject of pickles contained within the jar remains visually consistent.",
+  "annotator": "kellycyy",
+  "objects": [
+    "Jar",
+    "Jar lid",
+    "Pickles (visually consistent in shape)",
+    "Mosaic art (composing the pickles)",
+    "Numerous small mosaic pieces",
+    "Colorful mosaic pieces",
+    "Geometric mosaic pieces",
+    "Irregular mosaic pieces",
+    "Vibrant color palette",
+    "Fragmented artistic style"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

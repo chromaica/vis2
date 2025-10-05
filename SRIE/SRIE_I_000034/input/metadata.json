@@ -1,0 +1,19 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "Apply the stained glass colors from the reference to the butterfly.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the butterfly illustration. Recolor the butterfly's wings and body using the distinct, vibrant color palette derived from image 2, the stained glass pattern.",
+  "annotator": "Johnny",
+  "objects": [
+    "butterfly",
+    "butterfly wings",
+    "butterfly body",
+    "white background"
+  ]
+}

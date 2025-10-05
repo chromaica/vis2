@@ -1,0 +1,27 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Chat and Social Messaging",
+  "prompt": "Change the background of the message area in image 1 to the pale beige tone from image 2 and add the green online dot next in small size to the bottom-left circular avatar profile image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Modify the background of the chat message area to match the pale beige tone found in image 2. Additionally, add a small green circular dot, replicating the color and form from image 3, onto the 'You' avatar profile image. This refers to the circular profile image on the left side of the chat interface in image 1, associated with the 'You' label. Position this dot at the bottom-right edge of the 'You' avatar to serve as an online status indicator.",
+  "annotator": "parnian",
+  "objects": [
+    "Phone status bar",
+    "Chat interface header",
+    "Chat message area with pale beige background",
+    "Individual chat message bubbles",
+    "'You' avatar profile image",
+    "'My Crush' avatar profile image",
+    "Small green circular dot at the bottom-right edge of the 'You' avatar",
+    "Chat input bar",
+    "Scroll down button",
+    "'You' and 'My Crush' text labels"
+  ],
+  "human_annotation": true
+}

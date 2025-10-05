@@ -1,0 +1,24 @@
+{
+  "subtopic": "Collage",
+  "prompt": "make the sheep on image 1 to have the same hair style (and flower decorations) as the girl in image 2",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "Collage art reference",
+  "searchQueryGeneratedTimestamp": 1748292484379,
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1: Transform the wool surrounding the sheep's head to adopt the same style and appearance as the vibrant, flower-adorned hair of the girl in image 2, ensuring similar floral decorations are incorporated.",
+  "annotator": "kellycyy",
+  "objects": [
+    "sheep's head",
+    "sheep's body (partial)",
+    "wool surrounding the sheep's head",
+    "floral decorations on the wool",
+    "vibrant colors on the wool",
+    "green collage background",
+    "orange collage background"
+  ]
+}

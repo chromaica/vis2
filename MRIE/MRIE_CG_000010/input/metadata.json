@@ -1,0 +1,28 @@
+{
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "Edit image 1: Segment the desk area and replace the clutter with the clean minimal items from image 2. Segment the large monitor on the right and replace its reflection content with the hands holding the phone from image 3.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748454598031,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1: Remove all existing clutter from the desk surface and replace it with a clean, minimalist arrangement of items, drawing direct inspiration from the objects and style presented in image 2 (e.g., a white keyboard, a smartphone, a grey notebook, a pen, and white earbuds). Additionally, identify the large monitor on the right side of the image and replace the current reflection on its screen with the image of hands holding a phone, as shown in image 3.",
+  "annotator": "winston",
+  "objects": [
+    "Clean, minimalist desk surface",
+    "White keyboard",
+    "Smartphone",
+    "Grey notebook",
+    "Pen",
+    "White earbuds",
+    "Large monitor on the right",
+    "Reflection of hands holding a phone (on the large monitor)",
+    "Existing clutter from the desk surface (should not be present)",
+    "Current reflection on the large monitor (should not be present)"
+  ]
+}

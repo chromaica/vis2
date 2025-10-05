@@ -1,0 +1,24 @@
+{
+  "subtopic": "Visual instructions and manuals",
+  "prompt": "From the recipe card layout, create an instruction graphic for cooking a classic omelette, highlighting ingredients and timings.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "https://marketplace.canva.com/EAFNsV8XtFc/1/0/1067w/canva-white-modern-recipe-card-g0ij-n11PwM.jpg",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate an information graphic for a classic omelette recipe, using the two-column layout, text styles, and overall aesthetic of image 1.\n\nIn the top section, replace the existing image with a high-quality, appealing photograph of a perfectly cooked classic omelette on a clean plate.\n\nIn the left column, modify the content as follows:\n-   Change the title from 'Pumpkin soup' to 'Classic Omelette'.\n-   Keep '2 servings'.\n-   Change '15 minutes' to '10 minutes' as the preparation and cooking time.\n-   Replace the 'INGREDIENTS' list with: '3 large eggs', '1 tbsp butter', '1 tbsp milk or cream', 'Salt to taste', 'Black pepper to taste'.\n-   Replace the 'NOTES' section with the text: 'For a fluffy omelette, whisk vigorously for 30 seconds.'\n\nIn the right column, replace the placeholder text under 'DIRECTIONS' with the following concise, numbered steps for cooking a classic omelette:\n1.  Whisk eggs, milk/cream, salt, and pepper in a bowl until just combined.\n2.  Melt butter in a non-stick pan over medium-high heat until foamy.\n3.  Pour egg mixture into the hot pan, swirling to coat the bottom.\n4.  As edges set, gently push cooked egg towards the center, tilting the pan to let uncooked egg flow underneath.\n5.  Cook until the top is mostly set but still slightly moist, about 1-2 minutes.\n6.  Fold the omelette in half or in thirds and slide onto a plate. Serve immediately.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "A perfectly cooked classic omelette on a clean plate",
+    "Two-column layout",
+    "Title text \"Classic Omelette\"",
+    "Text \"2 servings\"",
+    "Text \"10 minutes\"",
+    "'INGREDIENTS' heading with list: \"3 large eggs, 1 tbsp butter, 1 tbsp milk or cream, Salt to taste, Black pepper to taste\"",
+    "'NOTES' section box with text: \"For a fluffy omelette, whisk vigorously for 30 seconds.\"",
+    "'DIRECTIONS' heading with numbered steps: \"1. Whisk eggs, milk/cream, salt, and pepper in a bowl until just combined. 2. Melt butter in a non-stick pan over medium-high heat until foamy. 3. Pour egg mixture into the hot pan, swirling to coat the bottom. 4. As edges set, gently push cooked egg towards the center, tilting the pan to let uncooked egg flow underneath. 5. Cook until the top is mostly set but still slightly moist, about 1-2 minutes. 6. Fold the omelette in half or in thirds and slide onto a plate. Serve immediately.\"",
+    "Bowl of pumpkin soup (should not be present)",
+    "Toasted bread slices (should not be present)"
+  ]
+}

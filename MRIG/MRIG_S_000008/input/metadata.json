@@ -1,0 +1,27 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "Generate a clothing store receipt screenshot using the clothing items and prices from the first and second images, and applying the font style and layout structure from the third image.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a screenshot of a clothing store receipt. The receipt should incorporate the 'WRAP SKORT WITH BELT' priced at 32.95 EUR from image 1 and the 'CUT-OUT RUSTIC MIDI DRESS' priced at 29.95 EUR from image 2. Use '5029/100/405' as the code for the skort and '2298/087/052' for the dress, with a quantity of 1 for each item. The entire receipt, including its 'Shop Receipt' title, 'Nr.: 0003568' receipt number, column structure (Code, Qty, Description, Price/$), itemized listing, summary sections (Subtotal, Tax, Total), and the footer (Date, Time, Address), must precisely follow the layout and clean, monospaced font style exemplified in image 3.",
+  "annotator": "paria",
+  "objects": [
+    "Clothing store receipt with layout and clean, monospaced font style as in image 3",
+    "'Shop Receipt' title",
+    "'Nr.: 0003568' receipt number",
+    "Receipt column headers: 'Code', 'Qty', 'Description', 'Price/$'",
+    "Itemized line: '5029/100/405', '1', 'WRAP SKORT WITH BELT', '32.95 EUR'",
+    "Itemized line: '2298/087/052', '1', 'CUT-OUT RUSTIC MIDI DRESS', '29.95 EUR'",
+    "'Subtotal' section with value (62.90 EUR)",
+    "'Tax' section with a value",
+    "'Total' section with a value",
+    "Footer section with 'Date', 'Time', and 'Address: Street, City, Zip'"
+  ],
+  "human_annotation": true
+}

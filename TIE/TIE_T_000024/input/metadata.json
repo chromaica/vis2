@@ -1,0 +1,25 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": "Apply a soft watercolor wash over each panel, with subtle bleeding at the edges.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Apply a soft watercolor wash to each of the two comic strip panels. The wash should be subtle, allowing the original black and white line art of the characters, speech bubbles, and text to remain clearly visible. Ensure there is subtle bleeding of the watercolor effect along the edges of the drawn elements within each panel and where the wash meets the panel borders.",
+  "annotator": "matina",
+  "objects": [
+    "Comic strip panel 1",
+    "Comic strip panel 2",
+    "Standing woman character",
+    "Seated man character",
+    "Speech bubbles",
+    "Text within speech bubbles",
+    "Black and white line art",
+    "Watercolor wash effect",
+    "Panel borders",
+    "Desk/table"
+  ],
+  "human_annotation": true
+}

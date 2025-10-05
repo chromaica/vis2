@@ -1,0 +1,24 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "Detailed look at sand grains under a microscope, revealing their varied shapes and colors",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Photorealistic, extreme close-up microscopic view of numerous sand grains, sharply focused. Each grain exhibits a unique, intricate shape, ranging from angular and crystalline to rounded and irregular. The grains display a wide spectrum of natural colors, including translucent, white, brown, black, red, and subtle yellow hues, revealing their diverse mineral composition.",
+  "annotator": "cwhsu",
+  "objects": [
+    "numerous sand grains",
+    "extreme close-up microscopic view",
+    "angular sand grains",
+    "crystalline sand grains",
+    "rounded sand grains",
+    "irregular sand grains",
+    "translucent sand grains",
+    "white sand grains",
+    "brown sand grains",
+    "black sand grains"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

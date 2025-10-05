@@ -1,0 +1,22 @@
+{
+  "subtopic": "Facial estimation and analysis",
+  "prompt": "Generate an image using the reference composition of three people looking at a screen. Overlay their faces with digital analysis graphics like bounding boxes and keypoints, illustrating facial estimation in computer graphics.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://live.staticflickr.com/5129/5345295769_fd3a7949bb_b.jpg",
+  "promptGeneratedTimestamp": 1748772091658,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate an image featuring three people, positioned similarly to the subjects in image 1, all intently looking down at a screen (such as a laptop) in front of them. Overlay digital analysis graphics, including bounding boxes and facial keypoints, onto each of the three faces to visually illustrate facial estimation in computer graphics.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Three people",
+    "People positioned similarly to subjects in image 1",
+    "People intently looking down",
+    "A screen (such as a laptop) in front of the people",
+    "Bounding boxes on each of the three faces",
+    "Facial keypoints on each of the three faces"
+  ]
+}

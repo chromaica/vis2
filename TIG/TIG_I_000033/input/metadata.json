@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "create an app icon that looks like mindful pulse: heartbeat waveform morphing into a lotus, gradient sunset-peach over mint, soft clay icons style.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A square app icon featuring a stylized heartbeat waveform on the left smoothly morphing into an elegant open lotus flower on the right. The entire combined form is rendered with a soft, warm gradient of sunset-peach tones, ranging from light peach to soft orange-pink. The icon is designed in a distinctive soft clay style, characterized by a smooth, matte, rounded, and three-dimensional appearance with clean, minimalist edges. The background is a solid, subtle mint green.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Square app icon",
+    "Stylized heartbeat waveform on the left",
+    "Elegant open lotus flower on the right",
+    "Heartbeat waveform smoothly morphing into lotus flower",
+    "Soft, warm gradient of sunset-peach tones (on the combined form)",
+    "Icon in soft clay style",
+    "Solid, subtle mint green background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,22 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Turn the tea into coffee, and swap the cup for a miniature laptop balanced on his knee.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Transform the transparent glass cup, which Kermit is holding and contains reddish-brown tea with a yellow Lipton tea tag. Replace the tea with dark brown coffee. Swap the entire cup for a miniature laptop, dark in color. Position this miniature laptop as if it is balanced on Kermit's knee, in the lower central area of the image.",
+  "annotator": "matina",
+  "objects": [
+    "Kermit the Frog",
+    "Miniature laptop (dark in color, balanced on Kermit's knee, in the lower central area)",
+    "\"SO YOU THINK I SENT YOU ANOTHER FRIEND REQUEST?\" (text)",
+    "\"I BARELY LIKED YOU ENOUGH TO SEND THE FIRST ONE.\" (text)",
+    "Blurred background",
+    "Transparent glass cup (should not be present)",
+    "Reddish-brown tea (should not be present)",
+    "Yellow Lipton tea tag (should not be present)"
+  ]
+}

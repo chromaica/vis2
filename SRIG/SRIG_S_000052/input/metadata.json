@@ -1,0 +1,25 @@
+{
+  "subtopic": "Games",
+  "prompt": "Take this screenshot from a modern, realistic video game and reimagine it as a 16-bit pixel art scene from a classic SNES RPG.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "https://gnomestew.com/wp-content/uploads/2022/12/talespire-1024x576.jpg",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a 16-bit pixel art scene, characteristic of a classic SNES RPG, by transforming the visual elements from image 1. The central focus should be the large wooden building with a thatched roof, rendered in an isometric or top-down isometric perspective consistent with image 1. Include the surrounding landscape: rocky cliffs rising on the right and in the background, sandy ground, and several small palm trees. A body of water, resembling a river or coastline, should be on the left side of the scene. Ensure the 16-bit pixel art style accurately captures the details, color palette, and overall aesthetic of classic SNES games. All modern game user interface elements visible in image 1 must be omitted from the generated scene.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Large wooden building with a thatched roof",
+    "Rocky cliffs (on the right and in the background)",
+    "Sandy ground",
+    "Several small palm trees",
+    "Body of water (on the left side, resembling a river or coastline)",
+    "Wooden deck/platform",
+    "Wooden staircase",
+    "Torches/lights (on the deck)",
+    "16-bit pixel art style",
+    "Modern game user interface elements (should not be present)"
+  ],
+  "human_annotation": true
+}

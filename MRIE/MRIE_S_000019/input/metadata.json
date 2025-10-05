@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "Edit image 1 by changing the text 'THANK YOU FOR DINING WITH US!' to display in the pink color from image 2. Add the BEKO logo from image 3 at the top-right corner above the receipt\u2019s address line. Do not edit payment or item details.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 (the receipt).\n1. Change the color of the text 'THANK YOU FOR DINING WITH US!' (located at the bottom of the receipt, above the barcode) to the pink color from the top-right section of image 2 (hex code ff86bb).\n2. Insert the BEKO logo from image 3 into the top-right corner of the receipt in image 1, ensuring it is positioned above the address line '143 Doty Circle, West Springfield, MA 01089, USA'.\nDo not alter any other text or details on the receipt, including payment information or itemized lists.",
+  "annotator": "parnian",
+  "objects": [
+    "receipt",
+    "\"FAST FOOD\" text",
+    "\"143 Doty Circle, West Springfield, MA 01089, USA\" address",
+    "itemized list for pizza",
+    "payment information",
+    "total amount of $52.50",
+    "\"THANK YOU FOR DINING WITH US!\" text in pink color",
+    "\"PLEASE COME AGAIN\" text",
+    "barcode",
+    "BEKO logo in the top-right corner"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

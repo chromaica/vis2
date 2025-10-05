@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "Replace the eyes and lips in the first image with those from the second image, and add the blue butterfly from the third image next to the yellow butterfly in the first image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Modify Image 1. Extract the eyes and lips from Image 2 and meticulously replace the collage-style eyes and lips currently present in Image 1 with them. Additionally, integrate the blue butterfly from Image 3 into Image 1, positioning it directly to the left of the yellow butterfly located in the upper right area.",
+  "annotator": "paria",
+  "objects": [
+    "Purple orchids",
+    "Yellow butterfly in the upper right area",
+    "Blue butterfly to the left of the yellow butterfly",
+    "Eyes from Image 2",
+    "Lips from Image 2",
+    "Central landscape image with water and trees",
+    "Upper circular landscape image with sunset",
+    "Black rectangular frame",
+    "Collage-style eyes (should not be present)",
+    "Collage-style lips (should not be present)"
+  ]
+}

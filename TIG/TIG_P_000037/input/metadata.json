@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Street scene in a bustling city with blurred motion capturing vibrant neon signs and rushing pedestrians.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic image of a dynamic street scene in a bustling city at night. The foreground and midground should be filled with numerous rushing pedestrians captured with prominent motion blur. Vibrant, glowing neon signs on surrounding buildings illuminate the scene.",
+  "annotator": "cwhsu",
+  "objects": [
+    "bustling city street scene",
+    "nighttime setting",
+    "numerous rushing pedestrians",
+    "pedestrians in foreground",
+    "pedestrians in midground",
+    "prominent motion blur on pedestrians",
+    "vibrant glowing neon signs",
+    "surrounding buildings",
+    "illumination from neon signs"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": "Generate a comic scene by combining the visual style of the first image, the exact comic text from the second, and the emotional reaction of the third image in one comic page.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a new four-panel comic page. The entire comic, including characters and backgrounds, must adopt the crisp, clean digital illustration style with bold outlines and vibrant, flat colors as seen in image 1. The comic's layout should be a 2x2 grid, identical to image 2. Integrate the exact dialogue from image 2: Panel 1 (top-left) with 'WHAT'S YOUR \"DREAM JOB\"?', Panel 2 (top-right) with 'WHY WOULD I DREAM OF LABOR?', Panel 3 (bottom-left) with no text, and Panel 4 (bottom-right) with 'WHERE ARE YOU GOING? TO RETHINK MY LIFE.'. In the bottom-right panel, the character delivering the line 'TO RETHINK MY LIFE' should express a dramatic, exaggerated emotional reaction, mirroring the open-mouthed scream, closed eyes, and raised hands of the figure in image 3.",
+  "annotator": "parnian",
+  "objects": [
+    "Four-panel comic page with 2x2 grid layout",
+    "Comic panel borders",
+    "Two characters in the top-left panel",
+    "Two characters in the top-right panel",
+    "Two characters in the bottom-left panel",
+    "Two characters in the bottom-right panel",
+    "Text: 'WHAT'S YOUR \"DREAM JOB\"?' in the top-left panel",
+    "Text: 'WHY WOULD I DREAM OF LABOR?' in the top-right panel",
+    "Text: 'WHERE ARE YOU GOING? TO RETHINK MY LIFE.' in the bottom-right panel",
+    "Character in the bottom-right panel (delivering 'TO RETHINK MY LIFE') with open-mouthed scream, closed eyes, and raised hands"
+  ]
+}

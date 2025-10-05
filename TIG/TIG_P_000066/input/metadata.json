@@ -1,0 +1,19 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Medical images",
+  "prompt": "A colorful PET scan of a human brain with vibrant areas indicating neural activity and heat map style coloring denoting different levels of activity.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A photorealistic PET scan of a human brain, rendered with a vibrant, high-contrast heat map color scheme. Areas of intense neural activity are highlighted with bright, warm colors, transitioning to cooler, less saturated tones for lower activity levels.",
+  "annotator": "cwhsu",
+  "objects": [
+    "photorealistic human brain",
+    "PET scan visualization",
+    "vibrant heat map color scheme",
+    "high-contrast heat map color scheme",
+    "areas highlighted with bright, warm colors",
+    "areas with cooler, less saturated tones"
+  ],
+  "human_annotation": true
+}

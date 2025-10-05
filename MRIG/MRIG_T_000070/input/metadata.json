@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Generate a meme with both characters side by side. Overlay the laptop-biting woman in the first image with white caption: 'Me debugging for 2 hours\u201d, and the unimpressed man in the second image with white caption: 'It was a missing semicolon'.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a two-panel meme side-by-side. The left panel should feature the laptop-biting woman from image 1. Below this left panel, add a white text caption that reads: 'Me debugging for 2 hours'. The right panel should feature the unimpressed man from image 2. Below this right panel, add a white text caption that reads: 'It was a missing semicolon'.",
+  "annotator": "parnian",
+  "objects": [
+    "two-panel meme layout",
+    "left panel with content",
+    "right panel with content",
+    "woman biting a laptop (in the left panel)",
+    "laptop (being bitten)",
+    "white text caption: \"Me debugging for 2 hours\" (below left panel)",
+    "unimpressed bald man (in the right panel)",
+    "white text caption: \"It was a missing semicolon\" (below right panel)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

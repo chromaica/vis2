@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "I",
+  "subtopic": "Visual instructions and manuals",
+  "prompt": "Generate a 3-step tooth brushing instruction using Image 1 for the layout structure and Image 2 as a reference for the toothbrush and toothpaste.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "annotator": "matina",
+  "prompt_refined": "Generate an information graphic illustrating a 3-step tooth brushing instruction. The overall layout should match Image 1, featuring three distinct vertical panels arranged horizontally from left to right. In the leftmost panel, depict a toothbrush with toothpaste applied, using the cartoonish style, red toothbrush, and red and white toothpaste tube from Image 2 as a direct visual reference for these elements. The central panel should show the act of brushing teeth. The rightmost panel should illustrate the final step, such as rinsing or a sparkling clean set of teeth. Ensure all instances of toothbrushes and toothpaste throughout the graphic adhere to the design and color scheme (red toothbrush, red and white tube, light blue toothpaste) established by Image 2.",
+  "objects": [
+    "Three distinct vertical panels (arranged horizontally)",
+    "Red toothbrush",
+    "Red and white toothpaste tube",
+    "Light blue toothpaste",
+    "Toothbrush with toothpaste applied (in leftmost panel)",
+    "Teeth",
+    "Mouth",
+    "Hand holding a toothbrush",
+    "Rinsing action (in rightmost panel)",
+    "Sparkling clean effect on teeth (in rightmost panel)"
+  ]
+}

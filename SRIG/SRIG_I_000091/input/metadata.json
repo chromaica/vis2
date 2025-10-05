@@ -1,0 +1,21 @@
+{
+  "subtopic": "Visual instructions and manuals",
+  "prompt": "Using the reference image of a smartphone, create a 'dos and don'ts' infographic for applying a screen protector. Show common mistakes like trapping air bubbles versus a perfectly applied protector.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "https://media.istockphoto.com/id/892510910/photo/apple-iphone-x-silver-white-blank-screen.jpg?s=612x612&w=0&k=20&c=UbdsmsbmcaHULfjAd8lAIKHuO4jbH79ebDysycq6d78=",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Display an infographic on the screen of image 1, which is a smartphone. The infographic should be a 'dos and don'ts' guide for applying a screen protector. On the left side of the phone's screen, illustrate the 'don't' scenario: a screen protector with visible, trapped air bubbles and dust particles underneath. On the right side of the phone's screen, illustrate the 'do' scenario: a perfectly applied, flawless screen protector with no air bubbles or imperfections.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "smartphone",
+    "infographic on the smartphone screen",
+    "screen protector with visible, trapped air bubbles on the left side of the screen",
+    "dust particles underneath the screen protector on the left side of the screen",
+    "flawless screen protector on the right side of the screen",
+    "air bubbles (should not be present on the right side of the screen protector)",
+    "imperfections (should not be present on the right side of the screen protector)"
+  ]
+}

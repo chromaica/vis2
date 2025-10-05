@@ -1,0 +1,28 @@
+{
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "Apply a detailed, photorealistic rendering style to all the segmented objects and furniture within this interior room scene, making them appear realistic.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751817990092,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1. Apply a detailed, photorealistic rendering style to all elements within this interior room scene, specifically the central sofa, the table to its right, the plant and pot on the left, the three frames on the wall (yellow, purple, and green), the floor, the rug, and the wall itself. Render these elements with realistic textures, lighting, and shadows.",
+  "annotator": "edisy",
+  "objects": [
+    "central sofa",
+    "table to its right",
+    "plant on the left",
+    "pot on the left",
+    "yellow frame on the wall",
+    "purple frame on the wall",
+    "green frame on the wall",
+    "floor",
+    "rug",
+    "wall"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

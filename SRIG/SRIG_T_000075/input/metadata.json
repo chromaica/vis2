@@ -1,0 +1,27 @@
+{
+  "subtopic": "Typography",
+  "prompt": "Based on the provided typography style, generate an image with the following texts: \"The invisible teacups debated furiously over the color of Tuesday. Crimson whispers floated from the fractured sky, gently nudging the concept of a forgotten echo. Singular clouds often hummed melodies to the silent, bewildered pavement, while plastic octopuses knitted sweaters for the fleeting moments of dawn. Logic melted into a puddle of abstract thought, allowing the universe to sneeze a shower of tiny, purple pebbles.\"",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://miro.medium.com/v2/resize:fill:1200:900/g:fp:0.51:0.47/1*SHhkcz50vrxI3Nzv362e6g@2x.png",
+  "searchQueryGenerated": "Textual graphics typography design high resolution",
+  "searchQueryGeneratedTimestamp": 1750499365081,
+  "promptGeneratedTimestamp": 1750499028403,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "T",
+  "prompt_refined": "Generate an image displaying the text: \"The invisible teacups debated furiously over the color of Tuesday. Crimson whispers floated from the fractured sky, gently nudging the concept of a forgotten echo. Singular clouds often hummed melodies to the silent, bewildered pavement, while plastic octopuses knitted sweaters for the fleeting moments of dawn. Logic melted into a puddle of abstract thought, allowing the universe to sneeze a shower of tiny, purple pebbles.\" The typography must strictly follow the style established in image 1, featuring bold, black sans-serif characters on a solid, vibrant yellow background. The text should be presented clearly and legibly, centered within the image, using efficient line breaks to maintain a clean, high-contrast, modern graphic aesthetic.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "The text: \"The invisible teacups debated furiously over the color of Tuesday. Crimson whispers floated from the fractured sky, gently nudging the concept of a forgotten echo. Singular clouds often hummed melodies to the silent, bewildered pavement, while plastic octopuses knitted sweaters for the fleeting moments of dawn. Logic melted into a puddle of abstract thought, allowing the universe to sneeze a shower of tiny, purple pebbles.\"",
+    "Solid vibrant yellow background",
+    "Bold black sans-serif typography for the text",
+    "Text centered within the image",
+    "Clear and legible text",
+    "Text with efficient line breaks",
+    "High-contrast visual appearance",
+    "Modern graphic aesthetic"
+  ],
+  "human_annotation": true
+}

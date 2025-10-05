@@ -1,0 +1,22 @@
+{
+  "subtopic": "3D renders",
+  "prompt": "Generate a 3D render in the style of early computer graphics. Depict a simple, geometric object floating above a surface, focusing on basic shading, simple textures, and distinct, hard shadows, inspired by the reference image composition.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://en.wikipedia.org/wiki/3D_rendering",
+  "promptGeneratedTimestamp": 1748765839617,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a 3D render in the style of early 1980s computer graphics, reminiscent of basic Phong or Gouraud shading, with a limited color palette. Depict a simple, geometric object, similar to the floating teapot in image 1, positioned centrally above a flat, horizontal surface. The scene should feature basic, blocky shading with clear light and dark areas, mirroring the strong directional light from the top-right in image 1. Apply a simple, subtle texture to the object's surface. Crucially, render distinct, hard-edged shadows cast by the object onto the surface, analogous to the sharp, dark shadow visible in image 1. The overall composition should reflect image 1, with the light surface in the foreground, the object in the midground, and a simple, dark background.",
+  "annotator": "ishengfang",
+  "objects": [
+    "simple, geometric object",
+    "flat, horizontal surface",
+    "simple, dark background",
+    "hard-edged shadow cast by the object onto the surface",
+    "blocky shading on the object (with clear light and dark areas)",
+    "subtle texture on the object's surface"
+  ]
+}

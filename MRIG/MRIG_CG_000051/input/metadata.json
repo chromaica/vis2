@@ -1,0 +1,29 @@
+{
+  "subtopic": "Facial estimation and analysis",
+  "prompt": "Create a computer graphics visualization for facial analysis. Use the animal's head viewpoint and overall composition from image 1. Incorporate the detailed facial texture and direct gaze from image 2, overlaid with facial estimation tracking points and data graphics.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748423079340,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a computer graphics visualization of an animal's head for facial analysis. Position the animal's head with a slight three-quarter turn and overall close-up composition similar to image 1. Apply the detailed, coarse facial fur texture and appearance of the animal from image 2. Ensure the animal's eyes maintain a direct, forward gaze towards the viewer, echoing the direct stare in image 2, even with the head's angled pose from image 1. Overlay the animal's face and surrounding area with a sophisticated network of facial estimation tracking points, lines, and relevant data graphics, seamlessly integrated into the CG style.",
+  "annotator": "winston",
+  "objects": [
+    "Computer graphics visualization style",
+    "Animal's head (with appearance similar to a deer)",
+    "Animal's head in a slight three-quarter turn pose",
+    "Close-up composition",
+    "Coarse facial fur texture",
+    "Animal's eyes with a direct, forward gaze towards the viewer",
+    "Facial estimation tracking points",
+    "Lines connecting facial tracking points",
+    "Relevant data graphics",
+    "Facial analysis context"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,21 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Change the background to a natural scene of the Grand Canyon.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the current abstract geometric background with a vibrant, natural scene of the Grand Canyon, showcasing its distinctive geological features and expansive sky. Ensure all the colorful application tiles, text, and user interface elements in the foreground remain clear, intact, and legible, appearing to float above the new background.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Grand Canyon landscape",
+    "Distinctive geological features of the Grand Canyon",
+    "Expansive sky",
+    "Colorful application tiles",
+    "User interface text",
+    "User interface elements",
+    "Abstract geometric background (should not be present)"
+  ]
+}

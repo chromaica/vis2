@@ -1,0 +1,27 @@
+{
+  "subtopic": "Software interfaces",
+  "prompt": "Edit image 1: Apply the modern, gradient style of the progress circle from image 2 to the progress indicator. Modernize the overall window design, using elements like rounded corners and subtle gradients inspired by image 2's dashboard UI style.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1752237126749,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "annotator": "ishengfang",
+  "prompt_refined": "Edit image 1. Redesign the circular progress indicator in the center of image 1: Apply the modern, subtle green-to-light-green gradient style seen on the 'New Customer Target' progress circle in image 2. Modernize the overall window design of image 1 by introducing rounded corners to the main window frame and the 'Abort' button. Integrate subtle background gradients throughout the window's interior and title bar, drawing inspiration from the sleek, contemporary dashboard UI style of image 2. Ensure all text, icons, and UI elements within image 1's window are updated to match this modern aesthetic.",
+  "objects": [
+    "main window frame with rounded corners",
+    "window title bar with subtle gradients",
+    "G DATA Product Cleaner text and logo",
+    "modernized circular progress indicator with green gradient (showing 78%)",
+    "\"Searching\" text",
+    "\"78%\" text",
+    "\"Abort\" button with rounded corners",
+    "window interior with subtle background gradients",
+    "\"TRUST IN GERMAN SICHERHEIT\" text and German flag icon",
+    "window control buttons (minimize, maximize, close)"
+  ]
+}

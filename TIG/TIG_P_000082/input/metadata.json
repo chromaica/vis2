@@ -1,0 +1,18 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "A simple bouquet of white daisies in a clear glass vase on a wooden table, sunlight streaming through a nearby window.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A simple, loosely arranged bouquet of white daisies in a sparkling clear cylindrical glass vase, positioned centrally on a smooth, light wooden table. Warm golden sunlight streams from a large window to the left, casting soft, long shadows across the tabletop.",
+  "annotator": "cwhsu",
+  "objects": [
+    "white daisies bouquet",
+    "cylindrical glass vase",
+    "light wooden table",
+    "warm golden sunlight",
+    "large window to the left",
+    "soft, long shadows on the tabletop"
+  ]
+}

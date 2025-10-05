@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "Change the decoration text on the Porsche 911 from the inappropriate words into 'LOVEYOU'. Then, add the icon from the second image onto the car, make it a realistic wrap on the car. Finally, put that car in the third image, replace that white SUV into this edited Porsche.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "1.png: Porsche owner is Tyson Yoshi; 3.png credit: Noah Couser/Courtesy of Visit Montana",
+  "prompt_refined": "Edit Image 1 (the green Porsche 911): On the white decorative strip on the lower side of the car, replace the existing text (e.g., 'F*YOU') with 'LOVEYOU'. Maintain the original font style, color (white), and perspective of the text graphic. Then, realistically integrate the red brushstroke heart icon from Image 2 onto the same white decorative strip on the car, positioning it to the left of the new 'LOVEYOU' text, ensuring it conforms naturally to the car's contours as a wrap. Finally, remove the white SUV from Image 3 and precisely insert this fully edited Porsche (from Image 1) in its place, matching the SUV's original position, orientation, and scale, ensuring seamless and realistic integration with the scene's lighting and environment.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Green Porsche 911",
+    "White decorative strip on the car",
+    "Text 'LOVEYOU' on the white decorative strip",
+    "Red brushstroke heart icon on the white decorative strip, left of 'LOVEYOU'",
+    "Mountains",
+    "Road",
+    "Guardrail",
+    "Sky",
+    "White SUV (should not be present)",
+    "Existing text 'F*YOU' on the car (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

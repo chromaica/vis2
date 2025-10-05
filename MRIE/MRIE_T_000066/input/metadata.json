@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "Replace the logo in the first image with the logo in the second image. Change the name of the receiver to 'John Doe'. Finally, make the man in the third image hold the edited certificate.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 3 by replacing the certificate the man is holding with a modified version of the certificate from image 1. Perform the following edits to the certificate from image 1:\n1. Replace the central gold circular logo with the Harvard crest from image 2, ensuring correct scaling and positioning.\n2. Change the recipient's name 'BAILEY DUPONT' (the large, bold, blue text in the center) to 'JOHN DOE'.\nThe final output must show the man in image 3 holding this newly edited certificate.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Man in graduation cap and gown",
+    "Outdoor background (trees, greenery)",
+    "Certificate held by the man",
+    "Harvard crest on the certificate",
+    "Text \"GRADUATION CERTIFICATE UNIVERSITY OF SCIENCE ANI CITY\" on certificate",
+    "Text \"JOHN DOE\" on certificate",
+    "Text \"for successfully attaining the degree of Bachelor of Arts in Science.\" on certificate",
+    "Decorative border of the certificate",
+    "Signatures and titles on the certificate",
+    "Certificate from image 3 (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

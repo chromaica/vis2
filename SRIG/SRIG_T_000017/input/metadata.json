@@ -1,0 +1,23 @@
+{
+  "task": "SRIG",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "create a hidden text 'RED' inside the image which is unreadable by typical OCR image. The text must be hidden like the rainforest style",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a new image based on image 1 (a dense rainforest landscape). The word 'RED' must be subtly integrated and camouflaged within the lush green foliage and natural textures of the rainforest, appearing as if formed by leaves, branches, or light and shadow patterns. The text should be visually hidden and unreadable by typical OCR systems, blending seamlessly into the environment.",
+  "annotator": "theblackcat",
+  "objects": [
+    "dense rainforest landscape",
+    "lush green foliage",
+    "mountains or hills covered in trees",
+    "overcast or misty sky",
+    "natural textures (leaves, branches)",
+    "the word \"RED\" subtly integrated and camouflaged",
+    "\"RED\" formed by leaves",
+    "\"RED\" formed by branches",
+    "\"RED\" formed by light and shadow patterns"
+  ]
+}

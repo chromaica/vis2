@@ -1,0 +1,21 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "Generate an image showing 8 white blood cells (based on the provided reference image) actively attacking a spiky, spherical virus.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic microscopic image depicting eight white blood cells, consistent in detailed morphology with the cell shown in image 1, actively surrounding and attacking a central spiky, spherical virus. The white blood cells should be positioned dynamically around the virus, conveying an intense immunological response within a fluid biological medium.",
+  "annotator": "samin",
+  "objects": [
+    "photorealistic microscopic image",
+    "eight white blood cells",
+    "white blood cell morphology consistent with image 1",
+    "central spiky, spherical virus",
+    "white blood cells surrounding the virus",
+    "white blood cells attacking the virus",
+    "fluid biological medium"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "A textual meme graphic: 'This is Fine' presented in the classic bold white Impact font with a black outline, typical meme style, overlaying a chaotic and slightly blurry background scene.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A classic internet meme graphic with the text 'This is Fine' in bold, white Impact font with a black outline. The text is overlaid on a chaotic and slightly blurry background scene.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "The text \"This is Fine\"",
+    "White color of the text",
+    "Bold style of the text",
+    "Impact font used for the text",
+    "Black outline around the text",
+    "A background scene",
+    "Chaotic elements within the background",
+    "Slightly blurry visual effect on the background",
+    "The text positioned as an overlay on the background"
+  ],
+  "human_annotation": true
+}

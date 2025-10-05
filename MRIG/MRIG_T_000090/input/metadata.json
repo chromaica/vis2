@@ -1,0 +1,18 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "Generate a poster for a new cooking show by the smiling chef in the first image and the Persian meal in the second image with text 'From Kitchen to Culture'.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a vibrant poster for a new cooking show. Feature the smiling male chef from image 1 prominently in the foreground, exuding warmth and approachability. In the background or artfully integrated around the chef, display the abundant and colorful spread of Persian dishes from image 2, emphasizing its visual richness. Overlay the bold text 'From Kitchen to Culture' as the show's title, clearly visible at the top or center of the poster.",
+  "annotator": "parnian",
+  "objects": [
+    "smiling male chef prominently in the foreground",
+    "abundant and colorful spread of Persian dishes in the background or integrated around the chef",
+    "bold text 'From Kitchen to Culture' at the top or center of the poster"
+  ]
+}

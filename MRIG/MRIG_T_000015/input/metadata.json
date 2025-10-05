@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Generate a logo for a podcast titled 'Women in AI Research' using the soft pastel tones from the color palette in Image 1 and inspired by the professional, confident appearance of the woman in Image 2.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a logo for a podcast titled 'Women in AI Research'. The logo should prominently feature the text 'Women in AI Research'. Use the soft pastel color palette from Image 1, specifically incorporating powder blue, light lavender, pale turquoise, and pastel pink tones. The design should embody the professional, confident, and intelligent aesthetic exemplified by the woman in Image 2, reflecting a refined and approachable style suitable for AI research.",
+  "annotator": "parnian",
+  "objects": [
+    "Podcast logo",
+    "The text \"Women in AI Research\"",
+    "Powder blue color",
+    "Light lavender color",
+    "Pale turquoise color",
+    "Pastel pink color",
+    "Professional aesthetic",
+    "Confident aesthetic",
+    "Intelligent aesthetic",
+    "Refined and approachable style"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "subtopic": "Branding and visual identity",
+  "prompt": "Generate a flat lay display of branding materials for a GenAI startup. Use the dark blue and purple color palette and the minimalist, professional style from the reference image. Show items like a laptop sticker, a pen, and a small box.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXfQxg29bUTjFNnYPIX2fAvnBjJl8BKNVB_PMzFCUDmFH5Owu2f6mlGcq5qLz711NGL0R59rjkUoAVCOWcLH0YDaKAsdQzVK9R2sHCgu2j9h0qPJyApSTuZEBOqy5D0vHPylBtK-qw?key=tik1dWDFuWbXFOH_OyK2lUWH",
+  "searchQueryGenerated": "Clean modern branding identity typography design layout",
+  "searchQueryGeneratedTimestamp": 1750504218221,
+  "promptGeneratedTimestamp": 1750504259569,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "T",
+  "prompt_refined": "Generate a flat lay display of branding materials for a GenAI startup, utilizing the dark blue and purple color palette and the minimalist, professional style from image 1. The branding elements (logo, text) on all items should feature a clean, bold, sans-serif typography, consistent with the 'WE CLEAN' branding seen in image 1. Include a rectangular laptop sticker, a sleek branded pen, and a small, branded packaging box. Arrange these items artfully on a light-colored, clean surface, presented from an overhead perspective with subtle, natural shadows that enhance depth, similar to the composition in image 1.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "rectangular laptop sticker",
+    "sleek branded pen",
+    "small, branded packaging box",
+    "dark blue and purple color palette",
+    "minimalist, professional style",
+    "clean, bold, sans-serif typography on branding elements",
+    "light-colored, clean surface",
+    "overhead perspective",
+    "subtle, natural shadows",
+    "branding elements (logo, text) on all items"
+  ]
+}

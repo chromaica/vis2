@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "Edit image 1 by replacing the 'PAY' button at the bottom with the green checkmark from image 3, maintaining the same size and position. Then add the American Express logo from image 2 to the top right corner of the receipt area, replacing the timestamp section. Do not alter any item prices or layout spacing.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 by replacing the light blue 'PAY' button located at the bottom of the screen with the green circular checkmark icon from image 3. The green checkmark icon should precisely occupy the same size and position as the original 'PAY' button. Additionally, integrate the American Express logo from image 2 into the top right corner of the white receipt area, ensuring it replaces the existing '08-04-2017 10:12' timestamp text. Do not alter any other elements, including item prices such as '$1,101.40', '$96.70', and '$1,198.10', or the overall layout spacing within the receipt.",
+  "annotator": "parnian",
+  "objects": [
+    "Green circular checkmark icon at bottom of screen",
+    "American Express logo in top right corner of white receipt area",
+    "Light blue 'PAY' button (should not be present)",
+    "'08-04-2017 10:12' timestamp text (should not be present)",
+    "Airbnb logo",
+    "White receipt area",
+    "\"New York\" text",
+    "\"$1,101.40\" price",
+    "\"$1,198.10\" total price",
+    "Light blue background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

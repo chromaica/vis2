@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "Generate a screenshot of a fictional receipt for a space travel trip from Earth to Mars that has the overall layout and structure of a modern travel itinerary receipt from the first image, and planetary icons from the second image.",
+  "cond_images": [
+    "1.png",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a screenshot of a fictional receipt for an 'Earth to Mars' space travel trip. The receipt should adopt the precise overall layout, structure, and distinct sections of the invoice displayed in image 1, including the header (e.g., company name, address), client details, invoice summary, and the tabular itemized breakdown. Within the tabular section, ensure the 'Description' column reflects space travel services. Specifically, for the 'Interplanetary Flight: Earth to Mars' line item, visually integrate the 'Earth' icon from image 2 directly before the word 'Earth' and the 'Mars' icon from image 2 directly before the word 'Mars'.",
+  "annotator": "paria",
+  "objects": [
+    "A fictional receipt document",
+    "Overall layout and distinct sections matching image 1's invoice",
+    "Header section including company name, address, and contact information",
+    "Client details section",
+    "Invoice summary section, including invoice number and dates",
+    "Tabular itemized breakdown section with columns for 'Description', 'Quantity', 'Unit Price', and 'Total'",
+    "Space travel services listed in the 'Description' column",
+    "The specific text \"Interplanetary Flight: Earth to Mars\"",
+    "Earth icon from image 2, positioned directly before the word 'Earth'",
+    "Mars icon from image 2, positioned directly before the word 'Mars'",
+    "Final invoice summary displaying subtotal, tax, and total amount due"
+  ]
+}

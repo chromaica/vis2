@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "oil paintings",
+  "prompt": "An abstract oil painting of turbulent ocean waves crashing against jagged cliffs, with deep blues and stark whites contrasting dramatically.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "An abstract oil painting of turbulent ocean waves crashing against jagged cliffs, with deep blues and stark whites contrasting dramatically.",
+  "annotator": "cwhsu",
+  "objects": [
+    "abstract oil painting style",
+    "turbulent ocean waves",
+    "jagged cliffs",
+    "visual representation of waves crashing against cliffs",
+    "deep blue colors",
+    "stark white colors"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,22 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Depth maps",
+  "prompt": "Replace the background in the source image with a sunset scene, preserving only the foreground as indicated in the depth map.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 (the source image) to replace its current background. The new background should depict a vibrant sunset, characterized by warm, golden hour lighting and a sky with a gradient of oranges, pinks, and purples, potentially with dramatic clouds. Maintain the exact appearance and position of the group of young adults in the foreground, using image 2 (the depth map) as precise guidance for foreground-background separation.",
+  "annotator": "nimajamali",
+  "objects": [
+    "group of young adults in the foreground",
+    "vibrant sunset",
+    "warm, golden hour lighting",
+    "sky with a gradient of oranges, pinks, and purples",
+    "dramatic clouds",
+    "Quincy Market building (should not be present)",
+    "American flag (should not be present)"
+  ]
+}

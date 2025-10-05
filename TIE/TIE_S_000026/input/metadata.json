@@ -1,0 +1,23 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "Add a futuristic digital interface on character's wrist displaying holographic maps, enhancing the tactical appearance.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Add a futuristic digital interface on the character's left wrist (viewer's right) displaying dynamic, glowing holographic maps, enhancing the tactical appearance.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Game UI background",
+    "Game menu and navigation bar",
+    "Character in tactical gear",
+    "Character's head with cap and mask",
+    "Character's left wrist (viewer's right)",
+    "Futuristic digital interface on the character's left wrist",
+    "Dynamic holographic maps displayed on the interface",
+    "Glowing visual effects"
+  ],
+  "human_annotation": true
+}

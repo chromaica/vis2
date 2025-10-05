@@ -1,0 +1,23 @@
+{
+  "task": "MRIE",
+  "topic": "P",
+  "subtopic": "Wildlife & Nature Photography",
+  "prompt": "Add the butterfly from the second image to the first image, standing on the front horse's nose. Replace the background horse in the first image with the sheep from the third image. The sheep should be flipped horizontally to match the horse's direction.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Incorporate the patterned butterfly from image 2, positioning it on the nose of the foreground grey horse in image 1. Replace the blurred dark horse in the background of image 1 with the prominent light-colored sheep from image 3. Ensure the sheep is horizontally flipped to match the left-facing direction of the original background horse.",
+  "annotator": "boris",
+  "objects": [
+    "foreground grey horse",
+    "patterned butterfly on the nose of the foreground grey horse",
+    "prominent light-colored sheep in the background",
+    "blurred dark horse (should not be present)",
+    "snowy background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

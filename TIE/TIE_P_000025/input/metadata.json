@@ -1,0 +1,19 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "Remove the skies found in this image",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 to remove the dark, dense clouds, revealing a clear, dark sky behind the partial solar eclipse.",
+  "annotator": "theblackcat",
+  "objects": [
+    "dark, dense clouds (should not be present)",
+    "clear, dark sky",
+    "partial solar eclipse"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,26 @@
+{
+  "subtopic": "Geometric Modeling or Stylized Rendering",
+  "prompt": "Edit image 1 by transforming the mouse into the geometric, low-poly style seen in image 2. Place this geometrically-styled mouse within a detailed background scene rendered in the antique illustration style of image 3, incorporating natural landscape elements.",
+  "cond_images": [
+    "1.jpeg",
+    "2.png",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748455829701,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1: Transform the fluffy brown mouse into a geometric, low-poly representation, emulating the distinctive polygonal style and flat shading of the frog in image 2. Place this newly stylized, low-poly mouse prominently within a new, detailed natural landscape background. This background should be rendered in the antique illustration style exemplified by image 3, featuring its characteristic etched lines, muted natural color palette, and natural landscape elements such as dense foliage, gnarled trees (similar to the one in image 3), and a distant body of water, ensuring the mouse is a central focal point in the scene.",
+  "annotator": "winston",
+  "objects": [
+    "Low-poly mouse (central focal point)",
+    "Natural landscape background",
+    "Etched lines (style for background)",
+    "Muted natural color palette (style for background)",
+    "Dense foliage",
+    "Gnarled trees",
+    "Distant body of water"
+  ],
+  "human_annotation": true
+}

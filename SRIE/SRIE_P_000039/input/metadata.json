@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "P",
+  "subtopic": "Medical images",
+  "prompt": "Enhance the spatial depth and layer separation in the abdominal CT scan (image 1) using the reference depth map (image 2) as guidance, while preserving anatomical accuracy.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the axial abdominal CT scan, to enhance its perceived spatial depth and improve the visual separation between internal anatomical layers. Utilize image 2, the provided grayscale depth map, as the primary reference for guiding this depth enhancement. Ensure the edited image maintains precise anatomical accuracy and a photorealistic quality consistent with a diagnostic medical CT scan.",
+  "annotator": "nimajamali",
+  "objects": [
+    "Axial abdominal CT scan cross-section",
+    "Internal abdominal organs",
+    "Bowel loops",
+    "Large fluid collection/cyst",
+    "Spinal vertebra",
+    "Abdominal musculature and fat layers",
+    "Abdominal wall",
+    "CT scan measurement text and parameters",
+    "CT scan orientation markers (R, L)",
+    "Photorealistic diagnostic medical CT scan appearance"
+  ]
+}

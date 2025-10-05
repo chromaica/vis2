@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Cultural or Heritage art",
+  "prompt": "Create a decorative artwork of an arch using the shape from image 2, adorned with the intricate geometric tile pattern and colors from image 1, reflecting cultural heritage art.",
+  "cond_images": [
+    "1.png",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a decorative artwork of an arch. The arch's shape, including its distinctive pointed top and scalloped inner frame, must be based on image 2. Adorn the entire surface of this arch with the intricate geometric tile pattern and vibrant color palette from image 1. The artwork should reflect cultural heritage art, in the style of traditional Moroccan Zellige tiles.",
+  "annotator": "samin",
+  "objects": [
+    "decorative artwork",
+    "arch",
+    "pointed top arch shape",
+    "scalloped inner frame",
+    "intricate geometric tile pattern",
+    "blue color",
+    "black color",
+    "white color",
+    "orange color",
+    "green color"
+  ]
+}

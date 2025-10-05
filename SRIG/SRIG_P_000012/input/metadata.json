@@ -1,0 +1,25 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "Generate an asteroid belt in a galaxy, using the asteroid from the image as the repeating component",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic image of an expansive, dense asteroid belt. The individual asteroids within the belt should visually replicate the elongated, light-grey, pockmarked asteroid shown in image 1. The entire asteroid belt is situated within and illuminated by a detailed, distant galaxy, serving as the cosmic backdrop.",
+  "annotator": "samin",
+  "objects": [
+    "Expansive, dense asteroid belt",
+    "Individual asteroids within the belt",
+    "Elongated shape for individual asteroids",
+    "Light-grey color for individual asteroids",
+    "Pockmarked texture for individual asteroids",
+    "Detailed galaxy",
+    "Distant galaxy",
+    "Cosmic backdrop",
+    "Illumination on the asteroid belt from the galaxy"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

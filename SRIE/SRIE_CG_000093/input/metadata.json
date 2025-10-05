@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "3D renders",
+  "prompt": "Apply stylized cel-shading along architectural edges.",
+  "cond_images": [
+    "1.png",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Use image 1 (the realistic castle rendering) as the source image. Apply stylized cel-shading to the entire castle structure. The style of the cel-shading, particularly the sharp outlines along all architectural edges, should be guided by the crispness and graphic nature presented in image 2 (the edge map).",
+  "annotator": "nimajamali",
+  "objects": [
+    "cel-shaded castle structure",
+    "sharp outlines along castle architectural edges",
+    "green rolling hills",
+    "distant river",
+    "bright sky",
+    "castle walls",
+    "castle towers",
+    "castle gate"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

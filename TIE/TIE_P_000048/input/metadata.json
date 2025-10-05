@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "Draw Sagittarius in lines from the image",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 by drawing the constellation Sagittarius using lines that connect the visible stars. Position the constellation within the prominent Milky Way band, specifically in the upper-center to upper-right region of the sky, above the two silhouetted figures. The lines should clearly outline the 'Teapot' asterism and the full archer figure, appearing as natural star connectors in the night sky.",
+  "annotator": "theblackcat",
+  "objects": [
+    "night sky",
+    "Milky Way band",
+    "visible stars",
+    "two silhouetted figures",
+    "silhouetted ground",
+    "lines connecting stars",
+    "Sagittarius constellation",
+    "'Teapot' asterism outline",
+    "archer figure outline"
+  ],
+  "human_annotation": true
+}

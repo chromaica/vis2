@@ -1,0 +1,19 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "The surface of Mars, captured in vivid detail with orange deserts and rocky terrains under a pale, dusty sky, highlighting intriguing geological features.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic image depicting the surface of Mars. The scene features expansive orange deserts and rugged rocky terrains, all set under a pale, dusty sky. The composition should prominently highlight intriguing geological formations.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Martian landscape",
+    "Expansive orange deserts",
+    "Rugged rocky terrains",
+    "Pale, dusty sky",
+    "Intriguing geological formations"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

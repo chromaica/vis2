@@ -1,0 +1,23 @@
+{
+  "task": "MRIG",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "Generate a disaster impact map showing flooded regions. Use Image 1 as a visual overlay for flood zones and Image 2 to mark shelter locations.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "annotator": "matina",
+  "prompt_refined": "Generate a disaster impact map that clearly displays geographical features. Visually delineate all flooded regions on the map by applying a distinct texture or pattern to these areas, drawing inspiration from the wave elements and the overall visual theme of water inundation depicted in image 1. Simultaneously, accurately mark all designated shelter locations on the map using the prominent house and person silhouette icon from image 2 as individual, clearly visible point markers. Ensure the map is easily legible, with both flood zones and shelter locations prominently highlighted for quick interpretation.",
+  "objects": [
+    "Disaster impact map",
+    "Geographical features",
+    "Flooded regions",
+    "Wave-like texture or pattern on flooded regions",
+    "Shelter locations",
+    "House and person silhouette icon markers for shelter locations"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

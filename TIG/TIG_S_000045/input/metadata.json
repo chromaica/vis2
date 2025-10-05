@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "Create a high-speed racing game mockup showing a sleek sports car drifting around a sharp turn on a neon-lit cyberpunk city track at night. The car should have glowing underglow lights and motion blur trails. Include UI elements: speedometer showing 200+ MPH, lap timer, position indicator (2nd/8 racers), boost meter nearly full, rearview mirror showing pursuing cars, and a racing line guide on the track. The background features towering skyscrapers with holographic advertisements and rain effects on the windshield. Neon purple and blue color scheme with intense atmospheric lighting",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate an image of a high-speed racing game mockup. A sleek sports car, with glowing underglow lights and motion blur trails, is depicted drifting sharply around a turn on a neon-lit cyberpunk city track at night. The background features towering skyscrapers adorned with holographic advertisements, and realistic rain effects are visible on the windshield. The dominant color scheme is neon purple and blue, enhanced by intense atmospheric lighting. UI elements are overlaid: a speedometer showing '200+ MPH' is placed in the bottom-center, a lap timer in the top-left, and a position indicator displaying '2nd/8 racers' in the top-right. A nearly full boost meter is located in the bottom-right. An upper-middle rearview mirror shows pursuing cars, and a clear racing line guide is visible on the track.",
+  "annotator": "theblackcat",
+  "objects": [
+    "sleek sports car with glowing underglow lights and motion blur trails",
+    "neon-lit cyberpunk city track at night",
+    "towering skyscrapers adorned with holographic advertisements",
+    "realistic rain effects on the windshield",
+    "speedometer showing '200+ MPH' in bottom-center",
+    "lap timer in top-left",
+    "position indicator displaying '2nd/8 racers' in top-right",
+    "nearly full boost meter in bottom-right",
+    "upper-middle rearview mirror showing pursuing cars",
+    "clear racing line guide on the track"
+  ]
+}

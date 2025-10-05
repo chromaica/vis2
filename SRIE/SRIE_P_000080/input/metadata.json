@@ -1,0 +1,20 @@
+{
+  "task": "SRIE",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "Elongate the comet's tail in the direction of the vector field to simulate the effect of solar wind pressure.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 (the comet image) to elongate its tail. Extend the existing tail further to the right, ensuring its shape and direction align with the outward flow depicted by the vector field in image 2. The elongated tail should remain photorealistic, visually simulating the effect of solar wind pressure.",
+  "annotator": "nimajamali",
+  "objects": [
+    "Comet",
+    "Elongated comet tail extending to the right",
+    "Stars",
+    "Space background"
+  ],
+  "human_annotation": true
+}

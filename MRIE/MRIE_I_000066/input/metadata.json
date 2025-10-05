@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Visual instructions and manuals",
+  "prompt": "Edit image 1 (latte guide). In step 2, replace the milk carton with a bottle styled like the one in image 3. In step 6, add the sugar packet icon from image 2 near the final cup.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the 'making a Latte' process guide.\n\nIn panel 2, replace the existing milk carton, which is depicted pouring liquid into a pitcher, with a line art bottle. This new bottle should be styled like the one in image 3 and maintain the same pouring action and position.\n\nIn panel 6, add an instance of the sugar packet icon from image 2. Position this icon in the upper right area relative to the final latte cup, consistent with the overall line art style of the guide.",
+  "annotator": "maxku",
+  "objects": [
+    "'making a Latte' title",
+    "Coffee machine",
+    "Milk carton (should not be present)",
+    "Line art bottle (in panel 2)",
+    "Pitcher (in panel 2)",
+    "Hand icon",
+    "Coffee beans",
+    "Latte cup with steam (in panel 6)",
+    "Sugar packet icon (in panel 6, upper right relative to latte cup)",
+    "Portafilter"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

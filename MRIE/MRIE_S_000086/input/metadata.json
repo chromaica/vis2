@@ -1,0 +1,27 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Chat and Social Messaging",
+  "prompt": "In the first image, replace the last missed call message with a text bubble saying 'Sorry, I missed your calls!' followed by the sad tear emoji from second image (second row in the middle), and change the profile picture in the top left to the man in third image, keeping all replacements aligned with the original sizes and positions in the first image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the WhatsApp chat screenshot provided as image 1.\nFirst, locate the very last \"Panggilan suara tak terjawab pukul 07.43\" message bubble at the bottom of the chat list. Replace this entire message bubble with a new chat bubble containing the text 'Sorry, I missed your calls!'. Immediately following this text, add the sad tear emoji, which is depicted in the second row, middle position of image 2. Ensure this new text bubble adopts the visual style of a standard chat message and maintains the exact size and position of the original missed call notification it replaces.\nSecond, update the circular profile picture in the top-left corner of image 1, next to 'momzky.', by replacing it with the face of the man from image 3. This new profile picture must retain the original circular shape, size, and precise placement of the existing profile picture in image 1.",
+  "annotator": "parnian",
+  "objects": [
+    "WhatsApp chat screen layout",
+    "Top status bar (with time, signal, battery)",
+    "Top header bar (with 'momzky.' and icons)",
+    "Circular profile picture with the face of the man (from image 3) in the top-left corner",
+    "'Kemarin' date separator",
+    "Multiple 'Panggilan suara tak terjawab' message bubbles (excluding the last one)",
+    "New chat bubble containing text 'Sorry, I missed your calls!' and a sad tear emoji",
+    "Bottom input bar (with plus icon, text input field, microphone icon, send icon)",
+    "Original circular profile picture (should not be present)",
+    "The very last 'Panggilan suara tak terjawab pukul 07.43' message bubble (should not be present)"
+  ],
+  "human_annotation": true
+}

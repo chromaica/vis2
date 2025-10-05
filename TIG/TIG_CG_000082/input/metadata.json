@@ -1,0 +1,16 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "Depth maps",
+  "prompt": "A depth map of a road merge, showing the merging lane from the right midground (gray), main highway stretching from the center foreground (bright) to the background (dark), with cars positioned along the merging lane.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a grayscale depth map depicting a road merge. The main highway occupies the center, starting bright in the foreground and progressively darkening as it extends into the background. A merging lane enters the scene from the right midground, rendered in a uniform medium gray. Multiple cars are positioned along this merging lane, their grayscale values consistent with the lane's depth.",
+  "annotator": "maxku",
+  "objects": [
+    "Main highway, occupying the center",
+    "Merging lane, entering from the right midground",
+    "Multiple cars, positioned along the merging lane"
+  ],
+  "human_annotation": true
+}

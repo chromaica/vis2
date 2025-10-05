@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "Edit image 1, the school map, by rendering it in a clean, professional architectural style similar to image 3. Detail the interior rooms with furniture layouts and finishes akin to the style shown in image 2, and add detailed exterior landscaping and vehicles around the building perimeter like in image 3.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Transform the school map in image 1 into a highly detailed, professional architectural floor plan rendering, adopting the clean, crisp style, precise line work, and realistic coloring from image 3. Populate all interior rooms (classrooms, offices, infirmary, bathrooms, lobby, and hallways) with appropriate and detailed furniture layouts and realistic material finishes (e.g., floor textures, wall treatments), emulating the style and level of detail shown in image 2. Extend the rendered area beyond the building's perimeter to include extensive, detailed exterior landscaping (e.g., lawns, trees, shrubs, pathways) and parked vehicles (e.g., cars, school buses) along the exterior or in designated parking zones, all consistent with the realism and detail of image 3.",
+  "annotator": "maxku",
+  "objects": [
+    "School building floor plan layout",
+    "Classrooms (Grade 1-8)",
+    "School Infirmary",
+    "Offices (Teacher's, Dean's)",
+    "Bathrooms (Male, Female)",
+    "Lobby",
+    "Hallways",
+    "Detailed interior furniture layouts",
+    "Realistic interior material finishes (e.g., floor textures, wall treatments)",
+    "Extensive exterior landscaping (e.g., lawns, trees, shrubs, pathways) and parked vehicles (e.g., cars, school buses)"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "subtopic": "Software interfaces",
+  "prompt": "A realistic screenshot of a modern code editor interface, featuring a light theme and python code about recursion inspired by the reference image style, displaying example code within the UI.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://miro.medium.com/v2/resize:fit:1400/0*rui8kxxAAAjthyjY.png",
+  "promptGeneratedTimestamp": 1749421974797,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a realistic screenshot of a modern code editor interface featuring a clean light theme. The layout should mirror image 1, with a primary code editing pane on the left and an integrated chat or AI assistant panel on the right. The main code pane should display example Python code clearly illustrating a recursive function (e.g., Fibonacci sequence or factorial), complete with syntax highlighting and line numbers. The application window should include a minimalist macOS-style title bar with traffic light buttons positioned at the top-left, consistent with the overall aesthetic of image 1.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Modern code editor application window",
+    "Clean light theme",
+    "Primary code editing pane on the left",
+    "Integrated chat or AI assistant panel on the right",
+    "Example Python code illustrating a recursive function",
+    "Syntax highlighting",
+    "Line numbers",
+    "Minimalist macOS-style title bar",
+    "Traffic light buttons on the top-left"
+  ]
+}

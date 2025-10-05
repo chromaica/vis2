@@ -1,0 +1,22 @@
+{
+  "subtopic": "Physics Simulation",
+  "prompt": "Simulate the effect of wind blowing the purple particles strongly towards the right side of the image.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751801887385,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1. Modify the scene to depict the purple flower-like particles, currently surrounding the orange sphere, being strongly blown by wind towards the right side of the image. The particles should show a clear directional flow and elongation consistent with strong air currents moving them to the right.",
+  "annotator": "edisy",
+  "objects": [
+    "orange sphere",
+    "purple flower-like particles",
+    "particles exhibiting strong directional flow to the right",
+    "particles exhibiting elongation",
+    "black background",
+    "grey bounding box lines"
+  ]
+}

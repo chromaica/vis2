@@ -1,0 +1,28 @@
+{
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Generate an information graphic: a combination chart using the bar and line graph structure from image 1, augmented with data points shown as variable-sized bubbles as seen in image 2, on a shared axis layout.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "Diagrams charts graphs examples",
+  "searchQueryGeneratedTimestamp": 1751990536630,
+  "promptGeneratedTimestamp": 1751990814963,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "I",
+  "annotator": "htwong",
+  "prompt_refined": "Generate an information graphic. Create a combination chart that integrates the bar and line graph structure from image 1, including its dual Y-axes and shared X-axis for time series data. Overlay this primary chart with additional data points represented as variable-sized bubbles, adopting the visual style and appearance of the bubbles in image 2. Ensure these bubbles are plotted within the same overall coordinate system, utilizing the shared X-axis and an appropriate Y-axis from the combined chart.",
+  "objects": [
+    "Bar graph series",
+    "Line graph series",
+    "Variable-sized bubbles (with visual style of Image 2)",
+    "Shared X-axis (time-series)",
+    "Left Y-axis",
+    "Right Y-axis",
+    "Chart legend",
+    "Grid lines",
+    "Chart title"
+  ]
+}

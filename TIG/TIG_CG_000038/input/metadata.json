@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "A segmentation mask of a person standing, with precise labels for head, torso, arms, legs, hands, and feet. Background should be labeled separately.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a clear segmentation mask image of a full-body person standing upright. Each distinct body part \u2013 head, torso, arms, legs, hands, and feet \u2013 must be accurately segmented and represented by a unique, solid color. The background should be segmented separately and depicted as another unique, solid color, distinct from all body parts.",
+  "annotator": "maxku",
+  "objects": [
+    "Segmented head",
+    "Segmented torso",
+    "Segmented arms",
+    "Segmented legs",
+    "Segmented hands",
+    "Segmented feet",
+    "Segmented background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

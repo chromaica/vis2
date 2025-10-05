@@ -1,0 +1,32 @@
+{
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "Edit image 1 using semantic segmentation: Replace the basketball with the corn cob from image 5. Replace the basketball hoop with the blue shovel collection from image 3. Apply the texture of the cream from image 4 onto the main player's jersey. Incorporate the shopping cart scene from image 2 into the background crowd area.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg",
+    "4.jpeg",
+    "5.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749489681771,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit the provided image of the basketball game (image 1) by performing the following modifications:\n1.  Replace the basketball, currently in the main player's raised hand, with the corn cob object extracted from image 5.\n2.  Substitute the basketball hoop and net assembly, located in the upper right of image 1, with the collection of blue shovels depicted in image 3. Ensure the shovels are arranged to occupy the hoop's original spatial position.\n3.  Apply the distinct visual texture of the cream covering the face in image 4 onto the entire red jersey worn by the main player (number 24) in image 1, making the jersey appear to be covered in or made of this cream substance.\n4.  Incorporate the complete shopping cart scene from image 2, including the man, the shopping cart, and the children, into the background crowd area of image 1, seamlessly blending it with the existing spectators and background elements.",
+  "annotator": "winston",
+  "objects": [
+    "main player (number 24)",
+    "corn cob in main player's hand",
+    "red jersey covered in cream",
+    "collection of blue shovels in upper right",
+    "basketball (should not be present)",
+    "basketball hoop and net assembly (should not be present)",
+    "man pushing shopping cart in background",
+    "shopping cart with children in background",
+    "basketball court",
+    "other players and background spectators"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

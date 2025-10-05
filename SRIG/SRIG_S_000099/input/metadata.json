@@ -1,0 +1,24 @@
+{
+  "subtopic": "Games",
+  "prompt": "Turn this classic simcity gameplay screenshot into a 3D, photorealistic all new designed Simcity gameplay screenshot in 2025.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "https://static.ferrovial.com/wp-content/uploads/sites/3/2019/07/13143251/portada-2.jpg",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a 3D, photorealistic SimCity gameplay screenshot set in 2025, using image 1 as a reference for the foundational city layout and elements. The output should re-envision the classic 2D pixel art style of image 1 into a highly detailed, modern urban landscape with realistic textures, contemporary architecture, and dynamic natural lighting. Preserve the isometric camera angle and the overall arrangement of city blocks, diverse building types, distinct residential, commercial, and industrial zones, roads, bridges, water bodies, and forested areas as depicted in image 1. The user interface (UI) prominently displayed on the left side of image 1 must also be modernized, rendered in a photorealistic style, and seamlessly integrated into the updated scene.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Modernized user interface (UI) on the left side",
+    "Photorealistic 3D urban landscape with an isometric camera angle",
+    "Overall arrangement of city blocks preserved from image 1",
+    "Distinct urban zones (residential, commercial, industrial) with diverse contemporary architecture",
+    "Road network",
+    "Bridges",
+    "Water bodies",
+    "Forested areas",
+    "Modernized stadium building",
+    "Modernized Capitol-like building"
+  ]
+}

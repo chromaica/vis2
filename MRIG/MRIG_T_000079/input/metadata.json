@@ -1,0 +1,23 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Create a coffee brand using the 'COFFEE' logo in the first image and the roasted coffee beans close-up from the second.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a coffee brand graphic. Overlay the distinct 'COFFEE' logo from image 1 onto a background formed by the close-up of roasted coffee beans from image 2. Ensure the logo remains clear and legible, centrally positioned, against the rich, textured bean pattern.",
+  "annotator": "parnian",
+  "objects": [
+    "'COFFEE' text",
+    "Rectangular frame",
+    "Three coffee bean symbols",
+    "Roasted coffee beans background",
+    "Textured bean pattern",
+    "Centrally positioned 'COFFEE' logo"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

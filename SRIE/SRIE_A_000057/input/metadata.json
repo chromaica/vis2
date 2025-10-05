@@ -1,0 +1,26 @@
+{
+  "subtopic": "Digital arts",
+  "prompt": "Edit image 1: Add some humans climbing (like those in imagae 2) next to the waterfalls. The newly added rope and humans should draw in the same style as image 1/",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "Digital arts artwork reference",
+  "searchQueryGeneratedTimestamp": 1748651205581,
+  "promptGeneratedTimestamp": 1748651357883,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1: Add multiple human figures climbing, specifically alongside the central or right waterfalls. The figures should emulate the dynamic climbing poses and stylized, minimalist forms of the wire sculptures seen in image 2, but be rendered in the painterly art style of image 1. Include ropes for climbing, also matching image 1's aesthetic.",
+  "annotator": "kellycyy",
+  "objects": [
+    "Multiple human figures",
+    "Ropes for climbing",
+    "Central waterfall",
+    "Right waterfall",
+    "Dynamic climbing poses",
+    "Stylized, minimalist forms",
+    "Painterly art style"
+  ]
+}

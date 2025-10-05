@@ -1,0 +1,23 @@
+{
+  "subtopic": "Depth maps",
+  "prompt": "Apply a specific colormap, such as 'viridis' or 'plasma', to the grayscale depth map to visually represent distances with color gradients.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751762957247,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1, which is a grayscale depth map of a building scene. Apply a colormap, such as 'viridis' or 'plasma', to this image to visually represent the distances and depths with continuous color gradients.",
+  "annotator": "edisy",
+  "objects": [
+    "main building",
+    "windows",
+    "secondary building",
+    "trees/foliage",
+    "ground plane",
+    "background area",
+    "colormapped representation of depth"
+  ]
+}

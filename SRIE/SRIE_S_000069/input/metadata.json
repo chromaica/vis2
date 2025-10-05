@@ -1,0 +1,28 @@
+{
+  "subtopic": "Receipts",
+  "prompt": "Edit image 1: Transform the generic receipt into a Starbucks receipt by applying the green color scheme, font style, and transaction details (like item, price, store location) seen in image 2.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751007424378,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit image 1 to transform the generic receipt into a Starbucks-branded receipt. Apply the distinctive green and white color scheme and the font styles from image 2 across the entire receipt.\nSpecifically:\n- Replace the 'SHOPNAME' header and date/time (Mon 05/04/2018 11:25AM) in image 1 with the Starbucks logo and store information ('Louisiana & McGowen', address, and 'Today at 8:56 AM') as depicted in the upper section of image 2.\n- Convert the generic item list (e.g., 'Lorem ipsum', 'dolor sit amet') in image 1 to reflect the 'ITEM' and 'AMOUNT' column structure and appearance of the transaction details shown in image 2, including example Starbucks items and their prices.\n- Update the 'Tax' and 'TOTAL' sections at the bottom of image 1 to match the 'Total' section's styling, content (e.g., 'My Card (234)'), and green font from image 2.",
+  "annotator": "ishengfang",
+  "objects": [
+    "White receipt paper with jagged edges",
+    "Starbucks logo",
+    "Starbucks store name and address (e.g., \"Louisiana & McGowen\", \"2625 Louisiana Street Houston, TX 77006\")",
+    "Starbucks transaction date and time (\"Today at 8:56 AM\")",
+    "\"SHOPNAME\" header (should not be present)",
+    "Generic numbered item list (e.g., \"Lorem ipsum\", \"$15.99\") (should not be present)",
+    "\"ITEM\" and \"AMOUNT\" column headers",
+    "Starbucks item details (e.g., \"In-Store Purchase Iced White Chocolate Mocha\", \"$2.33\")",
+    "\"Tax\" and \"TOTAL\" sections with numeric values (from Image 1) (should not be present)",
+    "\"Total\" amount \"$3.33\" in green font, with \"My Card (234)\" and \"$5.90\" payment details"
+  ],
+  "human_annotation": true
+}

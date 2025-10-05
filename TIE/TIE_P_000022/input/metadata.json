@@ -1,0 +1,26 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Medical images",
+  "prompt": "create a dying versions for the Metastatic Melanoma Cells found in the image",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 to depict the Metastatic Melanoma Cells in a dying state. Show clear visual signs of cell death, such as cell shrinkage, membrane blebbing (forming irregular protrusions), nuclear condensation or fragmentation (changes to the blue central regions), and a general breakdown or disorganization of the cytoplasm (the green speckles and red/yellow outer membranes appearing less defined or fragmented). The overall image should maintain a photorealistic microscopic appearance, conveying cells undergoing processes like apoptosis or necrosis.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Metastatic Melanoma Cells",
+    "Cells in a dying state",
+    "Shrunken cells",
+    "Membrane blebbing",
+    "Irregular protrusions on cell boundaries",
+    "Condensed nuclei",
+    "Fragmented nuclei",
+    "Disorganized cytoplasm",
+    "Fragmented cell membranes",
+    "Photorealistic microscopic appearance"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Convert the scene found in the image into night scene, and people standing at each levels cheering for the singer taken from the point of view of this angle",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 to transform the bright, daytime interior into a dramatic night scene. Change the ambient lighting to artificial sources, creating atmospheric shadows and highlights on the multi-level, curved wooden balconies. The skylights at the top should reflect a dark night. On each visible curved balcony level, add a dense crowd of people standing along the railings, facing inwards towards the central lower area, actively cheering. Introduce a single singer performing on a brightly lit stage within the central circular opening at the very bottom of the image, maintaining the original high-angle, top-down perspective.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Multi-level, curved wooden balconies",
+    "Skylights reflecting a dark night",
+    "Artificial lighting sources",
+    "Atmospheric shadows and highlights",
+    "Dense crowd of people standing along the railings on each visible curved balcony level",
+    "Single singer performing on stage",
+    "Brightly lit stage",
+    "Central circular opening at the very bottom of the image"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

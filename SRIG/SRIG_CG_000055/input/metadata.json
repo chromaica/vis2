@@ -1,0 +1,27 @@
+{
+  "subtopic": "CAD models",
+  "prompt": "Generate a highly detailed CAD model rendering of a vintage camera, specifically inspired by the design, textures, and proportions of the camera in the reference image, presented as a clean product shot.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://live.staticflickr.com/7202/6888589297_8c470d371e_b.jpg",
+  "promptGeneratedTimestamp": 1748768263310,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a highly detailed CAD model rendering of a vintage camera, specifically referencing the design, textures, and proportions of the camera depicted in image 1. The rendered camera should feature a two-tone body with a smooth, reflective silver finish on the top and bottom sections, contrasting with a black, finely pebbled leatherette texture on the central grip area, consistent with image 1. Include a prominent central lens with visible numerical and textual markings, such as \"COLOR GOTAR\" and \"RECTAMAT\". The front face should also incorporate a rectangular viewfinder/flash array near the top-center, and a distinct red emblem with a 'K' symbol on the front-right side, mirroring the details found in image 1. Present this as a clean, professionally lit product shot, with the camera positioned centrally on a plain white background.",
+  "annotator": "ishengfang",
+  "objects": [
+    "vintage camera",
+    "two-tone camera body (silver top and bottom sections, black central grip area)",
+    "smooth, reflective silver finish on top and bottom sections",
+    "black, finely pebbled leatherette texture on central grip area",
+    "prominent central lens",
+    "visible numerical and textual markings on lens (e.g., \"COLOR GOTAR\", \"RECTAMAT\")",
+    "rectangular viewfinder/flash array near the top-center",
+    "distinct red emblem with a 'K' symbol on the front-right side",
+    "camera positioned centrally",
+    "plain white background"
+  ],
+  "human_annotation": true
+}

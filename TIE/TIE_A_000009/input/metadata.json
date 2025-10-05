@@ -1,0 +1,26 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Pixel arts",
+  "prompt": "Add a tiny pond to the bottom of the waterfalls. Then, add the splash effect to the waterfall.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 by adding a small pond at the base of each waterfall, ensuring realistic water splash effects are visible where the water meets the surface of these new ponds.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Sky",
+    "Clouds",
+    "Trees",
+    "Rocky cliffs",
+    "Waterfalls",
+    "Small ponds at the base of each waterfall",
+    "Water splash effects",
+    "Ground",
+    "Stone idol",
+    "Birds"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

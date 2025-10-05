@@ -1,0 +1,23 @@
+{
+  "subtopic": "Typography",
+  "prompt": "A Textual Graphics and Typography composition using the silhouette shape from the reference image, filled with expressive letterforms and design elements.",
+  "cond_images": [
+    "1.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1750705330540,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "T",
+  "annotator": "winston",
+  "prompt_refined": "Generate a textual graphics and typography composition where the central form is the complete silhouette of the woman from image 1. This silhouette must be intricately filled with dynamic, expressive letterforms and diverse abstract typographic design elements, forming a cohesive and visually impactful artwork.",
+  "objects": [
+    "textual graphics and typography composition",
+    "complete silhouette of the woman from image 1",
+    "dynamic letterforms filling the silhouette",
+    "expressive letterforms filling the silhouette",
+    "diverse abstract typographic design elements filling the silhouette"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,25 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Convert this chart into a bar chart.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Transform the pie chart shown in image 1 into a vertical bar chart. The new bar chart should accurately represent the same data: 'Red' at 50.0%, 'Green' at 33.3%, and 'Yellow' at 16.7%. Retain the title 'Distribution of Apple Colors in Our Orchard'. The x-axis should be labeled 'Apple Color' and display the categories 'Red', 'Green', and 'Yellow'. The y-axis should be labeled 'Percentage' and include appropriate numerical values up to 50%. Each bar should be colored to match its corresponding color in the original pie chart: the 'Red' bar should be red, the 'Green' bar should be green, and the 'Yellow' bar should be yellow.",
+  "annotator": "cwhsu",
+  "objects": [
+    "\"Distribution of Apple Colors in Our Orchard\" title",
+    "red vertical bar",
+    "green vertical bar",
+    "yellow vertical bar",
+    "X-axis line",
+    "X-axis label 'Apple Color'",
+    "X-axis categories 'Red', 'Green', 'Yellow'",
+    "Y-axis line",
+    "Y-axis label 'Percentage'",
+    "Y-axis numerical values up to 50%"
+  ],
+  "human_annotation": true
+}

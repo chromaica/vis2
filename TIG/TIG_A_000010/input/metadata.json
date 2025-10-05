@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Traditional art",
+  "prompt": "A classic watercolor scene of a bustling Parisian street market, filled with vibrant stalls and lively characters.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a classic watercolor painting depicting a bustling Parisian street market. The scene is densely populated with vibrant market stalls in the foreground and midground, showcasing colorful arrays of fresh produce, blooming flowers, and artisanal goods. Numerous lively characters, including vendors interacting with shoppers and pedestrians browsing, are distributed throughout the scene, contributing to the active atmosphere. The artwork should exhibit soft, translucent watercolor washes with visible brushstrokes, capturing the classic aesthetic.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Parisian street market",
+    "Market stalls in the foreground",
+    "Market stalls in the midground",
+    "Fresh produce arrays",
+    "Blooming flower displays",
+    "Artisanal goods displays",
+    "Vendors",
+    "Shoppers",
+    "Pedestrians"
+  ]
+}

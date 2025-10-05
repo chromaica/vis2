@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "Nestle the sun behind the word \u201cSUMMER,\u201d so rays peek out around the letters.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Incorporate the stylized sun from image 2, positioning it directly behind the word \"SUMMER\" on the central orange banner. Ensure the sun's rays are visible, extending and peeking out around the individual letters of \"SUMMER.\"",
+  "annotator": "matina",
+  "objects": [
+    "Orange banners",
+    "\"END OF SEASON\" text",
+    "\"SUMMER\" text",
+    "\"SALE\" text",
+    "\"DISCOUNT UP TO 80% off\" text",
+    "Sunglasses",
+    "Tropical leaves and fronds",
+    "Gradient background",
+    "Stylized sun positioned directly behind the word \"SUMMER\"",
+    "Sun's rays extending and peeking out around the individual letters of \"SUMMER\""
+  ]
+}

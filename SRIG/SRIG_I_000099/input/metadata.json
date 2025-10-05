@@ -1,0 +1,26 @@
+{
+  "subtopic": "Maps",
+  "prompt": "Generate a 3D-style, realistic office floor plan based on the given 2D-style office floor plan.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "https://wpmedia.roomsketcher.com/content/uploads/2021/12/10111151/RoomSketcher-Office-Floor-Plan-PID2417478-2D-with-Labels.jpg",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate a detailed, realistic 3D isometric view of an office interior floor plan based on the provided 2D blueprint in image 1. The output must accurately translate all spatial relationships, room divisions, and furniture placements shown in image 1, including areas like the Cafe/Lounge, Kitchen, Waiting Zone, Reception, various offices, conference rooms, open areas, and utility spaces. Render the environment with realistic textures for walls, floors, and furniture, incorporating natural lighting and shadows to create depth and volume for all architectural elements and furnishings.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Detailed, realistic 3D isometric office interior floor plan",
+    "Cafe/Lounge area with dining tables, chairs, and billiard table",
+    "Kitchen area with island and counters",
+    "Waiting Zone with sofas, lounge chairs, and coffee tables",
+    "Reception area with reception desk and lounge seating",
+    "Multiple private offices (A, B, C) with desks, chairs, and additional seating",
+    "Conference room with large conference table and chairs",
+    "Large open office areas with modular workstations and dividers",
+    "Utility spaces including restrooms, file room, and stairs",
+    "Copy Center area with equipment and storage"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

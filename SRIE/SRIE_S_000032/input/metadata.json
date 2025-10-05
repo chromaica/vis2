@@ -1,0 +1,27 @@
+{
+  "subtopic": "Software interfaces",
+  "prompt": "Transform the interface in image 1 into a modern UI by adopting the dark theme, flat design elements, and color palette from image 2's software screenshot.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1750832038156,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit image 1 to transform its user interface into a modern, dark-themed, flat design. Adopt the visual style and color palette from image 2, specifically the dark background, accent yellow for prominent text, and light grey for general text and inactive elements. Update all existing UI components in image 1, including the light grey background, skeuomorphic buttons (like the green rectangular ones), module panels (e.g., 'RF-ZF Empfangsweg', 'Aktueller Satellit'), the clock in the top-left, the title banner ('Usingen Antenne 1 Antennen\u00fcbersicht'), and connecting lines, to a flat aesthetic. Retain the current layout and informational content of image 1 while applying the modern, sleek look of image 2.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Dark-themed UI background",
+    "Updated title banner ('Usingen Antenne 1 Antennen\u00fcbersicht')",
+    "Updated flat design clock and date in top-left",
+    "Updated flat design module panels (e.g., 'RF-ZF Empfangsweg', 'Aktueller Satellit')",
+    "Updated flat design buttons (e.g., 'Fern', 'Ort', 'Auto', 'Hand', 'EU-LTV', 'SU-LVR', 'Daten speichern')",
+    "Updated left-side navigation menu (containing 'Zugriff Systemadmin', 'Profibus', 'LogOn', 'System', 'Beenden', etc.)",
+    "Updated bottom status bar (containing 'Alarm Quittierung', 'Info', 'Hilfe', 'Sammelanzeige', 'Zur\u00fcck')",
+    "Updated module panel with list of items (e.g., 'Reflektorheizung', 'Energie L\u00fcfter', 'Raumtemperatur')",
+    "Antenna dish image",
+    "Building image"
+  ]
+}

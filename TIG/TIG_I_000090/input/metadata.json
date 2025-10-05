@@ -1,0 +1,19 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "generate a weather map displaying emotional climates across different regions, where storm clouds represent areas of sadness, sunny patches show joy, and rainbow bridges connect zones of hope",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a detailed weather map depicting emotional climates across distinct geographical regions. In the upper-left area, render a prominent zone of sadness characterized by dark, swirling storm clouds. In the lower-right area, illustrate a region of joy with bright, clear blue skies and radiant sun icons. Between central landmasses, create vibrant rainbow bridges arcing to connect areas, symbolizing hope. The map should have a clear cartographic base with topographical features.",
+  "annotator": "theblackcat",
+  "objects": [
+    "weather map format",
+    "cartographic base",
+    "topographical features",
+    "dark, swirling storm clouds in the upper-left area",
+    "bright, clear blue skies in the lower-right area",
+    "radiant sun icons in the lower-right area",
+    "vibrant rainbow bridges arcing between central landmasses"
+  ]
+}

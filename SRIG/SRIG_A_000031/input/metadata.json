@@ -1,0 +1,21 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "Illustrate a futuristic robot meditating in a zen garden",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate an artwork depicting a futuristic robot meditating in a serene zen garden. The robot, reflecting the sleek, minimalist design and light color palette of the robot in image 1, is positioned centrally in a classic cross-legged meditative pose. The zen garden features meticulously raked patterns in light-colored gravel around smooth, dark rocks and sparse green moss. The scene should exude tranquility with soft, diffused lighting.",
+  "annotator": "Johnny",
+  "objects": [
+    "Futuristic robot with sleek, minimalist design and light color palette, positioned centrally in a classic cross-legged meditative pose",
+    "Serene zen garden",
+    "Meticulously raked patterns",
+    "Light-colored gravel",
+    "Smooth, dark rocks",
+    "Sparse green moss",
+    "Soft, diffused lighting"
+  ]
+}

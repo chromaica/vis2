@@ -1,0 +1,27 @@
+{
+  "subtopic": "Game assets",
+  "prompt": "Create stylized, glossy 3D game UI assets and icons inspired by the reference image. Use vibrant purple and gold colors, featuring diverse elements like buttons, progress bars, trophies, and crowns, suitable for a casual mobile game.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://www.shutterstock.com/image-vector/3d-ui-game-asset-set-260nw-2307674159.jpg",
+  "promptGeneratedTimestamp": 1748766865919,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a collection of stylized, glossy 3D game UI assets and icons, inspired by the overall aesthetic and elements in image 1. Utilize a vibrant color palette of rich purple and shimmering gold, accented by white winged elements and a glossy pink heart. The assets should include a variety of user interface components such as shield-shaped and rectangular panels with gold borders or ribbon accents, diverse buttons (square, circular, and rectangular with text labels like 'LEVEL', 'PLAY', 'START', 'NEXT'), horizontal progress bars, golden trophies (some winged), golden crowns (some winged), winged gold stars, a faceted purple gemstone, a golden shield icon, a winged golden gift box, and gold coins. All elements should be suitable for a casual mobile game interface.",
+  "annotator": "ishengfang",
+  "objects": [
+    "UI panels (shield-shaped and rectangular, with gold borders or ribbon accents)",
+    "Diverse buttons (square, circular, rectangular, with text labels like 'LEVEL', 'PLAY', 'START', 'NEXT')",
+    "Horizontal progress bars",
+    "Golden trophies (some winged)",
+    "Golden crowns (some winged)",
+    "Winged gold stars",
+    "Faceted purple gemstone",
+    "Golden shield icon",
+    "Winged golden gift box",
+    "Glossy pink heart"
+  ],
+  "human_annotation": true
+}

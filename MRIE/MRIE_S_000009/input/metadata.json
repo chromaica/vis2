@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Forms and Authentication",
+  "prompt": "In image 1, replace the 'Send' button with the 'send' button from image 2, scaled to fit the same location and size, and add the Google 'G' icon from image 3 to the left side of the email input field scaled proportionally to match surrounding UI elements. All other aspects of the source image should remain unchanged.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the source image, image 1. Replace the purple 'Send' button located in the top-right corner with the teal 'Send' button from image 2, ensuring the replacement matches the original button's precise position and dimensions. Additionally, insert the Google 'G' icon from image 3 to the immediate left of the 'Email' input field in image 1, which is situated below the 'First Name' and 'Last Name' fields. Scale the 'G' icon proportionally to match the size of surrounding UI elements. All other aspects of image 1 must remain unchanged.",
+  "annotator": "parnian",
+  "objects": [
+    "browser window",
+    "Google Forms interface",
+    "\"Registration Form\" title",
+    "First Name input field",
+    "Last Name input field",
+    "Email input field",
+    "teal \"Send\" button in top-right",
+    "Google 'G' icon to the left of the 'Email' input field",
+    "purple \"Send\" button (should not be present)",
+    "\"Customize Theme\" button"
+  ]
+}

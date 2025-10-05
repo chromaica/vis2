@@ -1,0 +1,23 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Cropping",
+  "prompt": "Crop out and enlarge the painting in the image. Fill the output with the enlarged painting, maintain every detail of the painting.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Crop and enlarge the pop art painting visible in image 1. The final output image must be entirely filled by this enlarged painting, preserving all original details, colors, and the distinct pop art style.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Woman with pink hair (pop art style)",
+    "Yellow sunglasses",
+    "\"WOW\" text on sunglasses",
+    "Red lips",
+    "Hand adjusting sunglasses",
+    "Blue earrings",
+    "Light blue clothing strap",
+    "Yellow sunburst background",
+    "Black halftone dots"
+  ]
+}

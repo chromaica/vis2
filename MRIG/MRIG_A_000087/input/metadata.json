@@ -1,0 +1,27 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Cultural or Heritage art",
+  "prompt": "Generate an artwork in the style of image 1, inserting the horse form from image 2 as Pegasus, flying above a battle scene.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate an artwork in the classical Greek black-figure pottery style, consistent with image 1, depicting black silhouetted figures on an orange-ochre background. The central theme is a battle scene. Dominating the upper portion of the image, integrate Pegasus, rendered using the distinct horse silhouette from image 2, shown with powerful wings and in a dynamic flying posture above the unfolding conflict.",
+  "annotator": "samin",
+  "objects": [
+    "Black-figure pottery art style",
+    "Orange-ochre background",
+    "Black silhouetted figures",
+    "Battle scene",
+    "Multiple warriors engaged in conflict",
+    "Weapons (e.g., swords, spears, shields)",
+    "Pegasus",
+    "Pegasus rendered with the horse silhouette from image 2",
+    "Pegasus with powerful wings",
+    "Pegasus in a dynamic flying posture dominating the upper portion of the image"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

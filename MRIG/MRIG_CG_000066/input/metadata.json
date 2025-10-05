@@ -1,0 +1,24 @@
+{
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "Generate a computer graphics image demonstrating semantic/instance segmentation. Use the interior environment from image 1, populated with figures or objects rendered in the style of image 2, visualizing distinct segmented areas and instances.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748423427783,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a computer graphics image. The scene should portray a spacious, modern interior environment, as depicted in image 1, featuring its wooden floors, white walls, and overhead skylight. Populate this space with multiple figures or objects. These elements must be rendered in the hand-drawn watercolor illustration style, characterized by distinct line art and soft color washes, as exemplified in image 2. The image must clearly demonstrate semantic or instance segmentation, with each figure or object's distinct boundaries and areas highlighted using contrasting colors or overlays.",
+  "annotator": "winston",
+  "objects": [
+    "Spacious, modern interior environment",
+    "Wooden floors",
+    "White walls",
+    "Overhead skylight",
+    "Multiple figures or objects",
+    "Figures or objects in hand-drawn watercolor illustration style",
+    "Semantic or instance segmentation visualization for figures or objects"
+  ]
+}

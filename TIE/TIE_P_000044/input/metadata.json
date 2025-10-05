@@ -1,0 +1,23 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Make the clock now points at 20:45",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "its now night time, so the background shouldn't be this bright",
+  "prompt_refined": "Edit image 1. Adjust the hands on the white-faced hanging clock so they indicate a time of 20:45. The minute hand should point directly at the '9', and the hour hand should be positioned between '8' and '9', closer to the '9'.",
+  "annotator": "theblackcat",
+  "objects": [
+    "white-faced hanging clock",
+    "clock face with numbers",
+    "clock housing",
+    "support pole for the clock",
+    "dark overhead structure",
+    "background girders/windows",
+    "minute hand pointing at '9'",
+    "hour hand positioned between '8' and '9', closer to '9'",
+    "\"SEIKO\" brand name on clock face"
+  ]
+}

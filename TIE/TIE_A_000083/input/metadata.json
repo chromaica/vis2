@@ -1,0 +1,25 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Futurism",
+  "prompt": "Turn the picture into cold color tones.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Recolor the entire artwork to feature a predominantly cold color palette. Shift the existing warm hues, such as the reds, oranges, and yellows of the buildings and circular elements, to cool shades of blue, purple, and green, ensuring the geometric shapes and patterns remain distinct.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Geometric cityscape",
+    "Multiple buildings",
+    "Windows on buildings",
+    "Large circular elements with radial patterns",
+    "Smaller concentric circular patterns",
+    "Slanted geometric planes",
+    "Traffic signal-like object",
+    "Stair-like structures",
+    "Text \"ROY\"",
+    "Dark background"
+  ],
+  "human_annotation": true
+}

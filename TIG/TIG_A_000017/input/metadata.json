@@ -1,0 +1,24 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "An abstract digital landscape with swirling pastel colors, integrating geometric shapes and shadowed layers for depth.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A rendered abstract digital landscape featuring dynamic swirls of soft pastel hues, including pink, blue, and violet. Subtly integrate precise geometric forms such as translucent triangles, circles, and rectangular prisms within these flowing colors. Achieve significant visual depth by utilizing multiple overlapping elements and casting soft, atmospheric shadows between distinct layers.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Abstract digital landscape",
+    "Dynamic swirls",
+    "Pink pastel hue",
+    "Blue pastel hue",
+    "Violet pastel hue",
+    "Translucent triangles",
+    "Translucent circles",
+    "Translucent rectangular prisms",
+    "Multiple overlapping elements",
+    "Soft, atmospheric shadows"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,24 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": "Create a space research institute website with deep blue star fields, constellation navigation, 3D planet models, mission timeline interfaces, and real-time satellite data displays",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a high-fidelity screenshot of a futuristic space research institute website interface. The background features deep blue star fields. In the central area, display a prominent, interactive 3D planet model. To the left, include a navigation panel with stylized constellation diagrams for navigation. On the right, incorporate real-time satellite data displays showing orbital paths, telemetry readouts, and holographic elements. At the bottom of the screen, place a sleek, horizontal mission timeline interface.",
+  "annotator": "theblackcat",
+  "objects": [
+    "futuristic space research institute website interface",
+    "deep blue star fields background",
+    "prominent, interactive 3D planet model (in central area)",
+    "navigation panel (to the left)",
+    "stylized constellation diagrams (within navigation panel)",
+    "real-time satellite data displays (on the right)",
+    "orbital paths (within satellite data displays)",
+    "telemetry readouts (within satellite data displays)",
+    "holographic elements (within satellite data displays)",
+    "sleek, horizontal mission timeline interface (at the bottom)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,27 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "Create a tourism poster for Shiraz using the visual style of the first image and featuring the scene from the second image as the main landmark.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a vertical tourism poster for Shiraz. Emulate the distinct graphic and simplified visual style of image 1, characterized by flat color blocks, strong silhouettes, and a restricted color palette typical of vintage travel posters. The primary subject of the poster should be the iconic octagonal pavilion with its dark domed roof from image 2, positioned prominently in the mid-ground, reminiscent of the main building's placement in image 1. Surround the pavilion with stylized elements from the lush garden of image 2, such as cypress trees and blooming flowers, rendered with the same graphic simplicity. At the bottom of the poster, integrate a dark rectangular band with the bold title 'SHIRAZ', mimicking the typography and placement of 'VIENNA' in image 1.",
+  "annotator": "parnian",
+  "objects": [
+    "Vertical poster layout",
+    "Octagonal pavilion with dark domed roof",
+    "Octagonal pavilion positioned prominently in mid-ground",
+    "Stylized cypress trees",
+    "Stylized blooming flowers",
+    "Stylized garden ground/foliage",
+    "Stylized sky",
+    "Stylized distant hills/mountains",
+    "Dark rectangular band at the bottom",
+    "Bold 'SHIRAZ' text on the band"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,17 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "A minimalist collage using monochromatic squares and triangles, meticulously arranged to form a simple yet intriguing contemporary art piece on a matte black backdrop.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A minimalist collage artwork composed of precisely arranged, flat monochromatic grayscale squares and triangles. These geometric shapes form a simple yet intriguing contemporary abstract composition, set against a solid matte black background.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Monochromatic grayscale squares",
+    "Monochromatic grayscale triangles",
+    "Solid matte black background",
+    "Abstract composition",
+    "Collage elements"
+  ]
+}

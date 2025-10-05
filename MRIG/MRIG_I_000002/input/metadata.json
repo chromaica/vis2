@@ -1,0 +1,27 @@
+{
+  "subtopic": "Maps",
+  "prompt": "Generate a map infographic. Render the map elements in the sketchy, hand-drawn style seen in image 2. Overlay data visualizations on the map using the clean digital chart style and vibrant color palette from image 1.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1750574952408,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "I",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a map infographic. The geographical map elements should be rendered in the loose, sketchy, and hand-drawn style with visible line variations, similar to the bar chart examples shown in image 2. Overlay various data visualizations, such as bar charts and pie charts, directly onto this map. These data visualizations must feature a clean, modern digital chart style with smooth shapes and be colored using a vibrant, diverse palette as exemplified by the charts in image 1.",
+  "objects": [
+    "Geographical map",
+    "Hand-drawn map elements",
+    "Sketchy map lines with visible line variations",
+    "Bar charts overlaid on the map",
+    "Pie charts overlaid on the map",
+    "Clean, modern digital chart style",
+    "Smooth chart shapes",
+    "Vibrant color palette for charts",
+    "Data labels",
+    "Chart axes"
+  ]
+}

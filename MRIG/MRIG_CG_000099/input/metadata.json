@@ -1,0 +1,27 @@
+{
+  "subtopic": "CAD models",
+  "prompt": "Generate a detailed CAD model rendering. Use the form factor and internal components layout inspired by the hard drive in image 1. Integrate the electronic interface and screen features found on the device in image 2.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749489946059,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a detailed CAD model rendering of a device that inherits the compact, rectangular form factor and the exposed circuit board layout of the hard drive in image 1. On its top surface, integrate the electronic interface, featuring the small monochrome LCD screen displaying text, the full QWERTY keyboard, and the distinct circular dial, all characteristic of the silver electronic organizer in image 2.",
+  "annotator": "winston",
+  "objects": [
+    "Detailed CAD model rendering",
+    "Compact, rectangular device body",
+    "Exposed circuit board layout",
+    "Small monochrome LCD screen on top surface",
+    "Text displayed on LCD screen",
+    "Full QWERTY keyboard on top surface",
+    "Distinct circular dial on top surface",
+    "Silver-colored interface elements"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Online Meeting Interfaces",
+  "prompt": "In image 1, change the background behind the woman to the soft blue gradient from image 2. Then, in the bottom right corner of the interface, replace the rectangular 'End' button with the red circular phone icon from the top-left of the icon grid in image 3, ensuring the icon maintains its original color and size proportionate to surrounding UI elements.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 by performing two modifications:\n1.  Replace the background behind the woman with the soft blue radial gradient from image 2.\n2.  In the bottom right corner of the user interface, replace the rectangular 'End' button with the red circular 'hang up' phone icon from the top-left of the icon grid in image 3. The new icon must retain its original red color and be scaled proportionately to fit seamlessly within the UI elements of image 1.",
+  "annotator": "parnian",
+  "objects": [
+    "woman",
+    "soft blue radial gradient background",
+    "red circular 'hang up' phone icon in the bottom right corner",
+    "Zoom meeting window frame",
+    "top Zoom UI bar",
+    "bottom Zoom UI bar",
+    "'Join Audio' button",
+    "'Share Screen' button",
+    "'Whiteboards' button",
+    "rectangular 'End' button (should not be present)"
+  ]
+}

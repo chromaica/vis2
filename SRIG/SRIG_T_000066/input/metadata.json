@@ -1,0 +1,21 @@
+{
+  "task": "SRIG",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Create a Drake meme highlighting a common workplace preference: rejecting unnecessary meetings and approving focused, uninterrupted work time.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a Drake meme using image 1 as the visual template. In the top right blank panel of image 1, add the text 'Unnecessary Meetings'. In the bottom right blank panel of image 1, add the text 'Focused, Uninterrupted Work Time'. Ensure the text is clearly legible and styled appropriately for a meme.",
+  "annotator": "Johnny",
+  "objects": [
+    "Drake in disapproving pose (top left panel)",
+    "Drake in approving pose (bottom left panel)",
+    "Orange puffer jacket",
+    "Yellow background",
+    "Text: 'Unnecessary Meetings' in the top right panel",
+    "Text: 'Focused, Uninterrupted Work Time' in the bottom right panel",
+    "Black meme template borders"
+  ]
+}

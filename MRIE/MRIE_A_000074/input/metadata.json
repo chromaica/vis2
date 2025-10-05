@@ -1,0 +1,25 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "In image 1, replace the flower with the flower from image 2, and replace the bird with the butterfly from image 3.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the prominent red flower on the subject's head with the large purple flower from image 2. Additionally, replace the small bird located on the horizontal line to the right of the subject with the blue butterfly from image 3.",
+  "annotator": "paria",
+  "objects": [
+    "subject (woman with head and shoulders in a shiny dress)",
+    "patterned background (light green/blue and pink floral)",
+    "white textured background",
+    "horizontal line to the right of the subject",
+    "artist's signature \"Mayakov 02.2017\"",
+    "large purple flower (on the subject's head)",
+    "blue butterfly (on the horizontal line to the right of the subject)",
+    "prominent red flower (should not be present)",
+    "small bird (should not be present)"
+  ]
+}

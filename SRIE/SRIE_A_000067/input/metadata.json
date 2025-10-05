@@ -1,0 +1,25 @@
+{
+  "subtopic": "Digital arts",
+  "prompt": "Edit image 1: Apply the dynamic, glowing digital art style of image 2 to fill the letters 'ART', replacing the current textured fill with vibrant lines and colors.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748652893437,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1: Replace the current textured artwork filling the letters 'ART' with a luminous, dynamic digital art style. The new fill should feature vibrant, glowing lines and abstract light patterns, similar to the radiant, flowing aesthetic seen in image 2.",
+  "annotator": "kellycyy",
+  "objects": [
+    "Letters 'ART'",
+    "White background",
+    "Textured artwork filling the letters (should not be present)",
+    "Luminous fill within the letters 'ART'",
+    "Vibrant, glowing lines within the letters 'ART'",
+    "Abstract light patterns within the letters 'ART'",
+    "Flowing aesthetic within the letters 'ART'"
+  ],
+  "human_annotation": true
+}

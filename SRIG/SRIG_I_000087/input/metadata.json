@@ -1,0 +1,24 @@
+{
+  "subtopic": "Visual instructions and manuals",
+  "prompt": "From the car dashboard layout, design a manual page explaining four common features with corresponding meanings.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://miro.medium.com/v2/resize:fit:2000/1*phVpbFCnfAPkKPPULod_Tg.jpeg",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate a page from a car's user manual, presented as an information graphic. This page should clearly explain four common features derived from the car dashboard layout shown in image 1. For each feature, create a distinct section including its visual representation (e.g., icon or relevant dashboard element from image 1), a concise title, and a brief description of its function and meaning.\n\nSpecifically, include explanations for the following four features observed in image 1:\n1.  **Navigation Display:** Focus on the map interface on the left side of image 1, showing the current location, destination (e.g., 'Isle of Skye'), and route details (distance, time).\n2.  **Battery Status and Range Indicator:** Detail the green battery bar and numeric percentage (e.g., '100%') along with the estimated remaining mileage (e.g., '235 miles') at the top-center of image 1.\n3.  **Digital Speedometer and Speed Limit Display:** Explain the current speed reading (e.g., '45 mph') and the displayed maximum speed limit (e.g., 'Max 60') located in the top-right panel of image 1.\n4.  **Vehicle Proximity Visualization:** Describe the top-down view of the white car on the middle-right side of image 1, specifically explaining the purpose of the colored arcs (green and orange) around the car, which indicate proximity warnings or parking assistance.\n\nThe overall design of the manual page should be clean, technical, and easily digestible, consistent with a modern vehicle's instructional material, leveraging the visual style of image 1 where appropriate.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Map interface with route",
+    "Current location and destination markers",
+    "Green battery bar with percentage",
+    "Numeric mileage display",
+    "Digital speed reading (e.g., '45 mph')",
+    "Circular speed limit sign (e.g., 'Max 60')",
+    "Top-down view of a white car",
+    "Green and orange proximity arcs around the car",
+    "Distinct sections for each feature explanation",
+    "Text descriptions and titles for features"
+  ]
+}

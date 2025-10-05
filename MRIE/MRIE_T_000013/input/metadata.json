@@ -1,0 +1,27 @@
+{
+  "task": "MRIE",
+  "topic": "T",
+  "subtopic": "Newspaper",
+  "prompt": "Changing all the occurance of 'King George V' into 'Queen Elizabeth II'. Then, replace the image of King George V with the image of Queen Elizabeth II from the second image. Finally, replace all the occurance of 'King Edward VIII' with 'King Charles III', and replace King Edward's image with the third image.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the provided newspaper image (Image 1). First, replace all occurrences of the text 'King George V' within the newspaper content with 'Queen Elizabeth II'. Concurrently, replace the portrait of King George V, located on the left side of the newspaper, with the image of Queen Elizabeth II from Image 2, ensuring it is appropriately scaled and integrated into the newspaper layout. Second, replace all occurrences of the text 'King Edward VIII' within the newspaper content with 'King Charles III'. Concurrently, replace the portrait of King Edward VIII, located on the right side of the newspaper, with the image of King Charles III from Image 3, ensuring it is also appropriately scaled and integrated into its section.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Newspaper layout",
+    "Newspaper article text",
+    "Portrait of Queen Elizabeth II (on the left side)",
+    "Portrait of King Charles III (on the right side)",
+    "Text 'Queen Elizabeth II' (within newspaper content)",
+    "Text 'King Charles III' (within newspaper content)",
+    "Headline \"EMPIRE MOURNS DEATH OF KING\"",
+    "Headline \"PEACEFUL END TO SHORT ILLNESS\"",
+    "Headline \"FAMILY GATHERED AT BEDSIDE\"",
+    "Headline \"MONARCH BELOVED THROUGHOUT THE WORLD\""
+  ],
+  "human_annotation": true
+}

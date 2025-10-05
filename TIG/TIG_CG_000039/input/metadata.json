@@ -1,0 +1,19 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "A segmentation label map of a cluttered desktop, dividing regions into keyboard, mouse, monitor, books, cups, and background.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A top-down segmentation label map of a cluttered desktop. A computer monitor is centered at the back of the desk, with a keyboard directly in front of it and a mouse to the right. Multiple books and cups are scattered randomly across the remaining desk area, creating a cluttered appearance. Each distinct region for the monitor, keyboard, mouse, books, cups, and the desktop background should be represented by a solid, uniform color.",
+  "annotator": "maxku",
+  "objects": [
+    "desktop background",
+    "computer monitor (centered at the back of the desk)",
+    "keyboard (directly in front of the monitor)",
+    "mouse (to the right)",
+    "books (multiple, scattered)",
+    "cups (multiple, scattered)"
+  ],
+  "human_annotation": true
+}

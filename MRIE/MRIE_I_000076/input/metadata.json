@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "Edit image 1's medical website UI: Replace the 'Dental' service card's tooth icon with the pink tooth icon from image 2. Replace the large hero image of the doctor with the dentist portrait from image 3.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the medical website UI in image 1. Replace the existing black tooth icon in the 'Dental' service card, located in the 'Our Medical Services' section at the bottom of the page, with the vibrant pink tooth icon from image 2. Simultaneously, replace the large hero image of the male doctor wearing a mask, positioned on the right side of the main header section, with the portrait of the female dentist from image 3.",
+  "annotator": "maxku",
+  "objects": [
+    "Medical website UI layout",
+    "Website header with navigation and 'Mark Adam' profile",
+    "\"Your Health Our Priority\" main heading",
+    "Portrait of the female dentist on the right side of the main header",
+    "Male doctor wearing a mask (should not be present)",
+    "\"Our Medical Services\" section title",
+    "'Emergency Care' service card with green cross icon",
+    "'Surgical Care' service card with purple heart rate icon",
+    "'Medical Services' service card with blue pills icon",
+    "'Dental' service card with vibrant pink tooth icon"
+  ]
+}

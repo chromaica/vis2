@@ -1,0 +1,21 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "QR codes",
+  "prompt": "Replace the central face with a minimalist artistic icon, such as a geometric shape, ensuring it maintains the QR code's scannability.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. In the center of the QR code, replace the current face, which is enclosed within a hexagonal frame, with a minimalist artistic icon. This icon should be a simple geometric shape, and the modification must ensure the QR code remains fully scannable.",
+  "annotator": "cwhsu",
+  "objects": [
+    "QR code",
+    "\"SCAN ME\" text",
+    "\"JAMESBACHINI.COM\" text",
+    "Minimalist artistic icon in the center of the QR code",
+    "Simple geometric shape (icon's form)",
+    "Dark border/background",
+    "Current face within a hexagonal frame (should not be present)"
+  ]
+}

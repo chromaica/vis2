@@ -1,0 +1,21 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Digital arts",
+  "prompt": "A digital artwork depicting the castle silhouette structure from image 1, rendered in the flat illustration style and color palette of image 2, set against a night sky with a large moon like in image 2.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a digital artwork. The image should depict a black silhouette of a fairytale castle, precisely replicating the detailed structure from image 1. This castle silhouette should be prominently positioned against a dark, deep green night sky, which features subtle small stars. A very large, prominent full moon, mirroring the scale and central placement of the moon in image 2, should be centered in the background. The entire scene must be rendered in the distinctive flat illustration style and utilize the muted green, grey, and white color palette observed in image 2. The castle should appear grounded on a dark, silhouetted landscape feature, similar to the foreground hills in image 2.",
+  "annotator": "samin",
+  "objects": [
+    "black silhouette of a fairytale castle",
+    "dark, deep green night sky",
+    "subtle small stars",
+    "very large, prominent full moon",
+    "dark, silhouetted landscape feature"
+  ],
+  "human_annotation": true
+}

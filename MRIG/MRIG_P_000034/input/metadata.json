@@ -1,0 +1,22 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Generate a sphinx where the human head and face match the style, expression, and details (e.g., pharaoh-like headdress) of the human in the first reference image, and the lion\u2019s body matches the fur, build, and colors of the lion in the second reference image. Blend the head and body seamlessly. Place the sphinx crouched in a desert with ancient ruins under a starry night, in a realistic, cinematic style.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic and cinematic image of a sphinx. The human head and face should possess the elegant facial structure, dark skin tone, striking features, and neutral expression observed in the person from image 1, further enhanced with an elaborate pharaoh-like headdress. The lion's body should accurately reflect the muscular build, full shaggy mane, and distinct golden-brown fur with lighter underparts of the male lion from image 2. Seamlessly blend the human head with the lion's body. Position the sphinx in a crouched pose within a vast desert landscape, surrounded by ancient, crumbling ruins, all under a clear, star-filled night sky.",
+  "objects": [
+    "Sphinx (in a crouched pose)",
+    "Human head (with elegant facial structure, dark skin tone, striking features, and neutral expression)",
+    "Elaborate pharaoh-like headdress",
+    "Lion's body (with muscular build, full shaggy mane, and golden-brown fur with lighter underparts)",
+    "Vast desert landscape",
+    "Ancient, crumbling ruins",
+    "Clear, star-filled night sky"
+  ]
+}

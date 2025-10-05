@@ -1,0 +1,23 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "Edit the icon in image 1. Incorporate the segmented inner design and tech style from image 2 into the core of the icon. Color the background of image 1 using the solid lavender color from image 3.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Modify the graphic in image 1. In the central black circular area of the icon, incorporate the segmented inner design from image 2. This new inner design should include the hourglass shape and surrounding segments, rendered in the tech style, metallic appearance, and lime green and dark grey color palette observed in image 2. Change the white background of image 1 to the solid lavender color from image 3.",
+  "annotator": "maxku",
+  "objects": [
+    "Black diamond icon outline",
+    "White circular ring with cross extensions",
+    "Hourglass shape (lime green, metallic, tech style)",
+    "Segmented surrounding shapes (dark grey, metallic, tech style)",
+    "Solid lavender background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

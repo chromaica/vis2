@@ -1,0 +1,19 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": "create a UI mockup for digital banking platform's dashboard showcases a sleek, intuitive design in teal, blue, and white, with an easy-to-navigate layout that features a sidebar, main content area, and header. Key elements include multi-currency account cards, financial charts, a quick transfer feature, and an AI insights panel, all presented in clean, minimalistic visuals for a modern, user-friendly experience",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a high-fidelity UI mockup for a modern digital banking platform dashboard. The design should be sleek, minimalistic, and intuitive, rendered primarily in a color palette of teal, blue, and white. The layout features a distinct top header, a prominent left-hand sidebar for navigation, and a spacious central main content area. Within the main content area, prominently display multiple multi-currency account cards near the top. Below these, include interactive financial charts (e.g., line and bar graphs). Also integrate a quick transfer feature, and a dedicated AI insights panel. The overall visual should emphasize cleanliness, user-friendliness, and a streamlined experience with ample white space.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Top header",
+    "Left-hand sidebar for navigation",
+    "Multiple multi-currency account cards",
+    "Interactive financial charts (e.g., line graphs)",
+    "Interactive financial charts (e.g., bar graphs)",
+    "Quick transfer feature",
+    "AI insights panel"
+  ]
+}

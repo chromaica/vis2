@@ -1,0 +1,20 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Medical images",
+  "prompt": "add a meningioma (calcified tumours) the brain found in the xray",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "should have bright spots in the image",
+  "prompt_refined": "Edit image 1, the X-ray of a human skull, by adding a calcified meningioma. The tumor should appear as a distinct, bright, and dense mass, located within the cranial cavity, adjacent to the inner surface of the skull.",
+  "annotator": "theblackcat",
+  "objects": [
+    "X-ray image",
+    "human skull",
+    "calcified meningioma",
+    "cranial cavity",
+    "inner surface of the skull"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,18 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "a scene of GTA 6 game scene where the protagonist is walking beside miami beach",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A hyperrealistic screenshot of a Grand Theft Auto 6 (GTA 6) game scene. The game's protagonist is walking along the shoreline of Miami Beach, with the vast, clear blue ocean on one side and a bustling Miami cityscape, complete with iconic palm trees and art deco buildings, on the other. The scene is brightly lit by daylight.",
+  "annotator": "theblackcat",
+  "objects": [
+    "game's protagonist",
+    "Miami Beach shoreline",
+    "vast, clear blue ocean on one side",
+    "bustling Miami cityscape on the other side",
+    "iconic palm trees",
+    "art deco buildings"
+  ]
+}

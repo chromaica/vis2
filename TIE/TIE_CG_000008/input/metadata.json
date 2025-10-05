@@ -1,0 +1,27 @@
+{
+  "subtopic": "Object detection visuals",
+  "prompt": "Change the color of all green bounding boxes and labels to a vibrant blue.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751817242968,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1. Change the color of all the green bounding box lines and their associated light green rectangular text labels to a vibrant blue. These graphic elements currently highlight various objects such as the tv monitor, bookshelf, stove, and numerous sofas and pillows throughout the room.",
+  "annotator": "edisy",
+  "objects": [
+    "Room interior",
+    "TV monitor",
+    "Bookshelf",
+    "Stove",
+    "Sofas",
+    "Pillows",
+    "Clock",
+    "Desk with lamp",
+    "Plate",
+    "Vibrant blue bounding box lines and text labels"
+  ],
+  "human_annotation": true
+}

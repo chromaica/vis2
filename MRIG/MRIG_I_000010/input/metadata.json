@@ -1,0 +1,29 @@
+{
+  "subtopic": "Maps",
+  "prompt": "Generate a map infographic. Use the clean geographic map style from image 1 as the base, overlaid with data percentage bubbles and various illustrative icons inspired by image 2, representing information points across regions.",
+  "cond_images": [
+    "1.png",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "Infographic map example",
+  "searchQueryGeneratedTimestamp": 1750582297490,
+  "promptGeneratedTimestamp": 1750582411753,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "I",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a map infographic. The base should be a clean, minimalist geographic map with distinct segmented regions, rendered in a flat style similar to image 1. Overlay this map with circular data percentage bubbles, varying in size and displaying numerical values, positioned directly on or adjacent to different geographic regions, drawing inspiration from the data visualization style of image 2. Additionally, integrate a variety of flat, illustrative icons inspired by the diverse symbol set within image 2 (e.g., gears, people, concepts), strategically placed within the segmented map regions to represent specific information points, much like the animal icons in image 1. The final image should convey information clearly within a modern infographic design.",
+  "objects": [
+    "Clean, minimalist geographic map",
+    "Distinct segmented regions on the map",
+    "Circular data percentage bubbles (varying in size)",
+    "Numerical values within circular bubbles",
+    "Flat, illustrative icons",
+    "Icons representing specific information points within map regions",
+    "Gear-shaped icons",
+    "People-shaped icons",
+    "Modern infographic design"
+  ],
+  "human_annotation": true
+}

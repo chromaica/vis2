@@ -1,0 +1,23 @@
+{
+  "subtopic": "Game assets",
+  "prompt": "Generate new low-poly industrial game assets. Use the reference image as a guide for the clean geometric style, variety of buildings, and grid-like collection layout suitable for computer graphics.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://it-s.com/wp-content/webp-express/webp-images/uploads/2020/12/blog-image-3.png.webp",
+  "promptGeneratedTimestamp": 1748772185596,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate new low-poly industrial game assets that emulate the visual style and collection layout from image 1. The assets should feature a clean, crisp geometric design with sharp edges and simplified forms. Use a color palette predominantly of white, grey, and black, accented by bright orange and yellow, similar to image 1. Include a variety of industrial structures such as factory buildings, power plants, processing units, storage facilities, and machinery. Each asset should be presented modularly on an individual square base, arranged in a neat, grid-like collection layout, against a plain, light brown background, suitable for computer graphics.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Low-poly industrial game assets",
+    "Assets with clean, crisp geometric design, sharp edges, and simplified forms",
+    "Color palette predominantly of white, grey, and black, accented by bright orange and yellow",
+    "Variety of industrial structures including factory buildings, power plants, processing units, storage facilities, and machinery",
+    "Assets presented on individual square bases",
+    "Assets arranged in a neat, grid-like collection layout",
+    "Plain, light brown background"
+  ]
+}

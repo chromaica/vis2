@@ -1,0 +1,23 @@
+{
+  "subtopic": "Cultural or Heritage art",
+  "prompt": "Edit image 1: Apply the decorative ceramic tile style and border pattern from image 2 to the central and side text panels in image 1, retaining the original cultural text.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748714735412,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1. Apply the decorative ceramic tile style and border pattern from image 2 to the three ornate text panels in image 1 (the large central panel and the two smaller side panels). Specifically, transform their current backgrounds into the white glazed ceramic surface and their existing frames into the distinctive blue and yellow ornate border pattern, as seen on the tile in image 2. Crucially, ensure all original red cultural characters remain perfectly preserved and are clearly displayed on top of this new ceramic surface.",
+  "annotator": "kellycyy",
+  "objects": [
+    "Original red cultural characters",
+    "Large central text panel with white glazed ceramic surface",
+    "Two smaller side text panels with white glazed ceramic surface",
+    "Blue and yellow ornate border pattern (framing the three panels)",
+    "Ornate architectural structure above the panels",
+    "Decorative elements and carvings surrounding the panels"
+  ]
+}

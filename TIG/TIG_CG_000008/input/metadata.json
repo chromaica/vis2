@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "VFX and Particles",
+  "prompt": "Explosion sprite sheet in pixel art, 6-frame loop, fiery orange and yellow tones.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A pixel art explosion sprite sheet, featuring 6 distinct frames arranged horizontally. The frames illustrate the full animation loop of a fiery explosion, progressing from its initial burst to full expansion and dissipation. Dominated by vibrant orange and bright yellow tones.",
+  "annotator": "maxku",
+  "objects": [
+    "Pixel art explosion sprite sheet",
+    "6 distinct frames",
+    "Horizontally arranged frames",
+    "Fiery explosion animation",
+    "Explosion progressing from initial burst to full expansion",
+    "Explosion progressing to dissipation",
+    "Vibrant orange tones",
+    "Bright yellow tones"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

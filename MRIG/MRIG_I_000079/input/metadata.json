@@ -1,0 +1,32 @@
+{
+  "task": "MRIG",
+  "topic": "I",
+  "subtopic": "Visual instructions and manuals",
+  "prompt": "Create step-by-step chair assembly instructions based on the reference images.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png",
+    "4.png",
+    "5.png",
+    "6.png",
+    "7.png",
+    "8.png",
+    "9.png"
+  ],
+  "remarks": "",
+  "annotator": "matina",
+  "prompt_refined": "Generate a multi-panel information graphic for assembling an office chair, presented in a clear, sequential, and diagrammatic style similar to technical instruction manuals. Each step should be depicted as a line art illustration with red highlights on specific parts and red arrows indicating actions, reflecting the visual elements from the provided conditioning images.\n\nThe graphic should feature 9 distinct steps, laid out in a logical flow, visually representing the following:\n\n1.  **Step 1 (referencing image 1):** Show a single chair wheel being inserted into one leg of the 5-star chair base. Include a red arrow pointing to the insertion point and red highlights on the wheel and its socket.\n2.  **Step 2 (referencing image 2):** Illustrate the gas lift cylinder being inserted vertically into the central hub of the assembled chair base. Include a downward red arrow and red highlights on the gas lift and the hub.\n3.  **Step 3 (referencing image 3):** Depict the telescopic cover being placed over the gas lift cylinder. Include a downward red arrow and red highlights on the cover.\n4.  **Step 4 (referencing image 4):** Show a close-up of a lever being attached to the side of the chair's backrest or seat mechanism, secured with screws. Include a curved red arrow indicating rotation/tightening and red highlights on the lever and screw holes.\n5.  **Step 5 (referencing image 5):** Illustrate an Allen wrench tightening a screw on the chair's main control mechanism, which is attached to the underside of the seat. Include a curved red arrow indicating rotation and red highlights on the wrench and screw.\n6.  **Step 6 (referencing image 6):** Depict an Allen wrench tightening a screw to attach a side cover panel to the chair's mechanism. Include a curved red arrow and red highlights on the wrench, screw, and cover.\n7.  **Step 7 (referencing image 7):** Show the attachment of a horizontal support bar (likely for the backrest) to the underside of the chair seat, secured by screws with an Allen wrench, from a top-down perspective. Include a curved red arrow and red highlights on the wrench and screws.\n8.  **Step 8 (referencing image 8):** Illustrate the final adjustments or lever engagement of the chair's main mechanism from a top-down view, with red highlights on the mechanism and horizontal red arrows indicating pushing or pulling actions.\n9.  **Step 9 (referencing image 9):** Finally, show the assembled chair upper section (comprising the seat, backrest, and armrests with mechanism) being lowered onto the assembled gas lift and wheel base. Include a downward red arrow and red highlights on the gas lift and the mechanism's receiving socket.\n\nEnsure the generated graphic maintains a consistent line art style with a white background, analogous to the conditioning images, and clearly presents the sequential assembly process.",
+  "objects": [
+    "Multi-panel information graphic layout",
+    "Line art illustrations",
+    "White background",
+    "Red highlights on specific parts",
+    "Red arrows (downward, curved, horizontal)",
+    "5-star chair base",
+    "Chair wheels",
+    "Gas lift cylinder",
+    "Chair seat and backrest assembly",
+    "Allen wrench"
+  ]
+}

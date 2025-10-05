@@ -1,0 +1,19 @@
+{
+  "subtopic": "Depth maps",
+  "prompt": "Apply a shallow depth of field blur effect to the image, keeping the stretching person in sharp focus and progressively blurring regions further away based on the depth information.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751815905696,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit the scene depicted by image 1. Apply a shallow depth of field blur effect, ensuring the stretching person is in sharp focus. Progressively blur regions further away from the person, using the depth information provided in image 1.",
+  "annotator": "edisy",
+  "objects": [
+    "stretching person",
+    "foreground",
+    "background"
+  ]
+}

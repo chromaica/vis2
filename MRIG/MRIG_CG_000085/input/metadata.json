@@ -1,0 +1,24 @@
+{
+  "subtopic": "3D renders",
+  "prompt": "A detailed 3D render of a retail clothing rack display, inspired by the vibrant colors and organization of image 1. Include a close-up view of hands inspecting a garment's texture and tag, utilizing the perspective and action from image 2.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748424318133,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a detailed 3D render of a retail clothing rack display. The display should embody the vibrant colors and organized arrangement of garments and hats seen in image 1. In the foreground, include a close-up view of hands actively inspecting a garment's texture and tag, precisely capturing the perspective and action from image 2.",
+  "annotator": "winston",
+  "objects": [
+    "Retail clothing rack display",
+    "Garments on hangers",
+    "Hats on a shelf",
+    "Hands inspecting a garment in the foreground",
+    "Garment being inspected by hands",
+    "Tag on the inspected garment"
+  ],
+  "human_annotation": true
+}

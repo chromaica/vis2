@@ -1,0 +1,23 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Portraits",
+  "prompt": "Make the woman in image 1 wear the hat with the silhouette from image 3, and place the balloon bubble gum from image 2 in her mouth.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Have the woman wear a wide-brimmed hat, styled after the silhouette shown in image 3, positioned on her head. Additionally, incorporate a vibrant pink, balloon-shaped bubble gum, as depicted in image 2, being blown from her mouth.",
+  "annotator": "paria",
+  "objects": [
+    "Woman",
+    "Wide-brimmed hat on her head",
+    "Vibrant pink, balloon-shaped bubble gum blown from her mouth",
+    "Sunglasses",
+    "Green textured background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

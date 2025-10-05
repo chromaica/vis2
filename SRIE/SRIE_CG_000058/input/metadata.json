@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Object detection visuals",
+  "prompt": "Transform the calm street scene into an emergency response scene with similar vehicles and layout.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the calm city street scene, to transform it into an emergency response scene. Utilize image 2 as a reference for the visual characteristics and aftermath of a vehicle accident. In the street and intersection areas of image 1, where current vehicles and pedestrians are, introduce damaged vehicles, including potentially an overturned vehicle, mirroring the appearance and type of incident seen in image 2. Maintain the overall layout of the street, crosswalks, traffic lights, and surrounding buildings, but ensure the scene conveys the immediate chaos and disruption of an emergency, displacing the current calm traffic and pedestrian flow.",
+  "annotator": "nimajamali",
+  "objects": [
+    "Overturned vehicle",
+    "Damaged red vehicle",
+    "City street layout",
+    "Intersection",
+    "Crosswalks",
+    "Traffic lights",
+    "Surrounding buildings",
+    "Debris from vehicle accident",
+    "Calm traffic (should not be present)",
+    "Pedestrians (should not be present)"
+  ]
+}

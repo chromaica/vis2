@@ -1,0 +1,20 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Fill the swoosh with the Air Max 90 Chicago gradient1",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the Nike logo in image 1. Fill the swoosh element with the 'Air Max 90 Chicago gradient'. Use image 2 as a precise reference for the shape and position of the swoosh to be filled.",
+  "annotator": "theblackcat",
+  "objects": [
+    "The word \"NIKE\" in black font",
+    "A swoosh element with the shape and position from image 2",
+    "The swoosh element filled with an 'Air Max 90 Chicago gradient'",
+    "White background"
+  ],
+  "human_annotation": true
+}

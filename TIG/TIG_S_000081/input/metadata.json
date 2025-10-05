@@ -1,0 +1,19 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "generate a recipe app interface with hand-illustrated ingredients that animate into the final dish, watercolor splash backgrounds, timer widgets shaped like kitchen utensils, and progress bars that fill like measuring cups",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a detailed recipe application interface focused on a single dish's preparation. The background features artistic watercolor splash patterns. In the central display area, show a dynamic visual: various hand-illustrated individual ingredients subtly transforming or merging into a beautiful, fully prepared final dish, implying an animation sequence in progress. Position a prominent timer widget in the top-right corner, distinctly shaped like a common kitchen utensil such as a whisk or a cooking spoon. At the bottom of the interface, include a progress bar designed to visually fill like liquid rising in a transparent measuring cup, indicating task completion.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Recipe application interface",
+    "Artistic watercolor splash patterns (background)",
+    "Hand-illustrated individual ingredients transforming into a final dish (central display)",
+    "Timer widget shaped like a kitchen utensil (top-right corner)",
+    "Progress bar resembling liquid rising in a transparent measuring cup (bottom)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

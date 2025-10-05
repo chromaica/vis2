@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "Design a digital receipt for a currency exchange transaction converting 100 euros to US dollars, using the overall receipt layout from the first image and the currency pair exchange rate from the second image.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a digital receipt for a currency exchange transaction. Emulate the overall layout, section organization, and visual style of the thermal printer receipt presented in image 1. The receipt should specifically detail the conversion of 100 Euros (EUR) to United States Dollars (USD). Implement the exchange rate found in image 2, where 1 Euro equals 1.14 US Dollars. In the transaction details section, adapt the 'Currency/Amount Rate' table from image 1 to clearly display 'EURO 100.00' with a rate of '1.14', resulting in '114.00' for the 'US DOLLAR' column. Ensure standard receipt elements like a company name, date, time, receipt number, total amount, and a 'Thank You' message are present, consistent with the flow and appearance of image 1.",
+  "annotator": "paria",
+  "objects": [
+    "Thermal printer receipt visual style and layout",
+    "Company name and contact details (address, phone, email, license)",
+    "Date, time, and receipt number",
+    "Dashed line separators for sections",
+    "\"Currency/Amount Rate\" table header",
+    "\"EURO 100.00\" entry within the transaction table",
+    "\"Rate 1.14\" entry within the transaction table",
+    "\"US DOLLAR 114.00\" entry within the transaction table",
+    "Total line indicating \"US DOLLAR 114.00\"",
+    "\"Thank You\" message"
+  ]
+}

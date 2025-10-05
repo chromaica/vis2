@@ -1,0 +1,25 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Traditional art",
+  "prompt": "In the first image, remove the woman with her baby on the right under the tree and replace her with the drunk woman from the second image. Also, replace the man on the left with the man from the third image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Remove the woman with her baby located on the right side, beneath the tree, and replace her with the woman from image 2, who is seated and drinking from a glass. Concurrently, replace the standing man on the left side of image 1 with the man from image 3, who is wearing dark attire and holding a sword.",
+  "annotator": "paria",
+  "objects": [
+    "woman with her baby (should not be present)",
+    "original standing man on the left (should not be present)",
+    "woman from image 2, seated and drinking from a glass, on the right side beneath a tree",
+    "man from image 3, wearing dark attire and holding a sword, on the left side",
+    "trees",
+    "sky",
+    "river",
+    "bridge",
+    "buildings and ruins"
+  ]
+}

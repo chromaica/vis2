@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "In image 1, replace the flame icon in the top status bar with the smiling fire character from image 2, scaled and aligned to match the original size and position. Then, replace the owl sitting on books near the bottom of the path with the upright Duolingo owl from image 3, preserving the shadow and proportions. All other elements must remain unchanged.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the provided Duolingo screenshot (image 1).\n\nIn the top status bar of image 1, replace the existing flame icon (next to the number '2') with the smiling fire character from image 2. Ensure the replacement is precisely scaled and aligned to match the size and position of the original flame icon.\n\nNext, replace the green Duolingo owl character sitting on books on the right side of the learning path, near the bottom of image 1, with the gradient-colored owl head from image 3. The replacement should be positioned atop the books, maintaining the visual footprint and perspective of the original owl as closely as possible, while also preserving any existing shadow cast by the original owl. The aspect ratio of the owl head from image 3 should be maintained.\n\nAll other elements and the background in image 1 must remain unchanged.",
+  "annotator": "parnian",
+  "objects": [
+    "smiling fire character from image 2 (in top status bar)",
+    "gradient-colored owl head from image 3 (atop books, right side)",
+    "Duolingo white background",
+    "top status bar (time, signal, battery, Korean flag, blue gem icon, purple bird character)",
+    "green banner \"SECTION 1, UNIT 1 Learn Korean vowels\"",
+    "gold coin on learning path",
+    "green checkmark circles on learning path",
+    "gold chest on learning path",
+    "books with shadow (under gradient-colored owl head)",
+    "bottom Duolingo navigation bar"
+  ]
+}

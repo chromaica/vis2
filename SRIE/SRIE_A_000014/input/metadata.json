@@ -1,0 +1,28 @@
+{
+  "subtopic": "Stylized art",
+  "prompt": "Combine and merge image 2 into image 1. Left side to be image 1 and then it blends to combine image 2 on right side.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "searchQueryGenerated": "High quality stylized art examples",
+  "searchQueryGeneratedTimestamp": 1748488460905,
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1, an artwork depicting a red tree on a cliff, by seamlessly merging elements from image 2, a colorful landscape with a house and river. The resulting image should feature the red tree scene from image 1 on the left side, transitioning smoothly into the landscape scene from image 2 on the right side.",
+  "annotator": "kellycyy",
+  "objects": [
+    "red tree on a cliff (on the left)",
+    "cliff formation (on the left)",
+    "body of water (on the left)",
+    "small islands (on the left)",
+    "river (on the right)",
+    "house (on the right)",
+    "green tree (on the right)",
+    "agricultural fields (on the right)",
+    "colorful sky with sunset elements"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

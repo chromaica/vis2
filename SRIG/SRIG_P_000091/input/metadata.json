@@ -1,0 +1,18 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "a spiral galaxy in deep space that follows the shell\u2019s structure and curvature in the image.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic spiral galaxy in deep space. The galaxy's spiral structure and curvature must precisely replicate that of the nautilus shell shown in image 1, positioned to fill the frame similarly.",
+  "annotator": "samin",
+  "objects": [
+    "photorealistic spiral galaxy replicating nautilus shell structure",
+    "deep space background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

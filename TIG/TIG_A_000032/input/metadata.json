@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Cultural/heritage art",
+  "prompt": "A bustling Indian marketplace showcasing vibrant textiles, intricate jewelry, and ornate pottery under colorful canopies.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A bustling Indian marketplace featuring vibrant textiles draped from stalls, intricate jewelry displayed prominently, and ornate pottery arranged on tables, all beneath colorful fabric canopies.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Indian marketplace",
+    "Bustling activity",
+    "Vibrant textiles",
+    "Stalls",
+    "Intricate jewelry",
+    "Jewelry displays",
+    "Ornate pottery",
+    "Tables",
+    "Colorful fabric canopies"
+  ]
+}

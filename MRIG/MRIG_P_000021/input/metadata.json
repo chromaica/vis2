@@ -1,0 +1,27 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "A futuristic robot reimagined from a sea turtle referenced in the first Image, inspired by the robust, armored design of an Oshkosh M-ATV referenced in the second Image. Its shell is a hexagonal, carbon-fiber shield with embedded plasma deflectors glowing faint green. Its limbs are reinforced with articulated joints for amphibious movement, and its head features a 360-degree sensor array.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic image of a futuristic robot. The robot's foundational structure should be reimagined from the sea turtle referenced in Image 1, maintaining its overall body shape and powerful, flipper-like limbs. Its robust, armored design elements are inspired by the Oshkosh M-ATV referenced in Image 2. The robot's dorsal shell is a hexagonal, carbon-fiber shield with embedded plasma deflectors glowing faint green. Its limbs are reinforced with articulated joints for amphibious movement, and its head features a 360-degree sensor array. Depict the robot from a clear, eye-level perspective, in an environment suitable for amphibious movement, such as shallow water or a shoreline.",
+  "objects": [
+    "Photorealistic futuristic robot",
+    "Robot with sea turtle-like body shape",
+    "Powerful, flipper-like limbs on the robot",
+    "Robust, armored robot design",
+    "Hexagonal, carbon-fiber dorsal shell on the robot",
+    "Plasma deflectors glowing faint green on the shell",
+    "Articulated joints on the robot's limbs",
+    "360-degree sensor array on the robot's head",
+    "Shallow water environment",
+    "Shoreline environment"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

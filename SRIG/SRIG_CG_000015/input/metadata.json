@@ -1,0 +1,26 @@
+{
+  "subtopic": "CAD models",
+  "prompt": "Using the reference image, generate a highly detailed CAD model rendering of the modern train. Emphasize precise technical design and clean lines in computer graphics style.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://etimg.etb2bimg.com/photo/112043017.cms",
+  "promptGeneratedTimestamp": 1748766025383,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a highly detailed CAD model rendering of the modern, sleek white and blue passenger train from image 1. The render should showcase precise technical design, sharp, clean lines, and a polished 3D computer graphics aesthetic, akin to professional engineering visualizations.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Modern passenger train",
+    "White and blue color scheme (on train)",
+    "Train windows",
+    "Train doors",
+    "Train bogies/wheels",
+    "Train headlights",
+    "Train tracks",
+    "Gravel/ballast (around tracks)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

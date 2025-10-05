@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "Generate a first-person shooter game interface using weapon designs from the first image and battlefield environment from the second image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a first-person perspective screenshot for a futuristic first-person shooter game. The scene should depict a vast desert battlefield with rugged mountains and scattered low-rise buildings, reflecting the environment shown in image 2. Incorporate a dynamic visual element, such as an explosion, in the middle-ground, similar to the one present in image 2.\n\nIn the lower-right foreground, display a player-held weapon. This weapon must distinctly feature the futuristic, sleek, angular, and glowing blue design characteristics observed in the weaponry from image 1. Overlay a minimalist game interface, including elements like a health/ammo counter in the bottom-right and a simplified minimap or objective display in the bottom-left, consistent with the general UI placement seen in image 2.",
+  "annotator": "paria",
+  "objects": [
+    "First-person perspective viewpoint",
+    "Vast desert battlefield",
+    "Rugged mountains",
+    "Scattered low-rise buildings",
+    "Explosion in the middle-ground",
+    "Player-held weapon in the lower-right foreground",
+    "Sleek, angular, and glowing blue weapon design",
+    "Minimalist game interface",
+    "Health/ammo counter in the bottom-right",
+    "Simplified minimap or objective display in the bottom-left"
+  ]
+}

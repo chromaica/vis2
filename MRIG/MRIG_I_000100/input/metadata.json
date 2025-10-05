@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Generate a stacked bar chart showing daily energy usage by appliance. Use Image 1 and 2 as the icons in the legend to represent each appliance.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "matina",
+  "prompt_refined": "Generate a stacked bar chart illustrating daily energy usage, specifically broken down by the Refrigerator and Washing Machine appliances. Display a legend to the right of the chart. For the 'Refrigerator' category in the legend, use Image 1 (a silver Samsung refrigerator) as its icon. For the 'Washing Machine' category, use Image 2 (a silver LG front-load washing machine) as its icon.",
+  "objects": [
+    "stacked bar chart",
+    "chart axes",
+    "chart labels (e.g., \"Daily Energy Usage\")",
+    "legend to the right of the chart",
+    "silver Samsung refrigerator icon in the legend",
+    "silver LG front-load washing machine icon in the legend",
+    "\"Refrigerator\" category text in the legend",
+    "\"Washing Machine\" category text in the legend",
+    "bars representing Refrigerator energy usage",
+    "bars representing Washing Machine energy usage"
+  ]
+}

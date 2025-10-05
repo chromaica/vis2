@@ -1,0 +1,22 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Stylized art",
+  "prompt": "A stylized vintage camera illustration featuring bold geometric shapes and graceful lines that evoke a sense of nostalgia and timeless craftsmanship.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a stylized illustration of a vintage camera, drawing inspiration from the silhouette and composition presented in image 1. The artwork should prominently feature bold geometric shapes and fluid, graceful lines, meticulously crafted to evoke a profound sense of nostalgia and timeless craftsmanship.",
+  "annotator": "Johnny",
+  "objects": [
+    "vintage camera",
+    "camera body",
+    "camera lens",
+    "viewfinder",
+    "top left control knob/dial",
+    "top right control knob/dial",
+    "bold geometric shapes",
+    "fluid, graceful lines"
+  ]
+}

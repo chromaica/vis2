@@ -1,0 +1,21 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "make the clock points to 4.30 pm in time",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Modify the clock face to accurately display 4:30 PM. The hour hand should be positioned halfway between the IV and V Roman numerals, and the minute hand should point directly at the VI Roman numeral.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Clock",
+    "Clock face with Roman numerals",
+    "Hour hand (positioned between IV and V)",
+    "Minute hand (pointing at VI)",
+    "Metal hanging bracket",
+    "Textured stone pillar",
+    "Blurred shop interior background"
+  ]
+}

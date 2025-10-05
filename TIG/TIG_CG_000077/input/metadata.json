@@ -1,0 +1,17 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "VFX and Particles",
+  "prompt": "A stylized lightning strike, with bright, jagged energy arcs and surrounding electric particles, isolated on a black background.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A dramatic, stylized lightning strike featuring intensely bright, jagged energy arcs and dynamic, radiating electric particles. The lightning strike is centrally composed and isolated against a pure black background.",
+  "annotator": "maxku",
+  "objects": [
+    "dramatic, stylized lightning strike",
+    "intensely bright, jagged energy arcs",
+    "dynamic, radiating electric particles",
+    "pure black background",
+    "centrally composed lightning strike"
+  ]
+}

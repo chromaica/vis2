@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "Replace the Saturn planet at the top right of the first image with the Earth planet from the second image, and make the sky cloudy like in the third image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the Saturn planet, currently located in the top-right corner of image 1, with the Earth planet provided in image 2. Ensure the newly introduced Earth planet's visual characteristics, such as its continents and oceans, align with those shown in image 2, and that it occupies a similar size and position as the original Saturn. Additionally, modify the clear blue sky in image 1 to be cloudy, adopting the style, density, and appearance of the scattered cumulus clouds present in image 3.",
+  "annotator": "paria",
+  "objects": [
+    "Earth planet (in top-right corner)",
+    "Cloudy sky (with scattered cumulus clouds)",
+    "Woman with an elaborate headpiece",
+    "Body of water (bay)",
+    "Green islands/mountains",
+    "Boats",
+    "Green skull",
+    "Man meditating",
+    "Various flowers",
+    "White scattered dots"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Using the house in the red rectangle, create a realistic photo that includes a garden with the house in it.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic image of a house situated on a gentle rise, accurately reproducing the architectural style and appearance of the house highlighted in the red rectangle in image 1. The house should be encompassed by a vibrant, natural garden featuring diverse plant life, including mature trees, shrubs, and blooming flowers, creating a lush and picturesque setting.",
+  "annotator": "samin",
+  "objects": [
+    "House (with distinct roof shape and circular window, replicating style from image 1 red rectangle)",
+    "Gentle rise (as terrain for the house)",
+    "Vibrant natural garden",
+    "Mature trees",
+    "Shrubs",
+    "Blooming flowers"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "subtopic": "Depth maps",
+  "prompt": "Generate a realistic color image of a foggy urban street using the depth map reference. Render the perspective, buildings, and streetlights based on the depth information.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://www.mathworks.com/help/examples/uav/win64/DepthAndSegmentationVisualizationUsingUE4SimulationExample_04.png",
+  "promptGeneratedTimestamp": 1748768568593,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a realistic color image depicting a heavily foggy urban street scene. Utilize image 1, the provided depth map, to accurately establish the perspective and spatial arrangement of all elements. Render the tall, multi-story buildings on both sides of the straight street, ensuring their recession into the dense fog matches the depth cues. Include prominent streetlights in the foreground (one on the left, one on the right) and additional streetlights fading into the distance, all positioned and scaled according to image 1's depth information. The pervasive fog should heavily obscure distant details, creating a strong sense of depth along the street.",
+  "annotator": "ishengfang",
+  "objects": [
+    "heavily foggy urban street scene",
+    "straight street",
+    "tall, multi-story buildings on both sides",
+    "prominent streetlight in foreground (on the left)",
+    "prominent streetlight in foreground (on the right)",
+    "additional streetlights fading into the distance",
+    "pervasive heavy fog",
+    "trees/foliage",
+    "traffic light / crosswalk signal"
+  ],
+  "human_annotation": true
+}

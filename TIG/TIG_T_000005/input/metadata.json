@@ -1,0 +1,23 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": "Explosive comic energy! 'POW!' bursts forth in jagged, angled lettering of bright yellow and fiery red, surrounded by pop art dots and dynamic speed lines for a classic action feel.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A vibrant, explosive comic book style graphic. The onomatopoeia 'POW!' is the central focus, rendered in large, jagged, and aggressively angled lettering. The letters are colored bright yellow with fiery red outlines or highlights. Surrounding the 'POW!' are numerous white and black pop art dots, radiating outwards, and dynamic, diagonal speed lines that burst from behind the lettering, conveying intense energy and a classic action feel.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "comic book style graphic",
+    "Onomatopoeia 'POW!' as central focus",
+    "large, jagged, aggressively angled lettering for 'POW!'",
+    "bright yellow coloring on 'POW!' letters",
+    "fiery red outlines on 'POW!' letters",
+    "fiery red highlights on 'POW!' letters",
+    "numerous white pop art dots radiating outwards around 'POW!'",
+    "numerous black pop art dots radiating outwards around 'POW!'",
+    "dynamic, diagonal speed lines bursting from behind the 'POW!' lettering"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,25 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "make the moon turn into a scarry face like the one we would see in a Cthulhu story arc",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 to transform the visible surface of the moon into a terrifying, photorealistic monstrous face, integrating unsettling eyes and subtle tentacle-like features directly into its existing craters and textures, evoking a Cthulhu-esque horror appearance.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Moon",
+    "Monstrous face on the moon's surface",
+    "Photorealistic appearance",
+    "Unsettling eyes",
+    "Subtle tentacle-like features",
+    "Cthulhu-esque horror appearance",
+    "Lunar craters (integrated into the face)",
+    "Lunar textures (integrated into the face)",
+    "Black space background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

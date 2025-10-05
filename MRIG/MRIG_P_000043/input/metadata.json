@@ -1,0 +1,27 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Generate a flooded cityscape where nature has reclaimed an abandoned metropolis submerged in water. Use the first image as a reference for the cityscape's shape, structure, and layout, including the design and arrangement of skyscrapers and streets. Use the second image as a reference for the overgrown aesthetic, adapted to a wetland environment with aquatic plants like lilies, reeds, and algae. Depict towering skyscrapers with cracked facades covered in climbing vines and algae, partially submerged in shallow, reflective water, and streets transformed into canals overgrown with moss and water-loving wildflowers, blending urban decay with a lush, aquatic overgrowth.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic image of a flooded cityscape, where nature has reclaimed an abandoned metropolis submerged in water. Utilize image 1 as a structural reference for a dense urban skyline, including the arrangement and design of tall skyscrapers and the overall layout of the streets, but depicting them as derelict and unlit. Integrate the overgrown wetland aesthetic from image 2, transforming the environment into a lush, aquatic scene. Depict towering skyscrapers with cracked facades, extensively covered in climbing vines and green algae, partially submerged in the shallow, reflective water that now forms the streets. These streets are transformed into canals, heavily overgrown with moss, various water-loving wildflowers, aquatic plants such as lilies and reeds, and additional algae. The image should vividly blend the sense of urban decay with abundant, thriving aquatic overgrowth.",
+  "objects": [
+    "Photorealistic flooded cityscape",
+    "Dense urban skyline",
+    "Tall skyscrapers",
+    "Derelict and unlit skyscrapers with cracked facades",
+    "Climbing vines on skyscrapers",
+    "Green algae on skyscrapers and in water",
+    "Shallow, reflective water",
+    "Streets transformed into canals",
+    "Moss in canals",
+    "Water-loving wildflowers and aquatic plants (lilies, reeds) in canals"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

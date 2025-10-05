@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "A sophisticated brand mark: 'Empower Future' in a bold, modern sans-serif font. The text is rendered in a deep matte black with crisp, sharp edges, incorporating subtle 3D depth and a slightly futuristic feel. Position this centrally against a clean, minimalist white background with subtle gradient transitions to achieve a strong, professional, and forward-thinking visual identity.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a sophisticated brand mark featuring the words 'Empower Future' in a bold, modern sans-serif font. The text is rendered in deep matte black with crisp, sharp edges, subtle 3D depth, and a futuristic aesthetic. Position the text centrally on a clean, minimalist white background with subtle gradient transitions, achieving a strong, professional, and forward-thinking visual identity.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Brand mark",
+    "Text \"Empower Future\" in a bold, modern sans-serif font",
+    "Deep matte black text",
+    "Text with crisp, sharp edges",
+    "Text with subtle 3D depth",
+    "Futuristic aesthetic on the brand mark/text",
+    "Text positioned centrally",
+    "Clean, minimalist white background with subtle gradient transitions"
+  ]
+}

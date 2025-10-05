@@ -1,0 +1,20 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "Generate an infrared telescope view of the galaxy in the image, highlighting heat signatures and hidden star clusters.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic infrared telescope view of the spiral galaxy from image 1, depicting the galaxy with distinct false-color mapping characteristic of infrared imagery. The image should prominently highlight regions of intense thermal emission as bright, warmer areas, and reveal previously hidden star clusters that are otherwise obscured by dust and gas in visible light.",
+  "annotator": "samin",
+  "objects": [
+    "Spiral galaxy (structured like the one in image 1)",
+    "False-color representation (characteristic of infrared imagery)",
+    "Bright, warmer areas (representing intense thermal emission within the galaxy)",
+    "Previously hidden star clusters (now visible within the galaxy)",
+    "Cosmic background",
+    "Background stars"
+  ]
+}

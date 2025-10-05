@@ -1,0 +1,22 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "Add the horse to the beach view in source image, using the scribbles in the reference image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 (the beach scene) by inserting a dark brown foal onto the sandy beach foreground. The appearance and pose of the foal should resemble the horse in image 2. The form and outline of the inserted horse should be specifically guided by the red scribbles present on the horse in image 2.",
+  "annotator": "nimajamali",
+  "objects": [
+    "Sandy beach foreground",
+    "Ocean",
+    "Blue sky",
+    "Dark brown foal",
+    "Foal with the pose of the horse in image 2",
+    "Foal with an outline guided by the red scribbles in image 2"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "Edit image 1 by placing the progress bar from image 2 beneath the circular gauge in the preview area. In the left component library of image 1, replace the existing radio button with the purple radio button from image 3.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. In the UI preview area, place the green progress bar from image 2 directly beneath the circular gauge. In the 'QML Types' section within the left component library, replace the existing grey outline 'Radio Button' element with the purple-filled radio button from image 3.",
+  "annotator": "maxku",
+  "objects": [
+    "UI preview area with a circular gauge",
+    "Green progress bar (beneath the circular gauge in the UI preview area)",
+    "\"Press Me 1\" button",
+    "Left component library panel",
+    "'QML Types' section (within the left component library)",
+    "Purple-filled radio button (replacing the existing radio button in 'QML Types' section)",
+    "Grey outline 'Radio Button' element (should not be present)",
+    "Navigator section",
+    "Top toolbar with file path and dimensions",
+    "Side menu (Welcome, Edit, Design, Debug, Projects)"
+  ]
+}

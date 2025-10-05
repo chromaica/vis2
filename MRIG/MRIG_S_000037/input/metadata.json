@@ -1,0 +1,27 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "Generate an ATM withdrawal receipt using the transaction details from the first image and the bank logo from the second image.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a new ATM withdrawal receipt. The overall format, text elements, and transaction details, including the date (03/03/13 17:24), masked account number, location (GREENWICH STREET/MURRAY NEW YORK), serial number, withdrawal amount ($400.00), account type, and available balance ($371,945.28), should be derived from image 1. At the top of this generated receipt, prominently feature the Lloyds Bank logo from image 2, comprising the 'LLOYDS BANK' text and the rearing horse emblem, in place of the Bank of America branding seen in image 1.",
+  "annotator": "paria",
+  "objects": [
+    "ATM withdrawal receipt format",
+    "Lloyds Bank logo (text 'LLOYDS BANK' and rearing horse emblem) at the top",
+    "Date \"03/03/13 17:24\"",
+    "Masked account number text",
+    "Location text \"GREENWICH STREET/MURRAY NEW YORK\"",
+    "Serial number text",
+    "Withdrawal amount \"$400.00\"",
+    "Account type text (e.g., FROM PRIMARY, Checking)",
+    "Available balance \"$371,945.28\"",
+    "Bank of America branding (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

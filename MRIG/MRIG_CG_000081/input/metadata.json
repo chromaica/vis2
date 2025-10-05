@@ -1,0 +1,27 @@
+{
+  "subtopic": "Object detection visuals",
+  "prompt": "A computer screen perspective displaying a scene similar to image 1 (person with sticky notes on a board), visually styled with the bright, clear aesthetic of image 2. Overlay this scene with object detection bounding boxes and labels around the objects.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748424269924,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate an image depicting a computer screen's perspective of a scene. This scene should prominently feature a woman in the foreground and a partially visible man in the background, both engaged with a clear, transparent board densely covered with colorful sticky notes and directional arrows, directly mirroring the composition and interaction style of image 1. The entire visual presentation should adopt the bright, naturally lit, and clean aesthetic characteristic of image 2. Overlay this scene with distinct object detection bounding boxes and corresponding text labels (e.g., 'person', 'sticky note', 'board') accurately placed around each identified object.",
+  "annotator": "winston",
+  "objects": [
+    "computer screen's perspective",
+    "woman in the foreground",
+    "partially visible man in the background",
+    "clear, transparent board",
+    "colorful sticky notes",
+    "directional arrows",
+    "object detection bounding boxes",
+    "'person' text label",
+    "'sticky note' text label",
+    "'board' text label"
+  ]
+}

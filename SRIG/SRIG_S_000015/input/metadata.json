@@ -1,0 +1,25 @@
+{
+  "subtopic": "Games",
+  "prompt": "Generate image to guess what will happen in the next 5 seconds.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://external-preview.redd.it/npcs-intentionally-crashing-into-us-wasnt-enough-apparently-v0-LacoPfvyFFU9Vn9XA_04K77i7wM87joorGj3Wzm9jSE.png?format=pjpg&auto=webp&s=a1e18f4c7ff6a8c21ec4880d763b86c1ff7bda5f",
+  "promptGeneratedTimestamp": 1749421890207,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a new image depicting the scene from image 1 approximately 5 seconds later. In this plausible future state, the white convertible car (from image 1, in the foreground) should have advanced forward along the road, continuing its path. The red convertible car (from image 1, on the left side of the road) should also have moved forward, having passed the position of the white car. Both vehicles should appear to be in motion, with subtle motion blur to indicate speed. Ensure the surrounding environment, including the road, trees, houses, and general lighting, remains consistent with image 1, with only the positions of the moving elements updated. The minimap in the bottom-left corner should also reflect the new, forward position of the player's vehicle along the indicated path.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "White convertible car (advanced forward, with motion blur)",
+    "Red convertible car (advanced forward, passed white car, with motion blur)",
+    "Road",
+    "Trees",
+    "Houses",
+    "Minimap in the bottom-left corner (reflecting new player position)",
+    "\"Deliver the to the customer.\" text overlay",
+    "UI elements on right side of screen (Richman, Sam Austin Dr, PAYMENT $23,918)",
+    "Other distant vehicles"
+  ]
+}

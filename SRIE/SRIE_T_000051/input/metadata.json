@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Color each letter sequentially with the four pane colors.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the 'Microsoft' text. Color each letter sequentially using the colors from the four panes in image 2. The sequence of colors, derived from image 2, should be: red (top-left pane), green (top-right pane), blue (bottom-left pane), and yellow (bottom-right pane), repeating this cycle for all letters.",
+  "annotator": "matina",
+  "objects": [
+    "The text \"Microsoft\"",
+    "Letter 'M' colored red",
+    "Letter 'i' colored green",
+    "Letter 'c' colored blue",
+    "Letter 'r' colored yellow",
+    "Letter 'o' (first instance) colored red",
+    "Letter 's' colored green",
+    "Letter 'o' (second instance) colored blue",
+    "Letter 'f' colored yellow",
+    "Letter 't' colored red"
+  ]
+}

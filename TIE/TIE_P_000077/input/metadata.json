@@ -1,0 +1,23 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "add another fish on the left side of the clown fish",
+  "cond_images": [
+    "1.jpeg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 by adding another photorealistic clownfish on the left side of the prominent clownfish in the scene.",
+  "annotator": "theblackcat",
+  "objects": [
+    "prominent clownfish",
+    "photorealistic clownfish on the left side of the prominent clownfish",
+    "smaller clownfish",
+    "sea anemone",
+    "coral formations",
+    "underwater rock formations",
+    "blue water"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

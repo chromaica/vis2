@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": "Create a comic where the panther in the first image thinks 'This is my vibe', while standing in the Starry Night scene in the second image, using thought bubbles from the third image. The style of the scene should be in the comic style of the fourth image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg",
+    "4.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a comic panel. The main subject is the pink panther character from image 1, depicted standing prominently in the foreground. The background is a rendition of the 'Starry Night' scene from image 2. A thought bubble, specifically resembling the top-left cloud-like thought bubble from image 3, appears above the panther's head, containing the text 'This is my vibe'. The entire image, including the panther and the 'Starry Night' background, must be rendered in the classic comic book art style, similar to the visual aesthetics seen in image 4, featuring bold outlines, clear colors, and halftone dot patterns.",
+  "annotator": "parnian",
+  "objects": [
+    "Pink Panther character, standing prominently in the foreground",
+    "'Starry Night' background scene",
+    "Cloud-like thought bubble (resembling the top-left one from image 3), appearing above the panther's head",
+    "Text: 'This is my vibe'",
+    "Comic panel format",
+    "Bold outlines (applied to all elements)",
+    "Halftone dot patterns (applied to all elements)"
+  ],
+  "human_annotation": true
+}

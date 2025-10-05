@@ -1,0 +1,28 @@
+{
+  "subtopic": "Software interfaces",
+  "prompt": "Edit image 1: Apply the dark mode software interface style from image 2 to the Snipping Tool window. Change window colors, button styles, and text appearance to match the dark, modern look of image 2.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751006635885,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit `image 1`: Apply the dark, modern software interface style from `image 2` to the 'Snipping Tool' window located centrally on the desktop. Change the Snipping Tool window's background to a dark grey/black, matching the primary background color of `image 2`. Redesign all buttons ('New', 'Mode', 'Delay', 'Cancel', 'Options') within the Snipping Tool window to reflect the minimalist, subtly rounded, and slightly elevated appearance of UI elements in `image 2`. Update all text within the window to white or light grey for high contrast, consistent with the text styling in `image 2`. Ensure the currently highlighted 'New' button's active state adapts visually to this dark theme, similar to highlighted selections in `image 2`.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Snipping Tool window (centrally located)",
+    "Desktop background",
+    "Dark grey/black internal background of the Snipping Tool window",
+    "Redesigned 'New' button (highlighted, dark theme adapted)",
+    "Redesigned 'Mode' button",
+    "Redesigned 'Delay' button",
+    "Redesigned 'Cancel' button",
+    "Redesigned 'Options' button",
+    "White or light grey text within the Snipping Tool window",
+    "Snipping Tool window title bar (with dark, modern style)"
+  ],
+  "human_annotation": true
+}

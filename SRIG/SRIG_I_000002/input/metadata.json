@@ -1,0 +1,26 @@
+{
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Generate a 3D isometric illustration of a bustling miniature city, where the height of the buildings is determined by the data points in the provided bar chart on population growth.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://upload.wikimedia.org/wikipedia/en/timeline/8jkv14mmf7s0hohmsoojs1qbc4tkvy7.png",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate a 3D isometric illustration of a bustling miniature city. The city's architectural layout should be informed by the population growth data presented in image 1. Visualize 12 distinct districts or clusters of buildings, arranged sequentially from left to right across the miniature cityscape. The average height of the buildings within each district should directly correspond to the value of its respective bar in image 1, following the chronological order of years from 1900 to 2009.\n\nSpecifically, the leftmost district (1900) should feature buildings proportionate in height to 123 units. Subsequent districts to the right should have buildings proportionate to 225 (1910), 234 (1920), 345 (1930), 421 (1940), 542 (1950), 521 (1960), 622 (1970), 632 (1981), 645 (1991), 687 (2001), and finally, the rightmost district (2009) with buildings proportionate to 676.\n\nThe district representing 2009 should subtly stand out in color or material, mirroring the dark blue accent of the last bar in image 1, while the preceding 11 districts maintain a consistent, lighter color scheme similar to the other light blue bars in image 1.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "A 3D isometric illustration of a miniature city",
+    "12 distinct districts or clusters of buildings",
+    "Districts arranged sequentially from left to right",
+    "Buildings within each district whose average height corresponds to the following sequence from left to right: 123, 225, 234, 345, 421, 542, 521, 622, 632, 645, 687, 676 units",
+    "Leftmost district (1900) featuring buildings proportionate in height to 123 units",
+    "District representing 2001 (second from right) featuring buildings proportionate in height to 687 units (the tallest)",
+    "Rightmost district (2009) featuring buildings proportionate in height to 676 units",
+    "Rightmost district (2009) subtly standing out in a dark blue color or material",
+    "The 11 preceding districts maintaining a consistent light blue color scheme",
+    "Visual elements indicating a bustling atmosphere within the city"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

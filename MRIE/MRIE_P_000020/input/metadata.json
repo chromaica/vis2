@@ -1,0 +1,23 @@
+{
+  "task": "MRIE",
+  "topic": "P",
+  "subtopic": "Scenic Nature Parks",
+  "prompt": "Replace the dog in the first image with the dog from the second image, then add the ladybug from the third image on the dog's nose.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Replace the existing dog with the running brown and white dog from image 2, integrating it naturally into the flower field scene. Subsequently, add the ladybug from image 3 onto the nose of the newly placed dog.",
+  "annotator": "boris",
+  "objects": [
+    "flower field",
+    "purple flowers",
+    "running brown and white dog",
+    "ladybug on the nose of the running brown and white dog",
+    "dog from image 1 (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

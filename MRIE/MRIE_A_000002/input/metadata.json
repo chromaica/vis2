@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "Replace the cat in the bottom-left corner of the first image with the cat from the second image, and replace the eye in the top-right area of the first image with the eye from the third image.",
+  "cond_images": [
+    "1.png",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1.\nReplace the blue-tinted cat head and megaphone located in the bottom-left corner of image 1 with the white and grey cat head from image 2.\nAdditionally, replace the black and white eye within the golden arch in the top-right area of image 1 with the colorful, detailed eye from image 3.",
+  "annotator": "paria",
+  "objects": [
+    "white and grey cat head in the bottom-left",
+    "colorful, detailed eye in the top-right",
+    "golden arch in the top-right",
+    "orange butterfly wing",
+    "black and white butterfly",
+    "snowy mountain landscape",
+    "green tree",
+    "red door",
+    "blue-tinted cat head (should not be present)",
+    "megaphone (should not be present)"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "subtopic": "Medical images",
+  "prompt": "Edit image 1: Apply a distinct X-ray style filter and blue tint from image 3 to the cell structures, focusing on internal details. Use the high-contrast binary shapes from image 2 as masks overlaid onto clusters of cells in image 1.",
+  "cond_images": [
+    "1.jpeg",
+    "2.png",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749226095539,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "P",
+  "prompt_refined": "Edit image 1. Apply a distinct X-ray style filter and blue tint, derived from image 3, to the cellular structures. This transformation should render the cellular structures transparent and skeletal, emphasizing their internal details in a manner consistent with an X-ray. Simultaneously, utilize the high-contrast white binary shapes from image 2 as precise spatial masks. Overlay these masks onto corresponding clusters of cells in image 1, ensuring the X-ray effect is predominantly applied and visible within the areas delineated by these white mask shapes.",
+  "annotator": "boris",
+  "objects": [
+    "black background",
+    "original green cellular structures with red internal details (in unmasked areas)",
+    "cellular structures with X-ray style filter, blue tint, transparent and skeletal appearance, and emphasized internal details (in masked areas)"
+  ]
+}

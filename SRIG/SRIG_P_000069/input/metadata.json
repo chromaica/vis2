@@ -1,0 +1,21 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "a realistic image showing a virus attaching to a region of damaged myelin, with the shape and position guided by the provided reference image.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic microscopic image showing a virus attaching to a region of damaged myelin. The shape and precise position of the neuron's axon and its visibly irregular or broken myelin sheath segments should be guided by image 1. Specifically, depict the virus adhering to one of these damaged myelin segments located along the central-right portion of the axon as represented in image 1.",
+  "annotator": "samin",
+  "objects": [
+    "Photorealistic microscopic image",
+    "Neuron axon (shape and precise position guided by image 1)",
+    "Myelin sheath segments (shape and precise position guided by image 1)",
+    "Visibly irregular or broken myelin sheath segments (guided by image 1)",
+    "Virus",
+    "Virus adhering to a damaged myelin segment",
+    "Virus adhesion point located along the central-right portion of the axon (as represented in image 1)"
+  ]
+}

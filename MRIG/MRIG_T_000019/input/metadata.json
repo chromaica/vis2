@@ -1,0 +1,23 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": "Create a comic panel showing six people reacting to an off-screen explosion, using the character faces from the first image and the explosion from the second image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a single comic panel. Depict six characters, utilizing the specific facial features and cartoon art style of the characters from image 1. These characters should be shown reacting with expressions of shock and surprise to an unseen event. Integrate the bright yellow explosion graphic with radiating black lines and the bold black 'BOOM' text from image 2 into the panel. Position this 'BOOM' graphic prominently at the right or top-right edge of the panel, signifying an explosion originating just outside the visible frame.",
+  "annotator": "parnian",
+  "objects": [
+    "Single comic panel",
+    "Six characters",
+    "Characters with facial features and cartoon art style from image 1",
+    "Characters with expressions of shock and surprise",
+    "Bright yellow explosion graphic with radiating black lines",
+    "Bold black 'BOOM' text",
+    "'BOOM' graphic positioned prominently at the right or top-right edge of the panel"
+  ],
+  "human_annotation": true
+}

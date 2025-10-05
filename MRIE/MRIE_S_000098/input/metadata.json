@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": "In image 1, replace the \u201cShop Now\u201d button with the \u201cBUY NOW\u201d button from image 3, keeping its position and scaling it to fit. Add the red \u201cLOGIN\u201d button from image 2 to the top-right corner of the navigation bar, aligned right. Insert the telephone icon from image 4 below the \u201cWhy Shop With Us\u201d heading, centered and scaled to match text height. Leave all other elements untouched.",
+  "cond_images": [
+    "1.png",
+    "2.jpg",
+    "3.jpg",
+    "4.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 as follows:\n1.  Replace the red 'Shop Now' button with the 'BUY NOW' button from image 3, maintaining its exact position and scaling it to fit the original button's dimensions.\n2.  Add the red 'LOGIN' button from image 2 to the top-right corner of image 1's navigation bar, aligning it to the right of the existing navigation elements.\n3.  Insert the telephone icon from image 4 below the 'Why Shop With Us' heading in image 1. Center the icon horizontally beneath the heading and scale its height to match the heading's text height.\nLeave all other elements in image 1 untouched.",
+  "annotator": "parnian",
+  "objects": [
+    "Famms logo",
+    "Navigation bar elements",
+    "Red 'LOGIN' button in top-right navigation bar",
+    "\"Sale 20% Off On Everything\" text",
+    "Descriptive text paragraph",
+    "Woman in pink hoodie with yellow sunglasses",
+    "'Shop Now' button (should not be present)",
+    "'BUY NOW' button with shopping cart icon",
+    "\"Why Shop With Us\" heading",
+    "Telephone icon below \"Why Shop With Us\""
+  ],
+  "human_annotation": true
+}

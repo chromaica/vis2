@@ -1,0 +1,26 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Stamp this signiture in the lower line, overlapping the signature line by 20%.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Place the signature graphic from image 2 onto the lowest horizontal line on the certificate. Position the signature so that 20% of its vertical height extends below this line.",
+  "annotator": "matina",
+  "objects": [
+    "certificate document",
+    "\"CERTIFICATE OF ACHEIVEMENT\" text",
+    "red graphic elements at bottom corners",
+    "horizontal line for name",
+    "\"NAME\" placeholder text",
+    "horizontal line for signature",
+    "handwritten \"Signature\" graphic (from image 2), positioned on the lowest horizontal line with 20% of its vertical height extending below this line",
+    "small star graphic (part of the handwritten \"Signature\")",
+    "\"SIGNATURE\" placeholder text (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

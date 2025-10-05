@@ -1,0 +1,23 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "make the black bubbles found in the left boba tea cup into the white ones like the right side one",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Transform the dark tapioca pearls in the boba tea cup on the left to resemble the light-colored, translucent pearls in the boba tea cup on the right.",
+  "annotator": "theblackcat",
+  "objects": [
+    "boba tea cup on the left",
+    "boba tea cup on the right",
+    "light-colored, translucent pearls in the boba tea cup on the left",
+    "light-colored, translucent pearls in the boba tea cup on the right",
+    "hands holding the boba tea cups",
+    "straws in both boba tea cups",
+    "paper sleeves with text/logo on both boba tea cups",
+    "twine/rope handles on both boba tea cups",
+    "ring on the hand holding the left boba tea cup"
+  ]
+}

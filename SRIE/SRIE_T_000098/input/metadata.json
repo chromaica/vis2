@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": "Convert this to a bold, condensed comic-style font for extra impact.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 2. In the speech bubble located in the top-right, insert the text 'WHA-!'. Render this text in a bold, condensed comic-style font to achieve extra visual impact. The text content and its placement within the speech bubble should replicate the depiction in image 1.",
+  "annotator": "matina",
+  "objects": [
+    "Comic panel",
+    "Two men (one in a trench coat, one in a blue jacket)",
+    "Building structure/window",
+    "Dark background",
+    "Speech bubble in the top-right",
+    "Text 'WHA-!' inside the speech bubble",
+    "Bold, condensed comic-style font for the text 'WHA-!'",
+    "Text 'WHA-!' placed within the speech bubble replicating image 1's depiction"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

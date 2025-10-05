@@ -1,0 +1,26 @@
+{
+  "subtopic": "Depth maps",
+  "prompt": "Generate a realistic color render of an interior room with architectural elements, using the panoramic depth map reference to define depth and structure.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://krpano.com/docu/images/depthmapexample-depthmap.png",
+  "promptGeneratedTimestamp": 1748769164378,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a realistic color render of a grand, panoramic interior space, utilizing the provided panoramic depth map (image 1) to define its precise depth, structure, and spatial layout. The scene prominently features thick architectural columns in the foreground, flat walls, and multiple archways, including a central one leading to a recessed area with steps, and others visible along the sides.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Panoramic interior space",
+    "Thick architectural columns in the foreground",
+    "Flat walls",
+    "Multiple archways",
+    "Central archway",
+    "Recessed area behind central archway",
+    "Steps leading to recessed area",
+    "Archways along the sides"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

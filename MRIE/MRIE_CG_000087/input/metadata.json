@@ -1,0 +1,31 @@
+{
+  "subtopic": "Object detection visuals",
+  "prompt": "Edit image 1: Replace several football players with the ostrich from image 4. Substitute some other players with the pheasant from image 2 and the chicken from image 3. Introduce the small bird from image 5, perched on a piece of sideline equipment. Apply the detailed texture and color palette from image 2's pheasant onto the uniforms of the remaining football players, creating a mixed scene for object detection testing.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg",
+    "4.jpeg",
+    "5.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749067249397,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit the source image, image 1 (a football game featuring players in blue and red uniforms on a green field), by applying the following transformations:\n\n1.  **Replace** approximately 3-4 football players from image 1 (distribute them among both the blue and red teams) with the full-bodied ostrich from image 4. Ensure these ostriches are scaled appropriately to the football players they replace, maintaining their positions on the field.\n2.  **Substitute** an additional 2-3 football players from image 1 (from both teams) with the pheasant from image 2 and the chicken from image 3. Integrate these birds realistically into the game scene, scaled as if they are standing on the field.\n3.  **Add** the small, colorful bird from image 5, positioning it perched on a visible piece of sideline equipment (such as a cooler, bench, or a yard marker) located along the edge of the field in image 1.\n4.  **Transform** the uniforms (jerseys and pants) of all remaining football players in image 1. Apply the detailed feather texture and the distinct multi-color palette (including iridescent blues, greens, deep reds, and rich browns, with white accents) found on the pheasant in image 2 directly onto their fabric, making the uniforms appear feathered.\n\nThe final edited image should be a cohesive, mixed-reality scene combining human football players and various birds, with a surreal aesthetic for the uniformed players, suitable for object detection research.",
+  "annotator": "winston",
+  "objects": [
+    "Green football field",
+    "Football",
+    "Multiple ostriches scaled appropriately on the field",
+    "A pheasant scaled appropriately on the field",
+    "A chicken scaled appropriately on the field",
+    "A small colorful bird perched on sideline equipment",
+    "Sideline equipment (such as a cooler, bench, or a yard marker)",
+    "Human football players in blue uniforms with a feathered texture",
+    "Human football players in red uniforms with a feathered texture"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "Create a rhythm music game showing colorful notes cascading down multiple tracks toward a judgment line at the bottom of the screen. Notes are timed to match an upbeat pop song with some notes glowing to indicate perfect timing. Background shows a concert stage with pulsing lights synchronized to the beat and silhouettes of cheering crowd. UI includes: score multiplier, accuracy percentage, combo counter, and controller/keyboard button prompts. Vibrant neon colors with music visualization effects.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A screenshot of a vibrant rhythm music game. Colorful, neon-lit notes cascade vertically down multiple distinct tracks, approaching a prominent judgment line at the bottom of the screen. Certain notes glow intensely to signify perfect timing. The background depicts a dynamic concert stage with pulsing lights synchronized to the beat, and silhouettes of a cheering crowd below. The user interface (UI) is clearly visible, featuring a score multiplier in the top-left corner, an accuracy percentage in the top-right corner, and a large combo counter positioned centrally, just above the judgment line. Controller or keyboard button prompts are clearly displayed on or beside the judgment line, aligned with the tracks. The entire scene is bathed in vibrant neon colors with dynamic music visualization effects.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Colorful, neon-lit notes",
+    "Multiple distinct tracks",
+    "Prominent judgment line at the bottom of the screen",
+    "Dynamic concert stage background",
+    "Pulsing lights on stage",
+    "Silhouettes of a cheering crowd below stage",
+    "Score multiplier UI in top-left corner",
+    "Accuracy percentage UI in top-right corner",
+    "Large combo counter centrally, above the judgment line",
+    "Controller or keyboard button prompts on or beside the judgment line"
+  ]
+}

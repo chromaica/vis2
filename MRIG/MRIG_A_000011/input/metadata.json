@@ -1,0 +1,24 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "Generate a collage-style artwork using the silhouette of the bird from image 1, filled with and surrounded by the leaf textures from image 2.",
+  "cond_images": [
+    "1.png",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a mixed-media collage artwork. The primary focus is the prominent, flying bird silhouette from image 1, positioned centrally. This bird's interior should be entirely filled with a rich mosaic of various leaf textures and patterns sampled from image 2, incorporating its range of green, yellow, red, and translucent skeletal leaves. The background surrounding the bird should also feature these same leaf elements and textures, creating a cohesive and visually integrated collage environment.",
+  "annotator": "samin",
+  "objects": [
+    "Mixed-media collage artwork",
+    "Prominent, centrally positioned flying bird silhouette",
+    "Mosaic of leaf textures and patterns filling bird's interior",
+    "Green leaf textures and patterns",
+    "Yellow leaf textures and patterns",
+    "Red leaf textures and patterns",
+    "Translucent skeletal leaf textures and patterns",
+    "Leaf elements and textures in the background",
+    "Cohesive collage environment"
+  ]
+}

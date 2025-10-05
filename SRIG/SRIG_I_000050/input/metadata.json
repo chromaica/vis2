@@ -1,0 +1,24 @@
+{
+  "subtopic": "Maps",
+  "prompt": "Generate population density heat map of Canada, by referencing the style of the heatmap provided in the image.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://www.mapbusinessonline.com/Content/images/map_gallery/usa-population-density.png",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate a population density heatmap of Canada. The map should emulate the visual style of the US population density heatmap in image 1.\n-   Utilize a color gradient transitioning from light yellow/cream (lowest density) to orange and red (highest density) for population density, consistent with image 1.\n-   Include a legend in the top-right corner, displaying 'Persons per sq. km' categories and their corresponding colors, precisely matching the ranges and appearance of the legend in image 1.\n-   Depict major Canadian cities as white circles with black borders, labeled with their names.\n-   Outline all provincial/territorial and sub-regional boundaries with clear black lines.\n-   Present the map against a light blue or grey background, mirroring the aesthetic of image 1.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Population density heatmap of Canada",
+    "Color gradient transitioning from light yellow/cream to orange and red for population density",
+    "Legend in top-right corner",
+    "Legend title 'Persons per sq. km'",
+    "Legend categories and corresponding color swatches (0.00 - 5.00, 5.00 - 10.00, 10.00 - 50.00, 50.00 - 100.00, 100.00 - 30,000.00)",
+    "City symbol (white circle) within the legend",
+    "Major Canadian cities depicted as white circles with black borders",
+    "Labels for major Canadian cities",
+    "Black outlines for provincial/territorial and sub-regional boundaries",
+    "Light blue or grey background"
+  ]
+}

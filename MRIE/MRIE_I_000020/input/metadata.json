@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "Edit image 1 by changing the primary accent color of interactive elements like buttons, toggles, and sliders to the light purple color from image 2, and apply the lavender color from image 3 as a background areas, creating a themed interface for interactive diagrams.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Change the primary accent color of all interactive UI elements currently displayed in blue (e.g., filled buttons, active toggle switches, slider progress, checked checkboxes, selected radio buttons, and focused input field borders) to the light purple color from image 2. Additionally, apply the lavender color from image 3 to the entire background area of the interface, replacing the current white background. The goal is to create a themed interface suitable for interactive diagrams.",
+  "annotator": "maxku",
+  "objects": [
+    "Interface background",
+    "Filled UI buttons",
+    "Active toggle switch",
+    "Slider progress bar",
+    "Checked checkbox",
+    "Selected radio button",
+    "Focused input field borders",
+    "Unfocused input fields",
+    "Text labels and headers",
+    "UI icons and unfilled buttons"
+  ]
+}

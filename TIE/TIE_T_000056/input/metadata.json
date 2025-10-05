@@ -1,0 +1,26 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "change the Prime swoosh with Nike swoosh.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the blue Amazon arrow logo (swoosh) on the side of the dark blue delivery van with a Nike swoosh, maintaining its original position and scale.",
+  "annotator": "matina",
+  "objects": [
+    "dark blue delivery van",
+    "Nike swoosh on the side of the van",
+    "\"prime\" text on the side of the van",
+    "wheels of the van",
+    "van interior",
+    "reflection of a person in a high-vis vest",
+    "ceiling structure",
+    "trees",
+    "asphalt ground",
+    "blue Amazon arrow logo (swoosh) (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

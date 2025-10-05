@@ -1,0 +1,27 @@
+{
+  "subtopic": "Receipts",
+  "prompt": "Edit image 1: Add the 'PAID' stamp from image 2 to the bottom right corner of the receipt in image 1 to clearly indicate the payment status, using the style and appearance of the stamp from image 2.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751005225134,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit image 1: Add the 'PAID' stamp from image 2 to the bottom right corner of the donation receipt in image 1. Replicate the exact style, green color, and circular dashed outline of the stamp from image 2 to clearly indicate payment status.",
+  "annotator": "ishengfang",
+  "objects": [
+    "donation receipt document",
+    "\"Receipt preview\" heading",
+    "\"NON-PROFIT ORGANIZATION\" logo",
+    "text content of the donation receipt (including dates, addresses, amounts, and organization details)",
+    "'PAID' stamp",
+    "'PAID' stamp in green color",
+    "'PAID' stamp with a circular dashed outline",
+    "'PAID' stamp positioned in the bottom right corner of the donation receipt"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

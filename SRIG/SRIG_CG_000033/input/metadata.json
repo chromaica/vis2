@@ -1,0 +1,26 @@
+{
+  "subtopic": "Object detection visuals",
+  "prompt": "Generate a new urban street scene illustrating computer vision object detection. Apply colored bounding boxes, segmentation masks, confidence scores, and labels for detected objects like vehicles and buildings, using the visualization style from the reference image.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8y1wutc2NeNDSO_Oa6jUIroUjH1v6N5dpOQ&s",
+  "promptGeneratedTimestamp": 1748767050147,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate an urban street scene illustrating computer vision object detection. Populate the scene with various objects, including buildings along both sides of the street, vehicles (such as cars and motorcycles) on the road, and pedestrians. For each detected object, apply a distinct colored segmentation mask and an overlaid bounding box. Include a clear text label positioned above or near each bounding box, displaying both the object's class (e.g., 'building', 'car', 'motorcycle', 'pedestrian') and its detection confidence score (e.g., '100%', '99%'). The overall visualization style, including the specific color scheme used for masks and bounding boxes (e.g., green for buildings, purple for cars, light green for motorcycles, red for pedestrians), the yellow outlines for bounding boxes, the font and format of the labels and scores, and the subtle grid lines, must precisely replicate the graphical elements and aesthetic demonstrated in image 1.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Urban street scene",
+    "Buildings along both sides of the street with green segmentation masks, yellow bounding boxes, and text labels (class + score)",
+    "Cars on the road with purple segmentation masks, yellow bounding boxes, and text labels (class + score)",
+    "Motorcycles on the road with light green segmentation masks, yellow bounding boxes, and text labels (class + score)",
+    "Pedestrians with red segmentation masks, yellow bounding boxes, and text labels (class + score)",
+    "Overlaid bounding boxes with yellow outlines",
+    "Distinct colored segmentation masks (green, purple, light green, red)",
+    "Text labels with object class and detection confidence score (e.g., 'building 100%', 'car 99%')",
+    "Subtle grid lines",
+    "Trees along the street"
+  ]
+}

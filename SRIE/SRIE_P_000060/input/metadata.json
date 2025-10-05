@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "Colorize the image by mapping brightness to a colormap (blue = low, red = high).",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the grayscale image of the galaxy, by colorizing it. Use image 2 as a precise reference for the color mapping and visual style. Map the brightness values of image 1 to a photorealistic colormap such that low brightness areas are depicted with deep blue tones, and high brightness areas are depicted with vibrant red tones. Ensure a smooth, continuous transition of colors for intermediate brightness levels, passing through shades of cyan, green, and yellow, accurately reflecting the gradient and overall appearance shown in image 2.",
+  "annotator": "nimajamali",
+  "objects": [
+    "Spiral galaxy structure",
+    "Deep blue colored low brightness areas",
+    "Vibrant red colored high brightness areas",
+    "Cyan colored intermediate brightness areas",
+    "Green colored intermediate brightness areas",
+    "Yellow colored intermediate brightness areas",
+    "Stars / individual light points",
+    "Smooth color gradients"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

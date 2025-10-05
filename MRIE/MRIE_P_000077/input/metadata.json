@@ -1,0 +1,25 @@
+{
+  "subtopic": "Medical images",
+  "prompt": "Edit image 1 by subtly altering the dental alignment and jaw structure inspired by the morphology in image 2, and apply the cool-toned radiographic style and bone detail rendering characteristic of image 3 to the entire X-ray.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749225325945,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "P",
+  "prompt_refined": "Edit image 1 by subtly altering its dental alignment and jaw structure to incorporate morphological characteristics from image 2, and apply the distinct cool-toned radiographic style with pronounced bone detail rendering from image 3 to the entire X-ray.",
+  "annotator": "boris",
+  "objects": [
+    "X-ray image of a human skull and jaw",
+    "Teeth with altered dental alignment",
+    "Altered jaw structure",
+    "Pronounced bone detail",
+    "Cool-toned radiographic style"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

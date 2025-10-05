@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": "Generate a real estate listing website homepage that features an interactive map styled after the first image, showing the locations of open houses, and a property listing section designed in the style of the second image.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a real estate listing website homepage. The page should prominently feature an interactive 3D isometric map, styled after image 1, positioned on the left side of the display. This map must clearly show property locations, specifically highlighting open houses with distinct visual markers. On the right side of the display, include a vertically scrollable property listing section. Each listing card within this section must follow the design style of image 2, including: a property image at the top, followed by open house times, the full address, 'Exclusive' or 'Price' information, a bulleted list of key property details (e.g., bedrooms, bathrooms, acreage), and contact information (name, phone number, and email address).",
+  "annotator": "paria",
+  "objects": [
+    "Real estate listing website homepage",
+    "Interactive 3D isometric map on the left side of the display",
+    "Property location markers on the map",
+    "Distinct visual markers for open houses on the map",
+    "Vertically scrollable property listing section on the right side of the display",
+    "Multiple property listing cards",
+    "Property image at the top of each listing card",
+    "Open house times on each listing card",
+    "Full address on each listing card",
+    "Bulleted list of key property details (e.g., bedrooms, bathrooms, acreage) on each listing card"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "subtopic": "Memes",
+  "prompt": "Edit image 1: Transform it into a vertical two-panel meme using the layout from images 3, 4, and 5. Panel 1 uses image 1's content. For panel 2, show the person from image 1 with an exaggerated negative expression inspired by image 2. Add bold text overlay (Image 4 style) to both panels, contrasting moods related to the original text, following the concepts in Images 3 and 5.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg",
+    "4.jpeg",
+    "5.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749711512243,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "T",
+  "prompt_refined": "Edit image 1 to transform it into a vertical two-panel meme.\n\nFor the top panel, retain the content and cheerful expression of the woman from image 1, holding her phone.\n\nFor the bottom panel, generate a new image of the same woman from image 1, but depict her with an exaggerated negative or frustrated facial expression, drawing inspiration from the intense expressions shown in image 2.\n\nAdd bold, white text with a prominent black outline to both panels, following the style seen in image 4.\nOn the top panel, the text should convey a positive outcome related to the Wordle puzzle, similar to 'When you solve the Wordle:'.\nOn the bottom panel, the text should convey a contrasting negative outcome or failure related to the Wordle puzzle, similar to 'When you don't solve the Wordle:'.\n\nThe overall two-panel layout and the conceptual contrast between the panels should align with the structures observed in images 3 and 5.",
+  "annotator": "winston",
+  "objects": [
+    "vertical two-panel meme structure",
+    "top panel: woman from image 1 with cheerful expression",
+    "top panel: woman holding a phone",
+    "top panel: bold white text with prominent black outline",
+    "top panel text: \"When you solve the Wordle:\"",
+    "bottom panel: woman from image 1 with exaggerated negative or frustrated facial expression",
+    "bottom panel: bold white text with prominent black outline",
+    "bottom panel text: \"When you don't solve the Wordle:\""
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

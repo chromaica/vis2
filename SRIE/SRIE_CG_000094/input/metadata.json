@@ -1,0 +1,21 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "CAD models",
+  "prompt": "Attach four wheels to the suitcase base, using the reference caster wheel and scaling them proportionally to match the suitcase size.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 (the black suitcase) by attaching four caster wheels to its base. The design and material properties of the wheels should be consistent with the caster wheel shown in image 2. Place one wheel at each of the four bottom corners of the suitcase. The wheels must be proportionally scaled to an appropriate size for the suitcase, ensuring a seamless and functional appearance.",
+  "annotator": "nimajamali",
+  "objects": [
+    "black suitcase",
+    "caster wheel at the bottom front-left corner of the suitcase",
+    "caster wheel at the bottom front-right corner of the suitcase",
+    "caster wheel at the bottom back-left corner of the suitcase",
+    "caster wheel at the bottom back-right corner of the suitcase",
+    "plain light grey background"
+  ]
+}

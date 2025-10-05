@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Floor Plan",
+  "prompt": "Replace one of the desks in the upper area with a virtual reality workstation, including VR headsets and motion controllers.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the single desk and chair located in the room in the top-right corner of the office layout with a virtual reality workstation. This workstation should clearly feature VR headsets and motion controllers.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Single desk in the top-right room (should not be present)",
+    "Chair in the top-right room (should not be present)",
+    "Virtual reality workstation in the top-right room",
+    "VR headsets",
+    "Motion controllers",
+    "Office layout floor plan",
+    "Walls defining rooms",
+    "Doors connecting rooms",
+    "Open office area with multiple desks and chairs",
+    "Conference room with oval table and chairs"
+  ]
+}

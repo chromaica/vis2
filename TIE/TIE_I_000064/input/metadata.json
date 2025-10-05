@@ -1,0 +1,23 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Change the hollow cross in the graph to a heart-shaped hollow space.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Locate the red and black stylized heartbeat (ECG) waveform icon in the top-right section of the infographic. Replace this icon with a hollow heart shape.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Blue and light blue abstract background",
+    "Red accent lines/shapes in the background",
+    "Blue human silhouette with white internal organs",
+    "Red stethoscope",
+    "Green and white syringe",
+    "Red and white digital thermometer",
+    "Red and white pills",
+    "Hollow heart shape",
+    "Red and black stylized heartbeat (ECG) waveform icon (should not be present)"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "A hand-torn, handwritten receipt from \u201cTaquer\u00eda El Z\u00f3calo\u201d in Mexico City. Items include: 3 Tacos al Pastor @ $18 each, 1 Jarritos Mandarin: $20, 1 Churro: $15. Total: $89 MXN. The note is written in blue pen on a perforated pad slip with a carbon copy underneath. Grease marks from the tacos partially obscure one item. It's lying next to a tray with lime wedges and salsa verde.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate an image of a hand-torn, handwritten receipt from 'Taquer\u00eda El Z\u00f3calo' in Mexico City. The receipt is written in blue pen on a perforated pad slip with a carbon copy visible underneath. It lists: '3 Tacos al Pastor @ $18 each', '1 Jarritos Mandarin: $20', and '1 Churro: $15', with a 'Total: $89 MXN'. Grease marks from tacos partially obscure one item on the receipt. The receipt lies on a surface, positioned next to a tray holding fresh lime wedges and a bowl of salsa verde.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Hand-torn, handwritten receipt",
+    "Blue pen writing on receipt",
+    "Perforated pad slip with carbon copy underneath",
+    "Grease marks on receipt",
+    "Receipt displaying \"Taquer\u00eda El Z\u00f3calo\", \"3 Tacos al Pastor\", \"1 Jarritos Mandarin\", \"1 Churro\", and \"Total: $89 MXN\"",
+    "Surface",
+    "Tray",
+    "Fresh lime wedges",
+    "Bowl of salsa verde",
+    "Receipt positioned next to tray and bowl of salsa verde"
+  ]
+}

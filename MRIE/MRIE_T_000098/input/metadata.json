@@ -1,0 +1,25 @@
+{
+  "subtopic": "Comics",
+  "prompt": "Edit the comic strip in image 1. Change the title 'Spelling Words by Katie' to match the decorative hand-lettered style of image 2. Apply the distorted perspective text effect from image 3 to all text within the speech bubbles.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1750178584176,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "T",
+  "prompt_refined": "Edit image 1, a comic strip. Modify the title 'Spelling Words by Katie' located at the top of the comic strip to match the decorative, ornate, hand-lettered graphic style displayed in image 2. Apply the 3D perspective distortion effect, as demonstrated by the text in image 3, to all text content within the speech bubbles throughout image 1.",
+  "annotator": "winston",
+  "objects": [
+    "Comic strip layout with panels",
+    "Girl character with brown hair and green shirt",
+    "Boy character with red shirt, yellow shorts, on a skateboard",
+    "Speech bubbles",
+    "Title 'Spelling Words by Katie' in a decorative, ornate, hand-lettered graphic style at the top of the comic strip",
+    "Text content within speech bubbles with a 3D perspective distortion effect",
+    "\"WOW\" graphic within a speech bubble with a 3D perspective distortion effect"
+  ]
+}

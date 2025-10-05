@@ -1,0 +1,24 @@
+{
+  "task": "MRIE",
+  "topic": "P",
+  "subtopic": "Wildlife & Nature Photography",
+  "prompt": "Make the tree and the bird (slightly blurred) in the second image appear in the foreground of the first image. Also add the giraffe, rotated looking at the bird, from the third image to the background.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Place the branch with the robin from image 2 into the immediate foreground of image 1, ensuring the robin appears slightly blurred. Additionally, insert the giraffe from image 3 into the far background of image 1, positioned so its head is turned towards the robin.",
+  "annotator": "boris",
+  "objects": [
+    "branch in the immediate foreground",
+    "slightly blurred robin",
+    "giraffe in the far background with head turned towards the robin",
+    "mountains",
+    "trees",
+    "wooden shed",
+    "grassy field",
+    "hay bales"
+  ]
+}

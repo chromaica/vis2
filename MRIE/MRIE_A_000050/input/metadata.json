@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "In the first image, replace the flamingo with the peacock from the second image, and replace the starry sky with the cloudy sky from the third image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit Image 1. Replace the white flamingo in the bottom right with the peacock from Image 2. Change the dark, starry night sky background to the bright, cloudy sky depicted in Image 3.",
+  "annotator": "paria",
+  "objects": [
+    "Girl with butterfly wings",
+    "Planets (various)",
+    "Moon",
+    "Sun (yellow flower)",
+    "Mountain",
+    "Pink flowering bushes",
+    "Red flowers",
+    "Butterflies",
+    "Peacock (in bottom right)",
+    "Bright, cloudy sky background"
+  ]
+}

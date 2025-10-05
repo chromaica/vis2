@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Switch the active directory to the Desktop.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. In the File Explorer window, navigate from the currently selected 'Documents' directory to the 'Desktop' directory. Highlight 'Desktop' in the left-hand navigation pane, update the address bar at the top of the window to display 'Desktop', and replace the main content area with the typical files and folders found on a user's desktop.",
+  "annotator": "cwhsu",
+  "objects": [
+    "File Explorer window",
+    "Left-hand navigation pane",
+    "'Desktop' highlighted in the left-hand navigation pane",
+    "Address bar displaying 'Desktop'",
+    "Main content area",
+    "Typical desktop files and folders in the main content area",
+    "Windows taskbar",
+    "'Documents' directory (should not be highlighted)",
+    "Information Theory (McKay).pdf (should not be present)",
+    "Introduction to Fourier Optics 2ed Goodman J. (should not be present)"
+  ]
+}

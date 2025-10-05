@@ -1,0 +1,19 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Long exposure",
+  "prompt": "A mesmerizing photograph of a starry sky, where long exposure reveals the swirling star trails creating concentric circles, showcasing the earth's rotation on a clear night in the countryside.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A photorealistic, long-exposure photograph of a clear night sky in the countryside. The image features countless stars whose trails form vibrant, swirling concentric circles, vividly showcasing Earth's rotation. The foreground subtly reveals the dark silhouettes of rolling hills and distant trees, grounding the majestic celestial display.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Clear night sky",
+    "Countryside",
+    "Countless stars",
+    "Star trails forming vibrant, swirling concentric circles",
+    "Dark silhouettes of rolling hills in foreground",
+    "Dark silhouettes of distant trees in foreground"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,28 @@
+{
+  "subtopic": "Receipts",
+  "prompt": "Create a screenshot of a modern digital receipt, adopting the clean, structured layout and flat UI style of the reference image. Turn the style into green color. Include standard receipt sections like summary, amount paid, and payment details.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://b.stripecdn.com/docs-statics-srv/assets/terminal-pre-built-receipt.64db66739eaf8f8db1f9dd61c463a322.png",
+  "promptGeneratedTimestamp": 1748769158772,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a full-screen screenshot of a modern digital receipt. Emulate the clean, structured layout, minimalist design, and flat UI style observed in image 1. Maintain the centered content area with a prominent top header, a main information section, and a detailed footer. All existing blue and purple color elements in image 1, including the header background, the circular logo, and any text accents (e.g., 'Amount paid' text, hyperlinks), must be replaced with corresponding shades of green. The receipt should clearly present standard sections such as: 'Amount Paid' (top left), 'Date Paid' (top center), 'Payment Method' (top right), and a 'Summary' section (central block) displaying line items and a total 'Amount paid'. The footer should include contact information and additional details as depicted in image 1.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Full-screen modern digital receipt UI",
+    "Green-shaded top header background",
+    "Green circular logo (or similar brand icon)",
+    "Centered content area",
+    "Prominent receipt title (e.g., \"Receipt from...\")",
+    "\"Amount Paid\" (top left), \"Date Paid\" (top center), \"Payment Method\" (top right) sections",
+    "\"SUMMARY\" section with line items",
+    "Total \"Amount paid\" value displayed in green",
+    "Footer with contact information (email, phone number in green)",
+    "Footer with additional details (including green hyperlinks)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

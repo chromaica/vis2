@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Renaissance",
+  "prompt": "Repair the cracks in the painting. Make the brightness consistent across the painting. Add a strong light source from the top left corner of the painting, adjust the shadows accordingly.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, depicting Michelangelo's 'The Creation of Adam'. First, meticulously remove all visible cracks and surface imperfections from the entire artwork. Next, adjust the overall brightness and contrast to ensure a consistent and uniform base illumination across the painting, eliminating any pre-existing unevenness or discoloration. Finally, introduce a strong, directional light source originating from the top-left corner of the image. Update all shadows, highlights, and ambient light throughout the entire painting to accurately reflect this new lighting condition.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Adam",
+    "God",
+    "Angels/Cherubs surrounding God",
+    "Red drapery/mantle surrounding God",
+    "Blue/green landscape/ground beneath Adam",
+    "Adam's outstretched hand",
+    "God's outstretched hand",
+    "Visible cracks (should not be present)",
+    "Surface imperfections (should not be present)",
+    "Uneven illumination or discoloration (should not be present)"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Portraits",
+  "prompt": "Make the girl in image 1 wear the glasses from image 2, and place the feather pen and ink bottle from image 3 on the desk next to her book.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Make the girl wear the red cat-eye glasses from image 2. Additionally, place the feather pen and the ink bottle from image 3 on the desk surface, to the right of her open book.",
+  "annotator": "paria",
+  "objects": [
+    "girl",
+    "red cat-eye glasses (worn by the girl)",
+    "wooden chair",
+    "desk surface",
+    "open book (on the desk)",
+    "feather pen (on the desk surface, to the right of the open book)",
+    "ink bottle (on the desk surface, to the right of the open book)"
+  ]
+}

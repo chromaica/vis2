@@ -1,0 +1,19 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "CAD models",
+  "prompt": "A CAD model of a tension spring, with two hooks on the ends.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A highly detailed 3D CAD model rendering of a metallic tension spring, featuring a tightly coiled body and two distinct hooks on its ends. The spring is centrally positioned in the frame, rendered with studio lighting against a clean, plain background.",
+  "annotator": "maxku",
+  "objects": [
+    "3D CAD model rendering style",
+    "metallic tension spring",
+    "tightly coiled spring body",
+    "two distinct spring hooks",
+    "centrally positioned spring",
+    "studio lighting",
+    "clean, plain background"
+  ]
+}

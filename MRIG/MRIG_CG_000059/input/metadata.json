@@ -1,0 +1,26 @@
+{
+  "subtopic": "Facial estimation and analysis",
+  "prompt": "A computer graphics diagram for facial analysis: use the array pattern of the cigarettes from image 1 for feature points, processed using a mechanism inspired by the drill from image 2, in a high-key studio style.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748423167033,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a computer graphics diagram for facial analysis. The diagram should display abstract feature points arranged in the precise array pattern of the cigarettes visible in image 1. A visual processing mechanism, clearly inspired by the distinct shape and rotational function of the drill from image 2 (specifically its front chuck and main body), should be depicted interacting with or analyzing these feature points. The entire composition must be rendered in a high-key studio style, characterized by bright, uniform lighting and a clean, light-colored background.",
+  "annotator": "winston",
+  "objects": [
+    "abstract feature points",
+    "feature points in precise array pattern (inspired by image 1 cigarettes)",
+    "visual processing mechanism",
+    "visual processing mechanism with drill front chuck and main body shape (inspired by image 2)",
+    "visual processing mechanism interacting with feature points",
+    "depiction of rotational function (of the mechanism)",
+    "high-key studio style",
+    "bright, uniform lighting",
+    "clean, light-colored background"
+  ]
+}

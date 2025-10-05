@@ -1,0 +1,26 @@
+{
+  "subtopic": "Object detection visuals",
+  "prompt": "Edit image 1 to create an object detection visualization. Place a bounding box around the penguin with a label. Add elements from image 2 (acorns, leaves) around the penguin, also marked with detection boxes. Render the entire scene in the stylized illustration style and color palette of image 3.",
+  "cond_images": [
+    "1.png",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748455883473,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Modify image 1 to transform it into an object detection visualization. Enclose the central penguin with a bounding box labeled 'penguin'. Incorporate several distinct acorns and autumn leaves, drawing inspiration from image 2, positioning them around the penguin. Each new acorn and leaf must also be enclosed within its own bounding box, labeled 'acorn' or 'leaf' respectively. The entire scene, including the penguin, all added elements, and bounding boxes, should be rendered in the unique stylized illustration style and characteristic muted color palette of image 3.",
+  "annotator": "winston",
+  "objects": [
+    "Central penguin",
+    "Bounding box labeled 'penguin' enclosing the central penguin",
+    "Several distinct acorns positioned around the penguin",
+    "Bounding box labeled 'acorn' enclosing each new acorn",
+    "Several distinct autumn leaves positioned around the penguin",
+    "Bounding box labeled 'leaf' enclosing each new leaf"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

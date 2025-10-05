@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "T",
+  "subtopic": "Typography-not-english",
+  "prompt": " Generate the word 'Travel' using bilingual typography where the first half is in Persian script in the style of the first image and the second half mimics the Korean stroke style from the second image, all arranged diagonally.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate the word 'Travel'. The 'Tra' portion of the word should be rendered in a calligraphic Persian script, specifically adopting the elegant, flowing style with varying stroke thickness and artistic curves evident in image 1. The 'vel' portion should mimic the bold, rounded, and thick stroke characteristics of the Korean Hangul typography shown in image 2. The complete word 'Travel' should be arranged diagonally across the visual space.",
+  "annotator": "parnian",
+  "objects": [
+    "The word 'Travel'",
+    "The letters 'Tra'",
+    "The letters 'vel'",
+    "Calligraphic Persian script style for 'Tra'",
+    "Bold, rounded, thick stroke typography style for 'vel'",
+    "Diagonal arrangement of the word 'Travel'",
+    "Elegant and flowing characteristics for the 'Tra' portion",
+    "Varying stroke thickness within the 'Tra' portion",
+    "Artistic curves within the 'Tra' portion"
+  ],
+  "human_annotation": true
+}

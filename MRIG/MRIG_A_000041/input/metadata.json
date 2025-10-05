@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Stylized art",
+  "prompt": "A stylized artwork of the goat from the first image, rendered in the coloring and style of the second image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a stylized artwork of the goat character from image 1. The new image should adopt the highly vibrant, psychedelic color palette, bold black outlines, and clean, abstract digital art style observed in image 2, including similar swirling background patterns.",
+  "annotator": "samin",
+  "objects": [
+    "Goat character",
+    "Highly vibrant color palette",
+    "Psychedelic colors",
+    "Bold black outlines",
+    "Clean digital art style",
+    "Abstract art style",
+    "Swirling background patterns",
+    "Goat's horns",
+    "Goat's large eyes",
+    "Goat's striped sweater"
+  ],
+  "human_annotation": true
+}

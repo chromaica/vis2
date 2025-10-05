@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": "Turn the clear sky into a torrential downpour, with rain streaks and wet reflections on surfaces night sky.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the comic panel depicting a man on a ship deck looking out at the ocean. Change the current daytime sky into a night sky. Transform the entire scene to show a torrential downpour, including distinct rain streaks falling from the dark sky into the ocean, and add wet reflections on the choppy ocean surface and visible ship surfaces like the railing.",
+  "annotator": "matina",
+  "objects": [
+    "man on a ship deck",
+    "ship railing",
+    "choppy ocean surface",
+    "night sky",
+    "torrential downpour",
+    "distinct rain streaks",
+    "wet reflections on ocean surface",
+    "wet reflections on ship surfaces",
+    "speech bubbles with text",
+    "comic panel borders"
+  ]
+}

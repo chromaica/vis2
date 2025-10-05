@@ -1,0 +1,21 @@
+{
+  "subtopic": "Icons and symbols",
+  "prompt": "Please generate other math symbol icons based on the style from the provided image. You should generate addition, subtraction, multiplication, and division symbol.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://cdn0.iconfinder.com/data/icons/buno-arrows-simple/32/__infinity_loop_arrow-512.png",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate four separate information graphic icons: one for addition, one for subtraction, one for multiplication, and one for division. Each icon must replicate the specific visual style of the infinity symbol shown in image 1, including its solid blue color, flat design, and minimalistic aesthetic. The icons should be clear, simple, and suitable for digital display or infographics.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Information graphic icon for addition (plus symbol)",
+    "Information graphic icon for subtraction (minus symbol)",
+    "Information graphic icon for multiplication (multiplication symbol)",
+    "Information graphic icon for division (division symbol)",
+    "Solid blue color",
+    "Flat design",
+    "Minimalistic aesthetic"
+  ]
+}

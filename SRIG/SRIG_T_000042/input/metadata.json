@@ -1,0 +1,26 @@
+{
+  "subtopic": "Comics",
+  "prompt": "Render a comic-style depiction of the lifeboat and crew from the reference image, adding bold outlines, vibrant colors, and graphic text overlays like dynamic sound effects ('SPLASH!', 'WHOOSH').",
+  "cond_images": [
+    "1.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1750705605888,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "T",
+  "annotator": "winston",
+  "prompt_refined": "Generate a comic-style image of the lifeboat and crew depicted in image 1. The scene should feature bold outlines, vibrant colors, and dynamic graphic text overlays. Specifically, include the sound effect 'SPLASH!' positioned near the boat's wake and 'WHOOSH' conveying the boat's forward motion.",
+  "objects": [
+    "comic-style lifeboat",
+    "comic-style crew members",
+    "comic-style water",
+    "boat's wake",
+    "'SPLASH!' text overlay positioned near the boat's wake",
+    "'WHOOSH' text overlay conveying forward motion",
+    "bold outlines",
+    "vibrant colors",
+    "harbor background"
+  ],
+  "human_annotation": true
+}

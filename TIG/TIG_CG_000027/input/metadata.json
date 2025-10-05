@@ -1,0 +1,17 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "Texture Map",
+  "prompt": "A normal map of old concrete, with small cracks and uneven surface roughness.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A highly detailed normal map of aged concrete, featuring numerous small cracks and pronounced, irregular surface roughness.",
+  "annotator": "maxku",
+  "objects": [
+    "Normal map",
+    "Aged concrete texture",
+    "Small cracks (on surface)",
+    "Irregular surface roughness (on surface)",
+    "High level of detail"
+  ]
+}

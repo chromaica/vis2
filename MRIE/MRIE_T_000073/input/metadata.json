@@ -1,0 +1,32 @@
+{
+  "subtopic": "Branding and visual identity",
+  "prompt": "Edit image 1 by replacing the background and applying the modern graphic style from image 2. Rearrange the brand logos into a hierarchical structure inspired by image 3. Incorporate streetwear logos from image 4 into this structure. Apply varied textures and color treatments to different logo groups, referencing the packaging diversity in image 5. Update the text using image 2's typography.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg",
+    "4.jpeg",
+    "5.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749712291151,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "T",
+  "prompt_refined": "Edit image 1. Replace its current black background with the deep blue, subtle dotted pattern background from image 2. Rearrange the brand logos from image 1 (e.g., Chanel, Zara, Adidas) and incorporate additional streetwear brand logos from image 4 (e.g., Supreme, Nike, Stussy) into a unified hierarchical pyramid structure, following the tiered layout demonstrated in image 3. Apply varied textures and distinct color treatments to different groups of logos within this hierarchy, referencing the diverse packaging aesthetics in image 5 (e.g., glossy, metallic, matte finishes). Update the existing 'TOP Fashion BRANDS' text from image 1 to use the clean, bold sans-serif typography style from image 2, and position it prominently as a title for the new logo hierarchy.",
+  "annotator": "winston",
+  "objects": [
+    "deep blue, subtle dotted pattern background",
+    "black background (should not be present)",
+    "unified hierarchical pyramid structure of brand logos",
+    "Chanel logo",
+    "Zara logo",
+    "Adidas logo",
+    "Supreme logo",
+    "Nike logo",
+    "\"TOP Fashion BRANDS\" text as a prominent title",
+    "varied textures (glossy, metallic, matte) and distinct color treatments applied to groups of logos"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,22 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Transform the space setting to an underwater theme with colorful corals and sea creatures along the path.",
+  "cond_images": [
+    "1.jpeg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Transform the existing space background into a vibrant underwater environment. Replace the cosmic elements with deep blue water, shafts of light filtering from the surface, and distant submerged formations. Introduce colorful corals and various sea creatures, such as fish and jellyfish, positioned along both sides of the gray game path, appearing to emerge from the seabed or swimming nearby.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Deep blue water",
+    "Shafts of light filtering from the surface",
+    "Distant submerged formations",
+    "Colorful corals along both sides of the gray game path",
+    "Fish along both sides of the gray game path",
+    "Jellyfish along both sides of the gray game path",
+    "Gray game path",
+    "Cosmic elements (should not be present)"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "subtopic": "Software interfaces",
+  "prompt": "Edit image 1: Update the visual style of the toolbar icons and the main tabs ('Duplicate files', 'Duplicate folders') in the software interface, adopting the clean, grayscale aesthetic and rounded corners seen in the UI elements of image 2.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751004852117,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit image 1: Re-render the toolbar icons and the main horizontal tabs ('Duplicate files' and 'Duplicate folders') within the software interface to adopt the clean, grayscale aesthetic and rounded corners seen in the UI elements of image 2.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Software application interface (Duplicate Cleaner Pro 4.1.0)",
+    "Toolbar icons with grayscale, rounded aesthetic",
+    "'Duplicate files' tab with grayscale, rounded aesthetic",
+    "'Duplicate folders' tab with grayscale, rounded aesthetic",
+    "Menu bar (File, View, Options, Help)",
+    "Search criteria bar",
+    "Main data grid showing files/folders",
+    "Left-hand \"Selection assistant\" panel",
+    "Status bar at the bottom of the window",
+    "Window title bar"
+  ],
+  "human_annotation": true
+}

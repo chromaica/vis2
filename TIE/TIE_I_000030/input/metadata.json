@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Redesign with watercolor brush strokes and pastel colors, giving a soft, artistic touch to each section.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, which displays a hand-drawn mind map. Redesign all visual elements\u2014the central 'MIND MAPPING' node, main branches, sub-branches, text, and icons\u2014using watercolor brush strokes. Apply a pastel color palette to these elements to create a soft, artistic aesthetic for the entire information graphic.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Central \"MIND MAPPING\" node",
+    "Main branches (e.g., BENEFITS, PLANNING)",
+    "Sub-branches (e.g., Overview, Projects)",
+    "Text labels (e.g., \"Easy to memorize\", \"Strategies\", \"Teamwork\")",
+    "Checkmark icons",
+    "Three stick figure icon",
+    "Red flag icon",
+    "Light bulb icon",
+    "Lightning bolt icon"
+  ],
+  "human_annotation": true
+}

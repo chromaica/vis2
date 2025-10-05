@@ -1,0 +1,28 @@
+{
+  "subtopic": "Wildlife & Nature Photography",
+  "prompt": "Edit image 1: Apply a warm, soft focus bokeh lighting effect to the background, inspired by the atmospheric light in image 2. Introduce subtle, soft-focus floral elements into the foreground grass, similar to the blurred flowers seen in image 3, maintaining a photorealistic photography style.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748571359276,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "P",
+  "prompt_refined": "Edit image 1: Apply a warm, soft-focus bokeh lighting effect to the distant hills and sky in the background, drawing inspiration from the golden, atmospheric light and prominent circular bokeh in image 2. Introduce subtle, soft-focus floral elements into the lower foreground grass, resembling the delicate, blurred white daisies depicted in image 3. Maintain a consistent photorealistic photography style throughout the edited image.",
+  "annotator": "boris",
+  "objects": [
+    "Two horses",
+    "Distant hills in the background",
+    "Sky in the background",
+    "Lower foreground grass",
+    "Warm, soft-focus bokeh lighting effect in the background",
+    "Golden atmospheric light in the background",
+    "Prominent circular bokeh in the background",
+    "Subtle, soft-focus floral elements in the lower foreground",
+    "Blurred white daisies in the lower foreground"
+  ],
+  "human_annotation": true
+}

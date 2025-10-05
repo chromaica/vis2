@@ -1,0 +1,23 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": "Add a cloud-style thought bubble above them with a tiny self-portrait doodle inside.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Add a cloud-style thought bubble in the space directly above the man's head. Inside the thought bubble, include a tiny doodle depicting a self-portrait of the man from image 1.",
+  "annotator": "matina",
+  "objects": [
+    "man",
+    "suit",
+    "bow tie",
+    "monocle",
+    "arrow striking man",
+    "cloud-style thought bubble above the man's head",
+    "tiny doodle of the man's self-portrait inside the thought bubble",
+    "text panel",
+    "yellow background"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "a realistic galaxy scene with an asteroid belt shaped according to the black areas in the reference image.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic image of a vast galaxy scene. A prominent asteroid belt should be included, with the placement and overall structural pattern of the asteroids precisely matching the distribution of the black areas in image 1.",
+  "annotator": "samin",
+  "objects": [
+    "vast galaxy scene",
+    "prominent asteroid belt",
+    "asteroids (with placement and structural pattern matching the black areas in image 1)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

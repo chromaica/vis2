@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Replace the AMD logo in the meme with the CPU in the second image. Replace the Intel logo in the meme with the CPU in the third image. Finally, make the caption more clear to the viewer by making them bold yellow with thick black outline.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the provided meme image (Image 1).\nReplace the 'AMD' logo in the top-left panel of Image 1 with the AMD Ryzen Pro CPU from Image 2.\nReplace the 'AMD' logo in the bottom-left panel of Image 1 with the AMD Ryzen Pro CPU from Image 2.\nReplace the 'Intel' logo in the top-right panel of Image 1 with the Intel Core i3 CPU from Image 3.\nReplace the 'Intel' logo in the bottom-right panel of Image 1 with the Intel Core i3 CPU from Image 3.\nEnsure all replaced CPU images are scaled, oriented, and lit to seamlessly integrate into their respective meme panels.\nFinally, modify the existing text captions in Image 1, specifically: 'ZEN 4 WILL HAVE 128 CORES' (top-left panel), 'YOU MEAN THREADS, RIGHT?' (top-right panel), and 'IT'S THREADS, RIGHT?' (bottom-right panel). Make these captions bold, yellow, and add a thick black outline to each text element.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Anakin Skywalker (in left panels)",
+    "Padm\u00e9 Amidala (in right panels)",
+    "AMD Ryzen Pro CPU (in top-left panel)",
+    "AMD Ryzen Pro CPU (in bottom-left panel)",
+    "Intel Core i3 CPU (in top-right panel)",
+    "Intel Core i3 CPU (in bottom-right panel)",
+    "Text: \"ZEN 4 WILL HAVE 128 CORES\" (bold, yellow, with thick black outline, in top-left panel)",
+    "Text: \"YOU MEAN THREADS, RIGHT?\" (bold, yellow, with thick black outline, in top-right panel)",
+    "Text: \"NO.\" (in bottom-left panel)",
+    "Text: \"IT'S THREADS, RIGHT?\" (bold, yellow, with thick black outline, in bottom-right panel)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

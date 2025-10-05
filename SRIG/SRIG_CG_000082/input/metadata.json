@@ -1,0 +1,28 @@
+{
+  "subtopic": "Semantic or Instance segmentation",
+  "prompt": "Generate an image illustrating computer graphics semantic segmentation. Depict a detailed outdoor environment with diverse objects like trees, rocks, and water. Overlay distinct, colorful segmentation masks and bounding boxes on each element, following the visual representation style shown in the reference image.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://cdn.prod.website-files.com/645cec60ffb18d5ebb37da4b/65eb06b3ab1469ae9be3b19d_yolov81.jpg",
+  "promptGeneratedTimestamp": 1748769570102,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate an image illustrating computer graphics semantic segmentation. The image should depict a detailed outdoor environment, featuring diverse natural elements such as trees, rocks, and water. Overlay the scene with distinct, colorful, and semi-transparent segmentation masks on each identified element. These masks, along with thin, green bounding boxes precisely outlining each segmented object, must visually emulate the style observed in image 1, including varied mask colors (e.g., green, yellow, pink), clear boundaries, and the presence of bounding boxes that may contain small text labels. Ensure the segmentation comprehensively covers the majority of visible objects in the outdoor scene.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Detailed outdoor environment",
+    "Trees",
+    "Rocks",
+    "Water",
+    "Semi-transparent segmentation masks",
+    "Distinct, varied mask colors (e.g., green, yellow, pink)",
+    "Clear boundaries for segmentation masks",
+    "Thin, green bounding boxes",
+    "Small text labels within bounding boxes",
+    "Comprehensively segmented objects covering the majority of the scene"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

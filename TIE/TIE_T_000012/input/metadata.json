@@ -1,0 +1,25 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Swap their faces so Batman looks like a frustrated CI/CD pipeline and Robin is a smiling \u2018All tests passed\u2019 badge.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the facial regions of both characters. Replace Batman's face, located on the right side of the image, with a visual representation of a frustrated CI/CD pipeline, including error messages, red indicators, and a 'failed' status. Replace Robin's head, located on the left side of the image (viewed from the back), with a smiling 'All tests passed' badge, featuring a green background, a prominent checkmark, and a cheerful expression.",
+  "annotator": "matina",
+  "objects": [
+    "Batman's body (on the right)",
+    "Robin's body (on the left, viewed from the back)",
+    "Frustrated CI/CD pipeline (replacing Batman's face), including error messages, red indicators, and 'failed' status",
+    "Smiling 'All tests passed' badge (replacing Robin's head), with a green background, prominent checkmark, and cheerful expression",
+    "Speech bubble with \"WE WISH YOU A MERRY CHRIS-\"",
+    "Speech bubble with \"IT'S NOVEMBER!\"",
+    "Red background",
+    "Comic book art style",
+    "Batman's face (should not be present)",
+    "Robin's head (should not be present)"
+  ],
+  "human_annotation": true
+}

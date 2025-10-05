@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": "Create a dynamic textual graphic featuring the bold onomatopoeia 'ZAP!' executed in a vibrant comic book aesthetic. Use thick, blocky yellow lettering, outlined in bright red with sharp white highlights. Angle the text dynamically, making it burst forward from a stylized comic panel fragment that includes subtle halftone dots and speed lines to suggest an explosion or sudden action.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate an image of a dynamic textual graphic in a vibrant comic book aesthetic. The bold onomatopoeia 'ZAP!' should be prominently displayed using thick, blocky yellow lettering, sharply outlined in bright red with crisp white highlights. Angle the 'ZAP!' text dynamically, making it burst forward from the center of a stylized comic panel fragment. This panel fragment should include subtle halftone dots and energetic speed lines, effectively conveying an explosion or sudden action.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "onomatopoeia 'ZAP!' text",
+    "thick, blocky yellow lettering for 'ZAP!'",
+    "bright red outline on 'ZAP!'",
+    "crisp white highlights on 'ZAP!'",
+    "dynamically angled 'ZAP!' text",
+    "stylized comic panel fragment",
+    "subtle halftone dots on comic panel fragment",
+    "energetic speed lines on comic panel fragment"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

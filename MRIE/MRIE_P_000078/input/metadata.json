@@ -1,0 +1,24 @@
+{
+  "subtopic": "Medical images",
+  "prompt": "Edit image 1: Apply the edge detection style from image 2 to highlight anatomical contours. Relocate the lesion from its position in image 1 to the anterior location shown in image 3, using the lesion's appearance from image 3.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749225565810,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "P",
+  "prompt_refined": "Edit image 1. Apply the edge detection style from image 2 across the entire image to accentuate anatomical contours of the brain. Subsequently, remove the existing lesion from its current position on the right side of the brain in image 1 and introduce a new lesion in the anterior-superior location, accurately replicating the appearance, including its size, shape, texture, and brightness, from the lesion depicted in image 3.",
+  "annotator": "boris",
+  "objects": [
+    "Brain with accentuated anatomical contours",
+    "Edge detection style applied across the entire image",
+    "Lesion on the right side of the brain (should not be present)",
+    "New lesion in anterior-superior location, replicating the appearance (size, shape, texture, and brightness) from image 3"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

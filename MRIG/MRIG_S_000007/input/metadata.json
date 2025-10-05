@@ -1,0 +1,23 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "Generate a fighting game scene where the characters from the first and second images are battling, using the background texture from the third image.",
+  "cond_images": [
+    "1.png",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a dynamic fighting game scene. The character Shrek, referencing image 1, is on the left, engaged in combat with the character Batman, referencing image 2, who is on the right. The entire scene's background and environment should replicate the fiery, war-torn landscape, glowing sky, and embedded weapons visible in image 3.",
+  "annotator": "paria",
+  "objects": [
+    "Shrek (on the left)",
+    "Batman (on the right)",
+    "Dynamic fighting scene",
+    "Fiery landscape background",
+    "War-torn environment background",
+    "Glowing sky background",
+    "Embedded weapons in the background"
+  ]
+}

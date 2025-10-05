@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Transfer the brightness from the second image (brightness map) to the source image, adjusting the lighting to match the brighter tones of the second image while preserving the foggy atmosphere.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the photograph of the Golden Retriever in the forest. Apply the overall lighting characteristics and the strong, bright illumination originating from the upper area, as depicted in image 2 (the brightness map), to image 1. Preserve the existing foggy atmosphere of image 1, ensuring the resulting image is photorealistic.",
+  "annotator": "nimajamali",
+  "objects": [
+    "Golden Retriever",
+    "Forest",
+    "Trees",
+    "Moss-covered ground",
+    "Water in the foreground",
+    "Reflections in water",
+    "Foggy atmosphere",
+    "Strong, bright sunlight originating from the upper area"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

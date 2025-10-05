@@ -1,0 +1,26 @@
+{
+  "subtopic": "Depth maps",
+  "prompt": "A computer graphics rendering illustrating a depth map. Utilize the composition and shallow depth of field effect from image 1, applied to a subject like the woman from image 2, showing relative distance as grayscale values.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748422232265,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a computer graphics rendering illustrating a depth map. The central subject should be a woman resembling the individual in image 2, depicted with the close-up, profile composition and pronounced shallow depth of field effect observed in image 1. The depth map must represent relative distances using a grayscale gradient, with closer elements appearing brighter (white) and farther elements appearing darker (black).",
+  "annotator": "winston",
+  "objects": [
+    "Depth map",
+    "Woman",
+    "Close-up composition",
+    "Profile view of the woman",
+    "Grayscale gradient for depth representation",
+    "Brighter/white tones for closer elements",
+    "Darker/black tones for farther elements",
+    "Shallow depth of field effect",
+    "Background"
+  ]
+}

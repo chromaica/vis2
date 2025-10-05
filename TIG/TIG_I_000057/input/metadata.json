@@ -1,0 +1,23 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "Productivity app icon featuring a tree where each leaf is a tiny calendar square, forest green trunk with golden leaves, flat illustration",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Flat illustration productivity app icon. A stylized tree is centrally placed, featuring a forest green trunk and branches. The tree's canopy is formed by numerous small, golden calendar squares, each acting as a leaf. Clean, solid background.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Stylized tree",
+    "Centrally placed tree",
+    "Forest green tree trunk",
+    "Forest green tree branches",
+    "Tree canopy",
+    "Numerous small calendar squares",
+    "Golden calendar squares",
+    "Calendar squares acting as leaves",
+    "Clean background",
+    "Solid background"
+  ],
+  "human_annotation": true
+}

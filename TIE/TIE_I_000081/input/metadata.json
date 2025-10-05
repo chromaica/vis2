@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Floor Plan",
+  "prompt": "Add solar panels to the roof design, incorporating renewable energy features.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "On image 1, an architectural blueprint, add solar panels to the roof design. Ensure the solar panels are depicted in the same blueprint style (white lines on blue background) and are positioned across the main flat sections of the roof, integrating renewable energy features into the building's overall design.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Architectural blueprint background (blue grid)",
+    "Building structure (white line drawing)",
+    "Building windows (white line drawing)",
+    "Building roof design (white line drawing)",
+    "Dimension lines and arrows",
+    "Numerical measurements",
+    "Numbered labels",
+    "Text watermarks (e.g., \"alamy\")",
+    "Solar panels on the roof (white line drawing, blueprint style, positioned across main flat sections)"
+  ],
+  "human_annotation": true
+}

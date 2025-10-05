@@ -1,0 +1,27 @@
+{
+  "subtopic": "Medical images",
+  "prompt": "In image 1, identify the wisdom tooth highlighted by the red overlay in image 2 and make it up-straight. Apply the cool blue radiographic style from image 3.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749228821145,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "P",
+  "prompt_refined": "Edit image 1. Identify the wisdom tooth in image 1, which is located on the far right and highlighted by the red overlay in image 2. Modify this tooth's orientation so it stands completely upright and is vertically aligned with the adjacent teeth. Concurrently, transform the entire image to adopt the distinct cool blue radiographic style and color palette present in image 3.",
+  "annotator": "boris",
+  "objects": [
+    "Dental X-ray",
+    "Multiple teeth",
+    "Wisdom tooth (standing completely upright and vertically aligned with adjacent teeth)",
+    "Adjacent teeth",
+    "Cool blue radiographic style",
+    "Cool blue color palette",
+    "Dark background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "A receipt from \"Grandma's Kitchen & Wisdom Co.\" in rural Alabama, handwritten in cursive showing peach cobbler, sweet tea, and preserves, on yellowed paper with flour dusting and a pressed flower",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A close-up shot of a vintage receipt from 'Grandma's Kitchen & Wisdom Co.' in rural Alabama. The receipt features handwritten cursive text, clearly listing 'Peach Cobbler,' 'Sweet Tea,' and 'Preserves.' It is printed on deeply yellowed, aged paper, with visible light flour dusting. A small, delicate pressed flower is gently placed on the receipt.",
+  "annotator": "theblackcat",
+  "objects": [
+    "vintage receipt",
+    "\"Grandma's Kitchen & Wisdom Co.\" text on receipt",
+    "handwritten cursive text on receipt",
+    "\"Peach Cobbler\" text on receipt",
+    "\"Sweet Tea\" text on receipt",
+    "\"Preserves\" text on receipt",
+    "deeply yellowed paper texture on receipt",
+    "aged paper texture on receipt",
+    "light flour dusting on receipt",
+    "small pressed flower on receipt"
+  ]
+}

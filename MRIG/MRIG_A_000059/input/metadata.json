@@ -1,0 +1,21 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Stylized art",
+  "prompt": "A stylized landscape painting combining the tranquil subject of a tree on water from image 1 with the vibrant colors and abstract, flowing shapes found in the art style of image 2.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a stylized landscape painting. Feature a tranquil, vibrant pink-blossomed tree, drawing inspiration from the central subject of image 1, positioned on a small island within calm, reflective water. The artistic style for the entire composition, including the water, island, and background elements, should adopt the vibrant and saturated color palette (e.g., bold blues, purples, oranges, greens, yellows) and the distinctive abstract, flowing, undulating shapes characteristic of image 2.",
+  "annotator": "samin",
+  "objects": [
+    "tranquil, vibrant pink-blossomed tree",
+    "small island",
+    "calm, reflective water",
+    "landscape background elements"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

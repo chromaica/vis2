@@ -1,0 +1,23 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "A digital collage of urban graffiti layered with classical paintings, creating a contemporary street art vibe.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a digital collage artwork. Vibrant urban graffiti, including tags and stenciled murals, is layered with fragmented classical paintings, such as portraits and landscapes. The classical elements should appear partially obscured and integrated into the raw, dynamic aesthetic of the street art, creating a distinct contemporary urban art piece.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Digital collage artwork",
+    "Vibrant urban graffiti",
+    "Graffiti tags",
+    "Stenciled murals",
+    "Fragmented classical paintings",
+    "Fragmented classical portraits",
+    "Fragmented classical landscapes",
+    "Layered visual elements",
+    "Partially obscured classical elements"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

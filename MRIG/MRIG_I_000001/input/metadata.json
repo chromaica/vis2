@@ -1,0 +1,27 @@
+{
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Generate a chart depicting multiple trend lines over time, similar to the data display in image 1, but visually rendered with the antique, hand-drawn lines and shaded areas characteristic of the style in image 2.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1750574223782,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "I",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a line chart depicting multiple distinct trend lines over time, similar in data structure and display to image 1. The visual presentation should adopt the antique, hand-drawn aesthetic found in image 2. Specifically, the chart should feature slightly imperfect, hand-sketched lines, and include prominent shaded areas between various trend lines or between lines and the X-axis, consistent with the style of the 'BALANCE' regions in image 2. These shaded regions should utilize a muted, vintage color palette and may incorporate integrated textual labels, as demonstrated in image 2.",
+  "objects": [
+    "Line chart structure",
+    "Multiple distinct trend lines",
+    "X-axis (time-based progression)",
+    "Y-axis",
+    "Slightly imperfect, hand-sketched lines",
+    "Prominent shaded areas between trend lines or between lines and the X-axis",
+    "Muted, vintage color palette for shaded regions",
+    "Integrated textual labels within shaded regions",
+    "Chart title",
+    "Aged paper texture background"
+  ]
+}

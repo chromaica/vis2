@@ -1,0 +1,26 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Replace the background of each slide with a watercolor painting of a serene Italian countryside.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the background of the large slide displayed on the right, and the backgrounds of the three slide thumbnails in the left pane (labeled 1, 2, and 3), with a watercolor painting of a serene Italian countryside.",
+  "annotator": "cwhsu",
+  "objects": [
+    "PowerPoint application window interface",
+    "Large slide display on the right",
+    "Slide thumbnail 1 (on the left)",
+    "Slide thumbnail 2 (on the left)",
+    "Slide thumbnail 3 (on the left)",
+    "Text \"Mongibello Artisan Pasta\"",
+    "Text \"About Our Business\"",
+    "Image of pasta making",
+    "Image of people",
+    "Watercolor painting of a serene Italian countryside"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

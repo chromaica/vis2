@@ -1,0 +1,27 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Cultural or Heritage art",
+  "prompt": "A standing human figure in the pose of image 3, rendered in the artistic style and texture of the bronze sculpture from image 1, wearing the vibrant beaded crown from image 2.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate an image of a standing full-body male figure, adopting the pose and posture of the smiling man from image 3. The figure is rendered as a sculpture in the distinct ancient bronze style and texture of the bronze head from image 1, incorporating its characteristic vertical facial striations and aged verdigris patina. It is wearing the elaborate, multi-colored beaded crown from image 2, positioned centrally on its head.",
+  "annotator": "samin",
+  "objects": [
+    "standing full-body male figure",
+    "pose and posture of the man from image 3",
+    "smiling expression",
+    "sculpture (rendered as)",
+    "ancient bronze style",
+    "texture of the bronze head from image 1",
+    "vertical facial striations (on the sculpture)",
+    "aged verdigris patina (on the sculpture)",
+    "elaborate, multi-colored beaded crown from image 2",
+    "crown positioned centrally on the head"
+  ],
+  "human_annotation": true
+}

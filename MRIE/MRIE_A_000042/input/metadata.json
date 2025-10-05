@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Oil painting",
+  "prompt": "Add the candle from the second image and the grapes from the third image next to the wine glasses in the first image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Integrate the lit candle in its brass candlestick from image 2 and place it on the table to the left of the left wine glass. Additionally, incorporate the red and green grape bunches from image 3, placing them on the table to the right of the right wine glass.",
+  "annotator": "paria",
+  "objects": [
+    "Wine bottle",
+    "Wine glass with red wine (left)",
+    "Wine glass with red wine (right)",
+    "Wine cork",
+    "Table",
+    "Lit candle in its brass candlestick on the table to the left of the left wine glass",
+    "Red grape bunch on the table to the right of the right wine glass",
+    "Green grape bunch on the table to the right of the right wine glass"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

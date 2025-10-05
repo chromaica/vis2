@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "Rotate each letter 90\u00b0 so the word reads horizontally, and increase letter-spacing by 25px.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 2. For the letters 'd', 'i', 'm' within the black box in image 2:\n1. Rotate each letter's glyph 90 degrees clockwise (so the top of each character points to the right).\n2. Maintain their horizontal arrangement so they continue to spell 'dim' from left to right.\n3. Increase the spacing between these rotated letters by 25 pixels relative to their current spacing.\nMaintain the overall visual style, texture, and paper characteristics as seen in image 1.",
+  "annotator": "matina",
+  "objects": [
+    "Light brown paper collage background with varying textures.",
+    "Handwritten annotations and red 'x' marks.",
+    "Black lowercase letters 'p', 'q', 'g' in the top row.",
+    "Black uppercase letters 'W', 'X', 'Y', 'Z' in the top row.",
+    "Black lowercase letters 'f', 'k', 'b', 'h' in the bottom row.",
+    "Black lowercase letter 'd' rotated 90 degrees clockwise, with its top pointing to the right.",
+    "Black lowercase letter 'i' rotated 90 degrees clockwise, with its top pointing to the right.",
+    "Black lowercase letter 'm' rotated 90 degrees clockwise, with its top pointing to the right.",
+    "Increased horizontal spacing (by 25 pixels) between the rotated 'd', 'i', and 'm' letters.",
+    "Overall visual style, texture, and characteristics consistent with aged paper and ink."
+  ]
+}

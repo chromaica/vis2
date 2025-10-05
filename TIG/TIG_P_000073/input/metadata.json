@@ -1,0 +1,18 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Medical images",
+  "prompt": "A stylized representation of a neuron with dendrites and axons, emphasizing electrical activity with glowing synapses against a dark background.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A photorealistic, stylized representation of a neuron, showcasing its detailed dendrites and axons. Intense electrical activity is emphasized by brightly glowing synapses, which emit vibrant light and subtly illuminate the neuron's complex structure. The entire scene is set against a deep, dark, and featureless background, ensuring the luminous elements are the focal point.",
+  "annotator": "cwhsu",
+  "objects": [
+    "photorealistic, stylized neuron",
+    "detailed dendrites",
+    "detailed axons",
+    "brightly glowing synapses",
+    "vibrant light (emitted from synapses)",
+    "deep, dark, featureless background"
+  ]
+}

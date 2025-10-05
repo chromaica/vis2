@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "design a cohort retention heatmap showing user engagement rates over 12 months for different customer acquisition channels",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a professional data visualization: a cohort retention heatmap. This heatmap must clearly display user engagement rates across a 12-month period, segmented by distinct customer acquisition channels. Label the y-axis 'Customer Acquisition Channels' and the x-axis 'Months Since Acquisition' (from 1 to 12). The heatmap cells should use a color gradient where deep green represents high engagement and deep red represents low engagement. Include a clear title and a color legend. The overall design should be clean, modern, and easily readable.",
+  "annotator": "theblackcat",
+  "objects": [
+    "cohort retention heatmap",
+    "heatmap cells with color gradient",
+    "X-axis",
+    "Y-axis",
+    "X-axis label: \"Months Since Acquisition\"",
+    "Y-axis label: \"Customer Acquisition Channels\"",
+    "numerical labels on the X-axis (1 to 12)",
+    "color legend (deep green for high engagement, deep red for low engagement)",
+    "chart title",
+    "customer acquisition channel labels (on the Y-axis)"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "subtopic": "Facial estimation and analysis",
+  "prompt": "Change the woman's facial expression within the grid overlay to a clear, joyful smile. Update the displayed analysis results to show Happiness at 85%.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751816696196,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1 to change the woman's facial expression within the geometric grid overlay to a clear, joyful smile. Update the facial analysis results on the left to display 'Happiness' at 85%.",
+  "annotator": "edisy",
+  "objects": [
+    "woman with a joyful smile",
+    "geometric grid overlay on woman's face",
+    "facial recognition square brackets",
+    "blue background",
+    "facial analysis results on the left",
+    "\"Happiness\" text with 85%",
+    "\"Fear\" text",
+    "\"Neutral\" text",
+    "\"Sadness\" text",
+    "\"Surprise\" text"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

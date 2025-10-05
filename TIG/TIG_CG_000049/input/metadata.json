@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "3D renders",
+  "prompt": "A 3D render of a busy intersection at night, vehicles, road signs, crosswalks, and street lamps.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A highly detailed 3D render of a bustling urban intersection at night. The scene is densely populated with a flow of diverse vehicles, including cars, trucks, and buses, moving through the intersection. Prominent illuminated road signs, including traffic lights and directional signs, are strategically placed around the intersection. Multiple clear crosswalks span the asphalt. Numerous bright street lamps cast strong light and long shadows, defining the nighttime atmosphere.",
+  "annotator": "maxku",
+  "objects": [
+    "Urban intersection",
+    "Night scene",
+    "Cars",
+    "Trucks",
+    "Buses",
+    "Illuminated road signs",
+    "Traffic lights",
+    "Directional signs",
+    "Crosswalks",
+    "Street lamps"
+  ]
+}

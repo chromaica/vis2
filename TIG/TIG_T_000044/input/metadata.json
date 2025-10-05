@@ -1,0 +1,21 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Calligraphy",
+  "prompt": "Craft an elegant calligraphic piece: 'Whispers of Time' penned in a flowing script with shimmering, muted gold ink that has a subtle texture. This text is centered on a richly textured, aged parchment. Delicate, abstract patterns like faint smoke wisps or subtle stardust are woven behind the text, creating an ethereal mood.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate an elegant calligraphic piece featuring the phrase 'Whispers of Time'. The text should be penned in a flowing script using shimmering, muted gold ink with a subtle texture, centered on a richly textured, aged parchment. Delicate, abstract patterns resembling faint smoke wisps or subtle stardust are subtly woven into the background behind the text, creating an ethereal mood.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "The phrase 'Whispers of Time'",
+    "Text in flowing script",
+    "Shimmering, muted gold ink on text",
+    "Subtle texture on the text ink",
+    "Aged parchment",
+    "Richly textured parchment",
+    "Text centered on the parchment",
+    "Delicate, abstract patterns woven into the background behind the text",
+    "Patterns resembling faint smoke wisps or subtle stardust"
+  ]
+}

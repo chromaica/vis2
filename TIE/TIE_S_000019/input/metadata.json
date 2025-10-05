@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "Transform the floating platforms into fluffy clouds, adding whimsical weather elements like rainbows and occasional lightning bolts.",
+  "cond_images": [
+    "1.jpeg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Using image 1 as the source, transform the three wooden floating platforms (the one on the left supporting Donkey Kong, the one on the middle-right supporting Princess Daisy and Toad, and the long platform spanning the top) into fluffy, whimsical clouds. Additionally, introduce a vibrant rainbow arching across the background sky and a few subtle lightning bolts emanating from or near these newly formed cloud platforms.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Donkey Kong",
+    "Princess Daisy",
+    "Toad",
+    "Marth",
+    "Yoshi",
+    "fluffy, whimsical cloud platform on the left (supporting Donkey Kong)",
+    "fluffy, whimsical cloud platform on the middle-right (supporting Princess Daisy and Toad)",
+    "long fluffy, whimsical cloud platform on the top",
+    "vibrant rainbow arching across the background sky",
+    "subtle lightning bolts emanating from or near the cloud platforms"
+  ]
+}

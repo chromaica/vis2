@@ -1,0 +1,27 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "In image 1, replace the toggle switch for the 09:30 alarm with the green 'ON' switch from image 3, matching size and placement. Then, add the calendar icon from image 2 to the top center of the screen next to the word 'Alarm'. Do not modify any of the times or other toggle states.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, which displays an iPhone alarm screen.\n1.  Locate the toggle switch corresponding to the '09:30 Alarm' entry. Replace this existing green toggle with the specific design of the green 'ON' switch from image 3. Ensure the replaced switch maintains the exact size and horizontal position of the original, with the 'ON' text clearly visible as depicted in image 3.\n2.  Add the white calendar icon from image 2. Place this icon in the top center of the screen, immediately to the left of the main title text 'Alarm', ensuring it is appropriately scaled to align with the text.\nDo not modify any other alarm times, alarm names, or the states of any other toggle switches on the screen.",
+  "annotator": "parnian",
+  "objects": [
+    "iPhone alarm screen interface",
+    "Green 'ON' toggle switch (from image 3) for '09:30 Alarm'",
+    "White calendar icon (from image 2) to the left of the 'Alarm' title",
+    "'Alarm' title (top center)",
+    "'09:30 Alarm' text entry",
+    "Original green 'ON' toggle switch (e.g., for '08:00 Alarm')",
+    "Original 'OFF' toggle switch (e.g., for '06:50 Alarm')",
+    "Status bar (top of screen)",
+    "Bottom tab bar (World Clock, Alarm, Bedtime, Stopwatch, Timer)",
+    "Other alarm time and name entries (e.g., 06:50, 07:00, 07:30, 08:30, 10:10)"
+  ],
+  "human_annotation": true
+}

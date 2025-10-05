@@ -1,0 +1,26 @@
+{
+  "subtopic": "Stylized Rendering",
+  "prompt": "Edit image 1: Overlay the mouse surface with a texture featuring coding text like that shown on the screen in image 3. Illuminate the scene with the dramatic blue and purple lighting style depicted in image 2, creating a futuristic computer graphics look.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748455104513,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit source image 1. Apply a vibrant texture of programming code, similar in style and detail to the code displayed on the screen in image 3, directly onto the top surface and sides of the dark grey mouse in image 1. Illuminate the entire scene of image 1 with a dramatic, high-contrast blue and purple ambient lighting, consistent with the futuristic glow and color scheme observed in image 2. The overall aesthetic should convey a futuristic computer graphics environment.",
+  "annotator": "winston",
+  "objects": [
+    "Dark grey mouse",
+    "Vibrant programming code texture on the mouse's top surface and sides",
+    "Background surface from original image 1",
+    "Dramatic blue ambient lighting",
+    "Dramatic purple ambient lighting",
+    "High-contrast illumination",
+    "Futuristic glow",
+    "Overall futuristic computer graphics environment aesthetic"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "subtopic": "VFX and Particles",
+  "prompt": "Edit the image to transform the golden particle effect surrounding the fire. Change their color to a vibrant electric blue hue.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751814038784,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1. Change the color of the golden particle effect surrounding the central fire to a vibrant electric blue hue.",
+  "annotator": "edisy",
+  "objects": [
+    "central fire",
+    "vibrant electric blue particle effect",
+    "black background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

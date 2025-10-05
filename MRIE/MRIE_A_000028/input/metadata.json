@@ -1,0 +1,27 @@
+{
+  "task": "MRIE",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "Replace the dog at the bottom right of the first image with the dog from the second image, and replace the blue minibus at the bottom left of the first image with the car from the third image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Replace the dog at the bottom right of the artwork with the Pomeranian dog from image 2. Also, replace the blue minibus at the bottom left with the red sedan car from image 3.",
+  "annotator": "paria",
+  "objects": [
+    "Pomeranian dog at bottom right",
+    "Red sedan car at bottom left",
+    "Dalmatian dog (should not be present)",
+    "Blue minibus (should not be present)",
+    "Collaged human heads",
+    "Abstract geometric shapes",
+    "Ocean and cliffs background",
+    "Orange ribbon",
+    "Hand with door",
+    "Dice"
+  ],
+  "human_annotation": true
+}

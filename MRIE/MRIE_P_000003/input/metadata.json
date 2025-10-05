@@ -1,0 +1,25 @@
+{
+  "task": "MRIE",
+  "topic": "P",
+  "subtopic": "Scenic Nature Parks",
+  "prompt": "Make the grass field from the first image filled with sunflowers from the second image, and add the dog from the third image peeking out from the sea of sunflowers.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit `image 1` by replacing the entire foreground area, currently occupied by tall grass and reeds, with a dense, photorealistic field of sunflowers. The sunflowers should reflect the style and appearance of the sunflower in `image 3`. Additionally, integrate the dog from `image 2` into this newly created sunflower field. The dog should be positioned in the foreground, partially obscured by the sunflowers, with its head and upper chest prominently peeking out from the flowers, looking slightly upwards.",
+  "annotator": "boris",
+  "objects": [
+    "tall grass and reeds (should not be present)",
+    "dense, photorealistic field of sunflowers in the foreground",
+    "dog in the foreground, partially obscured by sunflowers, with its head and upper chest peeking out, looking slightly upwards",
+    "traditional Chinese bridge/pavilion structure",
+    "high-rise buildings in the background",
+    "trees",
+    "sky"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

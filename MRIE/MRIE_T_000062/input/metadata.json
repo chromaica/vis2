@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "T",
+  "subtopic": "Comics",
+  "prompt": "Change the male character to the person in the second image, and change the female character to the person in the third image. Finally, change the last line of the comic to 'I didn't feel anything.'",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the appearance of the male character on the left in both comic panels with that of the person in image 2. Replace the appearance of the female character on the right in both comic panels with that of the person in image 3. Maintain the original comic art style and the characters' poses. Additionally, change the text within the last speech bubble, located in the bottom-right of the second panel, to 'I didn't feel anything.'",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Left comic panel with a bar scene",
+    "Right comic panel with a bedroom scene",
+    "Male character in both panels, resembling the person in image 2 (Andrew Garfield), maintaining original poses",
+    "Female character in both panels, resembling the person in image 3 (Emma Stone), maintaining original poses",
+    "Overarching text at the top of the first panel",
+    "Overarching text at the bottom of the first panel",
+    "Overarching text at the top of the second panel",
+    "Speech bubble in the second panel with text \"HOW DO YOU FEEL ABOUT ME?\"",
+    "Speech bubble in the second panel with text \"YOU KNOW HOW I FEEL ABOUT YOU. HOW DO YOU FEEL ABOUT ME?\"",
+    "Speech bubble in the bottom-right of the second panel with text \"I didn't feel anything.\""
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Switch all headlines to the 'bailey' font, preserving sizes and line heights.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Change the font of the word 'Volkswagen' on the left to 'bailey', ensuring the original font size and line height are preserved.",
+  "annotator": "matina",
+  "objects": [
+    "The word 'Volkswagen' on the left, rendered in 'bailey' font",
+    "The Volkswagen circular logo on the right",
+    "White background"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,15 @@
+{
+  "task": "TIG",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "An inspirational poster vibe: the words 'Dream Big' flow across the page in textured, hand-painted brush strokes, featuring a vibrant gradient, all set against a gentle watercolor wash.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate an inspirational poster. The words 'Dream Big' should be large and prominently positioned, designed to appear as if flowing across the image. These words must be rendered in textured, hand-painted brush strokes and feature a vibrant color gradient. The background should consist of a gentle watercolor wash.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Words 'Dream Big' (large, prominently positioned, flowing across image, rendered in textured hand-painted brush strokes, featuring a vibrant color gradient)",
+    "Gentle watercolor wash background"
+  ],
+  "human_annotation": true
+}

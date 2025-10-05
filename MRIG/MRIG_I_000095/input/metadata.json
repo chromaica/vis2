@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Generate a donut chart showing positive feedback rates: Chat \u2013 80% (Image 1), Email \u2013 20% (Image 2). Color the chart based on each channel's visual tone and place icons inside or next to the slices.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "annotator": "matina",
+  "prompt_refined": "Generate a donut chart displaying positive feedback rates. The chart should include an 80% slice for 'Chat' and a 20% slice for 'Email'. Color the 80% 'Chat' slice with a vibrant, friendly palette reflecting the light blue, white, and green tones seen in Image 1. Color the 20% 'Email' slice with a minimalist black and white or dark gray scheme, mirroring the simple line art style of Image 2. Place an icon derived from Image 1 (e.g., a headset or customer service motif) inside or next to the 80% 'Chat' slice. Place an icon derived from Image 2 (e.g., an email envelope with headset) inside or next to the 20% 'Email' slice.",
+  "objects": [
+    "Donut chart",
+    "80% slice of the donut chart",
+    "20% slice of the donut chart",
+    "'Chat' label",
+    "'Email' label",
+    "Customer service icon (derived from Image 1)",
+    "Email envelope with headset icon (derived from Image 2)",
+    "Light blue, white, and green color palette on 80% slice",
+    "Black, white, or dark gray color scheme on 20% slice"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,23 @@
+{
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Using the data from the provided line graph showing stock market fluctuations, generate a flat design style infographics, where the peaks and valleys correspond to the data points. Add the text 'Stock Market Fluctuations' to the top of the image.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "https://www.investopedia.com/thmb/OzhMb4W_efag08s_Wdfbc8cNdQ8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/dotdash_INV_Final_Line_Chart_Jan_2021-01-d2dc4eb9a59c43468e48c03e15501ebe.jpg",
+  "task": "SRIG",
+  "topic": "I",
+  "prompt_refined": "Generate a flat design style infographic. Incorporate the stock market fluctuation data from image 1 such that the infographic's visual elements accurately reflect the peaks and valleys of the line graph. Position the text 'Stock Market Fluctuations' at the top of the generated image.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "Text 'Stock Market Fluctuations' at the top",
+    "Primary visual element depicting the stock market trend, mimicking the peaks and valleys of the line graph from Image 1",
+    "Labels for time periods (e.g., months like Sep, Oct, Nov, Dec, Feb, Mar)",
+    "Labels for stock value ranges (e.g., numerical indicators from 2475 to 2875)",
+    "Simplified graphical elements or icons related to finance or data visualization in flat design style",
+    "Clean, flat-colored background",
+    "Geometric shapes and clean lines as part of the overall flat design aesthetic",
+    "Minimalist typography for all text elements"
+  ],
+  "human_annotation": true
+}

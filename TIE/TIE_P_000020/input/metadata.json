@@ -1,0 +1,26 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Medical images",
+  "prompt": "Convert the hand gesture from okay to hi five, but with the thumbs bone broken",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, an X-ray displaying a hand in an 'okay' gesture. Convert the hand's gesture in image 1 to a 'high five', ensuring the thumb bone is visibly broken. The final edited image must maintain the original photorealistic X-ray style.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Photorealistic X-ray style",
+    "Hand",
+    "Hand in a 'high five' gesture",
+    "Broken thumb bone",
+    "Finger bones",
+    "Wrist bones",
+    "Forearm bones",
+    "X-ray film border",
+    "Radiology text and markings",
+    "Blurred background outside the X-ray"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

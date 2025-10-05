@@ -1,0 +1,28 @@
+{
+  "subtopic": "Receipts",
+  "prompt": "Generate a clean digital screenshot of a detailed receipt with using the font in the image. Include 3-5 purchased items in the receipt.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://cdn.logojoy.com/wp-content/uploads/20230217114749/Gustav-casual-cursive-font-600x294.jpg",
+  "searchQueryGenerated": "Digital receipt screenshot reference image",
+  "searchQueryGeneratedTimestamp": 1749425908163,
+  "promptGeneratedTimestamp": 1749425919167,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "S",
+  "prompt_refined": "Generate a clean, high-resolution digital screenshot of a detailed sales receipt. All text content, including the store name, transaction date and time, listed item descriptions, quantities, prices, subtotal, tax, and grand total, must be rendered exclusively in the 'Gustav Casual Handwriting' font, as exemplified in image 1. The receipt must clearly display 3 to 5 distinct purchased items and include all essential standard receipt elements for a realistic and professional appearance.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "digital screenshot of a detailed sales receipt",
+    "store name text in 'Gustav Casual Handwriting' font",
+    "transaction date text in 'Gustav Casual Handwriting' font",
+    "transaction time text in 'Gustav Casual Handwriting' font",
+    "listed item descriptions (3 to 5 distinct items) in 'Gustav Casual Handwriting' font",
+    "item quantities in 'Gustav Casual Handwriting' font",
+    "item prices in 'Gustav Casual Handwriting' font",
+    "subtotal text in 'Gustav Casual Handwriting' font",
+    "tax text in 'Gustav Casual Handwriting' font",
+    "grand total text in 'Gustav Casual Handwriting' font"
+  ]
+}

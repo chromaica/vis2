@@ -1,0 +1,24 @@
+{
+  "subtopic": "Game assets",
+  "prompt": "Edit image 1's side-view car outline into a solid black game asset icon, adopting the visual style of the car in image 2. Duplicate this stylized side-view car multiple times within image 1, arranging the instances similar to the group composition shown in image 3.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748456111983,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Transform the side-view car outline from image 1 into a solid black, minimalist game asset icon. Apply the distinct solid black silhouette style of the car depicted in image 2 to this side-view representation. Within the original canvas of image 1, duplicate this newly stylized side-view car icon three times. Arrange these three icons to form a cluster, with one main icon centered and slightly forward, and two additional icons positioned slightly behind and to its left and right, replicating the spatial relationship and subtle overlap seen in image 3.",
+  "annotator": "winston",
+  "objects": [
+    "A solid black, minimalist side-view car icon (main, centered and slightly forward)",
+    "A solid black, minimalist side-view car icon (behind and to the left of the main icon, with subtle overlap)",
+    "A solid black, minimalist side-view car icon (behind and to the right of the main icon, with subtle overlap)",
+    "White background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

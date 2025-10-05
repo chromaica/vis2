@@ -1,0 +1,21 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Hand drawn blueprint",
+  "prompt": "Add steam coming out from the chimney. Do not make the steam over-distractive, it should be subtle and remain the focus on the train.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Add subtle steam emanating from the chimney of the locomotive blueprint. The steam should be depicted as faint white lines or a very light, translucent haze, blending seamlessly with the blueprint's aesthetic. Crucially, ensure the steam does not overshadow the detailed train blueprint, which must remain the central and dominant element of the artwork.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "Locomotive blueprint",
+    "Detailed train schematics and dimensions",
+    "Blueprint background texture",
+    "Subtle steam emanating from the locomotive chimney",
+    "Faint white or translucent haze of steam"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

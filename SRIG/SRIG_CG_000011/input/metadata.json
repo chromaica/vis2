@@ -1,0 +1,21 @@
+{
+  "subtopic": "Facial estimation and analysis",
+  "prompt": "Create a computer graphics visualization of face estimation on a new portrait, featuring the distinct green bounding box and red landmark dots as seen in the reference.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://www.mdpi.com/applsci/applsci-09-04678/article_deploy/html/images/applsci-09-04678-g007.png",
+  "promptGeneratedTimestamp": 1748765805004,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a new computer graphics image depicting face estimation on a portrait. The image should feature a new, distinct human face. Overlay this face with a thick, vibrant green rectangular bounding box that tightly frames the entire face, from the forehead to the chin, and ear to ear. Additionally, include five small, bright red circular landmark dots: two precisely placed on the eyes, one on the nose tip, and two at the corners of the mouth. The style, color, size, and relative positioning of these green and red graphical overlays should accurately reflect those seen in image 1.",
+  "annotator": "ishengfang",
+  "objects": [
+    "A new human face (computer graphics portrait)",
+    "A thick, vibrant green rectangular bounding box (tightly framing the face)",
+    "Two small, bright red circular landmark dots on the eyes",
+    "One small, bright red circular landmark dot on the nose tip",
+    "Two small, bright red circular landmark dots at the corners of the mouth"
+  ]
+}

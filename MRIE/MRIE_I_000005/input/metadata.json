@@ -1,0 +1,27 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "Edit image 1. Replace the red robot illustration in image 1 with the robot illustration from image 2. Adapt the diagram lines and connections in image 1, specifically for the MLLM process block, to incorporate the layered network style shown in image 3. Ensure the visual instruction context is maintained.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the red robot illustration located within the 'MLLM' process block in image 1 with the yellow and blue robot from image 2. Additionally, transform the diagrammatic arrows that connect to the 'MLLM' process block (specifically, the incoming arrows from 'Instruction' and 'Image & Text', and the outgoing arrow to the top 'Output' block) into a visual representation of a layered network, drawing inspiration from the structure and aesthetic of image 3. Ensure the overall informational flow and context of the original diagram are preserved.",
+  "annotator": "maxku",
+  "objects": [
+    "red robot illustration (should not be present)",
+    "original diagrammatic arrows connecting to 'MLLM' (should not be present)",
+    "Input block with tiger in a lab coat image and text prompt",
+    "yellow and blue robot",
+    "layered network visual representation",
+    "VIEScore section (including 'Instruction', 'Image & Text', and 'MLLM' blocks)",
+    "top Output block (yellow, with alignment score and green checkmarks)",
+    "Traditional Metrics section (including 'Text vector', 'Image vector', and 'Embeddings' blocks)",
+    "bottom Output block (gray, with alignment score and red X marks)",
+    "remaining diagrammatic arrows"
+  ],
+  "human_annotation": true
+}

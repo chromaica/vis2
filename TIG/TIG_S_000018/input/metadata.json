@@ -1,0 +1,20 @@
+{
+  "task": "TIG",
+  "topic": "S",
+  "subtopic": "Receipts",
+  "prompt": "A sleek, minimal design receipt from \u201cLatt\u00e9 Lines\u201d cafe in Copenhagen, listing: 1 Oat Milk Cortado: 45 DKK, 1 Cardamom Bun: 38 DKK. The font is clean and modern, with a tiny smiley face drawn next to the tip.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a sleek, minimalist receipt for \"Latt\u00e9 Lines\" cafe in Copenhagen. The receipt clearly lists \"1 Oat Milk Cortado: 45 DKK\" and \"1 Cardamom Bun: 38 DKK\". All text is rendered in a clean, modern sans-serif font. A small, hand-drawn smiley face is present at the very bottom of the receipt, next to the total or tip line.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Receipt",
+    "\"Latt\u00e9 Lines\" cafe name",
+    "\"1 Oat Milk Cortado: 45 DKK\" listed on receipt",
+    "\"1 Cardamom Bun: 38 DKK\" listed on receipt",
+    "Total or tip line on receipt",
+    "Small, hand-drawn smiley face at the very bottom of the receipt",
+    "Text rendered in a clean, modern sans-serif font"
+  ],
+  "human_annotation": true
+}

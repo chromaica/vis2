@@ -1,0 +1,27 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Cultural or Heritage art",
+  "prompt": "Generate a cultural artwork of a new traditional dress combining elements from the dresses in image 1 and image 2, worn by a figure in a heritage-inspired setting.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate an image of a new traditional dress, crafted as a unique cultural artwork. This garment should combine the opulent gold floral embroidery and rich velvet texture from the robe in image 1 with the distinctive flowing silhouette and patterned fabric motifs (such as cranes and waves) from the kimono in image 2. The dress should be worn by a regal figure, presented within a grand, historically inspired setting that evokes a blend of diverse cultural heritages.",
+  "annotator": "samin",
+  "objects": [
+    "new traditional dress",
+    "opulent gold floral embroidery",
+    "rich velvet texture",
+    "flowing silhouette",
+    "patterned fabric motifs",
+    "cranes (on fabric)",
+    "waves (on fabric)",
+    "regal figure",
+    "grand, historically inspired setting",
+    "elements evoking diverse cultural heritages"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

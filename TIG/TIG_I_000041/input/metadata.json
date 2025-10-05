@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "generate an image of an ancient treasure map drawn on aged parchment. The map includes detailed elements like sailing ships on the ocean, old ports or castles on the coastline, a dotted path leading to a large 'X' marking the treasure spot, mountains, palm trees, and a decorative compass rose. The overall style is reminiscent of old pirate adventure films.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate an image of an ancient treasure map drawn on heavily aged, sepia-toned parchment. The map prominently features a vast ocean area with several detailed sailing ships. A rugged coastline separates the ocean from the land, which contains old ports and grand castles along its edge, as well as distinct mountains and clusters of palm trees further inland. A clear, dotted path meanders across the land, originating from a coastal landmark and leading to a large 'X' prominently marking the treasure spot. A decorative compass rose is placed in the bottom-right corner of the map. The entire image should capture the hand-drawn, adventurous, and weathered aesthetic reminiscent of classic pirate films.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Ancient treasure map drawn on heavily aged, sepia-toned parchment",
+    "Vast ocean area",
+    "Several detailed sailing ships",
+    "Rugged coastline",
+    "Old ports",
+    "Grand castles",
+    "Distinct mountains",
+    "Clusters of palm trees",
+    "Clear, dotted path leading to a large 'X'",
+    "Decorative compass rose in the bottom-right corner"
+  ]
+}

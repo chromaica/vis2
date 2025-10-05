@@ -1,0 +1,23 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "Create a collage style of a standing peacock",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate an artwork in a vibrant collage style. A majestic standing peacock is the central subject, rendered with rich textures, layered paper cut-outs, and intricate patterns. The large, organic white silhouette from image 1 serves as a prominent, underlying background element, forming the visual foundation of the collage. The peacock stands gracefully within the center of the frame, partially layered over the lower section of image 1's silhouette, creating depth and a dynamic artistic composition.",
+  "annotator": "Johnny",
+  "objects": [
+    "Majestic standing peacock",
+    "Rich textures on peacock",
+    "Layered paper cut-outs on peacock",
+    "Intricate patterns on peacock",
+    "Large, organic white silhouette from image 1 (as an underlying background element)",
+    "Peacock partially layered over the lower section of the white silhouette",
+    "Vibrant collage style"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

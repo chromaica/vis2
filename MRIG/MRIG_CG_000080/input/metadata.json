@@ -1,0 +1,28 @@
+{
+  "subtopic": "VFX and Particles",
+  "prompt": "Generate a dynamic VFX scene showing a chaotic swarm of metallic particles, taking the crumpled, reflective appearance from image 1. These particles should swirl around a central, abstract form rendered with the dark, rough texture of image 2.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748423691386,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a dynamic VFX scene depicting a chaotic, shimmering swarm of small metallic particles. Each particle should exhibit the distinct crumpled texture and highly reflective, crinkled silver appearance seen in image 1. This multitude of luminous particles is intensely swirling and converging around a central, abstract form. This prominent central object is rendered with the dark, finely pebbled, matte black texture exemplified by image 2, providing a striking visual contrast to the bright, chaotic particle swarm.",
+  "annotator": "winston",
+  "objects": [
+    "Dynamic VFX scene",
+    "Small metallic particles",
+    "Particles with crumpled texture (from image 1)",
+    "Particles with highly reflective, crinkled silver appearance (from image 1)",
+    "Shimmering particles",
+    "Luminous particles",
+    "Chaotic particle swarm",
+    "Particles intensely swirling and converging",
+    "Central, abstract form",
+    "Central object with dark, finely pebbled, matte black texture (from image 2)"
+  ],
+  "human_annotation": true
+}

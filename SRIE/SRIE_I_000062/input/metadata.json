@@ -1,0 +1,21 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "Maps",
+  "prompt": "Inserting the logo to the left of the shopping mall map.",
+  "cond_images": [
+    "1.jpg",
+    "2.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the shopping mall map. Insert the 'WirecastGo' logo from image 2 to the left of the main map area.",
+  "annotator": "Johnny",
+  "objects": [
+    "Shopping mall map layout",
+    "Japanese text labels on the map (e.g., store names)",
+    "Map icons (e.g., ATM, restroom, escalator, handicapped access)",
+    "AEON logo on the map",
+    "WirecastGo logo (orange swirl graphic and \"WirecastGo\" text) to the left of the main map area"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,18 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Diagrams, charts, and graphs",
+  "prompt": "design a waterfall chart tracking startup funding rounds from seed to IPO with cash flow arrows, milestone badges, and a gradient background transitioning from startup orange to corporate navy",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a waterfall chart image depicting startup funding rounds from Seed to IPO. The chart should include cash flow arrows indicating movements between rounds and distinct milestone badges positioned at relevant funding stages. The background must be a gradient smoothly transitioning from startup orange to corporate navy.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Waterfall chart",
+    "Startup funding rounds (represented as chart segments/bars)",
+    "Cash flow arrows",
+    "Milestone badges",
+    "Gradient background (transitioning from startup orange to corporate navy)"
+  ],
+  "human_annotation": true
+}

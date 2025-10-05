@@ -1,0 +1,20 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "Edit image 1 to create a visual instruction graphic. Attach the electrical plug from image 3 to the base of the device in image 1 to show power connection. Place the purple ring from image 2 around the lens of the device in image 1, highlighting the functional area.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, a stylized device, to create a visual instruction graphic. Incorporate the electrical plug icon from image 3 by positioning it directly below the base of the device in image 1, visually connecting it to signify power input. Furthermore, overlay the purple ring from image 2, accurately scaling and centering it around the circular lens at the top of the device in image 1 to highlight this functional area.",
+  "annotator": "maxku",
+  "objects": [
+    "stylized device",
+    "electrical plug icon directly below the base of the device",
+    "purple ring around the circular lens at the top of the device"
+  ],
+  "human_annotation": true
+}

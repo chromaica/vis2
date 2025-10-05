@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Stylized art",
+  "prompt": "Generate a stylized artwork of a desert scene with the silhouettes of a camel and tree, blending with the style and colors of the provided reference art",
+  "cond_images": [
+    "1.jpg",
+    "2.png",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a stylized artwork depicting a desert scene. The image must prominently feature the silhouette of a camel, matching the form in image 2, positioned in the foreground, and the silhouette of a stylized tree, matching the form in image 1, in the mid-ground. The entire scene should adopt the vibrant color palette and distinctive painterly, textured art style of image 3, specifically incorporating its warm, rich sky with defined clouds and its stylized, rolling landscape forms.",
+  "annotator": "samin",
+  "objects": [
+    "stylized artwork",
+    "desert scene",
+    "silhouette of a camel in the foreground (matching form in image 2)",
+    "silhouette of a stylized tree in the mid-ground (matching form in image 1)",
+    "vibrant color palette (matching image 3)",
+    "painterly, textured art style (matching image 3)",
+    "warm, rich sky (matching image 3)",
+    "defined clouds (matching image 3)",
+    "stylized, rolling landscape forms (matching image 3)"
+  ]
+}

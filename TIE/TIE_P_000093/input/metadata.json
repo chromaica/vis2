@@ -1,0 +1,25 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "change the cells color in this microscope into differnet rainbow colors, make sure all colors are in the view",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the microscope view, by changing the color of the red cell clusters to exhibit the full spectrum of rainbow colors (red, orange, yellow, green, blue, indigo, violet). Distribute these distinct colors across the various cell clusters, ensuring all specified rainbow colors are clearly visible within the circular field of view.",
+  "annotator": "theblackcat",
+  "objects": [
+    "microscope view",
+    "circular field of view",
+    "cell clusters",
+    "red cell clusters",
+    "orange cell clusters",
+    "yellow cell clusters",
+    "green cell clusters",
+    "blue cell clusters",
+    "indigo cell clusters",
+    "violet cell clusters"
+  ],
+  "human_annotation": true
+}

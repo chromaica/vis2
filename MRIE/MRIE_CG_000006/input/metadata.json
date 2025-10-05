@@ -1,0 +1,24 @@
+{
+  "subtopic": "Game assets",
+  "prompt": "Edit image 1: replace the laptop with a detailed game asset model based on image 2, placing the apple from image 2 as a prop. Overlay a UI on the screen reflecting a game data spreadsheet like image 3 for a game asset scene.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748454555156,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1. Replace the current laptop with a highly detailed 3D game asset model of a laptop, resembling the silver design and proportions of the laptop in image 2. Place the red apple from image 2 on the wooden table, directly beside this new game asset laptop. On the screen of the game asset laptop, overlay a user interface (UI) displaying a game data spreadsheet, mirroring the layout, column headings, and content style visible on the laptop screen in image 3.",
+  "annotator": "winston",
+  "objects": [
+    "woman",
+    "child",
+    "wooden table",
+    "highly detailed 3D game asset laptop (silver design and proportions resembling image 2)",
+    "red apple on the wooden table, directly beside the laptop",
+    "game data spreadsheet user interface on the laptop screen (mirroring layout, column headings, and content style of image 3)"
+  ]
+}

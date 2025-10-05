@@ -1,0 +1,21 @@
+{
+  "task": "TIE",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "Create a vibrant Tetris game with cascading social media icons.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 to create a vibrant Tetris game. The Tetris game board should be centrally located, with its falling and stacked blocks composed entirely of various social media icons, drawing from the style and range seen in image 1. Show these social media icons actively cascading down the game board, implying a dynamic game in progress.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Vibrant Tetris game environment",
+    "Centrally located Tetris game board",
+    "Falling Tetris blocks composed of social media icons",
+    "Stacked Tetris blocks composed of social media icons",
+    "Social media icons (drawing from the style and range seen in image 1)",
+    "Visual representation of active cascading/movement of blocks"
+  ],
+  "human_annotation": true
+}

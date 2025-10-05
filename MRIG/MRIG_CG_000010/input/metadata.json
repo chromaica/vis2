@@ -1,0 +1,26 @@
+{
+  "subtopic": "Object detection visuals",
+  "prompt": "Generate a computer graphics scene for object detection. Include the fish from image 1 and the sponge from image 2 placed together on a clean surface. Overlay bounding boxes and class labels ('fish', 'sponge') on each object.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748420060319,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a computer graphics scene specifically for object detection training. The scene should feature a realistic silver fish, accurately resembling the one in image 1, positioned horizontally. Alongside it, include a realistic yellow and green rectangular scrub sponge, precisely matching the one in image 2. Both objects should be clearly visible and placed side-by-side on a plain, clean, light-colored surface, such as a white or light grey tabletop, with clear, even lighting. Overlay distinct axis-aligned bounding boxes around each object, with the text label 'fish' for the fish and 'sponge' for the sponge.",
+  "annotator": "winston",
+  "objects": [
+    "realistic silver fish (resembling image 1, positioned horizontally)",
+    "realistic yellow and green rectangular scrub sponge (matching image 2)",
+    "plain, clean, light-colored surface (such as a white or light grey tabletop)",
+    "clear, even lighting",
+    "axis-aligned bounding box around the fish",
+    "text label 'fish'",
+    "axis-aligned bounding box around the sponge",
+    "text label 'sponge'"
+  ],
+  "human_annotation": true
+}

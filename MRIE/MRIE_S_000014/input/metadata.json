@@ -1,0 +1,26 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Websites",
+  "prompt": "In image 1, add the moon toggle switch from image 2 to the top-right corner of the page, to the left of the \u201cUpload\u201d button. Then insert the red warning popup from image 3 in the center of the screen, as if an error has appeared. Keep the file list and notebook name exactly as they are.",
+  "cond_images": [
+    "1.png",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 (the Jupyter notebook screenshot). Integrate the dark mode 'moon' toggle switch from the bottom half of image 2 into the top-right corner of the page, positioned to the immediate left of the 'Upload' button. Next, place the red warning popup from image 3 at the precise center of the screen in image 1, ensuring it overlays the existing content. Crucially, maintain the appearance and position of the file list and the 'Jupyter Tutorial.ipynb' entry exactly as they are in image 1.",
+  "annotator": "parnian",
+  "objects": [
+    "Browser window with Jupyter interface layout",
+    "Jupyter logo",
+    "\"Files\", \"Running\", \"Clusters\" tabs",
+    "\"Select items to perform actions on them.\" text",
+    "Dark mode 'moon' toggle switch to the immediate left of the 'Upload' button",
+    "'Upload' button",
+    "'New' button and refresh icon",
+    "File list content (maintained as in image 1)",
+    "\"Jupyter Tutorial.ipynb\" entry (maintained as in image 1)",
+    "Red warning popup at the precise center of the screen, overlaying content"
+  ]
+}

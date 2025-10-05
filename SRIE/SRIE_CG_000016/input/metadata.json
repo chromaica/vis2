@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "CG",
+  "subtopic": "Object detection visuals",
+  "prompt": "Detect all mugs like the reference in the source image.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 (source image). For every mug hanging on the wall hooks, transform its appearance to match the white color and 'Happy Mother's Day' text design of the mug in image 2 (reference image). Maintain the original size, position, and orientation of each mug.",
+  "annotator": "nimajamali",
+  "objects": [
+    "Eight white mugs with 'Happy Mother's Day' text design",
+    "White shelf",
+    "Kitchen wall hooks",
+    "White paneled wall",
+    "Kitchen counter",
+    "Potted plants",
+    "Various white kitchenware on the shelf",
+    "Utensil holders with utensils",
+    "Stacked blue bowls",
+    "Clear jars"
+  ]
+}

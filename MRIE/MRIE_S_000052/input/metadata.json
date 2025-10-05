@@ -1,0 +1,28 @@
+{
+  "task": "MRIE",
+  "topic": "S",
+  "subtopic": "Chat and Social Messaging",
+  "prompt": "Replace the double grey checkmark beneath the last green message ('Hey friend!') in image 1 with the blue double checkmark from image 3 to show it has been read, and insert the pink heart with yellow bow emoji from image 2 immediately after 'Hey friend!' in a size respect to the size of the texts, to express affection.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. In the green message bubble containing 'Hey friend!', replace the existing grey double checkmark, located to the right of the '12:42 PM' timestamp, with the blue double checkmark from image 3 to show it has been read. Additionally, insert the pink heart with yellow bow emoji from image 2 immediately after the text 'Hey friend!' within the same message bubble, in a size proportional to the existing text, to express affection.",
+  "annotator": "parnian",
+  "objects": [
+    "iPhone message interface",
+    "Top bar with \"Cool Friend\" and icons",
+    "Yellow \"encryption\" message bubble",
+    "Green message bubble containing \"Hey friend!\"",
+    "Pink heart with yellow bow emoji, immediately after \"Hey friend!\"",
+    "\"12:42 PM\" timestamp, inside the green message bubble",
+    "Blue double checkmark, to the right of \"12:42 PM\" in the green message bubble",
+    "White message bubble containing \"Hello!\"",
+    "Chat background pattern",
+    "Grey double checkmark (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

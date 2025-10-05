@@ -1,0 +1,23 @@
+{
+  "task": "SRIG",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "Create a microscopy image of a neuron network using the image as structural guidance, with synapses and dendrites clearly visible.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic microscopy image of a dense neural network. Use image 1 as precise structural guidance for the intricate arrangement, branching patterns, and overall composition of the neurons. The image should clearly depict multiple neuronal cell bodies, extensive and interconnected dendrites, and distinct synaptic connections. The neurons should be vibrantly fluorescently stained with a diverse range of colors, appearing against a clean, subtly textured white background, capturing the dense, interconnected nature and colorful aesthetic evident in image 1.",
+  "annotator": "samin",
+  "objects": [
+    "Photorealistic microscopy image style",
+    "Dense neural network",
+    "Multiple neuronal cell bodies",
+    "Extensive and interconnected dendrites",
+    "Distinct synaptic connections",
+    "Fluorescently stained neurons",
+    "Diverse range of colors on neurons",
+    "Clean white background",
+    "Subtly textured background"
+  ]
+}

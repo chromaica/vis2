@@ -1,0 +1,20 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "QR codes",
+  "prompt": "Add a floating speech bubble above the character, with the words \"I love reading!\" in a playful font.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Add a floating speech bubble directly above the character (a woman holding books). The speech bubble should contain the text \"I love reading!\" rendered in a playful font.",
+  "annotator": "cwhsu",
+  "objects": [
+    "QR code",
+    "character (woman holding books)",
+    "books (held by the woman)",
+    "\"Find a Book!\" poster (held by the woman)",
+    "floating speech bubble directly above the character",
+    "text \"I love reading!\" rendered in a playful font inside the speech bubble"
+  ]
+}

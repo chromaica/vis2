@@ -1,0 +1,21 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Change the orange \u2018Ex\u2019 to green, and wrap the entire word in a thin black outline.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1, the FedEx logo. Change the color of the orange 'Ex' letters to green. Additionally, apply a thin black outline around the perimeter of the entire 'FedEx' word.",
+  "annotator": "matina",
+  "objects": [
+    "FedEx logo",
+    "White 'Fed' text",
+    "Green 'Ex' text",
+    "Thin black outline around the 'FedEx' logo",
+    "Purple background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,23 @@
+{
+  "subtopic": "Games",
+  "prompt": "Edit image 1: Replace the pixelated enemy fighter with the large orange monster from image 2. Integrate the monster into the scene, scaled appropriately, maintaining its distinct style to confront the player character.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751007310266,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit image 1: Replace the small, pixelated purple enemy character on the left side of the screen with the large, orange, multi-eyed monster from image 2. Position the monster on the ground, directly in front of and confronting the muscular player character. Scale the monster to be significantly larger than the player, serving as a dominant foreground element. Integrate the monster into the scene while meticulously retaining its distinct, high-fidelity art style from image 2, creating a clear visual contrast against the pixelated aesthetic of image 1, ensuring accurate lighting and perspective.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Large, orange, multi-eyed monster (high-fidelity style, positioned on the ground, directly in front of and confronting the player character, significantly larger than the player)",
+    "Muscular player character (pixelated style)",
+    "Pixelated cityscape background",
+    "Pixelated street elements (including tree, buildings, lampposts, ground)",
+    "Game UI elements (PLAYER ENEMY text, health bars, RD 2 PL X4 text)",
+    "Small, pixelated purple enemy character (should not be present)"
+  ]
+}

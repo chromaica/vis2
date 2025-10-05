@@ -1,0 +1,24 @@
+{
+  "subtopic": "3D renders",
+  "prompt": "Place the chairs in a rendered modern dining room scene with realistic lighting.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751815542756,
+  "promptLengthUsed": "medium",
+  "task": "TIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1 by integrating the four modern upholstered chairs into a rendered modern dining room scene. Arrange the chairs naturally around a dining table, simulating a realistic dining setup. Ensure the entire scene, including the chairs and the newly generated environment, features realistic lighting, complete with accurate shadows and reflections, consistent with high-quality computer graphics rendering.",
+  "annotator": "edisy",
+  "objects": [
+    "four modern upholstered chairs",
+    "modern dining table",
+    "modern dining room scene",
+    "realistic lighting",
+    "accurate shadows",
+    "reflections"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,26 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "image of terraformed mars, first image is the mars landscape, second image is the traget environment.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic image of terraformed Mars. Transform the barren Martian landscape and geological features from image 1 by integrating the dense green vegetation, tall trees, and damp, organic ground cover from image 2. The final image should depict a lush, habitable Martian environment, seamlessly blending the terrain of image 1 with the vibrant ecosystem of image 2.",
+  "objects": [
+    "Martian landscape",
+    "Martian geological features (rocks, hills, valleys)",
+    "Dense green vegetation",
+    "Tall trees",
+    "Damp ground",
+    "Organic ground cover",
+    "Puddles or small water bodies",
+    "Lush overall appearance",
+    "Barren Martian landscape (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

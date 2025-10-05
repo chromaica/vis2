@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Cultural or Heritage art",
+  "prompt": "Create a cultural heritage artwork in the style of image 2. Depict a figure from image 2's cultural art, capturing the dynamic pose of the dancer silhouette from image 1, adorned with intricate details and placed in a stylized setting inspired by image 2.",
+  "cond_images": [
+    "1.png",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a new image depicting a cultural heritage artwork. The artwork should be in the distinctive style of Persian miniature painting, mirroring the aesthetic of image 2. A central figure, embodying the traditional appearance and attire of characters from image 2, should be depicted in the dynamic, mid-air leaping pose captured by the dancer silhouette in image 1. This figure's garments must feature intricate details and elaborate patterns, consistent with the rich ornamentation seen in image 2. The figure should be positioned within a stylized natural landscape, including vibrant green ground and trees, directly inspired by the setting elements from image 2.",
+  "annotator": "samin",
+  "objects": [
+    "Cultural heritage artwork",
+    "Persian miniature painting style",
+    "Central figure resembling characters from image 2",
+    "Mid-air leaping pose",
+    "Traditional attire with intricate details and elaborate patterns",
+    "Stylized natural landscape",
+    "Vibrant green ground",
+    "Trees"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,28 @@
+{
+  "subtopic": "3D renders",
+  "prompt": "Create a 3D render focusing on the red apple from image 1. Apply the dramatic, focused portrait lighting style from image 2 to emphasize form and texture in a realistic manner.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748422641058,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate a realistic 3D render of a vibrant red apple, inspired by the apple in image 1. The apple should be centrally placed. Apply a dramatic, focused lighting style, mirroring the high-contrast portrait illumination seen in image 2, to sculpt its spherical form with deep shadows and intense highlights. Emphasize the apple's natural texture and imperfections against a dark, desaturated background.",
+  "annotator": "winston",
+  "objects": [
+    "Vibrant red apple",
+    "Centrally placed apple",
+    "Realistic 3D render style",
+    "Dramatic, focused lighting",
+    "High-contrast illumination",
+    "Deep shadows on the apple",
+    "Intense highlights on the apple",
+    "Natural apple texture",
+    "Apple imperfections",
+    "Dark, desaturated background"
+  ],
+  "human_annotation": true
+}

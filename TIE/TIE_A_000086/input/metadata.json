@@ -1,0 +1,25 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Pop art",
+  "prompt": "Make this painting to be drawn with acrylic paint. Keep everything else the same.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Convert the entire artwork into an acrylic painting, ensuring the visual characteristics and texture of acrylic paint are evident. Preserve the exact composition, including the house on the left, the main tree in the center, the bush on the right, the hills, and the flowers at the bottom. Maintain the vibrant color palette, the distinct patterns (such as the polka dots in the sky and the various stripes on the trees, bushes, and hills), and the prominent black outlines, keeping all other visual aspects identical to image 1.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "house on the left",
+    "main tree in the center",
+    "bush on the right",
+    "hills",
+    "flowers at the bottom",
+    "sky",
+    "polka dots in the sky",
+    "striped patterns on trees, bushes, and hills",
+    "prominent black outlines",
+    "purple cloud-like shape on the top left"
+  ],
+  "human_annotation": true
+}

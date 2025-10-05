@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "A",
+  "subtopic": "Futurism",
+  "prompt": "Change the car to a white classic Porsche 911. The car should also have a number 10 on the side. The car should be at the same angle as the original image.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the existing red racing car with a classic white Porsche 911. The Porsche 911 must display the number '10' prominently on its side, maintaining the exact same dynamic angle and perspective as the car currently depicted in image 1.",
+  "annotator": "donaldtsang",
+  "objects": [
+    "red racing car (should not be present)",
+    "classic white Porsche 911",
+    "number '10' on the side of the Porsche 911",
+    "abstract landscape",
+    "abstract sky",
+    "abstract road",
+    "artistic style of the original painting",
+    "signature \"GIANNATTASIO 20\""
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

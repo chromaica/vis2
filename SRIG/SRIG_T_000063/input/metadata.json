@@ -1,0 +1,19 @@
+{
+  "task": "SRIG",
+  "topic": "T",
+  "subtopic": "Posters",
+  "prompt": "Design a poster for a contemporary dance festival featuring a girl posed exactly as shown in the reference image.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a contemporary dance festival poster. The poster must feature a girl in the exact pose shown by the silhouette in image 1, positioned on the right side. Include prominent textual graphics suitable for a modern festival theme.",
+  "annotator": "Johnny",
+  "objects": [
+    "A girl",
+    "A specific dance pose (from image 1)",
+    "The girl positioned on the right side",
+    "Prominent textual graphics",
+    "Modern festival aesthetic"
+  ]
+}

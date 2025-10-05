@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "Change app UI to match winter theme",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit the smart home application UI shown in image 2. Modify its visual design to adopt a winter theme, drawing inspiration from the color palette, textures, and overall aesthetic of image 1. Specifically, transform the existing UI colors, including backgrounds, control cards, and interactive elements, to winter-appropriate cool blues, frosty whites, and icy tones. Integrate subtle snowflake patterns or frosted effects onto UI surfaces to evoke a clear winter atmosphere, while maintaining the app's original layout and functionality.",
+  "annotator": "Johnny",
+  "objects": [
+    "Smart home application user interface",
+    "UI backgrounds in cool blue, frosty white, and icy tones",
+    "Smart home control cards in cool blue, frosty white, and icy tones",
+    "Interactive elements (buttons, toggles, dials) in cool blue, frosty white, and icy tones",
+    "Text labels and values (e.g., \"hi martin!\", device names, temperature readings)",
+    "Room selection tabs",
+    "App navigation icons (e.g., home, security, scenes, statistics, members)",
+    "Subtle snowflake patterns on UI surfaces",
+    "Frosted effects on UI surfaces",
+    "Light intensity ring/dial"
+  ]
+}

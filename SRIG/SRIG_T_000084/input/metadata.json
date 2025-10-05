@@ -1,0 +1,24 @@
+{
+  "subtopic": "Comics",
+  "prompt": "Generate a pop art comic including two people talking with each other. The first conversation \"PLEASE STOP!\" is spoken by a person on the left, with an explosive burst bubble, using the dynamic composition, radiating background, and vibrant color scheme from the reference image. The second conversation is \"I WON'T LISTEN TO YOU!\" by another person on the right hand side, with using the same burst bubble style.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://media.istockphoto.com/id/1088995778/vector/comic-book-effects.jpg?s=612x612&w=0&k=20&c=HLYER7jhQm5DKGRqy6-NnlSFFPdliRGeIDp280hTA8M=",
+  "promptGeneratedTimestamp": 1750501514034,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "T",
+  "prompt_refined": "Generate a pop art comic scene depicting two people in conversation. On the left, a person speaks \"PLEASE STOP!\", encapsulated within an explosive burst speech bubble. This bubble should emulate the vibrant red, yellow, black, and white color scheme, dynamic shape, and halftone dot text texture observed in image 1. The background of the entire scene should feature the characteristic radiating blue and white lines from image 1, contributing to a dynamic composition. On the right, a second person utters \"I WON'T LISTEN TO YOU!\", presented in another explosive burst speech bubble that replicates the exact pop art style, vibrant color scheme, dynamic shape, and halftone dot text texture of the first bubble and image 1.",
+  "annotator": "thomas-chong",
+  "objects": [
+    "pop art comic scene",
+    "person on the left",
+    "explosive burst speech bubble on the left",
+    "text \"PLEASE STOP!\" (inside the left bubble, with halftone dot texture)",
+    "person on the right",
+    "explosive burst speech bubble on the right",
+    "text \"I WON'T LISTEN TO YOU!\" (inside the right bubble, with halftone dot texture)",
+    "radiating blue and white line background"
+  ]
+}

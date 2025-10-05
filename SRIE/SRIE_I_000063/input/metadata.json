@@ -1,0 +1,25 @@
+{
+  "task": "SRIE",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "Changing the little boy in the leftmost UI mockup to a teddy bear.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Replace the illustrated character of the little boy in the leftmost UI mockup with a teddy bear. The teddy bear should be rendered in a realistic style, similar to the teddy bear depicted in image 2, while maintaining the overall context of the UI screen.",
+  "annotator": "Johnny",
+  "objects": [
+    "Leftmost UI mockup (smartphone frame with screen content)",
+    "Middle UI mockup (smartphone frame with screen content)",
+    "Rightmost UI mockup (smartphone frame with screen content)",
+    "Realistic teddy bear in the leftmost UI mockup",
+    "Illustrated character of the little boy (should not be present)",
+    "Text \"how's today weather?\" in the leftmost UI mockup",
+    "Button \"today weather\" in the leftmost UI mockup",
+    "Rain illustration in the leftmost UI mockup",
+    "\"sky monitor\" UI title",
+    "Bandung, ID location text in UI mockups"
+  ]
+}

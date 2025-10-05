@@ -1,0 +1,27 @@
+{
+  "subtopic": "Typography",
+  "prompt": "Edit image 1 (text portrait): Infuse a contrasting text-shape element from image 2. Apply organic text flow and subtle color variation like image 3. Add an intricate, decorative initial letter inspired by image 4. Overlay a bold, geometric typographic pattern using image 5's style and color palette.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg",
+    "4.jpeg",
+    "5.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749711887243,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "T",
+  "prompt_refined": "Edit the provided text portrait of Bob Marley (image 1) by refining its existing text to exhibit a more pronounced organic flow, mirroring the sinuous and form-fitting text arrangement observed in image 3, and introducing subtle color variations within this text, drawing inspiration from the distinct yet harmonious black and red color interplay present in image 3, blending gently with the existing sepia tones. Integrate a large, contrasting textual graphic in the silhouette of a buffalo, as seen in image 2; this text-filled buffalo shape should be positioned behind the Bob Marley portrait, creating a distinct, layered background element that stands out in form and textual style. Add a single, intricate, and highly decorative initial letter, designed in the ornate and flowing style of image 4, placed specifically in the upper-left corner of the overall composition. Finally, apply a semi-transparent, bold, geometric typographic pattern across the entire image as an overlay, inspired by the abstract and overlapping letterforms and utilizing the precise color palette (dark blue, red, and cream) from image 5.",
+  "annotator": "winston",
+  "objects": [
+    "Bob Marley portrait composed of text",
+    "Text within Bob Marley portrait with organic flow and subtle black, red, and sepia color variations",
+    "Large, contrasting text-filled buffalo silhouette behind the Bob Marley portrait",
+    "Intricate, decorative initial letter in the upper-left corner",
+    "Semi-transparent, bold, geometric typographic pattern overlaying the entire image",
+    "Typographic pattern in dark blue, red, and cream colors"
+  ],
+  "human_annotation": true
+}

@@ -1,0 +1,24 @@
+{
+  "task": "TIE",
+  "topic": "S",
+  "subtopic": "Games",
+  "prompt": "Launch the explosive black bird from the slingshot, aiming precisely to dismantle the pigs\u2019 fortress.",
+  "cond_images": [
+    "1.jpeg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 so that the explosive black Angry Bird is flying in mid-air, having been launched from the slingshot on the far left. It should be on a precise trajectory towards the pigs' fortress on the right, aiming to dismantle it. The slingshot should appear empty.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Explosive black Angry Bird flying in mid-air",
+    "Empty slingshot on the far left",
+    "Pigs' fortress on the right",
+    "Green landscape",
+    "Blue sky with clouds",
+    "Brown ground",
+    "Red Angry Bird",
+    "White Angry Bird",
+    "Pigs",
+    "Game UI elements (Highscore, Score, Pause button)"
+  ]
+}

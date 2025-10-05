@@ -1,0 +1,27 @@
+{
+  "subtopic": "Software interfaces",
+  "prompt": "Edit image 1: Overlay the 'Xbox Social' floating window panel from image 2 onto the right side of the main interface window in image 1, integrating its modern UI style naturally.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1751013684413,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "S",
+  "prompt_refined": "Edit image 1: Overlay the 'Xbox Social' floating window panel from image 2 onto the right side of the main application interface window in image 1. The overlaid panel should seamlessly integrate, adopting the modern UI style of the 'Xbox Social' panel, characterized by its dark theme, subtle transparency, and rounded corners.",
+  "annotator": "ishengfang",
+  "objects": [
+    "Main application interface window (ThorImageOCT 5.0.0)",
+    "Orange 3D rendered object/data",
+    "ThorImageOCT 5.0.0 application UI elements (toolbars, menus, side panels)",
+    "'Xbox Social' floating window panel, overlaid on the right side of the main application interface window",
+    "\"Xbox Social\" title within the panel",
+    "\"CoweringRain79 Online\" user status within the panel",
+    "Search bar within the 'Xbox Social' panel",
+    "\"FRIENDS\" tab within the 'Xbox Social' panel",
+    "\"CHAT\" tab within the 'Xbox Social' panel",
+    "Purple/pink/green graphic within the 'Xbox Social' panel"
+  ]
+}

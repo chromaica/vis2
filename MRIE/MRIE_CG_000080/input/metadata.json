@@ -1,0 +1,27 @@
+{
+  "subtopic": "VFX and Particles",
+  "prompt": "Edit image 1 by replacing the content on the phone screen with the landscape from image 2. Apply dynamic VFX particle effects to this scene on the screen, using a style inspired by the focused view and dark background of image 3, suggesting enhanced or magical vision with glowing particles.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748456349743,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "CG",
+  "prompt_refined": "Edit image 1. Replace the current content on the phone screen in image 1 with the complete landscape scene from image 2, which depicts a serene lake and snow-capped mountains at twilight. Integrate this landscape realistically onto the phone screen, ensuring correct perspective and lighting. Overlay dynamic and ethereal glowing particle effects onto this newly integrated landscape scene on the phone screen. The style of these particles should be directly inspired by image 3, specifically emulating its sharp focus on the central subject (the eyes) against a deep, dark, and undefined background. These particles should visually suggest enhanced or magical vision, casting a soft, luminous glow on the on-screen landscape without obscuring its details.",
+  "annotator": "winston",
+  "objects": [
+    "person",
+    "hands holding smartphone",
+    "smartphone",
+    "serene lake on phone screen",
+    "snow-capped mountains on phone screen",
+    "twilight sky on phone screen",
+    "dynamic and ethereal glowing particle effects on phone screen",
+    "dark, out-of-focus background",
+    "original content on phone screen in image 1 (should not be present)"
+  ]
+}

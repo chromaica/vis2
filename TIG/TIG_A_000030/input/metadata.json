@@ -1,0 +1,18 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "Collage",
+  "prompt": "A whimsical collage of retro comic strips and colorful stars splashed across a midnight sky",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A whimsical, dynamic collage composition featuring various retro comic strip panels, complete with halftone dots and classic speech bubbles, irregularly layered and overlapping. Brightly colored, twinkling stars of different sizes are scattered around and amongst these comic elements, all set against a deep, dark midnight blue and black cosmic sky.",
+  "annotator": "cwhsu",
+  "objects": [
+    "retro comic strip panels (irregularly layered and overlapping)",
+    "halftone dots",
+    "classic speech bubbles",
+    "brightly colored, twinkling stars of different sizes (scattered around and amongst comic elements)",
+    "deep, dark midnight blue and black cosmic sky"
+  ],
+  "human_annotation": true
+}

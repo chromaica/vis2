@@ -1,0 +1,25 @@
+{
+  "subtopic": "Facial estimation and analysis",
+  "prompt": "Visualize facial estimation for the face from image 1. Overlay it with analysis graphics in the simplified style of image 2, related to computer graphics processing.",
+  "cond_images": [
+    "1.jpeg",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748421851418,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate an image that visually represents computer graphics facial estimation applied to the face from image 1. This visualization should feature overlaid elements such as facial landmarks, a bounding box, or a wireframe mesh. Integrate additional analysis graphics, like data flow indicators or processing metrics, designed to illustrate the underlying computer graphics processing. All these overlaid graphical elements\u2014both the facial estimation and analysis components\u2014must be rendered in the simplified, flat, and clean vector art style of image 2, characterized by crisp lines, solid colors, and an absence of photorealistic textures or complex shading.",
+  "annotator": "winston",
+  "objects": [
+    "Face from image 1",
+    "Overlaid facial landmarks in vector art style",
+    "Overlaid bounding box in vector art style",
+    "Overlaid wireframe mesh in vector art style",
+    "Data flow indicators in vector art style",
+    "Processing metrics in vector art style"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

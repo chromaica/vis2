@@ -1,0 +1,24 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Traditional art",
+  "prompt": "Traditional Chinese ink painting of mountains details",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "https://www.ukposters.co.uk/mountain-range-in-the-mist-chinese-ink-wash-painting-copy-space-16-9-f677056592?idv=54400&canvas=2&size=70",
+  "prompt_refined": "Generate a new artwork in the style of a traditional Chinese ink wash painting, drawing inspiration from image 1. Depict a grand, detailed mountain landscape with majestic, craggy peaks emerging from a pervasive, soft mist. A tranquil body of water should occupy the lower part of the composition, with some rocky islets adorned with sparse, dark pine trees. Ensure atmospheric perspective creates depth, showing distinct foreground mountains with sharp ink details, while more distant peaks appear lighter and hazier in the background.",
+  "annotator": "Johnny",
+  "objects": [
+    "Grand mountain landscape",
+    "Majestic, craggy peaks",
+    "Pervasive, soft mist",
+    "Tranquil body of water in the lower part of the composition",
+    "Rocky islets",
+    "Sparse, dark pine trees on islets",
+    "Foreground mountains with sharp ink details",
+    "Distant peaks appearing lighter and hazier in the background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

@@ -1,0 +1,30 @@
+{
+  "subtopic": "Posters",
+  "prompt": "Modify the poster in image 1. Change the main title \"MUSIC FESTIVAL\" to use the gothic script font style from image 2. Change the text \"FREE ENTRY\" to use the bold, blocky font style from image 3.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1750178594183,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "T",
+  "prompt_refined": "Edit the poster in image 1. Change the prominent, centered main title 'MUSIC FESTIVAL' to the gothic script font style from image 2. Also, modify the 'FREE ENTRY' text, located at the bottom of the poster, to use the bold, blocky font style from image 3.",
+  "annotator": "winston",
+  "objects": [
+    "hands holding poster",
+    "poster with purple, orange, and yellow gradient background with organic shapes",
+    "\"MUSIC FESTIVAL\" text in gothic script font",
+    "\"CLUB NAME\" text on poster",
+    "\"PRESENTS\" text on poster",
+    "\"DJ VECTOR . ROCK BAND . JAZZ . AFROBEAT . BLUES\" text on poster",
+    "\"AUG 25/4PM\" text on poster",
+    "\"FREE ENTRY\" text in bold, blocky font",
+    "small social media and location icons on poster",
+    "white brick wall background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

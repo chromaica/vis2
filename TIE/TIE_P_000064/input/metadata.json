@@ -1,0 +1,18 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "remove all the lichin from the tree",
+  "cond_images": [
+    "1.jpeg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1: Remove all the lichen from the tree bark.",
+  "annotator": "theblackcat",
+  "objects": [
+    "tree bark",
+    "lichen (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

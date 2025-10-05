@@ -1,0 +1,25 @@
+{
+  "task": "SRIG",
+  "topic": "A",
+  "subtopic": "Cultural or Heritage art",
+  "prompt": "Chinese landscape painting with the reference bird flying in the sky.",
+  "cond_images": [
+    "1.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a new image depicting a traditional Chinese landscape painting. Within this landscape, specifically in the sky area, render a single bird in flight. This bird should strongly resemble the species, color, and artistic style of the birds presented in image 1. The landscape should feature elements characteristic of traditional Chinese ink wash painting, such as distant misty mountains, serene clouds, and possibly sparse trees or water features, with the bird prominently placed soaring in the upper-mid section of the composition.",
+  "annotator": "Johnny",
+  "objects": [
+    "Traditional Chinese landscape painting scene",
+    "Sky",
+    "Single bird in flight (in the upper-mid section of the composition)",
+    "Bird's species, color, and artistic style resembling the birds in image 1",
+    "Distant misty mountains",
+    "Serene clouds",
+    "Sparse trees",
+    "Water features",
+    "Overall artistic style of traditional Chinese ink wash painting"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

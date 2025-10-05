@@ -1,0 +1,26 @@
+{
+  "task": "TIE",
+  "topic": "P",
+  "subtopic": "Microscopic imagery",
+  "prompt": "generate a zoomout versions of the coprimus mushroom found in the reference image",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 to create a photorealistic, zoomed-out view of the Coprinus mushroom. The output should display the complete macroscopic mushroom in its natural environment, visually representing what the microscopic internal structures in image 1 are a part of.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Coprinus mushroom",
+    "Mushroom cap",
+    "Mushroom stem",
+    "Mushroom gills",
+    "Natural ground",
+    "Soil",
+    "Leaf litter",
+    "Moss",
+    "Background foliage",
+    "Natural lighting"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

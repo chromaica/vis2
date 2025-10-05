@@ -1,0 +1,23 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Turn Pikachu into a surprised cat instead, with the same expression.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Transform the surprised Pikachu into a surprised cat, retaining the exact same wide-eyed, open-mouthed expression and overall surprised appearance. Maintain the meme's original text ('Waiter: here is your check Me:') at the top and the existing background and composition.",
+  "annotator": "matina",
+  "objects": [
+    "surprised cat",
+    "wide-eyed expression on the cat",
+    "open-mouthed expression on the cat",
+    "\"Waiter: here is your check\" text at the top",
+    "\"Me:\" text at the top",
+    "green background",
+    "Pikachu (should not be present)"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

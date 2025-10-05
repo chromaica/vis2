@@ -1,0 +1,24 @@
+{
+  "subtopic": "Cultural or Heritage art",
+  "prompt": "In image 1, change the color of the cultural artwork relief sculpture to match the vibrant green color from image 2. Apply this new color while preserving the texture and details of the relief.",
+  "cond_images": [
+    "1.png",
+    "2.png"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1748709798080,
+  "promptLengthUsed": "medium",
+  "task": "SRIE",
+  "topic": "A",
+  "prompt_refined": "Edit image 1. Change the color of the cultural artwork relief sculpture to the vibrant green hue from image 2, ensuring all existing texture and intricate details of the relief are completely preserved.",
+  "annotator": "kellycyy",
+  "objects": [
+    "cultural artwork relief sculpture",
+    "vibrant green color on the sculpture",
+    "intricate details on the sculpture",
+    "texture on the sculpture",
+    "light-colored wall"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

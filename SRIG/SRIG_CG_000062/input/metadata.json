@@ -1,0 +1,26 @@
+{
+  "subtopic": "Game assets",
+  "prompt": "Generate an isometric pixel art game asset of a vintage server rack or network hub, adopting the chunky pixel style and perspective of the reference image for a retro computer graphics game.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "https://img.itch.zone/aW1nLzMzOTYzODMucG5n/315x250%23c/9SVQ1i.png",
+  "promptGeneratedTimestamp": 1748768611602,
+  "promptLengthUsed": "medium",
+  "task": "SRIG",
+  "topic": "CG",
+  "prompt_refined": "Generate an isometric pixel art game asset depicting a vintage server rack or network hub. The asset must strictly adhere to the chunky pixel style, color palette, and isometric perspective presented in image 1, designed as a component for a retro computer graphics game.",
+  "annotator": "ishengfang",
+  "objects": [
+    "vintage server rack",
+    "network hub",
+    "isometric perspective",
+    "chunky pixel art style",
+    "retro color palette (beige, dark grey, dark red/purple tones)",
+    "front panel with details",
+    "indicator lights",
+    "buttons",
+    "ports/connectors"
+  ],
+  "human_annotation": true
+}

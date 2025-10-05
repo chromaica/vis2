@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "P",
+  "subtopic": "Astronomical images",
+  "prompt": "A nebula with intricate, colorful formations resembling swirling clouds of gas and dust, painted vividly with pinks, blues, and purples.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a photorealistic image of a vast and intricate nebula. It should depict luminous, swirling clouds of cosmic gas and dust, forming delicate, colorful formations. A brilliant, glowing core of vivid pink and purple hues is centrally located, with expansive streams of deep blue and rich purple swirling outwards. Emphasize the ethereal beauty, immense cosmic scale, and high-resolution detail, resembling advanced astrophotography.",
+  "annotator": "cwhsu",
+  "objects": [
+    "vast nebula",
+    "luminous clouds of cosmic gas and dust",
+    "swirling formations of cosmic gas and dust",
+    "delicate colorful formations within the nebula",
+    "brilliant glowing core",
+    "centrally located core",
+    "core with vivid pink hues",
+    "core with vivid purple hues",
+    "expansive streams of deep blue swirling outwards",
+    "expansive streams of rich purple swirling outwards"
+  ]
+}

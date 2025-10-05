@@ -1,0 +1,16 @@
+{
+  "task": "TIG",
+  "topic": "CG",
+  "subtopic": "VFX and Particles",
+  "prompt": "A 2D fantasy spell casting effect, with spiraling particles of light, magical runes, and glowing symbols.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a dynamic 2D fantasy spell casting effect. Bright, ethereal particles of light should spiral outwards from a central point, surrounded by intricate, glowing magical runes and shimmering arcane symbols that gracefully orbit.",
+  "annotator": "maxku",
+  "objects": [
+    "bright, ethereal particles of light",
+    "central point (of the spell effect)",
+    "intricate, glowing magical runes",
+    "shimmering arcane symbols"
+  ]
+}

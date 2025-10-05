@@ -1,0 +1,27 @@
+{
+  "task": "MRIE",
+  "topic": "I",
+  "subtopic": "UI mockups",
+  "prompt": "Edit image 1 to create a dynamic game UI mockup. Overlay the battle action menu graphic from image 3 onto the scene. Add character status displays, dialogue boxes, and visual flourishes using the aggressive, angular red and black UI style found in image 2.",
+  "cond_images": [
+    "1.png",
+    "2.png",
+    "3.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1 to create a dynamic game user interface (UI) battle mockup. Overlay the battle action menu graphic from image 3 onto the mid-left area of the scene, mirroring its functional position as seen in image 2. In the bottom-right corner, add multiple character status displays, including health (HP) and spirit (SP) bars and small character portraits, styled with the aggressive, angular red and black aesthetic from image 2. Place a dialogue box in the top-right corner, featuring a character portrait, following the same angular red and black UI style. Integrate additional dynamic visual flourishes across the screen, such as sharp red lines, glowing energy effects, and text overlays, especially in the lower-central part of the interface, all consistent with the distinctive red and black, angular UI design found throughout image 2.",
+  "annotator": "maxku",
+  "objects": [
+    "Battle action menu graphic from image 3 in mid-left area",
+    "Multiple character status displays in bottom-right corner",
+    "Health (HP) bars",
+    "Spirit (SP) bars",
+    "Small character portraits",
+    "Dialogue box in top-right corner",
+    "Character portrait within dialogue box",
+    "Sharp red lines as dynamic visual flourishes",
+    "Glowing energy effects as dynamic visual flourishes",
+    "Text overlays, especially in the lower-central part of the interface"
+  ],
+  "human_annotation": true
+}

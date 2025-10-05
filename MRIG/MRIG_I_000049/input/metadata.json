@@ -1,0 +1,23 @@
+{
+  "subtopic": "Maps",
+  "prompt": "Generate a US map visualization. Use the county division base map structure from image 1. Overlay a road network similar to image 2, adopting its dark background and bright red/green color scheme for data representation.",
+  "cond_images": [
+    "1.png",
+    "2.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1752290318383,
+  "promptLengthUsed": "medium",
+  "task": "MRIG",
+  "topic": "I",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a US map visualization. Use the detailed county division outlines of the continental United States as the underlying base map, referencing the structure from image 1. Overlay this base map with a comprehensive road network, mimicking the style and density shown in image 2. The entire visualization should adopt the dark background color of image 2. The overlaid road network should be depicted using the bright red and vibrant green color scheme for data representation, as exemplified in image 2.",
+  "objects": [
+    "Map of the continental United States",
+    "Detailed county division outlines (as the underlying base map)",
+    "Comprehensive road network (overlaid on the base map)",
+    "Dark background",
+    "Bright red road segments",
+    "Vibrant green road segments"
+  ]
+}

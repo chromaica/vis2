@@ -1,0 +1,21 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Branding and visual identity",
+  "prompt": "Have each letter of \u2018GUCCI\u2019 rotate 180 degree.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Rotate each letter of the 'GUCCI' sign 180 degrees around its individual center point, causing the 'G' to appear upside down while the 'U', 'C', and 'I' letters maintain their original upright appearance as a 180-degree rotation does not visually alter them.",
+  "annotator": "matina",
+  "objects": [
+    "GUCCI sign with an upside-down 'G'",
+    "Arched light frames",
+    "Green foliage",
+    "Dark building",
+    "Night sky",
+    "Building windows",
+    "Reddish foliage"
+  ]
+}

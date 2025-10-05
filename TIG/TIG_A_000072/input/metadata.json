@@ -1,0 +1,22 @@
+{
+  "task": "TIG",
+  "topic": "A",
+  "subtopic": "oil paintings",
+  "prompt": "A timeless street scene of Paris at dusk, oil painted with soft, impressionistic strokes capturing the lively ambiance and glowing streetlights.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "A classic Parisian street scene at twilight, rendered as an oil painting with soft, impressionistic brushstrokes. The scene captures a lively, bustling ambiance, featuring indistinct figures strolling along the street. Warm light emanates from glowing, ornate streetlights, illuminating the foreground and casting a gentle glow on the surrounding historic Haussmann buildings. Emphasize visible, loose brushwork and shimmering light effects characteristic of Impressionism.",
+  "annotator": "cwhsu",
+  "objects": [
+    "Classic Parisian street scene",
+    "Historic Haussmann buildings",
+    "Twilight sky",
+    "Indistinct figures strolling along the street",
+    "Glowing, ornate streetlights",
+    "Warm light illuminating the foreground",
+    "Gentle glow on surrounding buildings",
+    "Oil painting style",
+    "Impressionistic brushstrokes",
+    "Shimmering light effects"
+  ]
+}

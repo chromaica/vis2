@@ -1,0 +1,16 @@
+{
+  "task": "TIG",
+  "topic": "I",
+  "subtopic": "Icons and symbols",
+  "prompt": "Design of a 'whisky brand for gen Z call Barel' shape arranged with large equal sized, big colorful dots, executed by a professional. Set against a black canvas, the design features bold, bright, harmonious color scheme, adding a playful yet refined texture, combines the spirit of creativity with the precision and elegance of professional design, making it both visually striking and endearingly imaginative.",
+  "cond_images": [],
+  "remarks": "",
+  "prompt_refined": "Generate a graphic design for a Gen Z whisky brand named 'Barel'. The central element is a stylized barrel shape. This 'Barel' shape is distinctly formed by or adorned with numerous large, equally sized, and vibrantly colorful dots. The dot pattern should convey a playful yet refined texture. The overall color palette for the dots is bold, bright, and harmonious. The design is presented against a clean black background, reflecting professional precision and elegant creativity, resulting in a visually striking and imaginative composition.",
+  "annotator": "theblackcat",
+  "objects": [
+    "Central stylized barrel shape",
+    "Numerous large, equally sized, vibrantly colorful dots (forming or adorning the barrel shape)",
+    "Clean black background"
+  ],
+  "human_annotation": true
+}

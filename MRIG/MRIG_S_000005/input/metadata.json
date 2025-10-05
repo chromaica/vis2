@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "S",
+  "subtopic": "Software interfaces",
+  "prompt": "Create a homepage screenshot of a video streaming app, displaying the movies from the first image in a grid layout and using the navigation bar from the second image.",
+  "cond_images": [
+    "1.png",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a new image depicting a homepage screenshot for a video streaming application. The central area of the screen should prominently display all 30 movie and TV show posters from image 1, arranged in a grid layout. On the left side of the screen, incorporate the dark-themed, open sidebar navigation menu from image 2, including its 'HBO GO' branding, hamburger menu icon, search icon at the top, and the vertical list of navigation categories such as 'Home', 'Series', and 'Movies'.",
+  "annotator": "paria",
+  "objects": [
+    "Homepage screenshot for a video streaming application",
+    "30 movie and TV show posters from image 1, arranged in a grid layout in the central area",
+    "Dark-themed, open sidebar navigation menu from image 2, on the left side of the screen",
+    "'HBO GO' branding in the sidebar",
+    "Hamburger menu icon at the top of the sidebar",
+    "Search icon at the top of the sidebar",
+    "'Home' navigation category in the sidebar",
+    "'Series' navigation category in the sidebar",
+    "'Movies' navigation category in the sidebar"
+  ],
+  "human_annotation": true
+}

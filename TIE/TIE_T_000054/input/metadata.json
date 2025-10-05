@@ -1,0 +1,20 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Typography",
+  "prompt": "Morph the stems of each letter into climbing vines with tiny leaves sprouting along the curves.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Transform the letterforms of each character in the word 'Kerning' into climbing vines. The vines should intricately follow the exact shape of each original letter, with tiny leaves sprouting along their winding contours, particularly evident on the curved segments of the letters.",
+  "annotator": "matina",
+  "objects": [
+    "The word 'Kerning' formed by climbing vines",
+    "Tiny leaves on the climbing vines",
+    "Light cream background",
+    "Green vertical line",
+    "Auxiliary typography graphic elements (dotted lines, blue bars, yellow bars, and arrows)",
+    "Original dark gray letters of 'Kerning' (should not be present)"
+  ]
+}

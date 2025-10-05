@@ -1,0 +1,25 @@
+{
+  "subtopic": "Astronomical images",
+  "prompt": "Edit image 1: Convert the moon to a full phase, incorporating the surface details and lighting style of image 2. Add the Earth from image 3 to the background as if viewed from space, maintaining photorealism.",
+  "cond_images": [
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg"
+  ],
+  "remarks": "",
+  "promptGeneratedTimestamp": 1749222802788,
+  "promptLengthUsed": "medium",
+  "task": "MRIE",
+  "topic": "P",
+  "prompt_refined": "Edit image 1, the half-moon image, by transforming the moon into a full phase. Integrate the surface details and overall lighting style from image 2 into the newly formed full moon. Additionally, add the Earth from image 3 into the background, positioned to appear as if viewed from space, maintaining photorealism for the entire composition.",
+  "annotator": "boris",
+  "objects": [
+    "Full moon",
+    "Moon surface details",
+    "Moon lighting style",
+    "Earth viewed from space",
+    "Space background"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

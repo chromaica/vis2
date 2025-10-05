@@ -1,0 +1,24 @@
+{
+  "task": "MRIG",
+  "topic": "P",
+  "subtopic": "Photography",
+  "prompt": "Generate a microwave oven with the style of a tortoise. The first reference image: a microwave oven. Shape it with the style of the second reference image: a tortoise with domed shell. The microwave should have a shell-like door, gear-shaped dials, and a bronze finish, set in an industrial loft kitchen.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "annotator": "htwong",
+  "prompt_refined": "Generate a photorealistic image of a microwave oven. This microwave should visually combine the functional elements of the Panasonic microwave in image 1 with the distinctive shape and domed shell of the large tortoise in image 2. Specifically, the microwave's door should resemble a tortoise shell, and its dials should be gear-shaped. The appliance should have a bronze finish and be positioned within an industrial loft kitchen.",
+  "objects": [
+    "Photorealistic microwave oven",
+    "Microwave door resembling a tortoise shell",
+    "Gear-shaped dials on the microwave",
+    "Bronze finish on the microwave",
+    "Microwave body with a domed tortoise-like shape",
+    "Functional control panel and display on the microwave",
+    "Industrial loft kitchen environment"
+  ],
+  "human_annotation": true,
+  "human_annotation_opensource": true
+}

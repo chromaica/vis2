@@ -1,0 +1,22 @@
+{
+  "task": "TIE",
+  "topic": "T",
+  "subtopic": "Memes",
+  "prompt": "Change slide 1 to \u2018Write feature\u2019, slide 2 to \u2018Write tests\u2019, slide 3 to \u2018Fix tests\u2019, and slide 4 to a giant red \u201cUnhandled Exception\u201d comic-style explosion.",
+  "cond_images": [
+    "1.png"
+  ],
+  "remarks": "",
+  "prompt_refined": "Edit image 1. Change the text on the whiteboard in the top-left panel to 'Write feature', the text on the whiteboard in the top-right panel to 'Write tests', and the text on the whiteboard in the bottom-left panel to 'Fix tests'. In the bottom-right panel, replace the whiteboard entirely with a giant red 'Unhandled Exception' comic-style explosion.",
+  "annotator": "matina",
+  "objects": [
+    "Gru character in top-left panel with pixel sunglasses",
+    "Whiteboard in top-left panel with text 'Write feature'",
+    "Gru character in top-right panel with cap",
+    "Whiteboard in top-right panel with text 'Write tests'",
+    "Gru character in bottom-left panel with troll face and sunglasses",
+    "Whiteboard in bottom-left panel with text 'Fix tests'",
+    "Gru character in bottom-right panel with red eyes and holding a gun",
+    "Giant red 'Unhandled Exception' comic-style explosion in bottom-right panel"
+  ]
+}

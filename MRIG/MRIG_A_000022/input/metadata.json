@@ -1,0 +1,25 @@
+{
+  "task": "MRIG",
+  "topic": "A",
+  "subtopic": "Cultural or Heritage art",
+  "prompt": "A traditional Japanese painting of a figure. Use the serene facial expression and features from the mask in image 1. Dress the figure in a garment featuring the ornate crane and cloud pattern from the kimono in image 2.",
+  "cond_images": [
+    "1.jpg",
+    "2.jpg"
+  ],
+  "remarks": "",
+  "prompt_refined": "Generate a traditional Japanese painting of a figure. The figure's face should reflect the pale complexion, delicate features, and serene, subtly smiling expression of the Noh mask in image 1. The figure is dressed in a traditional Japanese garment, such as a kimono, prominently displaying the vibrant orange-red base and the intricate pattern of white cranes, swirling clouds, and circular golden motifs from the kimono in image 2.",
+  "annotator": "samin",
+  "objects": [
+    "traditional Japanese painting style",
+    "figure",
+    "figure's face with pale complexion",
+    "figure's face with delicate features",
+    "figure's face with serene, subtly smiling expression",
+    "traditional Japanese garment (kimono)",
+    "kimono with vibrant orange-red base",
+    "kimono with white crane pattern",
+    "kimono with swirling cloud pattern",
+    "kimono with circular golden motifs"
+  ]
+}
